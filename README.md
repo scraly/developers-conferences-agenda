@@ -13,7 +13,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### May
 
-* 11-12: [Devoxx UK](http://www.devoxx.co.uk)
+* 11-12: [Devoxx UK](http://www.devoxx.co.uk) - London
+* 17-19: [Google I/O](https://events.google.com/io/) - USA (California) 
 
 ### June
 
