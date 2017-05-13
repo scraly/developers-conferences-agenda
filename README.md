@@ -64,3 +64,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 01: [dotJS](http://www.dotjs.io) - France
 
 ## 2018
+
+### April
+
+* 18-20: [Devoxx France](http://devoxx.fr/) - Paris
