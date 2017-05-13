@@ -21,6 +21,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### May
 
 * 08-11: [O'reilly oscon](https://conferences.oreilly.com/oscon/oscon-tx) - USA
+* 10-12: [Microsoft Build](https://build.microsoft.com/) - USA
 * 11-12: [Devoxx UK](http://www.devoxx.co.uk) - London
 * 11-12: [Riviera Dev](http://rivieradev.fr/) - France
 * 15: [Cluster Europe](https://clustereurope.org/) - France
@@ -37,15 +38,20 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### July
 
+* 17-19: [AnDevCon](http://www.andevcon.com/) - USA
+
 ### August
 
 ### September
 
+* 15: [Jug Summer Camp](http://www.jugsummercamp.org/) - France
 * 22-23: [FrontEnd Connect](http://www.frontend-connect.io/) - Poland 
 * 28: [DevFestToulouse](https://devfesttoulouse.fr) - France
 
 ### October
 
+* 1-5: [Java One](https://www.oracle.com/javaone/index.html) - USA
+* ?: [DroidCon Dubai](http://droidcon.ae/) - Dubai
 * 13-14: [DevFest Ukraine](https://devfest.ch/) - Ukraine
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - France
 * 20-21: [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) - France
