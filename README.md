@@ -1,11 +1,14 @@
 # Developers Conferences Agenda/List
 
-This repository list a maximum of conferences's date in order to help conferences organizers
+This repository list a maximum of conferences's date in order to help conferences organizers.
+
 As a conference organizer, we always ask us what will be the perfect date for the event?
+
 A data to take in account is the date of others events, but how to find this?
+
 I propose to you this github repository in order to list all conferences for developers in france, europe and world.
 
-You want yo contribute, add an event or your event? Perfect! Just do a PR in order to update this developers conferences agenda.
+You want to contribute, add an event or your event? Perfect! Just do a PR in order to update this developers conferences agenda.
 If everybody contribute to this repo, it can really help conferences organizer and another goal of this idea is to list a maximum of conferences for developers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
 
@@ -17,9 +20,13 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### May
 
+* 08-11: [O'reilly oscon](https://conferences.oreilly.com/oscon/oscon-tx) - USA
 * 11-12: [Devoxx UK](http://www.devoxx.co.uk) - London
 * 11-12: [Riviera Dev](http://rivieradev.fr/) - France
-* 17-19: [Google I/O](https://events.google.com/io/) - USA (California) 
+* 15: [Cluster Europe](https://clustereurope.org/) - France
+* 17-19: [Google I/O](https://events.google.com/io/) - USA (California)
+* 17-19: [J On The Beach](https://jonthebeach.com/) - Spain (Malaga)
+* 18-19: [NewCrafts](http://ncrafts.io/) - France
 
 ### June
 
@@ -34,6 +41,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### September
 
+* 22-23: [FrontEnd Connect](http://www.frontend-connect.io/) - Poland 
 * 28: [DevFestToulouse](https://devfesttoulouse.fr) - France
 
 ### October
