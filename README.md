@@ -35,6 +35,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 09: [DevFest Lille](https://devfest.gdglille.org/) - France
 * 21-22: [EclipseCon France](https://www.eclipsecon.org/france2017/) - France
 * 21-23: [Devoxx Poland](http://devoxx.pl) - Poland
+* 22: [Voxxed Days Luxembourg](https://voxxeddays.com/luxembourg/) - Luxembourg
 
 ### July
 
