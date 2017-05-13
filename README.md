@@ -45,8 +45,12 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### November
 
 * 01-03: [Devoxx Morocco](http://www.devoxx.ma) - Morocco
+* 06: [dotGo](http://www.dotgo.eu) - France
 * 06-10: [Devoxx Belgium](https://devoxx.be) - Belgium
+* 30: [dotCSS](http://www.dotcss.io) - France
 
 ### December
+
+* 01: [dotJS](http://www.dotjs.io) - France
 
 ## 2018
