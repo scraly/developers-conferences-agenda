@@ -24,6 +24,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 10-12: [Microsoft Build](https://build.microsoft.com/) - USA
 * 11-12: [Devoxx UK](http://www.devoxx.co.uk) - London
 * 11-12: [Riviera Dev](http://rivieradev.fr/) - France
+* 11-12: [Ace Conf](http://www.aceconf.com/) - Poland
 * 15: [Cluster Europe](https://clustereurope.org/) - France
 * 17-19: [Google I/O](https://events.google.com/io/) - USA (California)
 * 17-19: [J On The Beach](https://jonthebeach.com/) - Spain (Malaga)
