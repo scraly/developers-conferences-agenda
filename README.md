@@ -11,20 +11,24 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ## 2017
 
+### April
+
+* 25-28: [Craft Conf](https://craft-conf.com/) - Budapest
+
 ### May
 
 * 11-12: [Devoxx UK](http://www.devoxx.co.uk) - London
+* 11-12: [Riviera Dev](http://rivieradev.fr/) - France
 * 17-19: [Google I/O](https://events.google.com/io/) - USA (California) 
 
 ### June
 
+* 01-02: [Shift](http://shift.codeanywhere.com/) - Croatia
 * 09: [DevFest Lille](https://devfest.gdglille.org/) - France
 * 21-22: [EclipseCon France](https://www.eclipsecon.org/france2017/) - France
 * 21-23: [Devoxx Poland](http://devoxx.pl) - Poland
 
 ### July
-
-* 
 
 ### August
 
@@ -44,3 +48,5 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 06-10: [Devoxx Belgium](https://devoxx.be) - Belgium
 
 ### December
+
+## 2018
