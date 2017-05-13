@@ -40,6 +40,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 13-14: [DevFest Ukraine](https://devfest.ch/) - Ukraine
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - France
+* 20-21: [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) - France
 * 28-29: [DevFest Switzerland](https://devfest.ch/) - Switzerland
 
 ### November
@@ -47,6 +48,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 01-03: [Devoxx Morocco](http://www.devoxx.ma) - Morocco
 * 06: [dotGo](http://www.dotgo.eu) - France
 * 06-10: [Devoxx Belgium](https://devoxx.be) - Belgium
+* 29: [Agile Tour Paris](http://at2017.agiletour.org/paris.html) - France
 * 30: [dotCSS](http://www.dotcss.io) - France
 
 ### December
