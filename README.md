@@ -43,6 +43,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### July
 
+* 6-7: [Angular Camp](https://angularcamp.org/) - Spain
 * 17-19: [AnDevCon](http://www.andevcon.com/) - USA
 
 ### August
