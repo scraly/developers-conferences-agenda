@@ -26,6 +26,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-12: [Riviera Dev](http://rivieradev.fr/) - France
 * 11-12: [Ace Conf](http://www.aceconf.com/) - Poland
 * 15: [Cluster Europe](https://clustereurope.org/) - France
+* 16-17: [Codemotion Amsterdam](http://amsterdam2017.codemotionworld.com/) - Netherlands
 * 17-19: [Google I/O](https://events.google.com/io/) - USA (California)
 * 17-19: [J On The Beach](https://jonthebeach.com/) - Spain (Malaga)
 * 18-19: [NewCrafts](http://ncrafts.io/) - France
@@ -56,6 +57,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 1-5: [Java One](https://www.oracle.com/javaone/index.html) - USA
 * ?: [DroidCon Dubai](http://droidcon.ae/) - Dubai
 * 5-7: [ParisWeb](https://www.paris-web.fr/) - France
+* 12-13: [Codemotion Berlin](http://berlin2017.codemotionworld.com/) - Deutschland
 * 13-14: [DevFest Ukraine](https://devfest.ch/) - Ukraine
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - France
 * 20-21: [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) - France
