@@ -36,6 +36,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### June
 
 * 01-02: [Shift](http://shift.codeanywhere.com/) - Croatia
+* 07-09: [Web2Day](https://web2day.co/) - France
 * 09: [DevFest Lille](https://devfest.gdglille.org/) - France
 * 21-22: [EclipseCon France](https://www.eclipsecon.org/france2017/) - France
 * 21-23: [Devoxx Poland](http://devoxx.pl) - Poland
