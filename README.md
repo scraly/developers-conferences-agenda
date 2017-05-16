@@ -26,6 +26,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-12: [Riviera Dev](http://rivieradev.fr/) - France
 * 11-12: [Ace Conf](http://www.aceconf.com/) - Poland
 * 15: [Cluster Europe](https://clustereurope.org/) - France
+* 16-19: [React Europe](https://www.react-europe.org/) - France
 * 16-17: [Codemotion Amsterdam](http://amsterdam2017.codemotionworld.com/) - Netherlands
 * 17-19: [Google I/O](https://events.google.com/io/) - USA (California)
 * 17-19: [J On The Beach](https://jonthebeach.com/) - Spain (Malaga)
