@@ -64,6 +64,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 13-14: [DevFest Ukraine](https://devfest.ch/) - Ukraine
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - France
 * 20-21: [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) - France
+* 26-27: [Soft Shake](http://www.soft-shake.ch/) - Switzerland
 * 28-29: [DevFest Switzerland](https://devfest.ch/) - Switzerland
 
 ### November
