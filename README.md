@@ -65,6 +65,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 12-13: [Codemotion Berlin](http://berlin2017.codemotionworld.com/) - Deutschland
 * 13-14: [DevFest Ukraine](https://devfest.ch/) - Ukraine
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - France
+* 19-20: [GeeCon Prague](http://2017.geecon.cz) - Czech Republic
 * 20-21: [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) - France
 * 26-27: [Soft Shake](http://www.soft-shake.ch/) - Switzerland
 * 28-29: [DevFest Switzerland](https://devfest.ch/) - Switzerland
