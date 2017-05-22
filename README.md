@@ -55,6 +55,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 15: [Jug Summer Camp](http://www.jugsummercamp.org/) - France
 * 22-23: [FrontEnd Connect](http://www.frontend-connect.io/) - Poland 
 * 28: [DevFestToulouse](https://devfesttoulouse.fr) - France
+* 28-30: [Strange Loop](https://www.thestrangeloop.com/) - USA
 
 ### October
 
