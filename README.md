@@ -33,6 +33,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18-19: [NewCrafts](http://ncrafts.io/) - France
 * 19-20: [SudWeb](https://sudweb.fr/) - France
 * 22-23: [GitHub Satellite](https://githubuniverse.com/satellite/) - UK
+* 22-24: [Monitorama](http://monitorama.com/) - USA
 
 ### June
 
