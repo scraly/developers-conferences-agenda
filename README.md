@@ -40,6 +40,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 01-02: [Shift](http://shift.codeanywhere.com/) - Croatia
 * 07-09: [Web2Day](https://web2day.co/) - France
 * 09: [DevFest Lille](https://devfest.gdglille.org/) - France
+* 12-14: [GOTO Amsterdam](https://blog.gotocon.com/conferences/) - Amsterdam
 * 21-22: [EclipseCon France](https://www.eclipsecon.org/france2017/) - France
 * 21-23: [Devoxx Poland](http://devoxx.pl) - Poland
 * 22: [Voxxed Days Luxembourg](https://voxxeddays.com/luxembourg/) - Luxembourg
@@ -61,6 +62,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### October
 
 * 1-5: [Java One](https://www.oracle.com/javaone/index.html) - USA
+* 1-5: [GOTo Copenhagen](https://blog.gotocon.com/conferences/) - Danemark
 * ?: [DroidCon Dubai](http://droidcon.ae/) - Dubai
 * 5-7: [ParisWeb](https://www.paris-web.fr/) - France
 * 12-13: [Codemotion Berlin](http://berlin2017.codemotionworld.com/) - Deutschland
@@ -77,6 +79,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 02-03: [Scala IO](scala.io) - France
 * 06: [dotGo](http://www.dotgo.eu) - France
 * 06-10: [Devoxx Belgium](https://devoxx.be) - Belgium
+* 15-17: [GOTO Berlin](https://blog.gotocon.com/conferences/) - Deutschland
 * 29: [Agile Tour Paris](http://at2017.agiletour.org/paris.html) - France
 * 30: [dotCSS](http://www.dotcss.io) - France
 
