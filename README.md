@@ -88,4 +88,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### April
 
-* 18-20: [Devoxx France](http://devoxx.fr/) - Paris
+* 18-20: [Devoxx France](http://devoxx.fr/) - France
+
+### May
+
+* 17-18: [Newcrafts](http://ncrafts.io/) - France
