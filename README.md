@@ -66,6 +66,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 1-5: [GOTo Copenhagen](https://blog.gotocon.com/conferences/) - Danemark
 * ?: [DroidCon Dubai](http://droidcon.ae/) - Dubai
 * 5-7: [ParisWeb](https://www.paris-web.fr/) - France
+* 10-12: [GitHub Universe](https://githubuniverse.com/) - USA
 * 12-13: [Codemotion Berlin](http://berlin2017.codemotionworld.com/) - Deutschland
 * 13-14: [DevFest Ukraine](https://devfest.ch/) - Ukraine
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - France
