@@ -35,9 +35,12 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 22-23: [GitHub Satellite](https://githubuniverse.com/satellite/) - UK
 * 22-24: [Monitorama](http://monitorama.com/) - USA
 * 26-27: [JEEConf](http://jeeconf.com/) - Ukraine
+* 29-31: [NG Cruise](https://ngcruise.com/#/) - USA
+* 30-31: [jPrime](http://jprime.io/) - Bulgaria
 
 ### June
 
+* 01-02: [NG Cruise](https://ngcruise.com/#/) - USA
 * 01-02: [Shift](http://shift.codeanywhere.com/) - Croatia
 * 07-09: [Web2Day](https://web2day.co/) - France
 * 09: [DevFest Lille](https://devfest.gdglille.org/) - France
@@ -55,6 +58,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### September
 
+* 04: [GoogleDevExpert Summit](https://twitter.com/GoogleDevExpert) - USA
 * 15: [Jug Summer Camp](http://www.jugsummercamp.org/) - France
 * 22-23: [FrontEnd Connect](http://www.frontend-connect.io/) - Poland 
 * 28: [DevFestToulouse](https://devfesttoulouse.fr) - France
