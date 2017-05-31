@@ -43,6 +43,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 01-02: [NG Cruise](https://ngcruise.com/#/) - USA
 * 01-02: [Shift](http://shift.codeanywhere.com/) - Croatia
 * 07-09: [Web2Day](https://web2day.co/) - France
+* 08: [DevTalks](http://www.devtalks.ro/bucharest/) - Romania
 * 09: [DevFest Lille](https://devfest.gdglille.org/) - France
 * 12-14: [GOTO Amsterdam](https://blog.gotocon.com/conferences/) - Amsterdam
 * 21-22: [EclipseCon France](https://www.eclipsecon.org/france2017/) - France
@@ -61,7 +62,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 04: [GoogleDevExpert Summit](https://twitter.com/GoogleDevExpert) - USA
 * 15: [Jug Summer Camp](http://www.jugsummercamp.org/) - France
 * 22-23: [FrontEnd Connect](http://www.frontend-connect.io/) - Poland 
-* 28: [DevFestToulouse](https://devfesttoulouse.fr) - France
+* 28: [DevFest Toulouse](https://devfesttoulouse.fr) - France
 * 28-30: [Strange Loop](https://www.thestrangeloop.com/) - USA
 
 ### October
