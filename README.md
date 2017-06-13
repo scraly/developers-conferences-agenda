@@ -45,6 +45,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 07-09: [Web2Day](https://web2day.co/) - France
 * 08: [DevTalks](http://www.devtalks.ro/bucharest/) - Romania
 * 09: [DevFest Lille](https://devfest.gdglille.org/) - France
+* 12-13: [FinDEVr London](http://findevr.com/) - UK
 * 12-14: [GOTO Amsterdam](https://blog.gotocon.com/conferences/) - Amsterdam
 * 21-22: [EclipseCon France](https://www.eclipsecon.org/france2017/) - France
 * 21-23: [Devoxx Poland](http://devoxx.pl) - Poland
