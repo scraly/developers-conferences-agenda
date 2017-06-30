@@ -70,6 +70,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 1-5: [Java One](https://www.oracle.com/javaone/index.html) - USA
 * 1-5: [GOTo Copenhagen](https://blog.gotocon.com/conferences/) - Danemark
+* 3-4: [Microsoft #experiences17](https://experiences17.microsoft.fr/) - France
 * ?: [DroidCon Dubai](http://droidcon.ae/) - Dubai
 * 5-7: [ParisWeb](https://www.paris-web.fr/) - France
 * 10-12: [GitHub Universe](https://githubuniverse.com/) - USA
