@@ -76,6 +76,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 10-12: [GitHub Universe](https://githubuniverse.com/) - USA
 * 12-13: [Codemotion Berlin](http://berlin2017.codemotionworld.com/) - Deutschland
 * 13-14: [DevFest Ukraine](https://devfest.ch/) - Ukraine
+* 19: [Google Cloud Summit | Paris](https://cloudplatformonline.com/Summit-Paris-2017.html) - Paris 
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - France
 * 19-20: [GeeCon Prague](http://2017.geecon.cz) - Czech Republic
 * 20-21: [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) - France
