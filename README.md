@@ -85,11 +85,11 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### November
 
-* 01-03: [Devoxx Morocco](http://www.devoxx.ma) - Morocco
 * 02-03: [Scala IO](scala.io) - France
 * 06: [dotGo](http://www.dotgo.eu) - France
 * 06-10: [Devoxx Belgium](https://devoxx.be) - Belgium
 * 10: [BDXIO](http://bdx.io) - France
+* 14-16: [Devoxx Morocco](http://www.devoxx.ma) - Morocco
 * 15-17: [GOTO Berlin](https://blog.gotocon.com/conferences/) - Deutschland
 * 29: [Agile Tour Paris](http://at2017.agiletour.org/paris.html) - France
 * 30: [dotCSS](http://www.dotcss.io) - France
