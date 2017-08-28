@@ -60,11 +60,15 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### August
 
+* 30-01/09: [SREcon Europe](https://www.usenix.org/conference/srecon17europe) - Ireland
+
 ### September
 
 * 04: [GoogleDevExpert Summit](https://twitter.com/GoogleDevExpert) - USA
+* 5-6: [Google Developer Days Europe](https://developers.google.com/events/gdd-europe/) - Poland
 * 15: [Jug Summer Camp](http://www.jugsummercamp.org/) - France
-* 22-23: [FrontEnd Connect](http://www.frontend-connect.io/) - Poland 
+* 22-23: [FrontEnd Connect](http://www.frontend-connect.io/) - Poland
+* 23-24: [DevFest Lima](https://www.joinnus.com/PE/charlas-y-conferencias/lima-devfest-lima-2017-12475) - Peru
 * 28: [DevFest Toulouse](https://devfesttoulouse.fr) - France
 * 28-30: [Strange Loop](https://www.thestrangeloop.com/) - USA
 
@@ -82,6 +86,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 19: [Google Cloud Summit | Paris](https://cloudplatformonline.com/Summit-Paris-2017.html) - Paris 
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - France
 * 19-20: [GeeCon Prague](http://2017.geecon.cz) - Czech Republic
+* 19-20: [Voxxed Days Belgrade](https://belgrade.voxxeddays.com/) - Serbia
 * 20-21: [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) - France
 * 26-27: [Soft Shake](http://www.soft-shake.ch/) - Switzerland
 * 28-29: [DevFest Switzerland](https://devfest.ch/) - Switzerland
@@ -94,6 +99,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 10: [BDXIO](http://bdx.io) - France
 * 14-16: [Devoxx Morocco](http://www.devoxx.ma) - Morocco
 * 15-17: [GOTO Berlin](https://blog.gotocon.com/conferences/) - Deutschland
+* 27-01/12: [AWS re:Invent](https://reinvent.awsevents.com/) - USA
 * 29: [Agile Tour Paris](http://at2017.agiletour.org/paris.html) - France
 * 30: [dotCSS](http://www.dotcss.io) - France
 
