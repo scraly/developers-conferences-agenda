@@ -6,6 +6,8 @@ As a conference organizer, we always ask us what will be the perfect date for th
 
 A data to take in account is the date of others events, but how to find this?
 
+And as a developer, a technical lover, we want to have a calendar, we want to know when will be the next event.
+
 I propose to you this github repository in order to list all conferences for developers in france, europe and world.
 
 You want to contribute, add an event or your event? Perfect! Just do a PR in order to update this developers conferences agenda.
@@ -76,6 +78,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 10-12: [GitHub Universe](https://githubuniverse.com/) - USA
 * 12-13: [Codemotion Berlin](http://berlin2017.codemotionworld.com/) - Deutschland
 * 13-14: [DevFest Ukraine](https://devfest.ch/) - Ukraine
+* 16-19: [https://europe-2017.dockercon.com/](DockerCon Europe) - Danemark
 * 19: [Google Cloud Summit | Paris](https://cloudplatformonline.com/Summit-Paris-2017.html) - Paris 
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - France
 * 19-20: [GeeCon Prague](http://2017.geecon.cz) - Czech Republic
