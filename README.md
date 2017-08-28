@@ -106,8 +106,13 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### December
 
 * 01: [dotJS](http://www.dotjs.io) - France
+* 04-06: [ConFoo](https://confoo.ca/en) - Canada
 
 ## 2018
+
+### January
+
+* 24-27: [SnowCamp](http://snowcamp.io/fr/) - France
 
 ### April
 
