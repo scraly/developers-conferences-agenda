@@ -102,6 +102,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### April
 
+* ??-??: [MiXiT](https://mixitconf.org/) - France 
 * 18-20: [Devoxx France](http://devoxx.fr/) - France
 
 ### May
