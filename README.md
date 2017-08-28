@@ -113,6 +113,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### January
 
 * 24-27: [SnowCamp](http://snowcamp.io/fr/) - France
+* 29: [dotSwift](https://2018.dotswift.io/) - France 
 
 ### April
 
@@ -122,3 +123,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### May
 
 * 17-18: [Newcrafts](http://ncrafts.io/) - France
+* 31: [dotAI](https://2018.dotai.io/) - France
+
+### June
+
+* 01: [dotScale](https://2018.dotscale.io/) - France
