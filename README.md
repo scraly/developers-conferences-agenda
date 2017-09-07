@@ -89,6 +89,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 19-20: [GeeCon Prague](http://2017.geecon.cz) - Czech Republic
 * 19-20: [Voxxed Days Belgrade](https://belgrade.voxxeddays.com/) - Serbia
 * 20-21: [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) - France
+* 26-27: [Blend Web Mix](http://www.blendwebmix.com/) - France
 * 26-27: [Soft Shake](http://www.soft-shake.ch/) - Switzerland
 * 28-29: [DevFest Switzerland](https://devfest.ch/) - Switzerland
 
