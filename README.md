@@ -109,6 +109,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 01: [dotJS](http://www.dotjs.io) - France
 * 04-06: [ConFoo](https://confoo.ca/en) - Canada
+* 06-08: [KubeCon + CloudNativeCon North America 2017](http://events.linuxfoundation.org/events/kubecon-and-cloudnativecon-north-america) - USA
 
 ## 2018
 
@@ -117,17 +118,22 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 24-27: [SnowCamp](http://snowcamp.io/fr/) - France
 * 29: [dotSwift](https://2018.dotswift.io/) - France 
 
+### February
+
+* 03-04: [FOSDEM](https://fosdem.org/2018/) - Belgium
+
 ### March
 
 * 1-2: [GrafanaEu Con](https://grafana.com/) - Netherlands
 
 ### April
 
-* ??-??: [MiXiT](https://mixitconf.org/) - France 
+* 18-20: [MiXiT](https://mixitconf.org/) - France 
 * 18-20: [Devoxx France](http://devoxx.fr/) - France
 
 ### May
 
+* 02-04: [KubeCon + CloudNativeCon Europe 2018](http://events.linuxfoundation.org/events/kubecon-and-cloudnativecon-europe) - Denmark
 * 17-18: [Newcrafts](http://ncrafts.io/) - France
 * 31: [dotAI](https://2018.dotai.io/) - France
 
