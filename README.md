@@ -70,6 +70,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 15: [Jug Summer Camp](http://www.jugsummercamp.org/) - France
 * 22-23: [FrontEnd Connect](http://www.frontend-connect.io/) - Poland
 * 23-24: [DevFest Lima](https://www.joinnus.com/PE/charlas-y-conferencias/lima-devfest-lima-2017-12475) - Peru
+* 23-24: [DevFest Siberia](https://gdg-siberia.com/) - Russia
 * 28: [DevFest Toulouse](https://devfesttoulouse.fr) - France
 * 28-30: [Strange Loop](https://www.thestrangeloop.com/) - USA
 
