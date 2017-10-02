@@ -76,14 +76,14 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### October
 
 * 1-5: [Java One](https://www.oracle.com/javaone/index.html) - USA
-* 1-5: [GOTo Copenhagen](https://blog.gotocon.com/conferences/) - Danemark
+* 1-5: [GOTo Copenhagen](https://blog.gotocon.com/conferences/) - Denmark
 * 3-4: [Microsoft #experiences17](https://experiences17.microsoft.fr/) - France
 * ?: [DroidCon Dubai](http://droidcon.ae/) - Dubai
 * 5-7: [ParisWeb](https://www.paris-web.fr/) - France
 * 10-12: [GitHub Universe](https://githubuniverse.com/) - USA
 * 12-13: [Codemotion Berlin](http://berlin2017.codemotionworld.com/) - Deutschland
 * 13-14: [DevFest Ukraine](https://devfest.ch/) - Ukraine
-* 16-19: [DockerCon Europe](https://europe-2017.dockercon.com/) - Danemark
+* 16-19: [DockerCon Europe](https://europe-2017.dockercon.com/) - Denmark
 * 19: [Google Cloud Summit | Paris](https://cloudplatformonline.com/Summit-Paris-2017.html) - Paris 
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - France
 * 19-20: [GeeCon Prague](http://2017.geecon.cz) - Czech Republic
