@@ -142,3 +142,4 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### June
 
 * 01: [dotScale](https://2018.dotscale.io/) - France
+* 07-08: [Best Of Web](http://bestofweb.paris/) - France
