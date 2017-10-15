@@ -143,3 +143,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 01: [dotScale](https://2018.dotscale.io/) - France
 * 07-08: [Best Of Web](http://bestofweb.paris/) - France
+
+### October
+
+* 12-13: [DevFest Ukraine 2018](https://devfest.gdg.org.ua/2018) - Ukraine
