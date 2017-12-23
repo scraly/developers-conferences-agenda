@@ -139,6 +139,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 02-04: [KubeCon + CloudNativeCon Europe 2018](http://events.linuxfoundation.org/events/kubecon-and-cloudnativecon-europe) - Denmark
 * 17-18: [Newcrafts](http://ncrafts.io/) - France
 * 31: [dotAI](https://2018.dotai.io/) - France
+* 31-02: [Gopher Con Iceland](https://gophercon.is/) - Iceland
 
 ### June
 
