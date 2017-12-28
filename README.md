@@ -128,6 +128,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### March
 
 * 1-2: [GrafanaEu Con](https://grafana.com/) - Netherlands
+* 20: [Day of Cloud native](https://www.code-conf.com/dcn/) - Oslo
 
 ### April
 
