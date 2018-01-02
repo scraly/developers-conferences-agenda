@@ -27,6 +27,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### February
 
+* 02: [Cluster Europe](https://clustereurope.org/) - France
 * 03-04: [FOSDEM](https://fosdem.org/2018/) - Belgium
 * 19-21: [DevOps Gathering 2018](https://devops-gathering.io/) - Germany
 * 23: [Touraine Tech](https://touraine.tech/) - France
@@ -51,19 +52,34 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 02-03: [VoxxedDays Melbourne](https://voxxeddays.com/) - Australia
 * 02-04: [KubeCon + CloudNativeCon Europe 2018](http://events.linuxfoundation.org/events/kubecon-and-cloudnativecon-europe) - Denmark
+* 08-09: [Codemotion Amsterdam](http://amsterdam2017.codemotionworld.com/) - Netherlands
+* 08-11: [Craft Conf](https://craft-conf.com/) - Budapest
 * 09-11: [Devoxx UK](http://devoxx.com) - UK
+* 16-18: [Riviera Dev](http://rivieradev.fr/) - France
 * 17-18: [Newcrafts](http://ncrafts.io/) - France
+* 17-18: [Ace Conf](http://www.aceconf.com/) - Poland
+* 17-18: [React Europe](https://www.react-europe.org/) - France
+* 18-19: [JEEConf](http://jeeconf.com/) - Ukraine
+* 29-30: [jPrime](http://jprime.io/) - Bulgaria
+* 23-25: [J On The Beach](https://jonthebeach.com/) - Spain (Malaga)
 * 26: [VoxxedDays Minsk](https://voxxeddays.com/) - Belarus
 * 31: [dotAI](https://2018.dotai.io/) - France
+* 31: [Shift](http://shift.codeanywhere.com/) - Croatia
 * 31-02: [Gopher Con Iceland](https://gophercon.is/) - Iceland
 
 ### June
 
 * 01: [dotScale](https://2018.dotscale.io/) - France
 * 01: [VoxxedDays Singapore](https://voxxeddays.com/) - Singapore
+* 04-06: [Monitorama](http://monitorama.com/) - USA
 * 07-08: [Best Of Web](http://bestofweb.paris/) - France
+* 08: [DevTalks](http://www.devtalks.ro/bucharest/) - Romania
+* 13-14: [EclipseCon France](https://www.eclipsecon.org/france2018/) - France
+* 13-15: [Web2Day](https://web2day.co/) - France
 * 20-22: [Devoxx Poland](https://devoxx.com) - Poland
+* 21: [DevFest Lille](https://devfest.gdglille.org/) - France
 * 22: [VoxxedDays Luxembourg](https://voxxeddays.com/) - Luxembourg
+* xx: [GitHub Satellite](https://githubuniverse.com/satellite/) - Japan
 
 ### October
 
