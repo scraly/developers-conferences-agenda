@@ -130,25 +130,35 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 1-2: [GrafanaEu Con](https://grafana.com/) - Netherlands
 * 1-2: [ngVikings](https://ngvikings.org/) - Helsinki
+* 8: [VoxxedDays Zurich](https://voxxeddays.com/) - Switzerland
+* 12-13: [VoxxedDays Vienna](https://voxxeddays.com/) - Austria
+* 12-13: [VoxxedDays Bristol](https://voxxeddays.com/) - UK
 * 20: [Day of Cloud native](https://www.code-conf.com/dcn/) - Oslo
+* 22-23: [VoxxedDays Bucharest](https://voxxeddays.com/) - Romania
 * 28-30: [BreizhCamp](http://www.breizhcamp.org/) - France
 
 ### April
 
 * 18-20: [MiXiT](https://mixitconf.org/) - France 
-* 18-20: [Devoxx France](http://devoxx.fr/) - France
+* 18-20: [Devoxx France](https://devoxx.fr/) - France
 
 ### May
 
+* 02-03: [VoxxedDays Melbourne](https://voxxeddays.com/) - Australia
 * 02-04: [KubeCon + CloudNativeCon Europe 2018](http://events.linuxfoundation.org/events/kubecon-and-cloudnativecon-europe) - Denmark
+* 09-11: [Devoxx UK](http://devoxx.com) - UK
 * 17-18: [Newcrafts](http://ncrafts.io/) - France
+* 26: [VoxxedDays Minsk](https://voxxeddays.com/) - Belarus
 * 31: [dotAI](https://2018.dotai.io/) - France
 * 31-02: [Gopher Con Iceland](https://gophercon.is/) - Iceland
 
 ### June
 
 * 01: [dotScale](https://2018.dotscale.io/) - France
+* 01: [VoxxedDays Singapore](https://voxxeddays.com/) - Singapore
 * 07-08: [Best Of Web](http://bestofweb.paris/) - France
+* 20-22: [Devoxx Poland](https://devoxx.com) - Poland
+* 22: [VoxxedDays Luxembourg](https://voxxeddays.com/) - Luxembourg
 
 ### October
 
