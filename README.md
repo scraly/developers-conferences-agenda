@@ -22,6 +22,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### January
 
+* 18-19: [DevOpsDays NYC](https://www.eventbrite.com/e/devopsdays-nyc-2018-tickets-39330760363) - USA
 * 24-27: [SnowCamp](http://snowcamp.io/fr/) - France
 * 29: [dotSwift](https://2018.dotswift.io/) - France
 
