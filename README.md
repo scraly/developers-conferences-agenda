@@ -30,6 +30,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 02: [Cluster Europe](https://clustereurope.org/) - France
 * 03-04: [FOSDEM](https://fosdem.org/2018/) - Belgium
+* 15: [Serverlessconf Paris](http://paris.serverlessconf.io) - France
 * 19-21: [DevOps Gathering 2018](https://devops-gathering.io/) - Germany
 * 23: [Touraine Tech](https://touraine.tech/) - France
 
