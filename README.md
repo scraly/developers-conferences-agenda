@@ -64,6 +64,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 17-18: [Newcrafts](http://ncrafts.io/) - France
 * 17-18: [Ace Conf](http://www.aceconf.com/) - Poland
 * 17-18: [React Europe](https://www.react-europe.org/) - France
+* 17-18: [PHP Tour](https://event.afup.org/) - France (Montpellier)
 * 18-19: [JEEConf](http://jeeconf.com/) - Ukraine
 * 29-30: [jPrime](http://jprime.io/) - Bulgaria
 * 23-25: [J On The Beach](https://jonthebeach.com/) - Spain (Malaga)
