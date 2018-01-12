@@ -68,6 +68,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18-19: [JEEConf](http://jeeconf.com/) - Ukraine
 * 29-30: [jPrime](http://jprime.io/) - Bulgaria
 * 23-25: [J On The Beach](https://jonthebeach.com/) - Spain (Malaga)
+* 25-26: [Sud Web](https://sudweb.fr/2018/) - France
 * 26: [VoxxedDays Minsk](https://voxxeddays.com/) - Belarus
 * 31: [dotAI](https://2018.dotai.io/) - France
 * 31: [Shift](http://shift.codeanywhere.com/) - Croatia
