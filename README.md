@@ -89,6 +89,9 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 28-29: [Sunny Tech](https://sunny-tech.io/) - France
 * xx: [GitHub Satellite](https://githubuniverse.com/satellite/) - Japan
 
+### July
+
+* 24-27: [Google Cloud Next 18](https://cloud.withgoogle.com/next18/) - USA
 ### October
 
 * 12-13: [DevFest Ukraine 2018](https://devfest.gdg.org.ua/2018) - Ukraine
