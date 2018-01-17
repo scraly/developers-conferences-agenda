@@ -92,6 +92,11 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### July
 
 * 24-27: [Google Cloud Next 18](https://cloud.withgoogle.com/next18/) - USA
+
+### September
+
+* 16-19: [Jenkins World USA](https://www.cloudbees.com/jenkinsworld/home) - USA
+
 ### October
 
 * 12-13: [DevFest Ukraine 2018](https://devfest.gdg.org.ua/2018) - Ukraine
