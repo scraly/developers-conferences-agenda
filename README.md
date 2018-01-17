@@ -66,10 +66,11 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 17-18: [React Europe](https://www.react-europe.org/) - France
 * 17-18: [PHP Tour](https://event.afup.org/) - France (Montpellier)
 * 18-19: [JEEConf](http://jeeconf.com/) - Ukraine
-* 29-30: [jPrime](http://jprime.io/) - Bulgaria
+* 23-25: [Container Camp AU](https://2018.container.camp/au/) - Australia (Melbourne)
 * 23-25: [J On The Beach](https://jonthebeach.com/) - Spain (Malaga)
 * 25-26: [Sud Web](https://sudweb.fr/2018/) - France
 * 26: [VoxxedDays Minsk](https://voxxeddays.com/) - Belarus
+* 29-30: [jPrime](http://jprime.io/) - Bulgaria
 * 31: [dotAI](https://2018.dotai.io/) - France
 * 31: [Shift](http://shift.codeanywhere.com/) - Croatia
 * 31-02: [Gopher Con Iceland](https://gophercon.is/) - Iceland
@@ -92,6 +93,11 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### July
 
 * 24-27: [Google Cloud Next 18](https://cloud.withgoogle.com/next18/) - USA
+
+### September
+
+* 06-07: [Container Camp UK](https://2018.container.camp/uk/) - UK (London)
+
 ### October
 
 * 12-13: [DevFest Ukraine 2018](https://devfest.gdg.org.ua/2018) - Ukraine
