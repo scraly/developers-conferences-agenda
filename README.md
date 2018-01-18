@@ -50,6 +50,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### April
 
+* 12: [ImageCon](http://www.imagecon.com/) - USA
 * 18-20: [MiXiT](https://mixitconf.org/) - France
 * 18-20: [Devoxx France](https://devoxx.fr/) - France
 
