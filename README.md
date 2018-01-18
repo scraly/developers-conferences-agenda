@@ -101,4 +101,5 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### October
 
+* 5-5: [KotlinConf 2018](https://www.kotlinconf.com) - Netherlands (Amsterdam)
 * 12-13: [DevFest Ukraine 2018](https://devfest.gdg.org.ua/2018) - Ukraine
