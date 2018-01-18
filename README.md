@@ -97,6 +97,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### September
 
 * 06-07: [Container Camp UK](https://2018.container.camp/uk/) - UK (London)
+* 16-19: [Jenkins World USA](https://www.cloudbees.com/jenkinsworld/home) - USA
 
 ### October
 
