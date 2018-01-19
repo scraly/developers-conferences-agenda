@@ -34,6 +34,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 15: [Serverlessconf Paris](http://paris.serverlessconf.io) - France
 * 15-16: [Frontend Love](http://frontenddeveloperlove.com) - Netherlands
 * 19-21: [DevOps Gathering 2018](https://devops-gathering.io/) - Germany
+* 22-23: [Lambda Days](http://www.lambdadays.org/lambdadays2018) - Poland (Kraków)
 * 23: [Touraine Tech](https://touraine.tech/) - France
 
 ### March
