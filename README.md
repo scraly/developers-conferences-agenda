@@ -56,6 +56,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 12: [ImageCon](http://www.imagecon.com/) - USA
 * 18-20: [MiXiT](https://mixitconf.org/) - France
 * 18-20: [Devoxx France](https://devoxx.fr/) - France
+* 19-20: [DroidCon Turin](http://it.droidcon.com/2018/) - Italia (Turin)
 
 ### May
 
