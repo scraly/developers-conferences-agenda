@@ -23,6 +23,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### January
 
 * 18-19: [DevOpsDays NYC](https://www.eventbrite.com/e/devopsdays-nyc-2018-tickets-39330760363) - USA
+* 22-26: [Linux Conf AU](http://linux.conf.au) - Australia (Sydney)
 * 23: [Azure Red Shirt Dev Tour](https://experiences.microsoft.fr/evenements/technique/azure-red-shirt-dev-tour/) - France (Paris)
 * 24-27: [SnowCamp](http://snowcamp.io/fr/) - France
 * 29: [dotSwift](https://2018.dotswift.io/) - France
