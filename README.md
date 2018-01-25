@@ -64,6 +64,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 02-03: [VoxxedDays Melbourne](https://voxxeddays.com/) - Australia
 * 02-04: [KubeCon + CloudNativeCon Europe 2018](http://events.linuxfoundation.org/events/kubecon-and-cloudnativecon-europe) - Denmark
 * 08-09: [Codemotion Amsterdam](http://amsterdam2017.codemotionworld.com/) - Netherlands
+* 08-10: [Google IO](http://google.com/io) - USA
 * 08-11: [Craft Conf](https://craft-conf.com/) - Budapest
 * 09-11: [Devoxx UK](http://devoxx.com) - UK
 * 16-18: [Riviera Dev](http://rivieradev.fr/) - France
