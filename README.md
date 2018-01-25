@@ -58,6 +58,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18-20: [MiXiT](https://mixitconf.org/) - France
 * 18-20: [Devoxx France](https://devoxx.fr/) - France (Paris)
 * 19-20: [DroidCon Turin](http://it.droidcon.com/2018/) - Italia (Turin)
+* 27: [Gotham Go](http://gothamgo.com) - USA (New York)
 
 ### May
 
