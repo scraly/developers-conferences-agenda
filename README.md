@@ -26,14 +26,14 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 22-26: [Linux Conf AU](http://linux.conf.au) - Australia (Sydney)
 * 23: [Azure Red Shirt Dev Tour](https://experiences.microsoft.fr/evenements/technique/azure-red-shirt-dev-tour/) - France (Paris)
 * 24-27: [SnowCamp](http://snowcamp.io/fr/) - France
-* 29: [dotSwift](https://2018.dotswift.io/) - France
+* 29: [dotSwift](https://2018.dotswift.io/) - France (Paris)
 
 ### February
 
-* 02: [Cluster Europe](https://clustereurope.org/) - France
+* 02: [Cluster Europe](https://clustereurope.org/) - France (Paris)
 * 03-04: [FOSDEM](https://fosdem.org/2018/) - Belgium
 * 8-10: [Sunshine PHP](http://2018.sunshinephp.com) - USA
-* 15: [Serverlessconf Paris](http://paris.serverlessconf.io) - France
+* 15: [Serverlessconf Paris](http://paris.serverlessconf.io) - France (Paris)
 * 15-16: [Frontend Love](http://frontenddeveloperlove.com) - Netherlands
 * 19-21: [DevOps Gathering 2018](https://devops-gathering.io/) - Germany
 * 22-23: [Lambda Days](http://www.lambdadays.org/lambdadays2018) - Poland (Kraków) 
@@ -56,7 +56,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 12: [ImageCon](http://www.imagecon.com/) - USA
 * 18-20: [MiXiT](https://mixitconf.org/) - France
-* 18-20: [Devoxx France](https://devoxx.fr/) - France
+* 18-20: [Devoxx France](https://devoxx.fr/) - France (Paris)
 * 19-20: [DroidCon Turin](http://it.droidcon.com/2018/) - Italia (Turin)
 
 ### May
@@ -77,13 +77,13 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 25-26: [Sud Web](https://sudweb.fr/2018/) - France
 * 26: [VoxxedDays Minsk](https://voxxeddays.com/) - Belarus
 * 29-30: [jPrime](http://jprime.io/) - Bulgaria
-* 31: [dotAI](https://2018.dotai.io/) - France
+* 31: [dotAI](https://2018.dotai.io/) - France (Paris)
 * 31: [Shift](http://shift.codeanywhere.com/) - Croatia
 * 31-02: [Gopher Con Iceland](https://gophercon.is/) - Iceland
 
 ### June
 
-* 01: [dotScale](https://2018.dotscale.io/) - France
+* 01: [dotScale](https://2018.dotscale.io/) - France (Paris)
 * 01: [VoxxedDays Singapore](https://voxxeddays.com/) - Singapore
 * 04-06: [Monitorama](http://monitorama.com/) - USA
 * 07-08: [Best Of Web](http://bestofweb.paris/) - France
@@ -92,7 +92,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 13-14: [EclipseCon France](https://www.eclipsecon.org/france2018/) - France
 * 13-15: [Web2Day](https://web2day.co/) - France
 * 20-22: [Devoxx Poland](https://devoxx.com) - Poland
-* 21: [DevFest Lille](https://devfest.gdglille.org/) - France
+* 21: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
 * 22: [VoxxedDays Luxembourg](https://voxxeddays.com/) - Luxembourg
 * 28-29: [Sunny Tech](https://sunny-tech.io/) - France
 * xx: [GitHub Satellite](https://githubuniverse.com/satellite/) - Japan
@@ -113,4 +113,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 3-5: [KotlinConf 2018](https://www.kotlinconf.com) - Netherlands (Amsterdam)
 * 12-13: [DevFest Ukraine 2018](https://devfest.gdg.org.ua/2018) - Ukraine
-* 18-19: [DevFest Nantes 2018](https://devfest.gdgnantes.com) - France
+* 18-19: [DevFest Nantes 2018](https://devfest.gdgnantes.com) - France (Nantes)
+* 22-24: [Hashi Conf](https://www.hashiconf.com/) - USA (San Francisco)
+
