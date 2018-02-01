@@ -69,6 +69,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 08-11: [Craft Conf](https://craft-conf.com/) - Budapest
 * 09-11: [Devoxx UK](http://devoxx.com) - UK
 * 16-18: [Riviera Dev](http://rivieradev.fr/) - France
+* 17: [DataXDay](http://dataxday.fr) - France (Paris)
 * 17-18: [Newcrafts](http://ncrafts.io/) - France
 * 17-18: [Ace Conf](http://www.aceconf.com/) - Poland
 * 17-18: [React Europe](https://www.react-europe.org/) - France
