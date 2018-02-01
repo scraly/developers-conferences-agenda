@@ -95,6 +95,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 13-15: [Web2Day](https://web2day.co/) - France
 * 20-22: [Devoxx Poland](https://devoxx.com) - Poland
 * 21: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
+* 21: [JHipster Conf](https://jhipster-conf.github.io) - France (Paris)
 * 22: [VoxxedDays Luxembourg](https://voxxeddays.com/) - Luxembourg
 * 28-29: [Sunny Tech](https://sunny-tech.io/) - France
 * xx: [GitHub Satellite](https://githubuniverse.com/satellite/) - Japan
