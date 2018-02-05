@@ -55,6 +55,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### April
 
 * 12: [ImageCon](http://www.imagecon.com/) - USA
+* 13-15: [Isle Of Ruby](https://isleofruby.org) - UK
 * 18-20: [MiXiT](https://mixitconf.org/) - France
 * 18-20: [Devoxx France](https://devoxx.fr/) - France (Paris)
 * 19-20: [DroidCon Turin](http://it.droidcon.com/2018/) - Italia (Turin)
