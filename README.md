@@ -98,6 +98,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 21: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
 * 21: [JHipster Conf](https://jhipster-conf.github.io) - France (Paris)
 * 22: [VoxxedDays Luxembourg](https://voxxeddays.com/) - Luxembourg
+* 26: [Paris Container Day](http://paris-container-day.fr/) - France
 * 28-29: [Sunny Tech](https://sunny-tech.io/) - France
 * xx: [GitHub Satellite](https://githubuniverse.com/satellite/) - Japan
 
@@ -112,6 +113,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 06-07: [Container Camp UK](https://2018.container.camp/uk/) - UK (London) 
 * 16-19: [Jenkins World USA](https://www.cloudbees.com/jenkinsworld/home) - USA
+* 20-21: [FrenchKit](http://frenchkit.fr/) - France
 
 ### October
 
