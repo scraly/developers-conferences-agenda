@@ -50,7 +50,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 20: [Day of Cloud native](https://www.code-conf.com/dcn/) - Oslo
 * 22-23: [VoxxedDays Bucharest](https://voxxeddays.com/) - Romania
 * 22-25: [FOSS Asia](http://fossasia.org) - Singapore
-* 28-30: [BreizhCamp](http://www.breizhcamp.org/) - France
+* 28-30: [BreizhCamp](http://www.breizhcamp.org/) - France (Rennes)
 * 29-30: [SymfonyLive Paris 2018](https://paris2018.live.symfony.com/) - France (Paris)
 
 ### April
