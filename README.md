@@ -30,23 +30,27 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### February
 
+* 01-02: [ng-europe](https://ngeurope.org/) - France (Paris)
 * 02: [Cluster Europe](https://clustereurope.org/) - France (Paris)
 * 03-04: [FOSDEM](https://fosdem.org/2018/) - Belgium
-* 8-10: [Sunshine PHP](http://2018.sunshinephp.com) - USA
+* 08-10: [Sunshine PHP](http://2018.sunshinephp.com) - USA
 * 15: [Serverlessconf Paris](http://paris.serverlessconf.io) - France (Paris)
 * 15-16: [Frontend Love](http://frontenddeveloperlove.com) - Netherlands
 * 19-21: [DevOps Gathering 2018](https://devops-gathering.io/) - Germany
 * 20-22: [IndexConf](http://indexconf.com) - USA (San Francisco)
 * 22-23: [Lambda Days](http://www.lambdadays.org/lambdadays2018) - Poland (Kraków) 
 * 23: [Touraine Tech](https://touraine.tech/) - France
+* 27-01: [Elastic{ON}](https://www.elastic.co/elasticon/conf/2018/sf) - USA (San Francisco)
 
 ### March
 
-* 1-2: [GrafanaEu Con](https://grafana.com/) - Netherlands
-* 1-2: [ngVikings](https://ngvikings.org/) - Helsinki
-* 8: [VoxxedDays Zurich](https://voxxeddays.com/) - Switzerland
+* 01-02: [GrafanaEu Con](https://grafana.com/) - Netherlands
+* 01-02: [ngVikings](https://ngvikings.org/) - Helsinki
+* 08: [VoxxedDays Zurich](https://voxxeddays.com/) - Switzerland
+* 09-13: [DrupalCon](https://events.drupal.org/) - USA (Nashville)
 * 12-13: [VoxxedDays Vienna](https://voxxeddays.com/) - Austria
 * 12-13: [VoxxedDays Bristol](https://voxxeddays.com/) - UK
+* 12-13: [Big Data Paris](https://www.bigdataparis.com/) - France (Paris)
 * 20: [Day of Cloud native](https://www.code-conf.com/dcn/) - Oslo
 * 22-23: [VoxxedDays Bucharest](https://voxxeddays.com/) - Romania
 * 22-25: [FOSS Asia](http://fossasia.org) - Singapore
@@ -57,9 +61,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 12: [ImageCon](http://www.imagecon.com/) - USA
 * 13-15: [Isle Of Ruby](https://isleofruby.org) - UK
-* 18-20: [MiXiT](https://mixitconf.org/) - France
+* 19-20: [MiXiT](https://mixitconf.org/) - France
 * 18-20: [Devoxx France](https://devoxx.fr/) - France (Paris)
 * 19-20: [DroidCon Turin](http://it.droidcon.com/2018/) - Italia (Turin)
+* 23-24: [Android Makers France](https://androidmakers.fr/) - France (Paris)
 * 27: [Gotham Go](http://gothamgo.com) - USA (New York)
 
 ### May
@@ -70,6 +75,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 08-10: [Google IO](http://google.com/io) - USA
 * 08-11: [Craft Conf](https://craft-conf.com/) - Budapest
 * 09-11: [Devoxx UK](http://devoxx.com) - UK
+* 15-17: [Innorobo](https://innorobo.com/en/home/) - France (Paris)
 * 16-18: [Riviera Dev](http://rivieradev.fr/) - France
 * 17: [DataXDay](http://dataxday.fr) - France (Paris)
 * 17-18: [Newcrafts](http://ncrafts.io/) - France
@@ -95,13 +101,15 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 08: [DevTalks](http://www.devtalks.ro/bucharest/) - Romania
 * 12-15: [DockerCon](https://2018.dockercon.com) - USA (San Francisco)
 * 13-14: [EclipseCon France](https://www.eclipsecon.org/france2018/) - France
-* 13-15: [Web2Day](https://web2day.co/) - France
+* 13-15: [Web2Day](https://web2day.co/) - France (Nantes)
 * 20-22: [Devoxx Poland](https://devoxx.com) - Poland
 * 21: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
 * 21: [JHipster Conf](https://jhipster-conf.github.io) - France (Paris)
 * 22: [VoxxedDays Luxembourg](https://voxxeddays.com/) - Luxembourg
 * 26: [Paris Container Day](http://paris-container-day.fr/) - France
+* 26-27: [MongoDB World](https://www.mongodb.com/world18) - USA (New York)
 * 28-29: [Sunny Tech](https://sunny-tech.io/) - France
+* 30-01: [La nuit du Hack](https://www.nuitduhack.com/fr) - France (Paris)
 * xx: [GitHub Satellite](https://githubuniverse.com/satellite/) - Japan
 
 ### July
@@ -114,6 +122,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### September
 
 * 06-07: [Container Camp UK](https://2018.container.camp/uk/) - UK (London) 
+* 14: [JUG Summer Camp](http://www.jugsummercamp.org/) - France (La Rochelle)
 * 16-19: [Jenkins World USA](https://www.cloudbees.com/jenkinsworld/home) - USA
 * 20-21: [FrenchKit](http://frenchkit.fr/) - France
 
@@ -121,6 +130,19 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 3-5: [KotlinConf 2018](https://www.kotlinconf.com) - Netherlands (Amsterdam)
 * 12-13: [DevFest Ukraine 2018](https://devfest.gdg.org.ua/2018) - Ukraine
+* 16: [DevOps REX](https://www.devopsrex.fr/) - France (Paris)
 * 18-19: [DevFest Nantes 2018](https://devfest.gdgnantes.com) - France (Nantes)
 * 22-24: [Hashi Conf](https://www.hashiconf.com/) - USA (San Francisco)
+
+### November
+
+* 12-16: [Devoxx Belgium](https://devoxx.be/) - Belgium (Antwerp)
+* xx: [Codeurs en Seine](http://www.codeursenseine.com/) - France (Rouen)
+* xx: [AppDays](https://2018.appdays.fr/) - France (Paris)
+* xx: [Scala.io](https://scala.io/) - France (Lyon)
+* xx: [XebiCon](http://xebicon.fr/) - France (Paris)
+
+### December
+
+* xx: [Paris Open Source Summit](http://www.opensourcesummit.paris/) - France (Paris)
 
