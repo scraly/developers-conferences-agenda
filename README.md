@@ -47,19 +47,23 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 01-02: [GrafanaEu Con](https://grafana.com/) - Netherlands
 * 01-02: [ngVikings](https://ngvikings.org/) - Helsinki
 * 08: [VoxxedDays Zurich](https://voxxeddays.com/) - Switzerland
+* 8: [Git Merge](https://git-merge.com) - Spain (Barcelona)
 * 09-13: [DrupalCon](https://events.drupal.org/) - USA (Nashville)
 * 12-13: [VoxxedDays Vienna](https://voxxeddays.com/) - Austria
 * 12-13: [VoxxedDays Bristol](https://voxxeddays.com/) - UK
 * 12-13: [Big Data Paris](https://www.bigdataparis.com/) - France (Paris)
 * 15: [pg Day Paris](https://2018.pgday.paris) - France (Paris)
+* 19: [Google Developer Day](https://events.withgoogle.com) - USA (San Francisco)
 * 20: [Day of Cloud native](https://www.code-conf.com/dcn/) - Oslo
 * 22-23: [VoxxedDays Bucharest](https://voxxeddays.com/) - Romania
 * 22-25: [FOSS Asia](http://fossasia.org) - Singapore
 * 28-30: [BreizhCamp](http://www.breizhcamp.org/) - France (Rennes)
 * 29-30: [SymfonyLive Paris 2018](https://paris2018.live.symfony.com/) - France (Paris)
+* 30: [TensorFlow Dev Summit](http://www.tensorflow.org) - USA (Mountain View)
 
 ### April
 
+* 11-13: [API Conference](http://apiconference.de) - UK (London)
 * 12: [ImageCon](http://www.imagecon.com/) - USA
 * 13-15: [Isle Of Ruby](https://isleofruby.org) - UK
 * 19-20: [MiXiT](https://mixitconf.org/) - France
