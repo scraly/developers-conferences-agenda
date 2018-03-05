@@ -122,6 +122,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 24-27: [Google Cloud Next 18](https://cloud.withgoogle.com/next18/) - USA
 
 ### August
+
+* 1-3: [GopherCon UK](http://gophercon.co.uk) - UK
 * 28-29: [GopherCon](https://www.gophercon.com/) - USA (Denver)
 
 ### September
