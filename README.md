@@ -65,6 +65,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 11-13: [API Conference](http://apiconference.de) - UK (London)
 * 12: [ImageCon](http://www.imagecon.com/) - USA
+* 12-14: [JCertif](http://ponton.jcertif.com/) - Congo (Pointe-Noire)
 * 13-15: [Isle Of Ruby](https://isleofruby.org) - UK
 * 19-20: [MiXiT](https://mixitconf.org/) - France
 * 18-20: [Devoxx France](https://devoxx.fr/) - France (Paris)
