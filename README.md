@@ -145,6 +145,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### November
 
 * 12-16: [Devoxx Belgium](https://devoxx.be/) - Belgium (Antwerp)
+* 08: [DevFest Toulouse](http://devfesttoulouse.fr) - France (Toulouse)
 * xx: [Codeurs en Seine](http://www.codeursenseine.com/) - France (Rouen)
 * xx: [AppDays](https://2018.appdays.fr/) - France (Paris)
 * xx: [Scala.io](https://scala.io/) - France (Lyon)
