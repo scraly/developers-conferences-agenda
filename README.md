@@ -71,6 +71,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18-20: [Devoxx France](https://devoxx.fr/) - France (Paris)
 * 19-20: [DroidCon Turin](http://it.droidcon.com/2018/) - Italia (Turin)
 * 23-24: [Android Makers France](https://androidmakers.fr/) - France (Paris)
+* 23-27: [The Web Conference](https://www2018.thewebconf.org/) - France (Lyon)
+* 23: [WS-REST 2018](http://2018.ws-rest.org/) - France (Lyon)
 * 27: [Gotham Go](http://gothamgo.com) - USA (New York)
 
 ### May
