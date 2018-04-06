@@ -143,6 +143,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 16: [DevOps REX](https://www.devopsrex.fr/) - France (Paris)
 * 18-19: [DevFest Nantes 2018](https://devfest.gdgnantes.com) - France (Nantes)
 * 22-24: [Hashi Conf](https://www.hashiconf.com/) - USA (San Francisco)
+* 22-25: [JavaOne](https://twitter.com/JavaOneConf) - USA (San Francisco)
 
 ### November
 
