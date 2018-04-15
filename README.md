@@ -110,6 +110,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 12-15: [DockerCon](https://2018.dockercon.com) - USA (San Francisco)
 * 13-14: [EclipseCon France](https://www.eclipsecon.org/france2018/) - France
 * 13-15: [Web2Day](https://web2day.co/) - France (Nantes)
+* 19: [AWS Summit Paris](https://aws.amazon.com/fr/summits/paris/inscription/) - France (Paris)
 * 20-22: [Devoxx Poland](https://devoxx.com) - Poland
 * 21: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
 * 21: [JHipster Conf](https://jhipster-conf.github.io) - France (Paris)
@@ -123,6 +124,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### July
 
 * 3: [Oracle Code](https://developer.oracle.com/code) - France (Paris)
+* 5: [AWS Transformation Day Toulouse](https://aws.amazon.com/fr/events/transformation-day-2018/toulouse/) - France (Toulouse)
 * 24-27: [Google Cloud Next 18](https://cloud.withgoogle.com/next18/) - USA
 
 ### August
