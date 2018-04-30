@@ -111,6 +111,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 13-14: [EclipseCon France](https://www.eclipsecon.org/france2018/) - France
 * 13-15: [Web2Day](https://web2day.co/) - France (Nantes)
 * 19: [AWS Summit Paris](https://aws.amazon.com/fr/summits/paris/inscription/) - France (Paris)
+* 19: [JNation](http://jnation.pt) - Portugal (Coimbra)
 * 20-22: [Devoxx Poland](https://devoxx.com) - Poland
 * 21: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
 * 21: [JHipster Conf](https://jhipster-conf.github.io) - France (Paris)
