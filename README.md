@@ -143,6 +143,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 14: [JUG Summer Camp](http://www.jugsummercamp.org/) - France (La Rochelle)
 * 16-19: [Jenkins World USA](https://www.cloudbees.com/jenkinsworld/home) - USA
 * 20-21: [FrenchKit](http://frenchkit.fr/) - France
+* 27: [Open Hardware Summit](http://2018.oshwa.org) - USA (MIT)
 
 ### October
 
