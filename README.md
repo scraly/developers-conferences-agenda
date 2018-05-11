@@ -82,6 +82,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 08-09: [Codemotion Amsterdam](http://amsterdam2017.codemotionworld.com/) - Netherlands
 * 08-10: [Google IO](http://google.com/io) - USA
 * 08-11: [Craft Conf](https://craft-conf.com/) - Budapest
+* 9-11: [GeeCON](https://geecon.org) - Krakow
 * 09-11: [Devoxx UK](http://devoxx.com) - UK
 * 15-17: [Innorobo](https://innorobo.com/en/home/) - France (Paris)
 * 16-18: [Riviera Dev](http://rivieradev.fr/) - France
@@ -148,6 +149,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 12-13: [DevFest Ukraine 2018](https://devfest.gdg.org.ua/2018) - Ukraine
 * 16: [DevOps REX](https://www.devopsrex.fr/) - France (Paris)
 * 18-19: [DevFest Nantes 2018](https://devfest.gdgnantes.com) - France (Nantes)
+* 18-19: [GeeCON](https://geecon.org) - Prague
 * 22-24: [Hashi Conf](https://www.hashiconf.com/) - USA (San Francisco)
 * 22-25: [JavaOne](https://twitter.com/JavaOneConf) - USA (San Francisco)
 
