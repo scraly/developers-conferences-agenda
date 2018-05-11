@@ -130,6 +130,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 3: [Oracle Code](https://developer.oracle.com/code) - France (Paris)
 * 5: [AWS Transformation Day Toulouse](https://aws.amazon.com/fr/events/transformation-day-2018/toulouse/) - France (Toulouse)
+* 18-20: [JavaScript Camp](http://angularcamp.tech) - Spain (Barcelona)
 * 24-27: [Google Cloud Next 18](https://cloud.withgoogle.com/next18/) - USA
 
 ### August
