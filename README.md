@@ -84,6 +84,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 08-11: [Craft Conf](https://craft-conf.com/) - Budapest
 * 9-11: [GeeCON](https://geecon.org) - Krakow
 * 09-11: [Devoxx UK](http://devoxx.com) - UK
+* 9-17: [PyCon](https://us.pycon.org/2018/) - Cleveland
 * 15-17: [Innorobo](https://innorobo.com/en/home/) - France (Paris)
 * 16-18: [Riviera Dev](http://rivieradev.fr/) - France
 * 17: [DataXDay](http://dataxday.fr) - France (Paris)
