@@ -100,7 +100,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 29-30: [jPrime](http://jprime.io/) - Bulgaria
 * 31: [dotAI](https://2018.dotai.io/) - France (Paris)
 * 31: [Shift](http://shift.codeanywhere.com/) - Croatia
-* 31-02: [Gopher Con Iceland](https://gophercon.is/) - Iceland
+* 31-03: [Gopher Con Iceland](https://gophercon.is/) - Iceland
 * 31: [OpenMSA DevDay](https://www.openmsa.co/events/devdays/) - Tokyo
 
 ### June
