@@ -155,18 +155,19 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18-19: [GeeCON](https://geecon.org) - Prague
 * 22-24: [Hashi Conf](https://www.hashiconf.com/) - USA (San Francisco)
 * 22-25: [JavaOne](https://twitter.com/JavaOneConf) - USA (San Francisco)
+* 29-31: [VoxxedDays Microservices](https://voxxeddays.com/microservices/) - France (Paris)
+* 29-31: [Scala.io](https://scala.io/) - France (Lyon)
 
 ### November
 
 * 12-16: [Devoxx Belgium](https://devoxx.be/) - Belgium (Antwerp)
 * 08: [DevFest Toulouse](http://devfesttoulouse.fr) - France (Toulouse)
 * 09: [BDX I/O](https://bdx.io) - France (Bordeaux)
-* xx: [Codeurs en Seine](http://www.codeursenseine.com/) - France (Rouen)
+* 22: [Codeurs en Seine](http://www.codeursenseine.com/) - France (Rouen)
 * xx: [AppDays](https://2018.appdays.fr/) - France (Paris)
-* xx: [Scala.io](https://scala.io/) - France (Lyon)
 * xx: [XebiCon](http://xebicon.fr/) - France (Paris)
 
 ### December
 
-* xx: [Paris Open Source Summit](http://www.opensourcesummit.paris/) - France (Paris)
+* 5-6: [Paris Open Source Summit](http://www.opensourcesummit.paris/) - France (Paris)
 
