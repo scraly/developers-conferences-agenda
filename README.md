@@ -111,6 +111,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 07-08: [Best Of Web](http://bestofweb.paris/) - France
 * 08: [DevTalks](http://www.devtalks.ro/bucharest/) - Romania
 * 11-12: [AIParis](https://aiparis.fr/) - France (Paris)
+* 12-13: [GitHub Satellite](https://githubuniverse.com/satellite/) - Japan
 * 12-15: [DockerCon](https://2018.dockercon.com) - USA (San Francisco)
 * 13-14: [EclipseCon France](https://www.eclipsecon.org/france2018/) - France
 * 13-15: [Web2Day](https://web2day.co/) - France (Nantes)
@@ -127,7 +128,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 28: [Jenkins User Conference](https://juc-paris.jfrog.com/fr/) - France (Paris)
 * 28-29: [Sunny Tech](https://sunny-tech.io/) - France
 * 30-01: [La nuit du Hack](https://www.nuitduhack.com/fr) - France (Paris)
-* xx: [GitHub Satellite](https://githubuniverse.com/satellite/) - Japan
 
 ### July
 
