@@ -140,6 +140,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 1-3: [GopherCon UK](http://gophercon.co.uk) - UK
 * 28-29: [GopherCon](https://www.gophercon.com/) - USA (Denver)
+* 29-31: [SRECon](https://www.usenix.org/conference/srecon18europe) - Germany (Dusseldorf)
 
 ### September
 
