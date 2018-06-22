@@ -124,6 +124,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 25-29: [QCon New York](https://qconnewyork.com) - USA (New York)
 * 26: [Paris Container Day](http://paris-container-day.fr/) - France
 * 26-27: [MongoDB World](https://www.mongodb.com/world18) - USA (New York)
+* 28: [Jenkins User Conference](https://juc-paris.jfrog.com/fr/) - France (Paris)
 * 28-29: [Sunny Tech](https://sunny-tech.io/) - France
 * 30-01: [La nuit du Hack](https://www.nuitduhack.com/fr) - France (Paris)
 * xx: [GitHub Satellite](https://githubuniverse.com/satellite/) - Japan
