@@ -167,9 +167,9 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 12-16: [Devoxx Belgium](https://devoxx.be/) - Belgium (Antwerp)
 * 08: [DevFest Toulouse](http://devfesttoulouse.fr) - France (Toulouse)
 * 09: [BDX I/O](https://bdx.io) - France (Bordeaux)
+* 14-15: [MobileOne](https://www.mobile.one/) - France (Paris)
+* 20: [XebiCon](http://xebicon.fr/) - France (Paris)
 * 22: [Codeurs en Seine](http://www.codeursenseine.com/) - France (Rouen)
-* xx: [AppDays](https://2018.appdays.fr/) - France (Paris)
-* xx: [XebiCon](http://xebicon.fr/) - France (Paris)
 
 ### December
 
