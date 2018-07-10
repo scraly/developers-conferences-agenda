@@ -165,6 +165,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### November
 
 * 12-16: [Devoxx Belgium](https://devoxx.be/) - Belgium (Antwerp)
+* 07-08: [GraphQL Summit](https://summit.graphql.com/) - USA (San Francisco)
 * 08: [DevFest Toulouse](http://devfesttoulouse.fr) - France (Toulouse)
 * 09: [BDX I/O](https://bdx.io) - France (Bordeaux)
 * 14-15: [MobileOne](https://www.mobile.one/) - France (Paris)
