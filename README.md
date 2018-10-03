@@ -160,21 +160,26 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18-19: [GeeCON](https://geecon.org) - Prague
 * 22-24: [Hashi Conf](https://www.hashiconf.com/) - USA (San Francisco)
 * 22-25: [JavaOne](https://twitter.com/JavaOneConf) - USA (San Francisco)
+* 25-26: [Forum PHP 2018](https://event.afup.org/) - France (Paris)
 * 29-31: [VoxxedDays Microservices](https://voxxeddays.com/microservices/) - France (Paris)
 * 29-31: [Scala.io](https://scala.io/) - France (Lyon)
 
 ### November
 
 * 03: [DevFest Belgium](devfest-be.cfp.io/ ) - Belgium
+* 06-07: [Microsoft Experiences 18](https://experiences18.microsoft.fr/) - France (Paris)
 * 07-08: [GraphQL Summit](https://summit.graphql.com/) - USA (San Francisco)
 * 08: [DevFest Toulouse](http://devfesttoulouse.fr) - France (Toulouse)
 * 08: [dotCSS](https://www.dotcss.io) - France (Paris)
+* 08: [MongoDB Europe'18](https://www.mongodb.com/europe18) - UK (London)
 * 09: [dotJS](https://www.dotjs.io) - France (Paris)
 * 09: [BDX I/O](https://bdx.io) - France (Bordeaux)
 * 12-16: [Devoxx Belgium](https://devoxx.be/) - Belgium (Antwerp)
 * 14-15: [MobileOne](https://www.mobile.one/) - France (Paris)
+* 15: [DevOps D-Day#4](http://2018.devops-dday.com/) - France (Marseille)
 * 20: [XebiCon](http://xebicon.fr/) - France (Paris)
 * 22: [Codeurs en Seine](http://www.codeursenseine.com/) - France (Rouen)
+* 23-25: [Maker Faire Paris](https://paris.makerfaire.com/) - France (Paris)
 
 ### December
 
