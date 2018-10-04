@@ -186,3 +186,52 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 5-6: [Paris Open Source Summit](http://www.opensourcesummit.paris/) - France (Paris)
 
+## 2019
+
+### January
+
+* ???
+
+### February
+
+* ???
+
+### March
+
+* ???
+
+### April
+
+* ???
+
+### May
+
+* ???
+
+### June
+
+* ???
+
+### July
+
+* ???
+
+### August
+
+* ???
+
+### September
+
+* ???
+
+### October
+
+* ???
+
+### November
+
+* ???
+
+### December
+
+* ???
