@@ -167,6 +167,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### November
 
 * 03: [DevFest Belgium](devfest-be.cfp.io/ ) - Belgium
+* 05-06: [µCon London 2018](https://skillsmatter.com/conferences/10336-mucon-london-2018-the-microservices-conference) - UK (London)
 * 06-07: [Microsoft Experiences 18](https://experiences18.microsoft.fr/) - France (Paris)
 * 07-08: [GraphQL Summit](https://summit.graphql.com/) - USA (San Francisco)
 * 08: [DevFest Toulouse](http://devfesttoulouse.fr) - France (Toulouse)
