@@ -212,7 +212,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### June
 
-* ???
+* 27-28: [Sunny Tech](https://sunny-tech.io/) - France (Paris)
 
 ### July
 
