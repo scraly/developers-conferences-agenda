@@ -17,6 +17,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ## Archives
 
 * [2017](archives/2017.md)
+* [2018](archives/2018.md)
 
 ## 2018
 
@@ -190,7 +191,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### January
 
-* ???
+* 28: [dotSwift](https://2019.dotswift.io/) - France (Paris)
 
 ### February
 
@@ -198,11 +199,12 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### March
 
-* ???
+* 20-22: [Breizh Camp](http://www.breizhcamp.org/) - France (Rennes)
+* 25: [dotGo](https://www.dotgo.eu/) - France (Paris)
 
 ### April
 
-* ???
+* 17-19: [Devox France](https://www.devoxx.fr/) - France (Paris)
 
 ### May
 
