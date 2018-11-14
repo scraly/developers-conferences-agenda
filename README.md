@@ -208,7 +208,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### May
 
-* ???
+* 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - UK (London)
 
 ### June
 
