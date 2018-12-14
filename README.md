@@ -195,6 +195,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### February
 
+* 02-03: [FOSDEM](https://fosdem.org/2019/) - Belgium (Brussels)
 * 08: [DevFest Paris](https://www.billetweb.fr/devfest-paris) - France (Paris)
 * 22: [DevFest Du Bout Du Monde](https://devfest.duboutdumonde.bzh/) - France (Brest)
 
