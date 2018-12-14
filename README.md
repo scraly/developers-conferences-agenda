@@ -217,7 +217,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - UK (London)
 
 ### June
-
+* 06-07: [Best Of Web](http://bestofweb.paris/) - France
 * 14: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
 * 27-28: [Sunny Tech](https://sunny-tech.io/) - France (Paris)
 
