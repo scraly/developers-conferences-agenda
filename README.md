@@ -191,12 +191,15 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### January
 
+* 21-25: [Linux Conf AU](http://linux.conf.au) - New Zealand (Christchurch)
+* 23-26: [SnowCamp](http://snowcamp.io/fr/) - France (Grenoble)
 * 28: [dotSwift](https://2019.dotswift.io/) - France (Paris)
 
 ### February
 
 * 02-03: [FOSDEM](https://fosdem.org/2019/) - Belgium (Brussels)
 * 08: [DevFest Paris](https://www.billetweb.fr/devfest-paris) - France (Paris)
+* 13-15: [Frontend Love](http://frontenddeveloperlove.com) - Netherlands (Amsterdam)
 * 22: [DevFest Du Bout Du Monde](https://devfest.duboutdumonde.bzh/) - France (Brest)
 
 ### March
