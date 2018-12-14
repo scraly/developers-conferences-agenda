@@ -204,7 +204,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### April
 
-* 17-19: [Devox France](https://www.devoxx.fr/) - France (Paris)
+* 17-19: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
 
 ### May
 
@@ -212,6 +212,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### June
 
+* 14: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
 * 27-28: [Sunny Tech](https://sunny-tech.io/) - France (Paris)
 
 ### July
