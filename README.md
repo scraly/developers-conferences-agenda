@@ -215,6 +215,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### May
 
 * 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - UK (London)
+* 15-17: [Riviera Dev](rivieradev.fr) - France (Sophia Antipolis)
+* 23-24: [MixiT](mixitconf.org) - France (Lyon)
 
 ### June
 * 06-07: [Best Of Web](http://bestofweb.paris/) - France
