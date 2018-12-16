@@ -205,6 +205,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### March
 
+* 19: [VoxxedDays Zurich](https://voxxeddays.com/) - Switzerland
 * 20-22: [Breizh Camp](http://www.breizhcamp.org/) - France (Rennes)
 * 25: [dotGo](https://www.dotgo.eu/) - France (Paris)
 
