@@ -220,6 +220,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 23-24: [MixiT](mixitconf.org) - France (Lyon)
 
 ### June
+
+* 4: [JNation](https://jnation.pt) - Portugal (Coimbra)
 * 06-07: [Best Of Web](http://bestofweb.paris/) - France
 * 14: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
 * 27-28: [Sunny Tech](https://sunny-tech.io/) - France (Paris)
