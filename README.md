@@ -212,6 +212,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### April
 
 * 17-19: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
+* 29-2: [DockerCon 2019](https://dockercon19.smarteventscloud.com/portal/newreg.ww) - USA (San Francisco)
 
 ### May
 
