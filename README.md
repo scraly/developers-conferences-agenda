@@ -41,7 +41,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 19: [VoxxedDays Zurich](https://voxxeddays.com/) - Switzerland
 * 20-22: [Breizh Camp](http://www.breizhcamp.org/) - France (Rennes)
 * 25: [dotGo](https://www.dotgo.eu/) - France (Paris)
-* 28-30: [Greach](http://greachconf.org) - Spain (Madrid)
+* 28-30: [Greach](http://greachconf.com) - Spain (Madrid)
 
 ### April
 
@@ -51,8 +51,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### May
 
 * 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - UK (London)
-* 15-17: [Riviera Dev](rivieradev.fr) - France (Sophia Antipolis)
-* 23-24: [MixiT](mixitconf.org) - France (Lyon)
+* 15-17: [Riviera Dev](http://rivieradev.fr) - France (Sophia Antipolis)
+* 23-24: [MixiT](https://mixitconf.org) - France (Lyon)
+* 27-29: [JBCNConf](http://www.jbcnconf.com/2019) - Spain (Barcelona)
+* 27-29: [GR8Conf EU](https://gr8conf.eu) - Denmark (Copenhagen)
 
 ### June
 
