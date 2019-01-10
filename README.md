@@ -53,6 +53,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - UK (London)
 * 15-17: [Riviera Dev](rivieradev.fr) - France (Sophia Antipolis)
 * 23-24: [MixiT](mixitconf.org) - France (Lyon)
+* 27-29: [JBCNConf](www.jbcnconf.com/2019) - Spain (Barcelona)
 * 27-29: [GR8Conf EU](gr8conf.eu) - Denmark (Copenhagen)
 
 ### June
