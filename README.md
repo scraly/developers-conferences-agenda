@@ -58,6 +58,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### June
 
+* 4: [Paris Container Day](http://paris-container-day.fr) - France (Paris)
 * 4: [JNation](https://jnation.pt) - Portugal (Coimbra)
 * 06-07: [Best Of Web](http://bestofweb.paris/) - France
 * 14: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
