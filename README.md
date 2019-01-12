@@ -70,7 +70,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### August
 
-* ???
+* 12-15: [Devops World](https://www.cloudbees.com/devops-world) - USA (San Francisco)
 
 ### September
 
@@ -86,4 +86,4 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### December
 
-* ???
+* 2-5: [Devops World](https://www.cloudbees.com/devops-world) - Portugal (Lisbon)
