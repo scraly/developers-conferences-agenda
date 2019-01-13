@@ -23,6 +23,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### January
 
+* 14-16: [LavaOne](bit.do/lavaone) - Hawai
 * 21-25: [Linux Conf AU](http://linux.conf.au) - New Zealand (Christchurch)
 * 23-26: [SnowCamp](http://snowcamp.io/fr/) - France (Grenoble)
 * 28: [dotSwift](https://2019.dotswift.io/) - France (Paris)
