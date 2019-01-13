@@ -49,6 +49,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 13: [Voxxed Milan](https://voxxeddays.com/milan/) - Italie (Milan)
 * 17-19: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
+* 25: [Future Sync](http://futuresync.co.uk) - England (Plymouth)
 * 29-2: [DockerCon 2019](https://dockercon19.smarteventscloud.com/portal/newreg.ww) - USA (San Francisco)
 
 ### May
