@@ -74,6 +74,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 06-07: [Best Of Web](http://bestofweb.paris/) - France
 * 06-08: [Voxxed Athène](https://voxxeddays.com/athens/) - Grèce (Athène)
 * 14: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
+* 24-27: [Devoxx Poland](http://devoxx.pl) - Poland (Krakow)
 * 27-28: [Sunny Tech](https://sunny-tech.io/) - France (Paris)
 
 ### July
@@ -94,7 +95,9 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### November
 
-* ???
+* 1-2: [Devoxx Ukraine](http://devoxx.org.ua) - Ukraine
+* 4-8: [Devoxx Belgium](http://devoxx.be) - Belgium
+* 12-14: [Devoxx Morocco](http://devoxx.ma) - Morocco
 
 ### December
 
