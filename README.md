@@ -100,6 +100,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 1-2: [Devoxx Ukraine](http://devoxx.org.ua) - Ukraine
 * 4-8: [Devoxx Belgium](http://devoxx.be) - Belgium
 * 12-14: [Devoxx Morocco](http://devoxx.ma) - Morocco
+* 15: [BDX I/O](https://www.bdx.io) - France (Bordeaux)
 
 ### December
 
