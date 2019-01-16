@@ -42,7 +42,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-13: [DevOps Gathering](http://devops-gathering.io) - Germany (Bochum)
 * 19: [VoxxedDays Zurich](https://voxxeddays.com/) - Switzerland
 * 20-22: [Breizh Camp](http://www.breizhcamp.org/) - France (Rennes)
-* 20-22: [Voxxed Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/) - Roumanie (Bucharest)
+* 20-22: [Voxxed Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/) - Romania (Bucharest)
+* 23: [Kubernetes Day](https://events.linuxfoundation.org/events/kubernetes-day-india-2019/?utm_source=cncf&utm_medium=email&utm_campaign=cloudnativemonthly&utm_content=january19) - India
 * 25: [dotGo](https://www.dotgo.eu/) - France (Paris)
 * 28-30: [Greach](http://greachconf.com) - Spain (Madrid)
 
