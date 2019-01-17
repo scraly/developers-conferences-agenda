@@ -82,7 +82,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### July
 
-* 8-10: [HashiConf EU](https://hashiconfeu.hashicorp.com/) - NL (Amsterdam) / [CFP until 2019-03-15](https://hashiconfeu.hashicorp.com/#submit-a-talk)
+* 8-10: [HashiConf EU](https://hashiconfeu.hashicorp.com/) - NL (Amsterdam) [ [CFP until 2019-03-15](https://hashiconfeu.hashicorp.com/#submit-a-talk) ]
 
 ### August
 
