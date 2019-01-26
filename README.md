@@ -57,6 +57,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### May
 
 * 01: [Voxxed CERN](https://voxxeddays.com/cern/) - Suisse (Genève) 
+* 7-9: [Google IO](https://events.google.com/io/) - USA (Mountain View)
 * 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - UK (London)
 * 13-14 [Voxxed Melbourne](https://australia.voxxeddays.com) - Autralia (Melbourne)
 * 15-17: [Riviera Dev](http://rivieradev.fr) - France (Sophia Antipolis)
