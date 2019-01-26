@@ -34,12 +34,14 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 02-03: [FOSDEM](https://fosdem.org/2019/) - Belgium (Brussels)
 * 08: [DevFest Paris](https://www.billetweb.fr/devfest-paris) - France (Paris)
 * 13-15: [Frontend Love](http://frontenddeveloperlove.com) - Netherlands (Amsterdam)
+* 14-16: [Ro MobOs](http://romobos.com/) - Romania (Cluj-Napoca)
 * 14-15: [VueJs Amsterdam](vuejs.amsterdam) - (Amsterdam)
 * 22: [DevFest Du Bout Du Monde](https://devfest.duboutdumonde.bzh/) - France (Brest)
 
 ### March
 
 * 11-13: [DevOps Gathering](http://devops-gathering.io) - Germany (Bochum)
+* 15: [dev://east](https://deveast.uk/) - UK (Ipswich)
 * 19: [VoxxedDays Zurich](https://voxxeddays.com/) - Switzerland
 * 20-22: [Breizh Camp](http://www.breizhcamp.org/) - France (Rennes)
 * 20-22: [Voxxed Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/) - Romania (Bucharest)
