@@ -63,6 +63,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 15-17: [Riviera Dev](http://rivieradev.fr) - France (Sophia Antipolis)
 * 16-17: [Newcrafts](https://ncrafts.io) - France (Paris)
 * 13-14 [Voxxed Sidney](https://australia.voxxeddays.com) - Autralia (Sydney)
+* 20-23: [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/) - Spain (Barcelona)
 * 21-22 [Voxxed Frontend](https://romania.voxxeddays.com/frontend/) - Roumanie (Bucharest)
 * 23-24: [MixiT](https://mixitconf.org) - France (Lyon)
 * 24-25: [Voxxed Minsk](https://voxxeddays.com/minsk/) - Biélorussie (Minsk)
@@ -85,10 +86,12 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### July
 
 * 8-10: [HashiConf EU](https://hashiconfeu.hashicorp.com/) - NL (Amsterdam) [ [CFP until 2019-03-15](https://hashiconfeu.hashicorp.com/#submit-a-talk) ]
+* 24-27: [GopherCon](https://www.gophercon.com) - USA (San Diego)
 
 ### August
 
 * 12-15: [Devops World](https://www.cloudbees.com/devops-world) - USA (San Francisco)
+* 21-23: [GopherCon UK](https://www.gophercon.com) - UK (London)
 
 ### September
 
