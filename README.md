@@ -70,6 +70,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 23-24: [MixiT](https://mixitconf.org) - France (Lyon)
 * 24-25: [Voxxed Minsk](https://voxxeddays.com/minsk/) - Biélorussie (Minsk)
 * 27-29: [JBCNConf](http://www.jbcnconf.com/2019) - Spain (Barcelona)
+* 27-28: [ngVikings](https://ngvikings.org/) - Denmark (Copenhagen)
 * 27-29: [GR8Conf EU](https://gr8conf.eu) - Denmark (Copenhagen)
 * 30-31: [Voxxed Singapour](https://voxxeddays.com/singapore/) - Singapour
 
