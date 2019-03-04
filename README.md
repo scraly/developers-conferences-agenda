@@ -69,6 +69,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 21-22 [Voxxed Frontend](https://romania.voxxeddays.com/frontend/) - Roumanie (Bucharest)
 * 23-24: [MixiT](https://mixitconf.org) - France (Lyon)
 * 24-25: [Voxxed Minsk](https://voxxeddays.com/minsk/) - Biélorussie (Minsk)
+* 25: [Dev Day 19](https://devday.io/) - Dev Day 19 Germany (Berlin)
+* 25: [Dev Day 19](https://devday.io/) - Dev Day 19 Portugal (Faro)
 * 27-29: [JBCNConf](http://www.jbcnconf.com/2019) - Spain (Barcelona)
 * 27-28: [ngVikings](https://ngvikings.org/) - Denmark (Copenhagen)
 * 27-29: [GR8Conf EU](https://gr8conf.eu) - Denmark (Copenhagen)
