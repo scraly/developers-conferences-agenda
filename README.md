@@ -51,6 +51,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### April
 
+* 9-11: [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) - USA (San Francisco)
 * 10-11: [Dublin Tech Summit](https://t.co/vzYtTZmZ6Y) - Ireland (Dublin)
 * 13: [Voxxed Milan](https://voxxeddays.com/milan/) - Italie (Milan)
 * 17-19: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
@@ -116,6 +117,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 1-2: [Devoxx Ukraine](http://devoxx.org.ua) - Ukraine
 * 4-8: [Devoxx Belgium](http://devoxx.be) - Belgium
 * 12-14: [Devoxx Morocco](http://devoxx.ma) - Morocco
+* 13-14: [BlendWebMix](https://www.blendwebmix.com/) - France (Lyon)
 * 15: [BDX I/O](https://www.bdx.io) - France (Bordeaux)
 
 ### December
