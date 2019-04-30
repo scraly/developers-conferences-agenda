@@ -101,7 +101,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### September
 
-* ???
+* 20: [We love speed](https://www.welovespeed.com/2019/) - France (Lille)
 
 ### October
 
