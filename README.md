@@ -51,10 +51,12 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### April
 
+* 10-11: [Dublin Tech Summit](https://t.co/vzYtTZmZ6Y) - Ireland (Dublin)
 * 13: [Voxxed Milan](https://voxxeddays.com/milan/) - Italie (Milan)
 * 17-19: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
 * 25: [Future Sync](http://futuresync.co.uk) - England (Plymouth)
 * 29-2: [DockerCon 2019](https://dockercon19.smarteventscloud.com/portal/newreg.ww) - USA (San Francisco)
+* 30-2: [Rails Conf](https://railsconf.com/) - USA (Minneapolis)
 
 ### May
 
@@ -62,9 +64,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 7-9: [Google IO](https://events.google.com/io/) - USA (Mountain View)
 * 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - UK (London)
 * 13-14 [Voxxed Melbourne](https://australia.voxxeddays.com) - Autralia (Melbourne)
+* 13-14 [Voxxed Sidney](https://australia.voxxeddays.com) - Autralia (Sydney)
 * 15-17: [Riviera Dev](http://rivieradev.fr) - France (Sophia Antipolis)
 * 16-17: [Newcrafts](https://ncrafts.io) - France (Paris)
-* 13-14 [Voxxed Sidney](https://australia.voxxeddays.com) - Autralia (Sydney)
+* 18-19: [Cloud Native Rejekts](https://cloud-native.rejekts.io/) - Spain (Barcelona)
 * 20-23: [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/) - Spain (Barcelona)
 * 21-22 [Voxxed Frontend](https://romania.voxxeddays.com/frontend/) - Roumanie (Bucharest)
 * 23-24: [MixiT](https://mixitconf.org) - France (Lyon)
@@ -75,6 +78,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 27-28: [ngVikings](https://ngvikings.org/) - Denmark (Copenhagen)
 * 27-29: [GR8Conf EU](https://gr8conf.eu) - Denmark (Copenhagen)
 * 30-31: [Voxxed Singapour](https://voxxeddays.com/singapore/) - Singapour
+* 31: [GoCon Canada](https://gocon.ca/) - Canada (Toronto)
 
 ### June
 
