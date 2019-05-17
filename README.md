@@ -69,6 +69,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 15-17: [Riviera Dev](http://rivieradev.fr) - France (Sophia Antipolis)
 * 16-17: [Newcrafts](https://ncrafts.io) - France (Paris)
 * 18-19: [Cloud Native Rejekts](https://cloud-native.rejekts.io/) - Spain (Barcelona)
+* 22: [CloudBees Days](https://www.cloudbees.com/cloudbees-days#paris) - France (Paris)
 * 20-23: [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/) - Spain (Barcelona)
 * 21-22 [Voxxed Frontend](https://romania.voxxeddays.com/frontend/) - Roumanie (Bucharest)
 * 23-24: [MixiT](https://mixitconf.org) - France (Lyon)
@@ -88,11 +89,15 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 05-08: [LambdaConf](http://lambdaconf.us) - USA (Boulder CA)
 * 06-07: [Best Of Web](http://bestofweb.paris/) - France
 * 06-08: [Voxxed Athène](https://voxxeddays.com/athens/) - Grèce (Athène)
+* 11-13: [OW2Con](https://www.ow2con.org/view/2019/) - France (Paris)
+* 11-14: [INFORSID](http://inforsid.fr/Paris2019/) - France (Paris)
 * 14: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
 * 24-26: [Container days] (https://www.containerdays.io)- Germany (Hamburg) 
 * 24-27: [Devoxx Poland](http://devoxx.pl) - Poland (Krakow)
+* 24-28: [COMPAS](https://2019.compas-conference.fr/) - France (Anglet)
 * 27: [DataXDay](https://dataxday.fr/) - France (Paris) [CFP until 2019-03-31](https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO)
 * 27: [GopherCon Poland](http://twitter.com/GopherConPL) - Poland (Gdansk)
+* 27: [JHipster Conf](https://jhipster-conf.github.io/) - France (Paris)
 * 27-28: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
 
 ### July
@@ -107,6 +112,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### September
 
+* 16-17: [Agile en Seine](https://www.agileenseine.com/) - France (Paris)
 * 20: [We love speed](https://www.welovespeed.com/2019/) - France (Lille)
 
 ### October
