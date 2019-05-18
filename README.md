@@ -91,6 +91,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 06-08: [Voxxed Athène](https://voxxeddays.com/athens/) - Grèce (Athène)
 * 11-13: [OW2Con](https://www.ow2con.org/view/2019/) - France (Paris)
 * 11-14: [INFORSID](http://inforsid.fr/Paris2019/) - France (Paris)
+* 13-14: [Dev Break](https://www.devbreak.io/) - France (Paris)
 * 14: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
 * 24-26: [Container days] (https://www.containerdays.io)- Germany (Hamburg) 
 * 24-27: [Devoxx Poland](http://devoxx.pl) - Poland (Krakow)
