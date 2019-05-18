@@ -87,6 +87,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 04: [Paris Container Day](http://paris-container-day.fr) - France (Paris)
 * 04: [JNation](https://jnation.pt) - Portugal (Coimbra)
 * 05-08: [LambdaConf](http://lambdaconf.us) - USA (Boulder CA)
+* 06: [CLUSIF](https://clusif.fr/appel-a-contribution/) - France - Paris
 * 06-07: [Best Of Web](http://bestofweb.paris/) - France
 * 06-08: [Voxxed Athène](https://voxxeddays.com/athens/) - Grèce (Athène)
 * 11-13: [OW2Con](https://www.ow2con.org/view/2019/) - France (Paris)
