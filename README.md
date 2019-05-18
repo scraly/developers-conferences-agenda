@@ -89,7 +89,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 05-08: [LambdaConf](http://lambdaconf.us) - USA (Boulder CA)
 * 06: [CLUSIF](https://clusif.fr/appel-a-contribution/) - France - Paris
 * 06-07: [Best Of Web](http://bestofweb.paris/) - France
-* 06-08: [Voxxed Athène](https://voxxeddays.com/athens/) - Grèce (Athène)
+* 06-08: [Voxxed Athens](https://voxxeddays.com/athens/) - Greece (Athens)
+* 10-13: [O'Reilly Software Architecture Conference] (https://conferences.oreilly.com/software-architecture/sa-ça)- USA (San Jose) 
 * 11-13: [OW2Con](https://www.ow2con.org/view/2019/) - France (Paris)
 * 11-14: [INFORSID](http://inforsid.fr/Paris2019/) - France (Paris)
 * 13-14: [Dev Break](https://www.devbreak.io/) - France (Paris)
@@ -124,6 +125,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### November
 
 * 1-2: [Devoxx Ukraine](http://devoxx.org.ua) - Ukraine
+* 4-7: [O'Reilly Software Architecture Conférence] (https://conferences.oreilly.com/software-architecture/sa-eu)- Germany (Berlin) 
 * 4-8: [Devoxx Belgium](http://devoxx.be) - Belgium
 * 12-14: [Devoxx Morocco](http://devoxx.ma) - Morocco
 * 13-14: [BlendWebMix](https://www.blendwebmix.com/) - France (Lyon)
@@ -132,3 +134,9 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### December
 
 * 2-5: [Devops World](https://www.cloudbees.com/devops-world) - Portugal (Lisbon)
+
+## 2020
+
+### February
+
+* 23-26: [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-n'y)- USA (San Jose) 
