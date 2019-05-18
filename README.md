@@ -121,6 +121,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### October
 
 * 3: [DevFest Toulouse](https://devfesttoulouse.fr) - France (Toulouse)
+* 17: [DevOps Rex] (http://devopsrex.fr)- France (Paris) 
 
 ### November
 
