@@ -115,6 +115,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### September
 
+* 13: [JUG Summer Camp](http://www.jugsummercamp.org/edition/10) - France (La Rochelle) 
 * 16-17: [Agile en Seine](https://www.agileenseine.com/) - France (Paris)
 * 20: [We love speed](https://www.welovespeed.com/2019/) - France (Lille)
 
