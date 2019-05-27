@@ -129,6 +129,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 1-2: [Devoxx Ukraine](http://devoxx.org.ua) - Ukraine
 * 4-7: [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-eu)- Germany (Berlin) 
 * 4-8: [Devoxx Belgium](http://devoxx.be) - Belgium
+* 6: [Devfest Strasbourg](https://devfest.gdgstrasbourg.fr)- France (Strasbourg) 
 * 12-14: [Devoxx Morocco](http://devoxx.ma) - Morocco
 * 13-14: [BlendWebMix](https://www.blendwebmix.com/) - France (Lyon)
 * 15: [BDX I/O](https://www.bdx.io) - France (Bordeaux)
