@@ -124,6 +124,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 3: [DevFest Toulouse](https://devfesttoulouse.fr) - France (Toulouse)
 * 17: [DevOps Rex](http://devopsrex.fr)- France (Paris) 
 * 21-22: [Devfest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
+* 29-31: [Scala IO](https://scala.io) - France (Lyon) 
 
 ### November
 
