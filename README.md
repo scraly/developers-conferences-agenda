@@ -95,6 +95,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-14: [INFORSID](http://inforsid.fr/Paris2019/) - France (Paris)
 * 13-14: [Dev Break](https://www.devbreak.io/) - France (Paris)
 * 14: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
+* 19: [PGDay](https://pgday.fr) - France (Lyon) 
 * 24-26: [Container days] (https://www.containerdays.io)- Germany (Hamburg) 
 * 24-27: [Devoxx Poland](http://devoxx.pl) - Poland (Krakow)
 * 24-28: [COMPAS](https://2019.compas-conference.fr/) - France (Anglet)
