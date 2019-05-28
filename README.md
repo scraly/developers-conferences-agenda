@@ -126,6 +126,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 10-12: [Paris Web](https://www.paris-web.fr) - France (Paris) 
 * 17: [DevOps Rex](http://devopsrex.fr)- France (Paris) 
 * 21-22: [Devfest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
+* 21-23: [VoxxedDays Microservices](https://voxxeddays.com/microservices/) - France (Paris)
 * 24-25: [Forum PHP Paris](https://event.afup.org) - France (Paris) 
 * 29-31: [Scala IO](https://scala.io) - France (Lyon) 
 
