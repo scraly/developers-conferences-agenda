@@ -81,6 +81,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 27-29: [GR8Conf EU](https://gr8conf.eu) - Denmark (Copenhagen)
 * 30-31: [Voxxed Singapour](https://voxxeddays.com/singapore/) - Singapour
 * 31: [GoCon Canada](https://gocon.ca/) - Canada (Toronto)
+* 30-01: [GopherCon Europe](https://www.gophercon.es) - Tenerife
 
 ### June
 
