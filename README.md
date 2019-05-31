@@ -140,6 +140,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 12-14: [Devoxx Morocco](http://devoxx.ma) - Morocco
 * 13-14: [BlendWebMix](https://www.blendwebmix.com/) - France (Lyon)
 * 15: [BDX I/O](https://www.bdx.io) - France (Bordeaux)
+* 21: [Codeurs en Seine](https://www.codeursenseine.com/2019/) France (Rouen) 
 
 ### December
 
