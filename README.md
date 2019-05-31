@@ -98,7 +98,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 14: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
 * 19: [PGDay](https://pgday.fr) - France (Lyon) 
 * 20-21: [VoxxedDays Luxembourg](https://voxxeddays.com/luxembourg/) - Luxembourg 
-* 24-26: [Container days] (https://www.containerdays.io)- Germany (Hamburg) 
+* 24-26: [Container days](https://www.containerdays.io)- Germany (Hamburg) 
 * 24-27: [Devoxx Poland](http://devoxx.pl) - Poland (Krakow)
 * 24-28: [COMPAS](https://2019.compas-conference.fr/) - France (Anglet)
 * 27: [DataXDay](https://dataxday.fr/) - France (Paris) [CFP until 2019-03-31](https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO)
