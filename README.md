@@ -123,6 +123,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### October
 
 * 3: [DevFest Toulouse](https://devfesttoulouse.fr) - France (Toulouse)
+* 5: [VoxxedDays Ticino](https://voxxeddays.com/ticino/) - Switzerland (Ticino) 
 * 10-12: [Paris Web](https://www.paris-web.fr) - France (Paris) 
 * 17: [DevOps Rex](http://devopsrex.fr)- France (Paris) 
 * 21-22: [Devfest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
