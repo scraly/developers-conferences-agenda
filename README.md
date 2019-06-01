@@ -86,6 +86,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### June
 
 * 01: [Pucela Tech Day](https://gdgvalladolid.com) - Spain (Valladolid) 
+* 01-02: [JSConf EU](https://2019.jsconf.eu) - Germany (Berlin) 
 * 04: [Paris Container Day](http://paris-container-day.fr) - France (Paris)
 * 04: [JNation](https://jnation.pt) - Portugal (Coimbra)
 * 05-08: [LambdaConf](http://lambdaconf.us) - USA (Boulder CA)
