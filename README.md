@@ -156,3 +156,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### February
 
 * 23-26: [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-n'y)- USA (San Jose) 
+
+### April
+
+* 15-17: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
