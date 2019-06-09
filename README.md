@@ -117,6 +117,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 12-15: [Devops World](https://www.cloudbees.com/devops-world) - USA (San Francisco)
 * 21-23: [GopherCon UK](https://www.gophercon.com) - UK (London)
+* 23: [Anxiety Tech](https://www.anxietytech.com/) - USA (New York)
 
 ### September
 
