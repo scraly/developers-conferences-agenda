@@ -94,6 +94,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ## 2020
 
+### January
+
+* 22-25: [SnowCamp](http://snowcamp.io/fr/) - France (Grenoble)
+  
 ### February
 
 * 23-26: [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-n'y)- USA (San Jose) 
