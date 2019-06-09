@@ -18,70 +18,11 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * [2017](archives/2017.md)
 * [2018](archives/2018.md)
+* [2019](archives/2019.md)
 
 ## 2019
 
-### January
-
-* 14-16: [LavaOne](bit.do/lavaone) - Hawai
-* 21-25: [Linux Conf AU](http://linux.conf.au) - New Zealand (Christchurch)
-* 23-26: [SnowCamp](http://snowcamp.io/fr/) - France (Grenoble)
-* 28: [dotSwift](https://2019.dotswift.io/) - France (Paris)
-
-### February
-
-* 01: [Touraine Tech](https://touraine.tech/) - France
-* 02-03: [FOSDEM](https://fosdem.org/2019/) - Belgium (Brussels)
-* 08: [DevFest Paris](https://www.billetweb.fr/devfest-paris) - France (Paris)
-* 13-15: [Frontend Love](http://frontenddeveloperlove.com) - Netherlands (Amsterdam)
-* 14-16: [Ro MobOs](http://romobos.com/) - Romania (Cluj-Napoca)
-* 14-15: [VueJs Amsterdam](vuejs.amsterdam) - (Amsterdam)
-* 22: [DevFest Du Bout Du Monde](https://devfest.duboutdumonde.bzh/) - France (Brest)
-
-### March
-
-* 11-13: [DevOps Gathering](http://devops-gathering.io) - Germany (Bochum)
-* 15: [dev://east](https://deveast.uk/) - UK (Ipswich)
-* 19: [VoxxedDays Zurich](https://voxxeddays.com/) - Switzerland
-* 20-22: [Breizh Camp](http://www.breizhcamp.org/) - France (Rennes)
-* 20-22: [Voxxed Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/) - Romania (Bucharest)
-* 23: [Kubernetes Day](https://events.linuxfoundation.org/events/kubernetes-day-india-2019/?utm_source=cncf&utm_medium=email&utm_campaign=cloudnativemonthly&utm_content=january19) - India
-* 25: [dotGo](https://www.dotgo.eu/) - France (Paris)
-* 28-30: [Greach](http://greachconf.com) - Spain (Madrid)
-
-### April
-
-* 9-11: [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) - USA (San Francisco)
-* 10-11: [Dublin Tech Summit](https://t.co/vzYtTZmZ6Y) - Ireland (Dublin)
-* 13: [Voxxed Milan](https://voxxeddays.com/milan/) - Italie (Milan)
-* 17-19: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
-* 25: [Future Sync](http://futuresync.co.uk) - England (Plymouth)
-* 29-2: [DockerCon 2019](https://dockercon19.smarteventscloud.com/portal/newreg.ww) - USA (San Francisco)
-* 30-2: [Rails Conf](https://railsconf.com/) - USA (Minneapolis)
-
-### May
-
-* 01: [Voxxed CERN](https://voxxeddays.com/cern/) - Suisse (Genève) 
-* 7-9: [Google IO](https://events.google.com/io/) - USA (Mountain View)
-* 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - UK (London)
-* 13-14 [Voxxed Melbourne](https://australia.voxxeddays.com) - Autralia (Melbourne)
-* 13-14 [Voxxed Sidney](https://australia.voxxeddays.com) - Autralia (Sydney)
-* 15-17: [Riviera Dev](http://rivieradev.fr) - France (Sophia Antipolis)
-* 16-17: [Newcrafts](https://ncrafts.io) - France (Paris)
-* 18-19: [Cloud Native Rejekts](https://cloud-native.rejekts.io/) - Spain (Barcelona)
-* 22: [CloudBees Days](https://www.cloudbees.com/cloudbees-days#paris) - France (Paris)
-* 20-23: [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/) - Spain (Barcelona)
-* 21-22 [Voxxed Frontend](https://romania.voxxeddays.com/frontend/) - Roumanie (Bucharest)
-* 23-24: [MixiT](https://mixitconf.org) - France (Lyon)
-* 24-25: [Voxxed Minsk](https://voxxeddays.com/minsk/) - Biélorussie (Minsk)
-* 25: [Dev Day 19](https://devday.io/) - Dev Day 19 Germany (Berlin)
-* 25: [Dev Day 19](https://devday.io/) - Dev Day 19 Portugal (Faro)
-* 27-29: [JBCNConf](http://www.jbcnconf.com/2019) - Spain (Barcelona)
-* 27-28: [ngVikings](https://ngvikings.org/) - Denmark (Copenhagen)
-* 27-29: [GR8Conf EU](https://gr8conf.eu) - Denmark (Copenhagen)
-* 30-31: [Voxxed Singapour](https://voxxeddays.com/singapore/) - Singapour
-* 31: [GoCon Canada](https://gocon.ca/) - Canada (Toronto)
-* 30-01: [GopherCon Europe](https://www.gophercon.es) - Tenerife
+[...](archives/2019.md)
 
 ### June
 
