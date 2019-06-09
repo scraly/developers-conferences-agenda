@@ -75,6 +75,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 21-22: [Devfest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
 * 21-23: [VoxxedDays Microservices](https://voxxeddays.com/microservices/) - France (Paris)
 * 24-25: [Forum PHP Paris](https://event.afup.org) - France (Paris) 
+* 25: [React Advanced London](https://reactadvanced.com/) - UK (London) 
 * 29-31: [Scala IO](https://scala.io) - France (Lyon) 
 
 ### November
