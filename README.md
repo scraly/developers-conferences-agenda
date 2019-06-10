@@ -45,6 +45,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 24-26: [Container days](https://www.containerdays.io)- Germany (Hamburg) 
 * 24-27: [Devoxx Poland](http://devoxx.pl) - Poland (Krakow)
 * 24-28: [COMPAS](https://2019.compas-conference.fr/) - France (Anglet)
+* 24-28: [QCon New York](https://qconnewyork.com/) - USA (New York) 
 * 27: [DataXDay](https://dataxday.fr/) - France (Paris) [CFP until 2019-03-31](https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO)
 * 27: [GopherCon Poland](http://twitter.com/GopherConPL) - Poland (Gdansk)
 * 27: [JHipster Conf](https://jhipster-conf.github.io/) - France (Paris)
