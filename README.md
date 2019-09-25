@@ -63,6 +63,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### January
 
 * 22-25: [SnowCamp](http://snowcamp.io/fr/) - France (Grenoble)
+* 31: [Touraine Tech](https://touraine.tech/) - France (Tours)
   
 ### February
 
