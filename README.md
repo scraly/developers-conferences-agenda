@@ -24,45 +24,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 [...](archives/2019.md)
 
-### June
-
-* 01: [Pucela Tech Day](https://gdgvalladolid.com) - Spain (Valladolid) 
-* 01-02: [JSConf EU](https://2019.jsconf.eu) - Germany (Berlin) 
-* 04: [Paris Container Day](http://paris-container-day.fr) - France (Paris)
-* 04: [JNation](https://jnation.pt) - Portugal (Coimbra)
-* 05-08: [LambdaConf](http://lambdaconf.us) - USA (Boulder CA)
-* 06: [CLUSIF](https://clusif.fr/appel-a-contribution/) - France - Paris
-* 06-07: [Best Of Web](http://bestofweb.paris/) - France
-* 06-08: [Voxxed Athens](https://voxxeddays.com/athens/) - Greece (Athens)
-* 10-13: [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-ça)- USA (San Jose) 
-* 11: [Flow Factor Conference](https://flowfactorconference.com/) - USA (Salt Lake City) 
-* 11-13: [OW2Con](https://www.ow2con.org/view/2019/) - France (Paris)
-* 11-13: [Scala Days](https://scaladays.org/)- Switzerland (Lausanne) 
-* 11-14: [INFORSID](http://inforsid.fr/Paris2019/) - France (Paris)
-* 13-14: [Dev Break](https://www.devbreak.io/) - France (Paris)
-* 14: [DevFest Lille](https://devfest.gdglille.org/) - France (Lille)
-* 19: [PGDay](https://pgday.fr) - France (Lyon) 
-* 20-21: [VoxxedDays Luxembourg](https://voxxeddays.com/luxembourg/) - Luxembourg 
-* 24-26: [Container days](https://www.containerdays.io)- Germany (Hamburg) 
-* 24-27: [Devoxx Poland](http://devoxx.pl) - Poland (Krakow)
-* 24-28: [COMPAS](https://2019.compas-conference.fr/) - France (Anglet)
-* 24-28: [QCon New York](https://qconnewyork.com/) - USA (New York) 
-* 27: [DataXDay](https://dataxday.fr/) - France (Paris) [CFP until 2019-03-31](https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO)
-* 27: [GopherCon Poland](http://twitter.com/GopherConPL) - Poland (Gdansk)
-* 27: [JHipster Conf](https://jhipster-conf.github.io/) - France (Paris)
-* 27-28: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
-
-### July
-
-* 8-10: [HashiConf EU](https://hashiconfeu.hashicorp.com/) - NL (Amsterdam) [ [CFP until 2019-03-15](https://hashiconfeu.hashicorp.com/#submit-a-talk) ]
-* 24-27: [GopherCon](https://www.gophercon.com) - USA (San Diego)
-
-### August
-
-* 12-15: [Devops World](https://www.cloudbees.com/devops-world) - USA (San Francisco)
-* 21-23: [GopherCon UK](https://www.gophercon.com) - UK (London)
-* 23: [Anxiety Tech](https://www.anxietytech.com/) - USA (New York)
-
 ### September
 
 * 13: [JUG Summer Camp](http://www.jugsummercamp.org/edition/10) - France (La Rochelle) 
