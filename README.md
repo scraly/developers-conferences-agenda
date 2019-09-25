@@ -67,10 +67,11 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
   
 ### February
 
-* 14: [DevFest Paris](https://devfest.gdgparis.com/)- France (Paris)
-* 23-26: [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-n'y)- USA (San Jose) 
-* 26-28: [ConFoo](https://confoo.ca/en/yul2020)- Canada (Montreal) 
+* 14: [DevFest Paris](https://devfest.gdgparis.com/) - France (Paris)
+* 23-26: [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-n'y) - USA (San Jose) 
+* 26-28: [ConFoo](https://confoo.ca/en/yul2020) - Canada (Montreal) 
 
 ### April
 
 * 15-17: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
+* 29-30: [MixIT](https://mixitconf.org/) - France (Lyon)
