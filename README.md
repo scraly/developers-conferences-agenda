@@ -74,4 +74,5 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### April
 
 * 15-17: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
+* 23-26: [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 * 29-30: [MixIT](https://mixitconf.org/) - France (Lyon)
