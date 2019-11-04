@@ -24,24 +24,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 [...](archives/2019.md)
 
-### September
-
-* 13: [JUG Summer Camp](http://www.jugsummercamp.org/edition/10) - France (La Rochelle) 
-* 16-17: [Agile en Seine](https://www.agileenseine.com/) - France (Paris)
-* 17: [Orléans Tech](http://orleans-tech.com)- France (Orléans) 
-* 20: [We love speed](https://www.welovespeed.com/2019/) - France (Lille)
-
-### October
-
-* 3: [DevFest Toulouse](https://devfesttoulouse.fr) - France (Toulouse)
-* 5: [VoxxedDays Ticino](https://voxxeddays.com/ticino/) - Switzerland (Ticino) 
-* 10-12: [Paris Web](https://www.paris-web.fr) - France (Paris) 
-* 17: [DevOps Rex](http://devopsrex.fr)- France (Paris) 
-* 21-22: [Devfest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
-* 21-23: [VoxxedDays Microservices](https://voxxeddays.com/microservices/) - France (Paris)
-* 24-25: [Forum PHP Paris](https://event.afup.org) - France (Paris) 
-* 25: [React Advanced London](https://reactadvanced.com/) - UK (London) 
-* 29-31: [Scala IO](https://scala.io) - France (Lyon) 
 
 ### November
 
