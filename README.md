@@ -55,7 +55,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 26-28: [ConFoo](https://confoo.ca/en/yul2020) - Canada (Montreal) 
 * 28: [DevFest du Bout du Monde](https://devfest.duboutdumonde.bzh/) - France (Brest)
 
-## March
+### March
 
 * 2: [dotPy](https://2020.dotpy.io/) - France (Paris)
 * 30: [dotGo](https://2020.dotgo.io/) - France (Paris)
