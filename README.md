@@ -52,6 +52,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 3: [dotSwift](https://2020.dotswift.io/) - France (Paris)
 * 14: [DevFest Paris](https://devfest.gdgparis.com/) - France (Paris)
 * 23-26: [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-n'y) - USA (San Jose) 
+* 24-25: [Unvoxxed Hawaii](https://voxxeddays.com/hawaii/) - Hawai (Honolulu)
 * 26-28: [ConFoo](https://confoo.ca/en/yul2020) - Canada (Montreal) 
 * 28: [DevFest du Bout du Monde](https://devfest.duboutdumonde.bzh/) - France (Brest)
 
