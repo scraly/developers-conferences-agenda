@@ -49,6 +49,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
   
 ### February
 
+* 1-2: [FOSDEM](https://fosdem.org/2020/) - Belgium (Brussels)
 * 3: [dotSwift](https://2020.dotswift.io/) - France (Paris)
 * 14: [DevFest Paris](https://devfest.gdgparis.com/) - France (Paris)
 * 23-26: [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-n'y) - USA (San Jose) 
@@ -59,12 +60,15 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### March
 
 * 2: [dotPy](https://2020.dotpy.io/) - France (Paris)
+* 10: [VoxxedDays Zurich](https://voxxeddays.com/zurich/) - Zurich
+* 11-13: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/) - Romania (Bucharest)
 * 30: [dotGo](https://2020.dotgo.io/) - France (Paris)
 * 30-31: [KubeCon Europe](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/) - Netherlands (Amsterdam)
 
 ### April
 
 * 1-2: [KubeCon Europe](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/) - Netherlands (Amsterdam)
+* 3-4: [VoxxedDays Thessaloniki](https://voxxeddays.com/thessaloniki/) - Greece (Thessaloniki)
 * 15-17: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
 * 23-26: [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 * 29-30: [MixIT](https://mixitconf.org/) - France (Lyon)
@@ -72,6 +76,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### May
 
 * 13-15: [Riviera Dev](https://rivieradev.fr/) - France (Nice)
+* 16: [VoxxedDays Milano](https://voxxeddays.com/milan/) - Italy (Milano)
+* 21-22: [VoxxedDays Frontend Bucharest](https://romania.voxxeddays.com/frontend/) - Romania (Bucharest)
 
 # July
 
