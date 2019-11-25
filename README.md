@@ -60,6 +60,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### March
 
 * 2: [dotPy](https://2020.dotpy.io/) - France (Paris)
+* 4: [Git Merge](https://git-merge.com) - USA (Los Angeles)
 * 10: [VoxxedDays Zurich](https://voxxeddays.com/zurich/) - Zurich
 * 11-13: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/) - Romania (Bucharest)
 * 30: [dotGo](https://2020.dotgo.io/) - France (Paris)
@@ -70,6 +71,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 1-2: [KubeCon Europe](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/) - Netherlands (Amsterdam)
 * 3-4: [VoxxedDays Thessaloniki](https://voxxeddays.com/thessaloniki/) - Greece (Thessaloniki)
 * 15-17: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
+* 16-17: [DroidCon Turin](https://it.droidcon.com/2020/it) - Italy (Turin)
 * 23-26: [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 * 29-30: [MixIT](https://mixitconf.org/) - France (Lyon)
 
@@ -78,6 +80,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 13-15: [Riviera Dev](https://rivieradev.fr/) - France (Nice)
 * 16: [VoxxedDays Milano](https://voxxeddays.com/milan/) - Italy (Milano)
 * 21-22: [VoxxedDays Frontend Bucharest](https://romania.voxxeddays.com/frontend/) - Romania (Bucharest)
+
+# June
+
+* 15-18: [DockerCon](https://www.docker.com/dockercon/) - USA (Austin)
 
 # July
 
