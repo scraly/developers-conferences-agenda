@@ -39,6 +39,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### December
 
 * 2-5: [Devops World](https://www.cloudbees.com/devops-world) - Portugal (Lisbon)
+* 4-6: [KotlinConf](https://kotlinconf.com/) - Denmark (Copenhagen)
+* 20-21: [DroidCon Madrid](https://www.madrid.droidcon.com/) - Spain (Madrid)
 
 ## 2020
 
