@@ -71,6 +71,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 13-15: [Riviera Dev](https://rivieradev.fr/) - France (Nice)
 
+# July
+
+* 2-3: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
+
 ### October
 
 * 15-16: [Devfest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
