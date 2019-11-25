@@ -60,9 +60,11 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 2: [dotPy](https://2020.dotpy.io/) - France (Paris)
 * 30: [dotGo](https://2020.dotgo.io/) - France (Paris)
+* 30-31: [KubeCon Europe](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/) - Netherlands (Amsterdam)
 
 ### April
 
+* 1-2: [KubeCon Europe](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/) - Netherlands (Amsterdam)
 * 15-17: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
 * 23-26: [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 * 29-30: [MixIT](https://mixitconf.org/) - France (Lyon)
