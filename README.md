@@ -46,7 +46,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### January
 
+* 14: [GitLab Commit](https://about.gitlab.com/events/commit/) - USA (San Francisco)
+* 15-18: [iOS Conf Singapore](https://2020.iosconf.sg/) - Singapore
 * 22-25: [SnowCamp](http://snowcamp.io/fr/) - France (Grenoble)
+* 30-31: [Re Work](https://www.re-work.co/summits/sanfrancisco-summit-2020) - USA (San Francisco)
 * 31: [Touraine Tech](https://touraine.tech/) - France (Tours)
   
 ### February
@@ -54,6 +57,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 1-2: [FOSDEM](https://fosdem.org/2020/) - Belgium (Brussels)
 * 3: [dotSwift](https://2020.dotswift.io/) - France (Paris)
 * 14: [DevFest Paris](https://devfest.gdgparis.com/) - France (Paris)
+* 19-21: [Frontend Developers Love](https://frontenddeveloperlove.com/) - Netherlands (Amsterdam)
+* 20-21: [VueJS Amsterdam](https://vuejs.amsterdam/?ref=confstech) - Netherlands (Amsterdam)
 * 23-26: [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-n'y) - USA (San Jose) 
 * 24-25: [Unvoxxed Hawaii](https://voxxeddays.com/hawaii/) - Hawai (Honolulu)
 * 26-28: [ConFoo](https://confoo.ca/en/yul2020) - Canada (Montreal) 
