@@ -72,6 +72,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 10: [VoxxedDays Zurich](https://voxxeddays.com/zurich/) - Zurich
 * 11-13: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/) - Romania (Bucharest)
 * 18-19: [DevOps Days](https://devopsdays.org/events/2020-prague/welcome/) - Prague
+* 25-27: [BreizhCamp](https://www.breizhcamp.org/) - France (Rennes)
 * 30: [dotGo](https://2020.dotgo.io/) - France (Paris)
 * 30-31: [KubeCon Europe](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/) - Netherlands (Amsterdam)
 
