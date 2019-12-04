@@ -85,6 +85,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 16-17: [DroidCon Turin](https://it.droidcon.com/2020/it) - Italy (Turin)
 * 23-26: [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 * 24: [Serverless Days Paris](https://paris.serverlessdays.io/) - France (Paris)
+* 27-28: [Kafka Summit London](https://kafka-summit.org/) - UK (London)
 * 29-30: [MixIT](https://mixitconf.org/) - France (Lyon)
 
 ### May
