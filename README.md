@@ -56,6 +56,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 1-2: [FOSDEM](https://fosdem.org/2020/) - Belgium (Brussels)
 * 3: [dotSwift](https://2020.dotswift.io/) - France (Paris)
+* 3: [GopherCon Israel](https://www.gophercon.org.il/) - Israel (Tel Aviv)
 * 14: [DevFest Paris](https://devfest.gdgparis.com/) - France (Paris)
 * 19-21: [Frontend Developers Love](https://frontenddeveloperlove.com/) - Netherlands (Amsterdam)
 * 20-21: [VueJS Amsterdam](https://vuejs.amsterdam/?ref=confstech) - Netherlands (Amsterdam)
@@ -74,6 +75,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18-19: [DevOps Days](https://devopsdays.org/events/2020-prague/welcome/) - Prague
 * 25-27: [BreizhCamp](https://www.breizhcamp.org/) - France (Rennes)
 * 28: [GopherCon Russia](https://www.gophercon-russia.ru/) - Russia (Moscow)
+* 28-29: [GopherCon India](https://gopherconindia.com/) - India (Goa)
 * 30: [dotGo](https://2020.dotgo.io/) - France (Paris)
 * 30-31: [KubeCon Europe](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/) - Netherlands (Amsterdam)
 
