@@ -94,13 +94,17 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 16: [VoxxedDays Milano](https://voxxeddays.com/milan/) - Italy (Milano)
 * 21-22: [VoxxedDays Frontend Bucharest](https://romania.voxxeddays.com/frontend/) - Romania (Bucharest)
 
-# June
+### June
 
 * 15-18: [DockerCon](https://www.docker.com/dockercon/) - USA (Austin)
 
-# July
+### July
 
 * 2-3: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
+
+### August
+
+* 19-21: [GopherCon UK](https://www.gophercon.co.uk/) - UK (London)
 
 ### October
 
