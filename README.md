@@ -80,6 +80,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 1-2: [KubeCon Europe](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/) - Netherlands (Amsterdam)
 * 3-4: [VoxxedDays Thessaloniki](https://voxxeddays.com/thessaloniki/) - Greece (Thessaloniki)
+* 6-8: [Google Cloud Next](https://cloud.withgoogle.com/next/sf) - USA (San Francisco)
 * 15-17: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
 * 16-17: [DroidCon Turin](https://it.droidcon.com/2020/it) - Italy (Turin)
 * 23-26: [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
