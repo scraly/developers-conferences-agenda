@@ -101,3 +101,4 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### October
 
 * 15-16: [Devfest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
+* 27-29: [SRECon](https://www.usenix.org/srecon) - Netherlands (Amsterdam)
