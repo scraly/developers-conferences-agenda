@@ -90,6 +90,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### June
 
 * 15-18: [DockerCon](https://www.docker.com/dockercon/) - USA (Austin)
+* 15-18: [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops) - USA (Santa Clara)
 * 23-25: [Spark+AI Summit](https://databricks.com/sparkaisummit) - USA (San Francisco)
 
 ### July
@@ -108,3 +109,4 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### November
 
 * 3-5: [DevoxxMA](https://www.devoxx.ma/) - Morocco (Agadir)
+* 16-19: [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops) - Germany (Berlin)
