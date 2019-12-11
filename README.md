@@ -86,7 +86,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 13-15: [Devoxx UK](https://www.devoxx.co.uk/) - UK (London)
 * 16: [VoxxedDays Milano](https://voxxeddays.com/milan/) - Italy (Milano)
 * 21-22: [VoxxedDays Frontend Bucharest](https://romania.voxxeddays.com/frontend/) - Romania (Bucharest)
-* 26-28: [RigaDevDays]https://2019.rigadevdays.lv/) - Riga
+* 26-28: [RigaDevDays](https://2019.rigadevdays.lv/) - Riga
 
 ### June
 
