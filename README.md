@@ -80,6 +80,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 13-15: [Riviera Dev](https://rivieradev.fr/) - France (Nice)
 * 13-15: [Devoxx UK](https://www.devoxx.co.uk/) - UK (London)
 * 16: [VoxxedDays Milano](https://voxxeddays.com/milan/) - Italy (Milano)
+* 18-22: [Scala Days Seattle](https://scaladays.org/) - Seattle (USA)
 * 21-22: [VoxxedDays Frontend Bucharest](https://romania.voxxeddays.com/frontend/) - Romania (Bucharest)
 * 26-28: [RigaDevDays](https://2019.rigadevdays.lv/) - Riga
 
@@ -92,6 +93,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### July
 
+* 1-3: [Scala Days Berlin](https://scaladays.org/) - Germany (Berlin)
 * 2-3: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
 
 ### August
