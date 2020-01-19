@@ -82,6 +82,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 16: [VoxxedDays Milano](https://voxxeddays.com/milan/) - Italy (Milano)
 * 21-22: [VoxxedDays Frontend Bucharest](https://romania.voxxeddays.com/frontend/) - Romania (Bucharest)
 * 26-28: [RigaDevDays](https://2019.rigadevdays.lv/) - Riga
+* 28-29: [NewCrafts Paris](https://ncrafts.io/) - France (Paris)
 
 ### June
 
