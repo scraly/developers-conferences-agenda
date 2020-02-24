@@ -112,4 +112,5 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### November
 
 * 3-5: [DevoxxMA](https://www.devoxx.ma/) - Morocco (Agadir)
+* 5-6: [DevFest Toulouse](https://devfesttoulouse.fr/) - France (Toulouse)
 * 16-19: [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops) - Germany (Berlin)
