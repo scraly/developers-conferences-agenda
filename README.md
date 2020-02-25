@@ -54,6 +54,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 9-11: [DevOps Gathering](https://devops-gathering.io/) - Germany
 * 10: [VoxxedDays Zurich](https://voxxeddays.com/zurich/) - Zurich
 * 11-13: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/) - Romania (Bucharest)
+* 17: [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/) - France (Paris)
 * 18-19: [DevOps Days](https://devopsdays.org/events/2020-prague/welcome/) - Prague
 * 25-27: [BreizhCamp](https://www.breizhcamp.org/) - France (Rennes)
 * 28: [GopherCon Russia](https://www.gophercon-russia.ru/) - Russia (Moscow)
