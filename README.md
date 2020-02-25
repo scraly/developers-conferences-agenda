@@ -104,6 +104,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 19-21: [GopherCon UK](https://www.gophercon.co.uk/) - UK (London)
 
+### September
+
+* 9-11: [KotlinConf](https://www.kotlinconf.com/) - Canada (Montreal)
+
 ### October
 
 * 15-16: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
