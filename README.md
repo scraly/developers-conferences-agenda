@@ -79,7 +79,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 6-7: [GitHub Satellite](http://githubsatellite.com) - France(Paris)
 * 13-15: [Riviera Dev](https://rivieradev.fr/) - France (Nice)
-* 13-15: [Devoxx UK](https://www.devoxx.co.uk/) - UK (London)
 * 16: [VoxxedDays Milano](https://voxxeddays.com/milan/) - Italy (Milano)
 * 18-22: [Scala Days Seattle](https://scaladays.org/) - Seattle (USA)
 * 21-22: [VoxxedDays Frontend Bucharest](https://romania.voxxeddays.com/frontend/) - Romania (Bucharest)
@@ -105,6 +104,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### August
 
 * 19-21: [GopherCon UK](https://www.gophercon.co.uk/) - UK (London)
+* 24-26: [Devoxx UK](https://www.devoxx.co.uk/) - UK (London)
 
 ### September
 
