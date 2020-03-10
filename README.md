@@ -112,6 +112,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### October
 
 * 15-16: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
+* 15-16: [Volcamp](https://volcamp.io/) - France (Clermont-Ferrand) 
 * 27-29: [SRECon](https://www.usenix.org/srecon) - Netherlands (Amsterdam)
 
 ### November
