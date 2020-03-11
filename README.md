@@ -49,6 +49,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 16-17: [DroidCon Turin](https://it.droidcon.com/2020/it) - Italy (Turin)
 * 23-26: [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 * 27-28: [Kafka Summit London](https://kafka-summit.org/) - UK (London)
+* 27-28: [Incontro DevOps](https://2020.incontrodevops.it/) - Italy (Bologna)
 * 28-29: [CodeMobile](http://www.codemobile.co.uk/) - UK (London)
 * [Canceled] 29-30: [MixIT](https://mixitconf.org/) - France (Lyon)
 
