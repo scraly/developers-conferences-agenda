@@ -76,6 +76,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 1-3: [DroidCon Berlin](https://www.berlin.droidcon.com/) - Germany (Berlin)
 * 2: [Serverless Days Paris](https://paris.serverlessdays.io/) - France (Paris)
 * 2-3: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
+* 17-20: [Oxidize](https://oxidizeconf.com/) - Germany (Berlin)
 * End of July [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 
 ### August
