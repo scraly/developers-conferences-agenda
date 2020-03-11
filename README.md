@@ -48,7 +48,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [Virtualized] 6-8: [Google Cloud Next](https://cloud.withgoogle.com/next/sf) - USA (San Francisco)
 * 16-17: [DroidCon Turin](https://it.droidcon.com/2020/it) - Italy (Turin)
 * 23-26: [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
-* 24: [Serverless Days Paris](https://paris.serverlessdays.io/) - France (Paris)
 * 27-28: [Kafka Summit London](https://kafka-summit.org/) - UK (London)
 * 28-29: [CodeMobile](http://www.codemobile.co.uk/) - UK (London)
 * [Canceled] 29-30: [MixIT](https://mixitconf.org/) - France (Lyon)
@@ -78,6 +77,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 1-3: [Scala Days Berlin](https://scaladays.org/) - Germany (Berlin)
 * 1-3: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
+* 2: [Serverless Days Paris](https://paris.serverlessdays.io/) - France (Paris)
 * 2-3: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
 
 ### August
