@@ -19,12 +19,11 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [2017](archives/2017.md)
 * [2018](archives/2018.md)
 * [2019](archives/2019.md)
-
-## 2019
-
-[...](archives/2019.md)
+* [2020](archives/2020.md)
 
 ## 2020
+
+[...](archives/2020.md)
 
 ### January
 
@@ -49,36 +48,36 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### March
 
-* 2: [dotPy](https://2020.dotpy.io/) - France (Paris)
+* [Canceled] 2: [dotPy](https://2020.dotpy.io/) - France (Paris)
 * 4: [Git Merge](https://git-merge.com) - USA (Los Angeles)
 * 9-11: [DevOps Gathering](https://devops-gathering.io/) - Germany
 * 10: [VoxxedDays Zurich](https://voxxeddays.com/zurich/) - Zurich
 * 11-13: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/) - Romania (Bucharest)
 * 17: [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/) - France (Paris)
 * 18-19: [DevOps Days](https://devopsdays.org/events/2020-prague/welcome/) - Prague
-* 25-27: [BreizhCamp](https://www.breizhcamp.org/) - France (Rennes)
+* [Canceled] 25-27: [BreizhCamp](https://www.breizhcamp.org/) - France (Rennes)
 * 28: [GopherCon Russia](https://www.gophercon-russia.ru/) - Russia (Moscow)
 * 28-29: [GopherCon India](https://gopherconindia.com/) - India (Goa)
-* 30: [dotGo](https://2020.dotgo.io/) - France (Paris)
-* 30-31: [KubeCon Europe](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/) - Netherlands (Amsterdam)
+* [Canceled] 30: [dotGo](https://2020.dotgo.io/) - France (Paris)
+* [Virtualized] 30-31: [KubeCon Europe](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/) - Netherlands (Amsterdam)
 
 ### April
 
-* 1-2: [KubeCon Europe](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/) - Netherlands (Amsterdam)
+* [Virtua&lized] 1-2: [KubeCon Europe](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/) - Netherlands (Amsterdam)
 * 3-4: [VoxxedDays Thessaloniki](https://voxxeddays.com/thessaloniki/) - Greece (Thessaloniki)
-* 6-8: [Google Cloud Next](https://cloud.withgoogle.com/next/sf) - USA (San Francisco)
+* [Virtualized] 6-8: [Google Cloud Next](https://cloud.withgoogle.com/next/sf) - USA (San Francisco)
 * 16-17: [DroidCon Turin](https://it.droidcon.com/2020/it) - Italy (Turin)
 * 23-26: [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 * 24: [Serverless Days Paris](https://paris.serverlessdays.io/) - France (Paris)
 * 27-28: [Kafka Summit London](https://kafka-summit.org/) - UK (London)
 * 28-29: [CodeMobile](http://www.codemobile.co.uk/) - UK (London)
-* 29-30: [MixIT](https://mixitconf.org/) - France (Lyon)
+* [Canceled] 29-30: [MixIT](https://mixitconf.org/) - France (Lyon)
 
 ### May
 
 * 6-7: [GitHub Satellite](http://githubsatellite.com) - France(Paris)
 * 13-15: [Riviera Dev](https://rivieradev.fr/) - France (Nice)
-* 16: [VoxxedDays Milano](https://voxxeddays.com/milan/) - Italy (Milano)
+* [Canceled] 16: [VoxxedDays Milano](https://voxxeddays.com/milan/) - Italy (Milano)
 * 18-22: [Scala Days Seattle](https://scaladays.org/) - Seattle (USA)
 * 21-22: [VoxxedDays Frontend Bucharest](https://romania.voxxeddays.com/frontend/) - Romania (Bucharest)
 * 26-28: [RigaDevDays](https://2019.rigadevdays.lv/) - Riga
