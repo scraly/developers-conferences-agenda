@@ -33,8 +33,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 9-11: [DevOps Gathering](https://devops-gathering.io/) - Germany
 * [Canceled] 11-13: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/) - Romania (Bucharest)
 * 11-15: [JChateau](https://www.jchateau.org/) - France (Amboise)
-* 17: [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/) - France (Paris)
-* 18-19: [DevOps Days](https://devopsdays.org/events/2020-prague/welcome/) - Prague
+* [Canceled] 17: [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/) - France (Paris)
 * [Canceled] 25-27: [BreizhCamp](https://www.breizhcamp.org/) - France (Rennes)
 * 28: [GopherCon Russia](https://www.gophercon-russia.ru/) - Russia (Moscow)
 * 28-29: [GopherCon India](https://gopherconindia.com/) - India (Goa)
@@ -44,23 +43,19 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### April
 
 * [Virtualized] 1-2: [KubeCon Europe](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/) - Netherlands (Amsterdam)
-* 3-4: [VoxxedDays Thessaloniki](https://voxxeddays.com/thessaloniki/) - Greece (Thessaloniki)
 * [Virtualized] 6-8: [Google Cloud Next](https://cloud.withgoogle.com/next/sf) - USA (San Francisco)
-* 16-17: [DroidCon Turin](https://it.droidcon.com/2020/it) - Italy (Turin)
-* 23-26: [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
-* 27-28: [Kafka Summit London](https://kafka-summit.org/) - UK (London)
+* [Canceled] 27-28: [Kafka Summit London](https://kafka-summit.org/) - UK (London)
 * 27-28: [Incontro DevOps](https://2020.incontrodevops.it/) - Italy (Bologna)
-* 28-29: [CodeMobile](http://www.codemobile.co.uk/) - UK (London)
+* [Canceled] 28-29: [CodeMobile](http://www.codemobile.co.uk/) - UK (London)
 * [Canceled] 29-30: [MixIT](https://mixitconf.org/) - France (Lyon)
 
 ### May
 
-* 6-7: [GitHub Satellite](http://githubsatellite.com) - France(Paris)
+* [Virtualized] 6-7: [GitHub Satellite](http://githubsatellite.com) - France (Paris)
 * 13-15: [Riviera Dev](https://rivieradev.fr/) - France (Nice)
 * [Canceled] 16: [VoxxedDays Milano](https://voxxeddays.com/milan/) - Italy (Milano)
-* 18-22: [Scala Days Seattle](https://scaladays.org/) - Seattle (USA)
 * 21-22: [VoxxedDays Frontend Bucharest](https://romania.voxxeddays.com/frontend/) - Romania (Bucharest)
-* 26-28: [RigaDevDays](https://2019.rigadevdays.lv/) - Riga
+* 26-28: [RigaDevDays](https://2020.rigadevdays.lv/) - Riga
 * 28-29: [NewCrafts Paris](https://ncrafts.io/) - France (Paris)
 
 ### June
@@ -80,6 +75,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 1-3: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
 * 2: [Serverless Days Paris](https://paris.serverlessdays.io/) - France (Paris)
 * 2-3: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
+* End of July [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 
 ### August
 
@@ -90,11 +86,15 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 9-11: [KotlinConf](https://www.kotlinconf.com/) - Canada (Montreal)
 * 15: [VoxxedDays Zurich](https://voxxeddays.com/zurich/) - Zurich
+* 17-18: [DevOps Days Istanbul](https://devopsdays.istanbul/) - Istanbul
+* 24-25: [DevOps Days London](https://devopsdays.org/events/2020-london/welcome/) - UK (London)
+* 29-30: [DevOps Days Prague](https://devopsdays.org/events/2020-prague/welcome/) - Prague
 
 ### October
 
 * 15-16: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
 * 15-16: [Volcamp](https://volcamp.io/) - France (Clermont-Ferrand) 
+* 15-16: [VoxxedDays Thessaloniki](https://voxxeddays.com/thessaloniki/) - Greece (Thessaloniki)
 * 27-29: [SRECon](https://www.usenix.org/srecon) - Netherlands (Amsterdam)
 
 ### November
@@ -103,3 +103,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 5-6: [DevFest Toulouse](https://devfesttoulouse.fr/) - France (Toulouse)
 * 16-19: [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops) - Germany (Berlin)
 * 19: [Codeurs en Seine](https://www.codeursenseine.com) - France (Rouen)
+* 27-28: [DroidCon Turin](https://it.droidcon.com/2020/it) - Italy (Turin)
+
+## 2021
+
+### May
+
+* xx: [Scala Days Seattle](https://scaladays.org/) - Seattle (USA)
