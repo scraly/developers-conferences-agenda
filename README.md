@@ -31,7 +31,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [Canceled] 2: [dotPy](https://2020.dotpy.io/) - France (Paris)
 * 4: [Git Merge](https://git-merge.com) - USA (Los Angeles)
 * 9-11: [DevOps Gathering](https://devops-gathering.io/) - Germany
-* 11-13: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/) - Romania (Bucharest)
+[Canceled] * 11-13: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/) - Romania (Bucharest)
 * 11-15: [JChateau](https://www.jchateau.org/) - France (Amboise)
 * 17: [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/) - France (Paris)
 * 18-19: [DevOps Days](https://devopsdays.org/events/2020-prague/welcome/) - Prague
