@@ -73,6 +73,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 1-3: [Scala Days Berlin](https://scaladays.org/) - Germany (Berlin)
 * 1-3: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
+* 1-3: [DroidCon Berlin](https://www.berlin.droidcon.com/) - Germany (Berlin)
 * 2: [Serverless Days Paris](https://paris.serverlessdays.io/) - France (Paris)
 * 2-3: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
 * End of July [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
@@ -81,6 +82,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 19-21: [GopherCon UK](https://www.gophercon.co.uk/) - UK (London)
 * 24-26: [Devoxx UK](https://www.devoxx.co.uk/) - UK (London)
+* 24-29: [Foss4G](https://2020.foss4g.org/) - Canada (Alberta)
 
 ### September
 
@@ -92,9 +94,11 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### October
 
+* 15: [DevopsDays Paris](https://devopsdays.org/events/2020-paris/welcome/) - France (Paris)
 * 15-16: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
 * 15-16: [Volcamp](https://volcamp.io/) - France (Clermont-Ferrand) 
 * 15-16: [VoxxedDays Thessaloniki](https://voxxeddays.com/thessaloniki/) - Greece (Thessaloniki)
+* 16-17: [RustLab](https://www.rustlab.it/home) - Italy (Firenze) 
 * 27-29: [SRECon](https://www.usenix.org/srecon) - Netherlands (Amsterdam)
 
 ### November
