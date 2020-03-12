@@ -40,6 +40,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 28-29: [GopherCon India](https://gopherconindia.com/) - India (Goa)
 * [Canceled] 30: [dotGo](https://2020.dotgo.io/) - France (Paris)
 * [Virtualized] 30-31: [KubeCon Europe](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/) - Netherlands (Amsterdam)
+* [Canceled] 30-31: [TSConf:EU](https://tsconf.eu/) - Linz (Austria)
 
 ### April
 
