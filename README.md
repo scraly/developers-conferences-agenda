@@ -34,6 +34,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [Canceled] 11-13: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/) - Romania (Bucharest)
 * 11-15: [JChateau](https://www.jchateau.org/) - France (Amboise)
 * [Canceled] 17: [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/) - France (Paris)
+* 17: [APIDays Express](https://www.apidays.co/jakarta) - Jakarta
 * [Canceled] 25-27: [BreizhCamp](https://www.breizhcamp.org/) - France (Rennes)
 * 28: [GopherCon Russia](https://www.gophercon-russia.ru/) - Russia (Moscow)
 * 28-29: [GopherCon India](https://gopherconindia.com/) - India (Goa)
@@ -57,6 +58,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 13-15: [Riviera Dev](https://rivieradev.fr/) - France (Nice)
 * [Canceled] 16: [VoxxedDays Milano](https://voxxeddays.com/milan/) - Italy (Milano)
 * 21-22: [VoxxedDays Frontend Bucharest](https://romania.voxxeddays.com/frontend/) - Romania (Bucharest)
+* [Canceled] 25-26: [ngVikings](https://ngvikings.org/) - Oslo
 * 26-28: [RigaDevDays](https://2020.rigadevdays.lv/) - Riga
 * 28-29: [NewCrafts Paris](https://ncrafts.io/) - France (Paris)
 
@@ -78,6 +80,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 1-3: [DroidCon Berlin](https://www.berlin.droidcon.com/) - Germany (Berlin)
 * 2: [Serverless Days Paris](https://paris.serverlessdays.io/) - France (Paris)
 * 2-3: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
+* 11: [GoWayFest](https://goway.io/) - Belarus (Minsk)
 * 17-20: [Oxidize](https://oxidizeconf.com/) - Germany (Berlin)
 * End of July [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 
@@ -104,6 +107,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 15-16: [VoxxedDays Thessaloniki](https://voxxeddays.com/thessaloniki/) - Greece (Thessaloniki)
 * 16-17: [RustLab](https://www.rustlab.it/home) - Italy (Firenze) 
 * 27-29: [SRECon](https://www.usenix.org/srecon) - Netherlands (Amsterdam)
+* 27-29: [European Cloud Conference](https://europeancloudconference.com/) - France (Nice)
 
 ### November
 
