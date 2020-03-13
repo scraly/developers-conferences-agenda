@@ -35,6 +35,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-15: [JChateau](https://www.jchateau.org/) - France (Amboise)
 * [Canceled] 17: [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/) - France (Paris)
 * 17: [APIDays Express](https://www.apidays.co/jakarta) - Jakarta
+* [Canceled] 24: [Nordic PGDay](https://2020.nordicpgday.org/) - Helsinki
 * [Canceled] 25-27: [BreizhCamp](https://www.breizhcamp.org/) - France (Rennes)
 * 28: [GopherCon Russia](https://www.gophercon-russia.ru/) - Russia (Moscow)
 * 28-29: [GopherCon India](https://gopherconindia.com/) - India (Goa)
@@ -60,6 +61,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [Canceled] 16: [VoxxedDays Milano](https://voxxeddays.com/milan/) - Italy (Milano)
 * 21-22: [VoxxedDays Frontend Bucharest](https://romania.voxxeddays.com/frontend/) - Romania (Bucharest)
 * [Canceled] 25-26: [ngVikings](https://ngvikings.org/) - Oslo
+* [Canceled] 26-28: [GR8Conf & JDK IO](https://www.gr8conf.org/) - Denmark (Copenhagen)
 * 26-28: [RigaDevDays](https://2020.rigadevdays.lv/) - Riga
 * 28-29: [NewCrafts Paris](https://ncrafts.io/) - France (Paris)
 
