@@ -63,7 +63,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [Canceled] 25-26: [ngVikings](https://ngvikings.org/) - Oslo
 * [Canceled] 26-28: [GR8Conf & JDK IO](https://www.gr8conf.org/) - Denmark (Copenhagen)
 * 26-28: [RigaDevDays](https://2020.rigadevdays.lv/) - Riga
-* 28-29: [NewCrafts Paris](https://ncrafts.io/) - France (Paris)
+* [Canceled] 28-29: [NewCrafts Paris](https://ncrafts.io/) - France (Paris)
 
 ### June
 
