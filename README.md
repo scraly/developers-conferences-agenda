@@ -57,7 +57,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * [Virtualized] 6-7: [GitHub Satellite](http://githubsatellite.com) - France (Paris)
 * [Virtualized] 12-14: [Google IO](https://events.google.com/io/) - USA
-* 13-15: [Riviera Dev](https://rivieradev.fr/) - France (Nice)
+* [Canceled] 13-15: [Riviera Dev](https://rivieradev.fr/) - France (Nice)
 * [Canceled] 16: [VoxxedDays Milano](https://voxxeddays.com/milan/) - Italy (Milano)
 * 21-22: [VoxxedDays Frontend Bucharest](https://romania.voxxeddays.com/frontend/) - Romania (Bucharest)
 * [Canceled] 25-26: [ngVikings](https://ngvikings.org/) - Oslo
