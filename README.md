@@ -105,6 +105,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### October
 
+* 8-9: [Spring I/O](https://2020.springio.net) - Spain (Barcelona)
 * 15: [DevopsDays Paris](https://devopsdays.org/events/2020-paris/welcome/) - France (Paris)
 * 15-16: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
 * 15-16: [Volcamp](https://volcamp.io/) - France (Clermont-Ferrand) 
