@@ -58,6 +58,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### May
 
 * [Virtualized] 6-7: [GitHub Satellite](http://githubsatellite.com) - France (Paris)
+* 7: [JAlba](https://jalba.scot/) - Scotland (Edinburgh)
 * [Virtualized] 12-14: [Google IO](https://events.google.com/io/) - USA
 * [Canceled] 13-15: [Riviera Dev](https://rivieradev.fr/) - France (Nice)
 * [Canceled] 16: [VoxxedDays Milano](https://voxxeddays.com/milan/) - Italy (Milano)
@@ -71,7 +72,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 4-5: [AlpesCraft](https://www.alpescraft.fr/) - France (Grenoble)
 * [Canceled] 4-5: [BestOfWeb](https://www.bestofweb.paris/) - France (Paris)
-* 6: [Flutter Conf Paris](https://flutter-conf.paris/) - France (France)
+* 6: [Flutter Conf Paris](https://flutter-conf.paris/) - France (Paris)
+* 6: [Hack Commit Push](https://paris2020.hack-commit-pu.sh/) - France (Paris)
 * 9-12: [Craft Conf](https://craft-conf.com/) - Budapest (Hungary)
 * 12: [DevFest Lille](http://devfest.gdglille.org) - France (Lille)
 * 15-18: [DockerCon](https://www.docker.com/dockercon/) - USA (Austin)
@@ -88,6 +90,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 2-3: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
 * 11: [GoWayFest](https://goway.io/) - Belarus (Minsk)
 * 17-20: [Oxidize](https://oxidizeconf.com/) - Germany (Berlin)
+* 19-24: [JCrete](https://www.jcrete.org/) - Crete ([Orthodox Academy of Crete](http://tinyurl.com/oacrete))
 * End of July [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 
 ### August
@@ -115,6 +118,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 16-17: [RustLab](https://www.rustlab.it/home) - Italy (Firenze) 
 * 27-29: [SRECon](https://www.usenix.org/srecon) - Netherlands (Amsterdam)
 * 27-29: [European Cloud Conference](https://europeancloudconference.com/) - France (Nice)
+* xx: [SoCraTes](https://socrates-fr.github.io/) - France (xx)
 
 ### November
 
