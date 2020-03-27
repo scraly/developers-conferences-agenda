@@ -70,7 +70,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### June
 
-* 4-5: [AlpesCraft](https://www.alpescraft.fr/) - France (Grenoble)
+* [Delayed to Automn] 4-5: [AlpesCraft](https://www.alpescraft.fr/) - France (Grenoble)
 * [Canceled] 4-5: [BestOfWeb](https://www.bestofweb.paris/) - France (Paris)
 * 6: [Flutter Conf Paris](https://flutter-conf.paris/) - France (Paris)
 * 6: [Hack Commit Push](https://paris2020.hack-commit-pu.sh/) - France (Paris)
