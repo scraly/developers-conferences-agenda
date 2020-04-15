@@ -51,7 +51,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [Virtualized] 6-8: [Google Cloud Next](https://cloud.withgoogle.com/next/sf) - USA (San Francisco)
 * [Canceled] 20-23: [O'Reilly Strata Data & AI London](https://conferences.oreilly.com/strata-data-ai/public/content/eu) - UK (London)
 * [Canceled] 27-28: [Kafka Summit London](https://kafka-summit.org/) - UK (London)
-* 27-28: [Incontro DevOps](https://2020.incontrodevops.it/) - Italy (Bologna)
 * [Canceled] 28-29: [CodeMobile](http://www.codemobile.co.uk/) - UK (London)
 * [Canceled] 29-30: [MixIT](https://mixitconf.org/) - France (Lyon)
 
@@ -116,6 +115,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 15-16: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
 * 15-16: [Volcamp](https://volcamp.io/) - France (Clermont-Ferrand) 
 * 15-16: [VoxxedDays Thessaloniki](https://voxxeddays.com/thessaloniki/) - Greece (Thessaloniki)
+* 22: [Incontro DevOps](https://2020.incontrodevops.it/) - Italy (Bologna)
 * 16-17: [RustLab](https://www.rustlab.it/home) - Italy (Firenze) 
 * 27-29: [SRECon](https://www.usenix.org/srecon) - Netherlands (Amsterdam)
 * 27-29: [European Cloud Conference](https://europeancloudconference.com/) - France (Nice)
