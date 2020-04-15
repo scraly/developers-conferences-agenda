@@ -81,6 +81,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 15-18: [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops) - USA (Santa Clara)
 * 18-19: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
 * 23-25: [Spark+AI Summit](https://databricks.com/sparkaisummit) - USA (San Francisco)
+* [Virtualized] End of June [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 
 ### July
 
@@ -92,7 +93,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11: [GoWayFest](https://goway.io/) - Belarus (Minsk)
 * 17-20: [Oxidize](https://oxidizeconf.com/) - Germany (Berlin)
 * 19-24: [JCrete](https://www.jcrete.org/) - Crete ([Orthodox Academy of Crete](http://tinyurl.com/oacrete))
-* End of July [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 
 ### August
 
@@ -131,6 +131,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 27-28: [DroidCon Turin](https://it.droidcon.com/2020/it) - Italy (Turin)
 
 ## 2021
+
+### April
+
+* 25-29 [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 
 ### May
 
