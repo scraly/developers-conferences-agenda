@@ -69,7 +69,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * [Canceled] 1: [Serverless Days Paris](https://paris.serverlessdays.io/) - France (Paris)
 * 1-3: [Scala Days Berlin](https://scaladays.org/) - Germany (Berlin)
-* 1-3: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
+* [Canceled] 1-3: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
 * 1-3: [DroidCon Berlin](https://www.berlin.droidcon.com/) - Germany (Berlin)
 * 2-3: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
 * 11: [GoWayFest](https://goway.io/) - Belarus (Minsk)
