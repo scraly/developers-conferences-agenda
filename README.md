@@ -58,7 +58,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 6: [Flutter Conf Paris](https://flutter-conf.paris/) - France (Paris)
 * 6: [Hack Commit Push](https://paris2020.hack-commit-pu.sh/) - France (Paris)
 * 9-12: [Craft Conf](https://craft-conf.com/) - Budapest (Hungary)
-* 12: [DevFest Lille](http://devfest.gdglille.org) - France (Lille)
+* [Canceled] 12: [DevFest Lille](http://devfest.gdglille.org) - France (Lille)
 * [Virtualized] 18: [Cloud Ouest](https://cloudouest.fr/) - France (Nantes)
 * 15-18: [DockerCon](https://www.docker.com/dockercon/) - USA (Austin)
 * 15-18: [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops) - USA (Santa Clara)
