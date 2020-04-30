@@ -40,7 +40,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### May
 
 * [Virtualized] 6-7: [GitHub Satellite](http://githubsatellite.com) - France (Paris)
-* 7: [JAlba](https://jalba.scot/) - Scotland (Edinburgh)
+* [Virtualized] 7: [JAlba](https://jalba.scot/) - Scotland (Edinburgh)
 * [Virtualized] 12-14: [Google IO](https://events.google.com/io/) - USA
 * [Canceled] 13-15: [Riviera Dev](https://rivieradev.fr/) - France (Nice)
 * 15: [AFUP Day](https://event.afup.org/) - France (Lille, Lyon, Nantes, Tours)
@@ -59,6 +59,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 6: [Hack Commit Push](https://paris2020.hack-commit-pu.sh/) - France (Paris)
 * 9-12: [Craft Conf](https://craft-conf.com/) - Budapest (Hungary)
 * [Canceled] 12: [DevFest Lille](http://devfest.gdglille.org) - France (Lille)
+* [Virtualized] 18: [Cloud Ouest](https://cloudouest.fr/) - France (Nantes)
 * 15-18: [DockerCon](https://www.docker.com/dockercon/) - USA (Austin)
 * 15-18: [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops) - USA (Santa Clara)
 * 18-19: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
@@ -71,7 +72,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 1-3: [Scala Days Berlin](https://scaladays.org/) - Germany (Berlin)
 * [Canceled] 1-3: [Devoxx France](https://www.devoxx.fr/) - France (Paris)
 * 1-3: [DroidCon Berlin](https://www.berlin.droidcon.com/) - Germany (Berlin)
-* 2-3: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
+* [Canceled] 2-3: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
 * 11: [GoWayFest](https://goway.io/) - Belarus (Minsk)
 * 17-20: [Oxidize](https://oxidizeconf.com/) - Germany (Berlin)
 * 19-24: [JCrete](https://www.jcrete.org/) - Crete ([Orthodox Academy of Crete](http://tinyurl.com/oacrete))
@@ -109,6 +110,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 3-5: [DevoxxMA](https://www.devoxx.ma/) - Morocco (Agadir)
 * 4: [Kubernetes Community Day](https://kubernetescommunitydays.org/events/2020-paris/) - France (Paris)
 * 5-6: [DevFest Toulouse](https://devfesttoulouse.fr/) - France (Toulouse)
+* 5-7: [DevoxxUkraine](https://devoxx.com.ua/) - Ukraine (Kyiv)
 * 16-19: [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops) - Germany (Berlin)
 * 19: [Codeurs en Seine](https://www.codeursenseine.com) - France (Rouen)
 * 27-28: [DroidCon Turin](https://it.droidcon.com/2020/it) - Italy (Turin)
