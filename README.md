@@ -40,7 +40,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### May
 
 * [Virtualized] 6-7: [GitHub Satellite](http://githubsatellite.com) - France (Paris)
-* 7: [JAlba](https://jalba.scot/) - Scotland (Edinburgh)
+* [Virtualized] 7: [JAlba](https://jalba.scot/) - Scotland (Edinburgh)
 * [Virtualized] 12-14: [Google IO](https://events.google.com/io/) - USA
 * [Canceled] 13-15: [Riviera Dev](https://rivieradev.fr/) - France (Nice)
 * 15: [AFUP Day](https://event.afup.org/) - France (Lille, Lyon, Nantes, Tours)
