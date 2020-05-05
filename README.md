@@ -101,6 +101,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 15-16: [VoxxedDays Thessaloniki](https://voxxeddays.com/thessaloniki/) - Greece (Thessaloniki)
 * 22: [Incontro DevOps](https://2020.incontrodevops.it/) - Italy (Bologna)
 * 16-17: [RustLab](https://www.rustlab.it/home) - Italy (Firenze) 
+* [Virtualized] 19-22: [EclipseCon 2020](https://www.eclipsecon.org/2020) - Germany (Ludwigsburg)
 * 27-29: [SRECon](https://www.usenix.org/srecon) - Netherlands (Amsterdam)
 * 27-29: [European Cloud Conference](https://europeancloudconference.com/) - France (Nice)
 * xx: [SoCraTes](https://socrates-fr.github.io/) - France (xx)
