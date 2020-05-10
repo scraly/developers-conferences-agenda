@@ -104,6 +104,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [Virtualized] 19-22: [EclipseCon 2020](https://www.eclipsecon.org/2020) - Germany (Ludwigsburg)
 * 27-29: [SRECon](https://www.usenix.org/srecon) - Netherlands (Amsterdam)
 * 27-29: [European Cloud Conference](https://europeancloudconference.com/) - France (Nice)
+* 30: [BDX I/O](https://www.bdxio.fr/) - France (Bordeaux)
 * xx: [SoCraTes](https://socrates-fr.github.io/) - France (xx)
 
 ### November
