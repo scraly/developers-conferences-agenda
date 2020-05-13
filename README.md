@@ -87,7 +87,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### September
 
 * 9-11: [KotlinConf](https://www.kotlinconf.com/) - Canada (Montreal)
-* 11: [JUG Summer Camp](https://www.jugsummercamp.org/edition/11) - France (La rochelle)
+* 11: [JUG Summer Camp](https://www.jugsummercamp.org/edition/11) - France (La Rochelle)
 * 14-17: [O'Reilly Strata Data & AI New York](https://conferences.oreilly.com/strata-data-ai/stai-ny) - USA (New York)
 * 15: [VoxxedDays Zurich](https://voxxeddays.com/zurich/) - Zurich
 * 17-18: [DevOps Days Istanbul](https://devopsdays.istanbul/) - Istanbul
