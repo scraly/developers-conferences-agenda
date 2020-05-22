@@ -119,3 +119,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### May
 
 * xx: [Scala Days Seattle](https://scaladays.org/) - Seattle (USA)
+
+### June
+
+* 21-22: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
