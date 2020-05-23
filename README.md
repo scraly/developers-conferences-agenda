@@ -54,7 +54,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [Virtualized] 18: [Cloud Ouest](https://cloudouest.fr/) - France (Nantes)
 * 15-18: [DockerCon](https://www.docker.com/dockercon/) - USA (Austin)
 * 15-18: [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops) - USA (Santa Clara)
-* 18-19: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
+* [Canceled] 18-19: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
 * 23-25: [Spark+AI Summit](https://databricks.com/sparkaisummit) - USA (San Francisco)
 * [Virtualized] End of June [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 
@@ -119,3 +119,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### May
 
 * xx: [Scala Days Seattle](https://scaladays.org/) - Seattle (USA)
+
+### June
+
+* 21-22: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
