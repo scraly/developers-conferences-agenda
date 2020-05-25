@@ -48,7 +48,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [Delayed to Automn] 4-5: [AlpesCraft](https://www.alpescraft.fr/) - France (Grenoble)
 * [Canceled] 4-5: [BestOfWeb](https://www.bestofweb.paris/) - France (Paris)
 * 6: [Flutter Conf Paris](https://flutter-conf.paris/) - France (Paris)
-* 6: [Hack Commit Push](https://paris2020.hack-commit-pu.sh/) - France (Paris)
 * 9-12: [Craft Conf](https://craft-conf.com/) - Budapest (Hungary)
 * [Canceled] 12: [DevFest Lille](http://devfest.gdglille.org) - France (Lille)
 * [Virtualized] 18: [Cloud Ouest](https://cloudouest.fr/) - France (Nantes)
@@ -56,6 +55,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 15-18: [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops) - USA (Santa Clara)
 * [Canceled] 18-19: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
 * 23-25: [Spark+AI Summit](https://databricks.com/sparkaisummit) - USA (San Francisco)
+* [Virtualized] 27: [Hack Commit Push](https://paris2020.hack-commit-pu.sh/) - France (Paris)
 * [Virtualized] End of June [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 
 ### July
