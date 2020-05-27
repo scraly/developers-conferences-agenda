@@ -68,6 +68,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11: [GoWayFest](https://goway.io/) - Belarus (Minsk)
 * 17-20: [Oxidize](https://oxidizeconf.com/) - Germany (Berlin)
 * 19-24: [JCrete](https://www.jcrete.org/) - Crete ([Orthodox Academy of Crete](http://tinyurl.com/oacrete))
+* [Virtualized] 23-24: [CodeLand Conference](https://codelandconf.com/)
 
 ### August
 
