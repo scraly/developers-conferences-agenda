@@ -105,7 +105,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 3-5: [DevoxxMA](https://www.devoxx.ma/) - Morocco (Agadir)
 * 4: [Kubernetes Community Day](https://kubernetescommunitydays.org/events/2020-paris/) - France (Paris)
-* 5-6: [DevFest Toulouse](https://devfesttoulouse.fr/) - France (Toulouse)
+* [Canceled] 5-6: [DevFest Toulouse](https://devfesttoulouse.fr/) - France (Toulouse)
 * 5-7: [DevoxxUkraine](https://devoxx.com.ua/) - Ukraine (Kyiv)
 * 16-19: [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops) - Germany (Berlin)
 * 19: [Codeurs en Seine](https://www.codeursenseine.com) - France (Rouen)
