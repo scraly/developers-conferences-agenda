@@ -90,7 +90,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 8-9: [Spring I/O](https://2020.springio.net) - Spain (Barcelona)
 * 15: [DevopsDays Paris](https://devopsdays.org/events/2020-paris/welcome/) - France (Paris)
-* 15-16: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
+* [Canceled] 15-16: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
 * 15-16: [Volcamp](https://volcamp.io/) - France (Clermont-Ferrand) 
 * 15-16: [VoxxedDays Thessaloniki](https://voxxeddays.com/thessaloniki/) - Greece (Thessaloniki)
 * 22: [Incontro DevOps](https://2020.incontrodevops.it/) - Italy (Bologna)
@@ -98,7 +98,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [Virtualized] 19-22: [EclipseCon 2020](https://www.eclipsecon.org/2020) - Germany (Ludwigsburg)
 * 27-29: [SRECon](https://www.usenix.org/srecon) - Netherlands (Amsterdam)
 * 27-29: [European Cloud Conference](https://europeancloudconference.com/) - France (Nice)
-* 30: [BDX I/O](https://www.bdxio.fr/) - France (Bordeaux)
+* [Canceled] 30: [BDX I/O](https://www.bdxio.fr/) - France (Bordeaux)
 * xx: [SoCraTes](https://socrates-fr.github.io/) - France (xx)
 
 ### November
