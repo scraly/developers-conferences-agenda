@@ -78,6 +78,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 5-7: [DevoxxUkraine](https://devoxx.com.ua/) - Ukraine (Kyiv)
 * 16-19: [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops) - Germany (Berlin)
 * 19: [Codeurs en Seine](https://www.codeursenseine.com) - France (Rouen)
+* [Virtualized] 19: [Cloud Nord](https://cloudnord.fr/) - France (Lille)
 * 27-28: [DroidCon Turin](https://it.droidcon.com/2020/it) - Italy (Turin)
 
 ## 2021
