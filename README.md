@@ -36,7 +36,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [Canceled] 2-3: [Sunny Tech](https://sunny-tech.io/) - France (Montpellier)
 * 11: [GoWayFest](https://goway.io/) - Belarus (Minsk)
 * 17-20: [Oxidize](https://oxidizeconf.com/) - Germany (Berlin)
-* 19-24: [JCrete](https://www.jcrete.org/) - Crete ([Orthodox Academy of Crete](http://tinyurl.com/oacrete))
+* [Canceled] 19-24: [JCrete](https://www.jcrete.org/) - Crete ([Orthodox Academy of Crete](http://tinyurl.com/oacrete))
 * [Virtualized] 23-24: [CodeLand Conference](https://codelandconf.com/)
 
 ### August
@@ -47,7 +47,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### September
 
-* 9-11: [KotlinConf](https://www.kotlinconf.com/) - Canada (Montreal)
+* [Canceled] 9-11: [KotlinConf](https://www.kotlinconf.com/) - Canada (Montreal)
 * 11: [JUG Summer Camp](https://www.jugsummercamp.org/edition/11) - France (La Rochelle)
 * 14-17: [O'Reilly Strata Data & AI New York](https://conferences.oreilly.com/strata-data-ai/stai-ny) - USA (New York)
 * 15: [VoxxedDays Zurich](https://voxxeddays.com/zurich/) - Zurich
