@@ -60,7 +60,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 8-9: [Spring I/O](https://2020.springio.net) - Spain (Barcelona)
 * 15: [DevopsDays Paris](https://devopsdays.org/events/2020-paris/welcome/) - France (Paris)
 * [Canceled] 15-16: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
-* 15-16: [Volcamp](https://volcamp.io/) - France (Clermont-Ferrand) 
+* [Canceled] 15-16: [Volcamp](https://volcamp.io/) - France (Clermont-Ferrand) 
 * 15-16: [VoxxedDays Thessaloniki](https://voxxeddays.com/thessaloniki/) - Greece (Thessaloniki)
 * 22: [Incontro DevOps](https://2020.incontrodevops.it/) - Italy (Bologna)
 * 16-17: [RustLab](https://www.rustlab.it/home) - Italy (Firenze) 
