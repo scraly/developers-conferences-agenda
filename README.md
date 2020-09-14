@@ -83,6 +83,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ## 2021
 
+### January
+
+* 27-30 [Snowcamp.io](https://snowcamp.io) - France (Grenoble)
+
 ### April
 
 * 25-29 [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
