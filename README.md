@@ -86,7 +86,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### January
 
-* 27-30 [Snowcamp.io](https://snowcamp.io) - France (Grenoble)
+* [Canceled] 27-30 [Snowcamp.io](https://snowcamp.io) - France (Grenoble)
 
 ### April
 
