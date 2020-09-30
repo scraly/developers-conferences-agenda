@@ -54,6 +54,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 17-18: [DevOps Days Istanbul](https://devopsdays.istanbul/) - Istanbul
 * 24-25: [DevOps Days London](https://devopsdays.org/events/2020-london/welcome/) - UK (London)
 * 29-30: [DevOps Days Prague](https://devopsdays.org/events/2020-prague/welcome/) - Prague
+* 30: [GreenConf.io](http://greenconf.io/) - France (virtual conf because of COVID)
 
 ### October
 
