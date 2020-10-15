@@ -66,6 +66,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 22: [Incontro DevOps](https://2020.incontrodevops.it/) - Italy (Bologna)
 * 16-17: [RustLab](https://www.rustlab.it/home) - Italy (Firenze) 
 * [Virtualized] 19-22: [EclipseCon 2020](https://www.eclipsecon.org/2020) - Germany (Ludwigsburg)
+* 26-30: [Le Halloween des Speakers 2020](https://rdv-speakers.fr/) - France (Remote) 
 * 27-29: [SRECon](https://www.usenix.org/srecon) - Netherlands (Amsterdam)
 * 27-29: [European Cloud Conference](https://europeancloudconference.com/) - France (Nice)
 * [Canceled] 30: [BDX I/O](https://www.bdxio.fr/) - France (Bordeaux)
