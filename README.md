@@ -89,6 +89,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * [Canceled] 27-30 [Snowcamp.io](https://snowcamp.io) - France (Grenoble)
 
+### February
+
+* 04-05: [DDD Europe](https://dddeurope.com/2021/handson-conference/) - Online (les autres années Amsterdam, Pays-bas)
+
 ### April
 
 * 25-29 [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
