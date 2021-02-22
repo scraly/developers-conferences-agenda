@@ -96,7 +96,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### April
 
 * 25-29 [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
-* 27-28 [Red Hat Summit 2021](https://www.redhat.com/en/summit) - Online
+* 27-28 [Red Hat Summit 2021 - Part1](https://www.redhat.com/en/summit) - Online
 
 ### May
 
@@ -104,4 +104,5 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### June
 
+* 15-16 [Red Hat Summit 2021 - Part2](https://www.redhat.com/en/summit) - Online
 * 21-22: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
