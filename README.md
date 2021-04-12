@@ -71,6 +71,7 @@ ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
 
 * 7: [Cloud Nord 2021](https://www.cloudnord.fr/) - Online
 * 12-14: [Cloud Next](https://cloud.withgoogle.com/next/sf) - Online
+* 12-14: [SRECon](https://www.usenix.org/srecon) - Online
 * 21-22: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
 * 22: [Go West Online](https://www.gowestconf.com/) - Online 
 
