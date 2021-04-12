@@ -36,6 +36,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 20-23: [DevOpsCon](https://devopscon.io/london/) - Online
 * 25-29: [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
 * 27-28: [Red Hat Summit 2021 - Part1](https://www.redhat.com/en/summit) - Online
+* 29: [GoLab](https://golab.io/en/) - Online
 
 ### May
 
@@ -51,8 +52,29 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 21-22: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
 * 22-25: [Simple Web Conf 2021](https://simplewebconf.com/) - Online
 
+### July
+
+* 6-7: [JS Italian Conf](https://2021.jsday.it/) - Online
+* 31: [PyOhio](https://www.pyohio.org/2021/) - Online
+
+### August
+
+* 3-4: [GitLab Commit](https://about.gitlab.com/events/commit/) - Online
+
+### September
+
+* 21-23: [
+ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
+* 28-30: [DevOps World](https://www.devopsworld.com/) - Online
+
 ### October
 
 * 7: [Cloud Nord 2021](https://www.cloudnord.fr/) - Online
 * 12-14: [Cloud Next](https://cloud.withgoogle.com/next/sf) - Online
 * 21-22: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
+* 22: [Go West Online](https://www.gowestconf.com/) - Online 
+
+### November
+
+* ?: [Paris Test Conf](https://paristestconf.com/) - Paris
+* 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok
