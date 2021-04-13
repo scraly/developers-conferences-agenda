@@ -40,7 +40,15 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### May
 
+* 3: [Cloud Native Rust Day](https://events.linuxfoundation.org/cloud-native-rust-day/program/schedule/) - Online
+* 3: [PromCon Online](https://promcon.io/2021-online/schedule/?) - Online
 * 4-7: [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - Online
+* 4: [Cloud Native Security Day](https://events.linuxfoundation.org/cloud-native-security-day-europe/program/schedule/) - Online
+* 4: [Cloud Native WASM Day](https://events.linuxfoundation.org/cloud-native-wasm-day/program/schedule/) - Online
+* 4: [FluentCon](https://events.linuxfoundation.org/fluentcon/program/schedule/) - Online
+* 4: [Kubernetes AI Day](https://events.linuxfoundation.org/kubernetes-ai-day/program/schedule/) - Online
+* 4: [ServiceMesh Con](https://events.linuxfoundation.org/servicemeshcon-europe/program/schedule/) - Online
+* 4: [Kubernetes on EDGE Day](https://events.linuxfoundation.org/kubernetes-on-edge-day/program/schedule/) - Online
 * xx: [Scala Days Seattle](https://scaladays.org/) - Seattle (USA)
 * 18-20: [Google IO](https://events.google.com/io/) - Online
 * 27: [DockerCon Live 2021](https://docker.events.cube365.net/dockercon-live/2021) - Online
