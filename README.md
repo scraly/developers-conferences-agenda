@@ -51,11 +51,13 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 4: [Kubernetes on EDGE Day](https://events.linuxfoundation.org/kubernetes-on-edge-day/program/schedule/) - Online
 * xx: [Scala Days Seattle](https://scaladays.org/) - Seattle (USA)
 * 18-20: [Google IO](https://events.google.com/io/) - Online
+* 25-27: [Microsoft Build](https://mybuild.microsoft.com/) - Online
 * 27: [DockerCon Live 2021](https://docker.events.cube365.net/dockercon-live/2021) - Online
 
 ### June
 
 * 15-16: [Red Hat Summit 2021 - Part2](https://www.redhat.com/en/summit) - Online
+* 17: [Blazor Day](https://blazorday.net/) - Online
 * 18: [Cloud Ouest Online 2021](https://cloudouest.fr/) - Online
 * 21-22: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
 * 22-25: [Simple Web Conf 2021](https://simplewebconf.com/) - Online
