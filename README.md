@@ -59,6 +59,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18: [Cloud Ouest Online 2021](https://cloudouest.fr/) - Online
 * 21-22: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
 * 22-25: [Simple Web Conf 2021](https://simplewebconf.com/) - Online
+* 23-24: [cdCon](https://events.linuxfoundation.org/cdcon/) - Online
 
 ### July
 
