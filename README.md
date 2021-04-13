@@ -80,8 +80,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### September
 
-* 21-23: [
-ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
+* 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
 * 28-30: [DevOps World](https://www.devopsworld.com/) - Online
 
 ### October
