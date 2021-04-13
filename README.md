@@ -27,6 +27,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * [archive](archives/2021.md)
 
+### February
+
+* 11: [GopherCon Israel](https://www.gophercon.org.il/) - Online
+
 ### March
 
 * 11: [CloudSud 2021](https://cloudsud.virtualconference.com/#/event) - Online
@@ -52,6 +56,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * xx: [Scala Days Seattle](https://scaladays.org/) - Seattle (USA)
 * 18-20: [Google IO](https://events.google.com/io/) - Online
 * 25-27: [Microsoft Build](https://mybuild.microsoft.com/) - Online
+* 26-28: [GopherCon Europe](https://gophercon.eu/) - Online
 * 27: [DockerCon Live 2021](https://docker.events.cube365.net/dockercon-live/2021) - Online
 
 ### June
@@ -62,24 +67,27 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 21-22: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
 * 22-25: [Simple Web Conf 2021](https://simplewebconf.com/) - Online
 * 23-24: [cdCon](https://events.linuxfoundation.org/cdcon/) - Online
+* 30-2/07: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 
 ### July
 
+* 30/06-2: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 * 6-7: [JS Italian Conf](https://2021.jsday.it/) - Online
 * 31: [PyOhio](https://www.pyohio.org/2021/) - Online
 
 ### August
 
 * 3-4: [GitLab Commit](https://about.gitlab.com/events/commit/) - Online
+* 18-20: [Gopher Con UK 2021](https://www.gophercon.co.uk/) - Online
 
 ### September
 
-* 21-23: [
-ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
+* 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
 * 28-30: [DevOps World](https://www.devopsworld.com/) - Online
 
 ### October
 
+* 1-2: [GopherCon Brasil](https://gopherconbr.org/) - Online
 * 7: [Cloud Nord 2021](https://www.cloudnord.fr/) - Online
 * 12-14: [Cloud Next](https://cloud.withgoogle.com/next/sf) - Online
 * 12-14: [SRECon](https://www.usenix.org/srecon) - Online
@@ -90,3 +98,7 @@ ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
 
 * ?: [Paris Test Conf](https://paristestconf.com/) - Paris
 * 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok
+
+### December
+
+* 5-8: [GopherCon](https://www.gophercon.com/) - Online
