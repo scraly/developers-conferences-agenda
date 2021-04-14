@@ -61,6 +61,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### June
 
+* 5: [DevRel Con Tokyo 2021](https://tokyo-2021.devrel.net/) - Online
 * 15-16: [Red Hat Summit 2021 - Part2](https://www.redhat.com/en/summit) - Online
 * 17: [Blazor Day](https://blazorday.net/) - Online
 * 18: [Cloud Ouest Online 2021](https://cloudouest.fr/) - Online
