@@ -58,10 +58,12 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 25-27: [Microsoft Build](https://mybuild.microsoft.com/) - Online
 * 26-28: [GopherCon Europe](https://gophercon.eu/) - Online
 * 27: [DockerCon Live 2021](https://docker.events.cube365.net/dockercon-live/2021) - Online
+* 28: [AFUP Day Lille / Rennes](https://event.afup.org/afup-day-2021/afup-day-2021-lille-rennes-edition-en-ligne/) - Online
 
 ### June
 
 * 5: [DevRel Con Tokyo 2021](https://tokyo-2021.devrel.net/) - Online
+* 11: [AFUP Day Toulouse / Tours](https://event.afup.org/afup-day-2021/afup-day-2021-toulouse-tours-edition-en-ligne/) - Online
 * 15-16: [Red Hat Summit 2021 - Part2](https://www.redhat.com/en/summit) - Online
 * 17: [Blazor Day](https://blazorday.net/) - Online
 * 18: [Cloud Ouest Online 2021](https://cloudouest.fr/) - Online
@@ -83,6 +85,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### September
 
+* 10: [Api Platform Conference](https://api-platform.com/con/2021/) - Lille (France) & Online for track EN
 * 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
 * 28-30: [DevOps World](https://www.devopsworld.com/) - Online
 
