@@ -54,6 +54,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 4: [ServiceMesh Con](https://events.linuxfoundation.org/servicemeshcon-europe/program/schedule/) - Online
 * 4: [Kubernetes on EDGE Day](https://events.linuxfoundation.org/kubernetes-on-edge-day/program/schedule/) - Online
 * xx: [Scala Days Seattle](https://scaladays.org/) - Seattle (USA)
+* 18-20: [MiXiT](https://mixitconf.org/fr/) - Online
 * 18-20: [Google IO](https://events.google.com/io/) - Online
 * 25-27: [Microsoft Build](https://mybuild.microsoft.com/) - Online
 * 26-28: [GopherCon Europe](https://gophercon.eu/) - Online
@@ -95,7 +96,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 7: [Cloud Nord 2021](https://www.cloudnord.fr/) - Online
 * 12-14: [Cloud Next](https://cloud.withgoogle.com/next/sf) - Online
 * 12-14: [SRECon](https://www.usenix.org/srecon) - Online
-* 21-22: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - France (Nantes) 
+* 21-22: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - Nantes (France)
 * 22: [Go West Online](https://www.gowestconf.com/) - Online 
 
 ### November
