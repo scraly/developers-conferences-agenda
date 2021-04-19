@@ -102,6 +102,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### November
 
 * ?: [Paris Test Conf](https://paristestconf.com/) - Paris
+* 19: [DevFest Lille](http://devfest.gdglille.org) - Lille
 * 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok
 
 ### December
