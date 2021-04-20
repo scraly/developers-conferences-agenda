@@ -54,6 +54,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 4: [ServiceMesh Con](https://events.linuxfoundation.org/servicemeshcon-europe/program/schedule/) - Online
 * 4: [Kubernetes on EDGE Day](https://events.linuxfoundation.org/kubernetes-on-edge-day/program/schedule/) - Online
 * xx: [Scala Days Seattle](https://scaladays.org/) - Seattle (USA)
+* 17-20: [SLO Conf](https://www.sloconf.com/) - Online
 * 18-20: [MiXiT](https://mixitconf.org/fr/) - Online
 * 18-20: [Google IO](https://events.google.com/io/) - Online
 * 25-27: [Microsoft Build](https://mybuild.microsoft.com/) - Online
