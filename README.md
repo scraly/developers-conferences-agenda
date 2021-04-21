@@ -38,7 +38,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### April
 
 * 20-23: [DevOpsCon](https://devopscon.io/london/) - Online
-* 25-29: [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
+* 23-25: [GopherCon Russia](https://www.gophercon-russia.ru/en) - Online
+* 25-29: [GopherCon Berlin](https://gophercon.berlin/) - Germany (Berlin)
 * 27-28: [Red Hat Summit 2021 - Part1](https://www.redhat.com/en/summit) - Online
 * 29: [GoLab](https://golab.io/en/) - Online
 
@@ -57,6 +58,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 17-20: [SLO Conf](https://www.sloconf.com/) - Online
 * 18-20: [MiXiT](https://mixitconf.org/fr/) - Online
 * 18-20: [Google IO](https://events.google.com/io/) - Online
+* 20: [WTF Is SRE?](https://www.cloud-native-sre.wtf/) - Online
 * 25-27: [Microsoft Build](https://mybuild.microsoft.com/) - Online
 * 26-28: [GopherCon Europe](https://gophercon.eu/) - Online
 * 27: [DockerCon Live 2021](https://docker.events.cube365.net/dockercon-live/2021) - Online
