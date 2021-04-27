@@ -63,6 +63,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 26-28: [GopherCon Europe](https://gophercon.eu/) - Online
 * 27: [DockerCon Live 2021](https://docker.events.cube365.net/dockercon-live/2021) - Online
 * 28: [AFUP Day Lille / Rennes](https://event.afup.org/afup-day-2021/afup-day-2021-lille-rennes-edition-en-ligne/) - Online
+* 29: [hack.commit.push / Paris](https://paris2021.hack-commit-pu.sh/) - Online
 
 ### June
 
