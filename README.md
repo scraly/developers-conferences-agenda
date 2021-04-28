@@ -87,6 +87,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 3-4: [GitLab Commit](https://about.gitlab.com/events/commit/) - Online
 * 18-20: [Gopher Con UK 2021](https://www.gophercon.co.uk/) - Online
+* 25-27: [Devoxx Poland](https://www.devoxx.pl/) - Poland
 
 ### September
 
@@ -105,8 +106,11 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### November
 
+* 1-3: [Devoxx UK](https://www.devoxx.uk/) - London (UK)
 * ?: [Paris Test Conf](https://paristestconf.com/) - Paris
+* 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
 * 19: [DevFest Lille](http://devfest.gdglille.org) - Lille
+* 19-20: [Devoxx Ukraine](https://www.devoxx.uk/) - Ukraine
 * 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok
 
 ### December
