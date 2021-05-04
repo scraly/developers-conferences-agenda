@@ -75,11 +75,9 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 21-22: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
 * 22-25: [Simple Web Conf 2021](https://simplewebconf.com/) - Online
 * 23-24: [cdCon](https://events.linuxfoundation.org/cdcon/) - Online
-* 30-2/07: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 
 ### July
 
-* 30/06-2: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 * 6-7: [JS Italian Conf](https://2021.jsday.it/) - Online
 * 31: [PyOhio](https://www.pyohio.org/2021/) - Online
 
@@ -94,6 +92,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 10: [Api Platform Conference](https://api-platform.com/con/2021/) - Lille (France) & Online for track EN
 * 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
 * 28-30: [DevOps World](https://www.devopsworld.com/) - Online
+* 29-1/10: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 
 ### October
 
