@@ -33,6 +33,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### March
 
+* <details><summary>4: <a href="https://www.lbc2.fr/">lbc²</a> - Online</summary>
+  La conférence de Le Bon Coin dédiée à la tech et à l’innovation.
+</details>
+
 * 11: [CloudSud 2021](https://cloudsud.virtualconference.com/#/event) - Online
 
 ### April
