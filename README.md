@@ -119,3 +119,9 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### December
 
 * 5-8: [GopherCon](https://www.gophercon.com/) - Online
+
+## 2022
+
+### May
+
+* 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia, Spain
