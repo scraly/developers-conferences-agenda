@@ -87,7 +87,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### October
 
 * 1-2: [GopherCon Brasil](https://gopherconbr.org/) - Online
-* 7: [Cloud Nord 2021](https://www.cloudnord.fr/) - Online
+* 7-8: [Cloud Nord 2021](https://www.cloudnord.fr/) - Online
 * 11-15: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Los Angeles Convention Center (USA) + Online
 * 12-14: [Cloud Next](https://cloud.withgoogle.com/next/sf) - Online
 * 12-14: [SRECon](https://www.usenix.org/srecon) - Online
