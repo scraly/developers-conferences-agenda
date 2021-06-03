@@ -71,12 +71,14 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### June
 
+* 2-3: [Paris Container Day](https://paris-container-day.fr/fr/) - Online
 * 5: [DevRel Con Tokyo 2021](https://tokyo-2021.devrel.net/) - Online
 * 11: [AFUP Day Toulouse / Tours](https://event.afup.org/afup-day-2021/afup-day-2021-toulouse-tours-edition-en-ligne/) - Online
 * 15-16: [Red Hat Summit 2021 - Part2](https://www.redhat.com/en/summit) - Online
 * 17: [Blazor Day](https://blazorday.net/) - Online
 * 18: [Cloud Ouest Online 2021](https://cloudouest.fr/) - Online
 * 21-22: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
+* 22: [Red Hat DevNation Day France](https://developers.redhat.com/devnation/devnationday-france) - Online
 * 22-25: [Simple Web Conf 2021](https://simplewebconf.com/) - Online
 * 23-24: [cdCon](https://events.linuxfoundation.org/cdcon/) - Online
 
