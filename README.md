@@ -53,6 +53,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 2-3: [Paris Container Day](https://paris-container-day.fr/fr/) - Online
 * 5: [DevRel Con Tokyo 2021](https://tokyo-2021.devrel.net/) - Online
+* 9-10 : [GitOpsDay](https://www.gitopsdays.com/) - online
 * 11: [AFUP Day Toulouse / Tours](https://event.afup.org/afup-day-2021/afup-day-2021-toulouse-tours-edition-en-ligne/) - Online
 * 15-16: [Red Hat Summit 2021 - Part2](https://www.redhat.com/en/summit) - Online
 * 17: [Blazor Day](https://blazorday.net/) - Online
