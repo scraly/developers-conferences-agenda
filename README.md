@@ -64,6 +64,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### July
 
+* 2: [Riviera Dev](https://rivieradev.fr/) - Roquebrune-sur-Argens (France)
 * 6-7: [JS Italian Conf](https://2021.jsday.it/) - Online
 * 31: [PyOhio](https://www.pyohio.org/2021/) - Online
 
