@@ -53,7 +53,9 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 2-3: [Paris Container Day](https://paris-container-day.fr/fr/) - Online
 * 5: [DevRel Con Tokyo 2021](https://tokyo-2021.devrel.net/) - Online
-* 9-10 : [GitOpsDay](https://www.gitopsdays.com/) - online
+* 7-11: [AlpesCraft](https://www.alpescraft.fr/) - Online
+* 9-10 : [GitOpsDay](https://www.gitopsdays.com/) - Online
+* 14-17 : [DevOpsCon](https://devopscon.io/berlin/) - Online
 * 11: [AFUP Day Toulouse / Tours](https://event.afup.org/afup-day-2021/afup-day-2021-toulouse-tours-edition-en-ligne/) - Online
 * 15-16: [Red Hat Summit 2021 - Part2](https://www.redhat.com/en/summit) - Online
 * 17: [Blazor Day](https://blazorday.net/) - Online
@@ -84,13 +86,17 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
 * 28: [Serverless Days Paris](https://www.papercall.io/serverless-days-paris-2021) - Paris (France)
 * 28-30: [DevOps World](https://www.devopsworld.com/) - Online
+* 29-30: [AnsibleFest](https://www.ansible.com/ansiblefest) - Online
 * 29-1/10: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
+* 29-1/10: [ApacheCon](https://apachecon.com/acna2020/) - Online
 
 ### October
 
 * 1-2: [GopherCon Brasil](https://gopherconbr.org/) - Online
+* 5-7: [DevOps Enterprise Summit - DOES](https://events.itrevolution.com/virtual/) - Online
 * 7-8: [Cloud Nord 2021](https://www.cloudnord.fr/) - Online
 * 11-15: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Los Angeles Convention Center (USA) + Online
+* 12-14: [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) - Online
 * 12-14: [Cloud Next](https://cloud.withgoogle.com/next/sf) - Online
 * 12-14: [SRECon](https://www.usenix.org/srecon) - Online
 * 21-22: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - Nantes (France)
@@ -106,10 +112,12 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 19: [DevFest Lille](http://devfest.gdglille.org) - Lille
 * 19-20: [Devoxx Ukraine](https://www.devoxx.ua/) - Online
 * 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok
+* 29-3/12: [AWS re:Invent](https://reinvent.awsevents.com/)
 
 ### December
 
 * 5-8: [GopherCon](https://www.gophercon.com/) - Online
+* 6-9: [GOTO Amsterdam 2021](https://gotoams.nl/) - Beurs van Berlage
 
 ## 2022
 
