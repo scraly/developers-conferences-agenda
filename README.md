@@ -76,6 +76,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### September
 
+* 10: [JUG Summer Camp](https://www.jugsummercamp.org/edition/12) - La Rochelle (France)
 * 10: [Api Platform Conference](https://api-platform.com/con/2021/) - Lille (France) & Online for track EN
 * 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
 * 28-30: [DevOps World](https://www.devopsworld.com/) - Online
