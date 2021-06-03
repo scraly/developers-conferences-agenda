@@ -65,6 +65,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### July
 
 * 2: [Riviera Dev](https://rivieradev.fr/) - Roquebrune-sur-Argens (France)
+* 2-3: [Kotland](https://www.papercall.io/kotlandconf2021) - Online
 * 6-7: [JS Italian Conf](https://2021.jsday.it/) - Online
 * 31: [PyOhio](https://www.pyohio.org/2021/) - Online
 
@@ -79,6 +80,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 10: [JUG Summer Camp](https://www.jugsummercamp.org/edition/12) - La Rochelle (France)
 * 10: [Api Platform Conference](https://api-platform.com/con/2021/) - Lille (France) & Online for track EN
 * 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
+* 28: [Serverless Days Paris](https://www.papercall.io/serverless-days-paris-2021) - Paris (France)
 * 28-30: [DevOps World](https://www.devopsworld.com/) - Online
 * 29-1/10: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 
@@ -94,8 +96,9 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### November
 
 * 1-3: [Devoxx UK](https://www.devoxx.uk/) - London (UK)
-* ?: [Paris Test Conf](https://paristestconf.com/) - Paris
+* ?: [Paris Test Conf](https://paristestconf.com/) - Paris (France)
 * 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
+* 9: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France)
 * 19: [DevFest Lille](http://devfest.gdglille.org) - Lille
 * 19-20: [Devoxx Ukraine](https://www.devoxx.ua/) - Online
 * 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok
