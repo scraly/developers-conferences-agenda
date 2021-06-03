@@ -27,26 +27,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * [archive](archives/2021.md)
 
-### February
-
-* 11: [GopherCon Israel](https://www.gophercon.org.il/) - Online
-
-### March
-
-* <details><summary>4: <a href="https://www.lbc2.fr/">lbc²</a> - Online</summary>
-  La conférence de Le Bon Coin dédiée à la tech et à l’innovation.
-</details>
-
-* 11: [CloudSud 2021](https://cloudsud.virtualconference.com/#/event) - Online
-
-### April
-
-* 20-23: [DevOpsCon](https://devopscon.io/london/) - Online
-* 23-25: [GopherCon Russia](https://www.gophercon-russia.ru/en) - Online
-* 25-29: [GopherCon Berlin](https://gophercon.berlin/) - Germany (Berlin)
-* 27-28: [Red Hat Summit 2021 - Part1](https://www.redhat.com/en/summit) - Online
-* 29: [GoLab](https://golab.io/en/) - Online
-
 ### May
 
 * 3: [Cloud Native Rust Day](https://events.linuxfoundation.org/cloud-native-rust-day/program/schedule/) - Online
