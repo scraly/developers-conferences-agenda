@@ -54,6 +54,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 2-3: [Paris Container Day](https://paris-container-day.fr/fr/) - Online
 * 5: [DevRel Con Tokyo 2021](https://tokyo-2021.devrel.net/) - Online
 * 7-11: [AlpesCraft](https://www.alpescraft.fr/) - Online
+* 8-9: [Global Maintainer Summit](https://globalmaintainersummit.github.com/) - Online
 * 8-11: [HashiConf Europe](https://hashiconf.com/europe/) - Online
 * 9-10 : [GitOpsDay](https://www.gitopsdays.com/) - Online
 * 14-17 : [DevOpsCon](https://devopscon.io/berlin/) - Online
