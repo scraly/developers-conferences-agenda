@@ -10,7 +10,7 @@ And as a developer, a technical lover, we want to have a calendar, we want to kn
 
 I propose to you this github repository in order to list all conferences for developers in france, europe and world.
 
-You want to contribute, add an event or your event? Perfect! Just do a PR in order to update this developers conferences agenda.
+You want to contribute, add an event or your event? Perfect! Just do a [Pull Request (PR)](https://github.com/scraly/developers-conferences-agenda/pulls) in order to update this developers conferences agenda.
 If everybody contribute to this repo, it can really help conferences organizer and another goal of this idea is to list a maximum of conferences for developers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
 
