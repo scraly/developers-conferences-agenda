@@ -87,6 +87,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 7-8: [DevOpsDays Zürich](https://devopsdays.org/events/2021-zurich/welcome/) - Zürich (Winterthur, Switzerland)
 * 10: [JUG Summer Camp](https://www.jugsummercamp.org/edition/12) - La Rochelle (France)
 * 10: [Api Platform Conference](https://api-platform.com/con/2021/) - Lille (France) & Online for track EN
+* 14: [WAX Watch Awesome Xperts](https://www.waxconf.fr/) - Marseille (France) + Online
 * 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
 * 28: [Serverless Days Paris](https://www.papercall.io/serverless-days-paris-2021) - Paris (France)
 * 28-30: [DevOps World](https://www.devopsworld.com/) - Online
@@ -112,6 +113,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * ?: [Paris Test Conf](https://paristestconf.com/) - Paris (France)
 * 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
 * 9: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France)
+* 9-10: [Open Source Experience](https://www.opensource-experience.com) - Paris (France) + Online
 * 18: [Codeurs en Seine](https://www.codeursenseine.com/2021) - Online
 * 19: [DevFest Lille](http://devfest.gdglille.org) - Lille
 * 19-20: [Devoxx Ukraine](https://www.devoxx.ua/) - Online
