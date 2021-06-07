@@ -10,7 +10,7 @@ And as a developer, a technical lover, we want to have a calendar, we want to kn
 
 I propose to you this github repository in order to list all conferences for developers in france, europe and world.
 
-You want to contribute, add an event or your event? Perfect! Just do a PR in order to update this developers conferences agenda.
+You want to contribute, add an event or your event? Perfect! Just do a [Pull Request (PR)](https://github.com/scraly/developers-conferences-agenda/pulls) in order to update this developers conferences agenda.
 If everybody contribute to this repo, it can really help conferences organizer and another goal of this idea is to list a maximum of conferences for developers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
 
@@ -54,6 +54,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 2-3: [Paris Container Day](https://paris-container-day.fr/fr/) - Online
 * 5: [DevRel Con Tokyo 2021](https://tokyo-2021.devrel.net/) - Online
 * 7-11: [AlpesCraft](https://www.alpescraft.fr/) - Online
+* 8-9: [Global Maintainer Summit](https://globalmaintainersummit.github.com/) - Online
 * 8-11: [HashiConf Europe](https://hashiconf.com/europe/) - Online
 * 9-10 : [GitOpsDay](https://www.gitopsdays.com/) - Online
 * 14-17 : [DevOpsCon](https://devopscon.io/berlin/) - Online
@@ -65,12 +66,14 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 22: [Red Hat DevNation Day France](https://developers.redhat.com/devnation/devnationday-france) - Online
 * 22-25: [Simple Web Conf 2021](https://simplewebconf.com/) - Online
 * 23-24: [cdCon](https://events.linuxfoundation.org/cdcon/) - Online
+* 23-24: [Volcamp.io](https://www.volcamp.io/) - Online
 
 ### July
 
 * 2: [Riviera Dev](https://rivieradev.fr/) - Roquebrune-sur-Argens (France)
 * 2-3: [Kotland](https://www.papercall.io/kotlandconf2021) - Online
 * 6-7: [JS Italian Conf](https://2021.jsday.it/) - Online
+* 23: [JBNConf](https://www.jbcnconf.com/2021/) - Online
 * 31: [PyOhio](https://www.pyohio.org/2021/) - Online
 
 ### August
@@ -84,6 +87,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 7-8: [DevOpsDays Zürich](https://devopsdays.org/events/2021-zurich/welcome/) - Zürich (Winterthur, Switzerland)
 * 10: [JUG Summer Camp](https://www.jugsummercamp.org/edition/12) - La Rochelle (France)
 * 10: [Api Platform Conference](https://api-platform.com/con/2021/) - Lille (France) & Online for track EN
+* 14: [WAX Watch Awesome Xperts](https://www.waxconf.fr/) - Marseille (France) + Online
 * 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
 * 28: [Serverless Days Paris](https://www.papercall.io/serverless-days-paris-2021) - Paris (France)
 * 28-30: [DevOps World](https://www.devopsworld.com/) - Online
@@ -109,6 +113,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * ?: [Paris Test Conf](https://paristestconf.com/) - Paris (France)
 * 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
 * 9: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France)
+* 9-10: [Open Source Experience](https://www.opensource-experience.com) - Paris (France) + Online
 * 18: [Codeurs en Seine](https://www.codeursenseine.com/2021) - Online
 * 19: [DevFest Lille](http://devfest.gdglille.org) - Lille
 * 19-20: [Devoxx Ukraine](https://www.devoxx.ua/) - Online
