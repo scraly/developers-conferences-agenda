@@ -75,6 +75,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 2-3: [Kotland](https://www.papercall.io/kotlandconf2021) - Online
 * 6-7: [JS Italian Conf](https://2021.jsday.it/) - Online
 * 23: [JBNConf](https://www.jbcnconf.com/2021/) - Online
+* 26-30: [THAT Conference](https://that.us/) - Wisconsin (USA) & Online
 * 31: [PyOhio](https://www.pyohio.org/2021/) - Online
 
 ### August
