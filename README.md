@@ -75,6 +75,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 2-3: [Kotland](https://www.papercall.io/kotlandconf2021) - Online
 * 6-7: [JS Italian Conf](https://2021.jsday.it/) - Online
 * 23: [JBNConf](https://www.jbcnconf.com/2021/) - Online
+* 26-30: [THAT Conference](https://that.us/) - Wisconsin (USA) & Online
 * 31: [PyOhio](https://www.pyohio.org/2021/) - Online
 
 ### August
@@ -90,6 +91,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 10: [Api Platform Conference](https://api-platform.com/con/2021/) - Lille (France) & Online for track EN
 * 14: [WAX Watch Awesome Xperts](https://www.waxconf.fr/) - Marseille (France) + Online
 * 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
+* 27-2/10: [FOSS4G](https://2021.foss4g.org/) - Online
 * 28: [Serverless Days Paris](https://www.papercall.io/serverless-days-paris-2021) - Paris (France)
 * 28-30: [DevOps World](https://www.devopsworld.com/) - Online
 * 29-30: [AnsibleFest](https://www.ansible.com/ansiblefest) - Online
