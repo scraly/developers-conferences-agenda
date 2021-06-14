@@ -88,7 +88,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 7-8: [DevOpsDays Zürich](https://devopsdays.org/events/2021-zurich/welcome/) - Zürich (Winterthur, Switzerland)
 * 10: [JUG Summer Camp](https://www.jugsummercamp.org/edition/12) - La Rochelle (France)
-* 10: [Api Platform Conference](https://api-platform.com/con/2021/) - Lille (France) & Online for track EN
+* 10: [API Platform Conference](https://api-platform.com/con/2021/) - Lille (France) & Online for track EN
+* 10-12: [International Sketchnote Camp 2021](https://isc20be.home.blog/registration/) - Brussels & Online
 * 14: [WAX Watch Awesome Xperts](https://www.waxconf.fr/) - Marseille (France) + Online
 * 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
 * 27-2/10: [FOSS4G](https://2021.foss4g.org/) - Online
