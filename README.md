@@ -67,6 +67,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 22-25: [Simple Web Conf 2021](https://simplewebconf.com/) - Online
 * 23-24: [cdCon](https://events.linuxfoundation.org/cdcon/) - Online
 * 23-24: [Volcamp.io](https://www.volcamp.io/) - Online
+* 24: [Archilocus](https://www.archilocus.tech/) - Bordeaux (France) + Online
 * 28-30: [SophiaConf](http://www.telecom-valley.fr/sophiaconf-2021) - Sophia Antipolis (France)
 
 ### July
