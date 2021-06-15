@@ -27,28 +27,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * [archive](archives/2021.md)
 
-### May
-
-* 3: [Cloud Native Rust Day](https://events.linuxfoundation.org/cloud-native-rust-day/program/schedule/) - Online
-* 3: [PromCon Online](https://promcon.io/2021-online/schedule/?) - Online
-* 4-7: [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - Online
-* 4: [Cloud Native Security Day](https://events.linuxfoundation.org/cloud-native-security-day-europe/program/schedule/) - Online
-* 4: [Cloud Native WASM Day](https://events.linuxfoundation.org/cloud-native-wasm-day/program/schedule/) - Online
-* 4: [FluentCon](https://events.linuxfoundation.org/fluentcon/program/schedule/) - Online
-* 4: [Kubernetes AI Day](https://events.linuxfoundation.org/kubernetes-ai-day/program/schedule/) - Online
-* 4: [ServiceMesh Con](https://events.linuxfoundation.org/servicemeshcon-europe/program/schedule/) - Online
-* 4: [Kubernetes on EDGE Day](https://events.linuxfoundation.org/kubernetes-on-edge-day/program/schedule/) - Online
-* xx: [Scala Days Seattle](https://scaladays.org/) - Seattle (USA)
-* 17-20: [SLO Conf](https://www.sloconf.com/) - Online
-* 18-20: [MiXiT](https://mixitconf.org/fr/) - Online
-* 18-20: [Google IO](https://events.google.com/io/) - Online
-* 20: [WTF Is SRE?](https://www.cloud-native-sre.wtf/) - Online
-* 25-27: [Microsoft Build](https://mybuild.microsoft.com/) - Online
-* 26-28: [GopherCon Europe](https://gophercon.eu/) - Online
-* 27: [DockerCon Live 2021](https://docker.events.cube365.net/dockercon-live/2021) - Online
-* 28: [AFUP Day Lille / Rennes](https://event.afup.org/afup-day-2021/afup-day-2021-lille-rennes-edition-en-ligne/) - Online
-* 29: [hack.commit.push / Paris](https://paris2021.hack-commit-pu.sh/) - Online
-
 ### June
 
 * 2-3: [Paris Container Day](https://paris-container-day.fr/fr/) - Online
