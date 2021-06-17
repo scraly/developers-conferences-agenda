@@ -27,28 +27,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * [archive](archives/2021.md)
 
-### May
-
-* 3: [Cloud Native Rust Day](https://events.linuxfoundation.org/cloud-native-rust-day/program/schedule/) - Online
-* 3: [PromCon Online](https://promcon.io/2021-online/schedule/?) - Online
-* 4-7: [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - Online
-* 4: [Cloud Native Security Day](https://events.linuxfoundation.org/cloud-native-security-day-europe/program/schedule/) - Online
-* 4: [Cloud Native WASM Day](https://events.linuxfoundation.org/cloud-native-wasm-day/program/schedule/) - Online
-* 4: [FluentCon](https://events.linuxfoundation.org/fluentcon/program/schedule/) - Online
-* 4: [Kubernetes AI Day](https://events.linuxfoundation.org/kubernetes-ai-day/program/schedule/) - Online
-* 4: [ServiceMesh Con](https://events.linuxfoundation.org/servicemeshcon-europe/program/schedule/) - Online
-* 4: [Kubernetes on EDGE Day](https://events.linuxfoundation.org/kubernetes-on-edge-day/program/schedule/) - Online
-* xx: [Scala Days Seattle](https://scaladays.org/) - Seattle (USA)
-* 17-20: [SLO Conf](https://www.sloconf.com/) - Online
-* 18-20: [MiXiT](https://mixitconf.org/fr/) - Online
-* 18-20: [Google IO](https://events.google.com/io/) - Online
-* 20: [WTF Is SRE?](https://www.cloud-native-sre.wtf/) - Online
-* 25-27: [Microsoft Build](https://mybuild.microsoft.com/) - Online
-* 26-28: [GopherCon Europe](https://gophercon.eu/) - Online
-* 27: [DockerCon Live 2021](https://docker.events.cube365.net/dockercon-live/2021) - Online
-* 28: [AFUP Day Lille / Rennes](https://event.afup.org/afup-day-2021/afup-day-2021-lille-rennes-edition-en-ligne/) - Online
-* 29: [hack.commit.push / Paris](https://paris2021.hack-commit-pu.sh/) - Online
-
 ### June
 
 * 2-3: [Paris Container Day](https://paris-container-day.fr/fr/) - Online
@@ -67,6 +45,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 22-25: [Simple Web Conf 2021](https://simplewebconf.com/) - Online
 * 23-24: [cdCon](https://events.linuxfoundation.org/cdcon/) - Online
 * 23-24: [Volcamp.io](https://www.volcamp.io/) - Online
+* 24: [Archilocus](https://www.archilocus.tech/) - Bordeaux (France) + Online
 * 28-30: [SophiaConf](http://www.telecom-valley.fr/sophiaconf-2021) - Sophia Antipolis (France)
 
 ### July
@@ -88,7 +67,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 7-8: [DevOpsDays Zürich](https://devopsdays.org/events/2021-zurich/welcome/) - Zürich (Winterthur, Switzerland)
 * 10: [JUG Summer Camp](https://www.jugsummercamp.org/edition/12) - La Rochelle (France)
-* 10: [Api Platform Conference](https://api-platform.com/con/2021/) - Lille (France) & Online for track EN
+* 10: [API Platform Conference](https://api-platform.com/con/2021/) - Lille (France) & Online for track EN
+* 10-12: [International Sketchnote Camp 2021](https://isc20be.home.blog/registration/) - Brussels & Online
 * 14: [WAX Watch Awesome Xperts](https://www.waxconf.fr/) - Marseille (France) + Online
 * 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
 * 27-2/10: [FOSS4G](https://2021.foss4g.org/) - Online
