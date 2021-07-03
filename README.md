@@ -93,6 +93,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### November
 
 * 1-3: [Devoxx UK](https://www.devoxx.uk/) - London (UK)
+* 4: [WTF is Cloud Native](https://www.cloud-native-conf.wtf/) - Hybrid conference
 * ?: [Paris Test Conf](https://paristestconf.com/) - Paris (France)
 * 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
 * 9: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France)
