@@ -85,14 +85,13 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 7-8: [Cloud Nord 2021](https://www.cloudnord.fr/) - Online
 * 11-15: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Los Angeles Convention Center (USA) + Online
 * 12-14: [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) - Online
-* 12-14: [Cloud Next](https://cloud.withgoogle.com/next/sf) - Online
 * 12-14: [SRECon](https://www.usenix.org/srecon) - Online
 * 21-22: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - Nantes (France)
 * 22: [Go West Online](https://www.gowestconf.com/) - Online 
 
 ### November
 
-* 1-3: [Devoxx UK](https://www.devoxx.uk/) - London (UK)
+* 1-3: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
 * 4: [WTF is Cloud Native](https://www.cloud-native-conf.wtf/) - Hybrid conference
 * ?: [Paris Test Conf](https://paristestconf.com/) - Paris (France)
 * 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
