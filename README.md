@@ -99,7 +99,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 9-10: [Open Source Experience](https://www.opensource-experience.com) - Paris (France) + Online
 * 18: [Codeurs en Seine](https://www.codeursenseine.com/2021) - Online
 * 19: [DevFest Lille](http://devfest.gdglille.org) - Lille
-* 19-20: [Devoxx Ukraine](https://www.devoxx.ua/) - Online
+* 19-20: [Devoxx Ukraine](https://devoxx.com.ua/) - Online
 * 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok
 * 29-3/12: [AWS re:Invent](https://reinvent.awsevents.com/)
 
