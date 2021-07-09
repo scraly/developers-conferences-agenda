@@ -81,6 +81,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### October
 
 * 1-2: [GopherCon Brasil](https://gopherconbr.org/) - Online
+* 4-6: [Event Sourcing Live](https://2021.eventsourcing.live/) - Online
 * 5-7: [DevOps Enterprise Summit - DOES](https://events.itrevolution.com/virtual/) - Online
 * 7-8: [Cloud Nord 2021](https://www.cloudnord.fr/) - Online
 * 11-15: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Los Angeles Convention Center (USA) + Online
@@ -88,6 +89,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 12-14: [SRECon](https://www.usenix.org/srecon) - Online
 * 21-22: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - Nantes (France)
 * 22: [Go West Online](https://www.gowestconf.com/) - Online 
+
 
 ### November
 
@@ -109,6 +111,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 6-9: [GOTO Amsterdam 2021](https://gotoams.nl/) - Beurs van Berlage
 
 ## 2022
+
+## June
+
+* 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam, NL
 
 ### May
 
