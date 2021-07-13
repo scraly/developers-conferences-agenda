@@ -81,14 +81,15 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### October
 
 * 1-2: [GopherCon Brasil](https://gopherconbr.org/) - Online
+* 4-6: [Event Sourcing Live](https://2021.eventsourcing.live/) - Online
 * 5-7: [DevOps Enterprise Summit - DOES](https://events.itrevolution.com/virtual/) - Online
 * 7-8: [Cloud Nord 2021](https://www.cloudnord.fr/) - Online
 * 11-15: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Los Angeles Convention Center (USA) + Online
 * 12-14: [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) - Online
-* 12-14: [Cloud Next](https://cloud.withgoogle.com/next/sf) - Online
 * 12-14: [SRECon](https://www.usenix.org/srecon) - Online
 * 21-22: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - Nantes (France)
 * 22: [Go West Online](https://www.gowestconf.com/) - Online 
+
 
 ### November
 
@@ -100,7 +101,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 9-10: [Open Source Experience](https://www.opensource-experience.com) - Paris (France) + Online
 * 18: [Codeurs en Seine](https://www.codeursenseine.com/2021) - Online
 * 19: [DevFest Lille](http://devfest.gdglille.org) - Lille
-* 19-20: [Devoxx Ukraine](https://www.devoxx.ua/) - Online
+* 19-20: [Devoxx Ukraine](https://devoxx.com.ua/) - Online
 * 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok
 * 29-3/12: [AWS re:Invent](https://reinvent.awsevents.com/)
 
@@ -110,6 +111,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 6-9: [GOTO Amsterdam 2021](https://gotoams.nl/) - Beurs van Berlage
 
 ## 2022
+
+## June
+
+* 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam, NL
 
 ### May
 
