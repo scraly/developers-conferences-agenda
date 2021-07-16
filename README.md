@@ -27,27 +27,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * [archive](archives/2021.md)
 
-### June
-
-* 2-3: [Paris Container Day](https://paris-container-day.fr/fr/) - Online
-* 5: [DevRel Con Tokyo 2021](https://tokyo-2021.devrel.net/) - Online
-* 7-11: [AlpesCraft](https://www.alpescraft.fr/) - Online
-* 8-9: [Global Maintainer Summit](https://globalmaintainersummit.github.com/) - Online
-* 8-11: [HashiConf Europe](https://hashiconf.com/europe/) - Online
-* 9-10 : [GitOpsDay](https://www.gitopsdays.com/) - Online
-* 14-17 : [DevOpsCon](https://devopscon.io/berlin/) - Online
-* 11: [AFUP Day Toulouse / Tours](https://event.afup.org/afup-day-2021/afup-day-2021-toulouse-tours-edition-en-ligne/) - Online
-* 15-16: [Red Hat Summit 2021 - Part2](https://www.redhat.com/en/summit) - Online
-* 17: [Blazor Day](https://blazorday.net/) - Online
-* 18: [Cloud Ouest Online 2021](https://cloudouest.fr/) - Online
-* 21-22: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
-* 22: [Red Hat DevNation Day France](https://developers.redhat.com/devnation/devnationday-france) - Online
-* 22-25: [Simple Web Conf 2021](https://simplewebconf.com/) - Online
-* 23-24: [cdCon](https://events.linuxfoundation.org/cdcon/) - Online
-* 23-24: [Volcamp.io](https://www.volcamp.io/) - Online
-* 24: [Archilocus](https://www.archilocus.tech/) - Bordeaux (France) + Online
-* 28-30: [SophiaConf](http://www.telecom-valley.fr/sophiaconf-2021) - Sophia Antipolis (France)
-
 ### July
 
 * 2: [Riviera Dev](https://rivieradev.fr/) - Roquebrune-sur-Argens (France)
