@@ -103,20 +103,21 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18: [Codeurs en Seine](https://www.codeursenseine.com/2021) - Online
 * 19: [DevFest Lille](http://devfest.gdglille.org) - Lille
 * 19-20: [Devoxx Ukraine](https://devoxx.com.ua/) - Online
-* 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok
-* 29-3/12: [AWS re:Invent](https://reinvent.awsevents.com/)
+* 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok (Thailand)
+* 29-3/12: [AWS re:Invent](https://reinvent.awsevents.com/) - Las Vegas (USA)
 
 ### December
 
 * 5-8: [GopherCon](https://www.gophercon.com/) - Online
-* 6-9: [GOTO Amsterdam 2021](https://gotoams.nl/) - Beurs van Berlage
+* 6-9: [GOTO Amsterdam 2021](https://gotoams.nl/) - Beurs van Berlage (NL)
+* 8: [ArgoCon '21](https://argoproj.github.io/argocon21/) - San Francisco (USA) & Online
 
 ## 2022
 
 ## June
 
-* 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam, NL
+* 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
 
 ### May
 
-* 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia, Spain
+* 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
