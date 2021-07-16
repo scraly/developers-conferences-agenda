@@ -39,6 +39,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### August
 
 * 3-4: [GitLab Commit](https://about.gitlab.com/events/commit/) - Online
+* 18-19: [eBPF Summit](https://ebpf.io/summit-2021/) - Online
 * 18-20: [Gopher Con UK 2021](https://www.gophercon.co.uk/) - Online
 * 25-27: [Devoxx Poland](https://www.devoxx.pl/) - Poland
 
