@@ -27,27 +27,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * [archive](archives/2021.md)
 
-### June
-
-* 2-3: [Paris Container Day](https://paris-container-day.fr/fr/) - Online
-* 5: [DevRel Con Tokyo 2021](https://tokyo-2021.devrel.net/) - Online
-* 7-11: [AlpesCraft](https://www.alpescraft.fr/) - Online
-* 8-9: [Global Maintainer Summit](https://globalmaintainersummit.github.com/) - Online
-* 8-11: [HashiConf Europe](https://hashiconf.com/europe/) - Online
-* 9-10 : [GitOpsDay](https://www.gitopsdays.com/) - Online
-* 14-17 : [DevOpsCon](https://devopscon.io/berlin/) - Online
-* 11: [AFUP Day Toulouse / Tours](https://event.afup.org/afup-day-2021/afup-day-2021-toulouse-tours-edition-en-ligne/) - Online
-* 15-16: [Red Hat Summit 2021 - Part2](https://www.redhat.com/en/summit) - Online
-* 17: [Blazor Day](https://blazorday.net/) - Online
-* 18: [Cloud Ouest Online 2021](https://cloudouest.fr/) - Online
-* 21-22: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - Luxembourg
-* 22: [Red Hat DevNation Day France](https://developers.redhat.com/devnation/devnationday-france) - Online
-* 22-25: [Simple Web Conf 2021](https://simplewebconf.com/) - Online
-* 23-24: [cdCon](https://events.linuxfoundation.org/cdcon/) - Online
-* 23-24: [Volcamp.io](https://www.volcamp.io/) - Online
-* 24: [Archilocus](https://www.archilocus.tech/) - Bordeaux (France) + Online
-* 28-30: [SophiaConf](http://www.telecom-valley.fr/sophiaconf-2021) - Sophia Antipolis (France)
-
 ### July
 
 * 2: [Riviera Dev](https://rivieradev.fr/) - Roquebrune-sur-Argens (France)
@@ -103,20 +82,21 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18: [Codeurs en Seine](https://www.codeursenseine.com/2021) - Online
 * 19: [DevFest Lille](http://devfest.gdglille.org) - Lille
 * 19-20: [Devoxx Ukraine](https://devoxx.com.ua/) - Online
-* 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok
-* 29-3/12: [AWS re:Invent](https://reinvent.awsevents.com/)
+* 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok (Thailand)
+* 29-3/12: [AWS re:Invent](https://reinvent.awsevents.com/) - Las Vegas (USA)
 
 ### December
 
 * 5-8: [GopherCon](https://www.gophercon.com/) - Online
-* 6-9: [GOTO Amsterdam 2021](https://gotoams.nl/) - Beurs van Berlage
+* 6-9: [GOTO Amsterdam 2021](https://gotoams.nl/) - Beurs van Berlage (NL)
+* 8: [ArgoCon '21](https://argoproj.github.io/argocon21/) - San Francisco (USA) & Online
 
 ## 2022
 
 ## June
 
-* 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam, NL
+* 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
 
 ### May
 
-* 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia, Spain
+* 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
