@@ -27,22 +27,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * [archive](archives/2021.md)
 
-### July
-
-* 2: [Riviera Dev](https://rivieradev.fr/) - Roquebrune-sur-Argens (France)
-* 2-3: [Kotland](https://www.papercall.io/kotlandconf2021) - Online
-* 6-7: [JS Italian Conf](https://2021.jsday.it/) - Online
-* 23: [JBNConf](https://www.jbcnconf.com/2021/) - Online
-* 26-30: [THAT Conference](https://that.us/) - Wisconsin (USA) & Online
-* 31: [PyOhio](https://www.pyohio.org/2021/) - Online
-
-### August
-
-* 3-4: [GitLab Commit](https://about.gitlab.com/events/commit/) - Online
-* 18-19: [eBPF Summit](https://ebpf.io/summit-2021/) - Online
-* 18-20: [Gopher Con UK 2021](https://www.gophercon.co.uk/) - Online
-* 25-27: [Devoxx Poland](https://www.devoxx.pl/) - Poland
-
 ### September
 
 * 7-8: [DevOpsDays Zürich](https://devopsdays.org/events/2021-zurich/welcome/) - Zürich (Winterthur, Switzerland)
