@@ -48,6 +48,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 1-2: [GopherCon Brasil](https://gopherconbr.org/) - Online
 * 4-6: [Event Sourcing Live](https://2021.eventsourcing.live/) - Online
+* 6: [Virtual Azure Community Day](https://azureday.community/) - Online
 * 5-7: [DevOps Enterprise Summit - DOES](https://events.itrevolution.com/virtual/) - Online
 * 7-8: [Cloud Nord 2021](https://www.cloudnord.fr/) - Online
 * 7-8: [Monktoberfest](https://monktoberfest.com/) - Portland, Maine (USA)
@@ -63,7 +64,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 1-3: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
 * 4: [WTF is Cloud Native](https://www.cloud-native-conf.wtf/) - Hybrid conference
 * ?: [Paris Test Conf](https://paristestconf.com/) - Paris (France)
-* 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
+* (Canceled) 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
 * 9: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France)
 * 9-10: [Open Source Experience](https://www.opensource-experience.com) - Paris (France) + Online
 * 18: [Codeurs en Seine](https://www.codeursenseine.com/2021) - Online
