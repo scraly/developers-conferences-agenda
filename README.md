@@ -36,6 +36,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 14: [WAX Watch Awesome Xperts](https://www.waxconf.fr/) - Marseille (France) + Online
 * 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
 * 22-23: [GitKon 2021](https://gitkon.com) - Online
+* 24: [DevFest Perros-Guirec](https://devfestperros-guirec.com/) - Perros-Guirec (France)
 * 27-2/10: [FOSS4G](https://2021.foss4g.org/) - Online
 * 28: [Serverless Days Paris](https://www.papercall.io/serverless-days-paris-2021) - Paris (France)
 * 28-30: [DevOps World](https://www.devopsworld.com/) - Online
