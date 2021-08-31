@@ -55,6 +55,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-15: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Los Angeles Convention Center (USA) + Online
 * 12-14: [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) - Online
 * 12-14: [SRECon](https://www.usenix.org/srecon) - Online
+* 19: [DaprCon](https://blog.dapr.io/posts/2021/08/31/announcing-daprcon-2021/) - Online
 * 21-22: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - Nantes (France)
 * 22: [Go West Online](https://www.gowestconf.com/) - Online 
 
