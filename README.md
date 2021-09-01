@@ -33,6 +33,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 10: [JUG Summer Camp](https://www.jugsummercamp.org/edition/12) - La Rochelle (France)
 * 10: [API Platform Conference](https://api-platform.com/con/2021/) - Lille (France) & Online for track EN
 * 10-12: [International Sketchnote Camp 2021](https://isc20be.home.blog/registration/) - Brussels & Online
+* 13: [.NET Enterprise Developer Day hosted by Amazon Web Services](https://www.eventbrite.com/e/net-enterprise-developer-day-hosted-by-amazon-web-services-registration-167917464657) - Online
+* 13-14: [DeveloperWeek Global: Cloud Conference](https://www.developerweek.com/global/conference/cloud/) - Online
 * 14: [WAX Watch Awesome Xperts](https://www.waxconf.fr/) - Marseille (France) + Online
 * 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
 * 22-23: [GitKon 2021](https://gitkon.com) - Online
