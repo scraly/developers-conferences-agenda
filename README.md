@@ -82,7 +82,12 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ## 2022
 
-## June
+### February
+
+* 2-5: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
+* 22-25: [ConFoo](https://confoo.ca/fr/2022) - Montreal (Canada) & Online
+
+### June
 
 * 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
 
