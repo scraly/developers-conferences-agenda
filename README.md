@@ -55,6 +55,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 5-7: [DevOps Enterprise Summit - DOES](https://events.itrevolution.com/virtual/) - Online
 * 7-8: [Cloud Nord 2021](https://www.cloudnord.fr/) - Online
 * 7-8: [Monktoberfest](https://monktoberfest.com/) - Portland, Maine (USA)
+* 8-10: [Grafana ObservabilityCON](https://grafana.com/about/events/observabilitycon/2021/) - Online
 * 11-15: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Los Angeles Convention Center (USA) + Online
 * 12-14: [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) - Online
 * 12-14: [SRECon](https://www.usenix.org/srecon) - Online
