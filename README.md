@@ -50,7 +50,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 1-2: [GopherCon Brasil](https://gopherconbr.org/) - Online
 * 4-6: [Event Sourcing Live](https://2021.eventsourcing.live/) - Online
-* 4-7: [Jax London](jaxlondon.com) - Online
+* 4-7: [Jax London](https://jaxlondon.com) - Online
 * 6: [Virtual Azure Community Day](https://azureday.community/) - Online
 * 5-6: [JS World](https://jsworldconference.com/) - Amsterdam (NL)
 * 5-7: [DevOps Enterprise Summit - DOES](https://events.itrevolution.com/virtual/) - Online
@@ -65,7 +65,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 21-22: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - Nantes (France)
 * 22: [Go West Online](https://www.gowestconf.com/) - Online 
 * 22-23: [HackConf 2021](https://hackconf.bg/) - Online
-* 25-27: [GopherCon UK](gophercon.co.uk) - The Brewery, City of London (UK)
+* 25-27: [GopherCon UK](https://gophercon.co.uk) - The Brewery, City of London (UK)
 
 
 ### November
