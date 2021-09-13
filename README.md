@@ -50,6 +50,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 1-2: [GopherCon Brasil](https://gopherconbr.org/) - Online
 * 4-6: [Event Sourcing Live](https://2021.eventsourcing.live/) - Online
+* 4-7: [Jax London](jaxlondon.com) - Online
 * 6: [Virtual Azure Community Day](https://azureday.community/) - Online
 * 5-6: [JS World](https://jsworldconference.com/) - Amsterdam (NL)
 * 5-7: [DevOps Enterprise Summit - DOES](https://events.itrevolution.com/virtual/) - Online
@@ -63,6 +64,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 19: [DaprCon](https://blog.dapr.io/posts/2021/08/31/announcing-daprcon-2021/) - Online
 * 21-22: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - Nantes (France)
 * 22: [Go West Online](https://www.gowestconf.com/) - Online 
+* 22-23: [HackConf 2021](https://hackconf.bg/) - Online
+* 25-27: [GopherCon UK](gophercon.co.uk) - The Brewery, City of London (UK)
 
 
 ### November
@@ -73,6 +76,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * (Canceled) 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
 * 9: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France)
 * 9-10: [Open Source Experience](https://www.opensource-experience.com) - Paris (France) + Online
+* 15-18: [The Agile Testing Days](https://agiletestingdays.com/) - Potsdam, Germany
 * 18: [Codeurs en Seine](https://www.codeursenseine.com/2021) - Online
 * 18: [DevOps DDay](http://devops-dday.com) - Marseille (France)
 * 19: [DevFest Lille](http://devfest.gdglille.org) - Lille (France)
@@ -85,6 +89,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 5-8: [GopherCon](https://www.gophercon.com/) - Online
 * 6-9: [GOTO Amsterdam 2021](https://gotoams.nl/) - Beurs van Berlage (NL)
 * 8: [ArgoCon '21](https://argoproj.github.io/argocon21/) - San Francisco (USA) & Online
+* 11 : [Continuous Delivery: Better Software Faster](https://devternity.com/) - Online
 
 ## 2022
 
