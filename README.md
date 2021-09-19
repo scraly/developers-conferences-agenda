@@ -71,6 +71,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### November
 
 * 1-3: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
+* 1-3: [AsynConf](https://asynconf.fr/) - Online
 * 4: [WTF is Cloud Native](https://www.cloud-native-conf.wtf/) - Hybrid conference
 * ?: [Paris Test Conf](https://paristestconf.com/) - Paris (France)
 * (Canceled) 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
@@ -80,6 +81,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18: [Codeurs en Seine](https://www.codeursenseine.com/2021) - Online
 * 18: [DevOps DDay](http://devops-dday.com) - Marseille (France)
 * 19: [DevFest Lille](http://devfest.gdglille.org) - Lille (France)
+* 18-19: [TestJS Summit](https://testjssummit.com) - Online
 * 19-20: [Devoxx Ukraine](https://devoxx.com.ua/) - Online
 * 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok (Thailand)
 * 29-3/12: [AWS re:Invent](https://reinvent.awsevents.com/) - Las Vegas (USA)
@@ -92,6 +94,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11 : [Continuous Delivery: Better Software Faster](https://devternity.com/) - Online
 
 ## 2022
+
+### Juanuary
+
+* 14-15: [You Got This in Cyberspace](https://yougotthis.io)
 
 ### February
 
