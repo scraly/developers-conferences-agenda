@@ -98,6 +98,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### Juanuary
 
 * 14-15: [You Got This in Cyberspace](https://yougotthis.io)
+* 21: [Touraine Tech](https://touraine.tech/)
 
 ### February
 
