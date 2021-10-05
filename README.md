@@ -112,6 +112,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### June
 
 * 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
+* 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France)
 
 ### May
 
