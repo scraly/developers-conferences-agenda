@@ -72,6 +72,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 1-3: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
 * 1-3: [AsynConf](https://asynconf.fr/) - Online
+* 2-4: [Microsoft Ignite](https://myignite.microsoft.com/home) - Online
 * 4: [WTF is Cloud Native](https://www.cloud-native-conf.wtf/) - Hybrid conference
 * ?: [Paris Test Conf](https://paristestconf.com/) - Paris (France)
 * (Canceled) 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
@@ -109,10 +110,11 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 
-### June
-
-* 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
-
 ### May
 
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
+
+### June
+
+* 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
+* 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France)
