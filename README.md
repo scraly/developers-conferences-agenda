@@ -92,6 +92,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 5-8: [GopherCon](https://www.gophercon.com/) - Online
 * 6-9: [GOTO Amsterdam 2021](https://gotoams.nl/) - Beurs van Berlage (NL)
 * 8: [ArgoCon '21](https://argoproj.github.io/argocon21/) - San Francisco (USA) & Online
+* 9: [The Privacy Engineer Conference](https://privacyengineercon.com/) - Paris(France) & Online
 * 11 : [Continuous Delivery: Better Software Faster](https://devternity.com/) - Online
 
 ## 2022
