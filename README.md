@@ -79,6 +79,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * (Canceled) 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
 * 9: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France)
 * 9-10: [Open Source Experience](https://www.opensource-experience.com) - Paris (France) + Online
+* 9-11: [.NET Conf](https://www.dotnetconf.net/?ocid=AID3018883_TWITTER_oo_spl100001868415077) - Online
 * 15-18: [The Agile Testing Days](https://agiletestingdays.com/) - Potsdam, Germany
 * 18: [Codeurs en Seine](https://www.codeursenseine.com/2021) - Online
 * 18: [DevOps DDay](http://devops-dday.com) - Marseille (France)
