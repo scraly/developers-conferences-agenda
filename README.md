@@ -99,6 +99,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 8: [ArgoCon '21](https://argoproj.github.io/argocon21/) - San Francisco (USA) & Online
 * 9: [The Privacy Engineer Conference](https://privacyengineercon.com/) - Paris(France) & Online
 * 11 : [Continuous Delivery: Better Software Faster](https://devternity.com/) - Online
+* 16 : [We Love Speed](https://www.welovespeed.com/en/2021/) - Lyon (France)
 
 ## 2022
 
