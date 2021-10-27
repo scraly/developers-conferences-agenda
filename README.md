@@ -75,9 +75,11 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 2-4: [Microsoft Ignite](https://myignite.microsoft.com/home) - Online
 * 4: [WTF is Cloud Native](https://www.cloud-native-conf.wtf/) - Hybrid conference
 * ?: [Paris Test Conf](https://paristestconf.com/) - Paris (France)
+* 8: [Visual Studio 2022 Launch Event](https://visualstudio.microsoft.com/launch/) - Online
 * (Canceled) 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
 * 9: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France)
 * 9-10: [Open Source Experience](https://www.opensource-experience.com) - Paris (France) + Online
+* 9-11: [.NET Conf](https://www.dotnetconf.net/?ocid=AID3018883_TWITTER_oo_spl100001868415077) - Online
 * 15-18: [The Agile Testing Days](https://agiletestingdays.com/) - Potsdam, Germany
 * 18: [Codeurs en Seine](https://www.codeursenseine.com/2021) - Online
 * 18: [DevOps DDay](http://devops-dday.com) - Marseille (France)
@@ -85,6 +87,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18-19: [TestJS Summit](https://testjssummit.com) - Online
 * 19-20: [Devoxx Ukraine](https://devoxx.com.ua/) - Online
 * 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok (Thailand)
+* <details><summary>24-26: <a href="https://www.jchateau.org/">JChateau / JAlba</a> - Online</summary>
+  JChateau et JAlba ont fusionné en 1 unique **non conférence**.
+</details>
+* 23: [DevDayBE](https://www.devday.be/) - Louvain-La_neuve (Belgium)
 * 29-3/12: [AWS re:Invent](https://reinvent.awsevents.com/) - Las Vegas (USA)
 
 ### December
@@ -92,7 +98,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 5-8: [GopherCon](https://www.gophercon.com/) - Online
 * 6-9: [GOTO Amsterdam 2021](https://gotoams.nl/) - Beurs van Berlage (NL)
 * 8: [ArgoCon '21](https://argoproj.github.io/argocon21/) - San Francisco (USA) & Online
+* 9: [The Privacy Engineer Conference](https://privacyengineercon.com/) - Paris(France) & Online
 * 11 : [Continuous Delivery: Better Software Faster](https://devternity.com/) - Online
+* 15: [Tech A11y Summit](https://techa11y.dev/) - Online
+* 16 : [We Love Speed](https://www.welovespeed.com/en/2021/) - Lyon (France)
 
 ## 2022
 
@@ -104,6 +113,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### February
 
 * 2-5: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
+* 10: [.Net frontend Day](https://www.dotnet-frontend.com/) - Online 
 * 22-25: [ConFoo](https://confoo.ca/fr/2022) - Montreal (Canada) & Online
 
 ### April
