@@ -90,6 +90,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * <details><summary>24-26: <a href="https://www.jchateau.org/">JChateau / JAlba</a> - Online</summary>
   JChateau et JAlba ont fusionné en 1 unique **non conférence**.
 </details>
+* 23: [DevDayBE](https://www.devday.be/) - Louvain-La_neuve (Belgium)
 * 29-3/12: [AWS re:Invent](https://reinvent.awsevents.com/) - Las Vegas (USA)
 
 ### December
@@ -99,6 +100,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 8: [ArgoCon '21](https://argoproj.github.io/argocon21/) - San Francisco (USA) & Online
 * 9: [The Privacy Engineer Conference](https://privacyengineercon.com/) - Paris(France) & Online
 * 11 : [Continuous Delivery: Better Software Faster](https://devternity.com/) - Online
+* 15: [Tech A11y Summit](https://techa11y.dev/) - Online
 * 16 : [We Love Speed](https://www.welovespeed.com/en/2021/) - Lyon (France)
 
 ## 2022
@@ -111,6 +113,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### February
 
 * 2-5: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
+* 10: [.Net frontend Day](https://www.dotnet-frontend.com/) - Online 
 * 22-25: [ConFoo](https://confoo.ca/fr/2022) - Montreal (Canada) & Online
 
 ### April
