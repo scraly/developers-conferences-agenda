@@ -119,6 +119,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### April
 
 * 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
+* 25-26: [Android Makers](https://androidmakers.fr/) - Paris (France)
 
 ### May
 
