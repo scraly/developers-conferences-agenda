@@ -108,3 +108,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
 * 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France)
+
+### October
+
+* 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
