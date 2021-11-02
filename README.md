@@ -47,7 +47,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18-19: [TestJS Summit](https://testjssummit.com) - Online
 * 19-20: [Devoxx Ukraine](https://devoxx.com.ua/) - Online
 * 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok (Thailand)
-* 23: [DevDayBE](https://www.devday.be/) - Louvain-La_neuve (Belgium)
+* 23: [DevDayBE](https://www.devday.be/) - Louvain-La-Neuve (Belgium)
 * <span><details><summary>24-26: <a href="https://www.jchateau.org/">JChateau / JAlba</a> - Online</summary>JChateau et JAlba ont fusionné en 1 unique **non conférence**.</details></span>
 * 29-3/12: [AWS re:Invent](https://reinvent.awsevents.com/) - Las Vegas (USA)
 
