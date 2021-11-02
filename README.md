@@ -27,27 +27,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * [archive](archives/2021.md)
 
-### October
-
-* 1-2: [GopherCon Brasil](https://gopherconbr.org/) - Online
-* 4-6: [Event Sourcing Live](https://2021.eventsourcing.live/) - Online
-* 4-7: [Jax London](https://jaxlondon.com) - Online
-* 6: [Virtual Azure Community Day](https://azureday.community/) - Online
-* 5-6: [JS World](https://jsworldconference.com/) - Amsterdam (NL)
-* 5-7: [DevOps Enterprise Summit - DOES](https://events.itrevolution.com/virtual/) - Online
-* 7-8: [Cloud Nord 2021](https://www.cloudnord.fr/) - Online
-* 7-8: [Monktoberfest](https://monktoberfest.com/) - Portland, Maine (USA)
-* 8-10: [Grafana ObservabilityCON](https://grafana.com/about/events/observabilitycon/2021/) - Online
-* 11-15: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Los Angeles Convention Center (USA) + Online
-* 12-14: [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) - Online
-* 12-14: [SRECon](https://www.usenix.org/srecon) - Online
-* 14-15: [B-Boost](https://b-boost.fr/) - La Rochelle (France)
-* 19: [DaprCon](https://blog.dapr.io/posts/2021/08/31/announcing-daprcon-2021/) - Online
-* 21-22: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - Nantes (France)
-* 22: [Go West Online](https://www.gowestconf.com/) - Online 
-* 22-23: [HackConf 2021](https://hackconf.bg/) - Online
-* 25-27: [GopherCon UK](https://gophercon.co.uk) - The Brewery, City of London (UK)
-
 
 ### November
 
