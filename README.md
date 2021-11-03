@@ -36,6 +36,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 4: [WTF is Cloud Native](https://www.cloud-native-conf.wtf/) - Hybrid conference
 * ?: [Paris Test Conf](https://paristestconf.com/) - Paris (France)
 * 8: [Visual Studio 2022 Launch Event](https://visualstudio.microsoft.com/launch/) - Online
+* 8-10: [DevRelCon 2021](https://2021.devrel.net/) - Online
 * (Canceled) 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
 * 9: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France)
 * 9-10: [Open Source Experience](https://www.opensource-experience.com) - Paris (France) + Online
