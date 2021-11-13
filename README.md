@@ -90,6 +90,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### June
 
+* 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France)
 * 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg
 * 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
 * 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France)
