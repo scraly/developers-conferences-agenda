@@ -36,13 +36,14 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 9-10: [KubeCon + CloudNativeCon + Open Source Summit China](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/) - Online
 * 11 : [Continuous Delivery: Better Software Faster](https://devternity.com/) - Online
 * 15: [Tech A11y Summit](https://techa11y.dev/) - Online
-* 16 : [We Love Speed](https://www.welovespeed.com/en/2021/) - Lyon (France)
+* 16: [We Love Speed](https://www.welovespeed.com/en/2021/) - Lyon (France)
 
 ## 2022
 
 ### January
 
 * 14-15: [You Got This in Cyberspace](https://yougotthis.io)
+* 17: [That](https://that.us/) - Round Rock (USA) or Online
 * 21: [Touraine Tech](https://touraine.tech/) - Tours (France)
 
 ### February
@@ -58,15 +59,23 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-13: [DevNexus](https://devnexus.com/) - Atlanta (USA)
 * 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 * 25-26: [Android Makers](https://androidmakers.fr/) - Paris (France)
+* 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
 
 ### May
 
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
+* 20: [AFUP Day 2022](https://event.afup.org/) - Lille (France)
+* 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France)
 
 ### June
 
+* 7-8: [cdCon](https://events.linuxfoundation.org/cdcon/) - Austin (USA) + Online
 * 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France)
+* 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
+* 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam, Pays-Bas
 * 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg
+* 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow, Poland
+* 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterda
 * 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
 * 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France)
 
