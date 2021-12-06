@@ -70,6 +70,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### June
 
 * 7-8: [cdCon](https://events.linuxfoundation.org/cdcon/) - Austin (USA) + Online
+* 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France)
 * 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France)
 * 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
 * 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam, Pays-Bas
