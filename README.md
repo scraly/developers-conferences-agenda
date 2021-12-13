@@ -86,5 +86,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### October
 
+* 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont Ferrand (France)
 * 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France)
 * 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
