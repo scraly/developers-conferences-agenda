@@ -63,6 +63,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### May
 
+* 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London, UK
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
 * 20: [AFUP Day 2022](https://event.afup.org/) - Lille (France)
 * 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France)
