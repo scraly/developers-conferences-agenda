@@ -81,6 +81,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
 * 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France)
 
+### July
+
+* 18-20: [JBCNConf](https://www.jbcnconf.com/2022/) - Barcelona (Spain)
+
 ### August
 
 * 22-28: [FOSS4G](https://2022.foss4g.org/) - Firenze (Italy)
