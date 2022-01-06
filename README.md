@@ -22,21 +22,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [2018](archives/2018.md)
 * [2019](archives/2019.md)
 * [2020](archives/2020.md)
-
-## 2021
-
-* [archive](archives/2021.md)
-
-### December
-
-* 5-8: [GopherCon](https://www.gophercon.com/) - Online
-* 6-9: [GOTO Amsterdam 2021](https://gotoams.nl/) - Beurs van Berlage (NL)
-* 8: [ArgoCon '21](https://argoproj.github.io/argocon21/) - San Francisco (USA) & Online
-* 9: [The Privacy Engineer Conference](https://privacyengineercon.com/) - Paris(France) & Online
-* 9-10: [KubeCon + CloudNativeCon + Open Source Summit China](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/) - Online
-* 11 : [Continuous Delivery: Better Software Faster](https://devternity.com/) - Online
-* 15: [Tech A11y Summit](https://techa11y.dev/) - Online
-* 16: [We Love Speed](https://www.welovespeed.com/en/2021/) - Lyon (France)
+* [2021](archives/2021.md)
 
 ## 2022
 
