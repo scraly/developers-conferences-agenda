@@ -14,8 +14,6 @@ You want to contribute, add an event or your event? Perfect! Just do a [Pull Req
 If everybody contribute to this repo, it can really help conferences organizer and another goal of this idea is to list a maximum of conferences for developers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
 
-**Home Conferences (remote)** list: [github.comhomeferences/list](https://github.com/homeferences/list)
-
 ## Archives
 
 * [2017](archives/2017.md)
