@@ -49,7 +49,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### May
 
-* 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London, UK
+* 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
 * 20: [AFUP Day 2022](https://event.afup.org/) - Lille (France)
 * 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France)
@@ -60,10 +60,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France)
 * 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France)
 * 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
-* 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam, Pays-Bas
+* 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam (NL)
 * 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg
-* 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow, Poland
-* 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterda
+* 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
+* 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterdam (NL)
 * 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
 * 24 : [SoCraTes Rennes](https://socrates-rennes.github.io/) - Rennes (France)
 * 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France)
