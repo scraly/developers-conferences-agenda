@@ -36,7 +36,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 2-5: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
 * 5-6: [Fosdem](https://fosdem.org/2022/) - Brussels (Belgium)
-* 7-8: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva
+* 7-8: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
 * 10: [.Net frontend Day](https://www.dotnet-frontend.com/) - Online 
 * 22-25: [ConFoo](https://confoo.ca/fr/2022) - Montreal (Canada) & Online
 
