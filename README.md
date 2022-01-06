@@ -53,23 +53,24 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
 * 17-20: [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - Valencia (Spain) <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=green"> </a>
 * 20: [AFUP Day 2022](https://event.afup.org/) - Lille (France)
-* 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France)
+* 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France) <a href="https://www.papercall.io/mixit2022"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=17-Dec-2021%20to%2002-Feb-2022&color=green"> </a>
 * 24-26: [Web à Québec](https://webaquebec.org/) - Québec (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/ddNC6Su7"><img alt="CFP Web a Quebec" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=green"> </a>
 
 ### June
 
 * 3-4: [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - Chennai (India) + Online <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2031-Mar-2022&color=green"> </a>
 * 7-8: [cdCon](https://events.linuxfoundation.org/cdcon/) - Austin (USA) + Online
-* 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France)
+* 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France) <a href="https://conference-hall.io/public/event/0Ij6N6UQOInRF9fdEm6G"><img alt="CFP Le Camping des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=7-Dec-2021%20to%2021-Jan-2022&color=green"> </a>
 * 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France)
 * 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
 * 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam (NL)
-* 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg
+* 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg <a href="https://vdlux20.cfp.dev/#/login"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=22-Jan-2022%20to%2001-Mar-2022&color=green"> </a>
+
 * 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 * 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterdam (NL)
 * 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
 * 24 : [SoCraTes Rennes](https://socrates-rennes.github.io/) - Rennes (France)
-* 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France)
+* 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=6-Dec-2021%20to%2027-Feb-2022&color=green"> </a>
 
 ### July
 
