@@ -79,6 +79,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow, Poland
 * 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterda
 * 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
+* 24 : [SoCraTes Rennes](https://socrates-rennes.github.io/) - Rennes (France)
 * 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France)
 
 ### July
