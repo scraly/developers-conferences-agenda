@@ -43,6 +43,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### March
 
+* 18: [Mobilis In Mobile](https://mobilis-in-mobile.io/) - Nantes (France) <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=01-12-2021-%3E31-01-2022&color=green"> </a>
 * 29-31: [ETHDubai](https://www.ethdubaiconf.org/) - Dubai (United Arab Emirates)
 
 ### April
