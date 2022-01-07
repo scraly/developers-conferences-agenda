@@ -37,6 +37,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 5-6: [Fosdem](https://fosdem.org/2022/) - Brussels (Belgium)
 * 7-8: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
 * 10: [.Net frontend Day](https://www.dotnet-frontend.com/) - Online 
+* 10: [Dataquitaine](https://www.dataquitaine.com/2022/conference-ia-ai-datascience-ro-bordeaux-2022) - Online
 * 11-12: [Elastic Community Conference](https://sessionize.com/elastic-community-conference) - Online 
 * 22-25: [ConFoo](https://confoo.ca/fr/2022) - Montreal (Canada) & Online
 
