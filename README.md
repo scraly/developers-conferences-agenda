@@ -40,6 +40,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-12: [Elastic Community Conference](https://sessionize.com/elastic-community-conference) - Online 
 * 22-25: [ConFoo](https://confoo.ca/fr/2022) - Montreal (Canada) & Online
 
+### March
+
+* 29-31: [ETHDubai](https://www.ethdubaiconf.org/) - Dubai (United Arab Emirates)
+
 ### April
 
 * 11-13: [DevNexus](https://devnexus.com/) - Atlanta (USA)
