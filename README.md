@@ -1,14 +1,14 @@
 # Developers Conferences Agenda/List
 
-This repository list a maximum of conferences's date in order to help conferences organizers.
+This repository lists a maximum of conference dates to help conference organizers.
 
-As a conference organizer, we always ask us what will be the perfect date for the event?
+As a conference organizer, we always ask ourselves what will be the ideal date for the event?
 
-A data to take in account is the date of others events, but how to find this?
+One piece of data to take into account is the date of other events, but how do you find it?
 
 And as a developer, a technical lover, we want to have a calendar, we want to know when will be the next event.
 
-I propose to you this github repository in order to list all conferences for developers in france, europe and world.
+I propose you this GitHub repository in order to list all the conferences for developers in France, Europe and the world.
 
 You want to contribute, add an event or your event? Perfect! Just do a [Pull Request (PR)](https://github.com/scraly/developers-conferences-agenda/pulls) in order to update this developers conferences agenda.
 If everybody contribute to this repo, it can really help conferences organizer and another goal of this idea is to list a maximum of conferences for developers.
