@@ -35,7 +35,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 2-5: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
 * 5-6: [Fosdem](https://fosdem.org/2022/) - Brussels (Belgium)
-* 7-8: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
 * 10: [.Net frontend Day](https://www.dotnet-frontend.com/) - Online 
 * 10: [Dataquitaine](https://www.dataquitaine.com/2022/conference-ia-ai-datascience-ro-bordeaux-2022) - Online
 * 11-12: [Elastic Community Conference](https://sessionize.com/elastic-community-conference) - Online 
@@ -57,6 +56,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### May
 
 * 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
+* 12-13: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
 * 17-20: [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - Valencia (Spain) <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=green"> </a>
 * 20: [AFUP Day 2022](https://event.afup.org/) - Lille (France)
