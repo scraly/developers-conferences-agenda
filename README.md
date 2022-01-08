@@ -48,6 +48,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### April
 
+* 7-8: [SymfonyLive Paris 2022](https://live.symfony.com/2022-paris/) - Paris (France) <a href="https://live.symfony.com/2022-paris/cfp"><img alt="CFP SymfonyLive Paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=%3E24-01-2022&color=green"> </a>
 * 11-13: [DevNexus](https://devnexus.com/) - Atlanta (USA)
 * 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France)    <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=24-11-2021-%3E09-01-2022&color=green"> </a>
 * 25-26: [Android Makers](https://androidmakers.fr/) - Paris (France)
@@ -69,6 +70,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 7-8: [cdCon](https://events.linuxfoundation.org/cdcon/) - Austin (USA) + Online
 * 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France) <a href="https://conference-hall.io/public/event/0Ij6N6UQOInRF9fdEm6G"><img alt="CFP Le Camping des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=7-Dec-2021%20to%2021-Jan-2022&color=green"> </a>
 * 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France)
+* 16-17: [SymfonyWorld Online 2022 Summer Edition](https://live.symfony.com/2022-world-summer/) - Online <a href="https://live.symfony.com/2022-world-summer/cfp"><img alt="CFP SymfonyWorld Online 2022 Summer Edition" src="https://img.shields.io/static/v1?label=CFP&message=%3E14-02-2022&color=green"> </a>
+
 * 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
 * 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam (NL)
 * 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg <a href="https://vdlux20.cfp.dev/#/login"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=22-Jan-2022%20to%2001-Mar-2022&color=green"> </a>
