@@ -1,20 +1,18 @@
 # Developers Conferences Agenda/List
 
-This repository list a maximum of conferences's date in order to help conferences organizers.
+This repository lists a maximum of conference dates to help conference organizers.
 
-As a conference organizer, we always ask us what will be the perfect date for the event?
+As a conference organizer, we always ask ourselves what will be the ideal date for the event?
 
-A data to take in account is the date of others events, but how to find this?
+One piece of data to take into account is the date of other events, but how do you find it?
 
 And as a developer, a technical lover, we want to have a calendar, we want to know when will be the next event.
 
-I propose to you this github repository in order to list all conferences for developers in france, europe and world.
+I propose you this GitHub repository in order to list all the conferences for developers in France, Europe and the world.
 
 You want to contribute, add an event or your event? Perfect! Just do a [Pull Request (PR)](https://github.com/scraly/developers-conferences-agenda/pulls) in order to update this developers conferences agenda.
 If everybody contribute to this repo, it can really help conferences organizer and another goal of this idea is to list a maximum of conferences for developers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
-
-**Home Conferences (remote)** list: [github.comhomeferences/list](https://github.com/homeferences/list)
 
 ## Archives
 
@@ -22,109 +20,79 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [2018](archives/2018.md)
 * [2019](archives/2019.md)
 * [2020](archives/2020.md)
-
-## 2021
-
-* [archive](archives/2021.md)
-
-### September
-
-* 7-8: [DevOpsDays Zürich](https://devopsdays.org/events/2021-zurich/welcome/) - Zürich (Winterthur, Switzerland)
-* 10: [JUG Summer Camp](https://www.jugsummercamp.org/edition/12) - La Rochelle (France)
-* 10: [API Platform Conference](https://api-platform.com/con/2021/) - Lille (France) & Online for track EN
-* 10-12: [International Sketchnote Camp 2021](https://isc20be.home.blog/registration/) - Brussels & Online
-* 13: [.NET Enterprise Developer Day hosted by Amazon Web Services](https://www.eventbrite.com/e/net-enterprise-developer-day-hosted-by-amazon-web-services-registration-167917464657) - Online
-* 13-14: [DeveloperWeek Global: Cloud Conference](https://www.developerweek.com/global/conference/cloud/) - Online
-* 14: [WAX Watch Awesome Xperts](https://www.waxconf.fr/) - Marseille (France) + Online
-* 21-23: [ContainerDays 2021](https://www.containerdays.io/) - Hamburg (Germany)
-* 22-23: [GitKon 2021](https://gitkon.com) - Online
-* 24: [DevFest Perros-Guirec](https://devfest.codedarmor.fr/) - Perros-Guirec (France)
-* 27-2/10: [FOSS4G](https://2021.foss4g.org/) - Online
-* 28: [Serverless Days Paris](https://www.papercall.io/serverless-days-paris-2021) - Paris (France)
-* 28-30: [DevOps World](https://www.devopsworld.com/) - Online
-* 29-30: [AnsibleFest](https://www.ansible.com/ansiblefest) - Online
-* 29-1/10: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
-* 29-1/10: [ApacheCon](https://apachecon.com/acna2020/) - Online
-
-### October
-
-* 1-2: [GopherCon Brasil](https://gopherconbr.org/) - Online
-* 4-6: [Event Sourcing Live](https://2021.eventsourcing.live/) - Online
-* 4-7: [Jax London](https://jaxlondon.com) - Online
-* 6: [Virtual Azure Community Day](https://azureday.community/) - Online
-* 5-6: [JS World](https://jsworldconference.com/) - Amsterdam (NL)
-* 5-7: [DevOps Enterprise Summit - DOES](https://events.itrevolution.com/virtual/) - Online
-* 7-8: [Cloud Nord 2021](https://www.cloudnord.fr/) - Online
-* 7-8: [Monktoberfest](https://monktoberfest.com/) - Portland, Maine (USA)
-* 8-10: [Grafana ObservabilityCON](https://grafana.com/about/events/observabilitycon/2021/) - Online
-* 11-15: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Los Angeles Convention Center (USA) + Online
-* 12-14: [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) - Online
-* 12-14: [SRECon](https://www.usenix.org/srecon) - Online
-* 14-15: [B-Boost](https://b-boost.fr/) - La Rochelle (France)
-* 19: [DaprCon](https://blog.dapr.io/posts/2021/08/31/announcing-daprcon-2021/) - Online
-* 21-22: [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - Nantes (France)
-* 22: [Go West Online](https://www.gowestconf.com/) - Online 
-* 22-23: [HackConf 2021](https://hackconf.bg/) - Online
-* 25-27: [GopherCon UK](https://gophercon.co.uk) - The Brewery, City of London (UK)
-
-
-### November
-
-* 1-3: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
-* 1-3: [AsynConf](https://asynconf.fr/) - Online
-* 2-4: [Microsoft Ignite](https://myignite.microsoft.com/home) - Online
-* 4: [WTF is Cloud Native](https://www.cloud-native-conf.wtf/) - Hybrid conference
-* ?: [Paris Test Conf](https://paristestconf.com/) - Paris (France)
-* 8: [Visual Studio 2022 Launch Event](https://visualstudio.microsoft.com/launch/) - Online
-* (Canceled) 8-12: [Devoxx Belgium](https://www.devoxx.com/) - Belgium
-* 9: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France)
-* 9-10: [Open Source Experience](https://www.opensource-experience.com) - Paris (France) + Online
-* 9-11: [.NET Conf](https://www.dotnetconf.net/?ocid=AID3018883_TWITTER_oo_spl100001868415077) - Online
-* 15-18: [The Agile Testing Days](https://agiletestingdays.com/) - Potsdam, Germany
-* 18: [Codeurs en Seine](https://www.codeursenseine.com/2021) - Online
-* 18: [DevOps DDay](http://devops-dday.com) - Marseille (France)
-* 19: [DevFest Lille](http://devfest.gdglille.org) - Lille (France)
-* 18-19: [TestJS Summit](https://testjssummit.com) - Online
-* 19-20: [Devoxx Ukraine](https://devoxx.com.ua/) - Online
-* 20-21: [Pycon APAC Thailand 2021](https://th.pycon.org/) - Bangkok (Thailand)
-* <details><summary>24-26: <a href="https://www.jchateau.org/">JChateau / JAlba</a> - Online</summary>
-  JChateau et JAlba ont fusionné en 1 unique **non conférence**.
-</details>
-* 23: [DevDayBE](https://www.devday.be/) - Louvain-La_neuve (Belgium)
-* 29-3/12: [AWS re:Invent](https://reinvent.awsevents.com/) - Las Vegas (USA)
-
-### December
-
-* 5-8: [GopherCon](https://www.gophercon.com/) - Online
-* 6-9: [GOTO Amsterdam 2021](https://gotoams.nl/) - Beurs van Berlage (NL)
-* 8: [ArgoCon '21](https://argoproj.github.io/argocon21/) - San Francisco (USA) & Online
-* 9: [The Privacy Engineer Conference](https://privacyengineercon.com/) - Paris(France) & Online
-* 11 : [Continuous Delivery: Better Software Faster](https://devternity.com/) - Online
-* 15: [Tech A11y Summit](https://techa11y.dev/) - Online
-* 16 : [We Love Speed](https://www.welovespeed.com/en/2021/) - Lyon (France)
+* [2021](archives/2021.md)
 
 ## 2022
 
 ### January
 
 * 14-15: [You Got This in Cyberspace](https://yougotthis.io)
+* 17: [That](https://that.us/) - Round Rock (USA) or Online
 * 21: [Touraine Tech](https://touraine.tech/) - Tours (France)
+* 20-25: [jChampions Conference](https://jchampionsconf.com/) - Online
 
 ### February
 
 * 2-5: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
+* 5-6: [Fosdem](https://fosdem.org/2022/) - Brussels (Belgium)
+* 7-8: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
 * 10: [.Net frontend Day](https://www.dotnet-frontend.com/) - Online 
+* 10: [Dataquitaine](https://www.dataquitaine.com/2022/conference-ia-ai-datascience-ro-bordeaux-2022) - Online
+* 11-12: [Elastic Community Conference](https://sessionize.com/elastic-community-conference) - Online 
 * 22-25: [ConFoo](https://confoo.ca/fr/2022) - Montreal (Canada) & Online
+
+### March
+
+* 18: [Mobilis In Mobile](https://mobilis-in-mobile.io/) - Nantes (France) <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=01-12-2021-%3E31-01-2022&color=green"> </a>
+* 29-31: [ETHDubai](https://www.ethdubaiconf.org/) - Dubai (United Arab Emirates)
 
 ### April
 
-* 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
+* 11-13: [DevNexus](https://devnexus.com/) - Atlanta (USA)
+* 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France)    <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=24-11-2021-%3E09-01-2022&color=green"> </a>
+* 25-26: [Android Makers](https://androidmakers.fr/) - Paris (France)
+* 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
 
 ### May
 
+* 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
+* 17-20: [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - Valencia (Spain) <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=green"> </a>
+* 20: [AFUP Day 2022](https://event.afup.org/) - Lille (France)
+* 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France) <a href="https://www.papercall.io/mixit2022"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=17-Dec-2021%20to%2002-Feb-2022&color=green"> </a>
+* 24-26: [Web à Québec](https://webaquebec.org/) - Québec (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/ddNC6Su7"><img alt="CFP Web a Quebec" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=green"> </a>
+* 26-27: [Spring I/O](https://2022.springio.net/) - Barcelona (Spain) <a href="https://www.papercall.io/springio22"><img alt="CFP Spring I/O 2022" src="https://img.shields.io/static/v1?label=CFP&message=23-Dec-2021%20to%2001-Mar-2022&color=green"> </a>
 
 ### June
 
+* 3-4: [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - Chennai (India) + Online <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2031-Mar-2022&color=green"> </a>
+* 7-8: [cdCon](https://events.linuxfoundation.org/cdcon/) - Austin (USA) + Online
+* 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France) <a href="https://conference-hall.io/public/event/0Ij6N6UQOInRF9fdEm6G"><img alt="CFP Le Camping des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=7-Dec-2021%20to%2021-Jan-2022&color=green"> </a>
+* 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France)
+* 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
+* 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam (NL)
+* 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg <a href="https://vdlux20.cfp.dev/#/login"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=22-Jan-2022%20to%2001-Mar-2022&color=green"> </a>
+
+* 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
+* 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterdam (NL)
 * 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
-* 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France)
+* 24 : [SoCraTes Rennes](https://socrates-rennes.github.io/) - Rennes (France)
+* 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=6-Dec-2021%20to%2027-Feb-2022&color=green"> </a>
+
+### July
+
+* 18-20: [JBCNConf](https://www.jbcnconf.com/2022/) - Barcelona (Spain)
+
+### August
+
+* 22-28: [FOSS4G](https://2022.foss4g.org/) - Firenze (Italy)
+
+### October
+
+* 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont Ferrand (France)
+* 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France)
+* 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
+
+### November
+
+* 7-11: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
