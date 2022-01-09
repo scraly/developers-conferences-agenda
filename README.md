@@ -52,6 +52,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France)    <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=24-Nov-2021-%3E09-Jan-2022&color=green"> </a>
 * 25-26: [Android Makers](https://androidmakers.fr/) - Paris (France)
 * 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
+* 27-28: [DevDays Europe](https://devdays.lt/) - Vilnius (Lithuania) or Online
 
 ### May
 
