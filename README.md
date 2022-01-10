@@ -30,6 +30,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 17: [That](https://that.us/) - Round Rock (USA) or Online
 * 21: [Touraine Tech](https://touraine.tech/) - Tours (France)
 * 20-25: [jChampions Conference](https://jchampionsconf.com/) - Online
+* 31-04/02: [OOP](https://www.oop-konferenz.de/oop-2022/startpage) - Munich (Germany)
 
 ### February
 
