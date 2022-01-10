@@ -49,6 +49,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### April
 
+* 4-6: [QCon London](https://qconlondon.com/) - London (UK)
 * 7-8: [SymfonyLive Paris 2022](https://live.symfony.com/2022-paris/) - Paris (France) <a href="https://live.symfony.com/2022-paris/cfp"><img alt="CFP SymfonyLive Paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=green"> </a>
 * 12-14: [DevNexus](https://devnexus.com/) - Atlanta (USA)
 * 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France)    <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=24-Nov-2021-%3E09-Jan-2022&color=green"> </a>
@@ -60,10 +61,13 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 2-4: [JFokus](https://www.jfokus.se/) - Stockholm (Sweden)
 * 2-6: [JAX Hybrid](https://jax.de/mainz-en) - Mainz (Germany) or Online
+* 10-20: [QCon Plus](https://qconlondon.com/) - Online
 * 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
+* 11-13: [GeeCon Krakow](https://www.geecon.org/) - Krakow (Poland)
 * 12-13: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
 * 17-20: [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - Valencia (Spain) <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=green"> </a>
+* 19-22: [Java Day Istanbul](https://www.javaday.istanbul/) - Antalya (Turkey)
 * 20: [AFUP Day 2022](https://event.afup.org/) - Lille (France)
 * 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France) <a href="https://www.papercall.io/mixit2022"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=17-Dec-2021%20to%2002-Feb-2022&color=green"> </a>
 * 24-26: [Web à Québec](https://webaquebec.org/) - Québec (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/ddNC6Su7"><img alt="CFP Web a Quebec" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=green"> </a>
@@ -98,6 +102,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### October
 
 * 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont Ferrand (France)
+* 13-14: [GeeCon Prague](https://www.geecon.org/) - Prague (Czechia)
 * 18-21: [JCon](https://jcon.one/) - Germany or Online
 * 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France)
 * 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
