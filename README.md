@@ -56,6 +56,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### May
 
+* 2-4: [JFokus](https://www.jfokus.se/) - Stockholm (Sweden)
 * 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
 * 12-13: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
