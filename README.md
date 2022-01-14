@@ -28,6 +28,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 14-15: [You Got This in Cyberspace](https://yougotthis.io)
 * 17: [That](https://that.us/) - Round Rock (USA) or Online
+* 20: [NantesJS](https://nantesjs.org) - Online
 * 20: [StreamYard Connect Summit](https://hopin.com/events/syconnect) - Online
 * 20-25: [jChampions Conference](https://jchampionsconf.com/) - Online
 * 21: [Touraine Tech](https://touraine.tech/) - Tours (France)
