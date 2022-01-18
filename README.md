@@ -90,6 +90,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg <a href="https://vdlux20.cfp.dev/#/login"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=22-Jan-2022%20to%2001-Mar-2022&color=green"> </a>
 * 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 * 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterdam (NL)
+* 23: [ServerlessDays Paris](https://paris.serverlessdays.io/en/) - Paris (France) <a href="https://vdlux20.cfp.dev/#/login"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=Until%2020-Feb-2022&color=green"> </a>
 * 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
 * 24 : [SoCraTes Rennes](https://socrates-rennes.github.io/) - Rennes (France)
 * 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=6-Dec-2021%20to%2027-Feb-2022&color=green"> </a>
