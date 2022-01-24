@@ -54,7 +54,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### April
 
 * 4-6: [QCon London](https://qconlondon.com/) - London (UK)
-* 7-8: [SymfonyLive Paris 2022](https://live.symfony.com/2022-paris/) - Paris (France) <a href="https://live.symfony.com/2022-paris/cfp"><img alt="CFP SymfonyLive Paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=green"> </a>
+* 7-8: [S🤞ymfonyLive Paris 2022](https://live.symfony.com/2022-paris/) - Paris (France) <a href="https://live.symfony.com/2022-paris/cfp"><img alt="CFP SymfonyLive Paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=green"> </a>
 * 12-14: [DevNexus](https://devnexus.com/) - Atlanta (USA)
 * 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France)    <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=24-Nov-2021-%3E09-Jan-2022&color=green"> </a>
 * 25-26: [Android Makers](https://androidmakers.fr/) - Paris (France)
@@ -114,3 +114,4 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### November
 
 * 7-11: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
+* 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France)
