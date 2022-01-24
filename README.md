@@ -108,7 +108,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont Ferrand (France)
 * 13-14: [GeeCon Prague](https://www.geecon.org/) - Prague (Czechia)
 * 18-21: [JCon](https://jcon.one/) - Germany or Online
-* 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France)
+* 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Apr-2022%20to%2015-Jun-2022&color=green"> </a>
 * 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
 
 ### November
