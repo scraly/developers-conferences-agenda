@@ -107,6 +107,11 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 22-28: [FOSS4G](https://2022.foss4g.org/) - Firenze (Italy)
 
+### September
+
+* 5-7: [ContainerDays 2022(https://www.containerdays.io/) - Hamburg & Online
+* 7-8: [DeveloperWeek Global: Cloud](https://www.developerweek.com/global/conference/cloud/) - Online
+
 ### October
 
 * 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont Ferrand (France)
