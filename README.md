@@ -84,6 +84,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France) <a href="https://conference-hall.io/public/event/0Ij6N6UQOInRF9fdEm6G"><img alt="CFP Le Camping des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=7-Dec-2021%20to%2020-Feb-2022&color=green"> </a>
 * 9-10: [AlpesCraft](https://www.alpescraft.fr/) - Grenoble (France)
 * 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France) <a href="https://conference-hall.io/public/event/vzbfowsExm54SrWLtxA5"><img alt="CFP DevFest Lille 2022" src="https://img.shields.io/static/v1?label=CFP&message=24-Jan-2022%20to%2031-Mar-2022&color=green"> </a>
+* 14: [France API](https://www.franceapi.fr/) - Paris (France)
 * 16-17: [SymfonyWorld Online 2022 Summer Edition](https://live.symfony.com/2022-world-summer/) - Online <a href="https://live.symfony.com/2022-world-summer/cfp"><img alt="CFP SymfonyWorld Online 2022 Summer Edition" src="https://img.shields.io/static/v1?label=CFP&message=%3E14-02-2022&color=green"> </a>
 * 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
 * 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam (NL)
