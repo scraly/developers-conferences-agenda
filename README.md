@@ -26,6 +26,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### January
 
+* 5-7: [CES](https://www.ces.tech/) - Las Vegas (USA- & Online
 * 14-15: [You Got This in Cyberspace](https://yougotthis.io)
 * 17: [That](https://that.us/) - Round Rock (USA) or Online
 * 20: [StreamYard Connect Summit](https://hopin.com/events/syconnect) - Online
