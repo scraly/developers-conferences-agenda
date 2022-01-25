@@ -77,6 +77,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 12-13: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
 * 17-20: [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - Valencia (Spain) <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=green"> </a>
+* 19-20: [PHP day](https://2022.phpday.it/) - Verona (Italy)
 * 19-22: [Java Day Istanbul](https://www.javaday.istanbul/) - Antalya (Turkey)
 * 20: [AFUP Day 2022](https://event.afup.org/) - Lille (France)
 * 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France) <a href="https://www.papercall.io/mixit2022"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=17-Dec-2021%20to%2002-Feb-2022&color=green"> </a>
