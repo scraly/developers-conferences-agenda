@@ -124,6 +124,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 5-7: [ContainerDays 2022](https://www.containerdays.io/) - Hamburg & Online
 * 7-8: [DeveloperWeek Global: Cloud](https://www.developerweek.com/global/conference/cloud/) - Online
+* 26-28: [GopherCon](https://www.gophercon.com/) - Florida (USA)
 
 ### October
 
