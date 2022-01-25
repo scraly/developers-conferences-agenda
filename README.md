@@ -43,12 +43,14 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-12: [Elastic Community Conference](https://sessionize.com/elastic-community-conference) - Online 
 * 22-24: [SoloCon](https://solocon.io/) - Online
 * 23-25: [ConFoo](https://confoo.ca/fr/2022) - Online
+* 28-6: [web3 Con](https://www.web3con.dev/) - Online
 
 ### March
 
 * 15-17: [JavaLand](https://www.javaland.eu/en/home/) - Brühl (Germany)
 * 17: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zürich (Switzerland)
 * 18: [Mobilis In Mobile](https://mobilis-in-mobile.io/) - Nantes (France) <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=01-Dec-2021-%3E31-Jan-2022&color=green"> </a>
+* 23-25: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022/) - Bucharest (Romania) & Online
 * 24: [Cloud Sud](https://cloudsud.fr) - Online <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=Until19-Feb-2022&color=green"> </a>
 * 29-31: [ETHDubai](https://www.ethdubaiconf.org/) - Dubai (United Arab Emirates)
 
@@ -71,6 +73,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 2-4: [JFokus](https://www.jfokus.se/) - Stockholm (Sweden)
 * 2-6: [JAX Hybrid](https://jax.de/mainz-en) - Mainz (Germany) or Online
+* 5-7: [JSDay canarias](https://jsdaycanarias.com/) - Islas Canarias (España)
 * 10: [Docker Con](https://www.docker.com/dockercon/) - Online
 * 10-20: [QCon Plus](https://qconlondon.com/) - Online
 * 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
@@ -90,6 +93,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### June
 
 * 3-4: [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - Chennai (India) + Online <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2031-Mar-2022&color=green"> </a>
+* 7-8: [LeadDev](https://leaddev.com/) - UK
 * 7-8: [cdCon](https://events.linuxfoundation.org/cdcon/) - Austin (USA) + Online
 * 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France) <a href="https://conference-hall.io/public/event/0Ij6N6UQOInRF9fdEm6G"><img alt="CFP Le Camping des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=7-Dec-2021%20to%2020-Feb-2022&color=green"> </a>
 * 9-10: [AlpesCraft](https://www.alpescraft.fr/) - Grenoble (France)
