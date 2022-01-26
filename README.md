@@ -51,7 +51,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 17: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zürich (Switzerland)
 * 18: [Mobilis In Mobile](https://mobilis-in-mobile.io/) - Nantes (France) <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=01-Dec-2021-%3E31-Jan-2022&color=green"> </a>
 * 23-25: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022/) - Bucharest (Romania) & Online
-* 24: [Cloud Sud](https://cloudsud.fr) - Online <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=Until19-Feb-2022&color=green"> </a>
+* 24: [Cloud Sud](https://cloudsud.fr) - Online <a href="https://conference-hall.io/public/event/lEimlpsjR1JfydbTWvzY"><img alt="CFP Cloud Sud" src="https://img.shields.io/static/v1?label=CFP&message=Until19-Feb-2022&color=green"> </a>
 * 29-31: [ETHDubai](https://www.ethdubaiconf.org/) - Dubai (United Arab Emirates)
 
 ### April
