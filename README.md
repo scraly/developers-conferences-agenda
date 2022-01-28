@@ -47,6 +47,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### March
 
+* 10: [Archilocus](https://www.archilocus.tech/) - Online
 * 14-15: [SRECon22 Americas](https://www.usenix.org/conference/srecon22americas) - San Francisco (USA)
 * 15-17: [JavaLand](https://www.javaland.eu/en/home/) - Brühl (Germany)
 * 17: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zürich (Switzerland)
