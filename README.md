@@ -47,6 +47,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### March
 
+* 14-15: [SRECon22 Americas](https://www.usenix.org/conference/srecon22americas) - San Francisco (USA)
 * 15-17: [JavaLand](https://www.javaland.eu/en/home/) - Brühl (Germany)
 * 17: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zürich (Switzerland)
 * 18: [Mobilis In Mobile](https://mobilis-in-mobile.io/) - Nantes (France) <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=01-Dec-2021-%3E31-Jan-2022&color=green"> </a>
@@ -74,11 +75,13 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 2-4: [JFokus](https://www.jfokus.se/) - Stockholm (Sweden)
 * 2-6: [JAX Hybrid](https://jax.de/mainz-en) - Mainz (Germany) or Online
 * 5-7: [JSDay canarias](https://jsdaycanarias.com/) - Islas Canarias (España)
+* 9-12: [SLOConf](https://www.sloconf.com/) - Online <a href="https://www.papercall.io/sloconf"><img alt="CFP SLOConf" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2001-Mar-2022&color=green"> </a>
 * 10: [Docker Con](https://www.docker.com/dockercon/) - Online
 * 10-20: [QCon Plus](https://qconlondon.com/) - Online
 * 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
 * 11-13: [GeeCon Krakow](https://www.geecon.org/) - Krakow (Poland)
 * 12-13: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
+* 17-19: [RailsConf22](https://railsconf.com/) - Portland (USA)
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
 * 17-20: [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - Valencia (Spain) <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=green"> </a>
 * 19-20: [PHP day](https://2022.phpday.it/) - Verona (Italy)
@@ -88,6 +91,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 24-26: [JFrog SwampUp](http://swampup.jfrog.com/) - Omni La Costa Resort & Spa Carlsbad, California (USA) <a href="https://sessionize.com/swampup-2022?utm_campaign=SwampUp+CFP"><img alt="CFP SwampUp2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Dec-2021%20to%2011-Feb-2022&color=green"> </a>
 * 24-26: [Web à Québec](https://webaquebec.org/) - Québec (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/ddNC6Su7"><img alt="CFP Web a Quebec" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=green"> </a>
 * 25-26: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%20to%2015-Mar-2022&color=green"> </a>
+* 25-27: [Microsoft Build](microsoft.com/en-us/build) - Online
 * 26-27: [Spring I/O](https://2022.springio.net/) - Barcelona (Spain) <a href="https://www.papercall.io/springio22"><img alt="CFP Spring I/O 2022" src="https://img.shields.io/static/v1?label=CFP&message=23-Dec-2021%20to%2001-Mar-2022&color=green"> </a>
 
 ### June
