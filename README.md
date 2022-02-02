@@ -21,19 +21,9 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * [2019](archives/2019.md)
 * [2020](archives/2020.md)
 * [2021](archives/2021.md)
+* [2022](archives/2022.md)
 
 ## 2022
-
-### January
-
-* 5-7: [CES](https://www.ces.tech/) - Las Vegas (USA- & Online
-* 14-15: [You Got This in Cyberspace](https://yougotthis.io)
-* 17: [That](https://that.us/) - Round Rock (USA) or Online
-* 20: [StreamYard Connect Summit](https://hopin.com/events/syconnect) - Online
-* 20-25: [jChampions Conference](https://jchampionsconf.com/) - Online
-* 21: [Touraine Tech](https://touraine.tech/) - Tours (France)
-* 31-04/02: [OOP](https://www.oop-konferenz.de/oop-2022/startpage) - Munich (Germany)
-
 ### February
 
 * 2-5: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
