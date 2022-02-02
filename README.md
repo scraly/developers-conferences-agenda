@@ -37,7 +37,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### February
 
 * 2-5: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
-* 5-6: [Fosdem](https://fosdem.org/2022/) - Brussels (Belgium)
+* 5-6: [Fosdem](https://fosdem.org/2022/) - Online
 * 10: [.Net frontend Day](https://www.dotnet-frontend.com/) - Online 
 * 10: [Dataquitaine](https://www.dataquitaine.com/2022/conference-ia-ai-datascience-ro-bordeaux-2022) - Online
 * 11-12: [Elastic Community Conference](https://sessionize.com/elastic-community-conference) - Online 
@@ -88,7 +88,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 19-20: [PHP day](https://2022.phpday.it/) - Verona (Italy)
 * 19-22: [Java Day Istanbul](https://www.javaday.istanbul/) - Antalya (Turkey)
 * 20: [AFUP Day 2022](https://event.afup.org/) - Lille (France)
-* 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France) <a href="https://www.papercall.io/mixit2022"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=17-Dec-2021%20to%2002-Feb-2022&color=green"> </a>
+* 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France) <a href="https://www.papercall.io/mixit2022"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=17-Dec-2021%20to%2016-Feb-2022&color=green"> </a>
 * 24-26: [JFrog SwampUp](http://swampup.jfrog.com/) - Omni La Costa Resort & Spa Carlsbad, California (USA) <a href="https://sessionize.com/swampup-2022?utm_campaign=SwampUp+CFP"><img alt="CFP SwampUp2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Dec-2021%20to%2011-Feb-2022&color=green"> </a>
 * 24-26: [Web à Québec](https://webaquebec.org/) - Québec (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/ddNC6Su7"><img alt="CFP Web a Quebec" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=green"> </a>
 * 25-26: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%20to%2015-Mar-2022&color=green"> </a>
