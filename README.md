@@ -134,3 +134,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 7-11: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
 * 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France)
+
+## 2023
+### January
+
+* 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
