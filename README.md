@@ -38,7 +38,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### March
 
 * 10: [Archilocus](https://www.archilocus.tech/) - Online
-* 14-15: [SRECon22 Americas](https://www.usenix.org/conference/srecon22americas) - San Francisco (USA)
+* 14-16: [SRECon22 Americas](https://www.usenix.org/conference/srecon22americas) - San Francisco (USA)
 * 15-17: [JavaLand](https://www.javaland.eu/en/home/) - Brühl (Germany)
 * 18: [Mobilis In Mobile](https://mobilis-in-mobile.io/) - Nantes (France) <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=01-Dec-2021-%3E31-Jan-2022&color=red"> </a>
 * 23-25: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022/) - Bucharest (Romania) & Online
@@ -132,6 +132,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 13-14: [GeeCon Prague](https://www.geecon.org/) - Prague (Czechia)
 * 18-21: [JCon](https://jcon.one/) - Germany or Online
 * 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Apr-2022%20to%2015-Jun-2022&color=green"> </a>
+* 25-27: [SREcon22 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Amsterdam (Netherlands)
 * 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
 
 ### November
@@ -139,7 +140,15 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 7-11: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
 * 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France)
 
+### December
+
+* 7-9: [SREcon22 Asia/Pacific](https://www.usenix.org/srecon) - Sydney (Australia)
+
 ## 2023
 ### January
 
 * 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
+
+### October
+
+* 10-12: [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Dublin (Ireland)
