@@ -40,7 +40,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 10: [Archilocus](https://www.archilocus.tech/) - Online
 * 14-15: [SRECon22 Americas](https://www.usenix.org/conference/srecon22americas) - San Francisco (USA)
 * 15-17: [JavaLand](https://www.javaland.eu/en/home/) - Brühl (Germany)
-* 17: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zürich (Switzerland)
 * 18: [Mobilis In Mobile](https://mobilis-in-mobile.io/) - Nantes (France) <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=01-Dec-2021-%3E31-Jan-2022&color=red"> </a>
 * 23-25: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022/) - Bucharest (Romania) & Online
 * 24: [Cloud Sud](https://cloudsud.fr) - Online <a href="https://conference-hall.io/public/event/lEimlpsjR1JfydbTWvzY"><img alt="CFP Cloud Sud" src="https://img.shields.io/static/v1?label=CFP&message=Until%2019-Feb-2022&color=green"> </a>
@@ -72,6 +71,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
 * 11-13: [GeeCon Krakow](https://www.geecon.org/) - Krakow (Poland)
 * 12-13: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
+* 17: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zürich (Switzerland)
 * 17-19: [RailsConf22](https://railsconf.com/) - Portland (USA)
 * 17-20: [SoCraTes](https://socrates-fr.github.io/) - ‘Château de Massillan’ - Drome (France)
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
