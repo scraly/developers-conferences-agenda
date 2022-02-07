@@ -73,6 +73,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-13: [GeeCon Krakow](https://www.geecon.org/) - Krakow (Poland)
 * 12-13: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
 * 17-19: [RailsConf22](https://railsconf.com/) - Portland (USA)
+* 17-20: [SoCraTes](https://socrates-fr.github.io/) - ‘Château de Massillan’ - Drome (France)
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
 * 17-20: [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - Valencia (Spain) <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=green"> </a>
 * 19-20: [PHP day](https://2022.phpday.it/) - Verona (Italy)
