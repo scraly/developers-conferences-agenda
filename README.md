@@ -111,6 +111,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### July
 
+* 6-8: [DroidCon Berlin](https://www.berlin.droidcon.com/) - Berlin (Germany) <a href="https://sessionize.com/droidcon-berlin-2022/"><img alt="CFP DroidCon Berlin 2022" src="https://img.shields.io/static/v1?label=CFP&message=01-0220to%2020-May-2022&color=green"> </a>
 * 18-20: [JBCNConf](https://www.jbcnconf.com/2022/) - Barcelona (Spain)
 
 ### August
