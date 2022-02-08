@@ -79,7 +79,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 16: [fluentCon Europe](https://events.linuxfoundation.org/fluentcon-europe/) - Valencia (Spain)
 * 16-17: [Cloud Native SecurityCon Europe](https://events.linuxfoundation.org/cloud-native-securitycon-europe/) - Valencia (Spain)
 * 17: [Kubernetes on Edge Day](https://events.linuxfoundation.org/kubernetes-on-edge-day-europe/) - Valencia (Spain)
-* 17: [PromtheusDay Europe](https://events.linuxfoundation.org/prometheus-day-europe/) - Valencia (Spain)
+* 17: [PrometheusDay Europe](https://events.linuxfoundation.org/prometheus-day-europe/) - Valencia (Spain)
 * 17: [ServiceMeshCon Europe](https://events.linuxfoundation.org/servicemeshcon-europe/) - Valencia (Spain)
 * 17: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zürich (Switzerland)
 * 17-19: [RailsConf22](https://railsconf.com/) - Portland (USA)
