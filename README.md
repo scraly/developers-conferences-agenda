@@ -73,6 +73,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-13: [GeeCon Krakow](https://www.geecon.org/) - Krakow (Poland)
 * 12-13: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
 * 16: [Cloud Native Wasm Day Europe](https://events.linuxfoundation.org/cloud-native-wasm-day-europe/) - Valencia (Spain)
+* 16: [Kubernetes AI Day Europe](https://events.linuxfoundation.org/kubernetes-ai-day-europe/) - Valencia (Spain)
+* 16-17: [Cloud Native SecurityCon Europe](https://events.linuxfoundation.org/cloud-native-securitycon-europe/) - Valencia (Spain)
 * 17: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zürich (Switzerland)
 * 17-19: [RailsConf22](https://railsconf.com/) - Portland (USA)
 * 17-20: [SoCraTes](https://socrates-fr.github.io/) - ‘Château de Massillan’ - Drome (France)
