@@ -137,6 +137,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### November
 
+* 3-4: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain)
 * 7-11: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
 * 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France)
 
