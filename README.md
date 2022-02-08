@@ -59,6 +59,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
 * 28: [WTFisSRE](https://www.cloud-native-sre.wtf/) - Online
 * 27-28: [DevDays Europe](https://devdays.lt/) - Vilnius (Lithuania) or Online
+* 28-29: [DevX Conf](https://devxconf.org/) - Online
 
 ### May
 
