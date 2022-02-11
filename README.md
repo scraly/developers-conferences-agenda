@@ -37,6 +37,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### March
 
+* 8-11: [Esri Developer Summit](https://www.esri.com/en-us/about/events/devsummit/overview) - California (USA)
 * 10: [Archilocus](https://www.archilocus.tech/) - Online
 * 14-16: [SRECon22 Americas](https://www.usenix.org/conference/srecon22americas) - San Francisco (USA)
 * 15-17: [JavaLand](https://www.javaland.eu/en/home/) - Brühl (Germany)
