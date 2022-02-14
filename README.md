@@ -96,6 +96,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 25-26: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Mar-2022&color=green"> </a>
 * 25-27: [Microsoft Build](microsoft.com/en-us/build) - Online
 * 26-27: [Spring I/O](https://2022.springio.net/) - Barcelona (Spain) <a href="https://www.papercall.io/springio22"><img alt="CFP Spring I/O 2022" src="https://img.shields.io/static/v1?label=CFP&message=23-Dec-2021%20to%2001-Mar-2022&color=green"> </a>
+* 28: [HackInBo](https://www.hackinbo.it/) - Bologna (Italy)
 
 ### June
 
