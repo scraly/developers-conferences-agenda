@@ -44,10 +44,12 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18: [Mobilis In Mobile](https://mobilis-in-mobile.io/) - Nantes (France) <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=01-Dec-2021-%3E31-Jan-2022&color=red"> </a>
 * 23-25: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022/) - Bucharest (Romania) & Online
 * 24: [Cloud Sud](https://cloudsud.fr) - Online <a href="https://conference-hall.io/public/event/lEimlpsjR1JfydbTWvzY"><img alt="CFP Cloud Sud" src="https://img.shields.io/static/v1?label=CFP&message=Until%2019-Feb-2022&color=green"> </a>
+* 28: [Incontro DevOps Italia](https://2022.incontrodevops.it/) - Bologna (Italia) & Online
 * 29-31: [ETHDubai](https://www.ethdubaiconf.org/) - Dubai (United Arab Emirates)
 
 ### April
 
+* 1: [CSS Day](https://2022.cssday.it/) - Faenza (Italia)
 * 4-6: [QCon London](https://qconlondon.com/) - London (UK)
 * 4-6: [Serverless architecture conference](https://serverless-architecture.io/thehague/) - The Hague Marriot Hotel (Netherlands) or online
 * 4-6: [API Conference](https://apiconference.net/thehague/) - The Hague Marriott Hotel (Netherlands) or online
@@ -56,6 +58,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 12-14: [DevNexus](https://devnexus.com/) - Atlanta (USA)
 * 21-22: [JSDay](https://2022.jsday.it/) - Verona (Italy)
 * 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France)    <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=24-Nov-2021-%3E09-Jan-2022&color=red"> </a>
+* 21-22: [JS Day](https://2022.jsday.it/) - Verona (Italia)
 * 25-26: [Android Makers](https://androidmakers.fr/) - Paris (France)
 * 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
 * 28: [WTFisSRE](https://www.cloud-native-sre.wtf/) - Online
@@ -87,7 +90,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 17-20: [SoCraTes](https://socrates-fr.github.io/) - ‘Château de Massillan’ - Drome (France)
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
 * 17-20: [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - Valencia (Spain) <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=green"> </a>
-* 19-20: [PHP day](https://2022.phpday.it/) - Verona (Italy)
+* 19-20: [PHP Day](https://2022.phpday.it/) - Verona (Italy)
 * 19-22: [Java Day Istanbul](https://www.javaday.istanbul/) - Antalya (Turkey)
 * 20: [AFUP Day 2022](https://event.afup.org/) - Lille (France)
 * 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France) <a href="https://www.papercall.io/mixit2022"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=17-Dec-2021%20to%2016-Feb-2022&color=green"> </a>
@@ -147,6 +150,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Apr-2022%20to%2015-Jun-2022&color=green"> </a>
 * 25-27: [SREcon22 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Amsterdam (Netherlands)
 * 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
+* 28: [Container Day](https://2022.containerday.it/) - Bologna (Italia)
 
 ### November
 
