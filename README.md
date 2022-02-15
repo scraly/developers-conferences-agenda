@@ -63,6 +63,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
 * 28: [WTFisSRE](https://www.cloud-native-sre.wtf/) - Online
 * 27-28: [DevDays Europe](https://devdays.lt/) - Vilnius (Lithuania) or Online
+* 27-28: [Developer Week Europe](https://www.developerweek.com/europe/) - Online
 * 28-29: [DevX Conf](https://devxconf.org/) - Online
 
 ### May
@@ -103,11 +104,13 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 ### June
 
+* 1-3: [Web2Day](https://web2day.co/) - Nantes (France)
 * 2-5: [PyCon Italia 2022](https://pycon.it/en) - Florence (Italy)
 * 3-4: [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - Chennai (India) + Online <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2031-Mar-2022&color=green"> </a>
 * 7-8: [LeadDev](https://leaddev.com/) - UK
 * 7-8: [cdCon](https://events.linuxfoundation.org/cdcon/) - Austin (USA) + Online <a href="https://events.linuxfoundation.org/cdcon/program/cfp/"><img alt="CFP cdCon" src="https://img.shields.io/static/v1?label=CFP&message=10-Jan-2022%20to%2018-Feb-2022&color=green"> </a>
 * 7-9: [Forum International de la Cybersécurité](https://www.forum-fic.com/) - Lille (FR)
+* 8-9: [OW2Con](https://www.ow2con.org/view/2022/) - Online
 * 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France) <a href="https://conference-hall.io/public/event/0Ij6N6UQOInRF9fdEm6G"><img alt="CFP Le Camping des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=7-Dec-2021%20to%2020-Feb-2022&color=green"> </a>
 * 9-10: [AlpesCraft](https://www.alpescraft.fr/) - Grenoble (France)
 * 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France) <a href="https://conference-hall.io/public/event/vzbfowsExm54SrWLtxA5"><img alt="CFP DevFest Lille 2022" src="https://img.shields.io/static/v1?label=CFP&message=24-Jan-2022%20to%2031-Mar-2022&color=green"> </a>
@@ -115,6 +118,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 16-17: [SymfonyWorld Online 2022 Summer Edition](https://live.symfony.com/2022-world-summer/) - Online <a href="https://live.symfony.com/2022-world-summer/cfp"><img alt="CFP SymfonyWorld Online 2022 Summer Edition" src="https://img.shields.io/static/v1?label=CFP&message=Until%2014-02-2022&color=green"> </a>
 * 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
 * 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam (NL)
+* 20-24: [NDC Melbourne](https://ndcmelbourne.com/) - Melbourne (Australia)
 * 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg <a href="https://vdlux20.cfp.dev/#/login"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=22-Jan-2022%20to%2001-Mar-2022&color=green"> </a>
 * 22-23: [enterJS](https://enterjs.de/) - Darmstadt (Germany)
 * 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
