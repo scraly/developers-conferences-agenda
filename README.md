@@ -106,7 +106,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 1-3: [Web2Day](https://web2day.co/) - Nantes (France)
 * 2-5: [PyCon Italia 2022](https://pycon.it/en) - Florence (Italy)
-* 3-4: [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - Chennai (India) + Online <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2031-Mar-2022&color=green"> </a>
+* 3-4: [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - Chennai (India) + Online <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2020-Mar-2022&color=green"> </a>
 * 7-8: [LeadDev](https://leaddev.com/) - UK
 * 7-8: [cdCon](https://events.linuxfoundation.org/cdcon/) - Austin (USA) + Online <a href="https://events.linuxfoundation.org/cdcon/program/cfp/"><img alt="CFP cdCon" src="https://img.shields.io/static/v1?label=CFP&message=10-Jan-2022%20to%2018-Feb-2022&color=green"> </a>
 * 7-9: [Forum International de la Cybersécurité](https://www.forum-fic.com/) - Lille (FR)
