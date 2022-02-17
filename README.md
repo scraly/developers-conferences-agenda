@@ -91,12 +91,12 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 17-19: [RailsConf22](https://railsconf.com/) - Portland (USA)
 * 17-20: [SoCraTes](https://socrates-fr.github.io/) - ‘Château de Massillan’ - Drome (France)
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
-* 17-20: [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - Valencia (Spain) <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=green"> </a>
+* 17-20: [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - Valencia (Spain) <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=red"> </a>
 * 19-20: [PHP Day](https://2022.phpday.it/) - Verona (Italy)
 * 19-22: [Java Day Istanbul](https://www.javaday.istanbul/) - Antalya (Turkey)
 * 20: [AFUP Day 2022](https://event.afup.org/) - Lille (France)
 * 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France) <a href="https://www.papercall.io/mixit2022"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=17-Dec-2021%20to%2016-Feb-2022&color=red"> </a>
-* 24-26: [JFrog SwampUp](http://swampup.jfrog.com/) - Omni La Costa Resort & Spa Carlsbad, California (USA) <a href="https://sessionize.com/swampup-2022?utm_campaign=SwampUp+CFP"><img alt="CFP SwampUp2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Dec-2021%20to%2011-Feb-2022&color=green"> </a>
+* 24-26: [JFrog SwampUp](http://swampup.jfrog.com/) - Omni La Costa Resort & Spa Carlsbad, California (USA) <a href="https://sessionize.com/swampup-2022?utm_campaign=SwampUp+CFP"><img alt="CFP SwampUp2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Dec-2021%20to%2011-Feb-2022&color=red"> </a>
 * 24-26: [Web à Québec](https://webaquebec.org/) - Québec (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/ddNC6Su7"><img alt="CFP Web a Quebec" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=green"> </a>
 * 25-26: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Mar-2022&color=green"> </a>
 * 25-27: [Microsoft Build](microsoft.com/en-us/build) - Online
