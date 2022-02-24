@@ -58,9 +58,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-13: [PyCon DE & PyData Berlin](https://2022.pycon.de/) - Berlin (Germany)
 * 12-14: [DevNexus](https://devnexus.com/) - Atlanta (USA)
 * 21-22: [JSDay](https://2022.jsday.it/) - Verona (Italy)
-* 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France)    <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=24-Nov-2021-%3E09-Jan-2022&color=red"> </a>
+* 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France) <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=24-Nov-2021-%3E09-Jan-2022&color=red"> </a>
 * 21-22: [JS Day](https://2022.jsday.it/) - Verona (Italia)
 * 25-26: [Android Makers](https://androidmakers.fr/) - Paris (France)
+* 25-29: [IstioCon](https://www.crowdcast.io/e/istiocon-2022) - Online <a href="https://sessionize.com/istiocon-2022/"><img alt="CFP IstioCon" src="https://img.shields.io/static/v1?label=CFP&message=21-Jan-2022-%3E03-Mar-2022&color=green"> </a>
 * 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
 * 28: [WTFisSRE](https://www.cloud-native-sre.wtf/) - Online
 * 27-28: [DevDays Europe](https://devdays.lt/) - Vilnius (Lithuania) or Online
