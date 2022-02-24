@@ -32,12 +32,12 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 10: [Dataquitaine](https://www.dataquitaine.com/2022/conference-ia-ai-datascience-ro-bordeaux-2022) - Online
 * 11-12: [Elastic Community Conference](https://sessionize.com/elastic-community-conference) - Online 
 * 21-25: [Oracle Developer Week](https://go.oracle.com/LP=122064) - Online
-* 22-24: [SoloCon](https://solocon.io/) - Online
 * 23-25: [ConFoo](https://confoo.ca/fr/2022) - Online
 * 28-6: [web3 Con](https://www.web3con.dev/) - Online
 
 ### March
 
+* 8-10: [SoloCon](https://solocon.io/) - Online
 * 8-11: [Esri Developer Summit](https://www.esri.com/en-us/about/events/devsummit/overview) - California (USA)
 * 10: [Archilocus](https://www.archilocus.tech/) - Online
 * 14-16: [SRECon22 Americas](https://www.usenix.org/conference/srecon22americas) - San Francisco (USA)
