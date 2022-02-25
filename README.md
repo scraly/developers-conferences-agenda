@@ -32,19 +32,19 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 10: [Dataquitaine](https://www.dataquitaine.com/2022/conference-ia-ai-datascience-ro-bordeaux-2022) - Online
 * 11-12: [Elastic Community Conference](https://sessionize.com/elastic-community-conference) - Online 
 * 21-25: [Oracle Developer Week](https://go.oracle.com/LP=122064) - Online
-* 22-24: [SoloCon](https://solocon.io/) - Online
 * 23-25: [ConFoo](https://confoo.ca/fr/2022) - Online
 * 28-6: [web3 Con](https://www.web3con.dev/) - Online
 
 ### March
 
+* 8-10: [SoloCon](https://solocon.io/) - Online
 * 8-11: [Esri Developer Summit](https://www.esri.com/en-us/about/events/devsummit/overview) - California (USA)
 * 10: [Archilocus](https://www.archilocus.tech/) - Online
 * 14-16: [SRECon22 Americas](https://www.usenix.org/conference/srecon22americas) - San Francisco (USA)
 * 15-17: [JavaLand](https://www.javaland.eu/en/home/) - Brühl (Germany)
 * 18: [Mobilis In Mobile](https://mobilis-in-mobile.io/) - Nantes (France) <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=01-Dec-2021-%3E31-Jan-2022&color=red"> </a>
 * 23-25: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022/) - Bucharest (Romania) & Online
-* 24: [Cloud Sud](https://cloudsud.fr) - Online <a href="https://conference-hall.io/public/event/lEimlpsjR1JfydbTWvzY"><img alt="CFP Cloud Sud" src="https://img.shields.io/static/v1?label=CFP&message=Until%2019-Feb-2022&color=green"> </a>
+* 24: [Cloud Sud](https://cloudsud.fr) - Online <a href="https://conference-hall.io/public/event/lEimlpsjR1JfydbTWvzY"><img alt="CFP Cloud Sud" src="https://img.shields.io/static/v1?label=CFP&message=Until%2019-Feb-2022&color=red"> </a>
 * 28: [Incontro DevOps Italia](https://2022.incontrodevops.it/) - Bologna (Italia) & Online
 * 29-31: [ETHDubai](https://www.ethdubaiconf.org/) - Dubai (United Arab Emirates)
 
@@ -58,9 +58,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-13: [PyCon DE & PyData Berlin](https://2022.pycon.de/) - Berlin (Germany)
 * 12-14: [DevNexus](https://devnexus.com/) - Atlanta (USA)
 * 21-22: [JSDay](https://2022.jsday.it/) - Verona (Italy)
-* 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France)    <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=24-Nov-2021-%3E09-Jan-2022&color=red"> </a>
+* 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France) <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=24-Nov-2021-%3E09-Jan-2022&color=red"> </a>
 * 21-22: [JS Day](https://2022.jsday.it/) - Verona (Italia)
 * 25-26: [Android Makers](https://androidmakers.fr/) - Paris (France)
+* 25-29: [IstioCon](https://www.crowdcast.io/e/istiocon-2022) - Online <a href="https://sessionize.com/istiocon-2022/"><img alt="CFP IstioCon" src="https://img.shields.io/static/v1?label=CFP&message=21-Jan-2022-%3E03-Mar-2022&color=green"> </a>
 * 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
 * 28: [WTFisSRE](https://www.cloud-native-sre.wtf/) - Online
 * 27-28: [DevDays Europe](https://devdays.lt/) - Vilnius (Lithuania) or Online
@@ -121,7 +122,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
 * 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam (NL)
 * 20-24: [NDC Melbourne](https://ndcmelbourne.com/) - Melbourne (Australia)
-* 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg <a href="https://vdlux20.cfp.dev/#/login"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=22-Jan-2022%20to%2001-Mar-2022&color=green"> </a>
+* 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg <a href="http://cfp-voxxed-lux.yajug.org/"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=20-Feb-2022%20to%2031-Mar-2022&color=green"> </a>
 * 22-23: [enterJS](https://enterjs.de/) - Darmstadt (Germany)
 * 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 * 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterdam (NL)
