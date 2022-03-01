@@ -72,6 +72,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 2-4: [JFokus](https://www.jfokus.se/) - Stockholm (Sweden)
 * 2-6: [JAX Hybrid](https://jax.de/mainz-en) - Mainz (Germany) or Online
+* 3: [Le Tremplin des Speakers](https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ) - Tours (France) <a href="https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ"><img alt="CFP Le Tremplin des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message==1-Mar-2022%20to%2026-Mar-2022&color=green"> </a>
 * 5-7: [JSDay canarias](https://jsdaycanarias.com/) - Islas Canarias (España)
 * 9-12: [SLOConf](https://www.sloconf.com/) - Online <a href="https://www.papercall.io/sloconf"><img alt="CFP SLOConf" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2001-Mar-2022&color=green"> </a>
 * 10: [Docker Con](https://www.docker.com/dockercon/) - Online
