@@ -66,6 +66,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 28: [WTFisSRE](https://www.cloud-native-sre.wtf/) - Online
 * 27-28: [DevDays Europe](https://devdays.lt/) - Vilnius (Lithuania) or Online
 * 27-28: [Developer Week Europe](https://www.developerweek.com/europe/) - Online
+* 27-3: [PyCon US](https://us.pycon.org/2022/) - Salt Lake City (USA)
 * 28-29: [DevX Conf](https://devxconf.org/) - Online
 
 ### May
