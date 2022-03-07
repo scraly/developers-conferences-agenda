@@ -154,7 +154,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 7-8: [DeveloperWeek Global: Cloud](https://www.developerweek.com/global/conference/cloud/) - Online
 * 9: [JUG SummerCamp](https://www.jugsummercamp.org/edition/13) - La Rochelle (France) <a href="https://www.jugsummercamp.org/edition/13"><img alt="CFP JUG SummerCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=May-2022&color=green"> </a>
 * 26-28: [GopherCon](https://www.gophercon.com/) - Florida (USA)
-* 29: [Cloud Nord](https://cloudnord.fr/) - Lille
+* 29: [Cloud Nord](https://cloudnord.fr/) - Lille (France) <a href="https://conference-hall.io/public/event/wGVYkl21UFxeiuakhKfu"><img alt="CFP Cloud Nord 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=green"> </a>
 
 ### October
 
