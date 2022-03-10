@@ -57,10 +57,16 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 7-8: [SymfonyLive Paris 2022](https://live.symfony.com/2022-paris/) - Paris (France) <a href="https://live.symfony.com/2022-paris/cfp"><img alt="CFP SymfonyLive Paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=red"> </a>
 * 11-13: [PyCon DE & PyData Berlin](https://2022.pycon.de/) - Berlin (Germany)
 * 12-14: [DevNexus](https://devnexus.com/) - Atlanta (USA)
+* 13-14: [DevOpsDays raleigh](https://devopsdays.org/events/2022-raleigh/welcome/) - Raleigh (USA)
+* 18-19: [devopsdays Birmingham, AL](https://devopsdays.org/events/2022-birmingham-al/welcome/) - Birmingham (USA)
+* 19-20: [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta/welcome/) - Atlanta (USA)
 * 21-22: [JSDay](https://2022.jsday.it/) - Verona (Italy)
 * 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France) <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=24-Nov-2021-%3E09-Jan-2022&color=red"> </a>
+* 21-22: [DevOpsDays Tokyo](https://devopsdays.org/events/2022-tokyo/welcome/) - Tokyo (Japan)
 * 21-22: [JS Day](https://2022.jsday.it/) - Verona (Italia)
 * 25-26: [Android Makers](https://androidmakers.fr/) - Paris (France)
+* 25-26: [DevOpsDays Denver](https://devopsdays.org/events/2022-denver/welcome/) - Denver (USA)
+* 26-27: [DevOpsDays Aarhus](https://devopsdays.org/events/2022-aarhus/welcome/) - Aarhus (Denmark)
 * 25-29: [IstioCon](https://www.crowdcast.io/e/istiocon-2022) - Online <a href="https://sessionize.com/istiocon-2022/"><img alt="CFP IstioCon" src="https://img.shields.io/static/v1?label=CFP&message=21-Jan-2022-%3E03-Mar-2022&color=green"> </a>
 * 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
 * 28: [WTFisSRE](https://www.cloud-native-sre.wtf/) - Online
