@@ -165,6 +165,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18-21: [JCon](https://jcon.one/) - Germany or Online
 * 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Apr-2022%20to%2015-Jun-2022&color=green"> </a>
 * 25-27: [SREcon22 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Amsterdam (Netherlands)
+* 26-27: [DevOpsDays Montreal](https://devopsdays.org/) - Montreal (Canada) <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform"><img alt="CFP DevOpsDays Montreal" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2022&color=green"> </a>
 * 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
 * 28: [Container Day](https://2022.containerday.it/) - Bologna (Italia)
 
