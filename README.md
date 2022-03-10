@@ -67,6 +67,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 25-26: [Android Makers](https://androidmakers.fr/) - Paris (France)
 * 25-26: [DevOpsDays Denver](https://devopsdays.org/events/2022-denver/welcome/) - Denver (USA)
 * 26-27: [DevOpsDays Aarhus](https://devopsdays.org/events/2022-aarhus/welcome/) - Aarhus (Denmark)
+* 26-27: [DevOpsDays Krakow](https://devopsdays.org/events/2022-krakow/welcome/) - Krakow (Croatia)
 * 25-29: [IstioCon](https://www.crowdcast.io/e/istiocon-2022) - Online <a href="https://sessionize.com/istiocon-2022/"><img alt="CFP IstioCon" src="https://img.shields.io/static/v1?label=CFP&message=21-Jan-2022-%3E03-Mar-2022&color=green"> </a>
 * 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
 * 28: [WTFisSRE](https://www.cloud-native-sre.wtf/) - Online
@@ -79,6 +80,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### May
 
 * 2-4: [JFokus](https://www.jfokus.se/) - Stockholm (Sweden)
+* 3: [DevOpsDays Boise](https://devopsdays.org/events/2022-boise/welcome/) - Boise (USA)
 * 2-6: [JAX Hybrid](https://jax.de/mainz-en) - Mainz (Germany) or Online
 * 3: [Le Tremplin des Speakers](https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ) - Tours (France) <a href="https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ"><img alt="CFP Le Tremplin des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message==1-Mar-2022%20to%2026-Mar-2022&color=green"> </a>
 * 5-7: [JSDay canarias](https://jsdaycanarias.com/) - Islas Canarias (España)
