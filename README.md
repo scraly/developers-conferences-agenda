@@ -87,6 +87,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 9-12: [SLOConf](https://www.sloconf.com/) - Online <a href="https://www.papercall.io/sloconf"><img alt="CFP SLOConf" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2001-Mar-2022&color=green"> </a>
 * 10: [Docker Con](https://www.docker.com/dockercon/) - Online
 * 10-20: [QCon Plus](https://qconlondon.com/) - Online
+* 11: [A11y Paris](https://www.a11yparis.org/) - Paris (France)
 * 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
 * 11-13: [GeeCon Krakow](https://www.geecon.org/) - Krakow (Poland)
 * 12-13: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
