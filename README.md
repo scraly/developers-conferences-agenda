@@ -59,6 +59,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-13: [PyCon DE & PyData Berlin](https://2022.pycon.de/) - Berlin (Germany)
 * 12-14: [DevNexus](https://devnexus.com/) - Atlanta (USA)
 * 13-14: [DevOpsDays raleigh](https://devopsdays.org/events/2022-raleigh/welcome/) - Raleigh (USA)
+* 14-15: [THCon](https://thcon.party/) - Toulouse (France)
 * 18-19: [devopsdays Birmingham, AL](https://devopsdays.org/events/2022-birmingham-al/welcome/) - Birmingham (USA)
 * 19-20: [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta/welcome/) - Atlanta (USA)
 * 21-22: [JSDay](https://2022.jsday.it/) - Verona (Italy)
