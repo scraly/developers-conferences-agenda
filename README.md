@@ -160,6 +160,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### October
 
 * 6-7: [Nordic.js](https://nordicjs.com/2022) - Stockholm (Sweden)
+* 6-7: [Paris Web](https://paris-web.fr/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 10-14: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium) <a href="https://devoxx.be/"><img alt="CFP Devoxx Belgium 2022" src="https://img.shields.io/static/v1?label=CFP&message=Jun-2022%20to%20July-2022&color=orange"> </a>
 * 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont Ferrand (France)
 * 13-14: [GeeCon Prague](https://www.geecon.org/) - Prague (Czechia)
