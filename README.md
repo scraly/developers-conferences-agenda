@@ -79,7 +79,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 9-12: [SLOConf](https://www.sloconf.com/) - Online <a href="https://www.papercall.io/sloconf"><img alt="CFP SLOConf" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2001-Mar-2022&color=green"> </a>
 * 10: [Docker Con](https://www.docker.com/dockercon/) - Online
 * 10-20: [QCon Plus](https://qconlondon.com/) - Online
-* 11: [A11y Paris](https://www.a11yparis.org/) - Paris (France)
+* 11: [A11y Paris](https://www.a11yparis.org/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
 * 11-13: [GeeCon Krakow](https://www.geecon.org/) - Krakow (Poland)
 * 12-13: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
@@ -101,7 +101,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 19-22: [Java Day Istanbul](https://www.javaday.istanbul/) - Antalya (Turkey)
 * 20: [AFUP Day 2022](https://event.afup.org/) - Lille (France)
 * 23-26: [THAT Conference](https://that.us/events/tx/2022) – Austin, TX (USA)
-* 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France) <a href="https://www.papercall.io/mixit2022"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=17-Dec-2021%20to%2016-Feb-2022&color=red"> </a>
+* 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France) <a href="https://www.papercall.io/mixit2022"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=17-Dec-2021%20to%2016-Feb-2022&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 24-26: [JFrog SwampUp](http://swampup.jfrog.com/) - Omni La Costa Resort & Spa Carlsbad, California (USA) <a href="https://sessionize.com/swampup-2022?utm_campaign=SwampUp+CFP"><img alt="CFP SwampUp2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Dec-2021%20to%2011-Feb-2022&color=red"> </a>
 * 24-26: [Web à Québec](https://webaquebec.org/) - Québec (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/ddNC6Su7"><img alt="CFP Web a Quebec" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=red"> </a>
 * 25-26: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Mar-2022&color=green"> </a>
@@ -121,7 +121,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 8-9: [OW2Con](https://www.ow2con.org/view/2022/) - Online
 * 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France) <a href="https://conference-hall.io/public/event/0Ij6N6UQOInRF9fdEm6G"><img alt="CFP Le Camping des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=7-Dec-2021%20to%2020-Feb-2022&color=green"> </a>
 * 9-10: [AlpesCraft](https://www.alpescraft.fr/) - Grenoble (France)
-* 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France) <a href="https://conference-hall.io/public/event/vzbfowsExm54SrWLtxA5"><img alt="CFP DevFest Lille 2022" src="https://img.shields.io/static/v1?label=CFP&message=24-Jan-2022%20to%2031-Mar-2022&color=green"> </a>
+* 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France) <a href="https://conference-hall.io/public/event/vzbfowsExm54SrWLtxA5"><img alt="CFP DevFest Lille 2022" src="https://img.shields.io/static/v1?label=CFP&message=24-Jan-2022%20to%2031-Mar-2022&color=green"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 14: [France API](https://www.franceapi.fr/) - Paris (France)
 * 16-17: [SymfonyWorld Online 2022 Summer Edition](https://live.symfony.com/2022-world-summer/) - Online <a href="https://live.symfony.com/2022-world-summer/cfp"><img alt="CFP SymfonyWorld Online 2022 Summer Edition" src="https://img.shields.io/static/v1?label=CFP&message=Until%2014-02-2022&color=red"> </a>
 * 17: [Joy of Coding](https://joyofcoding.org/) - Rotterdam (NL)
