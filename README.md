@@ -60,7 +60,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 25-26: [DevOpsDays Denver](https://devopsdays.org/events/2022-denver/welcome/) - Denver (USA)
 * 26-27: [DevOpsDays Aarhus](https://devopsdays.org/events/2022-aarhus/welcome/) - Aarhus (Denmark)
 * 26-27: [DevOpsDays Krakow](https://devopsdays.org/events/2022-krakow/welcome/) - Krakow (Croatia)
-* 25-29: [IstioCon](https://www.crowdcast.io/e/istiocon-2022) - Online <a href="https://sessionize.com/istiocon-2022/"><img alt="CFP IstioCon" src="https://img.shields.io/static/v1?label=CFP&message=21-Jan-2022-%3E03-Mar-2022&color=green"> </a>
+* 25-29: [IstioCon](https://www.crowdcast.io/e/istiocon-2022) - Online <a href="https://sessionize.com/istiocon-2022/"><img alt="CFP IstioCon" src="https://img.shields.io/static/v1?label=CFP&message=21-Jan-2022-%3E03-Mar-2022&color=red"> </a>
 * 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
 * 28: [WTFisSRE](https://www.cloud-native-sre.wtf/) - Online
 * 27-28: [DevDays Europe](https://devdays.lt/) - Vilnius (Lithuania) or Online
@@ -74,9 +74,9 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 2-4: [JFokus](https://www.jfokus.se/) - Stockholm (Sweden)
 * 3: [DevOpsDays Boise](https://devopsdays.org/events/2022-boise/welcome/) - Boise (USA)
 * 2-6: [JAX Hybrid](https://jax.de/mainz-en) - Mainz (Germany) or Online
-* 3: [Le Tremplin des Speakers](https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ) - Tours (France) <a href="https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ"><img alt="CFP Le Tremplin des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message==1-Mar-2022%20to%2026-Mar-2022&color=green"> </a>
+* 3: [Le Tremplin des Speakers](https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ) - Tours (France) <a href="https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ"><img alt="CFP Le Tremplin des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Mar-2022%20to%2026-Mar-2022&color=green"> </a>
 * 5-7: [JSDay canarias](https://jsdaycanarias.com/) - Islas Canarias (España)
-* 9-12: [SLOConf](https://www.sloconf.com/) - Online <a href="https://www.papercall.io/sloconf"><img alt="CFP SLOConf" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2001-Mar-2022&color=green"> </a>
+* 9-12: [SLOConf](https://www.sloconf.com/) - Online <a href="https://www.papercall.io/sloconf"><img alt="CFP SLOConf" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2008-Mar-2022&color=red"> </a>
 * 10: [Docker Con](https://www.docker.com/dockercon/) - Online
 * 10-20: [QCon Plus](https://qconlondon.com/) - Online
 * 11: [A11y Paris](https://www.a11yparis.org/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
@@ -104,9 +104,9 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France) <a href="https://www.papercall.io/mixit2022"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=17-Dec-2021%20to%2016-Feb-2022&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 24-26: [JFrog SwampUp](http://swampup.jfrog.com/) - Omni La Costa Resort & Spa Carlsbad, California (USA) <a href="https://sessionize.com/swampup-2022?utm_campaign=SwampUp+CFP"><img alt="CFP SwampUp2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Dec-2021%20to%2011-Feb-2022&color=red"> </a>
 * 24-26: [Web à Québec](https://webaquebec.org/) - Québec (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/ddNC6Su7"><img alt="CFP Web a Quebec" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=red"> </a>
-* 25-26: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Mar-2022&color=green"> </a>
+* 25-26: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Mar-2022&color=red"> </a>
 * 25-27: [Microsoft Build](microsoft.com/en-us/build) - Online
-* 26-27: [Spring I/O](https://2022.springio.net/) - Barcelona (Spain) <a href="https://www.papercall.io/springio22"><img alt="CFP Spring I/O 2022" src="https://img.shields.io/static/v1?label=CFP&message=23-Dec-2021%20to%2001-Mar-2022&color=green"> </a>
+* 26-27: [Spring I/O](https://2022.springio.net/) - Barcelona (Spain) <a href="https://www.papercall.io/springio22"><img alt="CFP Spring I/O 2022" src="https://img.shields.io/static/v1?label=CFP&message=23-Dec-2021%20to%2001-Mar-2022&color=red"> </a>
 * 28: [HackInBo](https://www.hackinbo.it/) - Bologna (Italy)
 * 31-3: [Craft Conference](https://craft-conf.com/) - Budapest (Hungary)
 
@@ -116,10 +116,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 2-5: [PyCon Italia 2022](https://pycon.it/en) - Florence (Italy)
 * 3-4: [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - Chennai (India) + Online <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2020-Mar-2022&color=green"> </a>
 * 7-8: [LeadDev](https://leaddev.com/) - UK
-* 7-8: [cdCon](https://events.linuxfoundation.org/cdcon/) - Austin (USA) + Online <a href="https://events.linuxfoundation.org/cdcon/program/cfp/"><img alt="CFP cdCon" src="https://img.shields.io/static/v1?label=CFP&message=10-Jan-2022%20to%2018-Feb-2022&color=green"> </a>
+* 7-8: [cdCon](https://events.linuxfoundation.org/cdcon/) - Austin (USA) + Online <a href="https://events.linuxfoundation.org/cdcon/program/cfp/"><img alt="CFP cdCon" src="https://img.shields.io/static/v1?label=CFP&message=10-Jan-2022%20to%2018-Feb-2022&color=red"> </a>
 * 7-9: [Forum International de la Cybersécurité](https://www.forum-fic.com/) - Lille (FR)
 * 8-9: [OW2Con](https://www.ow2con.org/view/2022/) - Online
-* 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France) <a href="https://conference-hall.io/public/event/0Ij6N6UQOInRF9fdEm6G"><img alt="CFP Le Camping des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=7-Dec-2021%20to%2020-Feb-2022&color=green"> </a>
+* 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France) <a href="https://conference-hall.io/public/event/0Ij6N6UQOInRF9fdEm6G"><img alt="CFP Le Camping des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=7-Dec-2021%20to%2020-Feb-2022&color=red"> </a>
 * 9-10: [AlpesCraft](https://www.alpescraft.fr/) - Grenoble (France)
 * 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France) <a href="https://conference-hall.io/public/event/vzbfowsExm54SrWLtxA5"><img alt="CFP DevFest Lille 2022" src="https://img.shields.io/static/v1?label=CFP&message=24-Jan-2022%20to%2031-Mar-2022&color=green"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 14: [France API](https://www.franceapi.fr/) - Paris (France)
@@ -132,18 +132,18 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 22-23: [enterJS](https://enterjs.de/) - Darmstadt (Germany)
 * 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 * 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterdam (NL)
-* 23: [ServerlessDays Paris](https://paris.serverlessdays.io/en/) - Paris (France) <a href="https://vdlux20.cfp.dev/#/login"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=Until%2020-Feb-2022&color=green"> </a>
+* 23: [ServerlessDays Paris](https://paris.serverlessdays.io/en/) - Paris (France) <a href="https://vdlux20.cfp.dev/#/login"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=Until%2020-Feb-2022&color=red"> </a>
 * 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
 * 24: [SoCraTes Rennes](https://socrates-rennes.github.io/) - Rennes (France)
 * 24-25: [devopsdays Prague](https://devopsdays.org/events/2022-prague/welcome/) - Prague (Czech Republic)
-* 27-1: [Hack in Paris](https://hackinparis.com/) - Paris (France) <a href="https://www.papercall.io/hackinparis2022"><img alt="CFP Hack in paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2027-Feb-2022&color=green"> </a>
-* 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=6-Dec-2021%20to%2027-Feb-2022&color=green"> </a>
+* 27-1: [Hack in Paris](https://hackinparis.com/) - Paris (France) <a href="https://www.papercall.io/hackinparis2022"><img alt="CFP Hack in paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2011-Mar-2022&color=red"> </a>
+* 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=6-Dec-2021%20to%2027-Feb-2022&color=red"> </a>
 
 ### July
 
-* 6-8: [DroidCon Berlin](https://www.berlin.droidcon.com/) - Berlin (Germany) <a href="https://sessionize.com/droidcon-berlin-2022/"><img alt="CFP DroidCon Berlin 2022" src="https://img.shields.io/static/v1?label=CFP&message=01-0220to%2020-May-2022&color=green"> </a>
+* 6-8: [DroidCon Berlin](https://www.berlin.droidcon.com/) - Berlin (Germany) <a href="https://sessionize.com/droidcon-berlin-2022/"><img alt="CFP DroidCon Berlin 2022" src="https://img.shields.io/static/v1?label=CFP&message=01-02%20to%2020-May-2022&color=green"> </a>
 * 18-20: [JBCNConf](https://www.jbcnconf.com/2022/) - Barcelona (Spain)
-* 25-28: [THAT Conference](https://that.us/events/wi/2022) – Wisconsin Dells, WI (USA) [![release](https://img.shields.io/badge/CFP-closes%20March%201-green)](https://that.us/call-for-counselors/wi/2022/)
+* 25-28: [THAT Conference](https://that.us/events/wi/2022) – Wisconsin Dells, WI (USA) [![release](https://img.shields.io/badge/CFP-closes%20March%212-red)](https://that.us/call-for-counselors/wi/2022/)
 
 ### August
 
