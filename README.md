@@ -108,7 +108,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 25-27: [Microsoft Build](microsoft.com/en-us/build) - Online
 * 26-27: [Spring I/O](https://2022.springio.net/) - Barcelona (Spain) <a href="https://www.papercall.io/springio22"><img alt="CFP Spring I/O 2022" src="https://img.shields.io/static/v1?label=CFP&message=23-Dec-2021%20to%2001-Mar-2022&color=red"> </a>
 * 28: [HackInBo](https://www.hackinbo.it/) - Bologna (Italy)
-* 31-3: [Craft Conference](https://craft-conf.com/) - Budapest (Hungary)
+* 31-3: [Craft Conference](https://craft-conf.com/) - Budapest (Hungary) <a href="https://www.papercall.io/craft2022"><img alt="CFP craft" src="https://img.shields.io/static/v1?label=CFP&message=to%2025-Mar-2022&color=green"> </a>
 
 ### June
 
