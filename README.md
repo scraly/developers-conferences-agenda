@@ -83,6 +83,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
 * 11-13: [GeeCon Krakow](https://www.geecon.org/) - Krakow (Poland)
 * 12-13: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
+* 14-15: [Cloud Native Rejekts](https://cloud-native.rejekts.io/) - Valencia (Spain) <a href="https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-eu-valencia-2022/cfp"><img alt="CFP Rejekts" src="https://img.shields.io/static/v1?label=CFP&message=07-Mar-2022%20to%2021-Mar-2022&color=green"> </a>
 * 16: [Cloud Native Wasm Day Europe](https://events.linuxfoundation.org/cloud-native-wasm-day-europe/) - Valencia (Spain)
 * 16: [Kubernetes AI Day Europe](https://events.linuxfoundation.org/kubernetes-ai-day-europe/) - Valencia (Spain)
 * 16: [Cloud Native eBPF Day Europe](https://events.linuxfoundation.org/cloud-native-ebpf-day-europe/) - Valencia (Spain)
