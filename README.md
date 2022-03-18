@@ -145,7 +145,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * 6-8: [DroidCon Berlin](https://www.berlin.droidcon.com/) - Berlin (Germany) <a href="https://sessionize.com/droidcon-berlin-2022/"><img alt="CFP DroidCon Berlin 2022" src="https://img.shields.io/static/v1?label=CFP&message=01-02%20to%2020-May-2022&color=green"> </a>
 * 18-20: [JBCNConf](https://www.jbcnconf.com/2022/) - Barcelona (Spain)
-* 25-28: [THAT Conference](https://that.us/events/wi/2022) – Wisconsin Dells, WI (USA) [![release](https://img.shields.io/badge/CFP-closes%20March%212-red)](https://that.us/call-for-counselors/wi/2022/)
+* 25-29: [THAT Conference](https://that.us/events/wi/2022) – Wisconsin Dells, WI (USA) [![release](https://img.shields.io/badge/CFP-closes%20March%2012-red)](https://that.us/call-for-counselors/wi/2022/)
 
 ### August
 
