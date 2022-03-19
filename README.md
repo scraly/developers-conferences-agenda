@@ -35,6 +35,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 18: [Mobilis In Mobile](https://mobilis-in-mobile.io/) - Nantes (France) <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=01-Dec-2021-%3E31-Jan-2022&color=red"> </a>
 * 22-23: [SEO Square](https://seosquare.semji.com/) - Online
 * 23-25: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022/) - Bucharest (Romania) & Online
+* 23-25: [CityJS Conference London](https://cityjsconf.org/) - London (UK)
 * 24: [Cloud Sud](https://cloudsud.fr) - Online <a href="https://conference-hall.io/public/event/lEimlpsjR1JfydbTWvzY"><img alt="CFP Cloud Sud" src="https://img.shields.io/static/v1?label=CFP&message=Until%2019-Feb-2022&color=red"> </a>
 * 28: [Incontro DevOps Italia](https://2022.incontrodevops.it/) - Bologna (Italia) & Online
 * 29-31: [ETHDubai](https://www.ethdubaiconf.org/) - Dubai (United Arab Emirates)
@@ -42,9 +43,12 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### April
 
 * 1: [CSS Day](https://2022.cssday.it/) - Faenza (Italia)
+* 1: [React Conference Live](https://reactlive.nl/?ref=devevents) - Amsterdam (Netherland)
 * 4-6: [QCon London](https://qconlondon.com/) - London (UK)
 * 4-6: [Serverless architecture conference](https://serverless-architecture.io/thehague/) - The Hague Marriot Hotel (Netherlands) or online
 * 4-6: [API Conference](https://apiconference.net/thehague/) - The Hague Marriott Hotel (Netherlands) or online
+* 4-7: [NDC Security](https://ndc-security.com/) - Oslo (Norway)
+* 5-9: [ACCU 2022](https://accu.org/conf-menu-overviews/upcoming-spring-2022) - Bristol (UK)
 * 7-8: [SymfonyLive Paris 2022](https://live.symfony.com/2022-paris/) - Paris (France) <a href="https://live.symfony.com/2022-paris/cfp"><img alt="CFP SymfonyLive Paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=red"> </a>
 * 11-13: [PyCon DE & PyData Berlin](https://2022.pycon.de/) - Berlin (Germany)
 * 12-14: [DevNexus](https://devnexus.com/) - Atlanta (USA)
@@ -137,6 +141,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 * 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
 * 24: [SoCraTes Rennes](https://socrates-rennes.github.io/) - Rennes (France)
 * 24-25: [devopsdays Prague](https://devopsdays.org/events/2022-prague/welcome/) - Prague (Czech Republic)
+* 27-29: [ML Conference](https://mlconference.ai/munich) - Munich (Germany)
 * 27-1: [Hack in Paris](https://hackinparis.com/) - Paris (France) <a href="https://www.papercall.io/hackinparis2022"><img alt="CFP Hack in paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2011-Mar-2022&color=red"> </a>
 * 29-1: [BreizhCamp](https://www.breizhcamp.org/) - Rennes (France) <a href="https://sessionize.com/breizhcamp-2022/"><img alt="CFP BreizhCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=14-Mar-2022%20to%2012-Apr-2022&color=green"> </a>
 * 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=6-Dec-2021%20to%2027-Feb-2022&color=red"> </a>
@@ -144,18 +149,21 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### July
 
 * 6-8: [DroidCon Berlin](https://www.berlin.droidcon.com/) - Berlin (Germany) <a href="https://sessionize.com/droidcon-berlin-2022/"><img alt="CFP DroidCon Berlin 2022" src="https://img.shields.io/static/v1?label=CFP&message=01-02%20to%2020-May-2022&color=green"> </a>
+* 11-17: [EuroPython 2022](https://ep2021.europython.eu/) - Dublin (Ireland)
 * 18-20: [JBCNConf](https://www.jbcnconf.com/2022/) - Barcelona (Spain)
 * 25-29: [THAT Conference](https://that.us/events/wi/2022) – Wisconsin Dells, WI (USA) [![release](https://img.shields.io/badge/CFP-closes%20March%2012-red)](https://that.us/call-for-counselors/wi/2022/)
 
 ### August
 
 * 22-28: [FOSS4G](https://2022.foss4g.org/) - Firenze (Italy)
+* 26: [UX Nordic 2022](https://uxnordic.com/) - Aarhus (Denmark)
 
 ### September
 
 * 5-7: [ContainerDays 2022](https://www.containerdays.io/) - Hamburg & Online
 * 7-8: [DeveloperWeek Global: Cloud](https://www.developerweek.com/global/conference/cloud/) - Online
 * 9: [JUG SummerCamp](https://www.jugsummercamp.org/edition/13) - La Rochelle (France) <a href="https://www.jugsummercamp.org/edition/13"><img alt="CFP JUG SummerCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=May-2022&color=green"> </a>
+* 24: [PyCon Portugal](http://2022.pycon.pt/) - Porto (Portugal)
 * 26-28: [GopherCon](https://www.gophercon.com/) - Florida (USA)
 * 29: [Cloud Nord](https://cloudnord.fr/) - Lille (France) <a href="https://conference-hall.io/public/event/wGVYkl21UFxeiuakhKfu"><img alt="CFP Cloud Nord 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=green"> </a>
 
