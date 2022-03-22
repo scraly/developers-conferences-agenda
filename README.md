@@ -69,7 +69,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 25-29: [IstioCon](https://www.crowdcast.io/e/istiocon-2022) - Online <a href="https://sessionize.com/istiocon-2022/"><img alt="CFP IstioCon" src="https://img.shields.io/static/v1?label=CFP&message=21-Jan-2022-%3E03-Mar-2022&color=red"> </a>
 * 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
 * 28: [WTFisSRE](https://www.cloud-native-sre.wtf/) - Online
-* 27-28: [DevDays Europe](https://devdays.lt/) - Vilnius (Lithuania) or Online
+* 27-28: [DevDays Europe](https://devdays.lt/) - Online
 * 27-28: [Developer Week Europe](https://www.developerweek.com/europe/) - Online
 * 27-29: [J on the beach](https://www.jonthebeach.com/) - Malaga (Spain)
 * 27-3: [PyCon US](https://us.pycon.org/2022/) - Salt Lake City (USA)
