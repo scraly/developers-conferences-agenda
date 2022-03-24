@@ -195,9 +195,14 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 7-9: [SREcon22 Asia/Pacific](https://www.usenix.org/srecon) - Sydney (Australia)
 
 ## 2023
+
 ### January
 
 * 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
+
+### March
+
+* 23: [DevDay](https://www.devday.be/) - Louvain la Neuve (Belgium)
 
 ### October
 
