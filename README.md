@@ -58,6 +58,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 14-15: [THCon](https://thcon.party/) - Toulouse (France)
 * 18-19: [devopsdays Birmingham, AL](https://devopsdays.org/events/2022-birmingham-al/welcome/) - Birmingham (USA)
 * 19-20: [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta/welcome/) - Atlanta (USA)
+* 20-21: [Developer Growth Summit 2022](https://www.codementor.io/events/developer-growth-summit) - Online
 * 21-22: [JSDay](https://2022.jsday.it/) - Verona (Italy)
 * 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France) <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=24-Nov-2021-%3E09-Jan-2022&color=red"> </a>
 * 21-22: [DevOpsDays Tokyo](https://devopsdays.org/events/2022-tokyo/welcome/) - Tokyo (Japan)
