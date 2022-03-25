@@ -89,7 +89,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
 * 11-13: [GeeCon Krakow](https://www.geecon.org/) - Krakow (Poland)
 * 12-13: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
-* 14-15: [Cloud Native Rejekts](https://cloud-native.rejekts.io/) - Valencia (Spain) <a href="https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-eu-valencia-2022/cfp"><img alt="CFP Rejekts" src="https://img.shields.io/static/v1?label=CFP&message=07-Mar-2022%20to%2021-Mar-2022&color=green"> </a>
+* 14-15: [Cloud Native Rejekts](https://cloud-native.rejekts.io/) - Valencia (Spain) <a href="https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-eu-valencia-2022/cfp"><img alt="CFP Rejekts" src="https://img.shields.io/static/v1?label=CFP&message=07-Mar-2022%20to%2021-Mar-2022&color=red"> </a>
 * 16: [Cloud Native Wasm Day Europe](https://events.linuxfoundation.org/cloud-native-wasm-day-europe/) - Valencia (Spain)
 * 16: [Kubernetes AI Day Europe](https://events.linuxfoundation.org/kubernetes-ai-day-europe/) - Valencia (Spain)
 * 16: [Cloud Native eBPF Day Europe](https://events.linuxfoundation.org/cloud-native-ebpf-day-europe/) - Valencia (Spain)
@@ -122,7 +122,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 1-3: [Web2Day](https://web2day.co/) - Nantes (France)
 * 2-5: [PyCon Italia 2022](https://pycon.it/en) - Florence (Italy)
-* 3-4: [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - Chennai (India) + Online <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2020-Mar-2022&color=green"> </a>
+* 3-4: [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - Chennai (India) + Online <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2020-Mar-2022&color=red"> </a>
 * 7-8: [LeadDev](https://leaddev.com/) - UK
 * 7-8: [cdCon](https://events.linuxfoundation.org/cdcon/) - Austin (USA) + Online <a href="https://events.linuxfoundation.org/cdcon/program/cfp/"><img alt="CFP cdCon" src="https://img.shields.io/static/v1?label=CFP&message=10-Jan-2022%20to%2018-Feb-2022&color=red"> </a>
 * 7-9: [Forum International de la Cybersécurité](https://www.forum-fic.com/) - Lille (FR)
@@ -133,6 +133,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 14: [France API](https://www.franceapi.fr/) - Paris (France)
 * 16-17: [SymfonyWorld Online 2022 Summer Edition](https://live.symfony.com/2022-world-summer/) - Online <a href="https://live.symfony.com/2022-world-summer/cfp"><img alt="CFP SymfonyWorld Online 2022 Summer Edition" src="https://img.shields.io/static/v1?label=CFP&message=Until%2014-02-2022&color=red"> </a>
 * 17: [Joy of Coding](https://joyofcoding.org/) - Rotterdam (NL)
+* 17: [Cloud Ouest 2022](https://cloudouest.fr/) - Nantes (FR) + Online <a href="https://conference-hall.io/public/event/txK7ihjaAR4LtuJyYZCx"> <img alt="CFP Cloud Ouest 2022" src="https://img.shields.io/static/v1?label=CFP&message=Until%2030-04-2022&color=green"> </a>
 * 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
 * 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam (NL)
 * 20-24: [NDC Melbourne](https://ndcmelbourne.com/) - Melbourne (Australia)
