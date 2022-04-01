@@ -27,21 +27,6 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ## 2022
 
-### March
-
-* 8-10: [SoloCon](https://solocon.io/) - Online
-* 8-11: [Esri Developer Summit](https://www.esri.com/en-us/about/events/devsummit/overview) - California (USA)
-* 10: [Archilocus](https://www.archilocus.tech/) - Online
-* 14-16: [SRECon22 Americas](https://www.usenix.org/conference/srecon22americas) - San Francisco (USA)
-* 15-17: [JavaLand](https://www.javaland.eu/en/home/) - Brühl (Germany)
-* 18: [Mobilis In Mobile](https://mobilis-in-mobile.io/) - Nantes (France) <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=01-Dec-2021-%3E31-Jan-2022&color=red"> </a>
-* 22-23: [SEO Square](https://seosquare.semji.com/) - Online
-* 23-25: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022/) - Bucharest (Romania) & Online
-* 23-25: [CityJS Conference London](https://cityjsconf.org/) - London (UK)
-* 24: [Cloud Sud](https://cloudsud.fr) - Online <a href="https://conference-hall.io/public/event/lEimlpsjR1JfydbTWvzY"><img alt="CFP Cloud Sud" src="https://img.shields.io/static/v1?label=CFP&message=Until%2019-Feb-2022&color=red"> </a>
-* 28: [Incontro DevOps Italia](https://2022.incontrodevops.it/) - Bologna (Italia) & Online
-* 29-31: [ETHDubai](https://www.ethdubaiconf.org/) - Dubai (United Arab Emirates)
-
 ### April
 
 * 1: [CSS Day](https://2022.cssday.it/) - Faenza (Italia)
