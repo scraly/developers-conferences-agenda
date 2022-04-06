@@ -178,6 +178,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 3-4: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain)
 * 7-11: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
+* 15-16: [ParisTestConf](https://paristestconf.com/) - Online <a href=" https://paristestconf.com/call-for-papers-2022"><img alt="CFP ParisTestConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=green"> </a>
 * 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France)
 
 ### December
