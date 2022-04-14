@@ -63,6 +63,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### May
 
+* 2-3: [DevX Conf](https://devxconf.org) - Online
 * 2-4: [JFokus](https://www.jfokus.se/) - Stockholm (Sweden)
 * 2-6: [JAX Hybrid](https://jax.de/mainz-en) - Mainz (Germany) or Online
 * 3: [DevOpsDays Boise](https://devopsdays.org/events/2022-boise/welcome/) - Boise (USA)
