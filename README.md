@@ -135,7 +135,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 24-25: [devopsdays Prague](https://devopsdays.org/events/2022-prague/welcome/) - Prague (Czech Republic)
 * 27-29: [ML Conference](https://mlconference.ai/munich) - Munich (Germany)
 * 27-1: [Hack in Paris](https://hackinparis.com/) - Paris (France) <a href="https://www.papercall.io/hackinparis2022"><img alt="CFP Hack in paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2011-Mar-2022&color=red"> </a>
-* 29-1: [BreizhCamp](https://www.breizhcamp.org/) - Rennes (France) <a href="https://sessionize.com/breizhcamp-2022/"><img alt="CFP BreizhCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=14-Mar-2022%20to%2012-Apr-2022&color=green"> </a>
+* 29-1: [BreizhCamp](https://www.breizhcamp.org/) - Rennes (France) <a href="https://sessionize.com/breizhcamp-2022/"><img alt="CFP BreizhCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=14-Mar-2022%20to%2025-Apr-2022&color=green"> </a>
 * 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=6-Dec-2021%20to%2027-Feb-2022&color=red"> </a>
 * 30-1: [Agi'Lille 2022](https://agilille.fr/) - Lille (France) <a href="https://sessionize.com/agilille-2022/"><img alt="CFP Agi'Lille 2022" src="https://img.shields.io/static/v1?label=CFP&message=11-Mar-2022%20to%2007-May-2022&color=green"> </a>
 
