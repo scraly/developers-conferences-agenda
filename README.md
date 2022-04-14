@@ -27,21 +27,6 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ## 2022
 
-### March
-
-* 8-10: [SoloCon](https://solocon.io/) - Online
-* 8-11: [Esri Developer Summit](https://www.esri.com/en-us/about/events/devsummit/overview) - California (USA)
-* 10: [Archilocus](https://www.archilocus.tech/) - Online
-* 14-16: [SRECon22 Americas](https://www.usenix.org/conference/srecon22americas) - San Francisco (USA)
-* 15-17: [JavaLand](https://www.javaland.eu/en/home/) - Brühl (Germany)
-* 18: [Mobilis In Mobile](https://mobilis-in-mobile.io/) - Nantes (France) <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=01-Dec-2021-%3E31-Jan-2022&color=red"> </a>
-* 22-23: [SEO Square](https://seosquare.semji.com/) - Online
-* 23-25: [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022/) - Bucharest (Romania) & Online
-* 23-25: [CityJS Conference London](https://cityjsconf.org/) - London (UK)
-* 24: [Cloud Sud](https://cloudsud.fr) - Online <a href="https://conference-hall.io/public/event/lEimlpsjR1JfydbTWvzY"><img alt="CFP Cloud Sud" src="https://img.shields.io/static/v1?label=CFP&message=Until%2019-Feb-2022&color=red"> </a>
-* 28: [Incontro DevOps Italia](https://2022.incontrodevops.it/) - Bologna (Italia) & Online
-* 29-31: [ETHDubai](https://www.ethdubaiconf.org/) - Dubai (United Arab Emirates)
-
 ### April
 
 * 1: [CSS Day](https://2022.cssday.it/) - Faenza (Italia)
@@ -78,10 +63,12 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### May
 
+* 2-3: [DevX Conf](https://devxconf.org) - Online
 * 2-4: [JFokus](https://www.jfokus.se/) - Stockholm (Sweden)
-* 3: [DevOpsDays Boise](https://devopsdays.org/events/2022-boise/welcome/) - Boise (USA)
 * 2-6: [JAX Hybrid](https://jax.de/mainz-en) - Mainz (Germany) or Online
-* 3: [Le Tremplin des Speakers](https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ) - Tours (France) <a href="https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ"><img alt="CFP Le Tremplin des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Mar-2022%20to%2026-Mar-2022&color=green"> </a>
+* 3: [DevOpsDays Boise](https://devopsdays.org/events/2022-boise/welcome/) - Boise (USA)
+* 3: [Le Tremplin des Speakers](https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ) - Tours (France) <a href="https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ"><img alt="CFP Le Tremplin des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Mar-2022%20to%2026-Mar-2022&color=red"> </a>
+* 4-5: [PulumiUP](https://www.pulumi.com/pulumi-up/) - Online
 * 5-7: [JSDay canarias](https://jsdaycanarias.com/) - Islas Canarias (España)
 * 9-12: [SLOConf](https://www.sloconf.com/) - Online <a href="https://www.papercall.io/sloconf"><img alt="CFP SLOConf" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2008-Mar-2022&color=red"> </a>
 * 10: [Docker Con](https://www.docker.com/dockercon/) - Online
@@ -117,11 +104,12 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 25-27: [Microsoft Build](microsoft.com/en-us/build) - Online
 * 26-27: [Spring I/O](https://2022.springio.net/) - Barcelona (Spain) <a href="https://www.papercall.io/springio22"><img alt="CFP Spring I/O 2022" src="https://img.shields.io/static/v1?label=CFP&message=23-Dec-2021%20to%2001-Mar-2022&color=red"> </a>
 * 28: [HackInBo](https://www.hackinbo.it/) - Bologna (Italy)
-* 31-3: [Craft Conference](https://craft-conf.com/) - Budapest (Hungary) <a href="https://www.papercall.io/craft2022"><img alt="CFP craft" src="https://img.shields.io/static/v1?label=CFP&message=to%2025-Mar-2022&color=green"> </a>
+* 31-3: [Craft Conference](https://craft-conf.com/) - Budapest (Hungary) <a href="https://www.papercall.io/craft2022"><img alt="CFP craft" src="https://img.shields.io/static/v1?label=CFP&message=to%2018-Mar-2022&color=red"> </a>
 
 ### June
 
 * 1-3: [Web2Day](https://web2day.co/) - Nantes (France)
+* 2: [Confer Conf](https://2022.confer.no/) - Online <a href="https://2022.confer.no/speakers"><img alt="CFP Confer Conf 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2022&color=green"> </a>
 * 2-5: [PyCon Italia 2022](https://pycon.it/en) - Florence (Italy)
 * 3-4: [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - Chennai (India) + Online <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2020-Mar-2022&color=red"> </a>
 * 7-8: [LeadDev](https://leaddev.com/) - UK
@@ -130,7 +118,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 8-9: [OW2Con](https://www.ow2con.org/view/2022/) - Online
 * 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France) <a href="https://conference-hall.io/public/event/0Ij6N6UQOInRF9fdEm6G"><img alt="CFP Le Camping des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=7-Dec-2021%20to%2020-Feb-2022&color=red"> </a>
 * 9-10: [AlpesCraft](https://www.alpescraft.fr/) - Grenoble (France)
-* 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France) <a href="https://conference-hall.io/public/event/vzbfowsExm54SrWLtxA5"><img alt="CFP DevFest Lille 2022" src="https://img.shields.io/static/v1?label=CFP&message=24-Jan-2022%20to%2031-Mar-2022&color=green"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+* 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France) <a href="https://conference-hall.io/public/event/vzbfowsExm54SrWLtxA5"><img alt="CFP DevFest Lille 2022" src="https://img.shields.io/static/v1?label=CFP&message=24-Jan-2022%20to%2031-Mar-2022&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 14: [France API](https://www.franceapi.fr/) - Paris (France)
 * 16-17: [SymfonyWorld Online 2022 Summer Edition](https://live.symfony.com/2022-world-summer/) - Online <a href="https://live.symfony.com/2022-world-summer/cfp"><img alt="CFP SymfonyWorld Online 2022 Summer Edition" src="https://img.shields.io/static/v1?label=CFP&message=Until%2014-02-2022&color=red"> </a>
 * 17: [Joy of Coding](https://joyofcoding.org/) - Rotterdam (NL)
@@ -138,7 +126,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
 * 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam (NL)
 * 20-24: [NDC Melbourne](https://ndcmelbourne.com/) - Melbourne (Australia)
-* 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg <a href="http://cfp-voxxed-lux.yajug.org/"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=20-Feb-2022%20to%2031-Mar-2022&color=green"> </a>
+* 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg <a href="http://cfp-voxxed-lux.yajug.org/"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=20-Feb-2022%20to%2010-Avr-2022&color=red"> </a>
 * 22-23: [enterJS](https://enterjs.de/) - Darmstadt (Germany)
 * 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 * 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterdam (NL)
@@ -148,8 +136,9 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 24-25: [devopsdays Prague](https://devopsdays.org/events/2022-prague/welcome/) - Prague (Czech Republic)
 * 27-29: [ML Conference](https://mlconference.ai/munich) - Munich (Germany)
 * 27-1: [Hack in Paris](https://hackinparis.com/) - Paris (France) <a href="https://www.papercall.io/hackinparis2022"><img alt="CFP Hack in paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2011-Mar-2022&color=red"> </a>
-* 29-1: [BreizhCamp](https://www.breizhcamp.org/) - Rennes (France) <a href="https://sessionize.com/breizhcamp-2022/"><img alt="CFP BreizhCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=14-Mar-2022%20to%2012-Apr-2022&color=green"> </a>
+* 29-1: [BreizhCamp](https://www.breizhcamp.org/) - Rennes (France) <a href="https://sessionize.com/breizhcamp-2022/"><img alt="CFP BreizhCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=14-Mar-2022%20to%2025-Apr-2022&color=green"> </a>
 * 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=6-Dec-2021%20to%2027-Feb-2022&color=red"> </a>
+* 30-1: [Agi'Lille 2022](https://agilille.fr/) - Lille (France) <a href="https://sessionize.com/agilille-2022/"><img alt="CFP Agi'Lille 2022" src="https://img.shields.io/static/v1?label=CFP&message=11-Mar-2022%20to%2007-May-2022&color=green"> </a>
 
 ### July
 
@@ -175,13 +164,13 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### October
 
 * 6-7: [Nordic.js](https://nordicjs.com/2022) - Stockholm (Sweden)
-* 6-7: [Paris Web](https://paris-web.fr/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+* 6-7: [Paris Web](https://paris-web.fr/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://appel.paris-web.fr/"><img alt="CFP Paris Web" src="https://img.shields.io/static/v1?label=CFP&message=24-Mar-2022-%3E17-Apr-2022&color=green"> </a>
 * 10-14: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium) <a href="https://devoxx.be/"><img alt="CFP Devoxx Belgium 2022" src="https://img.shields.io/static/v1?label=CFP&message=Jun-2022%20to%20July-2022&color=orange"> </a>
-* 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont Ferrand (France)
+* 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont Ferrand (France) <a href="https://conference-hall.io/public/event/8Wu147xoRDKQSjGcawoY"><img alt="CFP Volcamp" src="https://img.shields.io/static/v1?label=CFP&message=%3E13-May-2022&color=green"> </a>
 * 13-14: [GeeCon Prague](https://www.geecon.org/) - Prague (Czechia)
 * 18-21: [JCon](https://jcon.one/) - Germany or Online
-* 19-20: [BaselOne22](https://baselone.ch/one) - Basel (Switzerland) <a href="https://form.typeform.com/to/AYNtbnrl"><img alt="CFP BaselOne22" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-Mar-2022&color=green"> </a>
-* 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Apr-2022%20to%2015-Jun-2022&color=green"> </a>
+* 19-20: [BaselOne22](https://baselone.ch/one) - Basel (Switzerland) <a href="https://form.typeform.com/to/AYNtbnrl"><img alt="CFP BaselOne22" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-Apr-2022&color=green"> </a>
+* 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/CfucIjaXxrZThJE0POR3"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Apr-2022%20to%2015-Jun-2022&color=green"> </a>
 * 25-27: [SREcon22 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Amsterdam (Netherlands)
 * 26-27: [DevOpsDays Montreal](https://devopsdays.org/) - Montreal (Canada) <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform"><img alt="CFP DevOpsDays Montreal" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2022&color=green"> </a>
 * 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
@@ -190,7 +179,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### November
 
 * 3-4: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain)
-* 7-11: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
+* 15-16: [ParisTestConf](https://paristestconf.com/) - Online <a href=" https://paristestconf.com/call-for-papers-2022"><img alt="CFP ParisTestConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=green"> </a>
 * 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France)
 
 ### December
