@@ -125,7 +125,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
 * 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam (NL)
 * 20-24: [NDC Melbourne](https://ndcmelbourne.com/) - Melbourne (Australia)
-* 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg <a href="http://cfp-voxxed-lux.yajug.org/"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=20-Feb-2022%20to%2010-Avr-2022&color=green"> </a>
+* 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg <a href="http://cfp-voxxed-lux.yajug.org/"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=20-Feb-2022%20to%2010-Avr-2022&color=red"> </a>
 * 22-23: [enterJS](https://enterjs.de/) - Darmstadt (Germany)
 * 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 * 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterdam (NL)
