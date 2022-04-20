@@ -70,6 +70,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 3: [Le Tremplin des Speakers](https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ) - Tours (France) <a href="https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ"><img alt="CFP Le Tremplin des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Mar-2022%20to%2026-Mar-2022&color=red"> </a>
 * 4-5: [PulumiUP](https://www.pulumi.com/pulumi-up/) - Online
 * 5-7: [JSDay canarias](https://jsdaycanarias.com/) - Islas Canarias (España)
+* 6: [Mars@Hack](http://www.montdemarsan-agglo.fr/agglo/jsp/site/Portal.jsp?page_id=547) - Mont de Marsan (France)
 * 9-12: [SLOConf](https://www.sloconf.com/) - Online <a href="https://www.papercall.io/sloconf"><img alt="CFP SLOConf" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2008-Mar-2022&color=red"> </a>
 * 10: [Docker Con](https://www.docker.com/dockercon/) - Online
 * 10-20: [QCon Plus](https://qconlondon.com/) - Online
