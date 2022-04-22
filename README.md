@@ -200,6 +200,10 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 23: [DevDay](https://www.devday.be/) - Louvain la Neuve (Belgium)
 
+### April
+
+* 12-14: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
+
 ### October
 
 * 10-12: [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Dublin (Ireland)
