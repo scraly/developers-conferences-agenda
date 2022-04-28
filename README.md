@@ -62,6 +62,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### May
 
+* 27/04-3: [PyCon US](https://us.pycon.org/2022/) - Salt Lake City (USA)
 * 2-3: [DevX Conf](https://devxconf.org) - Online
 * 2-4: [JFokus](https://www.jfokus.se/) - Stockholm (Sweden)
 * 2-6: [JAX Hybrid](https://jax.de/mainz-en) - Mainz (Germany) or Online
