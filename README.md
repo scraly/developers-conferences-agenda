@@ -167,6 +167,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### October
 
+* 4-6: [Devoxx Morocco](https://devoxx.ma/) - Agadir (Morocco)
 * 6-7: [Nordic.js](https://nordicjs.com/2022) - Stockholm (Sweden)
 * 6-7: [Paris Web](https://paris-web.fr/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://appel.paris-web.fr/"><img alt="CFP Paris Web" src="https://img.shields.io/static/v1?label=CFP&message=24-Mar-2022-%3E124-Apr-2022&color=red"> </a>
 * 10-14: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium) <a href="https://devoxx.be/"><img alt="CFP Devoxx Belgium 2022" src="https://img.shields.io/static/v1?label=CFP&message=Jun-2022%20to%20July-2022&color=orange"> </a>
