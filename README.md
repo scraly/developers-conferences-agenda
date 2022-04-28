@@ -59,7 +59,6 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 27-28: [Developer Week Europe](https://www.developerweek.com/europe/) - Online
 * 27-29: [J on the beach](https://www.jonthebeach.com/) - Malaga (Spain)
 * 27-3: [PyCon US](https://us.pycon.org/2022/) - Salt Lake City (USA)
-* 28-29: [DevX Conf](https://devxconf.org/) - Online
 
 ### May
 
