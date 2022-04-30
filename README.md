@@ -95,7 +95,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 17-20: [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - Valencia (Spain) <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=red"> </a>
 * 19-20: [PHP Day](https://2022.phpday.it/) - Verona (Italy)
 * 19-22: [Java Day Istanbul](https://www.javaday.istanbul/) - Antalya (Turkey)
-* 20: [Agile Tour Strasbourg](https://www.meetup.com/MugStrasbourg/events/281350303/) - Strasbourg (France)
+* 20: [Agile Tour Strasbourg](https://www.meetup.com/MtgStrasbourg/events/285587412/) - Strasbourg (France)
 * 20: [AFUP Day 2022](https://event.afup.org/) - Lille (France)
 * 23-26: [THAT Conference](https://that.us/events/tx/2022) – Austin, TX (USA)
 * 24-25: [MixIT](https://mixitconf.org/fr/) - Lyon (France) <a href="https://www.papercall.io/mixit2022"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=17-Dec-2021%20to%2016-Feb-2022&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
