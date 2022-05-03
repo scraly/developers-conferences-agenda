@@ -88,3 +88,4 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 ### November
 
 * 7-11: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
+* 18: [Devfest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/speaker/event/wgaja45IBdGT4sw4CXDB"><img alt="CFP Devfest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=green"> </a>
