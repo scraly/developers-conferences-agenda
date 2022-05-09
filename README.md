@@ -27,39 +27,6 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ## 2022
 
-### April
-
-* 1: [CSS Day](https://2022.cssday.it/) - Faenza (Italia)
-* 1: [React Conference Live](https://reactlive.nl/?ref=devevents) - Amsterdam (Netherland)
-* 4-6: [QCon London](https://qconlondon.com/) - London (UK)
-* 4-6: [Serverless architecture conference](https://serverless-architecture.io/thehague/) - The Hague Marriot Hotel (Netherlands) or online
-* 4-6: [API Conference](https://apiconference.net/thehague/) - The Hague Marriott Hotel (Netherlands) or online
-* 4-7: [NDC Security](https://ndc-security.com/) - Oslo (Norway)
-* 5-9: [ACCU 2022](https://accu.org/conf-menu-overviews/upcoming-spring-2022) - Bristol (UK)
-* 7-8: [SymfonyLive Paris 2022](https://live.symfony.com/2022-paris/) - Paris (France) <a href="https://live.symfony.com/2022-paris/cfp"><img alt="CFP SymfonyLive Paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=red"> </a>
-* 11-13: [PyCon DE & PyData Berlin](https://2022.pycon.de/) - Berlin (Germany)
-* 12-14: [DevNexus](https://devnexus.com/) - Atlanta (USA)
-* 13-14: [DevOpsDays raleigh](https://devopsdays.org/events/2022-raleigh/welcome/) - Raleigh (USA)
-* 14-15: [THCon](https://thcon.party/) - Toulouse (France)
-* 18-19: [devopsdays Birmingham, AL](https://devopsdays.org/events/2022-birmingham-al/welcome/) - Birmingham (USA)
-* 19-20: [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta/welcome/) - Atlanta (USA)
-* 20-21: [Developer Growth Summit 2022](https://www.codementor.io/events/developer-growth-summit) - Online
-* 21-22: [JSDay](https://2022.jsday.it/) - Verona (Italy)
-* 20-22: [Devoxx France](https://www.devoxx.fr/) - Paris (France) <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=24-Nov-2021-%3E09-Jan-2022&color=red"> </a>
-* 21-22: [DevOpsDays Tokyo](https://devopsdays.org/events/2022-tokyo/welcome/) - Tokyo (Japan)
-* 21-22: [JS Day](https://2022.jsday.it/) - Verona (Italia)
-* 25-26: [Android Makers](https://androidmakers.fr/) - Paris (France)
-* 25-26: [DevOpsDays Denver](https://devopsdays.org/events/2022-denver/welcome/) - Denver (USA)
-* 26-27: [DevOpsDays Aarhus](https://devopsdays.org/events/2022-aarhus/welcome/) - Aarhus (Denmark)
-* 26-27: [DevOpsDays Krakow](https://devopsdays.org/events/2022-krakow/welcome/) - Krakow (Croatia)
-* 25-29: [IstioCon](https://www.crowdcast.io/e/istiocon-2022) - Online <a href="https://sessionize.com/istiocon-2022/"><img alt="CFP IstioCon" src="https://img.shields.io/static/v1?label=CFP&message=21-Jan-2022-%3E03-Mar-2022&color=red"> </a>
-* 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
-* 28: [WTFisSRE](https://www.cloud-native-sre.wtf/) - Online
-* 27-28: [DevDays Europe](https://devdays.lt/) - Online
-* 27-28: [Developer Week Europe](https://www.developerweek.com/europe/) - Online
-* 27-29: [J on the beach](https://www.jonthebeach.com/) - Malaga (Spain)
-* 27-3: [PyCon US](https://us.pycon.org/2022/) - Salt Lake City (USA)
-
 ### May
 
 * 27/04-3: [PyCon US](https://us.pycon.org/2022/) - Salt Lake City (USA)
