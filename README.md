@@ -167,6 +167,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 1: [Devops DDay #7](https://2022.devops-dday.com/) - Marseille (France)
 * 7-9: [SREcon22 Asia/Pacific](https://www.usenix.org/srecon) - Sydney (Australia)
+* ?: [BDX IO](https://www.bdxio.fr/) - Bordeaux (France)
 
 ## 2023
 
