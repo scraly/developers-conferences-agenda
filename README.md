@@ -115,6 +115,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### July
 
 * 6-8: [DroidCon Berlin](https://www.berlin.droidcon.com/) - Berlin (Germany) <a href="https://sessionize.com/droidcon-berlin-2022/"><img alt="CFP DroidCon Berlin 2022" src="https://img.shields.io/static/v1?label=CFP&message=01-02%20to%2020-May-2022&color=green"> </a>
+* 8-9: [HugoConf](https://hugoconf.io/) - Online
 * 11-17: [EuroPython 2022](https://ep2021.europython.eu/) - Dublin (Ireland)
 * 18-20: [JBCNConf](https://www.jbcnconf.com/2022/) - Barcelona (Spain)
 * 25-29: [THAT Conference](https://that.us/events/wi/2022) – Wisconsin Dells, WI (USA) [![release](https://img.shields.io/badge/CFP-closes%20March%2012-red)](https://that.us/call-for-counselors/wi/2022/)
