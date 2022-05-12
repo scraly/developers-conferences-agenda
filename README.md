@@ -167,7 +167,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### December
 
-* 1: [Devops DDay #7](https://2022.devops-dday.com/) - Marseille (France)
+* 1: [Devops DDay #7](https://2022.devops-dday.com/) - Marseille (France) <a href="https://conference-hall.io/public/event/eKYGzptI6y44zoS8sGUz"><img alt="CFP Devops DDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=green"> </a>
 * 7-9: [SREcon22 Asia/Pacific](https://www.usenix.org/srecon) - Sydney (Australia)
 * ?: [BDX IO](https://www.bdxio.fr/) - Bordeaux (France)
 
