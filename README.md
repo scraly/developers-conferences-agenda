@@ -79,7 +79,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### June
 
 * 1-3: [Web2Day](https://web2day.co/) - Nantes (France)
-* 2: [Confer Conf](https://2022.confer.no/) - Online <a href="https://2022.confer.no/speakers"><img alt="CFP Confer Conf 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2022&color=green"> </a>
+* 2: [Confer Conf](https://2022.confer.no/) - Online <a href="https://2022.confer.no/speakers"><img alt="CFP Confer Conf 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2022&color=red    "> </a>
 * 2-5: [PyCon Italia 2022](https://pycon.it/en) - Florence (Italy)
 * 3-4: [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - Chennai (India) + Online <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2020-Mar-2022&color=red"> </a>
 * 7-8: [LeadDev](https://leaddev.com/) - UK
@@ -94,7 +94,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 15-16: [Prisma Day](https://prisma.io/day) - Berlin (Germany) or Online
 * 16-17: [SymfonyWorld Online 2022 Summer Edition](https://live.symfony.com/2022-world-summer/) - Online <a href="https://live.symfony.com/2022-world-summer/cfp"><img alt="CFP SymfonyWorld Online 2022 Summer Edition" src="https://img.shields.io/static/v1?label=CFP&message=Until%2014-02-2022&color=red"> </a>
 * 17: [Joy of Coding](https://joyofcoding.org/) - Rotterdam (NL)
-* 17: [Cloud Ouest 2022](https://cloudouest.fr/) - Nantes (FR) + Online <a href="https://conference-hall.io/public/event/txK7ihjaAR4LtuJyYZCx"> <img alt="CFP Cloud Ouest 2022" src="https://img.shields.io/static/v1?label=CFP&message=Until%2030-04-2022&color=green"> </a>
+* 17: [Cloud Ouest 2022](https://cloudouest.fr/) - Nantes (FR) + Online <a href="https://conference-hall.io/public/event/txK7ihjaAR4LtuJyYZCx"> <img alt="CFP Cloud Ouest 2022" src="https://img.shields.io/static/v1?label=CFP&message=Until%2030-04-2022&color=red"> </a>
 * 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
 * 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam (NL)
 * 20-24: [NDC Melbourne](https://ndcmelbourne.com/) - Melbourne (Australia)
@@ -110,7 +110,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 27-1: [Hack in Paris](https://hackinparis.com/) - Paris (France) <a href="https://www.papercall.io/hackinparis2022"><img alt="CFP Hack in paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2011-Mar-2022&color=red"> </a>
 * 29-1: [BreizhCamp](https://www.breizhcamp.org/) - Rennes (France) <a href="https://sessionize.com/breizhcamp-2022/"><img alt="CFP BreizhCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=14-Mar-2022%20to%2025-Apr-2022&color=red"> </a>
 * 30-1: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=6-Dec-2021%20to%2027-Feb-2022&color=red"> </a>
-* 30-1: [Agi'Lille 2022](https://agilille.fr/) - Lille (France) <a href="https://sessionize.com/agilille-2022/"><img alt="CFP Agi'Lille 2022" src="https://img.shields.io/static/v1?label=CFP&message=11-Mar-2022%20to%2007-May-2022&color=green"> </a>
+* 30-1: [Agi'Lille 2022](https://agilille.fr/) - Lille (France) <a href="https://sessionize.com/agilille-2022/"><img alt="CFP Agi'Lille 2022" src="https://img.shields.io/static/v1?label=CFP&message=11-Mar-2022%20to%2007-May-2022&color=red"> </a>
 
 ### July
 
@@ -147,12 +147,12 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont Ferrand (France) <a href="https://conference-hall.io/public/event/8Wu147xoRDKQSjGcawoY"><img alt="CFP Volcamp" src="https://img.shields.io/static/v1?label=CFP&message=%3E13-May-2022&color=green"> </a>
 * 13-14: [GeeCon Prague](https://www.geecon.org/) - Prague (Czechia)
 * 18-21: [JCon](https://jcon.one/) - Germany or Online
-* 19-20: [BaselOne22](https://baselone.ch/one) - Basel (Switzerland) <a href="https://form.typeform.com/to/AYNtbnrl"><img alt="CFP BaselOne22" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-Apr-2022&color=green"> </a>
+* 19-20: [BaselOne22](https://baselone.ch/one) - Basel (Switzerland) <a href="https://form.typeform.com/to/AYNtbnrl"><img alt="CFP BaselOne22" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-Apr-2022&color=red"> </a>
 * 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/CfucIjaXxrZThJE0POR3"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Apr-2022%20to%2015-Jun-2022&color=green"> </a>
 * 24-27: [EclipseCon 2022](https://www.eclipsecon.org/2022) - Ludwigsburg (Germany) <a href="https://www.eclipsecon.org/2022/cfp"><img alt="CFP EclipseCon 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Jun-2022&color=green"> </a>
 * 24-28: [International JavaScript Conference Hybrid](https://javascript-conference.com/munich/) - Munich (Germany) & Online
 * 25-27: [SREcon22 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Amsterdam (Netherlands)
-* 26-27: [DevOpsDays Montreal](https://devopsdays.org/) - Montreal (Canada) <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform"><img alt="CFP DevOpsDays Montreal" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2022&color=green"> </a>
+* 26-27: [DevOpsDays Montreal](https://devopsdays.org/) - Montreal (Canada) <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform"><img alt="CFP DevOpsDays Montreal" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2022&color=red"> </a>
 * 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
 * 28: [Container Day](https://2022.containerday.it/) - Bologna (Italia)
 
