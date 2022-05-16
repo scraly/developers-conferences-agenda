@@ -80,11 +80,13 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 1-3: [Web2Day](https://web2day.co/) - Nantes (France)
 * 2: [Confer Conf](https://2022.confer.no/) - Online <a href="https://2022.confer.no/speakers"><img alt="CFP Confer Conf 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2022&color=green"> </a>
+* 2-3: [Flosscon 2022](https://blog.flosscon.org) - Grenoble (France) <a href="https://flosscon.org"><img alt="CFP Flosscon 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-May-2022&color=green"> </a>
 * 2-5: [PyCon Italia 2022](https://pycon.it/en) - Florence (Italy)
 * 3-4: [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - Chennai (India) + Online <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2020-Mar-2022&color=red"> </a>
 * 7-8: [LeadDev](https://leaddev.com/) - UK
 * 7-8: [cdCon](https://events.linuxfoundation.org/cdcon/) - Austin (USA) + Online <a href="https://events.linuxfoundation.org/cdcon/program/cfp/"><img alt="CFP cdCon" src="https://img.shields.io/static/v1?label=CFP&message=10-Jan-2022%20to%2018-Feb-2022&color=red"> </a>
 * 7-9: [Forum International de la Cybersécurité](https://www.forum-fic.com/) - Lille (FR)
+* 7-9: [OpenInfra Summit Berlin 2022](https://openinfra.dev/summit/) - Berlin (GR)
 * 8-9: [OW2Con](https://www.ow2con.org/view/2022/) - Online
 * 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France) <a href="https://conference-hall.io/public/event/0Ij6N6UQOInRF9fdEm6G"><img alt="CFP Le Camping des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=7-Dec-2021%20to%2020-Feb-2022&color=red"> </a>
 * 9-10: [AlpesCraft](https://www.alpescraft.fr/) - Grenoble (France)
