@@ -40,7 +40,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 6: [Mars@Hack](http://www.montdemarsan-agglo.fr/agglo/jsp/site/Portal.jsp?page_id=547) - Mont de Marsan (France)
 * 9-12: [SLOConf](https://www.sloconf.com/) - Online <a href="https://www.papercall.io/sloconf"><img alt="CFP SLOConf" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2008-Mar-2022&color=red"> </a>
 * 10: [Docker Con](https://www.docker.com/dockercon/) - Online
-* 10-20: [QCon Plus](https://qconlondon.com/) - Online
+* 10-20: [QCon Plus](https://plus.qconferences.com/) - Online
 * 11: [A11y Paris](https://www.a11yparis.org/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 11: [firenze.dev](https://firenze.dev/evento-next-level-api-con-graphql/) - Next level API con GraphQL
 * 11-12: [Google I/O](https://io.google/2022/intl/fr/) - Online
@@ -80,7 +80,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 1-3: [Web2Day](https://web2day.co/) - Nantes (France)
 * 2: [Confer Conf](https://2022.confer.no/) - Online <a href="https://2022.confer.no/speakers"><img alt="CFP Confer Conf 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2022&color=red    "> </a>
-* 2-3: [Flosscon 2022](https://blog.flosscon.org) - Grenoble (France) <a href="https://flosscon.org"><img alt="CFP Flosscon 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-May-2022&color=green"> </a>
+* 2-3: [Flosscon 2022](https://www.flosscon.org/conferences/FLOSSCon2022) - Grenoble (France) <a href="https://flosscon.org"><img alt="CFP Flosscon 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-May-2022&color=green"> </a>
 * 2-5: [PyCon Italia 2022](https://pycon.it/en) - Florence (Italy)
 * 3-4: [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - Chennai (India) + Online <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2020-Mar-2022&color=red"> </a>
 * 7-8: [LeadDev](https://leaddev.com/) - UK
@@ -100,6 +100,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
 * 20-24: [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - Amsterdam (NL)
 * 20-24: [NDC Melbourne](https://ndcmelbourne.com/) - Melbourne (Australia)
+* 21: [InfoQ Live](https://live.infoq.com/conference/2022/june) - Online
 * 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg <a href="http://cfp-voxxed-lux.yajug.org/"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=20-Feb-2022%20to%2010-Avr-2022&color=red"> </a>
 * 22-23: [enterJS](https://enterjs.de/) - Darmstadt (Germany)
 * 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
@@ -120,11 +121,13 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 8-9: [HugoConf](https://hugoconf.io/) - Online
 * 11-17: [EuroPython 2022](https://ep2021.europython.eu/) - Dublin (Ireland)
 * 18-20: [JBCNConf](https://www.jbcnconf.com/2022/) - Barcelona (Spain)
+* 19: [InfoQ Live](https://live.infoq.com/conference/2022/july) - Online
 * 25-29: [THAT Conference](https://that.us/events/wi/2022) – Wisconsin Dells, WI (USA) [![release](https://img.shields.io/badge/CFP-closes%20March%2012-red)](https://that.us/call-for-counselors/wi/2022/)
 
 ### August
 
 * 22-28: [FOSS4G](https://2022.foss4g.org/) - Firenze (Italy)
+* 23: [InfoQ Live](https://live.infoq.com/) - Online
 * 26: [UX Nordic 2022](https://uxnordic.com/) - Aarhus (Denmark)
 
 ### September
@@ -135,6 +138,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 9: [JUG SummerCamp](https://www.jugsummercamp.org/edition/13) - La Rochelle (France) <a href="https://www.jugsummercamp.org/edition/13"><img alt="CFP JUG SummerCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=2-May-2022%20to%201-Jul-2022&color=green"> </a>
 * 14-15: [Uptime](https://uptime.aiven.io) - Amsterdam (NL)
 * 24: [PyCon Portugal](http://2022.pycon.pt/) - Porto (Portugal)
+* 24-28: [QCon San Francisco](https://qconsf.com/) - San Francisco (USA)
 * 26-28: [GopherCon](https://www.gophercon.com/) - Florida (USA)
 * 26-29: [International JavaScript Conference Hybrid](https://javascript-conference.com/new-york/) - New York (USA) & Online
 * 28-29: [DevOps World 2022](https://www.cloudbees.com/c/devops-world-2022-save-the-date) - Orlando, Florida (USA) <a href="https://assets.cloudbees.com/MzMzLVFQVi03MjUAAAGEENe8Ddj2m2ND8y469mGfpl-u3PnjGNmJ2wz1pWCNco6e5XhiUbm3cpDALNvRK1BeUFbLmmQ="><img alt="CFP DevOps World 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-May-2022&color=green"> </a>
@@ -167,6 +171,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 15-16: [Agile Tour Toulouse](https://tour.agiletoulouse.fr/) - Toulouse (France) <a href="https://sessionize.com/agile-tour-toulouse-2022/"><img alt="CFP Agile Tour Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Jun-2022&color=green"> </a>
 * 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France)
 * 18: [Devfest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/speaker/event/wgaja45IBdGT4sw4CXDB"><img alt="CFP Devfest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=green"> </a>
+* 29-9: [QCon Plus](https://plus.qconferences.com/) - Online
 
 ### December
 
@@ -183,6 +188,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### March
 
 * 23: [DevDay](https://www.devday.be/) - Louvain la Neuve (Belgium)
+* 26-31: [QCon London](https://qconlondon.com/) - London (UK)
 
 ### April
 
@@ -194,4 +200,5 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### October
 
+* 2-6: [QCon San Francisco](https://qconsf.com/) - San Francisco (USA)
 * 10-12: [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Dublin (Ireland)
