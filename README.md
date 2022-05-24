@@ -154,6 +154,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont Ferrand (France) <a href="https://conference-hall.io/public/event/8Wu147xoRDKQSjGcawoY"><img alt="CFP Volcamp" src="https://img.shields.io/static/v1?label=CFP&message=%3E13-May-2022&color=red"> </a>
 * 13-14: [GeeCon Prague](https://www.geecon.org/) - Prague (Czechia)
 * 13-14: [International Conference on Development and Learning](https://waset.org/development-and-learning-conference-in-october-2022-in-london) - London (United Kingdom)
+* 13-14: [Forum PHP 2022](https://event.afup.org/) - Hotel New York - The Art of Marvel, Disneyland Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://afup.org/event/forumphp2022"><img alt="CFP Forum PHP 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-Jun-2022&color=green"> </a>
 * 18-21: [JCon](https://jcon.one/) - Germany or Online
 * 19-20: [BaselOne22](https://baselone.ch/one) - Basel (Switzerland) <a href="https://form.typeform.com/to/AYNtbnrl"><img alt="CFP BaselOne22" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-Apr-2022&color=red"> </a>
 * 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/CfucIjaXxrZThJE0POR3"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Apr-2022%20to%2015-Jun-2022&color=green"> </a>
