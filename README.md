@@ -108,6 +108,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterdam (NL)
 * 23: [ServerlessDays Paris](https://paris.serverlessdays.io/en/) - Paris (France) <a href="https://vdlux20.cfp.dev/#/login"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=Until%2020-Feb-2022&color=red"> </a>
 * 23-24: [DDD Europe 2022](https://dddeurope.com/) - Amsterdam (NL)
+* 23-26: [Hack In The Wood](https://www.hackinthewoods.be/) - Tournai (Belgique)
 * 24: [SoCraTes Rennes](https://socrates-rennes.github.io/) - Rennes (France)
 * 24-25: [devopsdays Prague](https://devopsdays.org/events/2022-prague/welcome/) - Prague (Czech Republic)
 * 27-29: [ML Conference](https://mlconference.ai/munich) - Munich (Germany)
