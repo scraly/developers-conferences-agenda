@@ -147,6 +147,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### October
 
+* 3-4: [KubeHuddle](https://www.kubehuddle.com/) - Edinburgh (Scotland) <a href="[https://conference-hall.io/public/event/wGVYkl21UFxeiuakhKfu](https://sessionize.com/kubehuddle/)"><img alt="Kube Huddle" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=green"> </a>
 * 4-6: [Devoxx Morocco](https://devoxx.ma/) - Agadir (Morocco)
 * 6-7: [Nordic.js](https://nordicjs.com/2022) - Stockholm (Sweden)
 * 6-7: [Paris Web](https://paris-web.fr/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://appel.paris-web.fr/"><img alt="CFP Paris Web" src="https://img.shields.io/static/v1?label=CFP&message=24-Mar-2022-%3E24-Apr-2022&color=red"> </a>
