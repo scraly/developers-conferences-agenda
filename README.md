@@ -132,6 +132,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 22-28: [FOSS4G](https://2022.foss4g.org/) - Firenze (Italy)
 * 23: [InfoQ Live](https://live.infoq.com/) - Online
+* 25-28: [Socrates.du] (http://www.socrates-conference.de/home) - Soltau (Germany) 
 * 26: [UX Nordic 2022](https://uxnordic.com/) - Aarhus (Denmark)
 
 ### September
