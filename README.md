@@ -62,6 +62,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 17-20: [SoCraTes](https://socrates-fr.github.io/) - ‘Château de Massillan’ - Drome (France)
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
 * 17-20: [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - Valencia (Spain) <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=red"> </a>
+* 19: [Codecamp_Festival] (https://codecamp.ro/the-festival/) - Bucharest, Romania
 * 19-20: [PHP Day](https://2022.phpday.it/) - Verona (Italy)
 * 19-22: [Java Day Istanbul](https://www.javaday.istanbul/) - Antalya (Turkey)
 * 20: [Agile Tour Strasbourg](https://www.meetup.com/MtgStrasbourg/events/285587412/) - Strasbourg (France)
@@ -131,6 +132,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 22-28: [FOSS4G](https://2022.foss4g.org/) - Firenze (Italy)
 * 23: [InfoQ Live](https://live.infoq.com/) - Online
+* 25-28: [Socrates.du] (http://www.socrates-conference.de/home) - Soltau (Germany) 
 * 26: [UX Nordic 2022](https://uxnordic.com/) - Aarhus (Denmark)
 
 ### September
@@ -202,7 +204,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 12-14: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 
 ### May
-
+* ##: [Codecamp_Festival] (https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
 
 ### October
