@@ -205,7 +205,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 12-14: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 
 ### May
-* ##: [Codecamp_Festival] (https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
+* ??: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
 
 ### October
