@@ -143,6 +143,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 7-8: [DeveloperWeek Global: Cloud](https://www.developerweek.com/global/conference/cloud/) - Online
 * 9: [JUG SummerCamp](https://www.jugsummercamp.org/edition/13) - La Rochelle (France) <a href="https://www.jugsummercamp.org/edition/13"><img alt="CFP JUG SummerCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=2-May-2022%20to%201-Jul-2022&color=green"> </a>
 * 14-15: [Uptime](https://uptime.aiven.io) - Amsterdam (NL)
+* 21-22: [DevOpsDays Chicago](https://devopsdays.org/chicago) - Chicago, Illinois (USA)
 * 24: [PyCon Portugal](http://2022.pycon.pt/) - Porto (Portugal)
 * 26-28: [GopherCon](https://www.gophercon.com/) - Florida (USA)
 * 26-29: [International JavaScript Conference Hybrid](https://javascript-conference.com/new-york/) - New York (USA) & Online
