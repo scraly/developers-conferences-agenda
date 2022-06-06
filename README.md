@@ -130,6 +130,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### August
 
+* 5 [Cloud Native Summit](https://www.cloudnativesummit.co/) - Wellington (New Zealand)
 * 22-28: [FOSS4G](https://2022.foss4g.org/) - Firenze (Italy)
 * 23: [InfoQ Live](https://live.infoq.com/) - Online
 * 25-28: [Socrates.du] (http://www.socrates-conference.de/home) - Soltau (Germany) 
