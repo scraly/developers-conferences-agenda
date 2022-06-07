@@ -101,6 +101,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 14-15: [API Days Australia](https://www.apidays.global/australia/) - Melbourne (Australia) & Online
 * 21-22: [DevOpsDays Chicago](https://devopsdays.org/chicago) - Chicago, Illinois (USA)
 * 24: [PyCon Portugal](http://2022.pycon.pt/) - Porto (Portugal)
+* 24: [RomHack2022](https://romhack.camp/) - Rome (Italy) <a href="https://romhack.camp/"><img alt="RomHack2022" src="https://img.shields.io/static/v1?label=CFP&message=until 29-May-2022&color=red"> </a>
 * 26-28: [GopherCon](https://www.gophercon.com/) - Florida (USA)
 * 26-29: [International JavaScript Conference Hybrid](https://javascript-conference.com/new-york/) - New York (USA) & Online
 * 28-29: [DevOps World 2022](https://www.cloudbees.com/c/devops-world-2022-save-the-date) - Orlando, Florida (USA) <a href="https://assets.cloudbees.com/MzMzLVFQVi03MjUAAAGEENe8Ddj2m2ND8y469mGfpl-u3PnjGNmJ2wz1pWCNco6e5XhiUbm3cpDALNvRK1BeUFbLmmQ="><img alt="CFP DevOps World 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2022&color=green"> </a>
