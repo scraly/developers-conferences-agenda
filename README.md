@@ -44,6 +44,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 9-10: [Le Camping des Speakers](https://camping-speakers.fr/) - Golfe du morbihan (France) <a href="https://conference-hall.io/public/event/0Ij6N6UQOInRF9fdEm6G"><img alt="CFP Le Camping des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=7-Dec-2021%20to%2020-Feb-2022&color=red"> </a>
 * 9-10: [AlpesCraft](https://www.alpescraft.fr/) - Grenoble (France)
 * 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France) <a href="https://conference-hall.io/public/event/vzbfowsExm54SrWLtxA5"><img alt="CFP DevFest Lille 2022" src="https://img.shields.io/static/v1?label=CFP&message=24-Jan-2022%20to%2031-Mar-2022&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+* 10: [uxday 2022](https://2022.uxday.it/) - Faenza (Italy) or Online
 * 14: [France API](https://www.franceapi.fr/) - Paris (France)
 * 14-15: [WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress/#/) - Berlin (Germany)
 * 15-16: [Prisma Day](https://prisma.io/day) - Berlin (Germany) or Online
@@ -101,10 +102,11 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 14-15: [API Days Australia](https://www.apidays.global/australia/) - Melbourne (Australia) & Online
 * 21-22: [DevOpsDays Chicago](https://devopsdays.org/chicago) - Chicago, Illinois (USA)
 * 24: [PyCon Portugal](http://2022.pycon.pt/) - Porto (Portugal)
+* 24: [RomHack2022](https://romhack.camp/) - Rome (Italy) <a href="https://romhack.camp/"><img alt="RomHack2022" src="https://img.shields.io/static/v1?label=CFP&message=until 29-May-2022&color=red"> </a>
 * 26-28: [GopherCon](https://www.gophercon.com/) - Florida (USA)
 * 26-29: [International JavaScript Conference Hybrid](https://javascript-conference.com/new-york/) - New York (USA) & Online
-* 28-29: [DevOps World 2022](https://www.cloudbees.com/c/devops-world-2022-save-the-date) - Orlando, Florida (USA) <a href="https://assets.cloudbees.com/MzMzLVFQVi03MjUAAAGEENe8Ddj2m2ND8y469mGfpl-u3PnjGNmJ2wz1pWCNco6e5XhiUbm3cpDALNvRK1BeUFbLmmQ="><img alt="CFP DevOps World 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2022&color=green"> </a>
-* 29: [Cloud Nord](https://cloudnord.fr/) - Lille (France) <a href="https://conference-hall.io/public/event/wGVYkl21UFxeiuakhKfu"><img alt="CFP Cloud Nord 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=green"> </a>
+* 28-29: [DevOps World 2022](https://www.cloudbees.com/c/devops-world-2022-save-the-date) - Orlando, Florida (USA) <a href="https://assets.cloudbees.com/MzMzLVFQVi03MjUAAAGEENe8Ddj2m2ND8y469mGfpl-u3PnjGNmJ2wz1pWCNco6e5XhiUbm3cpDALNvRK1BeUFbLmmQ="><img alt="CFP DevOps World 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2022&color=red"> </a>
+* 29: [Cloud Nord](https://cloudnord.fr/) - Lille (France) <a href="https://conference-hall.io/public/event/wGVYkl21UFxeiuakhKfu"><img alt="CFP Cloud Nord 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=red"> </a>
 
 ### October
 
@@ -135,7 +137,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 3-4: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain)
 * 8-9: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France) <a href="https://sessionize.com/open-source-experience-2022/"><img alt="CFP Open Source Experience" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Jun-2022&color=green"> </a>
 * 14-16: [OSMC](https://osmc.de/) - Nuremberg (Germany) <a href="https://osmc.de/call-for-papers/"><img alt="CFP OSMC" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=green"> </a>
-* 15-16: [ParisTestConf](https://paristestconf.com/) - Online <a href="https://paristestconf.com/call-for-papers-2022"><img alt="CFP ParisTestConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=green"> </a>
+* 15-16: [ParisTestConf](https://paristestconf.com/) - Online <a href="https://paristestconf.com/call-for-papers-2022"><img alt="CFP ParisTestConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=red"> </a>
 * 15-16: [Agile Tour Toulouse](https://tour.agiletoulouse.fr/) - Toulouse (France) <a href="https://sessionize.com/agile-tour-toulouse-2022/"><img alt="CFP Agile Tour Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Jun-2022&color=green"> </a>
 * 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France)
 * 18: [Devfest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/speaker/event/wgaja45IBdGT4sw4CXDB"><img alt="CFP Devfest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=green"> </a>
