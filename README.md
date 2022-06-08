@@ -47,6 +47,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 10: [uxday 2022](https://2022.uxday.it/) - Faenza (Italy) or Online
 * 14: [France API](https://www.franceapi.fr/) - Paris (France)
 * 14-15: [WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress/#/) - Berlin (Germany)
+* 14-15: [DevFest for Ukraine](https://devfest.gdg.org.ua/) - Online
 * 15-16: [Prisma Day](https://prisma.io/day) - Berlin (Germany) or Online
 * 15-18: [VIVA Technology](https://vivatechnology.com/) - Paris (France)
 * 16-17: [SymfonyWorld Online 2022 Summer Edition](https://live.symfony.com/2022-world-summer/) - Online <a href="https://live.symfony.com/2022-world-summer/cfp"><img alt="CFP SymfonyWorld Online 2022 Summer Edition" src="https://img.shields.io/static/v1?label=CFP&message=Until%2014-02-2022&color=red"> </a>
