@@ -167,6 +167,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### April
 
 * 12-14: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
+* 17-21: [KubeCon Europe + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2023/) - Amsterdam (THE NETHERLANDS)
 
 ### May
 * ??: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
