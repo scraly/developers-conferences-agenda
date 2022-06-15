@@ -58,6 +58,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 20-24: [NDC Melbourne](https://ndcmelbourne.com/) - Melbourne (Australia)
 * 21: [InfoQ Live](https://live.infoq.com/conference/2022/june) - Online
 * 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Luxembourg <a href="http://cfp-voxxed-lux.yajug.org/"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=20-Feb-2022%20to%2010-Avr-2022&color=red"> </a>
+* 22: [JavaDay du Paris JUG](https://javaday.parisjug.org/) - Paris (France)
 * 22-23: [enterJS](https://enterjs.de/) - Darmstadt (Germany)
 * 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 * 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterdam (NL)
