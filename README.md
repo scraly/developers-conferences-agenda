@@ -103,6 +103,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 14-15: [Uptime](https://uptime.aiven.io) - Amsterdam (NL)
 * 14-15: [API Days Australia](https://www.apidays.global/australia/) - Melbourne (Australia) & Online
 * 21-22: [DevOpsDays Chicago](https://devopsdays.org/chicago) - Chicago, Illinois (USA)
+* 22-24: [Strange Loop 2022](https://thestrangeloop.com) - St. Louis, Missouri (USA) <a href="https://thestrangeloop.com/cfp.html/"><img alt="Strange Loop 2022 CFP" src="https://img.shields.io/static/v1?label=CFP&message=until 20-Apr-2022&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 24: [PyCon Portugal](http://2022.pycon.pt/) - Porto (Portugal)
 * 24: [RomHack2022](https://romhack.camp/) - Rome (Italy) <a href="https://romhack.camp/"><img alt="RomHack2022" src="https://img.shields.io/static/v1?label=CFP&message=until 29-May-2022&color=red"> </a>
 * 26-28: [GopherCon](https://www.gophercon.com/) - Florida (USA)
@@ -175,6 +176,10 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### May
 * ??: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
+
+### September
+
+* 21-23: [Strange Loop 2023](https://thestrangeloop.com) - St. Louis, Missouri (USA)
 
 ### October
 
