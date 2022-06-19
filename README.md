@@ -84,6 +84,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 19: [InfoQ Live](https://live.infoq.com/conference/2022/july) - Online
 * 25-29: [THAT Conference](https://that.us/events/wi/2022) – Wisconsin Dells, WI (USA) [![release](https://img.shields.io/badge/CFP-closes%20March%2012-red)](https://that.us/call-for-counselors/wi/2022/)
 * 27-28: [API Days New York](https://www.apidays.global/new-york/) - New York (USA) & Online
+* 29-30: [Selenium Conf 2022](https://2022.seleniumconf.in) - Online (IST)
 
 ### August
 
@@ -104,6 +105,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 14-15: [API Days Australia](https://www.apidays.global/australia/) - Melbourne (Australia) & Online
 * 21-22: [DevOpsDays Chicago](https://devopsdays.org/chicago) - Chicago, Illinois (USA)
 * 22-24: [Strange Loop 2022](https://thestrangeloop.com) - St. Louis, Missouri (USA) <a href="https://thestrangeloop.com/cfp.html/"><img alt="Strange Loop 2022 CFP" src="https://img.shields.io/static/v1?label=CFP&message=until 20-Apr-2022&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+* 22-24: [Agile India 2022](https://2022.agileindia.org) - Online (IST)
 * 24: [PyCon Portugal](http://2022.pycon.pt/) - Porto (Portugal)
 * 24: [RomHack2022](https://romhack.camp/) - Rome (Italy) <a href="https://romhack.camp/"><img alt="RomHack2022" src="https://img.shields.io/static/v1?label=CFP&message=until 29-May-2022&color=red"> </a>
 * 26-28: [GopherCon](https://www.gophercon.com/) - Florida (USA)
