@@ -103,6 +103,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 9: [JUG SummerCamp](https://www.jugsummercamp.org/edition/13) - La Rochelle (France) <a href="https://www.jugsummercamp.org/edition/13"><img alt="CFP JUG SummerCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=2-May-2022%20to%201-Jul-2022&color=green"> </a>
 * 14-15: [Uptime](https://uptime.aiven.io) - Amsterdam (NL)
 * 14-15: [API Days Australia](https://www.apidays.global/australia/) - Melbourne (Australia) & Online
+* 20: [Les Escales du Libre](https://www.eventyay.com/e/d78c8bb0) - Nantes (France) <a href="https://www.eventyay.com/e/d78c8bb0/cfs"><img alt="CFP Escales du Libre Nantes" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2025-Aug-2022&color=red"> </a>
 * 21-22: [DevOpsDays Chicago](https://devopsdays.org/chicago) - Chicago, Illinois (USA)
 * 22-24: [Strange Loop 2022](https://thestrangeloop.com) - St. Louis, Missouri (USA) <a href="https://thestrangeloop.com/cfp.html/"><img alt="Strange Loop 2022 CFP" src="https://img.shields.io/static/v1?label=CFP&message=until 20-Apr-2022&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 22-24: [Agile India 2022](https://2022.agileindia.org) - Online (IST)
@@ -120,6 +121,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 4-6: [Devoxx Morocco](https://devoxx.ma/) - Agadir (Morocco) <a href="https://dvma22.cfp.dev"><img alt="CFP Devoxx Morocco" src="https://img.shields.io/static/v1?label=CFP&message=6-Jun-2022%20to%2015-Jul-2022&color=green"> </a>
 * 6-7: [Nordic.js](https://nordicjs.com/2022) - Stockholm (Sweden)
 * 6-7: [Paris Web](https://paris-web.fr/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://appel.paris-web.fr/"><img alt="CFP Paris Web" src="https://img.shields.io/static/v1?label=CFP&message=24-Mar-2022-%3E24-Apr-2022&color=red"> </a>
+* 7: [DevFest Perros-Guirec](https://devfest.codedarmor.fr/) - Perros-Guirec (France)
 * 7-8: [Intersection Conference](https://www.intersection-conference.eu/) - Torino (Italy)
 * 10-14: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium) <a href="[https://devoxx.be/](https://dvbe22.cfp.dev/#/login)"><img alt="CFP Devoxx Belgium 2022" src="https://img.shields.io/static/v1?label=CFP&message=Jun-2022%20to%2015-July-2022&color=red"> </a>
 * 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont Ferrand (France) <a href="https://conference-hall.io/public/event/8Wu147xoRDKQSjGcawoY"><img alt="CFP Volcamp" src="https://img.shields.io/static/v1?label=CFP&message=%3E13-May-2022&color=red"> </a>
@@ -147,7 +149,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 15-16: [ParisTestConf](https://paristestconf.com/) - Online <a href="https://paristestconf.com/call-for-papers-2022"><img alt="CFP ParisTestConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=red"> </a>
 * 15-16: [Agile Tour Toulouse](https://tour.agiletoulouse.fr/) - Toulouse (France) <a href="https://sessionize.com/agile-tour-toulouse-2022/"><img alt="CFP Agile Tour Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Jun-2022&color=green"> </a>
 * 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France) <a href="[https://sessionize.com/agile-tour-toulouse-2022/](https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq)"><img alt="CFP codeur en seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-Sept-2022&color=green"> </a>
-* 18: [Devfest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/speaker/event/wgaja45IBdGT4sw4CXDB"><img alt="CFP Devfest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=green"> </a>
+* 18: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/speaker/event/wgaja45IBdGT4sw4CXDB"><img alt="CFP Devfest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=green"> </a>
 * 18-19: [DevOpsDays Bengaluru](https://devopsdaysindia.org/) - Bengaluru (India) <a href="https://forms.gle/LmCGgZse3Lp4XNgz9"><img alt="CFP DevOpsDays Bengaluru" src="https://img.shields.io/static/v1?label=CFP&message=until%206-Aug-2022&color=green"> </a>
 * 19-20: [Capitole du Libre](https://capitoledulibre.org/) - Toulouse (France)
 * 29-9: [QCon Plus](https://plus.qconferences.com/) - Online
