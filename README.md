@@ -89,6 +89,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### August
 
 * 5: [Cloud Native Summit](https://www.cloudnativesummit.co/) - Wellington (New Zealand)
+* 20-21: [frOSCon](https://www.froscon.org/en/) - Sankt Augustin (Germany)
 * 22-28: [FOSS4G](https://2022.foss4g.org/) - Firenze (Italy)
 * 23: [InfoQ Live](https://live.infoq.com/) - Online
 * 24-25: [API Days Hong Kong](https://www.apidays.global/hong-kong/) - Hong Kong & Online
