@@ -155,6 +155,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 18: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/speaker/event/wgaja45IBdGT4sw4CXDB"><img alt="CFP Devfest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=green"> </a>
 * 18-19: [DevOpsDays Bengaluru](https://devopsdaysindia.org/) - Bengaluru (India) <a href="https://forms.gle/LmCGgZse3Lp4XNgz9"><img alt="CFP DevOpsDays Bengaluru" src="https://img.shields.io/static/v1?label=CFP&message=until%206-Aug-2022&color=green"> </a>
 * 19-20: [Capitole du Libre](https://capitoledulibre.org/) - Toulouse (France)
+* 21: [Java Summit-IL](https://www.javasummitil.com/) - Tel-Aviv (Israel) <a href="https://sessionize.com/javasummit-il-22/"><img alt="CFP Java Summit-IL" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=green"> </a>
 * 29-9: [QCon Plus](https://plus.qconferences.com/) - Online
 
 ### December
