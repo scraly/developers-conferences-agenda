@@ -145,6 +145,10 @@ This tech conferences agenda list can be seen in https://developers.events/
 * ??: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
 
+### July
+
+* 3-5: [DevBCN](www.devbcn.com) - Barcelona (Spain)
+
 ### September
 
 * 21-23: [Strange Loop 2023](https://thestrangeloop.com) - St. Louis, Missouri (USA)
