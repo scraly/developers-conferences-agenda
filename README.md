@@ -45,7 +45,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 22-28: [FOSS4G](https://2022.foss4g.org/) - Firenze (Italy)
 * 23: [InfoQ Live](https://live.infoq.com/) - Online
 * 24-25: [API Days Hong Kong](https://www.apidays.global/hong-kong/) - Hong Kong & Online
-* 25-28: [Socrates.du](http://www.socrates-conference.de/home) - Soltau (Germany) 
+* 25-28: [Socrates.du](http://www.socrates-conference.de/home) - Soltau (Germany)
 * 26: [UX Nordic 2022](https://uxnordic.com/) - Aarhus (Denmark)
 
 ### September
@@ -121,6 +121,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 1: [Devops DDay #7](https://2022.devops-dday.com/) - Marseille (France) <a href="https://conference-hall.io/public/event/eKYGzptI6y44zoS8sGUz"><img alt="CFP Devops DDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2022&color=green"> </a>
 * 2: [BDX I/O](https://www.bdxio.fr/) - Bordeaux (France) <a href="https://conference-hall.io/public/event/OJC5Ou5YJodfetgSJCa3"><img alt="CFP BDX I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=green"> </a>
+* 2-3: [Oπe\n Conf Athens 2022](https://www.open-conf.gr/) - Athens (Greece) <a href="https://sessionize.com/open_conf/"><img alt="CFP Oπe\n Conf Athens 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Aug-2022&color=green"> </a>
 * 5-8: [DevOpsCon Munich](https://devopscon.io/call-for-papers/) - Munich (Germany) <a href="https://devopscon.io/call-for-papers/"><img alt="CFP DevOpsCon Munich" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-Jun-2022&color=red"> </a>
 * 7-9: [SREcon22 Asia/Pacific](https://www.usenix.org/srecon) - Sydney (Australia)
 * 14-16: [API Days Paris](https://www.apidays.global/paris/) - Paris (France) & Online
