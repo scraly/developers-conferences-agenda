@@ -40,7 +40,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### September
 
 * 1-2: [Web Summer Camp 2022](https://2022.websummercamp.com) - Šibenik (Croatia)
-* 3-4: [SRE France - Summer Camp 2022](https://sre-summercamp.github.io/fr/) <a href="https://sre-summercamp.github.io/cfp/"><img alt="CFP SRE France - Summer Camp 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-August-2022&color=green"> </a>
+* 3-4: [SRE France - Summer Camp 2022](https://sre-summercamp.github.io/fr/) <a href="https://sre-summercamp.github.io/cfp/"><img alt="CFP SRE France - Summer Camp 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-August-2022&color=green"> </a> - Chambéry (France)
 * 5-7: [ContainerDays 2022](https://www.containerdays.io/) - Hamburg & Online
 * 7-8: [DeveloperWeek Global: Cloud](https://www.developerweek.com/global/conference/cloud/) - Online
 * 9: [JUG SummerCamp](https://www.jugsummercamp.org/edition/13) - La Rochelle (France) <a href="https://www.jugsummercamp.org/edition/13"><img alt="CFP JUG SummerCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=2-May-2022%20to%201-Jul-2022&color=red"> </a>
