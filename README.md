@@ -125,6 +125,10 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
 
+### February
+
+* 22-24: [ConFoo](https://confoo.ca/fr/2023) - Montréal (Canada) <a href="https://confoo.ca/fr/2023/call-for-papers"><img alt="CFP ConFoo 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-September-2022&color=green"> </a>
+
 ### March
 
 * 23: [DevDay](https://www.devday.be/) - Louvain la Neuve (Belgium)
