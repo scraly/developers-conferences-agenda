@@ -48,6 +48,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 14-15: [API Days Australia](https://www.apidays.global/australia/) - Melbourne (Australia) & Online
 * 20: [Les Escales du Libre](https://www.eventyay.com/e/d78c8bb0) - Nantes (France) <a href="https://www.eventyay.com/e/d78c8bb0/cfs"><img alt="CFP Escales du Libre Nantes" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2025-Aug-2022&color=red"> </a>
 * 20-21: [Agile en Seine](https://www.agileenseine.com/) - Paris (France) <a href="https://sessionize.com/agile-en-seine-2022/"><img alt="CFP Agile en Seine" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2025-Jun-2022&color=red"> </a>
+* 20-23: [JCON ONLINE](https://jcon.one/) - Online
 * 21-22: [DevOpsDays Chicago](https://devopsdays.org/chicago) - Chicago, Illinois (USA)
 * 22-24: [Strange Loop 2022](https://thestrangeloop.com) - St. Louis, Missouri (USA) <a href="https://thestrangeloop.com/cfp.html/"><img alt="Strange Loop 2022 CFP" src="https://img.shields.io/static/v1?label=CFP&message=until 20-Apr-2022&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 22-24: [Agile India 2022](https://2022.agileindia.org) - Online (IST)
@@ -80,7 +81,6 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 16–20: [JavaOne](https://www.oracle.com/cloudworld/javaone/) - Las Vegas, Nevada (USA)
 * 18-19: [Dash](https://www.dashcon.io/) - New York (USA) <a href="https://www.dashcon.io/cfp/"><img alt="CFP Dash" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-August-2022&color=green"> </a>
 * 18-19: [FlowCon](https://flowcon.fr/) - Montrouge (France)
-* 18-21: [JCon](https://jcon.one/) - Germany or Online
 * 19-20: [BaselOne22](https://baselone.ch/one) - Basel (Switzerland) <a href="https://form.typeform.com/to/AYNtbnrl"><img alt="CFP BaselOne22" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-Apr-2022&color=red"> </a>
 * 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/CfucIjaXxrZThJE0POR3"> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Apr-2022%20to%2019-Jun-2022&color=red"> </a>
 * 24: [Open Observability Day (North America)](https://events.linuxfoundation.org/open-observability-day-north-america/) - Detroit (US)
@@ -145,6 +145,10 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### May
 * ??: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
+
+### June
+
+* 20-23: [JCON PEOPLE](https://jcon.one/) - Düsseldorf, Germany 
 
 ### July
 
