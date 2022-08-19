@@ -78,6 +78,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 13-14: [International Conference on Development and Learning](https://waset.org/development-and-learning-conference-in-october-2022-in-london) - London (United Kingdom)
 * 13-14: [Forum PHP 2022](https://event.afup.org/) - Hotel New York - The Art of Marvel, Disneyland Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://afup.org/event/forumphp2022"><img alt="CFP Forum PHP 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-Jun-2022&color=red"> </a>
 * 13-14: [EuroRust](https://eurorust.eu) - Berlin (Germany) & Online <a href="https://www.papercall.io/eurorust-2022"><img alt="CFP EuroRust" src="https://img.shields.io/static/v1?label=CFP&message=%3E28-August-2022&color=green"> </a>
+* 14: [Fyne Conf](https://conf.fyne.io/) - Edinburgh (Scotland) & Online <a href="https://www.papercall.io/fyneconf2022"><img alt="CFP Fyne Conf" src="https://img.shields.io/static/v1?label=CFP&message=%3E09-Sept-2022&color=green"> </a>
 * 16–20: [JavaOne](https://www.oracle.com/cloudworld/javaone/) - Las Vegas, Nevada (USA)
 * 18-19: [Dash](https://www.dashcon.io/) - New York (USA) <a href="https://www.dashcon.io/cfp/"><img alt="CFP Dash" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-August-2022&color=green"> </a>
 * 18-19: [FlowCon](https://flowcon.fr/) - Montrouge (France)
