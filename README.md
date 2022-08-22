@@ -151,7 +151,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France) <a href="[https://sessionize.com/agile-tour-toulouse-2022/](https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq)"><img alt="CFP codeur en seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-Sept-2022&color=green"> </a>
 * 18: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/speaker/event/wgaja45IBdGT4sw4CXDB"><img alt="CFP Devfest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=green"> </a>
 * 18-19: [DevOpsDays Bengaluru](https://devopsdaysindia.org/) - Bengaluru (India) <a href="https://forms.gle/LmCGgZse3Lp4XNgz9"><img alt="CFP DevOpsDays Bengaluru" src="https://img.shields.io/static/v1?label=CFP&message=until%206-Aug-2022&color=green"> </a>
-* 19-20: [Capitole du Libre](https://capitoledulibre.org/) - Toulouse (France)
+* 19-20: [Capitole du Libre](https://capitoledulibre.org/) - Toulouse (France) <a href="https://cfp.capitoledulibre.org/cdl-2022/cfp"><img alt="CFP Capitole du Libre de Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Sep-2022&color=green">
 * 29-9: [QCon Plus](https://plus.qconferences.com/) - Online
 
 ### December
