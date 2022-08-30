@@ -41,9 +41,11 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 1-2: [Web Summer Camp 2022](https://2022.websummercamp.com) - Šibenik (Croatia)
 * 3-4: [SRE France - Summer Camp 2022](https://sre-summercamp.github.io/) <a href="https://sre-summercamp.github.io/cfp/"><img alt="CFP SRE France - Summer Camp 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-August-2022&color=green"> </a> - Chambéry (France)
+* 3-4: [Kubernetes Community Days Sri Lanka 2022](https://community.cncf.io/events/details/cncf-kcd-sri-lanka-presents-kcd-sri-lanka-2022/) - Sri Lanka
 * 5-7: [ContainerDays 2022](https://www.containerdays.io/) - Hamburg & Online
 * 7-8: [DeveloperWeek Global: Cloud](https://www.developerweek.com/global/conference/cloud/) - Online
 * 9: [JUG SummerCamp](https://www.jugsummercamp.org/edition/13) - La Rochelle (France) <a href="https://www.jugsummercamp.org/edition/13"><img alt="CFP JUG SummerCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=2-May-2022%20to%201-Jul-2022&color=red"> </a>
+* 14: [Kubernetes Community Days Washington DC 2022](https://community.cncf.io/events/details/cncf-kcd-washington-dc-presents-kubernetes-community-days-washington-dc-2022/) - Washington (USA)
 * 14-15: [Uptime](https://uptime.aiven.io) - Amsterdam (NL)
 * 14-15: [API Days Australia](https://www.apidays.global/australia/) - Melbourne (Australia) & Online
 * 20: [Les Escales du Libre](https://www.eventyay.com/e/d78c8bb0) - Nantes (France) <a href="https://www.eventyay.com/e/d78c8bb0/cfs"><img alt="CFP Escales du Libre Nantes" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2025-Aug-2022&color=red"> </a>
@@ -73,6 +75,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 7: [Hackvens](https://hackvens.fr/) - Rennes (France)
 * 7-8: [Intersection Conference](https://www.intersection-conference.eu/) - Torino (Italy)
 * 10-14: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium) <a href="[https://devoxx.be/](https://dvbe22.cfp.dev/#/login)"><img alt="CFP Devoxx Belgium 2022" src="https://img.shields.io/static/v1?label=CFP&message=Jun-2022%20to%2015-July-2022&color=red"> </a>
+* 12-13: [Kubernetes Community Days Munich 2022](https://community.cncf.io/events/details/cncf-kcd-munich-presents-kubernetes-community-days-munich-2022-1/) - Munich (Germany)
 * 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont Ferrand (France) <a href="https://conference-hall.io/public/event/8Wu147xoRDKQSjGcawoY"><img alt="CFP Volcamp" src="https://img.shields.io/static/v1?label=CFP&message=%3E13-May-2022&color=red"> </a>
 * 13-14: [GeeCon Prague](https://www.geecon.org/) - Prague (Czechia)
 * 13-14: [International Conference on Development and Learning](https://waset.org/development-and-learning-conference-in-october-2022-in-london) - London (United Kingdom)
@@ -106,12 +109,16 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 15-16: [Agile Tour Toulouse](https://tour.agiletoulouse.fr/) - Toulouse (France) <a href="https://sessionize.com/agile-tour-toulouse-2022/"><img alt="CFP Agile Tour Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Jun-2022&color=red"> </a>
 * 16-17: [NODES 2022 (Neo4j Online Developer Expo and Summit)](https://neo4j.com/nodes-2022/) - Online <a href="https://sessionize.com/neo4j-nodes-2022/"><img alt="Neo4j Online Developer Expo and Summit)" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-Aug-2022&color=green"> </a>
 * 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France) <a href="[https://sessionize.com/agile-tour-toulouse-2022/](https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq)"><img alt="CFP codeur en seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-Sept-2022&color=green"> </a>
+* 17: [Kubernetes Community Days Italy 2022](https://community.cncf.io/events/details/cncf-kcd-italy-presents-kubernetes-community-days-italy-2022/) - Milan (Italy)
 * 18: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/speaker/event/wgaja45IBdGT4sw4CXDB"><img alt="CFP Devfest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=red"> </a>
 * 18-19: [DevOpsDays Bengaluru](https://devopsdaysindia.org/) - Bengaluru (India) <a href="https://forms.gle/LmCGgZse3Lp4XNgz9"><img alt="CFP DevOpsDays Bengaluru" src="https://img.shields.io/static/v1?label=CFP&message=until%206-Aug-2022&color=green"> </a>
 * 18-19: [GreHack](https://grehack.fr/) - Grenoble (France) <a href="https://easychair.org/cfp/GreHack2022"><img alt="CFP" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Aug-2022&color=green"> </a>
 * 19-20: [Capitole du Libre](https://capitoledulibre.org/) - Toulouse (France) <a href="https://cfp.capitoledulibre.org/cdl-2022/cfp"><img alt="CFP Capitole du Libre de Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Sep-2022&color=green">
 * 21: [Java Summit-IL](https://www.javasummitil.com/) - Tel-Aviv (Israel) <a href="https://sessionize.com/javasummit-il-22/"><img alt="CFP Java Summit-IL" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=red"> </a>
-* 29-9: [QCon Plus](https://plus.qconferences.com/) - Online
+* 22-23: [Kubernetes Community Days UK 2022](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2022/) - London (UK)
+* 22-24: [Kubernetes Community Days Spain 2022](https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2022/) - Spain
+* 26-27: [Kubernetes Community Days & OpenInfra Days Indonesia 2022](https://community.cncf.io/events/details/cncf-kcd-indonesia-presents-kubernetes-community-days-openinfra-days-indonesia-2022/) - Jakarta (Indonesia)
+* 29-9/12: [QCon Plus](https://plus.qconferences.com/) - Online
 
 ### December
 
@@ -132,6 +139,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### February
 
 * 22-24: [ConFoo](https://confoo.ca/fr/2023) - Montréal (Canada) <a href="https://confoo.ca/fr/2023/call-for-papers"><img alt="CFP ConFoo 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-September-2022&color=green"> </a>
+* 23-24: [Kubernetes Community Days Amsterdam 2023](https://community.cncf.io/events/details/cncf-kcd-netherlands-presents-kubernetes-community-days-amsterdam-2023/) - Amsterdam (NL)
 
 ### March
 
