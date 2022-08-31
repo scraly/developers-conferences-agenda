@@ -125,7 +125,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### January
 
-* 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
+* 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France) <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%201%20September%20to%215-October-2022&color=green"> </a>
 
 ### February
 
