@@ -84,7 +84,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 25-27: [SREcon22 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Amsterdam (Netherlands)
 * 26-27: [DevOpsDays Montreal](https://devopsdays.org/) - Montreal (Canada) <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform"><img alt="CFP DevOpsDays Montreal" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2022&color=red"> </a>
 * 26-27: [API Days London](https://www.apidays.global/london/) - London (UK) & Online
-* 26-27: [Arm DevSummit 2022](https://devsummit.arm.com/?utm_source=armemployee&utm_medium=github&utm_%20campaign=2022_armdevsummit_mk17_arm_na_na_liveandondemand) - San Francisco (USA)
+* 26-27: [Arm DevSummit 2022](https://devsummit.arm.com/) - San Francisco (USA)
 * 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
 * 27-28: [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) - Bordeaux (France) <a href="https://sessionize.com/agile-tour-bordeaux-2022/"><img alt="CFP Agile Tour Bordeaux" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2022&color=red"> </a>
 * 28: [Container Day](https://2022.containerday.it/) - Bologna (Italia)
