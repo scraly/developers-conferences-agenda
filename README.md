@@ -38,6 +38,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 14: [Kubernetes Community Days Washington DC 2022](https://community.cncf.io/events/details/cncf-kcd-washington-dc-presents-kubernetes-community-days-washington-dc-2022/) - Washington (USA)
 * 14-15: [Uptime](https://uptime.aiven.io) - Amsterdam (NL)
 * 14-15: [API Days Australia](https://www.apidays.global/australia/) - Melbourne (Australia) & Online
+* 15-16: [API Platform Conference](https://api-platform.com/con/2022) - Lille (France) & Online
 * 20: [Les Escales du Libre](https://www.eventyay.com/e/d78c8bb0) - Nantes (France) <a href="https://www.eventyay.com/e/d78c8bb0/cfs"><img alt="CFP Escales du Libre Nantes" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2025-Aug-2022&color=red"> </a>
 * 20-21: [Agile en Seine](https://www.agileenseine.com/) - Paris (France) <a href="https://sessionize.com/agile-en-seine-2022/"><img alt="CFP Agile en Seine" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2025-Jun-2022&color=red"> </a>
 * 20-23: [JCON ONLINE](https://jcon.one/) - Online
