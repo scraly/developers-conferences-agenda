@@ -77,6 +77,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 18-19: [Dash](https://www.dashcon.io/) - New York (USA) <a href="https://www.dashcon.io/cfp/"><img alt="CFP Dash" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-August-2022&color=red"> </a>
 * 18-19: [FlowCon](https://flowcon.fr/) - Montrouge (France)
 * 19-20: [BaselOne22](https://baselone.ch/one) - Basel (Switzerland) <a href="https://form.typeform.com/to/AYNtbnrl"><img alt="CFP BaselOne22" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-Apr-2022&color=red"> </a>
+* 19-20: [P99 Conf](https://www.p99conf.io/) - Virtual
 * 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/CfucIjaXxrZThJE0POR3"> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Apr-2022%20to%2019-Jun-2022&color=red"> </a>
 * 24: [Open Observability Day (North America)](https://events.linuxfoundation.org/open-observability-day-north-america/) - Detroit (US)
 * 24-27: [EclipseCon 2022](https://www.eclipsecon.org/2022) - Ludwigsburg (Germany) <a href="https://www.eclipsecon.org/2022/cfp"><img alt="CFP EclipseCon 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Jun-2022&color=red"> </a>
