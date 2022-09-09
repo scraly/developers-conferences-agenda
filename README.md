@@ -48,6 +48,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 24: [PyCon Portugal](http://2022.pycon.pt/) - Porto (Portugal)
 * 24: [RomHack2022](https://romhack.camp/) - Rome (Italy) <a href="https://romhack.camp/"><img alt="RomHack2022" src="https://img.shields.io/static/v1?label=CFP&message=until 29-May-2022&color=red"> </a>
 * 24: [DevFest Craiova 2022](https://gdg.community.dev/events/details/google-gdg-craiova-presents-devfest-craiova-2022/) - Craiova (Romania) <a href="https://forms.gle/U4s42xVWY2rJgKPN6"><img alt="DevFestCraiova2022" src="https://img.shields.io/static/v1?label=CFP&message=until 05-September-2022&color=green"> </a>
+* 26-27: [BigData & AI Paris](https://www.bigdataparis.com/) - Paris (France)
 * 26-28: [GopherCon](https://www.gophercon.com/) - Florida (USA)
 * 26-29: [International JavaScript Conference Hybrid](https://javascript-conference.com/new-york/) - New York (USA) & Online
 * 28-29: [DevOps World 2022](https://www.cloudbees.com/c/devops-world-2022-save-the-date) - Orlando, Florida (USA) <a href="https://assets.cloudbees.com/MzMzLVFQVi03MjUAAAGEENe8Ddj2m2ND8y469mGfpl-u3PnjGNmJ2wz1pWCNco6e5XhiUbm3cpDALNvRK1BeUFbLmmQ="><img alt="CFP DevOps World 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2022&color=red"> </a>
