@@ -42,7 +42,10 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 20: [Les Escales du Libre](https://www.eventyay.com/e/d78c8bb0) - Nantes (France) <a href="https://www.eventyay.com/e/d78c8bb0/cfs"><img alt="CFP Escales du Libre Nantes" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2025-Aug-2022&color=red"> </a>
 * 20-21: [Agile en Seine](https://www.agileenseine.com/) - Paris (France) <a href="https://sessionize.com/agile-en-seine-2022/"><img alt="CFP Agile en Seine" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2025-Jun-2022&color=red"> </a>
 * 20-23: [JCON ONLINE](https://jcon.one/) - Online
+* 21: [GrafanaLive: Paris](https://go2.grafana.com/2022-09_GrafanaLive_Paris.html) - Paris (FR)
 * 21-22: [DevOpsDays Chicago](https://devopsdays.org/chicago) - Chicago, Illinois (USA)
+* 22: [GrafanaLive: Berlin](https://go2.grafana.com/2022-09-22_GrafanaLive_Berlin.html) - Berlin (GE)
+* 22: [GrafanaLive: Toronto](https://go2.grafana.com/2022-09-22-GrafanaLiveToronto.html) - Toronto (CA)
 * 22-24: [Strange Loop 2022](https://thestrangeloop.com) - St. Louis, Missouri (USA) <a href="https://thestrangeloop.com/cfp.html/"><img alt="Strange Loop 2022 CFP" src="https://img.shields.io/static/v1?label=CFP&message=until 20-Apr-2022&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 22-24: [Agile India 2022](https://2022.agileindia.org) - Online (IST)
 * 24: [PyCon Portugal](http://2022.pycon.pt/) - Porto (Portugal)
@@ -51,6 +54,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 26-27: [BigData & AI Paris](https://www.bigdataparis.com/) - Paris (France)
 * 26-28: [GopherCon](https://www.gophercon.com/) - Florida (USA)
 * 26-29: [International JavaScript Conference Hybrid](https://javascript-conference.com/new-york/) - New York (USA) & Online
+* 28: [GrafanaLive: London](https://grafana.com/about/events/grafana-live/2022/london/) - London (GB)
 * 28-29: [DevOps World 2022](https://www.cloudbees.com/c/devops-world-2022-save-the-date) - Orlando, Florida (USA) <a href="https://assets.cloudbees.com/MzMzLVFQVi03MjUAAAGEENe8Ddj2m2ND8y469mGfpl-u3PnjGNmJ2wz1pWCNco6e5XhiUbm3cpDALNvRK1BeUFbLmmQ="><img alt="CFP DevOps World 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2022&color=red"> </a>
 * 29: [Cloud Nord](https://cloudnord.fr/) - Lille (France) <a href="https://conference-hall.io/public/event/wGVYkl21UFxeiuakhKfu"><img alt="CFP Cloud Nord 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=red"> </a>
 * 30: [Mêlée Tech 2022](https://www.meleenumerique.com/) - Toulouse (France) <a href="https://sessionize.com/melee-tech-2022"><img alt="CFP Mêlée Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2022&color=red"> </a>
@@ -95,6 +99,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### November
 
+* 1-2: [ObservabilityCON](https://grafana.com/about/events/observabilitycon/2022) - New York City (US) & Online
 * 2-3: [WordPress Accessibility Day](https://wpaccessibility.day/) - Online <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://wpaccessibility.day/participate/speaking-at-wp-accessibility-day/"><img alt="CFP WP Accessibility Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-August-2022&color=red" /></a>
 * 3: [JFall](https://jfall.nl/) - Netherlands
 * 3: [Data Community Conference](https://www.data-community.ch) - Switzerland
