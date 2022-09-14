@@ -146,7 +146,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 7: [Kubernetes Community Days France](https://community.cncf.io/events/details/cncf-kcd-france-presents-kubernetes-community-days-france-2023/) - Paris (France) <img alt="CFP KCD Paris" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-15%20to%20October-31-2022&color=red">
 * 23: [DevDay](https://www.devday.be/) - Louvain la Neuve (Belgium)
-* 26-31: [QCon London](https://qconlondon.com/) - London (UK)
+* 27-29: [QCon London](https://qconlondon.com/) - London (UK)
 
 ### April
 
