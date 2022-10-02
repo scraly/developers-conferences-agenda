@@ -79,6 +79,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 13-14: [EuroRust](https://eurorust.eu) - Berlin (Germany) & Online <a href="https://www.papercall.io/eurorust-2022"><img alt="CFP EuroRust" src="https://img.shields.io/static/v1?label=CFP&message=%3E28-August-2022&color=red"> </a>
 * 14: [Fyne Conf](https://conf.fyne.io/) - Edinburgh (Scotland) & Online <a href="https://www.papercall.io/fyneconf2022"><img alt="CFP Fyne Conf" src="https://img.shields.io/static/v1?label=CFP&message=%3E09-Sept-2022&color=green"> </a>
 * 16–20: [JavaOne](https://www.oracle.com/cloudworld/javaone/) - Las Vegas, Nevada (USA)
+* 17: [Agile Tour Montpellier 2022](https://agiletourmontpellier.fr/2022/) - Montpellier (France)
 * 18-19: [Dash](https://www.dashcon.io/) - New York (USA) <a href="https://www.dashcon.io/cfp/"><img alt="CFP Dash" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-August-2022&color=red"> </a>
 * 18-19: [FlowCon](https://flowcon.fr/) - Montrouge (France)
 * 19-20: [BaselOne22](https://baselone.ch/one) - Basel (Switzerland) <a href="https://form.typeform.com/to/AYNtbnrl"><img alt="CFP BaselOne22" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-Apr-2022&color=red"> </a>
@@ -104,6 +105,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 3: [JFall](https://jfall.nl/) - Netherlands
 * 3: [Data Community Conference](https://www.data-community.ch) - Switzerland
 * 3-4: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain) <a href="[https://sessionize.com/agile-tour-bordeaux-2022/](https://devops.barcelona/call-for-papers)"><img alt="CFP devops barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2022&color=red"> </a>
+* 3-4: [Agile Tour Nantes 2022](https://agilenantes.org/evenements/agile-tour-nantes/agile-tour-nantais-2022/) - Nantes (France)
 * 8-9: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France) <a href="https://sessionize.com/open-source-experience-2022/"><img alt="CFP Open Source Experience" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Jun-2022&color=red"> </a>
 * 14-16: [OSMC](https://osmc.de/) - Nuremberg (Germany) <a href="https://osmc.de/call-for-papers/"><img alt="CFP OSMC" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=red"> </a>
 * 15-16: [ParisTestConf](https://paristestconf.com/) - Online <a href="https://paristestconf.com/call-for-papers-2022"><img alt="CFP ParisTestConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=red"> </a>
@@ -118,6 +120,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 21: [Java Summit-IL](https://www.javasummitil.com/) - Tel-Aviv (Israel) <a href="https://sessionize.com/javasummit-il-22/"><img alt="CFP Java Summit-IL" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=red"> </a>
 * 22-23: [Kubernetes Community Days UK 2022](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2022/) - London (UK)
 * 22-24: [Kubernetes Community Days Spain 2022](https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2022/) - Spain
+* 23-25: [Agile Grenoble 2022](http://agile-grenoble.org/) - Grenoble (France)
 * 26-27: [Kubernetes Community Days & OpenInfra Days Indonesia 2022](https://community.cncf.io/events/details/cncf-kcd-indonesia-presents-kubernetes-community-days-openinfra-days-indonesia-2022/) - Jakarta (Indonesia)
 * 29-9/12: [QCon Plus](https://plus.qconferences.com/) - Online
 
@@ -132,6 +135,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 7-9: [SREcon22 Asia/Pacific](https://www.usenix.org/srecon) - Sydney (Australia)
 * 14-15: [DevOpsDays Tel-Aviv](https://sessionize.com/devopsdays-tel-aviv-2022/) - Tel-Aviv <a href="https://sessionize.com/devopsdays-tel-aviv-2022/"><img alt="DevOpsDays Tel-Aviv" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2022&color=green"> </a>
 * 14-16: [API Days Paris](https://www.apidays.global/paris/) - Paris (France) & Online
+* 15-16: [Agile Tour Rennes](https://agiletour.agilerennes.org/) - Rennes (France) <a href="https://sessionize.com/agile-tour-rennes-2022/"><img alt="Agile Tour Rennes" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=green"> </a>
 
 ## 2023
 
