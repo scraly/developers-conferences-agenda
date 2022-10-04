@@ -101,6 +101,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 5-8: [DevOpsCon Munich](https://devopscon.io/call-for-papers/) - Munich (Germany) <a href="https://devopscon.io/call-for-papers/"><img alt="CFP DevOpsCon Munich" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-Jun-2022&color=red"> </a>
 * 6-7: [DevRel Con Prague](https://github.com/scraly/developers-conferences-agenda/) - Prague (Czech Republic)
 * 7-9: [SREcon22 Asia/Pacific](https://www.usenix.org/srecon) - Sydney (Australia)
+* 8: [Agile Tour Lausanne 2022](https://www.agilesuisse.ch/agile-tour-lausanne-2022) - Lausanne (Suisse)
 * 14-15: [DevOpsDays Tel-Aviv](https://sessionize.com/devopsdays-tel-aviv-2022/) - Tel-Aviv <a href="https://sessionize.com/devopsdays-tel-aviv-2022/"><img alt="DevOpsDays Tel-Aviv" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2022&color=green"> </a>
 * 14-16: [API Days Paris](https://www.apidays.global/paris/) - Paris (France) & Online
 * 15-16: [Agile Tour Rennes](https://agiletour.agilerennes.org/) - Rennes (France) <a href="https://sessionize.com/agile-tour-rennes-2022/"><img alt="Agile Tour Rennes" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=green"> </a>
