@@ -157,3 +157,4 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 2-6: [QCon San Francisco](https://qconsf.com/) - San Francisco (USA)
 * 10-12: [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Dublin (Ireland)
+* 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont Ferrand (France)
