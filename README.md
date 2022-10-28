@@ -135,7 +135,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### April
 
-* 5-7: [FIC](https://www.forum-fic.com) - Lille Grand Palais (France)
+* 5-7: [FIC](https://europe.forum-fic.com) - Lille Grand Palais (France)
 * 12-14: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 * 12-14: [KotlinConf](https://kotlinconf.com/) - Amsterdam (the Netherlands) <a href="https://sessionize.com/kotlinconf-2023/"><img alt="CFP KotlinConf" src="https://img.shields.io/static/v1?label=CFP&message=until%201-October-2022&color=red"> </a>
 * 17-21: [KubeCon Europe + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - Amsterdam (THE NETHERLANDS) 
