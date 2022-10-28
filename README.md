@@ -138,7 +138,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 12-14: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 * 12-14: [KotlinConf](https://kotlinconf.com/) - Amsterdam (the Netherlands) <a href="https://sessionize.com/kotlinconf-2023/"><img alt="CFP KotlinConf" src="https://img.shields.io/static/v1?label=CFP&message=until%201-October-2022&color=red"> </a>
-* 17-21: [KubeCon Europe + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2023/) - Amsterdam (THE NETHERLANDS)
+* 17-21: [KubeCon Europe + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2023/) - Amsterdam (THE NETHERLANDS)
 * 24-25: [DevOps Days Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
 
 ### May
@@ -162,3 +162,8 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 2-6: [QCon San Francisco](https://qconsf.com/) - San Francisco (USA)
 * 10-12: [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Dublin (Ireland)
 * 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont Ferrand (France)
+
+### November
+
+* 6-10: [KubeCon + CloudNativeCon NA](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Chicago (US)
+
