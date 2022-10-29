@@ -118,6 +118,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### February
 
 * 2: [Very Tech Trip](https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB) - Paris (France) <a href="https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=green"> </a>
+* 2: [AgiLeMans](https://www.agilemans.org/) - Le Mans (France) <a href="https://sessionize.com/7ieme-journee-agile-au-mans-france-e/"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=green"> </a>
 * 4-5: [FOSDEM](https://fosdem.org/2022/news/2022-09-14-fosdem-2023-dates/) - Belgium
 * 9-10: [Latam 2023 DevRelCon](https://latam-2023.devrelcon.dev/) - Online
 * 9-11: [World AI Cannes](https://worldaicannes.com/) - Cannes (France)
@@ -138,7 +139,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 5-7: [FIC](https://europe.forum-fic.com) - Lille Grand Palais (France)
 * 12-14: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 * 12-14: [KotlinConf](https://kotlinconf.com/) - Amsterdam (the Netherlands) <a href="https://sessionize.com/kotlinconf-2023/"><img alt="CFP KotlinConf" src="https://img.shields.io/static/v1?label=CFP&message=until%201-October-2022&color=red"> </a>
-* 17-21: [KubeCon Europe + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - Amsterdam (THE NETHERLANDS) 
+* 17-21: [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - Amsterdam (THE NETHERLANDS) 
 * 24-25: [DevOps Days Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
 
 ### May
@@ -162,3 +163,8 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 2-6: [QCon San Francisco](https://qconsf.com/) - San Francisco (USA)
 * 10-12: [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Dublin (Ireland)
 * 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont Ferrand (France)
+
+### November
+
+* 6-10: [KubeCon + CloudNativeCon NA](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Chicago (US)
+
