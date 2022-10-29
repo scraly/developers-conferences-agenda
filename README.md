@@ -83,6 +83,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 17: [Kubernetes Community Days Italy 2022](https://community.cncf.io/events/details/cncf-kcd-italy-presents-kubernetes-community-days-italy-2022/) - Milan (Italy)
 * 17: [lbc² by leboncoin](https://www.lbc2.fr/) - Paris (France)
 * 18: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/speaker/event/wgaja45IBdGT4sw4CXDB"><img alt="CFP Devfest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=red"> </a>
+* 17-18: [SymfonyCon Disneyland Paris](https://live.symfony.com/2022-paris-con/) Paris (France)
 * 18-19: [DevOpsDays Bengaluru](https://devopsdaysindia.org/) - Bengaluru (India) <a href="https://forms.gle/LmCGgZse3Lp4XNgz9"><img alt="CFP DevOpsDays Bengaluru" src="https://img.shields.io/static/v1?label=CFP&message=until%206-Aug-2022&color=red"> </a>
 * 18-19: [GreHack](https://grehack.fr/) - Grenoble (France) <a href="https://easychair.org/cfp/GreHack2022"><img alt="CFP" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Aug-2022&color=red"> </a>
 * 19-20: [Capitole du Libre](https://capitoledulibre.org/) - Toulouse (France) <a href="https://cfp.capitoledulibre.org/cdl-2022/cfp"><img alt="CFP Capitole du Libre de Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Sep-2022&color=red"> </a>
