@@ -35,7 +35,9 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 3: [Data Community Conference](https://www.data-community.ch) - Switzerland
 * 3-4: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain) <a href="[https://sessionize.com/agile-tour-bordeaux-2022/](https://devops.barcelona/call-for-papers)"><img alt="CFP devops barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2022&color=red"> </a>
 * 3-4: [Agile Tour Nantes 2022](https://agilenantes.org/evenements/agile-tour-nantes/agile-tour-nantais-2022/) - Nantes (France)
+* 3-5: [AsyncAPI Conf](https://conference.asyncapi.com/) - Online
 * 8-9: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France) <a href="https://sessionize.com/open-source-experience-2022/"><img alt="CFP Open Source Experience" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Jun-2022&color=red"> </a>
+* 8-9: [PromCon EU](https://promcon.io/2022-munich/) - Munich (Germany)
 * 14-16: [OSMC](https://osmc.de/) - Nuremberg (Germany) <a href="https://osmc.de/call-for-papers/"><img alt="CFP OSMC" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=red"> </a>
 * 15-16: [ParisTestConf](https://paristestconf.com/) - Online <a href="https://paristestconf.com/call-for-papers-2022"><img alt="CFP ParisTestConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=red"> </a>
 * 15-16: [Agile Tour Toulouse](https://tour.agiletoulouse.fr/) - Toulouse (France) <a href="https://sessionize.com/agile-tour-toulouse-2022/"><img alt="CFP Agile Tour Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Jun-2022&color=red"> </a>
@@ -79,6 +81,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### February
 
+* 1-2: [CloudNative SecurityCon 2023](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) - Seattle (USA)
 * 2: [Very Tech Trip](https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB) - Paris (France) <a href="https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=green"> </a>
 * 2: [AgiLeMans](https://www.agilemans.org/) - Le Mans (France) <a href="https://sessionize.com/7ieme-journee-agile-au-mans-france-e/"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=green"> </a>
 * 4-5: [FOSDEM](https://fosdem.org/2022/news/2022-09-14-fosdem-2023-dates/) - Belgium
