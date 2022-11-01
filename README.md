@@ -90,6 +90,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 7-9: [SREcon22 Asia/Pacific](https://www.usenix.org/srecon) - Sydney (Australia)
 * 8: [Agile Tour Lausanne 2022](https://www.agilesuisse.ch/agile-tour-lausanne-2022) - Lausanne (Suisse)
 * 8: [Open Source in Finance Forum New York](https://events.linuxfoundation.org/open-source-finance-forum-new-york/) -  New York (USA)
+* 10: [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/) - Recife (Brazil)
 * 13-14: [RISC-V Summit](https://events.linuxfoundation.org/riscv-summit/) -  San Jose (USA)
 * 14-15: [DevOpsDays Tel-Aviv](https://sessionize.com/devopsdays-tel-aviv-2022/) - Tel-Aviv <a href="https://sessionize.com/devopsdays-tel-aviv-2022/"><img alt="DevOpsDays Tel-Aviv" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2022&color=red"> </a>
 * 14-16: [API Days Paris](https://www.apidays.global/paris/) - Paris (France) & Online
@@ -116,8 +117,11 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### March
 
+* 3-4: [DevOps Days Goiana](https://devopsdays.org/events/2023-goiania/welcome/) - Goiana (Brazil)
 * 7: [Kubernetes Community Days France](https://community.cncf.io/events/details/cncf-kcd-france-presents-kubernetes-community-days-france-2023/) - Paris (France) <img alt="CFP KCD Paris" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-15%20to%20November-13-2022&color=green">
+* 10: [DevOps Days Los Angeles](https://devopsdays.org/events/2023-los-angeles/welcome/) - Los Angeles (USA)
 * 13-14: [Cassandra Summit](hhttps://events.linuxfoundation.org/cassandra-summit/) - San Jose (USA)
+* 14-15: [DevOps Days Salt Lake City](https://devopsdays.org/events/2023-salt-lake-city/welcome/) - Salt Lake City (USA)
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)<img alt="CFP VDZ" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-10%20to%20November-16-2022&color=green">
 * 23: [DevDay](https://www.devday.be/) - Louvain la Neuve (Belgium)
 * 23-24: [Wasm I/O](https://wasmio.tech) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio23"><img alt="CFP Wasm I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-January-2023&color=green"></a>
@@ -127,19 +131,28 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### April
 
 * 5-7: [FIC](https://europe.forum-fic.com) - Lille Grand Palais (France)
+* 6-7: [DevOps Days Nashville](https://devopsdays.org/events/2023-nashville/welcome/) - Nashville (USA)
 * 12-14: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 * 12-14: [KotlinConf](https://kotlinconf.com/) - Amsterdam (the Netherlands) <a href="https://sessionize.com/kotlinconf-2023/"><img alt="CFP KotlinConf" src="https://img.shields.io/static/v1?label=CFP&message=until%201-October-2022&color=red"> </a>
-* 17-21: [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - Amsterdam (Netherlands) 
+* 17-21: [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - Amsterdam (Netherlands)
+* 18-19: [DevOps Days Tokyo](https://devopsdays.org/events/2023-tokyo/welcome/) - Tokyo (Japan)
+* 20-21: [DevOps Days Birmingham AL](https://devopsdays.org/events/2023-birmingham-al/welcome/) - Birmingham (USA)
+* 23-25: [DevOps Days Denver](https://devopsdays.org/events/2023-denver/welcome/) - Denver (USA)
 * 24-25: [DevOps Days Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
+* 28-29: [DevOps Days Caceres](https://devopsdays.org/events/2023-caceres/welcome/) - Caceres (Spain)
 
 ### May
+
 * ??: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
+* 3-4: [DevOps Days Zurich](https://devopsdays.org/events/2023-zurich/welcome/) - Zurich (Switzerland)
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
 * 23-25: [Web À Québec](https://webaquebec.org/) - Quebec City (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/vgbK9zTW"><img alt="CFP WAQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=green"></a>
 
 ### June
 
-* 20-23: [JCON PEOPLE](https://jcon.one/) - Düsseldorf, Germany 
+* 15-16: [DevOps Days Birmingham UK](https://devopsdays.org/events/2023-birmingham-uk/welcome/) - Birmingham (UK)
+* 20-23: [JCON PEOPLE](https://jcon.one/) - Düsseldorf, Germany
+* 21-23: [DevOps Days Amsterdam](https://devopsdays.org/events/2023-amsterdam/welcome/) - Amsterdam (Netherlands)
 
 ### July
 
@@ -148,10 +161,12 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### September
 
 * 21-23: [Strange Loop 2023](https://thestrangeloop.com) - St. Louis, Missouri (USA)
+* 27: [DevOps Days Cairo](https://devopsdays.org/events/2023-cairo/welcome/) - Cairo (Egypt)
 
 ### October
 
 * 2-6: [QCon San Francisco](https://qconsf.com/) - San Francisco (USA)
+* 5-6: [DevOps Days Indianapolis](https://devopsdays.org/events/2023-indianapolis/welcome/) - Indianapolis (USA)
 * 10-12: [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Dublin (Ireland)
 * 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont Ferrand (France)
 
