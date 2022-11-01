@@ -35,7 +35,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 3: [Data Community Conference](https://www.data-community.ch) - Switzerland
 * 3-4: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain) <a href="[https://sessionize.com/agile-tour-bordeaux-2022/](https://devops.barcelona/call-for-papers)"><img alt="CFP devops barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2022&color=red"> </a>
 * 3-4: [Agile Tour Nantes 2022](https://agilenantes.org/evenements/agile-tour-nantes/agile-tour-nantais-2022/) - Nantes (France)
-* 3-4: [PyCon Sweden](https://www.pycon.se/) - Stockhlm (Sweden)
+* 3-4: [PyCon Sweden](https://www.pycon.se/) - Stockholm (Sweden)
 * 3-5: [AsyncAPI Conf](https://conference.asyncapi.com/) - Online
 * 8-9: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France) <a href="https://sessionize.com/open-source-experience-2022/"><img alt="CFP Open Source Experience" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Jun-2022&color=red"> </a>
 * 8-9: [PromCon EU](https://promcon.io/2022-munich/) - Munich (Germany)
