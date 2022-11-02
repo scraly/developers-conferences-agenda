@@ -1,0 +1,70 @@
+<html>
+	<head>
+		<title>Developers Conferences Agenda</title>
+		<meta charset="UTF-8">
+		<meta name="description" content="This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees">
+		<meta name="keywords" content="">
+		<meta name="author" content="Aurelie Vache, et al.">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<script src="/js/general.js"></script>
+		<script src="/js/calendar.js"></script>
+	</head>
+	<body>
+		<nav>
+			<h2>Developers Conferences Agenda</h2>
+		</nav>
+
+		<article>
+			<!-- Big Year Label -->
+			<div>
+				<a class=""><ion-icon name="caret-back-circle-outline"></ion-icon></a>
+				<div>
+					<span class="big">2022</span>
+				</div>
+				<a class=""><ion-icon name="caret-forward-circle-outline"></ion-icon></a>
+				<script src="/js/changeYear.js"></script>
+			</div>
+
+			<!-- Calendar Grid -->
+			<div>
+				<div class="calendar">
+					<div class="month-label">
+						<span>January</span>
+					</div>
+					<div class="days-label">
+						<span>Mo</span>
+						<span>Tu</span>
+						<span>We</span>
+						<span>Th</span>
+						<span>Fr</span>
+						<span>Sa</span>
+						<span>Su</span>
+					</div>
+					<div class="date-grid">
+						<div class="week" data-week="0">
+							<div class="empty-date-fill" data-span="5"></div>
+							<div class="date" data-intensity="1"><span>1</span></div>
+							<div class="date"><span>2</span></div>
+						</div>
+						<!-- ... -->
+						<div class="week" data-week="5">
+							<div class="date" data-intensity="10"><span>31</span></div>
+							<div class="empty-date-fill" data-span="6"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- Detail Box -->
+			<div>
+				<!-- TODO: This can be more interactive, just need some ideas. -->
+				<ul id="entries"></ul>
+			</div>
+		</article>
+
+		<footer></footer>
+
+		<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+	</body>
+</html>

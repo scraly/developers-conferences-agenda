@@ -1,0 +1,25 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "description": "Vanilla on framework template for general frontend projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js",
+    "serve": "cd dist && php -S localhost:8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dot-six/frontend.git"
+  },
+  "author": "Hanz",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dot-six/frontend/issues"
+  },
+  "homepage": "https://github.com/dot-six/frontend#readme",
+  "devDependencies": {
+    "@swc/core": "^1.2.196",
+    "sass": "^1.52.2"
+  }
+}
