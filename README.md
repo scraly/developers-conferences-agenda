@@ -33,7 +33,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 2-3: [WordPress Accessibility Day](https://wpaccessibility.day/) - Online <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://wpaccessibility.day/participate/speaking-at-wp-accessibility-day/"><img alt="CFP WP Accessibility Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-August-2022&color=red" /></a>
 * 3: [JFall](https://jfall.nl/) - Netherlands
 * 3: [Data Community Conference](https://www.data-community.ch) - Switzerland
-* 3-4: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain) <a href="[https://sessionize.com/agile-tour-bordeaux-2022/](https://devops.barcelona/call-for-papers)"><img alt="CFP devops barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2022&color=red"> </a>
+* 3-4: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain) <a href="https://devops.barcelona/call-for-papers"><img alt="CFP devops barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2022&color=red"> </a>
 * 3-4: [Agile Tour Nantes 2022](https://agilenantes.org/evenements/agile-tour-nantes/agile-tour-nantais-2022/) - Nantes (France)
 * 3-4: [PyCon Sweden](https://www.pycon.se/) - Stockholm (Sweden)
 * 3-5: [AsyncAPI Conf](https://conference.asyncapi.com/) - Online
@@ -46,7 +46,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 15-16: [Agile Tour Toulouse](https://tour.agiletoulouse.fr/) - Toulouse (France) <a href="https://sessionize.com/agile-tour-toulouse-2022/"><img alt="CFP Agile Tour Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Jun-2022&color=red"> </a>
 * 15-16: [ONE Summit](https://events.linuxfoundation.org/one-summit-north-america/) - Seattle (USA)
 * 16-17: [NODES 2022 (Neo4j Online Developer Expo and Summit)](https://neo4j.com/nodes-2022/) - Online <a href="https://sessionize.com/neo4j-nodes-2022/"><img alt="Neo4j Online Developer Expo and Summit)" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-Aug-2022&color=red"> </a>
-* 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France) <a href="[https://sessionize.com/agile-tour-toulouse-2022/](https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq)"><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /><img alt="CFP codeur en seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-Sept-2022&color=red"> </a>
+* 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France) <a href="https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq"><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /><img alt="CFP codeur en seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-Sept-2022&color=red"> </a>
 * 17: [Kubernetes Community Days Italy 2022](https://community.cncf.io/events/details/cncf-kcd-italy-presents-kubernetes-community-days-italy-2022/) - Milan (Italy)
 * 17: [lbc² by leboncoin](https://www.lbc2.fr/) - Paris (France)
 * 17-18: [LFN Developer & Testing Forum](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=68786848) - Seattle (USA)
@@ -67,7 +67,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 1: [Devops DDay #7](https://2022.devops-dday.com/) - Marseille (France) <a href="https://conference-hall.io/public/event/eKYGzptI6y44zoS8sGUz"><img alt="CFP Devops DDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2022&color=red"> </a>
 * 2: [BDX I/O](https://www.bdxio.fr/) - Bordeaux (France) <a href="https://conference-hall.io/public/event/OJC5Ou5YJodfetgSJCa3"><img alt="CFP BDX I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=red"> </a>
-* 2: [DevFest Dijon 2022](https://www.linkedin.com/posts/developers-group-dijon_apr%C3%A8s-des-%C3%A9changes-avec-google-le-developers-activity-6973555910140903424-rjRH/) - Dijon (France) <a href="[https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn](https://conference-hall.io/public/event/cXWCepNzXVWwb1i6ktVA)"><img alt="CFP DevFest Dijon 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-October-2022&color=red"> </a>
+* 2: [DevFest Dijon 2022](https://www.linkedin.com/posts/developers-group-dijon_apr%C3%A8s-des-%C3%A9changes-avec-google-le-developers-activity-6973555910140903424-rjRH/) - Dijon (France) <a href="https://conference-hall.io/public/event/cXWCepNzXVWwb1i6ktVA"><img alt="CFP DevFest Dijon 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-October-2022&color=red"> </a>
 * 2-3: [Oπe\n Conf Athens 2022](https://www.open-conf.gr/) - Athens (Greece) <a href="https://sessionize.com/open_conf/"><img alt="CFP Oπe\n Conf Athens 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Aug-2022&color=red"> </a>
 * 5-6: [Automotive Linux Summit](https://events.linuxfoundation.org/open-source-summit-japan/about/automotive-linux-summit/) - Yokohama (Japan) & Online
 * 5-6: [CloudOpen Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/cloudopen/) - Yokohama (Japan) & Online
