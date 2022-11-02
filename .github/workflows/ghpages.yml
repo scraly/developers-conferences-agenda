@@ -1,0 +1,31 @@
+name: Deploy GitHub Pages
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 14
+          cache: npm
+      - working-directory: page
+        run: npm install -D
+      - working-directory: page
+        run: npm run build
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: gh-pages
+          build_dir: page/dist/
+          keep_history: true
+          fqdn: developers.events # CNAME
+          jekyll: false # Solve website 404
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
