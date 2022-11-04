@@ -59,6 +59,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 22-23: [Kubernetes Community Days UK 2022](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2022/) - London (UK)
 * 22-24: [Kubernetes Community Days Spain 2022](https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2022/) - Spain
 * 23-25: [Agile Grenoble 2022](http://agile-grenoble.org/) - Grenoble (France)
+* 25: [HACK-IT-N 2022](https://hack-it-n.com/) - Bordeaux (France)
 * 26-27: [Kubernetes Community Days & OpenInfra Days Indonesia 2022](https://community.cncf.io/events/details/cncf-kcd-indonesia-presents-kubernetes-community-days-openinfra-days-indonesia-2022/) - Jakarta (Indonesia)
 * 29-1/12: [Yocto Project Summit](https://yoctoproject.org/summit) - Online
 * 29-9/12: [QCon Plus](https://plus.qconferences.com/) - Online
