@@ -37,6 +37,18 @@ window.ElementSoup = class ElementSoup {
 		return this.attribute(`data-${name}`, value, del);
 	}
 
+	child(child) {
+		if (child.export) child = child.export();
+
+		this._e.appendChild(child);
+		return this;
+	}
+
+	text(text) {
+		this._e.innerText = text;
+		return this;
+	}
+
 	export() {
 		return this._e;
 	}

@@ -1,0 +1,36 @@
+#calendar-grid {
+	display: flex;
+	flex-flow: row wrap;
+	gap: 1rem;
+	justify-content: center;
+}
+
+.calendar {
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+	background: gray;
+	border-radius: 3px;
+}
+
+.days-label {
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+
+	> span {
+		padding: 5px;
+	}
+}
+
+.date-grid {
+	> .week {
+		display: grid;
+		grid-template-columns: repeat(7, 1fr);
+
+		> .date {
+			padding: 5px;
+			display: block;
+			text-align: center;
+		}
+	}
+}
