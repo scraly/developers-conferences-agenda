@@ -11,11 +11,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Setup Node
-        working-directory: page
         uses: actions/setup-node@v3
         with:
           node-version: 14
           cache: npm
+          cache-dependency-path: '**/package-lock.json'
       - working-directory: page
         run: npm install -D
       - working-directory: page
