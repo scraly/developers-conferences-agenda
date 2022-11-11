@@ -75,7 +75,23 @@ def parse_hyperlink(s):
 	return final, s[counter:]
 
 def parse_location(s):
-	pass
+	# TODO: This is harder than i thought. Seeking community help.
+
+	#  - testing - City (Place) <a></a>
+	# ^-^-- [1]                 ^-- [2] This thing
+
+	# [1]
+	s = s[3:]
+
+	# [2]
+	symbolLocation = [None, len(s)]
+	try:
+		symbolLocation = [s.index('<')] * 2
+	except ValueError:
+		# Substring not found
+		...
+
+	return s[:symbolLocation[0]], s[symbolLocation[1]:]
 
 def normalize_source(s):
 	if s == "README":
@@ -104,6 +120,10 @@ def main():
 		year = -1
 		month = -1
 		for line in sourceFile:
+			# Remove redundant new line
+			if line[-1] == '\n':
+				line = line[:-1]
+
 			# Check for year change
 			if line.startswith('## '):
 				y = line[3:].split(' ')[0].strip()
@@ -154,7 +174,7 @@ def main():
 			hyperlink, _n = parse_hyperlink(_n)
 			location, misc = parse_location(_n)
 
-			print(f"{date}, {eventName}, {hyperlink}, {location}")
+			print(f"{date}, {eventName}, {hyperlink}, {location}, {misc}")
 
 if __name__ == "__main__":
 	main()
