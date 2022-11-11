@@ -2,6 +2,7 @@ import sys
 import os
 import os.path as path
 from datetime import datetime
+import json
 
 MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 
@@ -48,10 +49,10 @@ def parse_date(y, m, s):
 		else:
 			datEnd = datetime(y, m, int(components[1]))
 
-	return range(
+	return [
 		int(datStart.timestamp()),
 		int(datEnd.timestamp()) + 1
-	)
+	]
 
 def parse_event_name(s):
 	counter = 0
@@ -209,7 +210,7 @@ def main():
 	# Finished parsing
 	# Let's go!
 	if output == '-':
-		print(data)
+		print(json.dumps(data))
 
 if __name__ == "__main__":
 	main()
