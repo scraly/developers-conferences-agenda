@@ -23,14 +23,23 @@
 }
 
 .date-grid {
+	display: flex;
+	flex-direction: column;
+	gap: 2px;
+
 	> .week {
 		display: grid;
 		grid-template-columns: repeat(7, 1fr);
+		gap: 2px;
 
 		> .date {
 			padding: 5px;
 			display: block;
 			text-align: center;
+
+			background: #626262;
+			border-radius: 3px;
+			color: white;
 		}
 	}
 }

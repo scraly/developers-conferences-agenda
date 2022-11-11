@@ -97,4 +97,4 @@ function renderYear(year) {
 	}
 }
 
-window.sc = renderYear;
+window.renderYear = renderYear;
