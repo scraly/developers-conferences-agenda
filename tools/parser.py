@@ -134,9 +134,10 @@ def main():
 		print_usage()
 
 	# Give default value
-	argv.append(f"{argv[0]}.json")
+	argv.append(f"-")
 
 	# Start process
+	data = list()
 	source = normalize_source(argv[0])
 	output = argv[1]
 	with open(source) as sourceFile:
@@ -197,7 +198,18 @@ def main():
 			hyperlink, _n = parse_hyperlink(_n)
 			location, misc = parse_location(_n)
 
-			print(f"{date}, {eventName}, {hyperlink}, {location}, {misc}")
+			data.push({
+				"name": eventName,
+				"date": date,
+				"hyperlink": hyperlink,
+				"location": location,
+				"misc": misc
+			})
+
+	# Finished parsing
+	# Let's go!
+	if output == '-':
+		print(data)
 
 if __name__ == "__main__":
 	main()
