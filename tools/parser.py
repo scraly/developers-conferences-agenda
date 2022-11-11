@@ -10,6 +10,9 @@ def print_usage():
 	print("[outputFile] defaults to stdout")
 	exit(1)
 
+def parse_date(s):
+	pass
+
 def parse_event_name(s):
 	pass
 
@@ -56,9 +59,14 @@ def main():
 			for ch in line[1:]:
 				if ch in ' \t':
 					already_white_space += 1
+					continue
+
 				if ch.isnumeric() and already_white_space:
 					# Got it, this is valid
 					invalid_flag_1 = False
+					break
+				elif not ch.isnumeric():
+					# Invalid
 					break
 
 			# If the line is invalid, drop it.
