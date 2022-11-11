@@ -7,7 +7,7 @@ def print_usage():
 	print("python3 parser.py <year> [outputFile]")
 	print()
 	print("<year> could be \"README\" to parse main README file.")
-	print("[outputFile] defaults to <year>.json as output")
+	print("[outputFile] defaults to stdout")
 	exit(1)
 
 def parse_event_name(s):
@@ -38,8 +38,6 @@ def main():
 
 	# Give default value
 	argv.append(f"{argv[0]}.json")
-	if not path.exists(path.realpath(argv[1])):
-		print_usage()
 
 	# Start process
 	source = normalize_source(argv[0])
