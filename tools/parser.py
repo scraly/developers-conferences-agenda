@@ -45,7 +45,7 @@ def main():
 	with open(source) as sourceFile:
 		for line in sourceFile:
 			# Check if line doesn't starts with '*'
-			if not line.startsWith('*'):
+			if not line.startswith('*'):
 				continue
 
 			# TODO: Can't we just use RegEx?
