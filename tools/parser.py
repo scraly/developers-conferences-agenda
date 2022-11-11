@@ -53,7 +53,26 @@ def parse_event_name(s):
 	return final, s[counter:]
 
 def parse_hyperlink(s):
-	pass
+	counter = 0
+	final = ''
+	escapedState = False
+
+	# s[1:] to skip prefix '[' in Markdown
+	counter += 1
+	for ch in s[1:]:
+		counter += 1
+		if ch == '\\':
+			escapedState = True
+			continue
+		if escapedState:
+			final += ch
+		elif ch != ')':
+			final += ch
+		elif ch == ')':
+			# Done.
+			break
+
+	return final, s[counter:]
 
 def parse_location(s):
 	pass
@@ -128,10 +147,8 @@ def main():
 
 			# Now we have a valid line...
 			# Parse them into: range(start, end+1), eventName, hyperlink, location, misc.
-#			print(line[already_white_space:].split(': '))
 			date, _n = line[already_white_space:].split(': ')
 			date = parse_date(year, month, date)
-#			print(date)
 
 			eventName, _n = parse_event_name(_n)
 			hyperlink, _n = parse_hyperlink(_n)
