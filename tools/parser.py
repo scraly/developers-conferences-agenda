@@ -133,7 +133,7 @@ def main():
 			if line.startswith('### '):
 				_month = line[4:].split(' ')[0].strip()
 				if _month in MONTHS:
-					month = MONTHS.index(_month)
+					month = MONTHS.index(_month) + 1
 
 			# Check if line doesn't starts with '*'
 			if not line.startswith('*'):
