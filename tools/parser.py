@@ -1,6 +1,9 @@
 import sys
 import os
 import os.path as path
+from datetime import datetime
+
+MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 
 def print_usage():
 	print("USAGE:")
@@ -10,8 +13,22 @@ def print_usage():
 	print("[outputFile] defaults to stdout")
 	exit(1)
 
-def parse_date(s):
-	pass
+def parse_date(y, m, s):
+	components = s.split('-')
+
+	# components == ['4']
+	if len(components) == 1:
+		start = int(components[0])
+		end = start + 1
+	# components == ['4', '5']
+	elif len(components) == 2:
+		start = int(components[0])
+		end = int(components[1])
+
+	return range(
+		int(datetime(y, m, start).timestamp()),
+		int(datetime(y, m, end).timestamp()) + 1
+	)
 
 def parse_event_name(s):
 	pass
@@ -46,7 +63,20 @@ def main():
 	source = normalize_source(argv[0])
 	output = argv[1]
 	with open(source) as sourceFile:
+		year = -1
+		month = -1
 		for line in sourceFile:
+			# Check for year change
+			if line.startswith('## '):
+				y = line[3:].split(' ')[0].strip()
+				if y.isnumeric():
+					year = int(y)
+			# Check for month change
+			if line.startswith('### '):
+				_month = line[4:].split(' ')[0].strip()
+				if _month in MONTHS:
+					month = MONTHS.index(_month)
+
 			# Check if line doesn't starts with '*'
 			if not line.startswith('*'):
 				continue
@@ -79,8 +109,10 @@ def main():
 
 			# Now we have a valid line...
 			# Parse them into: range(start, end+1), eventName, hyperlink, location, misc.
+#			print(line[already_white_space:].split(': '))
 			date, _n = line[already_white_space:].split(': ')
-			date = parse_date(date)
+			date = parse_date(year, month, date)
+#			print(date)
 
 			eventName, _n = parse_event_name(_n)
 			hyperlink, _n = parse_hyperlink(_n)
