@@ -13,21 +13,44 @@ def print_usage():
 	print("[outputFile] defaults to stdout")
 	exit(1)
 
+def parse_extended_date(s):
+	day, month = s.split('/')
+	# TODO: Check if str.isnumeric()
+
+	return int(day), int(month)
+
 def parse_date(y, m, s):
+	datStart = datetime(y, m, 1)
+	datEnd = datetime(y, m, 1)
 	components = s.split('-')
 
+	# Is there any way this could be better for the eyes?
 	# components == ['4']
 	if len(components) == 1:
-		start = int(components[0])
-		end = start + 1
+		if '/' in components[0]:
+			_d, _m = parse_extended_date(components[0])
+			datStart = datetime(y, _m, _d)
+			datEnd = datetime(y, _m, _d)
+		else:
+			datStart = datetime(y, m, int(components[0]))
+			datEnd = datetime(y, m, int(components[0]))
 	# components == ['4', '5']
 	elif len(components) == 2:
-		start = int(components[0])
-		end = int(components[1])
+		if '/' in components[0]:
+			_d, _m = parse_extended_date(components[0])
+			datStart = datetime(y, _m, _d)
+		else:
+			datStart = datetime(y, m, int(components[0]))
+
+		if '/' in components[1]:
+			_d, _m = parse_extended_date(components[1])
+			datEnd = datetime(y, _m, _d)
+		else:
+			datEnd = datetime(y, m, int(components[1]))
 
 	return range(
-		int(datetime(y, m, start).timestamp()),
-		int(datetime(y, m, end).timestamp()) + 1
+		int(datStart.timestamp()),
+		int(datEnd.timestamp()) + 1
 	)
 
 def parse_event_name(s):
