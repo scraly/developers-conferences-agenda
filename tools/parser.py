@@ -15,7 +15,11 @@ def parse_location(s):
 	pass
 
 def normalize_source(s):
-	pass
+	if s == "README":
+		return "../README.md"
+
+	# `s` already filtered with str.isnumeric at main()
+	return f"../archives/{s}.md"
 
 def main():
 	argv = sys.argv[1:]
