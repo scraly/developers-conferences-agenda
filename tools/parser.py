@@ -198,7 +198,7 @@ def main():
 			hyperlink, _n = parse_hyperlink(_n)
 			location, misc = parse_location(_n)
 
-			data.push({
+			data.append({
 				"name": eventName,
 				"date": date,
 				"hyperlink": hyperlink,
