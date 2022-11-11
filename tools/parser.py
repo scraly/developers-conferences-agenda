@@ -190,7 +190,7 @@ def main():
 
 			# Now we have a valid line...
 			# Parse them into: range(start, end+1), eventName, hyperlink, location, misc.
-			date, _n = line[already_white_space:].split(': ')
+			date, _n = line[already_white_space:].split(': ', maxsplit=1)
 			date = parse_date(year, month, date)
 
 			eventName, _n = parse_event_name(_n)
