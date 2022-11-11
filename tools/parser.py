@@ -31,7 +31,26 @@ def parse_date(y, m, s):
 	)
 
 def parse_event_name(s):
-	pass
+	counter = 0
+	final = ''
+	escapedState = False
+
+	# s[1:] to skip prefix '[' in Markdown
+	counter += 1
+	for ch in s[1:]:
+		counter += 1
+		if ch == '\\':
+			escapedState = True
+			continue
+		if escapedState:
+			final += ch
+		elif ch != ']':
+			final += ch
+		elif ch == ']':
+			# Done.
+			break
+
+	return final, s[counter:]
 
 def parse_hyperlink(s):
 	pass
