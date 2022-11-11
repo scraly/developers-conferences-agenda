@@ -30,6 +30,7 @@ mkdirSync(dist.scss, { recursive: true });
 if (existsSync(src.scss)) {
 	for (const filename of readdirSync(src.scss)) {
 		let srcName = path.resolve(src.scss, filename);
+		if (!srcName.endsWith('.scss')) continue;
 		console.log("[*] Compiling", srcName);
 		let { css } = compile(srcName, opts);
 		let outputName = filename.replace('scss', 'css');
