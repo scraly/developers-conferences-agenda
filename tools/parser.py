@@ -3,7 +3,12 @@ import os
 import os.path as path
 
 def print_usage():
-	pass
+	print("USAGE:")
+	print("python3 parser.py <year> [outputFile]")
+	print()
+	print("<year> could be \"README\" to parse main README file.")
+	print("[outputFile] defaults to <year>.json as output")
+	exit(1)
 
 def parse_event_name(s):
 	pass
