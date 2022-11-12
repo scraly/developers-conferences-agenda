@@ -30,3 +30,6 @@ outputFile whose value is "-" are going to stdout.
 #### Known Issues
  - [ ] Localized symbols may interfere with parser. (e.g. JavaOne @ 2022.md)
  - [ ] No `:` after schedule date interefere with parser. (e.g. Voxxed Melbourne @ 2019.md)
+
+## combine.py
+Combines json files. Used to compile `all-events.json` file.
