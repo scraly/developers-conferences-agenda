@@ -49,6 +49,11 @@ window.ElementSoup = class ElementSoup {
 		return this;
 	}
 
+	html(ml) {
+		this._e.innerHTML = ml;
+		return this;
+	}
+
 	export() {
 		return this._e;
 	}
