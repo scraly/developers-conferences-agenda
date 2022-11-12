@@ -81,6 +81,11 @@ function renderYear(year) {
 				    .class('date')
 				    .data('intensity', events.length)
 				    .child(new ElementSoup('span').text(dat.getDate()));
+
+			// Add click event
+			dcomp._e.addEventListener('click', ondateclick.bind(window, events));
+
+			// Finally, append child to wekgrid.
 			weekgrid.child(dcomp);
 
 			// If it is Sunday, incrmnt week
@@ -96,6 +101,26 @@ function renderYear(year) {
 
 		cal.child(dgrid);
 		grid.appendChild(cal.export());
+	}
+}
+
+function ondateclick(events, e) {
+	let ul = $('#entries');
+	ul.innerHTML = '';
+
+	for (const event of events) {
+		ul.appendChild(
+			new ElementSoup('li')
+			.child(new ElementSoup('a')
+				.attribute('href', event.hyperlink)
+				.text(event.name)
+			)
+			.child(new ElementSoup('span')
+				.text(event.location)
+				// XXX: WARN: TODO: I anticipate no XSS
+				.html(event.misc)
+			).export()
+		);
 	}
 }
 
