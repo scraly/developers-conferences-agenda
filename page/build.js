@@ -8,13 +8,15 @@ let src = {
 	scss: path.resolve(__dirname, "src/", "scss/"),
 	js: path.resolve(__dirname, "src/", "js/"),
 	imgs: path.resolve(__dirname, "src/", "imgs/"),
-	html: path.resolve(__dirname, "src/")
+	html: path.resolve(__dirname, "src/"),
+	misc: path.resolve(__dirname, "src/", "misc/")
 };
 let dist = {
 	scss: path.resolve(__dirname, "dist/", "css/"),
 	js: path.resolve(__dirname, "dist/", "js/"),
 	imgs: path.resolve(__dirname, "dist/", "imgs/"),
-	html: path.resolve(__dirname, "dist/")
+	html: path.resolve(__dirname, "dist/"),
+	misc: path.resolve(__dirname, "dist/", "misc/"),
 };
 let opts;
 
@@ -85,6 +87,19 @@ if (existsSync(src.html)) {
 		let srcName = path.resolve(src.html, filename);
 		console.log("[*] Exporting", srcName);
 		let outputName = path.resolve(dist.html, filename);
+		copyFileSync(srcName, outputName);
+	}
+}
+
+////////////////////////////
+// Misc. Assets
+////////////////////////////
+mkdirSync(dist.misc, { recursive: true });
+if (existsSync(src.misc)) {
+	for (const filename of readdirSync(src.misc)) {
+		let srcName = path.resolve(src.misc, filename);
+		console.log("[*] Exporting", srcName);
+		let outputName = path.resolve(dist.misc, filename);
 		copyFileSync(srcName, outputName);
 	}
 }
