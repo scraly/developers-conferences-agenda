@@ -16,10 +16,29 @@ jobs:
           node-version: 14
           cache: npm
           cache-dependency-path: '**/package-lock.json'
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.8'
+      - name: Parse Markdowns
+        working-directory: tools
+        run: |
+          python3 parser.py README > readme.json
+          python3 parser.py 2017 > 2017.json
+          python3 parser.py 2018 > 2018.json
+          python3 parser.py 2019 > 2019.json
+          python3 parser.py 2020 > 2020.json
+          python3 parser.py 2021 > 2021.json
+          python3 parser.py 2022 > 2022.json
       - working-directory: page
         run: npm install -D
       - working-directory: page
         run: npm run build
+      - name: Combine JSONs
+        working-directory: tools
+        run: |
+          python3 combine.py *.json > all-events.json
+          mv all-events.json ../page/dist/misc/all-events.json
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
