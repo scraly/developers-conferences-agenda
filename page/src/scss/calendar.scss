@@ -1,6 +1,11 @@
 @use "sass:color";
 @use "sass:math";
 
+/* Sorry, i couldn't come up with better names */
+$datecolor: #626262;
+$datenonintensecolor: #323232;
+$dateintensecolor: #fff;
+
 #calendar-grid {
 	display: flex;
 	flex-flow: row wrap;
@@ -49,15 +54,15 @@
 			display: block;
 			text-align: center;
 
-			background: #626262;
+			background: $datecolor;
 			border-radius: 3px;
 			color: white;
 
 			@for $i from 0 through 10 {
 				&[data-intensity="#{$i}"] {
-					background: color.change(#626262, $alpha: calc(0.1 * $i));
-					color: color.adjust(#626262, $lightness: calc($i * 10 * (1%)));
-					border: 1px solid color.change(#626262, $alpha: math.clamp(0, calc(0.8 - (0.1 * $i)), 1));
+					background: color.change($datecolor, $lightness: calc(100% - $i * (10%)));
+					color: if($i > 5, $dateintensecolor, $datenonintensecolor);
+					border: 1px solid color.change($datecolor, $alpha: math.clamp(0, calc(0.8 - (0.1 * $i)), 1));
 				}
 			}
 		}
