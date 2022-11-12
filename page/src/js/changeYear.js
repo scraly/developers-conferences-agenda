@@ -4,13 +4,13 @@
 	prev.addEventListener('click', () => {
 		selectedYear--;
 		$('#yearLabel').innerText = String(selectedYear);
-		renderYear(selectedYear);
+		renderer.render(selectedYear);
 	});
 	next.addEventListener('click', () => {
 		selectedYear++;
 		$('#yearLabel').innerText = String(selectedYear);
-		renderYear(selectedYear);
+		renderer.render(selectedYear);
 	});
 
-	document.addEventListener('DOMContentLoaded', renderYear.bind(window, selectedYear));
+	renderer.onready = renderer.render.bind(renderer, selectedYear);
 })();

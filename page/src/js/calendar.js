@@ -5,9 +5,11 @@ const months = [
 ];
 const days = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'];
 
-function getEventsOn() {
-	// TODO: getEventsOn
-	return 0;
+async function getEvents() {
+	let res = await fetch('/misc/all-events.json');
+	let data = await res.json();
+
+	return data;
 }
 
 function initDate(year) {
@@ -74,10 +76,10 @@ function renderYear(year) {
 			weekEmptiness = true;
 
 			// Create day
-			let events = getEventsOn(dat);
+			let events = this.getEventsOn(dat);
 			let dcomp = new ElementSoup('div')
 				    .class('date')
-				    .data('intensity', events)
+				    .data('intensity', events.length)
 				    .child(new ElementSoup('span').text(dat.getDate()));
 			weekgrid.child(dcomp);
 
@@ -97,4 +99,32 @@ function renderYear(year) {
 	}
 }
 
-window.renderYear = renderYear;
+class Renderer {
+	constructor() {
+		this.events = [];
+		getEvents().then(data => {
+			this.events = this.events.concat(data);
+			if (typeof this.onready === 'function') this.onready();
+		});
+	}
+
+	render(year) {
+		renderYear.call(this, year);
+	}
+
+	getEventsOn(date) {
+		let today = [];
+		let time = Math.floor(date.getTime() / 1000);
+		for (const event of this.events) {
+			// If between event date
+			// TODO: Optimization possible: Our dates from all-events.json are sorted, so drop anything that is `event.date[1] > time` by breaking the loop
+			if (event.date[0] <= time && time <= event.date[1]) {
+				today.push(event);
+			}
+		}
+
+		return today;
+	}
+}
+
+window.renderer = new Renderer();
