@@ -71,6 +71,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 2: [BDX I/O](https://www.bdxio.fr/) - Bordeaux (France) <a href="https://conference-hall.io/public/event/OJC5Ou5YJodfetgSJCa3"><img alt="CFP BDX I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=red"> </a>
 * 2: [DevFest Dijon 2022](https://www.linkedin.com/posts/developers-group-dijon_apr%C3%A8s-des-%C3%A9changes-avec-google-le-developers-activity-6973555910140903424-rjRH/) - Dijon (France) <a href="https://conference-hall.io/public/event/cXWCepNzXVWwb1i6ktVA"><img alt="CFP DevFest Dijon 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-October-2022&color=red"> </a>
 * 2-3: [Oπe\n Conf Athens 2022](https://www.open-conf.gr/) - Athens (Greece) <a href="https://sessionize.com/open_conf/"><img alt="CFP Oπe\n Conf Athens 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Aug-2022&color=red"> </a>
+* 2-4: [PyCon Chile 2022](https://pycon.cl/) - Copiapó (Chile)
 * 5-6: [Automotive Linux Summit](https://events.linuxfoundation.org/open-source-summit-japan/about/automotive-linux-summit/) - Yokohama (Japan) & Online
 * 5-6: [CloudOpen Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/cloudopen/) - Yokohama (Japan) & Online
 * 5-6: [Community Leadership Conference Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/community-leadership-conference/) - Yokohama (Japan) & Online
