@@ -129,7 +129,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 13-14: [Cassandra Summit](hhttps://events.linuxfoundation.org/cassandra-summit/) - San Jose (USA)
 * 14-15: [DevOps Days Salt Lake City](https://devopsdays.org/events/2023-salt-lake-city/welcome/) - Salt Lake City (USA)
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)<img alt="CFP VDZ" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-10%20to%20November-16-2022&color=green">
-* 23: [DevDay](https://www.devday.be/) - Louvain la Neuve (Belgium)
+* 23: [DevDay](https://www.devday.be/) - Louvain la Neuve (Belgium) <a href="https://sessionize.com/devday-2023/?e=1688a2"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-24%20to%20January-31-2023&color=green"></a>
 * 23-24: [Wasm I/O](https://wasmio.tech) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio23"><img alt="CFP Wasm I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-January-2023&color=green"></a>
 * 23-24: [SymfonyLive Paris](https://live.symfony.com/2023-paris/) - Paris (France) <a href="https://live.symfony.com/2023-paris/cfp"><img alt="CFP SymfonyLive Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2022&color=green"></a>
 * 23-24: [Agile Niort](https://agileniort.fr/) - Niort (France) <a href="https://sessionize.com/agile_niort_2023"><img alt="CFP AgileNiort" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2022&color=green"></a>
