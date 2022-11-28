@@ -98,7 +98,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 13-14: [RISC-V Summit](https://events.linuxfoundation.org/riscv-summit/) -  San Jose (USA)
 * 14-15: [DevOpsDays Tel-Aviv](https://sessionize.com/devopsdays-tel-aviv-2022/) - Tel-Aviv <a href="https://sessionize.com/devopsdays-tel-aviv-2022/"><img alt="DevOpsDays Tel-Aviv" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2022&color=red"> </a>
 * 14-16: [API Days Paris](https://www.apidays.global/paris/) - Paris (France) & Online
-* 15-16: [Agile Tour Rennes](https://agiletour.agilerennes.org/) - Rennes (France) <a href="https://sessionize.com/agile-tour-rennes-2022/"><img alt="Agile Tour Rennes" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=green"> </a>
+* 15-16: [Agile Tour Rennes](https://agiletour.agilerennes.org/) - Rennes (France) <a href="https://sessionize.com/agile-tour-rennes-2022/"><img alt="Agile Tour Rennes" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
 
 ## 2023
 
@@ -110,11 +110,12 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### February
 
-* 1-2: [CloudNative SecurityCon NA 2023](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) - Seattle (USA) <a href="https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp/#overview"><img alt="CFP CloudNative SecurityCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-November-2022&color=green"> </a>
-* 2: [Very Tech Trip](https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB) - Paris (France) <a href="https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=green"> </a>
+* 1-2: [CloudNative SecurityCon NA 2023](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) - Seattle (USA) <a href="https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp/#overview"><img alt="CFP CloudNative SecurityCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-November-2022&color=red"> </a>
+* 2: [Very Tech Trip](https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB) - Paris (France) <a href="https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"> </a>
 * 2: [AgiLeMans](https://www.agilemans.org/) - Le Mans (France) <a href="https://sessionize.com/7ieme-journee-agile-au-mans-france-e/"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=green"> </a>
 * 4-5: [FOSDEM](https://fosdem.org/2022/news/2022-09-14-fosdem-2023-dates/) - Belgium
 * 6-8: [CfgMgmtCamp](https://cfgmgmtcamp.eu/ghent2023/) - Ghent (Belgium)
+* 7-8: [State of Open Con](https://stateofopencon.com/) - London (UK)
 * 9-10: [Latam 2023 DevRelCon](https://latam-2023.devrelcon.dev/) - Online
 * 9-11: [World AI Cannes](https://worldaicannes.com/) - Cannes (France)
 * 16-19: [PyConFR](https://www.pycon.fr/2023/) - Bordeaux (France)
@@ -124,7 +125,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### March
 
 * 3-4: [DevOps Days Goiana](https://devopsdays.org/events/2023-goiania/welcome/) - Goiana (Brazil)
-* 7: [Kubernetes Community Days France](https://community.cncf.io/events/details/cncf-kcd-france-presents-kubernetes-community-days-france-2023/) - Paris (France) <img alt="CFP KCD Paris" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-15%20to%20November-13-2022&color=green">
+* 7: [Kubernetes Community Days France](https://community.cncf.io/events/details/cncf-kcd-france-presents-kubernetes-community-days-france-2023/) - Paris (France) <img alt="CFP KCD Paris" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-15%20to%20November-13-2022&color=red">
 * 10: [DevOps Days Los Angeles](https://devopsdays.org/events/2023-los-angeles/welcome/) - Los Angeles (USA)
 * 13-14: [Cassandra Summit](hhttps://events.linuxfoundation.org/cassandra-summit/) - San Jose (USA)
 * 14-15: [DevOps Days Salt Lake City](https://devopsdays.org/events/2023-salt-lake-city/welcome/) - Salt Lake City (USA)
@@ -139,7 +140,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 5-7: [FIC](https://europe.forum-fic.com) - Lille Grand Palais (France)
 * 6-7: [DevOps Days Nashville](https://devopsdays.org/events/2023-nashville/welcome/) - Nashville (USA)
-* 12-14: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
+* 12-14: [Devoxx France](https://www.devoxx.fr/) - Paris (France) <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=from%20November-21%20to%20January-8-2023&color=green"></a>
 * 12-14: [KotlinConf](https://kotlinconf.com/) - Amsterdam (the Netherlands) <a href="https://sessionize.com/kotlinconf-2023/"><img alt="CFP KotlinConf" src="https://img.shields.io/static/v1?label=CFP&message=until%201-October-2022&color=red"> </a>
 * 17-21: [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - Amsterdam (Netherlands)
 * 18-19: [DevOps Days Tokyo](https://devopsdays.org/events/2023-tokyo/welcome/) - Tokyo (Japan)
@@ -153,7 +154,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 3-4: [DevOps Days Zurich](https://devopsdays.org/events/2023-zurich/welcome/) - Zurich (Switzerland)
 * 4: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
 * 10-12: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk23.cfp.dev/#/"><img alt="CFP Devoxx UK 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=green"></a>
-* 12: [AFUP Day](https://event.afup.org/) Lille & Lyon (France) <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=green"></a>
+* 12: [AFUP Day](https://event.afup.org/) Lille & Lyon (France) <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"></a>
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
 * 23-25: [Web À Québec](https://webaquebec.org/) - Quebec City (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/vgbK9zTW"><img alt="CFP WAQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=green"></a>
 * 25-26: [Newcrafts Paris](https://ncrafts.io/) - Paris (France)
