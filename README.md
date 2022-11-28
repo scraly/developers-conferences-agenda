@@ -85,6 +85,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 5-6: [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) - Yokohama (Japan) & Online
 * 5-6: [OSPOCon Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/ospocon/) - Yokohama (Japan) & Online
 * 5-8: [DevOpsCon Munich](https://devopscon.io/call-for-papers/) - Munich (Germany) <a href="https://devopscon.io/call-for-papers/"><img alt="CFP DevOpsCon Munich" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-Jun-2022&color=red"> </a>
+* 6: [monthly-ParisJUG](https://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20221206) - Paris (France)
 * 6-7: [DevRel Con Prague](https://github.com/scraly/developers-conferences-agenda/) - Prague (Czech Republic)
 * 7: [DevFest Stockholm 2022](https://devfest.gdgcloud.se/) - Stockholm (Sweden)
 * 7: [KubeDay Japan](https://events.linuxfoundation.org/kubeday-japan/) - Yokohama (Japan)
@@ -104,6 +105,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### January
 
+* 10: [monthly-ParisJUG: Young Blood](https://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20230110) - Paris (France)
 * 19-20: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/3lWSdH0pfZkHEAL7RWSJ"><img alt="Touraine Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-30%20to%20November-27-2022&color=green"> </a>
 * 23-27: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://sessionize.com/ndc-london-2023"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-September-2022&color=red"> </a>
 * 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France) <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
@@ -129,6 +131,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 10: [DevOps Days Los Angeles](https://devopsdays.org/events/2023-los-angeles/welcome/) - Los Angeles (USA)
 * 13-14: [Cassandra Summit](hhttps://events.linuxfoundation.org/cassandra-summit/) - San Jose (USA)
 * 14-15: [DevOps Days Salt Lake City](https://devopsdays.org/events/2023-salt-lake-city/welcome/) - Salt Lake City (USA)
+* 15-18: [JChateau](https://www.jchateau.org/) - Cheverny in the Châteaux of the Loire Valley (France)
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)<img alt="CFP VDZ" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-10%20to%20November-16-2022&color=green">
 * 23: [DevDay](https://www.devday.be/) - Mons (Belgium) <a href="https://sessionize.com/devday-2023/?e=1688a2"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-24%20to%20January-31-2023&color=green"></a>
 * 23-24: [Wasm I/O](https://wasmio.tech) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio23"><img alt="CFP Wasm I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-January-2023&color=green"></a>
@@ -162,6 +165,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### June
 
+* 1: [Javaday](https://javaday.parisjug.org/) - Paris (France)
 * 08-09: [DDD Europe](https://2023.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://sessionize.com/dddeu23/"><img alt="CFP DDDEu 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=green"></a>
 * 15-16: [DevOps Days Birmingham UK](https://devopsdays.org/events/2023-birmingham-uk/welcome/) - Birmingham (UK)
 * 20-23: [JCON PEOPLE](https://jcon.one/) - Düsseldorf, Germany
