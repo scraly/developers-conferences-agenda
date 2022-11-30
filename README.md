@@ -169,7 +169,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### July
 
-* 3-5: [DevBCN](www.devbcn.com) - Barcelona (Spain)
+* 3-5: [DevBCN](http://www.devbcn.com) - Barcelona (Spain)
 
 ### September
 
