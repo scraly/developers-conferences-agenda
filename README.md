@@ -85,7 +85,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 5-6: [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) - Yokohama (Japan) & Online
 * 5-6: [OSPOCon Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/ospocon/) - Yokohama (Japan) & Online
 * 5-8: [DevOpsCon Munich](https://devopscon.io/call-for-papers/) - Munich (Germany) <a href="https://devopscon.io/call-for-papers/"><img alt="CFP DevOpsCon Munich" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-Jun-2022&color=red"> </a>
-* 6: [monthly-ParisJUG](https://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20221206) - Paris (France)
+* 6: [Paris JUG Meetup](https://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20221206) - Paris (France) <a href="https://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20221206"><img alt="Meetup Paris JUG" src="https://img.shields.io/static/v1?label=Meetup&message=19h30&color=blue"> </a>
 * 6-7: [DevRel Con Prague](https://github.com/scraly/developers-conferences-agenda/) - Prague (Czech Republic)
 * 7: [DevFest Stockholm 2022](https://devfest.gdgcloud.se/) - Stockholm (Sweden)
 * 7: [KubeDay Japan](https://events.linuxfoundation.org/kubeday-japan/) - Yokohama (Japan)
