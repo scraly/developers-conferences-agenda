@@ -27,44 +27,6 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ## 2022
 
-### November
-
-* 1-2: [ObservabilityCON](https://grafana.com/about/events/observabilitycon/2022) - New York City (US) & Online
-* 2-3: [WordPress Accessibility Day](https://wpaccessibility.day/) - Online <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://wpaccessibility.day/participate/speaking-at-wp-accessibility-day/"><img alt="CFP WP Accessibility Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-August-2022&color=red" /></a>
-* 3: [JFall](https://jfall.nl/) - Netherlands
-* 3: [Data Community Conference](https://www.data-community.ch) - Switzerland
-* 3-4: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain) <a href="https://devops.barcelona/call-for-papers"><img alt="CFP devops barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2022&color=red"> </a>
-* 3-4: [Agile Tour Nantes 2022](https://agilenantes.org/evenements/agile-tour-nantes/agile-tour-nantais-2022/) - Nantes (France)
-* 3-4: [PyCon Sweden](https://www.pycon.se/) - Stockholm (Sweden)
-* 3-5: [AsyncAPI Conf](https://conference.asyncapi.com/) - Online
-* 8-9: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France) <a href="https://sessionize.com/open-source-experience-2022/"><img alt="CFP Open Source Experience" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Jun-2022&color=red"> </a>
-* 8-9: [PromCon EU](https://promcon.io/2022-munich/) - Munich (Germany)
-* 8-10: [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Lake Tahoe (USA)
-* 10: [Decarbonize Software](https://decarb.greensoftware.foundation/) - Online
-* 14-16: [OSMC](https://osmc.de/) - Nuremberg (Germany) <a href="https://osmc.de/call-for-papers/"><img alt="CFP OSMC" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=red"> </a>
-* 15-16: [ParisTestConf](https://paristestconf.com/) - Online <a href="https://paristestconf.com/call-for-papers-2022"><img alt="CFP ParisTestConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=red"> </a>
-* 15-16: [Agile Tour Toulouse](https://tour.agiletoulouse.fr/) - Toulouse (France) <a href="https://sessionize.com/agile-tour-toulouse-2022/"><img alt="CFP Agile Tour Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Jun-2022&color=red"> </a>
-* 15-16: [ONE Summit](https://events.linuxfoundation.org/one-summit-north-america/) - Seattle (USA)
-* 16-17: [NODES 2022 (Neo4j Online Developer Expo and Summit)](https://neo4j.com/nodes-2022/) - Online <a href="https://sessionize.com/neo4j-nodes-2022/"><img alt="Neo4j Online Developer Expo and Summit)" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-Aug-2022&color=red"> </a>
-* 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France) <a href="https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq"><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /><img alt="CFP codeur en seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-Sept-2022&color=red"> </a>
-* 17: [Kubernetes Community Days Italy 2022](https://community.cncf.io/events/details/cncf-kcd-italy-presents-kubernetes-community-days-italy-2022/) - Milan (Italy)
-* 17: [lbc² by leboncoin](https://www.lbc2.fr/) - Paris (France)
-* 17-18: [LFN Developer & Testing Forum](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=68786848) - Seattle (USA)
-* 18: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/speaker/event/wgaja45IBdGT4sw4CXDB"><img alt="CFP Devfest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=red"> </a>
-* 17-18: [SymfonyCon Disneyland Paris](https://live.symfony.com/2022-paris-con/) Paris (France)
-* 18-19: [DevOpsDays Bengaluru](https://devopsdaysindia.org/) - Bengaluru (India) <a href="https://forms.gle/LmCGgZse3Lp4XNgz9"><img alt="CFP DevOpsDays Bengaluru" src="https://img.shields.io/static/v1?label=CFP&message=until%206-Aug-2022&color=red"> </a>
-* 18-19: [GreHack](https://grehack.fr/) - Grenoble (France) <a href="https://easychair.org/cfp/GreHack2022"><img alt="CFP" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Aug-2022&color=red"> </a>
-* 19-20: [Capitole du Libre](https://capitoledulibre.org/) - Toulouse (France) <a href="https://cfp.capitoledulibre.org/cdl-2022/cfp"><img alt="CFP Capitole du Libre de Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Sep-2022&color=red"> </a>
-* 21: [Java Summit-IL](https://www.javasummitil.com/) - Tel-Aviv (Israel) <a href="https://sessionize.com/javasummit-il-22/"><img alt="CFP Java Summit-IL" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=red"> </a>
-* 22: [Cyber security Business Convention](https://cbc-convention.com/) - Toulouse (FR)
-* 22-23: [Kubernetes Community Days UK 2022](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2022/) - London (UK)
-* 22-24: [Kubernetes Community Days Spain 2022](https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2022/) - Spain
-* 23-25: [Agile Grenoble 2022](http://agile-grenoble.org/) - Grenoble (France)
-* 25: [HACK-IT-N 2022](https://hack-it-n.com/) - Bordeaux (France)
-* 26-27: [Kubernetes Community Days & OpenInfra Days Indonesia 2022](https://community.cncf.io/events/details/cncf-kcd-indonesia-presents-kubernetes-community-days-openinfra-days-indonesia-2022/) - Jakarta (Indonesia)
-* 29-1/12: [Yocto Project Summit](https://yoctoproject.org/summit) - Online
-* 29-9/12: [QCon Plus](https://plus.qconferences.com/) - Online
-
 ### December
 
 * 1: [Devops DDay #7](https://2022.devops-dday.com/) - Marseille (France) <a href="https://conference-hall.io/public/event/eKYGzptI6y44zoS8sGUz"><img alt="CFP Devops DDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2022&color=red"> </a>
@@ -104,7 +66,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### January
 
-* 19-20: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/3lWSdH0pfZkHEAL7RWSJ"><img alt="Touraine Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-30%20to%20November-27-2022&color=green"> </a>
+* 19-20: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/3lWSdH0pfZkHEAL7RWSJ"><img alt="Touraine Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-30%20to%20November-27-2022&color=red"> </a>
 * 23-27: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://sessionize.com/ndc-london-2023"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-September-2022&color=red"> </a>
 * 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France) <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
 
@@ -112,7 +74,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 1-2: [CloudNative SecurityCon NA 2023](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) - Seattle (USA) <a href="https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp/#overview"><img alt="CFP CloudNative SecurityCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-November-2022&color=red"> </a>
 * 2: [Very Tech Trip](https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB) - Paris (France) <a href="https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"> </a>
-* 2: [AgiLeMans](https://www.agilemans.org/) - Le Mans (France) <a href="https://sessionize.com/7ieme-journee-agile-au-mans-france-e/"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=green"> </a>
+* 2: [AgiLeMans](https://www.agilemans.org/) - Le Mans (France) <a href="https://sessionize.com/7ieme-journee-agile-au-mans-france-e/"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=red"> </a>
 * 3-4: [JSConf Chile](https://jsconf.cl/) - Chile
 * 4-5: [FOSDEM](https://fosdem.org/2022/news/2022-09-14-fosdem-2023-dates/) - Belgium
 * 6-8: [CfgMgmtCamp](https://cfgmgmtcamp.eu/ghent2023/) - Ghent (Belgium)
@@ -120,7 +82,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 9-10: [Latam 2023 DevRelCon](https://latam-2023.devrelcon.dev/) - Online
 * 9-11: [World AI Cannes](https://worldaicannes.com/) - Cannes (France)
 * 16-19: [PyConFR](https://www.pycon.fr/2023/) - Bordeaux (France) <a href="https://cfp-2023.pycon.fr/"><img alt="CFP PyConFr 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-Janvier-2023&color=green"> </a>
-* 16-17: [HashiTalks](https://events.hashicorp.com/hashitalks2023) - Online <a href="https://sessionize.com/hashitalks-2023"><img alt="CFP HashiTalks 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2022&color=green"> </a>
+* 16-17: [HashiTalks](https://events.hashicorp.com/hashitalks2023) - Online <a href="https://sessionize.com/hashitalks-2023"><img alt="CFP HashiTalks 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2022&color=yellow"> </a>
 * 22-24: [ConFoo](https://confoo.ca/fr/2023) - Montréal (Canada) <a href="https://confoo.ca/fr/2023/call-for-papers"><img alt="CFP ConFoo 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-September-2022&color=red"> </a>
 * 23-24: [Kubernetes Community Days Amsterdam 2023](https://community.cncf.io/events/details/cncf-kcd-netherlands-presents-kubernetes-community-days-amsterdam-2023/) - Amsterdam (NL)
 
@@ -131,10 +93,10 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 10: [DevOps Days Los Angeles](https://devopsdays.org/events/2023-los-angeles/welcome/) - Los Angeles (USA)
 * 13-14: [Cassandra Summit](hhttps://events.linuxfoundation.org/cassandra-summit/) - San Jose (USA)
 * 14-15: [DevOps Days Salt Lake City](https://devopsdays.org/events/2023-salt-lake-city/welcome/) - Salt Lake City (USA)
-* 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)<img alt="CFP VDZ" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-10%20to%20November-16-2022&color=green">
+* 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)<img alt="CFP VDZ" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-10%20to%20November-16-2022&color=red">
 * 23: [DevDay](https://www.devday.be/) - Mons (Belgium) <a href="https://sessionize.com/devday-2023/?e=1688a2"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-24%20to%20January-31-2023&color=green"></a>
 * 23-24: [Wasm I/O](https://wasmio.tech) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio23"><img alt="CFP Wasm I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-January-2023&color=green"></a>
-* 23-24: [SymfonyLive Paris](https://live.symfony.com/2023-paris/) - Paris (France) <a href="https://live.symfony.com/2023-paris/cfp"><img alt="CFP SymfonyLive Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2022&color=green"></a>
+* 23-24: [SymfonyLive Paris](https://live.symfony.com/2023-paris/) - Paris (France) <a href="https://live.symfony.com/2023-paris/cfp"><img alt="CFP SymfonyLive Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2022&color=yellow<"></a>
 * 23-24: [Agile Niort](https://agileniort.fr/) - Niort (France) <a href="https://sessionize.com/agile_niort_2023"><img alt="CFP AgileNiort" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2022&color=green"></a>
 * 27-29: [QCon London](https://qconlondon.com/) - London (UK)
 
@@ -159,7 +121,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 10-12: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk23.cfp.dev/#/"><img alt="CFP Devoxx UK 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=green"></a>
 * 12: [AFUP Day](https://event.afup.org/) Lille & Lyon (France) <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"></a>
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
-* 23-25: [Web À Québec](https://webaquebec.org/) - Quebec City (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/vgbK9zTW"><img alt="CFP WAQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=green"></a>
+* 23-25: [Web À Québec](https://webaquebec.org/) - Quebec City (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/vgbK9zTW"><img alt="CFP WAQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=red"></a>
 * 25-26: [Newcrafts Paris](https://ncrafts.io/) - Paris (France)
 * 25-26: [NDC Oslo](https://ndcoslo.com/) - Oslo (Norway)
 
@@ -172,7 +134,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### July
 
-* 3-5: [DevBCN](www.devbcn.com) - Barcelona (Spain)
+* 3-5: [DevBCN](http://www.devbcn.com) - Barcelona (Spain)
 
 ### September
 
