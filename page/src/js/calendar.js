@@ -124,6 +124,65 @@ function ondateclick(events, e) {
 	}
 }
 
+function downloadYear(year) {
+	let { Component, Property } = window['immutable-ics'];
+
+	let components = [];
+	for (const event of this.events) {
+		if (new Date(event.date[0] * 1000).getFullYear() != year) continue;
+		let c = new Component({
+			name: 'VEVENT',
+			properties: [
+				new Property({
+					name: 'UID',
+					value: Date.now() + '@' + Math.random()
+				}),
+				new Property({
+					name: 'DTSTAMP',
+					value: new Date()
+				}),
+				new Property({
+					name: 'DTSTART',
+					value: new Date(event.date[0] * 1000)
+				}),
+				new Property({
+					name: 'DTEND',
+					value: new Date(event.date[1] * 1000)
+				}),
+				new Property({
+					name: 'LOCATION',
+					value: event.location
+				}),
+				new Property({
+					name: 'SUMMARY',
+					value: event.name
+				}),
+				new Property({
+					name: 'URL',
+					value: event.hyperlink
+				})
+			]
+		});
+
+		components.push(c);
+	}
+
+	let cal = new Component({
+		components,
+		name: 'VCALENDAR',
+		properties: [
+			new Property({ name: 'VERSION', value: 2 }),
+			new Property({ name: 'PRODID', value: 'DCA' }),
+		]
+	});
+
+	let blob = new Blob([cal.toString()], { type: 'text/calendar' });
+	let link = document.createElement('a');
+	link.href = URL.createObjectURL(blob);
+	link.download = `developer-conference-${year}.ics`;
+	link.click();
+}
+
 class Renderer {
 	constructor() {
 		this.events = [];
@@ -135,6 +194,7 @@ class Renderer {
 
 	render(year) {
 		renderYear.call(this, year);
+		$('#downloadButton').onclick = downloadYear.bind(this, year);
 	}
 
 	getEventsOn(date) {
