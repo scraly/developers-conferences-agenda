@@ -18,3 +18,18 @@ article {
 .big {
 	font-size: 5rem;
 }
+
+#downloadButton {
+	text-align: center;
+	padding: 10px;
+	border: 1px solid black;
+	width: max-content;
+	margin: 1rem auto;
+	border-radius: 5px;
+	cursor: pointer;
+
+	&:hover {
+		background: black;
+		color: white;
+	}
+}
