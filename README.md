@@ -66,7 +66,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 ### January
 
-* 19: [Archilocus](https://www.archilocus.tech/about) - Bordeaux (France)<a href=https://conference-hall.io/public/event/qII4ZCroLOcGUtnr0W3M><img alt="Archilocus Winter 2023" src="https://img.shields.io/static/v1?label=CFP&message=December-31-2022&color=green"> </a>
+* 19: [Archilocus](https://www.archilocus.tech/about) - Bordeaux (France) <a href=https://conference-hall.io/public/event/qII4ZCroLOcGUtnr0W3M><img alt="Archilocus Winter 2023" src="https://img.shields.io/static/v1?label=CFP&message=December-31-2022&color=green"> </a>
 * 19-20: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/3lWSdH0pfZkHEAL7RWSJ"><img alt="Touraine Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-30%20to%20November-27-2022&color=red"> </a>
 * 23-27: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://sessionize.com/ndc-london-2023"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-September-2022&color=red"> </a>
 * 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France) <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
