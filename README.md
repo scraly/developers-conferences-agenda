@@ -93,7 +93,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 7: [Kubernetes Community Days France](https://community.cncf.io/events/details/cncf-kcd-france-presents-kubernetes-community-days-france-2023/) - Paris (France) <img alt="CFP KCD Paris" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-15%20to%20November-13-2022&color=red">
 * 10: [DevOps Days Los Angeles](https://devopsdays.org/events/2023-los-angeles/welcome/) - Los Angeles (USA)
 * 10-11: [DevRel Con Yokohama](https://developerrelations.com/event/devrelcon-yokohama-2023) - Yokohama (Japan)
-* 13-14: [Cassandra Summit](hhttps://events.linuxfoundation.org/cassandra-summit/) - San Jose (USA)
+* 13-14: [Cassandra Summit](https://events.linuxfoundation.org/cassandra-summit/) - San Jose (USA)
 * 14-15: [DevOps Days Salt Lake City](https://devopsdays.org/events/2023-salt-lake-city/welcome/) - Salt Lake City (USA)
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)<img alt="CFP VDZ" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-10%20to%20November-16-2022&color=red">
 * 23: [DevDay](https://www.devday.be/) - Mons (Belgium) <a href="https://sessionize.com/devday-2023/?e=1688a2"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-24%20to%20January-31-2023&color=green"></a>
