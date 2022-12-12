@@ -115,7 +115,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 20-21: [DevOps Days Birmingham AL](https://devopsdays.org/events/2023-birmingham-al/welcome/) - Birmingham (USA)
 * 23-25: [DevOps Days Denver](https://devopsdays.org/events/2023-denver/welcome/) - Denver (USA)
 * 24-25: [DevOps Days Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
-* 27-28: [Clojure/conj](https://2023.clojure-conj.org/) - Durham, NC (USA) <a href="[https://cfp.devoxx.fr/](https://2023.clojure-conj.org/call-for-proposals/)"><img alt="CFP Clojure/conj 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20Dec-19%20to%20January-15-2023&color=green"></a>
+* 27-28: [Clojure/conj](https://2023.clojure-conj.org/) - Durham, NC (USA) <a href="https://2023.clojure-conj.org/call-for-proposals/)"><img alt="CFP Clojure/conj 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20Dec-19%20to%20January-15-2023&color=green"></a>
 * 28-29: [DevOps Days Caceres](https://devopsdays.org/events/2023-caceres/welcome/) - Caceres (Spain)
 
 ### May
