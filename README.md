@@ -144,6 +144,10 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 3-5: [DevBCN](http://www.devbcn.com) - Barcelona (Spain)
 
+### August
+
+* 28-01/09: [VLDB Very Large Database](https://vldb.org/2023/) - Vancouver (Canada)
+
 ### September
 
 * 21-22: [API Platform Conference](https://api-platform.com/con/2023) - Lille (France) & Online
