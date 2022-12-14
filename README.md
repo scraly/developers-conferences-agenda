@@ -144,6 +144,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### September
 
 * 21-23: [Strange Loop 2023](https://thestrangeloop.com) - St. Louis, Missouri (USA)
+* 21-22: [API Platform Conference](https://api-platform.com/con/2023) - Lille (France) & Online
 * 27: [DevOps Days Cairo](https://devopsdays.org/events/2023-cairo/welcome/) - Cairo (Egypt)
 
 ### October
