@@ -91,6 +91,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 3-4: [DevOps Days Goiana](https://devopsdays.org/events/2023-goiania/welcome/) - Goiana (Brazil)
 * 7: [Kubernetes Community Days France](https://community.cncf.io/events/details/cncf-kcd-france-presents-kubernetes-community-days-france-2023/) - Paris (France) <img alt="CFP KCD Paris" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-15%20to%20November-13-2022&color=red">
+* 9-12: [Scale 20x](https://www.socallinuxexpo.org/scale/20x) - Pasadena (USA)
 * 10: [DevOps Days Los Angeles](https://devopsdays.org/events/2023-los-angeles/welcome/) - Los Angeles (USA)
 * 10-11: [DevRel Con Yokohama](https://developerrelations.com/event/devrelcon-yokohama-2023) - Yokohama (Japan)
 * 13-14: [Cassandra Summit](https://events.linuxfoundation.org/cassandra-summit/) - San Jose (USA)
