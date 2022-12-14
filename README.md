@@ -79,6 +79,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 3-4: [JSConf Chile](https://jsconf.cl/) - Chile
 * 4-5: [FOSDEM](https://fosdem.org/2022/news/2022-09-14-fosdem-2023-dates/) - Belgium
 * 6-8: [CfgMgmtCamp](https://cfgmgmtcamp.eu/ghent2023/) - Ghent (Belgium)
+* 6-8: [Jfokus](https://www.jfokus.se/) - Stockholm (Sweden)
 * 7-8: [State of Open Con](https://stateofopencon.com/) - London (UK)
 * 9-10: [Latam 2023 DevRelCon](https://latam-2023.devrelcon.dev/) - Online
 * 9-11: [World AI Cannes](https://worldaicannes.com/) - Cannes (France)
