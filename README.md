@@ -92,7 +92,6 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 15-17: [DeveloperWeek](https://www.developerweek.com/) - Oakland (Canada)
 * 16-17: [HashiTalks](https://events.hashicorp.com/hashitalks2023) - Online <a href="https://sessionize.com/hashitalks-2023"><img alt="CFP HashiTalks 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2022&color=red"> </a>
 * 16-19: [PyConFR](https://www.pycon.fr/2023/) - Bordeaux (France) <a href="https://cfp-2023.pycon.fr/"><img alt="CFP PyConFr 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-Janvier-2023&color=green"> </a>
-* 20-22: [Dotnet days](https://dotnetdays.ro/) - Iasi (Romania)
 * 21-23: [DeveloperWeek](https://www.developerweek.com/) - Online
 * 22-24: [ConFoo](https://confoo.ca/fr/2023) - Montréal (Canada) <a href="https://confoo.ca/fr/2023/call-for-papers"><img alt="CFP ConFoo 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-September-2022&color=red"> </a>
 * 23: [Testing, Agile, DevOps and Low code Showcase: Methods and Tools](https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-india-2023/) - Bengaluru (India)
@@ -112,6 +111,8 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 20: [HTML & CSS Days](https://javascript-days.de/html-css) - Online
 * 21-23: [SRECon Americas](https://www.usenix.org/conference/srecon23americas) - Santa Clara (USA)
 * 22-24: [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2023/) - Bucharest (Romania)
+* 22-26: [International PHP Conference Berlin](https://phpconference.com/berlin-en) - Berlin (Germany)
+* 22-26: [Webinale](https://webinale.de/en/) - Berlin (Germany)
 * 23: [DevDay](https://www.devday.be/) - Mons (Belgium) <a href="https://sessionize.com/devday-2023/?e=1688a2"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-24%20to%20January-31-2023&color=green"></a>
 * 23-24: [Wasm I/O](https://wasmio.tech) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio23"><img alt="CFP Wasm I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-January-2023&color=green"></a>
 * 23-24: [SymfonyLive Paris](https://live.symfony.com/2023-paris/) - Paris (France) <a href="https://live.symfony.com/2023-paris/cfp"><img alt="CFP SymfonyLive Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2022&color=yellow<"></a>
@@ -128,11 +129,12 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 12-14: [Devoxx France](https://www.devoxx.fr/) - Paris (France) <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=from%20November-21%20to%20January-8-2023&color=green"></a>
 * 12-14: [KotlinConf](https://kotlinconf.com/) - Amsterdam (the Netherlands) <a href="https://sessionize.com/kotlinconf-2023/"><img alt="CFP KotlinConf" src="https://img.shields.io/static/v1?label=CFP&message=until%201-October-2022&color=red"> </a>
 * 13-14: [MiXit](https://mixitconf.org/fr/) - Villeurbanne (Lyon France) <a href="https://sessionize.com/mixit2023"><img alt="CFP MiXiT" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-Januray-2023&color=green"> </a>
-* 14 & 17: [Node Congress](https://nodecongress.com/) - Berlin (Germany) & Online <a href="[https://sessionize.com/mixit2023](https://docs.google.com/forms/d/e/1FAIpQLScbO3i3HOOt6qD99HRDw0CsL0HvmchY2Xgovw1FLrqcQytlTg/viewform)"><img alt="CFP Node Congress" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Januray-2023&color=green"> </a>
+* 14 & 17: [Node Congress](https://nodecongress.com/) - Berlin (Germany) & Online <a href="https://docs.google.com/forms/d/e/1FAIpQLScbO3i3HOOt6qD99HRDw0CsL0HvmchY2Xgovw1FLrqcQytlTg/viewform"><img alt="CFP Node Congress" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Januray-2023&color=green"> </a>
 * 17-21: [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - Amsterdam (Netherlands)
 * 18-19: [DevOps Days Tokyo](https://devopsdays.org/events/2023-tokyo/welcome/) - Tokyo (Japan)
 * 19-21: [InflectraCon](https://www.inflectracon.com/) - Washington (USA)
 * 20-21: [DevOps Days Birmingham AL](https://devopsdays.org/events/2023-birmingham-al/welcome/) - Birmingham (USA)
+* 20-22: [Dotnet days](https://dotnetdays.ro/) - Iasi (Romania) <a href="https://sessionize.com/dotnetdays-2023"><img alt="CFP Dotnetdays" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-Januray-2023&color=green"> </a>
 * 23-25: [DevOps Days Denver](https://devopsdays.org/events/2023-denver/welcome/) - Denver (USA)
 * 24-25: [DevOps Days Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
 * 24-27: [Serverless Architecture Conference](https://serverless-architecture.io/london) - London (UK) & Online
@@ -144,6 +146,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 
 * 3-4: [DevOps Days Zurich](https://devopsdays.org/events/2023-zurich/welcome/) - Zurich (Switzerland)
 * 4: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
+* 8-12: [JAX](https://jax.de/mainz) - Mainz (Germany) & Online 
 * 10-12: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk23.cfp.dev/#/"><img alt="CFP Devoxx UK 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=green"></a>
 * 12: [AFUP Day](https://event.afup.org/) Lille & Lyon (France) <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"></a>
 * 12-15: [Vue.js Live Conference](https://vuejslive.com/) - London (UK) & Online
