@@ -69,6 +69,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 19: [Archilocus](https://www.archilocus.tech/about) - Bordeaux (France) <a href="https://conference-hall.io/public/event/qII4ZCroLOcGUtnr0W3M"><img alt="Archilocus Winter 2023" src="https://img.shields.io/static/v1?label=CFP&message=December-31-2022&color=green"> </a>
 * 19-20: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/3lWSdH0pfZkHEAL7RWSJ"><img alt="Touraine Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-30%20to%20November-27-2022&color=red"> </a>
 * 23-27: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://sessionize.com/ndc-london-2023"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-September-2022&color=red"> </a>
+* 25: [Flutter Forward](https://flutter.dev/events/flutter-forward) - Nairobi (Kenya)
 * 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France) <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
 
 ### February
@@ -83,11 +84,13 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 7-8: [State of Open Con](https://stateofopencon.com/) - London (UK)
 * 9-10: [Latam 2023 DevRelCon](https://latam-2023.devrelcon.dev/) - Online
 * 9-11: [World AI Cannes](https://worldaicannes.com/) - Cannes (France)
+* 14-15: [Angular Global Summit](https://events.geekle.us/angular2/) - Virtual
 * 15-16: [Magento Florida](https://meetmagentofl.com/) - Hollywood (USA)
 * 15-17: [DeveloperWeek](https://www.developerweek.com/) - Oakland (Canada)
-* 16-19: [PyConFR](https://www.pycon.fr/2023/) - Bordeaux (France) <a href="https://cfp-2023.pycon.fr/"><img alt="CFP PyConFr 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-Janvier-2023&color=green"> </a>
 * 16-17: [HashiTalks](https://events.hashicorp.com/hashitalks2023) - Online <a href="https://sessionize.com/hashitalks-2023"><img alt="CFP HashiTalks 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2022&color=yellow"> </a>
-* 15-17: [DeveloperWeek](https://www.developerweek.com/) - Virtual
+* 16-19: [PyConFR](https://www.pycon.fr/2023/) - Bordeaux (France) <a href="https://cfp-2023.pycon.fr/"><img alt="CFP PyConFr 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-Janvier-2023&color=green"> </a>
+* 20-22: [Dotnet days](https://dotnetdays.ro/) - Iasi (Romania)
+* 21-23: [DeveloperWeek](https://www.developerweek.com/) - Virtual
 * 22-24: [ConFoo](https://confoo.ca/fr/2023) - Montréal (Canada) <a href="https://confoo.ca/fr/2023/call-for-papers"><img alt="CFP ConFoo 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-September-2022&color=red"> </a>
 * 23-24: [Kubernetes Community Days Amsterdam 2023](https://community.cncf.io/events/details/cncf-kcd-netherlands-presents-kubernetes-community-days-amsterdam-2023/) - Amsterdam (NL)
 
@@ -133,6 +136,8 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 4: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
 * 10-12: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk23.cfp.dev/#/"><img alt="CFP Devoxx UK 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=green"></a>
 * 12: [AFUP Day](https://event.afup.org/) Lille & Lyon (France) <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"></a>
+* 17-18: [Qubit Conference Prague](https://prague.qubitconference.com/) - Prague (Czech Republic)
+* 18-19: [JS Heroes](https://jsheroes.io/) - in Cluj-Napoca (Romania)
 * 18-19: [Spring I/O](https://2023.springio.net/) Barcelona (Spain) <a href="https://www.papercall.io/springio23"><img alt="CFP Spring I/O 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2023&color=green"></a>
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
 * 23-25: [Web À Québec](https://webaquebec.org/) - Quebec City (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/vgbK9zTW"><img alt="CFP WAQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=red"></a>
