@@ -70,6 +70,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 19-20: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/3lWSdH0pfZkHEAL7RWSJ"><img alt="Touraine Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-30%20to%20November-27-2022&color=red"> </a>
 * 23-27: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://sessionize.com/ndc-london-2023"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-September-2022&color=red"> </a>
 * 25: [Flutter Forward](https://flutter.dev/events/flutter-forward) - Nairobi (Kenya)
+* 25-26: [Global Summit for Node.js](https://events.geekle.us/nodejs2/) - Online
 * 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France) <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
 
 ### February
@@ -85,6 +86,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 7-8: [State of Open Con](https://stateofopencon.com/) - London (UK)
 * 9-10: [Latam 2023 DevRelCon](https://latam-2023.devrelcon.dev/) - Online
 * 9-11: [World AI Cannes](https://worldaicannes.com/) - Cannes (France)
+* 15: [enterJS Web-Performance Day](https://enterjs.de/web-performance.php) - Online
 * 14-15: [Angular Global Summit](https://events.geekle.us/angular2/) - Online
 * 15-16: [Magento Florida](https://meetmagentofl.com/) - Hollywood (USA)
 * 15-17: [DeveloperWeek](https://www.developerweek.com/) - Oakland (Canada)
@@ -124,6 +126,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 12-14: [Devoxx France](https://www.devoxx.fr/) - Paris (France) <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=from%20November-21%20to%20January-8-2023&color=green"></a>
 * 12-14: [KotlinConf](https://kotlinconf.com/) - Amsterdam (the Netherlands) <a href="https://sessionize.com/kotlinconf-2023/"><img alt="CFP KotlinConf" src="https://img.shields.io/static/v1?label=CFP&message=until%201-October-2022&color=red"> </a>
 * 13-14: [MiXit](https://mixitconf.org/fr/) - Villeurbanne (Lyon France) <a href="https://sessionize.com/mixit2023"><img alt="CFP MiXiT" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-Januray-2023&color=green"> </a>
+* 14 & 17: [Node Congress](https://nodecongress.com/) - Berlin (Germany) & Online <a href="[https://sessionize.com/mixit2023](https://docs.google.com/forms/d/e/1FAIpQLScbO3i3HOOt6qD99HRDw0CsL0HvmchY2Xgovw1FLrqcQytlTg/viewform)"><img alt="CFP Node Congress" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Januray-2023&color=green"> </a>
 * 17-21: [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - Amsterdam (Netherlands)
 * 18-19: [DevOps Days Tokyo](https://devopsdays.org/events/2023-tokyo/welcome/) - Tokyo (Japan)
 * 19-21: [InflectraCon](https://www.inflectracon.com/) - Washington (USA)
