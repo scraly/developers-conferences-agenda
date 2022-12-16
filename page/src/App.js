@@ -1,5 +1,8 @@
 import React, { createRef } from 'react';
 
+import { IonIcon } from '@ionic/react';
+import { arrowDownCircle } from 'ionicons/icons';
+
 import YearSelector from 'components/YearSelector';
 import CalendarGrid, { getEventsOnDate } from 'components/CalendarGrid';
 import SelectedEvents from 'components/SelectedEvents';
@@ -32,8 +35,10 @@ class App extends React.Component {
 		});
 	}
 
-	componentDidUpdate() {
-		this.eventsGrid.current?.scrollIntoView({ behavior: 'smooth' });
+	componentDidUpdate(prevProps, prevState) {
+		if (prevState.selectedDate != this.state.selectedDate) {
+			this.eventsGrid.current?.scrollIntoView({ behavior: 'smooth' });
+		}
 	}
 
 	render() {
@@ -43,6 +48,12 @@ class App extends React.Component {
 				<YearSelector
 				year={this.state.selectedYear}
 				onChange={this.renderYear.bind(this)} />
+
+				<div className="downloadButton">
+					<IonIcon icon={arrowDownCircle} />
+					Download {this.state.selectedYear} Calendar
+				</div>
+
 				<CalendarGrid
 				year={this.state.selectedYear}
 				displayDate={this.displayDate.bind(this)} />
