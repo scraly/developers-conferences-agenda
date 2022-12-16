@@ -60,7 +60,16 @@ const Week = ({ children }) => {
 
 const Day = ({ date, events, displayDate }) => {
 	let invisible = date?.getDate() ? '' : ' invisible';
-	return <div className={"date" + invisible} onClick={() => displayDate(date)}>{date?.getDate() || ''}</div>
+	let intensity = events?.length ?? 0;
+
+	if (intensity > 10) intensity = 10;
+	intensity = ` intensity-${intensity}`;
+
+	return <div
+		className={"date" + invisible + intensity}
+		onClick={() => displayDate(date)}>
+			{date?.getDate() || ''}
+		</div>
 };
 
 export default Calendar;

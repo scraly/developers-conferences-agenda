@@ -23,3 +23,35 @@
 .date.invisible {
 	visibility: hidden;
 }
+
+/* TODO: Should we use SASS? */
+.date.intensity-1 {
+	filter: brightness(.9);
+}
+.date.intensity-2 {
+	filter: brightness(.8);
+}
+.date.intensity-3 {
+	filter: brightness(.7);
+}
+.date.intensity-4 {
+	filter: brightness(.6);
+}
+.date.intensity-5 {
+	filter: brightness(.5);
+}
+.date.intensity-6 {
+	filter: brightness(.4);
+}
+.date.intensity-7 {
+	filter: brightness(.3);
+}
+.date.intensity-8 {
+	filter: brightness(.2);
+}
+.date.intensity-9 {
+	filter: brightness(.1);
+}
+.date.intensity-10 {
+	filter: brightness(.0);
+}
