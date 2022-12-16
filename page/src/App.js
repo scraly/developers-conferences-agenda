@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import YearSelector from 'components/YearSelector';
 import CalendarGrid from 'components/CalendarGrid';
 
+import 'misc/fonts/inter/inter.css';
 import 'styles/App.css';
 
 class App extends React.Component {
