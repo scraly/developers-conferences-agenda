@@ -18,6 +18,8 @@
 	padding: 10px;
 	text-align: center;
 	background: #eee;
+	border-radius: 3px;
+	cursor: pointer;
 }
 
 .date.invisible {
