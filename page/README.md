@@ -5,6 +5,9 @@ This is a React project directory.
  - Edit files in `src/` or `public/` directory only.
  - `npm start` to open react hot-reload environment.
 
+## Production
+There are a GitHub Action available at `.github/workflows/ghpages.yml` which will begin parsing markdown files and combine them into one file named `all-events.json` which then moved to `page/src/misc/all-events.json`. Finally, this project directory will begin building with `npm run build` and another GitHub Workflow to push the `build/` directory to GitHub Pages is executed.
+
 ### Components
 #### YearSelector
 ```
