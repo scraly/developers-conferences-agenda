@@ -86,6 +86,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 6-8: [Jfokus](https://www.jfokus.se/) - Stockholm (Sweden)
 * 7-8: [Flutter Global Summit](https://events.geekle.us/flutter23/) - Online
 * 7-8: [State of Open Con](https://stateofopencon.com/) - London (UK)
+* 7-8: [Civo Navigate](https://www.civo.com/navigate) - Tempa Bay (USA)
 * 9-10: [Latam 2023 DevRelCon](https://latam-2023.devrelcon.dev/) - Online
 * 9-11: [World AI Cannes](https://worldaicannes.com/) - Cannes (France)
 * 15: [enterJS Web-Performance Day](https://enterjs.de/web-performance.php) - Online
