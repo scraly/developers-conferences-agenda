@@ -14,3 +14,8 @@
 	flex-direction: column;
 	border: 1px solid #ccc;
 }
+
+.eventDateDisplay {
+	margin-top: 5rem;
+	text-align: center;
+}

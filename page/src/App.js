@@ -15,7 +15,8 @@ class App extends React.Component {
 		this.state = {
 			// TODO: Defaults to local time .getFullYear()
 			selectedYear: 2022,
-			events: []
+			events: [],
+			selectedDate: new Date
 		};
 	}
 
@@ -27,7 +28,7 @@ class App extends React.Component {
 
 	displayDate(date) {
 		this.setState((state) => {
-			return { events: getEventsOnDate(date) };
+			return { events: getEventsOnDate(date), selectedDate: date };
 		});
 	}
 
@@ -47,7 +48,7 @@ class App extends React.Component {
 				displayDate={this.displayDate.bind(this)} />
 
 				<div ref={this.eventsGrid}>
-					<SelectedEvents events={this.state.events} />
+					<SelectedEvents events={this.state.events} date={this.state.selectedDate} />
 				</div>
 			</>
 		);
