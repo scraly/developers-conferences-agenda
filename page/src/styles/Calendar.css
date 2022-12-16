@@ -15,16 +15,16 @@
 .weeks {
 	display: flex;
 	flex-direction: column;
-	gap: 3px;
+	gap: 2px;
 }
 
 .week {
-	display: flex;
-	gap: 3px;
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+	gap: 2px;
 }
 
 .date {
-	width: 2ch;
 	padding: 10px;
 	text-align: center;
 	background: #eee;
