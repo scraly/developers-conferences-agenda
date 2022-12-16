@@ -1,0 +1,15 @@
+.calendarGrid {
+	display: flex;
+	gap: 1rem;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.calendarGrid > * {
+	width: 80%;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid black;
+	padding: 1rem;
+	border-radius: 3px;
+}

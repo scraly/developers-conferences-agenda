@@ -1,0 +1,21 @@
+.weeks {
+	display: flex;
+	flex-direction: column;
+	gap: 3px;
+}
+
+.week {
+	display: flex;
+	gap: 3px;
+}
+
+.date {
+	width: 2ch;
+	padding: 10px;
+	text-align: center;
+	background: #eee;
+}
+
+.date.invisible {
+	visibility: hidden;
+}

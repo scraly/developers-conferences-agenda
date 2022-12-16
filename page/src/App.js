@@ -3,6 +3,8 @@ import React, { useState } from 'react';
 import YearSelector from 'components/YearSelector';
 import CalendarGrid from 'components/CalendarGrid';
 
+import 'styles/App.css';
+
 class App extends React.Component {
 	constructor(props) {
 		super(props);
@@ -19,11 +21,19 @@ class App extends React.Component {
 		});
 	}
 
+	displayDate(date) {
+		/* No Op */
+	}
+
 	render() {
 		return (
 			<>
-				<YearSelector year={this.state.year} onChange={this.renderYear.bind(this)} />
-				<CalendarGrid year={this.state.year} />
+				<YearSelector
+				year={this.state.selectedYear}
+				onChange={this.renderYear.bind(this)} />
+				<CalendarGrid
+				year={this.state.selectedYear}
+				displayDate={this.displayDate.bind(this)} />
 			</>
 		);
 	}
