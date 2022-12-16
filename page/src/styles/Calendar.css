@@ -2,6 +2,16 @@
 	text-align: center;
 }
 
+.dayList {
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+	text-align: center;
+}
+
+.dayList > span {
+	padding: 5px;
+}
+
 .weeks {
 	display: flex;
 	flex-direction: column;

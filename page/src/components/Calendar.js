@@ -37,6 +37,15 @@ const Calendar = ({ month, days, displayDate }) => {
 			<div className="header">
 				<span>{MonthsName[month]}</span>
 			</div>
+			<div className="dayList">
+				<span>Mo</span>
+				<span>Tu</span>
+				<span>We</span>
+				<span>Th</span>
+				<span>Fr</span>
+				<span>Sa</span>
+				<span>Su</span>
+			</div>
 			<div className="weeks">
 				{daysToWeeks(days).map(week => (
 					<Week>
