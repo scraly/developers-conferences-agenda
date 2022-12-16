@@ -10,16 +10,19 @@ outputFile whose value is "-" are going to stdout.
 
 #### Example Output
 ```json
-{
-	"name": "DDD Europe",
-	"date": [
-		1612371600,
-		1612458001
-	],
-	"hyperlink": "https://dddeurope.com/2021/handson-conference/",
-	"location": "Online (les autres annees Amsterdam, Pays-bas)",
-	"misc": ""
-}
+[
+	{
+		"name": "DDD Europe",
+		"date": [
+			1612371600,
+			1612458001
+		],
+		"hyperlink": "https://dddeurope.com/2021/handson-conference/",
+		"location": "Online (les autres annees Amsterdam, Pays-bas)",
+		"misc": ""
+	},
+	...
+]
 ```
  - name: Event name
  - date: Timestamp range
@@ -32,4 +35,8 @@ outputFile whose value is "-" are going to stdout.
  - [ ] No `:` after schedule date interefere with parser. (e.g. Voxxed Melbourne @ 2019.md)
 
 ## combine.py
-Combines json files. Used to compile `all-events.json` file.
+Combines json files. Used to compile `all-events.json` file. Default output to stdout.
+```sh
+USAGE:
+python3 combine.py *.json > all-events.json
+```
