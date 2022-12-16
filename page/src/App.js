@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 
 import YearSelector from 'components/YearSelector';
-import CalendarGrid from 'components/CalendarGrid';
+import CalendarGrid, { getEventsOnDate } from 'components/CalendarGrid';
+import SelectedEvents from 'components/SelectedEvents';
 
 import 'misc/fonts/inter/inter.css';
 import 'styles/App.css';
@@ -12,7 +13,8 @@ class App extends React.Component {
 
 		this.state = {
 			// TODO: Defaults to local time .getFullYear()
-			selectedYear: 2022
+			selectedYear: 2022,
+			events: []
 		};
 	}
 
@@ -23,7 +25,9 @@ class App extends React.Component {
 	}
 
 	displayDate(date) {
-		/* No Op */
+		this.setState((state) => {
+			return { events: getEventsOnDate(date) };
+		});
 	}
 
 	render() {
@@ -36,6 +40,9 @@ class App extends React.Component {
 				<CalendarGrid
 				year={this.state.selectedYear}
 				displayDate={this.displayDate.bind(this)} />
+
+				<SelectedEvents
+				events={this.state.events} />
 			</>
 		);
 	}
