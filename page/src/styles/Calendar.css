@@ -1,3 +1,7 @@
+.header {
+	text-align: center;
+}
+
 .weeks {
 	display: flex;
 	flex-direction: column;
