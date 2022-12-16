@@ -8,7 +8,7 @@ const SelectedEvents = ({ events }) => {
 			{events?.map(e => <EventDisplay {...e} />)}
 		</div>
 	);
-};
+}
 
 const EventDisplay = ({ name, hyperlink, location, misc }) => {
 	return (

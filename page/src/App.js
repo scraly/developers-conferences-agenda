@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { createRef } from 'react';
 
 import YearSelector from 'components/YearSelector';
 import CalendarGrid, { getEventsOnDate } from 'components/CalendarGrid';
@@ -11,6 +11,7 @@ class App extends React.Component {
 	constructor(props) {
 		super(props);
 
+		this.eventsGrid = createRef();
 		this.state = {
 			// TODO: Defaults to local time .getFullYear()
 			selectedYear: 2022,
@@ -30,6 +31,10 @@ class App extends React.Component {
 		});
 	}
 
+	componentDidUpdate() {
+		this.eventsGrid.current?.scrollIntoView({ behavior: 'smooth' });
+	}
+
 	render() {
 		return (
 			<>
@@ -41,8 +46,9 @@ class App extends React.Component {
 				year={this.state.selectedYear}
 				displayDate={this.displayDate.bind(this)} />
 
-				<SelectedEvents
-				events={this.state.events} />
+				<div ref={this.eventsGrid}>
+					<SelectedEvents events={this.state.events} />
+				</div>
 			</>
 		);
 	}
