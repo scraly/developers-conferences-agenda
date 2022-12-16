@@ -2,3 +2,7 @@ body {
 	outline: 0;
 	box-sizing: border-box;
 }
+
+.dcaTitle {
+	text-align: center;
+}
