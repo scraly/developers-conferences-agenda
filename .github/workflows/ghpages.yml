@@ -1,0 +1,51 @@
+name: Deploy GitHub Pages
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 14
+          cache: npm
+          cache-dependency-path: '**/package-lock.json'
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.8'
+      - name: Parse Markdowns
+        working-directory: tools
+        run: |
+          python3 parser.py README > readme.json
+          python3 parser.py 2017 > 2017.json
+          python3 parser.py 2018 > 2018.json
+          python3 parser.py 2019 > 2019.json
+          python3 parser.py 2020 > 2020.json
+          python3 parser.py 2021 > 2021.json
+          python3 parser.py 2022 > 2022.json
+      - working-directory: page
+        run: npm install -D
+      - name: Combine JSONs
+        working-directory: tools
+        run: |
+          python3 combine.py *.json > all-events.json
+          mv all-events.json ../page/src/misc/all-events.json
+      - working-directory: page
+        run: npm run build
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: gh-pages
+          build_dir: build/
+          keep_history: true
+          fqdn: developers.events # CNAME
+          jekyll: false # Solve website 404
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
