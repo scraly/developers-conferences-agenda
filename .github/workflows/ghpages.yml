@@ -43,7 +43,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: gh-pages
-          build_dir: build/
+          build_dir: page/build/
           keep_history: true
           fqdn: developers.events # CNAME
           jekyll: false # Solve website 404
