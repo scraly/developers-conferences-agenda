@@ -180,7 +180,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 * 15: [KCD Zurich](https://github.com/cncf/kubernetes-community-days/issues/449) - Zurich (Switzerland) & Online 
 * 15-16: [DevOps Days Birmingham UK](https://devopsdays.org/events/2023-birmingham-uk/welcome/) - Birmingham (UK)
 * 15-16: [Le Camping des Speakers](https://camping-speakers.fr/) - Baden (France)
-* 20-23: [JCON PEOPLE](https://jcon.one/) - Düsseldorf, Germany
+* 20-23: [JCON PEOPLE](https://jcon.one/) - Düsseldorf (Germany)
 * 20-23: [CloudLand 2023](https://www.cloudland.org/en/home/) - Phantasialand near Cologne (Germany) <img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green">
 * 21-23: [DevOps Days Amsterdam](https://devopsdays.org/events/2023-amsterdam/welcome/) - Amsterdam (Netherlands)
 * 26-28: [Monitorama 2023](https://monitorama.com/2023/pdx.html#cfp) - Portland, OR (USA) <img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2023&color=green">
