@@ -12,7 +12,7 @@ function daysToWeeks(days) {
 
 	let emptyFill = 0;
 	for (let i = 0; i < days.length; i++) {
-		if (i == 0) {
+		if (i === 0) {
 			let day = days[0].date.getDay() - 1;
 			if (day < 0) day = 7 - Math.abs(day);
 

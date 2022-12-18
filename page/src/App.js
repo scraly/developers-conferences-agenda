@@ -23,7 +23,7 @@ class App extends React.Component {
 			// TODO: Defaults to local time .getFullYear()
 			selectedYear: 2022,
 			events: [],
-			selectedDate: new Date
+			selectedDate: new Date()
 		};
 	}
 
@@ -46,7 +46,7 @@ class App extends React.Component {
 
 		for (const event of allEvents) {
 			let eventYear = new Date(event.date[0] * 1000).getFullYear();
-			if (eventYear != this.state.selectedYear) continue;
+			if (eventYear !== this.state.selectedYear) continue;
 
 			let vevent = new VEVENT();
 			vevent.addProp('UID', `${Math.random()}@dca`);
@@ -67,7 +67,7 @@ class App extends React.Component {
 	}
 
 	componentDidUpdate(prevProps, prevState) {
-		if (prevState.selectedDate != this.state.selectedDate) {
+		if (prevState.selectedDate !== this.state.selectedDate) {
 			this.eventsGrid.current?.scrollIntoView({ behavior: 'smooth' });
 		}
 	}
