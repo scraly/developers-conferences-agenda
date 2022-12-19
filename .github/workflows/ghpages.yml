@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   publish:
@@ -30,6 +33,7 @@ jobs:
       - working-directory: page
         run: npm run build
       - name: Deploy to GitHub Pages
+        if: github.ref_name == 'main'
         uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: gh-pages
