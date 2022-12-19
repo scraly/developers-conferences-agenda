@@ -29,9 +29,12 @@ jobs:
         working-directory: tools
         run: |
           ./parse-and-combine.sh all-events.json
-          mv all-events.json ../page/src/misc/all-events.json
+          cp all-events.json ../page/src/misc/all-events.json
       - working-directory: page
         run: npm run build
+      - name: Make all-events.json available at the site root
+        working-directory: tools
+        run: mv all-events.json ../page/build/all-events.json
       - name: Deploy to GitHub Pages
         if: github.ref_name == 'main'
         uses: crazy-max/ghaction-github-pages@v2
