@@ -212,3 +212,7 @@ This tech conferences agenda list can be seen in https://developers.events/
 ### November
 
 * 6-10: [KubeCon + CloudNativeCon NA 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Chicago (USA)
+
+### December
+
+* 6-7: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France)
