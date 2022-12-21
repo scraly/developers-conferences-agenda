@@ -16,8 +16,6 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 This tech conferences agenda list can be seen in https://developers.events/
 
-All the events (past and coming) are available publicly in JSON: https://developers.events/all-events.json
-
 ## Archives
 
 * [2017](archives/2017.md)
@@ -126,7 +124,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 23: [Apprise Conf](https://appriseconf.com/) - Oslo (Norway) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeL3DOqPTM8GgaJONtPI-LmzCZCCU-SIxu1hepAhdQxfpeM-g/viewform"><img alt="CFP Apprise Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%31-January-2023&color=green"></a>
 * 23: [DevDay](https://www.devday.be/) - Mons (Belgium) <a href="https://sessionize.com/devday-2023/?e=1688a2"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-24%20to%20January-31-2023&color=green"></a>
 * 23-24: [Wasm I/O](https://wasmio.tech) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio23"><img alt="CFP Wasm I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-January-2023&color=green"></a>
-* 23-24: [SymfonyLive Paris](https://live.symfony.com/2023-paris/) - Paris (France) <a href="https://live.symfony.com/2023-paris/cfp"><img alt="CFP SymfonyLive Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2022&color=yellow<"></a>
+* 23-24: [SymfonyLive Paris](https://live.symfony.com/2023-paris/) - Paris (France)
 * 23-24: [Agile Niort](https://agileniort.fr/) - Niort (France) <a href="https://sessionize.com/agile_niort_2023"><img alt="CFP AgileNiort" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2022&color=green"></a>
 * 23-24: [Scalar](https://www.scalar-conf.com/) - Warsaw (Poland) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZh-gG3Zb3AxECUOVzq8anoCPlrOUGdtjCtxerWpnANN1DfA/viewform"><img alt="CFP Scalar" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=green"></a>
 * 28: [Azure Cosmos Conf](https://learn.microsoft.com/fr-fr/events/learn-events/azure-cosmos-db-conf-2023/) - Online <a href="https://sessionize.com/azure-cosmos-db-conf-2023"><img alt="CFP Azure Cosmos" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2023&color=green"></a>
@@ -184,6 +182,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 15: [KCD Zurich](https://github.com/cncf/kubernetes-community-days/issues/449) - Zurich (Switzerland) & Online 
 * 15-16: [DevOps Days Birmingham UK](https://devopsdays.org/events/2023-birmingham-uk/welcome/) - Birmingham (UK)
 * 15-16: [Le Camping des Speakers](https://camping-speakers.fr/) - Baden (France)
+* 15-16: [SymfonyOnline](https://live.symfony.com/2023-world-summer/cfp) - Online <img alt="CFP SymfonyOnline June 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%206-March-2023&color=green"></a>
 * 20-23: [JCON PEOPLE](https://jcon.one/) - Düsseldorf (Germany)
 * 20-23: [CloudLand 2023](https://www.cloudland.org/en/home/) - Phantasialand near Cologne (Germany) <img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green">
 * 21-23: [DevOps Days Amsterdam](https://devopsdays.org/events/2023-amsterdam/welcome/) - Amsterdam (Netherlands)
@@ -220,3 +219,4 @@ All the events (past and coming) are available publicly in JSON: https://develop
 ### December
 
 * 6-7: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France)
+* 7-8: [SymfonyCon Brussels](https://live.symfony.com/2023-brussels-con/) - Brussels (Belgium)
