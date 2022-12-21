@@ -16,6 +16,8 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 This tech conferences agenda list can be seen in https://developers.events/
 
+All the events (past and coming) are available publicly in JSON: https://developers.events/all-events.json
+
 ## Archives
 
 * [2017](archives/2017.md)
