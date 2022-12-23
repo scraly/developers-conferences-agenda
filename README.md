@@ -156,8 +156,8 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 25-28: [Great International Developer Summit](https://developersummit.com/) - Bengaluru (India)
 * 26-27: [Building IoT](https://www.buildingiot.de/index.php) - München (Germany)
 * 26-28: [PyData](https://pydata.org/seattle2023) - Seattle (USA)
-* 27-28: [Clojure/conj](https://2023.clojure-conj.org/) - Durham, NC (USA) <a href="https://2023.clojure-conj.org/call-for-proposals/)"><img alt="CFP Clojure/conj 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20Dec-19%20to%20January-15-2023&color=green"></a>
-* 28-29: [DevOps Days Caceres](https://devopsdays.org/events/2023-caceres/welcome/) - Caceres (Spain)
+* 27-28: [Clojure/conj](https://2023.clojure-conj.org/) - Durham, NC (USA) <a href="https://2023.clojure-conj.org/call-for-proposals/"><img alt="CFP Clojure/conj 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20Dec-19%20to%20January-15-2023&color=green"></a>
+* 28-29: [DevOps Days Caceres](https://devopsdays.org/events/2023-caceres/welcome/) - Caceres (Spain) <a href="https://docs.google.com/forms/d/16So5MiAK1gx67n8030MKQkJcyQQq8rOXcJyuTbbjBXw/viewform?edit_requested=true"><img alt="CFP DevOps Days Caceres 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%19-February-2023&color=green"></a>
 
 ### May
 
