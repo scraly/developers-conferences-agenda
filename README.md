@@ -148,7 +148,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 19-21: [InflectraCon](https://www.inflectracon.com/) - Washington (USA)
 * 20-21: [DevOps Days Birmingham AL](https://devopsdays.org/events/2023-birmingham-al/welcome/) - Birmingham (USA)
 * 20-21: [Toulouse Hacking Convention 2023](https://thcon.party/) - Toulouse (France) <a href="https://thcon.party/cfp.html"><img alt="CFP THCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%205-February-2023&color=green"> </a>
-* 20-22: [Dotnet days](https://dotnetdays.ro/) - Iasi (Romania) <a href="https://sessionize.com/dotnetdays-2023"><img alt="CFP Dotnetdays" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-Januray-2023&color=green"> </a>
+* 20-22: [Dotnet days](https://dotnetdays.ro/) - Iasi (Romania) <a href="https://sessionize.com/dotnetdays-2023"><img alt="CFP Dotnetdays" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-January-2023&color=green"> </a>
 * 23-25: [DevOps Days Denver](https://devopsdays.org/events/2023-denver/welcome/) - Denver (USA)
 * 24-25: [DevOps Days Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
 * 24-27: [Serverless Architecture Conference](https://serverless-architecture.io/london) - London (UK) & Online 
@@ -157,7 +157,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 26-27: [Building IoT](https://www.buildingiot.de/index.php) - München (Germany)
 * 26-28: [PyData](https://pydata.org/seattle2023) - Seattle (USA)
 * 27-28: [Clojure/conj](https://2023.clojure-conj.org/) - Durham, NC (USA) <a href="https://2023.clojure-conj.org/call-for-proposals/"><img alt="CFP Clojure/conj 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20Dec-19%20to%20January-15-2023&color=green"></a>
-* 28-29: [DevOps Days Caceres](https://devopsdays.org/events/2023-caceres/welcome/) - Caceres (Spain) <a href="https://docs.google.com/forms/d/16So5MiAK1gx67n8030MKQkJcyQQq8rOXcJyuTbbjBXw/viewform?edit_requested=true"><img alt="CFP DevOps Days Caceres 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%19-February-2023&color=green"></a>
+* 28-29: [DevOps Days Caceres](https://devopsdays.org/events/2023-caceres/welcome/) - Caceres (Spain) <a href="https://docs.google.com/forms/d/16So5MiAK1gx67n8030MKQkJcyQQq8rOXcJyuTbbjBXw/viewform?edit_requested=true"><img alt="CFP DevOps Days Caceres 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-February-2023&color=green"></a>
 
 ### May
 
