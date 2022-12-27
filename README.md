@@ -98,6 +98,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 14-15: [Angular Global Summit](https://events.geekle.us/angular2/) - Online
 * 15-16: [Magento Florida](https://meetmagentofl.com/) - Hollywood (USA)
 * 15-17: [DeveloperWeek](https://www.developerweek.com/) - Oakland (Canada)
+* 15-23: [ProductWorld](https://productworld.co/) - California (USA) <a href="https://sessionize.com/productworld-2023/"><img alt="CFP ProductWorld 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-December-2022&color=red"></a>
 * 16-17: [HashiTalks](https://events.hashicorp.com/hashitalks2023) - Online <a href="https://sessionize.com/hashitalks-2023"><img alt="CFP HashiTalks 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2022&color=red"> </a>
 * 16-19: [PyConFR](https://www.pycon.fr/2023/) - Bordeaux (France) <a href="https://cfp-2023.pycon.fr/"><img alt="CFP PyConFr 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-Janvier-2023&color=green"> </a>
 * 21-23: [DeveloperWeek](https://www.developerweek.com/) - Online
