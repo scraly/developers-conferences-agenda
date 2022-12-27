@@ -202,6 +202,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 * TBD: [KCD Munich](https://github.com/cncf/kubernetes-community-days/issues/451) - Munich, Germany 
 * 3-5: [DevBCN](http://www.devbcn.com) - Barcelona (Spain)
+* 22: [CodeCampSDQ](https://codecampsdq.com) - Santo Domingo (Dominican Republic) <a href="https://sessionize.com/codecampsdq-2023/"><img alt="CFP CodeCampSDQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
 
 ### August
 
