@@ -212,7 +212,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 28-01/09: [VLDB Very Large Database](https://vldb.org/2023/) - Vancouver (Canada)
 
 ### September
-
+* 19: [Salon de la Data Nantes] (https://salondata.fr/index.php/le-salon/) - Nantes (France) & Online
 * 21-22: [API Platform Conference](https://api-platform.com/con/2023) - Lille (France) & Online
 * 21-23: [Strange Loop 2023](https://thestrangeloop.com) - St. Louis, Missouri (USA)
 * 27: [DevOps Days Cairo](https://devopsdays.org/events/2023-cairo/welcome/) - Cairo (Egypt)
