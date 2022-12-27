@@ -68,7 +68,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 ### January
 
-* 2: [CSI Linux Conference](linkedin.com/events/csilinuxvirtualconference20237013231035479977984) - Online
+* 2: [CSI Linux Conference](https://www.linkedin.com/events/csilinuxvirtualconference20237013231035479977984/about/) - Online
 * 19: [Archilocus](https://www.archilocus.tech/about) - Bordeaux (France) <a href="https://conference-hall.io/public/event/qII4ZCroLOcGUtnr0W3M"><img alt="Archilocus Winter 2023" src="https://img.shields.io/static/v1?label=CFP&message=December-31-2022&color=green"> </a>
 * 19-24: [jChampionsConference](https://jchampionsconf.com/) - online
 * 19-20: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/3lWSdH0pfZkHEAL7RWSJ"><img alt="Touraine Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-30%20to%20November-27-2022&color=red"> </a>
