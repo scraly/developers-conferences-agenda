@@ -171,6 +171,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 12: [AFUP Day](https://event.afup.org/) Lille & Lyon (France) <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"></a>
 * 12-15: [Vue.js Live Conference](https://vuejslive.com/) - London (UK) & Online
 * 15-18: [SLOconf 2023](https://www.sloconf.com/) - Online <img alt="CFP SLOconf 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green">
+* 16-18: [php\[tek\]](https://tek.phparch.com/) - Illinois (USA) <a href="https://sessionize.com/phptek-2023"><img alt="CFP php\[tek\] 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%201-December-2022&color=red"></a>
 * 17-20: [PyCon LT](https://pycon.lt/2023) - Vilnius (Lithuania)
 * 17-18: [Qubit Conference Prague](https://prague.qubitconference.com/) - Prague (Czech Republic)
 * 18-19: [JS Heroes](https://jsheroes.io/) - in Cluj-Napoca (Romania)
