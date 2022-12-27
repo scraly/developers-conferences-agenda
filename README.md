@@ -182,6 +182,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 ### June
 
 * 08-09: [DDD Europe](https://2023.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://sessionize.com/dddeu23/"><img alt="CFP DDDEu 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=green"></a>
+* 12-16: [Microsoft 365 EduCon DC](https://www.365educon.com/DC) - Washington (US) <a href="https://sessionize.com/microsoft-365-educon-dc-2023/"><img alt="CFP Microsoft 365 EduCon DC 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2022&color=red"></a>
 * 15: [KCD Zurich](https://github.com/cncf/kubernetes-community-days/issues/449) - Zurich (Switzerland) & Online 
 * 15-16: [DevOps Days Birmingham UK](https://devopsdays.org/events/2023-birmingham-uk/welcome/) - Birmingham (UK)
 * 15-16: [Le Camping des Speakers](https://camping-speakers.fr/) - Baden (France) <a href="https://conference-hall.io/public/event/HDF3RTtlPRv7WIuxthtr"><img alt="CFP Camping Speakers June 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=green"></a> 
