@@ -175,6 +175,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 16-18: [php\[tek\]](https://tek.phparch.com/) - Illinois (USA) <a href="https://sessionize.com/phptek-2023"><img alt="CFP php\[tek\] 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%201-December-2022&color=red"></a>
 * 17-20: [PyCon LT](https://pycon.lt/2023) - Vilnius (Lithuania)
 * 17-18: [Qubit Conference Prague](https://prague.qubitconference.com/) - Prague (Czech Republic)
+* 17: [TEQNation](https://teqnation.com/) - Utrecht (Netherlands) - <a href="https://sessionize.com/teqnation-2023"><img alt="CFP TEQNation 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-February-2023&color=green"></a>
 * 18-19: [JS Heroes](https://jsheroes.io/) - in Cluj-Napoca (Romania)
 * 18-19: [phpday](https://2023.phpday.it/) - Verona (Italy) & Online
 * 18-19: [Spring I/O](https://2023.springio.net/) Barcelona (Spain) <a href="https://www.papercall.io/springio23"><img alt="CFP Spring I/O 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2023&color=green"></a>
