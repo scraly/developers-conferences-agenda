@@ -165,6 +165,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 4: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
 * 8-12: [JAX](https://jax.de/mainz) - Mainz (Germany) & Online 
 * 10-12: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk23.cfp.dev/#/"><img alt="CFP Devoxx UK 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=green"></a>
+* 10-11: [Remix](https://remix.run/conf/2023) - Salt Lake City, Utah (USA) <a href="https://sessionize.com/remix-2023"><img alt="CFP Remix 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%208-February-2023&color=green"></a>
 * 12: [AFUP Day](https://event.afup.org/) Lille & Lyon (France) <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"></a>
 * 12-15: [Vue.js Live Conference](https://vuejslive.com/) - London (UK) & Online
 * 15-18: [SLOconf 2023](https://www.sloconf.com/) - Online <img alt="CFP SLOconf 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green">
