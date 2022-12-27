@@ -94,6 +94,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 7-8: [State of Open Con](https://stateofopencon.com/) - London (UK)
 * 7-8: [Civo Navigate](https://www.civo.com/navigate) - Tempa Bay (USA)
 * 9-10: [Latam 2023 DevRelCon](https://latam-2023.devrelcon.dev/) - Online
+* 9-10: [VueJs Amsterdam](https://vuejs.amsterdam/) - Amsterdam (The Netherlands)
 * 9-11: [World AI Cannes](https://worldaicannes.com/) - Cannes (France)
 * 15: [enterJS Web-Performance Day](https://enterjs.de/web-performance.php) - Online
 * 14-15: [Angular Global Summit](https://events.geekle.us/angular2/) - Online
