@@ -27,43 +27,6 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * [2021](archives/2021.md)
 * [2022](archives/2022.md)
 
-## 2022
-
-### December
-
-* 1: [Devops DDay #7](https://2022.devops-dday.com/) - Marseille (France) <a href="https://conference-hall.io/public/event/eKYGzptI6y44zoS8sGUz"><img alt="CFP Devops DDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2022&color=red"> </a>
-* 2: [BDX I/O](https://www.bdxio.fr/) - Bordeaux (France) <a href="https://conference-hall.io/public/event/OJC5Ou5YJodfetgSJCa3"><img alt="CFP BDX I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=red"> </a>
-* 2: [DevFest Dijon 2022](https://www.linkedin.com/posts/developers-group-dijon_apr%C3%A8s-des-%C3%A9changes-avec-google-le-developers-activity-6973555910140903424-rjRH/) - Dijon (France) <a href="https://conference-hall.io/public/event/cXWCepNzXVWwb1i6ktVA"><img alt="CFP DevFest Dijon 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-October-2022&color=red"> </a>
-* 2-3: [Oπe\n Conf Athens 2022](https://www.open-conf.gr/) - Athens (Greece) <a href="https://sessionize.com/open_conf/"><img alt="CFP Oπe\n Conf Athens 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Aug-2022&color=red"> </a>
-* 2-4: [PyCon Chile 2022](https://pycon.cl/) - Copiapó (Chile)
-* 5-6: [Automotive Linux Summit](https://events.linuxfoundation.org/open-source-summit-japan/about/automotive-linux-summit/) - Yokohama (Japan) & Online
-* 5-6: [CloudOpen Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/cloudopen/) - Yokohama (Japan) & Online
-* 5-6: [Community Leadership Conference Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/community-leadership-conference/) - Yokohama (Japan) & Online
-* 5-6: [ContainerCon](https://events.linuxfoundation.org/open-source-summit-japan/about/containercon/) - Yokohama (Japan) & Online
-* 5-6: [Critical Software Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/critical-software-summit/) - Yokohama (Japan) & Online
-* 5-6: [Embedded IoT Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/embedded-iot-summit/) - Yokohama (Japan) & Online
-* 5-6: [Emerging OS Forum Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/emerging-os-forum/) - Yokohama (Japan) & Online
-* 5-6: [LinuxCon Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/linuxcon/) - Yokohama (Japan) & Online
-* 5-6: [ContainerCon](https://events.linuxfoundation.org/open-source-summit-japan/about/containercon/) - Yokohama (Japan) & Online
-* 5-6: [Open AI + Data Forum Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/open-ai-data-forum/) - Yokohama (Japan) & Online
-* 5-6: [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) - Yokohama (Japan) & Online
-* 5-6: [OSPOCon Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/ospocon/) - Yokohama (Japan) & Online
-* 5-8: [DevOpsCon Munich](https://devopscon.io/call-for-papers/) - Munich (Germany) <a href="https://devopscon.io/call-for-papers/"><img alt="CFP DevOpsCon Munich" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-Jun-2022&color=red"> </a>
-* 6-7: [DevRel Con Prague](https://prague-2022.devrelcon.dev/) - Prague (Czech Republic)
-* 7: [DevFest Stockholm 2022](https://devfest.gdgcloud.se/) - Stockholm (Sweden)
-* 7: [KubeDay Japan](https://events.linuxfoundation.org/kubeday-japan/) - Yokohama (Japan)
-* 7: [SODA Con](https://events.linuxfoundation.org/sodacon-japan/) - Yokohama (Japan)
-* 7-8: [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/) - Yokohama (Japan)
-* 7-8: [PrestoCon](https://events.linuxfoundation.org/prestocon/) -  Mountain View (USA)
-* 7-9: [SREcon22 Asia/Pacific](https://www.usenix.org/srecon) - Sydney (Australia)
-* 8: [Agile Tour Lausanne 2022](https://www.agilesuisse.ch/agile-tour-lausanne-2022) - Lausanne (Suisse)
-* 8: [Open Source in Finance Forum New York](https://events.linuxfoundation.org/open-source-finance-forum-new-york/) -  New York (USA)
-* 10: [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/) - Recife (Brazil)
-* 13-14: [RISC-V Summit](https://events.linuxfoundation.org/riscv-summit/) -  San Jose (USA)
-* 14-15: [DevOpsDays Tel-Aviv](https://sessionize.com/devopsdays-tel-aviv-2022/) - Tel-Aviv <a href="https://sessionize.com/devopsdays-tel-aviv-2022/"><img alt="DevOpsDays Tel-Aviv" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2022&color=red"> </a>
-* 14-16: [API Days Paris](https://www.apidays.global/paris/) - Paris (France) & Online
-* 15-16: [Agile Tour Rennes](https://agiletour.agilerennes.org/) - Rennes (France) <a href="https://sessionize.com/agile-tour-rennes-2022/"><img alt="Agile Tour Rennes" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
-
 ## 2023
 
 ### January
