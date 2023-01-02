@@ -91,7 +91,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 22-24: [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2023/) - Bucharest (Romania)
 * 22-26: [International PHP Conference Berlin](https://phpconference.com/berlin-en) - Berlin (Germany)
 * 22-26: [Webinale](https://webinale.de/en/) - Berlin (Germany)
-* 23: [Apprise Conf](https://appriseconf.com/) - Oslo (Norway) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeL3DOqPTM8GgaJONtPI-LmzCZCCU-SIxu1hepAhdQxfpeM-g/viewform"><img alt="CFP Apprise Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%31-January-2023&color=green"></a>
+* 23: [Apprise Conf](https://appriseconf.com/) - Oslo (Norway) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeL3DOqPTM8GgaJONtPI-LmzCZCCU-SIxu1hepAhdQxfpeM-g/viewform"><img alt="CFP Apprise Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green"></a>
 * 23: [DevDay](https://www.devday.be/) - Mons (Belgium) <a href="https://sessionize.com/devday-2023/?e=1688a2"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-24%20to%20January-31-2023&color=green"></a>
 * 23-24: [Wasm I/O](https://wasmio.tech) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio23"><img alt="CFP Wasm I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-January-2023&color=green"></a>
 * 23-24: [SymfonyLive Paris](https://live.symfony.com/2023-paris/) - Paris (France) <a href="https://live.symfony.com/2023-paris/cfp"><img alt="CFP SymfonyLive Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2022&color=red<"></a>
