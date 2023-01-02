@@ -86,6 +86,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 14-15: [DevOps Days Salt Lake City](https://devopsdays.org/events/2023-salt-lake-city/welcome/) - Salt Lake City (USA)
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)
 * 20: [HTML & CSS Days](https://javascript-days.de/html-css) - Online
+* 21-23: [JavaLand](https://www.javaland.eu/) - Brühl (Germany)
 * 21-23: [SRECon Americas](https://www.usenix.org/conference/srecon23americas) - Santa Clara (USA)
 * 22-24: [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2023/) - Bucharest (Romania)
 * 22-26: [International PHP Conference Berlin](https://phpconference.com/berlin-en) - Berlin (Germany)
