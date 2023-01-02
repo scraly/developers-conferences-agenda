@@ -58,7 +58,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 7-8: [Civo Navigate](https://www.civo.com/navigate) - Tempa Bay (USA)
 * 9-10: [Latam 2023 DevRelCon](https://latam-2023.devrelcon.dev/) - Online
 * 9-10: [VueJs Amsterdam](https://vuejs.amsterdam/) - Amsterdam (The Netherlands)
-* 9-11: [World AI Cannes](https://worldaicannes.com/) - Cannes (France)
+* 9-11: [World AI Cannes Festival](https://worldaicannes.com/) - Cannes (France)
 * 15: [enterJS Web-Performance Day](https://enterjs.de/web-performance.php) - Online
 * 14-15: [Angular Global Summit](https://events.geekle.us/angular2/) - Online
 * 15-16: [Magento Florida](https://meetmagentofl.com/) - Hollywood (USA)
@@ -169,8 +169,9 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 ### July
 
-* TBD: [KCD Munich](https://github.com/cncf/kubernetes-community-days/issues/451) - Munich, Germany 
+* TBD: [KCD Munich](https://github.com/cncf/kubernetes-community-days/issues/451) - Munich (Germany) 
 * 3-5: [DevBCN](http://www.devbcn.com) - Barcelona (Spain)
+* 10-12: [Riviera DEV](https://rivieradev.fr) - Sophia Antipolis (Nice, France)
 * 19-22: [Drupal Developer Days 2023](https://ddd23.drupalcamp.at/) - Vienna (Austria)
 * 22: [CodeCampSDQ](https://codecampsdq.com) - Santo Domingo (Dominican Republic) <a href="https://sessionize.com/codecampsdq-2023/"><img alt="CFP CodeCampSDQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
 
@@ -189,7 +190,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 2-6: [QCon San Francisco](https://qconsf.com/) - San Francisco (USA)
 * 5-6: [DevOps Days Indianapolis](https://devopsdays.org/events/2023-indianapolis/welcome/) - Indianapolis (USA)
 * 10-12: [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Dublin (Ireland)
-* 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont Ferrand (France)
+* 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont-Ferrand (France)
 
 ### November
 
