@@ -179,6 +179,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 ### August
 
+* 16-18: [GopherCon UK 2023](https://www.gophercon.co.uk) - London (UK)
 * 28-01/09: [VLDB Very Large Database](https://vldb.org/2023/) - Vancouver (Canada)
 
 ### September
