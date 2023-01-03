@@ -3,7 +3,20 @@ This is a React project directory.
 
 ## Development
 
-Edit files in `src/` or `public/` directory only.
+* Install tools
+
+```
+$ cd page
+$ npm install -D
+```
+
+* Build
+
+```
+$ npm run build
+```
+
+* Edit files in `src/` or `public/` directory only.
 
 ### Run locally
 

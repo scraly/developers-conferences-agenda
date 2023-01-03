@@ -20,8 +20,7 @@ class App extends React.Component {
 
 		this.eventsGrid = createRef();
 		this.state = {
-			// TODO: Defaults to local time .getFullYear()
-			selectedYear: 2023,
+			selectedYear: new Date().getFullYear(),
 			events: [],
 			selectedDate: new Date()
 		};
