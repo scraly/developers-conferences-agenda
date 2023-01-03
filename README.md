@@ -74,6 +74,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 ### March
 
+* 2-3: [T3ch Fest](https://t3chfest.es/2023/en/) - Madrid (Spain)
 * 3-4: [DevOps Days Goiana](https://devopsdays.org/events/2023-goiania/welcome/) - Goiana (Brazil)
 * 3: [PowerShell Day UK](https://synedgy.com/psdayuk/) - London (UK) <a href="https://sessionize.com/psdayuk-2023/"><img alt="CFP PowerShell Day UK" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2023&color=green"></a>
 * 7: [Kubernetes Community Days France](https://community.cncf.io/events/details/cncf-kcd-france-presents-kubernetes-community-days-france-2023/) - Paris (France) <img alt="CFP KCD Paris" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-15%20to%20November-13-2022&color=red">
