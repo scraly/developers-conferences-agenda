@@ -114,6 +114,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 17-21: [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - Amsterdam (Netherlands)
 * 18-19: [DevOps Days Tokyo](https://devopsdays.org/events/2023-tokyo/welcome/) - Tokyo (Japan)
 * 18-19: [NYSwifty](https://nyswifty.com/) - New York (USA)
+* 18-19: [Citus Con](https://www.citusdata.com/cituscon/2023/) - Online <a href="https://www.citusdata.com/cituscon/2023/cfp/"><img alt="CFP Citus Con 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%205-February-2023&color=green"></a>
 * 19-21: [InflectraCon](https://www.inflectracon.com/) - Washington (USA)
 * 20-21: [DevOps Days Birmingham AL](https://devopsdays.org/events/2023-birmingham-al/welcome/) - Birmingham (USA)
 * 20-21: [Toulouse Hacking Convention 2023](https://thcon.party/) - Toulouse (France) <a href="https://thcon.party/cfp.html"><img alt="CFP THCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%205-February-2023&color=green"> </a>
