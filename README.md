@@ -41,6 +41,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 25-26: [Global Summit for Node.js](https://events.geekle.us/nodejs2/) - Online
 * 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France) <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
 * 26-27: [Laracon EU](https://laracon.eu/) - Lisbon (Portugal)
+* 31: [Duck Conf](https://www.laduckconf.com/) - Paris (France)
 
 ### February
 
