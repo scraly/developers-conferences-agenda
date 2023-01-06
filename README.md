@@ -154,6 +154,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 25-26: [NDC Oslo](https://ndcoslo.com/) - Oslo (Norway)
 * 26: [Devfest Lille](https://devfest.gdglille.org/) - Lille (France) <a href="https://conference-hall.io/public/event/hRA5AjQjXYMPI3MpwyoF"><img alt="CFP Devfest Lille 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%2003-Jan-2023%20to%20-31-March-2023&color=green"></a>
 * 27: [Polycloud](https://polycloud.fr) - Montpellier (France) <a href="https://conference-hall.io/public/event/OR1ldOA5G0ASoizWvVbO"><img alt="Polycloud" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-April-2023&color=green"></a>
+* 30-31: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP jPrime 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2023&color=green"></a>
 
 ### June
 
