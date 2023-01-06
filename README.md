@@ -178,6 +178,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * TBD: [KCD Munich](https://github.com/cncf/kubernetes-community-days/issues/451) - Munich (Germany) 
 * 3-5: [DevBCN](http://www.devbcn.com) - Barcelona (Spain)
 * 10-12: [Riviera DEV](https://rivieradev.fr) - Sophia Antipolis (Nice, France)
+* 18-21: [ÜberConf](https://uberconf.com/) - Denver (USA)
 * 19-22: [Drupal Developer Days 2023](https://ddd23.drupalcamp.at/) - Vienna (Austria)
 * 22: [CodeCampSDQ](https://codecampsdq.com) - Santo Domingo (Dominican Republic) <a href="https://sessionize.com/codecampsdq-2023/"><img alt="CFP CodeCampSDQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
 * 27-28: [WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress/) - Berlin (Germany) <a href="https://sessionize.com/wearedevelopers-worldcongress23/"><img alt="CFP WeAreDevelopers World Congress 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2023&color=green"></a>
