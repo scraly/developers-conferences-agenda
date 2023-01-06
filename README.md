@@ -167,6 +167,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 15-16: [SymfonyOnline](https://live.symfony.com/2023-world-summer/) - Online <a href="https://live.symfony.com/2023-world-summer/cfp"><img alt="CFP SymfonyOnline June 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%206-March-2023&color=green"></a>
 * 20-23: [JCON PEOPLE](https://jcon.one/) - Düsseldorf (Germany)
 * 20-23: [CloudLand 2023](https://www.cloudland.org/en/home/) - Phantasialand near Cologne (Germany) <img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green">
+* 21: [J-Spring](https://jspring.nl/) - Utrecht (Netherlands)
 * 21-23: [DevOps Days Amsterdam](https://devopsdays.org/events/2023-amsterdam/welcome/) - Amsterdam (Netherlands)
 * 26-28: [Monitorama 2023](https://monitorama.com/2023/pdx.html#cfp) - Portland, OR (USA) <img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2023&color=green">
 * 26-29: [GopherCon Europe 2023](https://gophercon.eu/) - Berlin, Germany <img alt="CFP GopherCon Europe 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-February-2023&color=green">
