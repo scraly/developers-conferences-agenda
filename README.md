@@ -46,6 +46,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 ### February
 
 * 1-2: [CloudNative SecurityCon NA 2023](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) - Seattle (USA) <a href="https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp/#overview"><img alt="CFP CloudNative SecurityCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-November-2022&color=red"> </a>
+* 1: [FooConf](https://www.fooconf.fi/) - Helsinki (Finland)
 * 1-3: [Spring One Essentials](https://springone.io/) - Online
 * 2: [Very Tech Trip](https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB) - Paris (France) <a href="https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"> </a>
 * 2: [AgiLeMans](https://www.agilemans.org/) - Le Mans (France) <a href="https://sessionize.com/7ieme-journee-agile-au-mans-france-e/"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=red"> </a>
@@ -154,6 +155,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 18-19: [phpday](https://2023.phpday.it/) - Verona (Italy) & Online
 * 18-19: [Spring I/O](https://2023.springio.net/) Barcelona (Spain) <a href="https://www.papercall.io/springio23"><img alt="CFP Spring I/O 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2023&color=green"></a>
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
+* 23-26: [DevOps Pro Europe](https://devopspro.lt/) - Vilnius (Lithuania) & Online
 * 23-25: [Web À Québec](https://webaquebec.org/) - Quebec City (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/vgbK9zTW"><img alt="CFP WAQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=red"></a>
 * 25-26: [Newcrafts Paris](https://ncrafts.io/) - Paris (France) <a href="https://sessionize.com/newcrafts-paris-2023"><img alt="CFP Newcrafts Paris 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%2001-December-2022%20to%2012-February-2023&color=green"></a>
 * 25-26: [NDC Oslo](https://ndcoslo.com/) - Oslo (Norway)
@@ -169,6 +171,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 7: [Serverless Days Paris](https://paris.serverlessdays.io/fr/) - Paris (France) <a href="https://sessionize.com/serverlessdays-paris-2023/"><img alt="CFP Serverless Days Paris 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-February-2023&color=green"></a>
 * 8-9: [DDD Europe](https://2023.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://sessionize.com/dddeu23/"><img alt="CFP DDDEu 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=green"></a>
 * 12-16: [Microsoft 365 EduCon DC](https://www.365educon.com/DC) - Washington (US) <a href="https://sessionize.com/microsoft-365-educon-dc-2023/"><img alt="CFP Microsoft 365 EduCon DC 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2022&color=red"></a>
+* 13-15: [OpenInfra Summit](https://openinfra.dev/summit/vancouver-2023) - Vancouver (Canada)
 * 15: [KCD Zurich](https://github.com/cncf/kubernetes-community-days/issues/449) - Zurich (Switzerland) & Online 
 * 15-16: [DevOps Days Birmingham UK](https://devopsdays.org/events/2023-birmingham-uk/welcome/) - Birmingham (UK)
 * 15-16: [Le Camping des Speakers](https://camping-speakers.fr/) - Baden (France) <a href="https://conference-hall.io/public/event/HDF3RTtlPRv7WIuxthtr"><img alt="CFP Camping Speakers June 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=green"></a> 
