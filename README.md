@@ -91,6 +91,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 13-14: [Cassandra Summit](https://events.linuxfoundation.org/cassandra-summit/) - San Jose (USA)
 * 13-17: [ICSA](https://icsa-conferences.org/2023/) - L'aquila (Italy)
 * 14-15: [DevOps Days Salt Lake City](https://devopsdays.org/events/2023-salt-lake-city/welcome/) - Salt Lake City (USA)
+* 15-16: [axe-con](https://www.deque.com/axe-con/) - Online
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)
 * 16: [KCD Ukraine - Fundraiser](https://community.cncf.io/events/details/cncf-kcd-ukraine-presents-kcd-ukraine-2023-fundraiser/) - Online
 * 20: [HTML & CSS Days](https://javascript-days.de/html-css) - Online
