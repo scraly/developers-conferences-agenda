@@ -220,6 +220,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 ### October
 
+* 1-6: [CppCon](https://cppcon.org/) - Aurora, Colorado (USA) & Online
 * 2-6: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
 * 2-6: [QCon San Francisco](https://qconsf.com/) - San Francisco (USA)
 * 5-6: [DevOps Days Indianapolis](https://devopsdays.org/events/2023-indianapolis/welcome/) - Indianapolis (USA)
