@@ -219,6 +219,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 21-22: [API Platform Conference](https://api-platform.com/con/2023) - Lille (France) & Online
 * 21-23: [Strange Loop 2023](https://thestrangeloop.com) - St. Louis, Missouri (USA)
 * 27: [DevOps Days Cairo](https://devopsdays.org/events/2023-cairo/welcome/) - Cairo (Egypt)
+* 29: [Cloud Nord](https://www.cloudnord.fr/) - Lille (France)
 
 ### October
 
@@ -227,7 +228,6 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 2-6: [QCon San Francisco](https://qconsf.com/) - San Francisco (USA)
 * 5-6: [DevOps Days Indianapolis](https://devopsdays.org/events/2023-indianapolis/welcome/) - Indianapolis (USA)
 * 10-12: [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Dublin (Ireland)
-* 12: [Cloud Nord](https://www.cloudnord.fr/) - Lille (France)
 * 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont-Ferrand (France)
 
 ### November
