@@ -83,6 +83,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 4: [WTM Scotland](https://wtmscotland.com/) - Glasgow (Scotland) <a href="https://sessionize.com/wtm-scotland-international-womens-day-2023"><img alt="CFP WTM Scotland" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-February-2023&color=green"></a>
 * 4: [WTM Belfast](https://linktr.ee/WTMBelfast) - Belfast (UK) <a href="https://sessionize.com/women-techmakers-belfast-2023/"><img alt="CFP WTM Belfast" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-January-2023&color=green"></a>
 * 7: [Kubernetes Community Days France](https://community.cncf.io/events/details/cncf-kcd-france-presents-kubernetes-community-days-france-2023/) - Paris (France) <img alt="CFP KCD Paris" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-15%20to%20November-13-2022&color=red">
+* 7-8: [ElasticON Global](https://www.elasticon.com/event/e4d4b4ed-77a7-48d2-b711-74fea8341273/summary) — Online
 * 9: [KCD Los Angeles](https://community.cncf.io/events/details/cncf-kcd-los-angeles-presents-kcd-los-angeles-at-scale-20x/) - Pasadena (USA)
 * 9-12: [Scale 20x](https://www.socallinuxexpo.org/scale/20x) - Pasadena (USA)
 * 11-12: [Chemnitz Linux Days](https://chemnitzer.linux-tage.de/2023/en/) - Chemnitz (Germany)  <img alt="CFP Chemnitz Linux Days" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-January-2023&color=green">
@@ -136,6 +137,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 24-25: [DevOps Days Geneva](https://devopsdays.org/events/2023-geneva/welcome/) - Geneva (Switzerland)
 * 24-27: [Serverless Architecture Conference](https://serverless-architecture.io/london) - London (UK) & Online 
 * 24-27: [API Conference London](https://apiconference.net/london) - London (UK) & Online
+* 24-28: [Haystack US](https://haystackconf.com/) - Charlottesville, VA (USA) <a href="[https://sessionize.com/dotnetdays-2023](https://opensourceconnections.com/haystack-us-2023-call-for-papers/)"><img alt="CFP Haystack US" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-February-2023&color=green"> </a>
 * 25-28: [Great International Developer Summit](https://developersummit.com/) - Bengaluru (India)
 * 26-27: [Building IoT](https://www.buildingiot.de/index.php) - München (Germany)
 * 26-28: [PyData](https://pydata.org/seattle2023) - Seattle (USA)
@@ -164,6 +166,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 18-19: [JS Heroes](https://jsheroes.io/) - in Cluj-Napoca (Romania)
 * 18-19: [phpday](https://2023.phpday.it/) - Verona (Italy) & Online
 * 18-19: [Spring I/O](https://2023.springio.net/) Barcelona (Spain) <a href="https://www.papercall.io/springio23"><img alt="CFP Spring I/O 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2023&color=green"></a>
+* 18-19: [Craft Conference](https://craft-conf.com/2023) - Budapest (Hungary)
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
 * 23-26: [DevOps Pro Europe](https://devopspro.lt/) - Vilnius (Lithuania) & Online
 * 23-25: [Web À Québec](https://webaquebec.org/) - Quebec City (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/vgbK9zTW"><img alt="CFP WAQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=red"></a>
