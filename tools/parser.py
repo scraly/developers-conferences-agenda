@@ -1,6 +1,4 @@
 import sys
-import os
-import os.path as path
 from datetime import datetime
 import json
 
@@ -48,6 +46,12 @@ def parse_date(y, m, s):
 			datEnd = datetime(y, _m, _d)
 		else:
 			datEnd = datetime(y, m, int(components[1]))
+			# for dates such as '27-01: Elastic{ON} - USA (San Francisco)'
+			if datEnd < datStart:
+				if datStart.month < 12:
+					datEnd = datetime(y, datEnd.month + 1, datEnd.day)
+				else:
+					datEnd = datetime(y + 1, 1, datEnd.day)
 
 	return [
 		int(datStart.timestamp()),
