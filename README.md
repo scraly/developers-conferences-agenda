@@ -141,6 +141,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 26-27: [Building IoT](https://www.buildingiot.de/index.php) - München (Germany)
 * 26-28: [PyData](https://pydata.org/seattle2023) - Seattle (USA)
 * 27-28: [Clojure/conj](https://2023.clojure-conj.org/) - Durham, NC (USA) <a href="https://2023.clojure-conj.org/call-for-proposals/"><img alt="CFP Clojure/conj 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20Dec-19%20to%20January-15-2023&color=red"></a>
+* 27-28: [AndroidMakers by droidcon](https://androidmakers.droidcon.com/) - Montrouge (France) <a href="https://sessionize.com/androidmakers-by-droidcon-2023/"><img alt="CFP Android Markers by droidcon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2023&color=green"></a>
 * 28-29: [DevOps Days Caceres](https://devopsdays.org/events/2023-caceres/welcome/) - Caceres (Spain) <a href="https://docs.google.com/forms/d/16So5MiAK1gx67n8030MKQkJcyQQq8rOXcJyuTbbjBXw/viewform?edit_requested=true"><img alt="CFP DevOps Days Caceres 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-February-2023&color=green"></a>
 
 ### May
