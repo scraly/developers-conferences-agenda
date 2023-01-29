@@ -64,7 +64,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 15: [enterJS Web-Performance Day](https://enterjs.de/web-performance.php) - Online
 * 14-15: [Angular Global Summit](https://events.geekle.us/angular2/) - Online
 * 15-16: [Magento Florida](https://meetmagentofl.com/) - Hollywood (USA)
-* 15-17: [DeveloperWeek](https://www.developerweek.com/) - Oakland (Canada)
+* 15-17: [DeveloperWeek](https://www.developerweek.com/) - SF Bay Area (USA)
 * 17: [KCD Pakistan](https://community.cncf.io/events/details/cncf-kcd-pakistan-presents-kubernetes-community-days-pakistan-2023/) - Islamabad (Pakistan)
 * 15-23: [ProductWorld](https://productworld.co/) - California (USA) <a href="https://sessionize.com/productworld-2023/"><img alt="CFP ProductWorld 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-December-2022&color=red"></a>
 * 16-17: [HashiTalks](https://events.hashicorp.com/hashitalks2023) - Online <a href="https://sessionize.com/hashitalks-2023"><img alt="CFP HashiTalks 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2022&color=red"> </a>
@@ -105,9 +105,10 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 23: [DevDay](https://www.devday.be/) - Mons (Belgium) <a href="https://sessionize.com/devday-2023/?e=1688a2"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-24%20to%20January-31-2023&color=green"></a>
 * 23: [KCD Israel](https://community.cncf.io/events/details/cncf-kcd-israel-presents-kcd-israel-2023/) - Tel Aviv (Israel)
 * 23-24: [Wasm I/O](https://wasmio.tech) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio23"><img alt="CFP Wasm I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-January-2023&color=red"></a>
-* 23-24: [SymfonyLive Paris](https://live.symfony.com/2023-paris/) - Paris (France) <a href="https://live.symfony.com/2023-paris/cfp"><img alt="CFP SymfonyLive Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2022&color=red<"></a>
-* 23-24: [Agile Niort](https://agileniort.fr/) - Niort (France) <a href="https://sessionize.com/agile_niort_2023"><img alt="CFP AgileNiort" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2022&color=green"></a>
-* 23-24: [Scalar](https://www.scalar-conf.com/) - Warsaw (Poland) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZh-gG3Zb3AxECUOVzq8anoCPlrOUGdtjCtxerWpnANN1DfA/viewform"><img alt="CFP Scalar" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=green"></a>
+* 23-24: [SymfonyLive Paris](https://live.symfony.com/2023-paris/) - Paris (France) <a href="https://live.symfony.com/2023-paris/cfp"><img alt="CFP SymfonyLive Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2022&color=red"></a>
+* 23-24: [Agile Niort](https://agileniort.fr/) - Niort (France) <a href="https://sessionize.com/agile_niort_2023"><img alt="CFP AgileNiort" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2022&color=red"></a>
+* 23-24: [Scalar](https://www.scalar-conf.com/) - Warsaw (Poland) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZh-gG3Zb3AxECUOVzq8anoCPlrOUGdtjCtxerWpnANN1DfA/viewform"><img alt="CFP Scalar" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=red"></a>
+* 24: [Open Source Day](https://2023.osday.dev/) - Florence (Italy) & Online <a href="https://sessionize.com/opensourceday23"><img alt="CFP Open Source Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-January-2023&color=green"></a>
 * 28: [Azure Cosmos Conf](https://learn.microsoft.com/fr-fr/events/learn-events/azure-cosmos-db-conf-2023/) - Online <a href="https://sessionize.com/azure-cosmos-db-conf-2023"><img alt="CFP Azure Cosmos" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2023&color=green"></a>
 * 27-29: [QCon London](https://qconlondon.com/) - London (UK)
 
