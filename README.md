@@ -248,3 +248,13 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 6-7: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France)
 * 7-8: [SymfonyCon Brussels](https://live.symfony.com/2023-brussels-con/) - Brussels (Belgium)
 * 7-8: [DevTernity](https://devternity.com/) - Online
+
+## 2024
+
+### January
+
+* 31-03/02: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
+
+### February
+
+* 1-3: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
