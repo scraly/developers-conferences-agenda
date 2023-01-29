@@ -32,6 +32,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 ### January
 
 * 2: [CSI Linux Conference](https://www.linkedin.com/events/csilinuxvirtualconference20237013231035479977984/about/) - Online
+* 10: [Paris JUG Meetup - Young Blood](https://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20230110) - Paris (France) <a href="https://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20230110"><img alt="Meetup Paris JUG" src="https://img.shields.io/static/v1?label=Meetup&message=19h00&color=blue"> </a>
 * 19: [Archilocus](https://www.archilocus.tech/about) - Bordeaux (France) <a href="https://conference-hall.io/public/event/qII4ZCroLOcGUtnr0W3M"><img alt="Archilocus Winter 2023" src="https://img.shields.io/static/v1?label=CFP&message=December-31-2022&color=red"> </a>
 * 19-24: [jChampionsConference](https://jchampionsconf.com/) - online
 * 19-20: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/3lWSdH0pfZkHEAL7RWSJ"><img alt="Touraine Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-30%20to%20November-27-2022&color=red"> </a>
@@ -93,6 +94,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 13-17: [ICSA](https://icsa-conferences.org/2023/) - L'aquila (Italy)
 * 14-15: [DevOps Days Salt Lake City](https://devopsdays.org/events/2023-salt-lake-city/welcome/) - Salt Lake City (USA)
 * 15-16: [axe-con](https://www.deque.com/axe-con/) - Online <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+* 15-18: [JChateau](https://www.jchateau.org/) - Cheverny in the Châteaux of the Loire Valley (France)
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)
 * 16: [KCD Ukraine - Fundraiser](https://community.cncf.io/events/details/cncf-kcd-ukraine-presents-kcd-ukraine-2023-fundraiser/) - Online
 * 20: [HTML & CSS Days](https://javascript-days.de/html-css) - Online
@@ -180,6 +182,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 ### June
 
+* 1: [Javaday](https://javaday.parisjug.org/) - Paris (France)
 * 1-2: [JCON OpenBlend Slovenia](https://slovenia.jcon.one/) - Portorož (Slovenia) <a href="https://slovenia.jcon.one/en/call-for-papers"><img alt="CFP JCON OpenBlend Slovenia 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green"></a>
 * 6-7: [JNation](https://jnation.pt) - Coimbra (Portugal) <a href="https://sessionize.com/jnation-2023/"><img alt="CFP JNation 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green"></a>
 * 7: [Serverless Days Paris](https://paris.serverlessdays.io/fr/) - Paris (France) <a href="https://sessionize.com/serverlessdays-paris-2023/"><img alt="CFP Serverless Days Paris 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-February-2023&color=green"></a>
