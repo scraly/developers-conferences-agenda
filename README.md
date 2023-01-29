@@ -222,8 +222,8 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 ### September
 
-
 * 6-7: [JavaZone 2023](https://2023.javazone.no/) - Oslo (Norway)
+* 8: [JUG Summer Camp](https://www.jugsummercamp.org/) - La Rochelle (France)
 * 19: [Salon de la Data Nantes](https://salondata.fr/index.php/le-salon/) - Nantes (France) & Online
 * 21-22: [API Platform Conference](https://api-platform.com/con/2023) - Lille (France) & Online
 * 21-23: [Strange Loop 2023](https://thestrangeloop.com) - St. Louis, Missouri (USA)
