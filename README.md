@@ -29,22 +29,6 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 ## 2023
 
-### January
-
-* 2: [CSI Linux Conference](https://www.linkedin.com/events/csilinuxvirtualconference20237013231035479977984/about/) - Online
-* 10: [Paris JUG Meetup - Young Blood](https://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20230110) - Paris (France) <a href="https://www.parisjug.org/xwiki/wiki/oldversion/view/Meeting/20230110"><img alt="Meetup Paris JUG" src="https://img.shields.io/static/v1?label=Meetup&message=19h00&color=blue"> </a>
-* 19: [Archilocus](https://www.archilocus.tech/about) - Bordeaux (France) <a href="https://conference-hall.io/public/event/qII4ZCroLOcGUtnr0W3M"><img alt="Archilocus Winter 2023" src="https://img.shields.io/static/v1?label=CFP&message=December-31-2022&color=red"> </a>
-* 19-24: [jChampionsConference](https://jchampionsconf.com/) - online
-* 19-20: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/3lWSdH0pfZkHEAL7RWSJ"><img alt="Touraine Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-30%20to%20November-27-2022&color=red"> </a>
-* 23-27: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://sessionize.com/ndc-london-2023"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-September-2022&color=red"> </a>
-* 24-26: [Spring One Essentials](https://springone.io/) - Online
-* 25: [Flutter Forward](https://flutter.dev/events/flutter-forward) - Nairobi (Kenya)
-* 25-26: [Global Summit for Node.js](https://events.geekle.us/nodejs2/) - Online
-* 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France) <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
-* 26-27: [Laracon EU](https://laracon.eu/) - Lisbon (Portugal)
-* 28: [Bilbo Stack](https://bilbostack.com/) - Bilbao (Spain)
-* 31: [Duck Conf](https://www.laduckconf.com/) - Paris (France)
-
 ### February
 
 * 1-2: [CloudNative SecurityCon NA 2023](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) - Seattle (USA) <a href="https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp/#overview"><img alt="CFP CloudNative SecurityCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-November-2022&color=red"> </a>
