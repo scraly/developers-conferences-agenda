@@ -89,15 +89,15 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 22-24: [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2023/) - Bucharest (Romania)
 * 22-26: [International PHP Conference Berlin](https://phpconference.com/berlin-en) - Berlin (Germany)
 * 22-26: [Webinale](https://webinale.de/en/) - Berlin (Germany)
-* 23: [Apprise Conf](https://appriseconf.com/) - Oslo (Norway) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeL3DOqPTM8GgaJONtPI-LmzCZCCU-SIxu1hepAhdQxfpeM-g/viewform"><img alt="CFP Apprise Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green"></a>
-* 23: [DevDay](https://www.devday.be/) - Mons (Belgium) <a href="https://sessionize.com/devday-2023/?e=1688a2"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-24%20to%20January-31-2023&color=green"></a>
+* 23: [Apprise Conf](https://appriseconf.com/) - Oslo (Norway) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeL3DOqPTM8GgaJONtPI-LmzCZCCU-SIxu1hepAhdQxfpeM-g/viewform"><img alt="CFP Apprise Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
+* 23: [DevDay](https://www.devday.be/) - Mons (Belgium) <a href="https://sessionize.com/devday-2023/?e=1688a2"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-24%20to%20January-31-2023&color=red"></a>
 * 23: [KCD Israel](https://community.cncf.io/events/details/cncf-kcd-israel-presents-kcd-israel-2023/) - Tel Aviv (Israel)
 * 23-24: [Wasm I/O](https://wasmio.tech) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio23"><img alt="CFP Wasm I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-January-2023&color=red"></a>
 * 23-24: [SymfonyLive Paris](https://live.symfony.com/2023-paris/) - Paris (France) <a href="https://live.symfony.com/2023-paris/cfp"><img alt="CFP SymfonyLive Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2022&color=red"></a>
 * 23-24: [Agile Niort](https://agileniort.fr/) - Niort (France) <a href="https://sessionize.com/agile_niort_2023"><img alt="CFP AgileNiort" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2022&color=red"></a>
 * 23-24: [Scalar](https://www.scalar-conf.com/) - Warsaw (Poland) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZh-gG3Zb3AxECUOVzq8anoCPlrOUGdtjCtxerWpnANN1DfA/viewform"><img alt="CFP Scalar" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=red"></a>
 * 24: [Open Source Day](https://2023.osday.dev/) - Florence (Italy) & Online <a href="https://sessionize.com/opensourceday23"><img alt="CFP Open Source Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-January-2023&color=red"></a>
-* 28: [Azure Cosmos Conf](https://learn.microsoft.com/fr-fr/events/learn-events/azure-cosmos-db-conf-2023/) - Online <a href="https://sessionize.com/azure-cosmos-db-conf-2023"><img alt="CFP Azure Cosmos" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2023&color=green"></a>
+* 28: [Azure Cosmos Conf](https://learn.microsoft.com/fr-fr/events/learn-events/azure-cosmos-db-conf-2023/) - Online <a href="https://sessionize.com/azure-cosmos-db-conf-2023"><img alt="CFP Azure Cosmos" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2023&color=red"></a>
 * 27-29: [QCon London](https://qconlondon.com/) - London (UK)
 * 31-01: [Agile Games France](https://www.agilegamesfrance.fr/index.php?title=Evenement_2023) - Grenoble (France)
 
@@ -147,7 +147,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 10-11: [Remix](https://remix.run/conf/2023) - Salt Lake City, Utah (USA) <a href="https://sessionize.com/remix-2023"><img alt="CFP Remix 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%208-February-2023&color=green"></a>
 * 12: [AFUP Day](https://event.afup.org/) Lille & Lyon (France) <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"></a>
 * 12-15: [Vue.js Live Conference](https://vuejslive.com/) - London (UK) & Online
-* 15-18: [SLOconf 2023](https://www.sloconf.com/) - Online <img alt="CFP SLOconf 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green">
+* 15-18: [SLOconf 2023](https://www.sloconf.com/) - Online <img alt="CFP SLOconf 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red">
 * 16-17: [Kafka Summit London](https://www.kafka-summit.org/events/kafka-summit-london-2023/about) - London (UK) <a href="https://sessionize.com/kafka-summit-london-2023/"><img alt="CFP Kafka Summit London 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%209-January-2023&color=red"></a>
 * 16-18: [php tek](https://tek.phparch.com/) - Illinois (USA) <a href="https://sessionize.com/phptek-2023"><img alt="CFP php tek 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%201-December-2022&color=red"></a>
 * 17-20: [PyCon LT](https://pycon.lt/2023) - Vilnius (Lithuania)
@@ -172,9 +172,10 @@ All the events (past and coming) are available publicly in JSON: https://develop
 ### June
 
 * 1: [Javaday](https://javaday.parisjug.org/) - Paris (France)
+
 * 1: [WAX](https://www.waxconf.fr/) - Aix-en-Provence (France) <a href="https://conference-hall.io/public/event/BtpnpzTxdVAxEJCcfTJW"><img alt="CFP WAX Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2023&color=green"></a>
-* 1-2: [JCON OpenBlend Slovenia](https://slovenia.jcon.one/) - Portorož (Slovenia) <a href="https://slovenia.jcon.one/en/call-for-papers"><img alt="CFP JCON OpenBlend Slovenia 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green"></a>
-* 6-7: [JNation](https://jnation.pt) - Coimbra (Portugal) <a href="https://sessionize.com/jnation-2023/"><img alt="CFP JNation 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green"></a>
+* 1-2: [JCON OpenBlend Slovenia](https://slovenia.jcon.one/) - Portorož (Slovenia) <a href="https://slovenia.jcon.one/en/call-for-papers"><img alt="CFP JCON OpenBlend Slovenia 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
+* 6-7: [JNation](https://jnation.pt) - Coimbra (Portugal) <a href="https://sessionize.com/jnation-2023/"><img alt="CFP JNation 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
 * 7: [Serverless Days Paris](https://paris.serverlessdays.io/fr/) - Paris (France) <a href="https://sessionize.com/serverlessdays-paris-2023/"><img alt="CFP Serverless Days Paris 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-February-2023&color=green"></a>
 * 8-9: [DDD Europe](https://2023.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://sessionize.com/dddeu23/"><img alt="CFP DDDEu 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=green"></a>
 * 8-9: [PlatformCon](https://platformcon.com) - Online <a href="https://sessionize.com/platformcon-2023/"><img alt="CFP PlatformCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=green"></a>
@@ -184,15 +185,15 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 15-16: [DevOps Days Birmingham UK](https://devopsdays.org/events/2023-birmingham-uk/welcome/) - Birmingham (UK)
 * 15-16: [Le Camping des Speakers](https://camping-speakers.fr/) - Baden (France) <a href="https://conference-hall.io/public/event/HDF3RTtlPRv7WIuxthtr"><img alt="CFP Camping Speakers June 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=green"></a> 
 * 15-16: [SymfonyOnline](https://live.symfony.com/2023-world-summer/) - Online <a href="https://live.symfony.com/2023-world-summer/cfp"><img alt="CFP SymfonyOnline June 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%206-March-2023&color=green"></a>
-* 20-23: [JCON EUROPE 2023](https://2023.europe.jcon.one/) - Düsseldorf (Germany)  <a href="https://2023.europe.jcon.one/call-for-papers"><img alt="CFP JCON EUROPE 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green"></a>
-* 20-23: [CloudLand 2023](https://www.cloudland.org/en/home/) - Phantasialand near Cologne (Germany) <img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green">
+* 20-23: [JCON EUROPE 2023](https://2023.europe.jcon.one/) - Düsseldorf (Germany)  <a href="https://2023.europe.jcon.one/call-for-papers"><img alt="CFP JCON EUROPE 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
+* 20-23: [CloudLand 2023](https://www.cloudland.org/en/home/) - Phantasialand near Cologne (Germany) <img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red">
 * 21: [J-Spring](https://jspring.nl/) - Utrecht (Netherlands)
 * 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) Grand-Duchy of Luxembourg (Luxembourg)
 * 21-23: [DevOps Days Amsterdam](https://devopsdays.org/events/2023-amsterdam/welcome/) - Amsterdam (Netherlands)
 * 26-28: [Monitorama 2023](https://monitorama.com/2023/pdx.html#cfp) - Portland, OR (USA) <img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2023&color=green">
 * 26-29: [GopherCon Europe 2023](https://gophercon.eu/) - Berlin (Germany) <img alt="CFP GopherCon Europe 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-February-2023&color=green">
-* 26-30: [Developer Week '23 (DWX)](https://www.developer-week.de/) - Germany <a href="https://sessionize.com/developer-week-23/"><img alt="CFP DWX 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2023&color=red"></a>
-* 28: [NodeTLV](https://www.nodetlv.com/) - Tel-Aviv (Israel) <a href="https://sessionize.com/nodetlv-2023"><img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green"></a>
+* 26-30: [Developer Week '23 (DWX)](https://www.developer-week.de/) - Nuremberg (Germany) <a href="https://sessionize.com/developer-week-23/"><img alt="CFP DWX 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2023&color=red"></a>
+* 28: [NodeTLV](https://www.nodetlv.com/) - Tel-Aviv (Israel) <a href="https://sessionize.com/nodetlv-2023"><img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
 * 29-30: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/Jnevkv3bLyxZOyYyiWSC"><img alt="CFP Sunny Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=green"></a>
 
 ### July
