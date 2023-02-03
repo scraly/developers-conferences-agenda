@@ -26,6 +26,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * [2020](archives/2020.md)
 * [2021](archives/2021.md)
 * [2022](archives/2022.md)
+* [2023](archives/2023.md)
 
 ## 2023
 
