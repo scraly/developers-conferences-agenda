@@ -99,7 +99,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 24: [Open Source Day](https://2023.osday.dev/) - Florence (Italy) & Online <a href="https://sessionize.com/opensourceday23"><img alt="CFP Open Source Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-January-2023&color=red"></a>
 * 28: [Azure Cosmos Conf](https://learn.microsoft.com/fr-fr/events/learn-events/azure-cosmos-db-conf-2023/) - Online <a href="https://sessionize.com/azure-cosmos-db-conf-2023"><img alt="CFP Azure Cosmos" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2023&color=red"></a>
 * 27-29: [QCon London](https://qconlondon.com/) - London (UK)
-* 30: [Archilocus](https://www.archilocus.tech/about) - Online (France) <a href=https://conference-hall.io/public/event/RDgIWt2Qy01elL0Skezw><img alt="Archilocus Printemps 2023" src="https://img.shields.io/static/v1?label=CFP&message=until-15-March-2023&color=green"></a>
+* 30: [Archilocus](https://www.archilocus.tech/) - Online (France) <a href=https://conference-hall.io/public/event/RDgIWt2Qy01elL0Skezw><img alt="Archilocus Printemps 2023" src="https://img.shields.io/static/v1?label=CFP&message=until-15-March-2023&color=green"></a>
 * 31-01: [Agile Games France](https://www.agilegamesfrance.fr/index.php?title=Evenement_2023) - Grenoble (France)
 
 ### April
