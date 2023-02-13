@@ -173,7 +173,6 @@ All the events (past and coming) are available publicly in JSON: https://develop
 ### June
 
 * 1: [Javaday](https://javaday.parisjug.org/) - Paris (France)
-
 * 1: [WAX](https://www.waxconf.fr/) - Aix-en-Provence (France) <a href="https://conference-hall.io/public/event/BtpnpzTxdVAxEJCcfTJW"><img alt="CFP WAX Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2023&color=green"></a>
 * 1-2: [JCON OpenBlend Slovenia](https://slovenia.jcon.one/) - Portorož (Slovenia) <a href="https://slovenia.jcon.one/en/call-for-papers"><img alt="CFP JCON OpenBlend Slovenia 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
 * 6-7: [JNation](https://jnation.pt) - Coimbra (Portugal) <a href="https://sessionize.com/jnation-2023/"><img alt="CFP JNation 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
@@ -197,6 +196,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 26-30: [Developer Week '23 (DWX)](https://www.developer-week.de/) - Nuremberg (Germany) <a href="https://sessionize.com/developer-week-23/"><img alt="CFP DWX 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2023&color=red"></a>
 * 28: [NodeTLV](https://www.nodetlv.com/) - Tel-Aviv (Israel) <a href="https://sessionize.com/nodetlv-2023"><img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
 * 29-30: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/Jnevkv3bLyxZOyYyiWSC"><img alt="CFP Sunny Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=green"></a>
+* 29-30: [Agi'Lille](https://agilille.fr/) - Lille (France) <a href="https://sessionize.com/agilille-2023"><img alt="AgiLille 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=green"></a>
 
 ### July
 
