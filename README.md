@@ -189,6 +189,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 15-16: [DevOps Days Birmingham UK](https://devopsdays.org/events/2023-birmingham-uk/welcome/) - Birmingham (UK)
 * 15-16: [Le Camping des Speakers](https://camping-speakers.fr/) - Baden (France) <a href="https://conference-hall.io/public/event/HDF3RTtlPRv7WIuxthtr"><img alt="CFP Camping Speakers June 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=green"></a> 
 * 15-16: [SymfonyOnline](https://live.symfony.com/2023-world-summer/) - Online <a href="https://live.symfony.com/2023-world-summer/cfp"><img alt="CFP SymfonyOnline June 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%206-March-2023&color=green"></a>
+* 16: [Agile Lyon](https://www.agilelyon.fr/) - Lyon <a href="https://sessionize.com/agile-lyon-2023/"><img alt="CFP Agile Lyon June 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=green"></a>
 * 20-23: [JCON EUROPE 2023](https://2023.europe.jcon.one/) - Düsseldorf (Germany)  <a href="https://2023.europe.jcon.one/call-for-papers"><img alt="CFP JCON EUROPE 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
 * 20-23: [CloudLand 2023](https://www.cloudland.org/en/home/) - Phantasialand near Cologne (Germany) <img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red">
 * 21: [J-Spring](https://jspring.nl/) - Utrecht (Netherlands)
