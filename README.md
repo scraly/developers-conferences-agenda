@@ -58,7 +58,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 16-19: [PyConFR](https://www.pycon.fr/2023/) - Bordeaux (France) <a href="https://cfp-2023.pycon.fr/"><img alt="CFP PyConFr 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-Janvier-2023&color=red"> </a>
 * 21-23: [DeveloperWeek](https://www.developerweek.com/) - Online
 * 22-24: [ConFoo](https://confoo.ca/fr/2023) - Montréal (Canada) <a href="https://confoo.ca/fr/2023/call-for-papers"><img alt="CFP ConFoo 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-September-2022&color=red"> </a>
-* 23: [Testing, Agile, DevOps and Low code Showcase: Methods and Tools](https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-india-2023/) - Bengaluru (India)
+* 23: [Testing, Agile, DevOps and Low code Showcase - Methods and Tools](https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-india-2023/) - Bengaluru (India)
 * 23-24: [KCD - Kubernetes Community Days Amsterdam 2023](https://community.cncf.io/events/details/cncf-kcd-netherlands-presents-kubernetes-community-days-amsterdam-2023/) - Amsterdam (NL)
 * 25-26: [Laracon India](https://laracon.in/) - Ahmedabad (India)
 
