@@ -143,9 +143,11 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 4: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
 * 4-6: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece) <a href="https://dvgr23.cfp.dev/"><img alt="CFP Devoxx Greece 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
 * 8-12: [JAX](https://jax.de/mainz) - Mainz (Germany) & Online 
+* [WomenTech Global Conference](https://www.womentech.net/women-tech-conference) - Online
 * 10-12: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk23.cfp.dev/#/"><img alt="CFP Devoxx UK 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=red"></a>
 * 10-12: [Open Source Summit NA](https://events.linuxfoundation.org/open-source-summit-north-america/) - Vancouver (Canada) <a href="[https://devoxxuk23.cfp.dev/#/](https://linuxfoundation.smapply.io/prog/open_source_summit_north_america_2023/)"><img alt="CFP Open Source Summit NA 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-February-2023&color=red"></a>
 * 10-11: [Remix](https://remix.run/conf/2023) - Salt Lake City, Utah (USA) <a href="https://sessionize.com/remix-2023"><img alt="CFP Remix 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%208-February-2023&color=red"></a>
+* 11-12: [BeJS Conference](https://www.bejs.io/conf) - Brussels (Belgium) & Online
 * 12: [AFUP Day](https://event.afup.org/) Lille & Lyon (France) <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"></a>
 * 12-15: [Vue.js Live Conference](https://vuejslive.com/) - London (UK) & Online
 * 15-18: [SLOconf 2023](https://www.sloconf.com/) - Online <img alt="CFP SLOconf 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red">
@@ -166,6 +168,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 25-26: [Newcrafts Paris](https://ncrafts.io/) - Paris (France) <a href="https://sessionize.com/newcrafts-paris-2023"><img alt="CFP Newcrafts Paris 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%2001-December-2022%20to%2012-February-2023&color=red"></a>
 * 25-26: [NDC Oslo](https://ndcoslo.com/) - Oslo (Norway)
 * 26: [Devfest Lille](https://devfest.gdglille.org/) - Lille (France) <a href="https://conference-hall.io/public/event/hRA5AjQjXYMPI3MpwyoF"> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <img alt="CFP Devfest Lille 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%2003-Jan-2023%20to%20-31-March-2023&color=green"></a>
+* 26-29: [GOTO Amsterdam](https://gotoams.nl/2023) - Amsterdam (Netherlands)
 * 27: [Polycloud](https://polycloud.fr) - Montpellier (France) <a href="https://conference-hall.io/public/event/OR1ldOA5G0ASoizWvVbO"><img alt="Polycloud" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-April-2023&color=green"></a>
 * 30-31: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP jPrime 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2023&color=green"></a>
 * 31-2: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland) <a href="https://devoxxpl23.cfp.dev/"><img alt="CFP Devoxx Poland 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=green"></a>
@@ -234,6 +237,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 2-6: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
 * 2-6: [QCon San Francisco](https://qconsf.com/) - San Francisco (USA)
 * 5-6: [DevOps Days Indianapolis](https://devopsdays.org/events/2023-indianapolis/welcome/) - Indianapolis (USA)
+* 9-11: [Global Software Architecture Summit](https://gsas.io/) - Barcelona (Spain) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTHOW73JXdo4quGqBgRpnABd0zjd3_Op4B-bWDCmnNPIiElw/viewform"><img alt="CFP GSA Summit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
 * 10-12: [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Dublin (Ireland)
 * 12: [Cloud Nord](https://www.cloudnord.fr/) - Lille (France)
 * 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont-Ferrand (France)
