@@ -24,7 +24,4 @@ There is no small contribution! 💪
 * Check your spelling and grammar
 * Remove any trailing whitespace
 
-
-Difference of archive files and README.md
-
 Thanks! ❤️
