@@ -6,6 +6,8 @@ There is no small contribution! 💪
 ## Guidelines
 
 * All changes must be made in a branch and submitted as a Pull Request (PR)
+* Future conference(s) must be added in the `README.md` file
+* Past conferences appear in the `archives/YYYY.md` file
 * Add one or several events per PR with the following format:
 ```
 * date: [Conference Name](https://example.com/) - City, state (Country)
@@ -21,5 +23,8 @@ There is no small contribution! 💪
 * Make sure the PR title is in the format of `Add Conference Name`
 * Check your spelling and grammar
 * Remove any trailing whitespace
+
+
+Difference of archive files and README.md
 
 Thanks! ❤️
