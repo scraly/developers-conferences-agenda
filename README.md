@@ -249,7 +249,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 * 6-10: [KubeCon + CloudNativeCon NA 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Chicago (USA)
 * 12-14: [Meeting C++ 2023](https://meetingcpp.com/) - Berlin (Germany) and online
-
+* 14: [Data Community Conference](https://www.data-community.ch/) - Bern (Swiss)
 
 ### December
 
