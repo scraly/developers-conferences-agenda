@@ -80,6 +80,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 13-17: [ICSA](https://icsa-conferences.org/2023/) - L'aquila (Italy)
 * 14-15: [DevOps Days Salt Lake City](https://devopsdays.org/events/2023-salt-lake-city/welcome/) - Salt Lake City (USA)
 * 15-16: [axe-con](https://www.deque.com/axe-con/) - Online <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+* 15-16: [Chaos Carnival](https://chaoscarnival.io/) - Online
 * 15-18: [JChateau](https://www.jchateau.org/) - Cheverny in the Châteaux of the Loire Valley (France)
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)
 * 16: [KCD Ukraine - Fundraiser](https://community.cncf.io/events/details/cncf-kcd-ukraine-presents-kcd-ukraine-2023-fundraiser/) - Online
@@ -245,6 +246,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 12: [Cloud Nord](https://www.cloudnord.fr/) - Lille (France)
 * 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont-Ferrand (France)
 * 12-13: [Forum PHP 2023](https://event.afup.org/forum-php-2023) - Marne-la-Vallée (France)
+* 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France)
 * 18-20: [Full Stack Europe](https://fullstackeurope.com/2023) - Antwerp (Belgium) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgQjf39QepP07gLE88g7-Cn7Xdfast_mHVSUp25CfpjAM2uw/viewform"><img alt="CFP Full Stack Europe 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
 
 ### November
