@@ -65,10 +65,11 @@ All the events (past and coming) are available publicly in JSON: https://develop
 ### March
 
 * 2-3: [T3ch Fest](https://t3chfest.es/2023/en/) - Madrid (Spain)
-* 3-4: [DevOps Days Goiana](https://devopsdays.org/events/2023-goiania/welcome/) - Goiana (Brazil)
 * 3: [PowerShell Day UK](https://synedgy.com/psdayuk/) - London (UK) <a href="https://sessionize.com/psdayuk-2023/"><img alt="CFP PowerShell Day UK" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2023&color=red"></a>
+* 3-4: [DevOps Days Goiana](https://devopsdays.org/events/2023-goiania/welcome/) - Goiana (Brazil)
 * 4: [WTM Scotland](https://wtmscotland.com/) - Glasgow (Scotland) <a href="https://sessionize.com/wtm-scotland-international-womens-day-2023"><img alt="CFP WTM Scotland" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-February-2023&color=green"></a>
 * 4: [WTM Belfast](https://linktr.ee/WTMBelfast) - Belfast (UK) <a href="https://sessionize.com/women-techmakers-belfast-2023/"><img alt="CFP WTM Belfast" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-January-2023&color=red"></a>
+* 4: [Flutter Forward Extended Dhaka](https://www.meetup.com/dhaka-flutter-meetup/events/291558762/) - Dhaka (Bangladesh) <a href="https://sessionize.com/flutter-forward-extended-dhaka//"><img alt="CFP Flutter" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2023&color=green"></a>
 * 7: [Kubernetes Community Days France](https://community.cncf.io/events/details/cncf-kcd-france-presents-kubernetes-community-days-france-2023/) - Paris (France) <img alt="CFP KCD Paris" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-15%20to%20November-13-2022&color=red">
 * 7-8: [ElasticON Global](https://www.elasticon.com/event/e4d4b4ed-77a7-48d2-b711-74fea8341273/summary) — Online
 * 9: [KCD Los Angeles](https://community.cncf.io/events/details/cncf-kcd-los-angeles-presents-kcd-los-angeles-at-scale-20x/) - Pasadena (USA)
