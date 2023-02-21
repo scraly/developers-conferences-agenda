@@ -163,6 +163,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 18-19: [phpday](https://2023.phpday.it/) - Verona (Italy) & Online
 * 18-19: [Spring I/O](https://2023.springio.net/) Barcelona (Spain) <a href="https://www.papercall.io/springio23"><img alt="CFP Spring I/O 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2023&color=green"></a>
 * 18-19: [Craft Conference](https://craft-conf.com/2023) - Budapest (Hungary)
+* 22-24: [Percona Live](https://www.percona.com/live/conferences) - Denver (USA)
 * 23: [Infobip Shift Miami](https://shift.infobip.com/us) - Miami (USA) <a href="https://sessionize.com/infobip-shift-miami-2023/"><img alt="CFP Infobip Shift Miami" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=green"></a>
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
 * 23-26: [DevOps Pro Europe](https://devopspro.lt/) - Vilnius (Lithuania) & Online
