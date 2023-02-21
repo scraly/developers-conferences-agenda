@@ -241,6 +241,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 5-6: [DevOps Days Indianapolis](https://devopsdays.org/events/2023-indianapolis/welcome/) - Indianapolis (USA)
 * 9-11: [Global Software Architecture Summit](https://gsas.io/) - Barcelona (Spain) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTHOW73JXdo4quGqBgRpnABd0zjd3_Op4B-bWDCmnNPIiElw/viewform"><img alt="CFP GSA Summit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
 * 10-12: [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Dublin (Ireland)
+* 10-12: [Devoxx Morroco](https://devoxx.ma/) - Agadir (Morroco)
 * 12: [Cloud Nord](https://www.cloudnord.fr/) - Lille (France)
 * 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont-Ferrand (France)
 * 12-13: [Forum PHP 2023](https://event.afup.org/forum-php-2023) - Marne-la-Vallée (France)
