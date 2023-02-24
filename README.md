@@ -108,6 +108,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 * 1-2: [JdLL](https://jdll.org/) - Lyon 3e (France) <a href="https://jdll.org/participer"><img alt="CFP JDLL" src="https://img.shields.io/static/v1?label=CFP&message=until 31-January2023&color=red"></a>
 * 4: [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/) - Paris (France)
+* 4: [Lyon Craft](https://lyon-craft.fr/) - Lyon (France)
 * 4-6: [Devnexus](https://devnexus.com/) - Atlanta (USA)
 * 5-7: [FIC](https://europe.forum-fic.com) - Lille Grand Palais (France)
 * 6-7: [DevOps Days Nashville](https://devopsdays.org/events/2023-nashville/welcome/) - Nashville (USA)
