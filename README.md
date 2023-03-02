@@ -228,12 +228,14 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 * 16-18: [GopherCon UK 2023](https://www.gophercon.co.uk) - London (UK)
 * 28-01/09: [VLDB Very Large Database](https://vldb.org/2023/) - Vancouver (Canada)
+* 28-01/09: [NDC Copenhagen](https://cphdevfest.com/) - Copenhagen (Denmark)
 
 ### September
 
 * 6-7: [JavaZone 2023](https://2023.javazone.no/) - Oslo (Norway)
 * 8: [JUG Summer Camp](https://www.jugsummercamp.org/) - La Rochelle (France)
 * 18-19: [Shift Conference](https://shift.infobip.com) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2023/"><img alt="CFP Infobip Shift" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2023&color=green"></a>
+* 18-21: [NDC TechTown](https://ndctechtown.com/) - Kongsberg (Norway) <a href="https://ndctechtown.com/call-for-papers"><img alt="CFP NCD TechTown" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2023&color=green"></a>
 * 19: [Salon de la Data Nantes](https://salondata.fr/index.php/le-salon/) - Nantes (France) & Online
 * 21-22: [API Platform Conference](https://api-platform.com/con/2023) - Lille (France) & Online
 * 21-23: [Strange Loop 2023](https://thestrangeloop.com) - St. Louis, Missouri (USA)
@@ -253,6 +255,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont-Ferrand (France)
 * 12-13: [Forum PHP 2023](https://event.afup.org/forum-php-2023) - Marne-la-Vallée (France)
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France)
+* 16-20: [NDC Porto](https://ndcporto.com/) - Porto (Portugal) <a href="https://ndcporto.com/call-for-papers"><img alt="CFP NCD Porto" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-June-2023&color=green"></a>
 * 18-20: [Full Stack Europe](https://fullstackeurope.com/2023) - Antwerp (Belgium) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgQjf39QepP07gLE88g7-Cn7Xdfast_mHVSUp25CfpjAM2uw/viewform"><img alt="CFP Full Stack Europe 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
 
 ### November
