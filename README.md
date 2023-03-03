@@ -64,7 +64,6 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 ### March
 
-* 1: [WordCamp Switzerland](https://switzerland.wordcamp.org/2023/) - Murten (Switzerland)
 * 2-3: [T3ch Fest](https://t3chfest.es/2023/en/) - Madrid (Spain)
 * 3: [PowerShell Day UK](https://synedgy.com/psdayuk/) - London (UK) <a href="https://sessionize.com/psdayuk-2023/"><img alt="CFP PowerShell Day UK" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2023&color=red"></a>
 * 3-4: [DevOps Days Goiana](https://devopsdays.org/events/2023-goiania/welcome/) - Goiana (Brazil)
@@ -87,9 +86,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 15-18: [JChateau](https://www.jchateau.org/) - Cheverny in the Châteaux of the Loire Valley (France)
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)
 * 16: [KCD Ukraine - Fundraiser](https://community.cncf.io/events/details/cncf-kcd-ukraine-presents-kcd-ukraine-2023-fundraiser/) - Online
-* 20: [WordPress Contributor Day](https://wpfr.net/rendez-vous-a-la-journee-de-contribution-le-20-avril-2023/) - Paris (France)
 * 20: [HTML & CSS Days](https://javascript-days.de/html-css) - Online
-* 21: [WordCamp Paris](https://paris.wordcamp.org/2023/) - Paris (France)
 * 21-23: [JavaLand](https://www.javaland.eu/) - Brühl (Germany)
 * 21-23: [SRECon Americas](https://www.usenix.org/conference/srecon23americas) - Santa Clara (USA)
 * 22-24: [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2023/) - Bucharest (Romania)
@@ -110,6 +107,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 ### April
 
+* 1: [WordCamp Switzerland](https://switzerland.wordcamp.org/2023/) - Murten (Switzerland)
 * 1-2: [JdLL](https://jdll.org/) - Lyon 3e (France) <a href="https://jdll.org/participer"><img alt="CFP JDLL" src="https://img.shields.io/static/v1?label=CFP&message=until 31-January2023&color=red"></a>
 * 4: [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/paris/) - Paris (France)
 * 4: [Lyon Craft](https://lyon-craft.fr/) - Lyon (France)
@@ -127,9 +125,11 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 18-19: [Citus Con](https://www.citusdata.com/cituscon/2023/) - Online <a href="https://www.citusdata.com/cituscon/2023/cfp/"><img alt="CFP Citus Con 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%205-February-2023&color=red"></a>
 * 19-21: [InflectraCon](https://www.inflectracon.com/) - Washington (USA)
 * 19-21: [GeeCON](https://2023.geecon.org/) - Krakow (Poland) <a href="https://2023.geecon.org/cfp/"><img alt="CFP GeeCON 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-February-2023&color=red"></a>
+* 20: [WordPress Contributor Day](https://wpfr.net/rendez-vous-a-la-journee-de-contribution-le-20-avril-2023/) - Paris (France)
 * 20-21: [DevOps Days Birmingham AL](https://devopsdays.org/events/2023-birmingham-al/welcome/) - Birmingham (USA)
 * 20-21: [Toulouse Hacking Convention 2023](https://thcon.party/) - Toulouse (France) <a href="https://thcon.party/cfp.html"><img alt="CFP THCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-February-2023&color=red"> </a>
 * 20-22: [Dotnet days](https://dotnetdays.ro/) - Iasi (Romania) <a href="https://sessionize.com/dotnetdays-2023"><img alt="CFP Dotnetdays" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-January-2023&color=red"> </a>
+* 21: [WordCamp Paris](https://paris.wordcamp.org/2023/) - Paris (France)
 * 22-23: [T-DOSE](https://t-dose.org/2023/) - Geldrop (The Netherlands)
 * 23-25: [DevOps Days Denver](https://devopsdays.org/events/2023-denver/welcome/) - Denver (USA)
 * 24-25: [DevOps Days Geneva](https://devopsdays.org/events/2023-geneva/welcome/) - Geneva (Switzerland)
