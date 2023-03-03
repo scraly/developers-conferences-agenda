@@ -147,6 +147,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 23: [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - Brussels (Belgium)
 * 23-26: [DevOps Pro Europe](https://devopspro.lt/) - Vilnius (Lithuania) & Online
 * 23-25: [Web À Québec](https://webaquebec.org/) - Quebec City (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/vgbK9zTW"><img alt="CFP WAQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=red"></a>
+* 24-26: [Vueconf.US](https://vueconf.us/) - New Orleans (USA)
 * 25-26: [Newcrafts Paris](https://ncrafts.io/) - Paris (France) <a href="https://sessionize.com/newcrafts-paris-2023"><img alt="CFP Newcrafts Paris 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%2001-December-2022%20to%2012-February-2023&color=red"></a>
 * 25-26: [NDC Oslo](https://ndcoslo.com/) - Oslo (Norway)
 * 26: [Devfest Lille](https://devfest.gdglille.org/) - Lille (France) <a href="https://conference-hall.io/public/event/hRA5AjQjXYMPI3MpwyoF"> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <img alt="CFP Devfest Lille 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%2003-Jan-2023%20to%20-31-March-2023&color=green"></a>
