@@ -126,6 +126,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 10-12: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk23.cfp.dev/#/"><img alt="CFP Devoxx UK 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=red"></a>
 * 10-12: [Open Source Summit NA](https://events.linuxfoundation.org/open-source-summit-north-america/) - Vancouver (Canada) <a href="[https://devoxxuk23.cfp.dev/#/](https://linuxfoundation.smapply.io/prog/open_source_summit_north_america_2023/)"><img alt="CFP Open Source Summit NA 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-February-2023&color=red"></a>
 * 10-11: [Remix](https://remix.run/conf/2023) - Salt Lake City, Utah (USA) <a href="https://sessionize.com/remix-2023"><img alt="CFP Remix 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%208-February-2023&color=red"></a>
+* 11: [SwampUP San Jose](https://swampup.jfrog.com/san-jose/) - San Jose (USA) <a href="https://sessionize.com/swampup-20236656"><img alt="CFP SwampUP 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%217-March-2023&color=green"></a>
 * 11-12: [BeJS Conference](https://www.bejs.io/conf) - Brussels (Belgium) & Online
 * 12: [AFUP Day](https://event.afup.org/) Lille & Lyon (France) <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"></a>
 * 12: [SoCraTes Rennes](https://socrates-rennes.github.io/) - Rennes (France)
