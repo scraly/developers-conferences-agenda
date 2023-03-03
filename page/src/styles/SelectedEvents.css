@@ -1,0 +1,21 @@
+.eventsGridDisplay {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, 20rem);
+	gap: 1rem;
+	padding: 5rem;
+	justify-content: center;
+}
+
+.eventCell {
+	padding: 1rem;
+	border-radius: 3px;
+	background: #eee;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid #ccc;
+}
+
+.eventDateDisplay {
+	margin-top: 5rem;
+	text-align: center;
+}

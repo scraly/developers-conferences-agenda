@@ -1,0 +1,23 @@
+body {
+	outline: 0;
+	box-sizing: border-box;
+
+	font-family: Inter, Arial, sans-serif;
+}
+
+.dcaTitle {
+	text-align: center;
+}
+
+.downloadButton {
+	width: max-content;
+	margin: 1rem auto;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	background: #eee;
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	cursor: pointer;
+}
