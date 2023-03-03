@@ -217,6 +217,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 4-5: [WaysConf](https://www.waysconf.com/) - Krakow (Poland) & Online <a href="https://www.waysconf.com/call-for-speakers/form"><img alt="CFP WaysConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2023&color=green"></a>
 * 6-7: [JavaZone 2023](https://2023.javazone.no/) - Oslo (Norway)
 * 8: [JUG Summer Camp](https://www.jugsummercamp.org/) - La Rochelle (France)
+* 11-13: [ContainerDays 2023](https://www.containerdays.io/) - Hamburg (Germany) & Online <a href="https://sessionize.com/containerdays-2023"><img alt="CFP ContainerDays" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=green"></a>
 * 12-16: [RomHack](https://romhack.io/) - Roma (Italy) <a href="https://romhack.io/call-for-papers/"><img alt="CFP RomHack" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-May-2023&color=green"></a>
 * 18-19: [Shift Conference](https://shift.infobip.com) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2023/"><img alt="CFP Infobip Shift" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2023&color=green"></a>
 * 18-21: [NDC TechTown](https://ndctechtown.com/) - Kongsberg (Norway) <a href="https://ndctechtown.com/call-for-papers"><img alt="CFP NCD TechTown" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2023&color=green"></a>
