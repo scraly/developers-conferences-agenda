@@ -213,6 +213,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 ### September
 
+* 4-5: [WaysConf](https://www.waysconf.com/) - Krakow (Poland) & Online <a href="https://www.waysconf.com/call-for-speakers/form"><img alt="CFP WaysConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2023&color=green"></a>
 * 6-7: [JavaZone 2023](https://2023.javazone.no/) - Oslo (Norway)
 * 8: [JUG Summer Camp](https://www.jugsummercamp.org/) - La Rochelle (France)
 * 18-19: [Shift Conference](https://shift.infobip.com) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2023/"><img alt="CFP Infobip Shift" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2023&color=green"></a>
