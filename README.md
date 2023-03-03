@@ -78,6 +78,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 10: [DevOps Days Los Angeles](https://devopsdays.org/events/2023-los-angeles/welcome/) - Los Angeles (USA)
 * 10-11: [DevRel Con Yokohama](https://developerrelations.com/event/devrelcon-yokohama-2023) - Yokohama (Japan)
 * 13-14: [Cassandra Summit](https://events.linuxfoundation.org/cassandra-summit/) - San Jose (USA)
+* 13-14: [FOSS Backstage](https://23.foss-backstage.de/) - Berlin (Germany) & Online
 * 13-17: [ICSA](https://icsa-conferences.org/2023/) - L'aquila (Italy)
 * 14-15: [DevOps Days Salt Lake City](https://devopsdays.org/events/2023-salt-lake-city/welcome/) - Salt Lake City (USA)
 * 15-16: [axe-con](https://www.deque.com/axe-con/) - Online <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
