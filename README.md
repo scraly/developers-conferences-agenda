@@ -220,6 +220,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 18-19: [Shift Conference](https://shift.infobip.com) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2023/"><img alt="CFP Infobip Shift" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2023&color=green"></a>
 * 18-21: [NDC TechTown](https://ndctechtown.com/) - Kongsberg (Norway) <a href="https://ndctechtown.com/call-for-papers"><img alt="CFP NCD TechTown" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2023&color=green"></a>
 * 19: [Salon de la Data Nantes](https://salondata.fr/index.php/le-salon/) - Nantes (France) & Online
+* 21: [Serverless Days Cardiff](https://cardiff.serverlessdays.io/) - Cardiff (Wales) <a href="https://www.papercall.io/serverlessdayscwl2023"><img alt="CFP Serverless Days Cardiff" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2023&color=green"></a>
 * 21-22: [API Platform Conference](https://api-platform.com/con/2023) - Lille (France) & Online
 * 21-23: [Strange Loop 2023](https://thestrangeloop.com) - St. Louis, Missouri (USA)
 * 25-26: [BIG DATA & AI PARIS 2023](https://www.bigdataparis.com/) - Paris (France) <a href="#"><img alt="CFP BIG DATA & AI PARIS 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-March-2023&color=green"></a>
