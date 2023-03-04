@@ -121,6 +121,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 4: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
 * 4-6: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece) <a href="https://dvgr23.cfp.dev/"><img alt="CFP Devoxx Greece 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
 * 8-12: [JAX](https://jax.de/mainz) - Mainz (Germany) & Online 
+* 9-10: [Codemotion Madrid](https://extra.codemotion.com/live-conference-madrid-2023/) - Madrid (Spain)
 * 9-12: [WomenTech Global Conference](https://www.womentech.net/women-tech-conference) - Online
 * 10: [EDA Summit 2023](https://edasummit.com/) - Online <a href="https://cfp.edasummit.com/cfp/?utm_source=developers-conferences-agenda"><img alt="CFP EDA Summit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-March-2023&color=green"></a>
 * 10-12: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk23.cfp.dev/#/"><img alt="CFP Devoxx UK 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=red"></a>
