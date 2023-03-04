@@ -198,7 +198,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 
 ### July
 
-* 3-5: [DevBCN](http://www.devbcn.com) - Barcelona (Spain)
+* 3-5: [DevBCN](http://www.devbcn.com) - Barcelona (Spain) <a href="https://sessionize.com/devbcn23"><img alt="CFP DevBcn" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2023&color=green"></a>
 * 10-12: [Riviera DEV](https://rivieradev.fr) - Sophia Antipolis (Nice, France) <a href="https://conference-hall.io/public/event/qDKnPd1n2RpmJ5aTZhp6"><img alt="CFP Riviera DEV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2023&color=green"></a>
 * 17-18: [KCD Munich](https://github.com/cncf/kubernetes-community-days/issues/451) - Munich (Germany) 
 * 18-21: [ÜberConf](https://uberconf.com/) - Denver (USA)
