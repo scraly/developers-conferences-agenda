@@ -119,6 +119,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 3-4: [DevOps Days Zurich](https://devopsdays.org/events/2023-zurich/welcome/) - Zurich (Switzerland)
 * 3-4: [Stockholm Tech Show](https://stockholmtechshow.se/) - Stockholm (Sweden)
 * 4: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
+* 4-5: [DevGuild: Open Source](https://www.heavybit.com/devguild/open-source) - San Francisco (USA)
 * 4-6: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece) <a href="https://dvgr23.cfp.dev/"><img alt="CFP Devoxx Greece 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
 * 8-12: [JAX](https://jax.de/mainz) - Mainz (Germany) & Online 
 * 9-10: [Codemotion Madrid](https://extra.codemotion.com/live-conference-madrid-2023/) - Madrid (Spain)
