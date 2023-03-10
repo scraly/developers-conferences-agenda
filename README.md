@@ -93,6 +93,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 13-14: [MiXit](https://mixitconf.org/fr/) - Villeurbanne (Lyon France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://sessionize.com/mixit2023"><img alt="CFP MiXiT" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-Januray-2023&color=red"> </a>
 * 14-17: [Node Congress](https://nodecongress.com/) - Berlin (Germany) & Online <a href="https://docs.google.com/forms/d/e/1FAIpQLScbO3i3HOOt6qD99HRDw0CsL0HvmchY2Xgovw1FLrqcQytlTg/viewform"><img alt="CFP Node Congress" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Januray-2023&color=red"> </a>
 * 15-16: [Cloud-Native Rejekts](https://cloud-native.rejekts.io/) - Amsterdam (Netherlands) <img alt="CFP Cloud-Native Rejekts 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20Feb-6%20to%20Feb-13-2023&color=red"></a>
+* 17-19: [SharkFest23 Asia](https://sharkfest.wireshark.org/sfasia/) - Singapore
 * 17-21: [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - Amsterdam (Netherlands)
 * 18-19: [DevOps Days Tokyo](https://devopsdays.org/events/2023-tokyo/welcome/) - Tokyo (Japan)
 * 18-19: [NYSwifty](https://nyswifty.com/) - New York (USA)
