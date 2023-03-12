@@ -93,6 +93,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 13-14: [MiXit](https://mixitconf.org/fr/) - Villeurbanne (Lyon France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://sessionize.com/mixit2023"><img alt="CFP MiXiT" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-Januray-2023&color=red"> </a>
 * 14-17: [Node Congress](https://nodecongress.com/) - Berlin (Germany) & Online <a href="https://docs.google.com/forms/d/e/1FAIpQLScbO3i3HOOt6qD99HRDw0CsL0HvmchY2Xgovw1FLrqcQytlTg/viewform"><img alt="CFP Node Congress" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Januray-2023&color=red"> </a>
 * 15-16: [Cloud-Native Rejekts](https://cloud-native.rejekts.io/) - Amsterdam (Netherlands) <img alt="CFP Cloud-Native Rejekts 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20Feb-6%20to%20Feb-13-2023&color=red"></a>
+* 17-19: [SharkFest23 Asia](https://sharkfest.wireshark.org/sfasia/) - Singapore
 * 17-21: [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - Amsterdam (Netherlands)
 * 18-19: [DevOps Days Tokyo](https://devopsdays.org/events/2023-tokyo/welcome/) - Tokyo (Japan)
 * 18-19: [NYSwifty](https://nyswifty.com/) - New York (USA)
@@ -185,6 +186,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 8-10: [WordCamp Europe](https://europe.wordcamp.org/2023/) - Athens (Greece)
 * 9: [GothamGo](https://gothamgo.com/) - New York (USA) <a href="https://www.papercall.io/gothamgo2023"><img alt="CFP GothamGo 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-March-2023&color=green"></a>
 * 10: [KCD Mumbai](https://kcdmumbai.com/) - Mumbai (India) <a href="https://kcd.smapply.io/prog/kcd_mumbai_2023_cfp/"><img alt="CFP KCD Mumbai 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2023&color=green"></a>
+* 10-15: [Sharkfest23 US](https://sharkfest.wireshark.org/sfus/) - San Diego
 * 12-14: [GrafanaCon](https://grafana.com/about/events/grafanacon/2023/) - Online
 * 12-16: [Microsoft 365 EduCon DC](https://www.365educon.com/DC) - Washington (US) <a href="https://sessionize.com/microsoft-365-educon-dc-2023/"><img alt="CFP Microsoft 365 EduCon DC 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2022&color=red"></a>
 * 14-15: [OW2 openSource Conf](https://www.ow2con.org/view/2023/) <a href="https://pretalx.com/ow2con-2023/cfp"><img alt="CFP OW 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%20-26-February-2023&color=red"></a>
