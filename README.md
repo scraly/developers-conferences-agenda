@@ -245,6 +245,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 21: [Inclusive Design 24](https://inclusivedesign24.org/2023/) - Online <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://docs.google.com/forms/d/1yzqAAGtQhxgEDqS2WZeHYPuF9h3TTiEl8NWtht0GWy0/viewform?edit_requested=true"><img alt="CFP Inclusive Design 24" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-June-2023&color=green"></a>
 * 21-22: [API Platform Conference](https://api-platform.com/con/2023) - Lille (France) & Online
 * 21-23: [Strange Loop 2023](https://thestrangeloop.com) - St. Louis, Missouri (USA)
+* 21-23: [Euro IA 2023 - Information Architecture & UX conference](https://euroia.eu/) - Amsterdam (Netherland) <a href="https://softconf.com/n/euroia2023/user/scmd.cgi?scmd=submitPaperCustom&pageid=1"><img alt="CFP Euro IA 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-March-2023&color=green"></a>
 * 25-26: [BIG DATA & AI PARIS 2023](https://www.bigdataparis.com/) - Paris (France) <a href="#"><img alt="CFP BIG DATA & AI PARIS 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-March-2023&color=green"></a>
 * 27: [DevOps Days Cairo](https://devopsdays.org/events/2023-cairo/welcome/) - Cairo (Egypt)
 * 28-30: [Paris Web](https://www.paris-web.fr/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
