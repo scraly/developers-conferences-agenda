@@ -211,8 +211,10 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 26-30: [Developer Week '23 (DWX)](https://www.developer-week.de/) - Nuremberg (Germany) <a href="https://sessionize.com/developer-week-23/"><img alt="CFP DWX 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2023&color=red"></a>
 * 26-02/07: [FOSS4G](https://2023.foss4g.org/) - Prizren (Kosovo)
 * 28: [NodeTLV](https://www.nodetlv.com/) - Tel-Aviv (Israel) <a href="https://sessionize.com/nodetlv-2023"><img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
+* 28-30: [Breizh Camp](https://www.breizhcamp.org/) - Rennes (France)
 * 29-30: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/Jnevkv3bLyxZOyYyiWSC"><img alt="CFP Sunny Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=red"></a>
 * 29-30: [Agi'Lille](https://agilille.fr/) - Lille (France) <a href="https://sessionize.com/agilille-2023"><img alt="AgiLille 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=green"></a>
+
 
 ### July
 
