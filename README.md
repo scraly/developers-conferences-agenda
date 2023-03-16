@@ -138,6 +138,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 10-12: [Open Source Summit NA](https://events.linuxfoundation.org/open-source-summit-north-america/) - Vancouver (Canada) <a href="[https://devoxxuk23.cfp.dev/#/](https://linuxfoundation.smapply.io/prog/open_source_summit_north_america_2023/)"><img alt="CFP Open Source Summit NA 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-February-2023&color=red"></a>
 * 10-12: [KCD Turkey 2023](https://twitter.com/KcdTurkey) - Istanbul (Turkey) <a href="https://kcd.smapply.io/prog/kcd_turkey_2023/"><img alt="CFP KCD Turkey 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%202-April-2023&color=green"></a>
 * 11: [SwampUP San Jose](https://swampup.jfrog.com/san-jose/) - San Jose (USA) <a href="https://sessionize.com/swampup-20236656"><img alt="CFP SwampUP 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-March-2023&color=green"></a>
+* 11: [A11yParis](https://www.a11yparis.org/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 11-12: [BeJS Conference](https://www.bejs.io/conf) - Brussels (Belgium) & Online
 * 12: [AFUP Day](https://event.afup.org/) Lille & Lyon (France) <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"></a>
 * 12: [SoCraTes Rennes](https://socrates-rennes.github.io/) - Rennes (France)
