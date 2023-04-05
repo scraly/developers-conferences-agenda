@@ -86,6 +86,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 9-10: [Codemotion Madrid](https://extra.codemotion.com/live-conference-madrid-2023/) - Madrid (Spain)
 * 9-12: [WomenTech Global Conference](https://www.womentech.net/women-tech-conference) - Online
 * 10: [Google I/O](https://io.google/2023/) - Mountain View (USA)
+* 10: [We Love Speed](https://www.welovespeed.com/2023/) - Paris (France)
 * 10: [EDA Summit 2023](https://edasummit.com/) - Online <a href="https://cfp.edasummit.com/cfp/?utm_source=developers-conferences-agenda"><img alt="CFP EDA Summit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-March-2023&color=red"></a>
 * 10-11: [Remix](https://remix.run/conf/2023) - Salt Lake City, Utah (USA) <a href="https://sessionize.com/remix-2023"><img alt="CFP Remix 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%208-February-2023&color=red"></a>
 * 10-12: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk23.cfp.dev/#/"><img alt="CFP Devoxx UK 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=red"></a>
