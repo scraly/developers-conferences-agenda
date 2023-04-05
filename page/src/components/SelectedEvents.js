@@ -2,10 +2,14 @@ import React from 'react';
 
 import 'styles/SelectedEvents.css';
 
+const lpad2 = number => ('0'+number).slice(-2)
+const formatDate = date => date.getFullYear()+"-"+lpad2(date.getMonth()+1)+"-"+lpad2(date.getDate())
+
+
 const SelectedEvents = ({ events, date }) => {
 	return (
 	<>
-		<h3 className="eventDateDisplay">{date.getFullYear()}-{date.getMonth() + 1}-{date.getDate()}</h3>
+		<h3 className="eventDateDisplay">{formatDate(date)}</h3>
 		<div className="eventsGridDisplay">
 			{events?.map(e => <EventDisplay {...e} />)}
 		</div>
