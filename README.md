@@ -243,6 +243,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 10: [BDX I/O](https://www.bdxio.fr/) - Bordeaux (France)
 * 12-14: [Meeting C++ 2023](https://meetingcpp.com/) - Berlin (Germany) and online
 * 14: [Data Community Conference](https://www.data-community.ch/) - Bern (Swiss)
+* 16: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France)
 
 ### December
 
