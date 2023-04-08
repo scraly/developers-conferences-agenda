@@ -160,7 +160,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 20-23: [JCON EUROPE 2023](https://2023.europe.jcon.one/) - Düsseldorf (Germany)  <a href="https://2023.europe.jcon.one/call-for-papers"><img alt="CFP JCON EUROPE 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
 * 20-23: [CloudLand 2023](https://www.cloudland.org/en/home/) - Phantasialand near Cologne (Germany) <img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red">
 * 21: [J-Spring](https://jspring.nl/) - Utrecht (Netherlands)
-* 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) Grand-Duchy of Luxembourg (Luxembourg) <a href="https://cfp-voxxed-lux.yajug.org/"><img alt="VoxxedDays Luxembourg 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-April-2023&color=red"></a>
+* 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) Grand-Duchy of Luxembourg (Luxembourg) <a href="https://cfp-voxxed-lux.yajug.org/"><img alt="VoxxedDays Luxembourg 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-April-2023&color=red"></a>
 * 21-22: [DevTalks](https://www.devtalks.ro/) - Bucharest (Romania)
 * 21-23: [DevOps Days Amsterdam](https://devopsdays.org/events/2023-amsterdam/welcome/) - Amsterdam (Netherlands)
 * 21-23: [Rencontres R](https://rr2023.sciencesconf.org) - Avignon (France)
