@@ -28,8 +28,7 @@ jobs:
       - name: Parse Markdowns
         working-directory: tools
         run: |
-          ./parse-and-combine.sh all-events.json
-          cp all-events.json ../page/src/misc/all-events.json
+          node tools/mdParser.js
       - working-directory: page
         run: npm run build
       - name: Make all-events.json available at the site root
