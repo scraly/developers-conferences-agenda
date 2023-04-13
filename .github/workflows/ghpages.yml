@@ -16,13 +16,9 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: 14
+          node-version: 16
           cache: npm
           cache-dependency-path: '**/package-lock.json'
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.8'
       - working-directory: page
         run: npm install -D
       - name: Parse Markdowns
