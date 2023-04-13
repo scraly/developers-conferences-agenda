@@ -29,8 +29,8 @@ jobs:
       - name: Make all-events.json available at the site root
         working-directory: tools
         run: |
-          mv src/misc/all-events.json ../page/build/all-events.json
-          mv src/misc/all-cfps.json ../page/build/all-cfps.json
+          mv ../page/src/misc/all-events.json ../page/build/all-events.json
+          mv ../page/src/misc/all-cfps.json ../page/build/all-cfps.json
       - name: Deploy to GitHub Pages
         if: github.ref_name == 'main'
         uses: crazy-max/ghaction-github-pages@v2
