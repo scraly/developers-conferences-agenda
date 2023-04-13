@@ -2,8 +2,8 @@ fs=require('fs');
 
 const ROOT= "../"
 const MAIN_INPUT = ROOT+"README.md"
-const MAIN_OUTPUT = ROOT+"src/misc/all-events.json"
-const CFP_OUTPUT = ROOT+"src/misc/all-cfps.json"
+const MAIN_OUTPUT = ROOT+"page/src/misc/all-events.json"
+const CFP_OUTPUT = ROOT+"page/src/misc/all-cfps.json"
 const MONTHS_NAMES = "January,February,March,April,May,June,July,August,September,October,November,December".split(',')
 
 //eg: " * [2017](archives/2017.md)"
