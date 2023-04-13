@@ -2,7 +2,8 @@ fs=require('fs');
 
 const ROOT= "../"
 const MAIN_INPUT = ROOT+"README.md"
-const MAIN_OUTPUT = ROOT+"tools/all-events.json"
+const MAIN_OUTPUT = ROOT+"src/misc/all-events.json"
+const CFP_OUTPUT = ROOT+"src/misc/all-cfps.json"
 const MONTHS_NAMES = "January,February,March,April,May,June,July,August,September,October,November,December".split(',')
 
 //eg: " * [2017](archives/2017.md)"
@@ -86,7 +87,7 @@ const extractCfp = shieldCode => {
         untilStr.replaceAll(/^.*(\d{4})$/g,'$1'),
         MONTHS_NAMES.indexOf(untilStr.replaceAll(/[^a-zA-Z]/g,'')),
         untilStr.replaceAll(/^(\d*).*$/g,'$1')+1,
-        0,0,0)
+        0,0,0
     ).getTime()
     
     return {
@@ -109,3 +110,15 @@ const archiveConfs = archives.flatMap( archive => extractConfs(fs.readFileSync(a
 //aggregation
 const allConfs = archiveConfs.concat(currentConfs);
 fs.writeFileSync(MAIN_OUTPUT,JSON.stringify(allConfs));
+
+const allCFPs = allConfs.filter(conf => conf.cfp.untilDate).map(conf => ({
+    ...conf.cfp,
+    conf: {
+        name:conf.name,
+        date:conf.date,
+        hyperlink:conf.hyperlink,
+        status:conf.status,
+        location:conf.location,
+    }
+})).sort( (a,b)=> a.untilDate-b.untilDate)
+fs.writeFileSync(CFP_OUTPUT,JSON.stringify(allCFPs));
