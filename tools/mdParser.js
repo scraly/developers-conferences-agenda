@@ -86,7 +86,7 @@ const extractCfp = shieldCode => {
         untilStr.replaceAll(/^.*(\d{4})$/g,'$1'),
         MONTHS_NAMES.indexOf(untilStr.replaceAll(/[^a-zA-Z]/g,'')),
         untilStr.replaceAll(/^(\d*).*$/g,'$1')+1,
-        0,0,0
+        0,0,0)
     ).getTime()
     
     return {
