@@ -1,8 +1,8 @@
 fs=require('fs');
 
-const ROOT= "./"
+const ROOT= "../"
 const MAIN_INPUT = ROOT+"README.md"
-const MAIN_OUTPUT = ROOT+"page/src/misc/all-events.json"
+const MAIN_OUTPUT = ROOT+"tools/all-events.json"
 const MONTHS_NAMES = "January,February,March,April,May,June,July,August,September,October,November,December".split(',')
 
 //eg: " * [2017](archives/2017.md)"
@@ -64,14 +64,17 @@ const extractEvents = (monthMarkdown,year,month) =>
         "status": eventLine.trim().startsWith("* [")?eventLine.trim().replaceAll(/^[^[]*\[([\w\s]*)\].*$/g,'$1'):"open"
     }))
 const getTimeSpan = (year,month,datespan) => {
-    const [startDate,endDate] = datespan.split('-').map(d=>d.trim())
-    if(!endDate){
-        return [ new Date(year,month,+startDate).getTime()]
+    const [startDay,endDay] = datespan.split('-').map(d=>d.trim())
+    if(!endDay){
+        return [ new Date(year,month,+startDay,0,0,0).getTime()]
     }
-    if(endDate.includes('/')){ //event ends next month
-        return [ new Date(year,month,+startDate).getTime(), new Date(year,month+1,+endDate.split('/')[0]+1).getTime()]
+    if(endDay.includes('/')){ //event ends next month "31-02/04"
+        return [ new Date(year,month,+startDay,0,0,0).getTime(), new Date(year,month+1,+endDay.split('/')[0],0,0,0).getTime()]
     }
-    return [ new Date(year,month,+startDate).getTime(), new Date(year,month,+endDate+1).getTime()]
+    if(+startDay > +endDay){//event ends next month "31-02"
+        return [ new Date(year,month,+startDay,0,0,0).getTime(), new Date(year,month+1,+endDay,0,0,0).getTime()]
+    }
+    return [ new Date(year,month,+startDay,0,0,0).getTime(), new Date(year,month,+endDay,0,0,0).getTime()]
 }
 const extractCfp = shieldCode => {
     if(!shieldCode.includes("shields.io")) return {}
@@ -82,7 +85,8 @@ const extractCfp = shieldCode => {
     const untilDate = new Date(
         untilStr.replaceAll(/^.*(\d{4})$/g,'$1'),
         MONTHS_NAMES.indexOf(untilStr.replaceAll(/[^a-zA-Z]/g,'')),
-        untilStr.replaceAll(/^(\d*).*$/g,'$1')+1
+        untilStr.replaceAll(/^(\d*).*$/g,'$1')+1,
+        0,0,0
     ).getTime()
     
     return {

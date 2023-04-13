@@ -27,8 +27,7 @@ jobs:
         run: npm install -D
       - name: Parse Markdowns
         working-directory: tools
-        run: |
-          node tools/mdParser.js
+        run: node mdParser.js
       - working-directory: page
         run: npm run build
       - name: Make all-events.json available at the site root
