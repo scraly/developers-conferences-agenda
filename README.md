@@ -261,3 +261,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 ### February
 
 * 1-3: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
+
+### April
+
+* 17-19: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
