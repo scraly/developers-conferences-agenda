@@ -16,7 +16,7 @@ function* DayRange(startDate, endDate) {
 export function getEventsOnDate(date) {
 	let events = [];
 	for (const event of allEvents) {
-		if (date >= event.date[0] && date <= (event.date[1] ?? event.date[0])) {
+		if (date >= event.date[0] && date < (event.date[1] ?? event.date[0])) {
 			events.push(Object.assign({}, event));
 		}
 	}
