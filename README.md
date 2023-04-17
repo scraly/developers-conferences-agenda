@@ -256,6 +256,8 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 6-7: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France)
 * 7-8: [SymfonyCon Brussels](https://live.symfony.com/2023-brussels-con/) - Brussels (Belgium)
 * 7-8: [DevTernity](https://devternity.com/) - Online
+* 8: [React Day Berlin](https://reactday.berlin/) - Berlin (Germany)
+* 12: [React Day Berlin](https://reactday.berlin/) - Online
 
 ## 2024
 
