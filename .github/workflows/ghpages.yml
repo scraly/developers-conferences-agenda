@@ -26,7 +26,7 @@ jobs:
         run: node mdParser.js
       - working-directory: page
         run: npm run build
-      - name: Make all-events.json available at the site root
+      - name: Make all-*.json files available at the site root
         working-directory: tools
         run: |
           mv ../page/src/misc/all-events.json ../page/build/all-events.json
