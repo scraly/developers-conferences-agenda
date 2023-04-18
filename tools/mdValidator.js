@@ -5,7 +5,7 @@ const MAIN_INPUT = ROOT+"README.md"
 const confIdentifierPattern = /^ *\* ?(\[.*\]\s?)?[0-9?x\/-]+/
 
 //complex example : "* [Virtualized] 31/05-04/06: [event : stuff](http://link.io) - chambéry (France) <a ... ><img ...label=CFP.../></a> <img ...Closed%20Captions... />" 
-const confValidationPattern = /^\*( \[(?<status>[\w ]+)\])? (?<date>\d{1,2}(\/\d{1,2})?(-\d{1,2})?(\/\d{1,2})?)\s?: \[(?<name>[^\]]*)\]\((?<link>https?:\S*)\)( - (?<place>[^<\n]*))?(?<cfp><a.*label=CFP.*<\/a>)?\s*(?<cc><img.*Closed%20Captions.*\/>)?\s*$/
+const confValidationPattern = /^\*( \[(?<status>[\w ]+)\])? (?<date>\d{1,2}(\/\d{1,2})?(-\d{1,2})?(\/\d{1,2})?)\s?: \[(?<name>[^\]]*)\]\((?<link>https?:\S*)\)( - (?<place>[^<\n]*))?(?<cfp><a.*label=CFP.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>)?\s*(?<cc><img.*Closed%20Captions.*\/>)?\s*(?<other><img.*color=purple.*\/>)?\s*$/
 
 const extractArchiveFiles = markdown => //eg: " * [2017](archives/2017.md)"
     [...markdown.matchAll(/^\s*\*\s*\[.*\]\(archives\/.*\.md\)\s*$/gm)].map( match => match[0])
@@ -52,6 +52,9 @@ const addHints = confLine => {
     }
     if(confLine.content.includes("img.shields.io") && !confLine.content.match(/>\s*$/) ){
         hints.push("please place your shields at the end of the line")
+    }
+    if(confLine.content.includes("label=CFP") && !confLine.content.match(/<a.*label=CFP.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>/) ){
+        hints.push("please use a conform CFP date format (DD-MMM-YYYY, MMM-DD-YYYY, YYYY-MMM-DD) eg: 04-Jan-2023")
     }
 
     return {...confLine, hints:hints}
