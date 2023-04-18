@@ -1,3 +1,4 @@
+
 const fs=require('fs');
 
 const ROOT= "../"
@@ -40,6 +41,7 @@ const extractMonthBlocks = yearMarkdown => {
     })).map(month => ({
         ...month,
         month: MONTHS_NAMES.indexOf(month.month_en.toLowerCase())
+
     }))
     if(!months) return
     for (let index = 0; index < months.length-1; index++) {
