@@ -41,7 +41,6 @@ const extractMonthBlocks = yearMarkdown => {
     })).map(month => ({
         ...month,
         month: MONTHS_NAMES.indexOf(month.month_en.toLowerCase())
-
     }))
     if(!months) return
     for (let index = 0; index < months.length-1; index++) {
@@ -92,7 +91,6 @@ const extractCfp = shieldCode => {
         year, month, day,
         0,0,0
     ).getTime()
-    
     
     return {
         link:shieldCode.includes("href=")?shieldCode.replaceAll(/^.*href="([^"]*)".*$/g,'$1'):"",
