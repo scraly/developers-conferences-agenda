@@ -186,6 +186,7 @@ All the CFPs (past and coming) are available publicly in JSON: https://developer
 * 17-18: [KCD Munich](https://github.com/cncf/kubernetes-community-days/issues/451) - Munich (Germany) 
 * 18-21: [ÜberConf](https://uberconf.com/) - Denver (USA)
 * 19-22: [Drupal Developer Days 2023](https://ddd23.drupalcamp.at/) - Vienna (Austria)
+* 21-22: [JConfDominicana](https://jconfdominicana.org/) - Santo Domingo (Dominican Republic) <a href="https://t.co/fDOsXL6gZP"><img alt="CFP JConfDominicana 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2023&color=green"></a>
 * 22: [CodeCampSDQ](https://codecampsdq.com) - Santo Domingo (Dominican Republic) <a href="https://sessionize.com/codecampsdq-2023/"><img alt="CFP CodeCampSDQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
 * 17-23: [Europython](https://ep2023.europython.eu) - Prague (Czech Republic) <a href="https://ep2023.europython.eu/cfp"><img alt="CFP Europython" src="https://img.shields.io/static/v1?label=CFP&message=from%206-march-2023%20to%2019-march-2023&color=red"></a>
 * 27-28: [WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress/) - Berlin (Germany) <a href="https://sessionize.com/wearedevelopers-worldcongress23/"><img alt="CFP WeAreDevelopers World Congress 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2023&color=red"></a>
