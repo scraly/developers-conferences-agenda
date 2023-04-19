@@ -11,7 +11,11 @@ const SelectedEvents = ({ events, date }) => {
 	<>
 		<h3 className="eventDateDisplay">{formatDate(date)}</h3>
 		<div className="eventsGridDisplay">
-			{events?.map(e => <EventDisplay {...e} />)}
+			{
+				events?.length ? 
+				events.map(e => <EventDisplay {...e} />) : 
+				<p>No event found for that day</p>
+			}
 		</div>
 	</>
 	);
