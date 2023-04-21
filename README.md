@@ -152,6 +152,7 @@ All the CFPs (past and coming) are available publicly in JSON: https://developer
 * 12-14: [GrafanaCon](https://grafana.com/about/events/grafanacon/2023/) - Online
 * 12-16: [Microsoft 365 EduCon DC](https://www.365educon.com/DC) - Washington (US) <a href="https://sessionize.com/microsoft-365-educon-dc-2023/"><img alt="CFP Microsoft 365 EduCon DC 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2022&color=red"></a>
 * 13-15: [OpenInfra Summit](https://openinfra.dev/summit/vancouver-2023) - Vancouver (Canada)
+* 13-15: [QCon New York](https://qconnewyork.com/) - New York (USA)
 * 14-15: [OW2 openSource Conf](https://www.ow2con.org/view/2023/) <a href="https://pretalx.com/ow2con-2023/cfp"><img alt="CFP OW 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%20-26-February-2023&color=red"></a>
 * 14-17: [VivaTech (Viva Technology)](https://vivatechnology.com/) - Paris (France)
 * 15: [KCD Zurich](https://github.com/cncf/kubernetes-community-days/issues/449) - Zurich (Switzerland) & Online 
