@@ -248,6 +248,7 @@ All the CFPs (past and coming) are available publicly in JSON: https://developer
 * 23-25: [FOSS4G North America](https://foss4gna.org/) - Baltimore (USA)
 * 25-26: [DevRelX Summit](https://www.devrelxsummit.com/) - Online
 * 26: [Codeurs en Seine](https://www.codeursenseine.com/2023) - Rouen (France)
+* 25-27: [KubeCon + CloudNativeCon + Open Source Summit China 2023](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/) - Shangai (China)
 * 26-27: [Agile Tour Bordeaux](https://agiletourbordeaux.fr/) - Bordeaux (France)
 
 ### November
