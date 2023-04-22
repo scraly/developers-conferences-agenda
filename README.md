@@ -278,10 +278,6 @@ All the data (past and coming) is available publicly in JSON:
 
 * 31-03/02: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
 
-### February
-
-* 1-3: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
-
 ### March
 
 * 19-22: [KubeCon + CloudNativeCon Europe 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2024/) - Paris (France)
