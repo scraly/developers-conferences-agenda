@@ -127,7 +127,7 @@ All the data (past and coming) is available publicly in JSON:
 * 25-26: [Code Europe](https://www.codeeurope.pl/en/) - Cracow (Poland)
 * 26: [Devfest Lille](https://devfest.gdglille.org/) - Lille (France) <a href="https://conference-hall.io/public/event/hRA5AjQjXYMPI3MpwyoF"> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <img alt="CFP Devfest Lille 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%2003-Jan-2023%20to%2031-March-2023&color=red"></a>
 * 26-29: [GOTO Amsterdam](https://gotoams.nl/2023) - Amsterdam (Netherlands)
-* 27: [Polycloud](https://polycloud.fr) - Montpellier (France) <a href="https://conference-hall.io/public/event/OR1ldOA5G0ASoizWvVbO"><img alt="Polycloud" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-April-2023&color=green"></a>
+* 27: [Polycloud](https://polycloud.fr) - Montpellier (France) <a href="https://conference-hall.io/public/event/OR1ldOA5G0ASoizWvVbO"><img alt="Polycloud" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-April-2023&color=red"></a>
 * 29-06/06: [React Summit](https://reactsummit.com/) - Amsterdam (Netherlands)
 * 30-31: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP jPrime 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2023&color=red"></a>
 * 31-2: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland) <a href="https://devoxxpl23.cfp.dev/"><img alt="CFP Devoxx Poland 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=red"></a>
