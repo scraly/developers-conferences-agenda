@@ -6,6 +6,7 @@ cd page
 npm install -D
 
 cd ../tools
+node mdValidator.js
 node mdParser.js
 
 cd ../page
