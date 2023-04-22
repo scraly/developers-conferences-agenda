@@ -1,15 +1,14 @@
-fs=require('fs');
+
+const fs=require('fs');
 
 const ROOT= "../"
 const MAIN_INPUT = ROOT+"README.md"
 const MAIN_OUTPUT = ROOT+"page/src/misc/all-events.json"
 const CFP_OUTPUT = ROOT+"page/src/misc/all-cfps.json"
-const MONTHS_NAMES = "January,February,March,April,May,June,July,August,September,October,November,December".split(',')
+const MONTHS_NAMES = "january,february,march,april,may,june,july,august,september,october,november,december".split(',')
+const MONTHS_SHORTNAMES = MONTHS_NAMES.map(m=>m.slice(0,3))
 
-//eg: " * [2017](archives/2017.md)"
-const archiveFinderPattern = "^\s*\*\s*\[.*\](archives/(.*)\.md)\s*$"
-
-const extractArchiveFiles = markdown => 
+const extractArchiveFiles = markdown => //eg: " * [2017](archives/2017.md)"
     [...markdown.matchAll(/^\s*\*\s*\[.*\]\(archives\/.*\.md\)\s*$/gm)].map( match => match[0])
     .map( archiveLine => ROOT + archiveLine.trim().replaceAll(/^.*(archives\/.*\.md).*$/g,'$1'));
 
@@ -41,7 +40,7 @@ const extractMonthBlocks = yearMarkdown => {
         month_en:m[0].replaceAll(/^\W*(\w+)\W*$/g,'$1')
     })).map(month => ({
         ...month,
-        month: MONTHS_NAMES.indexOf(month.month_en)
+        month: MONTHS_NAMES.indexOf(month.month_en.toLowerCase())
     }))
     if(!months) return
     for (let index = 0; index < months.length-1; index++) {
@@ -82,11 +81,14 @@ const extractCfp = shieldCode => {
     const label = shieldCode.replaceAll(/^.*label=([^&]*)&.*$/g,'$1')
     if(!label.match(/cfp/i)) return {}
 
-    const untilStr = decodeURI(shieldCode.replaceAll(/^.*&message=([^&]*)&.*$/g,'$1')).replaceAll("until","").trim();
+    const message = decodeURI(shieldCode.replaceAll(/^.*&message=([^&]*)&.*$/g,'$1'))
+    const untilStr = decodeURI(shieldCode.replaceAll(/^.*&message=([^&]*)&.*$/g,'$1')).replace(/^.*(until|to)\s/gi,"").trim();
+    const year = untilStr.replaceAll(/^.*(\d{4})$/g,'$1')
+    const monthStr = untilStr.replaceAll(/[^a-zA-Z]/g,'')
+    const month = MONTHS_SHORTNAMES.indexOf(monthStr.slice(0,3).toLowerCase())
+    const day = untilStr.replaceAll(/^\D*(\d{1,2}).*$/g,'$1')
     const untilDate = new Date(
-        untilStr.replaceAll(/^.*(\d{4})$/g,'$1'),
-        MONTHS_NAMES.indexOf(untilStr.replaceAll(/[^a-zA-Z]/g,'')),
-        untilStr.replaceAll(/^(\d*).*$/g,'$1')+1,
+        year, month, day,
         0,0,0
     ).getTime()
     

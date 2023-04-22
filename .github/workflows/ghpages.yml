@@ -23,7 +23,9 @@ jobs:
         run: npm install -D
       - name: Parse Markdowns
         working-directory: tools
-        run: node mdParser.js
+        run: |
+          node mdValidator.js
+          node mdParser.js
       - working-directory: page
         run: npm run build
       - name: Make all-*.json files available at the site root
