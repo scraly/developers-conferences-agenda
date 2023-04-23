@@ -6,15 +6,6 @@
   justify-content: center;
 }
 
-.eventCell {
-  padding: 1rem;
-  border-radius: 3px;
-  background: #eee;
-  display: flex;
-  flex-direction: column;
-  border: 1px solid #ccc;
-}
-
 .eventDateDisplay {
   margin-top: 5rem;
   text-align: center;
