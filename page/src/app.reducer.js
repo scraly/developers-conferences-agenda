@@ -1,10 +1,10 @@
-const reducer = (state = {events: [], selectedDate: null, month: -1}, action) => {
+const datesReducer = (state = {date: null, month: null, year: null}, action) => {
   switch (action.type) {
-    case 'define':
+    case 'displayDate':
       return action.payload;
     default:
       return state;
   }
 };
 
-export default reducer;
+export default datesReducer;

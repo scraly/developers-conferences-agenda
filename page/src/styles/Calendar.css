@@ -39,7 +39,6 @@
   visibility: hidden;
 }
 
-/* TODO: Should we use SASS? */
 .date.intensity-1 {
   filter: brightness(0.95);
 }
