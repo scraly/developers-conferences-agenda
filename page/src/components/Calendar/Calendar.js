@@ -5,21 +5,7 @@ import {useMemo, useState} from 'react';
 import 'styles/Calendar.css';
 import {daysToWeeks} from './Calendar.utils';
 import {useCustomContext} from 'app.context';
-
-const MonthsName = [
-  'January',
-  'February',
-  'March',
-  'April',
-  'May',
-  'June',
-  'July',
-  'August',
-  'September',
-  'October',
-  'November',
-  'December',
-];
+import {getMonthName} from 'utils';
 
 const DaysName = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'];
 
@@ -52,11 +38,11 @@ const Calendar = ({month, days}) => {
         onClick={() =>
           userDispatch({
             type: 'define',
-            payload: {events, selectedDate: new Date(), month: MonthsName[month]},
+            payload: {events, selectedDate: new Date(), month: month},
           })
         }
       >
-        <span>{MonthsName[month]}</span>
+        <span>{getMonthName(month)}</span>
       </div>
       <div className="dayList">
         {DaysName.map((d, i) => (

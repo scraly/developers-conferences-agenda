@@ -7,6 +7,12 @@
   border: 1px solid #ccc;
 }
 
+.eventCell .content {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
 .eventCell a {
   color: blue;
 }
