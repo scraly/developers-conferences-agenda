@@ -1,0 +1,8 @@
+.eventCell {
+  padding: 1rem;
+  border-radius: 3px;
+  background: #eee;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ccc;
+}
