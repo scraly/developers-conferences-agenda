@@ -30,5 +30,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "prettier-airbnb-config": "^1.0.0"
+  },
+  "prettier": "prettier-airbnb-config"
 }

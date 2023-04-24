@@ -1,46 +1,46 @@
 body {
-	outline: 0;
-	box-sizing: border-box;
+  outline: 0;
+  box-sizing: border-box;
 
-	font-family: Inter, Arial, sans-serif;
+  font-family: Inter, Arial, sans-serif;
 }
 
 .dcaTitle {
-	text-align: center;
+  text-align: center;
 }
 
 .downloadButton {
-	width: max-content;
-	margin: 1rem auto;
-	padding: 10px;
-	border: 1px solid #ccc;
-	border-radius: 3px;
-	background: #eee;
-	display: flex;
-	align-items: center;
-	gap: 10px;
-	cursor: pointer;
+  width: max-content;
+  margin: 1rem auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: #eee;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
 }
 
 .md {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 body > footer {
-	background: #333;
-	color: #e6e6e6;
-	display: grid;
-	grid-template-rows: auto;
-	grid-template-columns: 1fr minmax(300px,min(90vw,1024px)) 1fr;
-	gap: 1em;
-	font-size: small;
-	background-color: #333;
+  background: #333;
+  color: #e6e6e6;
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr minmax(300px, min(90vw, 1024px)) 1fr;
+  gap: 1em;
+  font-size: small;
+  background-color: #333;
 }
 
 body > footer > .content {
-	grid-column: 2;
+  grid-column: 2;
 }
 
 .footer {
-	color: inherit;
+  color: inherit;
 }

@@ -1,98 +1,45 @@
-import React, { createRef } from 'react';
+import {useReducer, useState} from 'react';
 
-import { IonIcon } from '@ionic/react';
-import { arrowDownCircle } from 'ionicons/icons';
+import {IonIcon} from '@ionic/react';
+import {arrowDownCircle} from 'ionicons/icons';
 
-import { VCALENDAR, VEVENT } from 'ics-js';
-
-import YearSelector from 'components/YearSelector';
-import CalendarGrid, { getEventsOnDate } from 'components/CalendarGrid';
-import SelectedEvents from 'components/SelectedEvents';
-
-import allEvents from 'misc/all-events.json';
+import YearSelector from 'components/YearSelector/YearSelector';
+import CalendarGrid from 'components/CalendarGrid/CalendarGrid';
 
 import 'misc/fonts/inter/inter.css';
 import 'styles/App.css';
+import {exportYear} from 'utils';
+import reducer from 'app.reducer';
+import SelectedEvents from 'components/SelectedEvents/SelectedEvents';
+import CustomContext from 'app.context';
 
-class App extends React.Component {
-	constructor(props) {
-		super(props);
+const App = () => {
+  const [selectedYear, setSelectedYear] = useState(new Date().getFullYear());
+  const [userState, userDispatch] = useReducer(reducer, {});
+  const providerState = {
+    userState,
+    userDispatch,
+  };
 
-		this.eventsGrid = createRef();
-		this.state = {
-			selectedYear: new Date().getFullYear(),
-			events: [],
-			selectedDate: new Date()
-		};
-	}
+  return (
+    <CustomContext.Provider value={providerState}>
+      <h1 className="dcaTitle">Developer Conferences Agenda</h1>
+      <YearSelector
+        year={selectedYear}
+        onChange={year => {
+          setSelectedYear(year);
+        }}
+      />
+      <div className="downloadButton" onClick={() => exportYear(selectedYear)}>
+        <IonIcon icon={arrowDownCircle} />
+        Download {selectedYear} Calendar
+      </div>
 
-	renderYear(year) {
-		this.setState((state) => {
-			return { selectedYear: year };
-		});
-	}
+      <CalendarGrid year={selectedYear} />
 
-	displayDate(date) {
-		this.setState((state) => {
-			return { events: getEventsOnDate(date), selectedDate: date };
-		});
-	}
-
-	exportYear() {
-		let cal = new VCALENDAR();
-		cal.addProp('VERSION', 2);
-		cal.addProp('PRODID', 'DCA');
-
-		for (const event of allEvents) {
-			let eventYear = new Date(event.date[0]).getFullYear();
-			if (eventYear !== this.state.selectedYear) continue;
-			let vevent = new VEVENT();
-			vevent.addProp('UID', `${Math.random()}@dca`);
-			vevent.addProp('DTSTAMP', new Date());
-			vevent.addProp('DTSTART', new Date(event.date[0]));
-			vevent.addProp('DTEND', new Date(event.date[1] ?? event.date[0]));
-			vevent.addProp('LOCATION', event.location || 'unspecified');
-			vevent.addProp('SUMMARY', event.name);
-			vevent.addProp('URL', event.hyperlink || 'unspecified');
-			cal.addComponent(vevent);
-		}
-
-		let blob = cal.toBlob();
-		let link = document.createElement('a');
-		link.href = URL.createObjectURL(blob);
-		link.download = `developer-conference-${this.state.selectedYear}.ics`;
-		link.click();
-	}
-
-	componentDidUpdate(prevProps, prevState) {
-		if (prevState.selectedDate !== this.state.selectedDate) {
-			this.eventsGrid.current?.scrollIntoView({ behavior: 'smooth' });
-		}
-	}
-
-	render() {
-		return (
-			<>
-				<h2 className="dcaTitle">Developer Conferences Agenda</h2>
-				<YearSelector
-				year={this.state.selectedYear}
-				onChange={this.renderYear.bind(this)} />
-
-				<div className="downloadButton" onClick={this.exportYear.bind(this)}>
-					<IonIcon icon={arrowDownCircle} />
-					Download {this.state.selectedYear} Calendar
-				</div>
-
-				<CalendarGrid
-				year={this.state.selectedYear}
-				displayDate={this.displayDate.bind(this)} />
-
-				<div ref={this.eventsGrid}>
-					<SelectedEvents events={this.state.events} date={this.state.selectedDate} />
-				</div>
-			</>
-		);
-	}
-}
+      <SelectedEvents events={userState.events} date={userState.selectedDate} />
+    </CustomContext.Provider>
+  );
+};
 
 export default App;
