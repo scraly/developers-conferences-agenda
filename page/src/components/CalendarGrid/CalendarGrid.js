@@ -3,7 +3,6 @@ import {useMemo, useState} from 'react';
 import Calendar from 'components/Calendar/Calendar';
 
 import 'styles/CalendarGrid.css';
-import {DayRange, getEventsOnDate} from './CalendarGrid.utils';
 
 const CalendarGrid = ({year}) => {
   const [months, setMonths] = useState([]);
@@ -12,23 +11,14 @@ const CalendarGrid = ({year}) => {
     // Iterate month
     let months = [];
     for (let m = 0; m < 12; m++) {
-      let days = [];
-      // Iterate days
-      let startDate = new Date(Date.UTC(year, m));
-      let endDate = new Date(Date.UTC(year, m + 1));
-      for (const dayDate of DayRange(startDate, endDate)) {
-        days.push({
-          date: dayDate,
-          events: getEventsOnDate(dayDate),
-        });
+      const days = [];
+      const nbDays = new Date(year, m + 1, 0).getDate();
+      for (let i = 1; i <= nbDays; i++) {
+        days.push(new Date(year, m, i));
       }
-
-      months.push({
-        days,
-        month: m,
-      });
+      months.push(<Calendar key={`month_${m}`} year={year} month={m} days={days} />);
     }
-    setMonths(months.map((m, i) => <Calendar key={`month_${i}`} {...m} />));
+    setMonths(months);
   }, [year]);
 
   return <div className="calendarGrid">{months}</div>;

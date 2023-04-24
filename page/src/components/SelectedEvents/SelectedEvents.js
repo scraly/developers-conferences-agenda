@@ -4,20 +4,35 @@ import 'styles/SelectedEvents.css';
 import EventDisplay from '../EventDisplay/EventDisplay';
 import {formatDate, getMonthName} from '../../utils';
 
-const SelectedEvents = ({events, date, month}) => {
-  const [evnts, setEvnts] = useState(null);
+const SelectedEvents = ({year, month, date}) => {
+  const [events, setEvents] = useState(null);
   const scrollToRef = useRef();
 
   useMemo(() => {
-    setEvnts(
-      events?.length ? (
-        events.map((e, i) => <EventDisplay key={`ev_${i}`} {...e} />)
+    const events = [];
+    if (month && year && window.dev_events[year] && window.dev_events[month]) {
+      Object.values(window.dev_events[month]).map(e => events.push(e));
+    } else if (
+      date &&
+      window.dev_events[date.getFullYear()] &&
+      window.dev_events[date.getFullYear()][date.getMonth()] &&
+      window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()]
+    ) {
+      window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()].map(e =>
+        events.push(e)
+      );
+    }
+    setEvents(
+      events.length ? (
+        [...new Map(events.map(item => [item.name, item])).values()].map((e, i) => (
+          <EventDisplay key={`ev_${i}`} {...e} />
+        ))
       ) : (
         <p>No event found for that day</p>
       )
     );
     scrollToRef.current?.scrollIntoView({behavior: 'smooth'});
-  }, [events]);
+  }, [year, month, date]);
 
   return (
     <>
@@ -26,7 +41,7 @@ const SelectedEvents = ({events, date, month}) => {
           <h3 className="eventDateDisplay" ref={scrollToRef}>
             {getMonthName(month) || formatDate(date)}
           </h3>
-          <div className="eventsGridDisplay">{evnts}</div>
+          <div className="eventsGridDisplay">{events}</div>
         </>
       ) : (
         ''
