@@ -9,6 +9,7 @@ const Day = ({date}) => {
   useMemo(() => {
     if (date) {
       if (
+        window.dev_events &&
         window.dev_events[date.getFullYear()] &&
         window.dev_events[date.getFullYear()][date.getMonth()] &&
         window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()]

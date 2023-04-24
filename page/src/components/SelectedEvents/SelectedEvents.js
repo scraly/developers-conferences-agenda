@@ -9,9 +9,9 @@ const SelectedEvents = ({year, month, date}) => {
   const scrollToRef = useRef();
 
   useMemo(() => {
-    const events = [];
-    if (month && year && window.dev_events[year] && window.dev_events[month]) {
-      Object.values(window.dev_events[month]).map(e => events.push(e));
+    let events = [];
+    if (month && year && window.dev_events[year] && window.dev_events[year][month]) {
+      Object.values(window.dev_events[year][month]).map(day => day.map(d => events.push(d)));
     } else if (
       date &&
       window.dev_events[date.getFullYear()] &&
@@ -22,11 +22,10 @@ const SelectedEvents = ({year, month, date}) => {
         events.push(e)
       );
     }
+    events = [...new Map(events.map(item => [item.name, item])).values()];
     setEvents(
       events.length ? (
-        [...new Map(events.map(item => [item.name, item])).values()].map((e, i) => (
-          <EventDisplay key={`ev_${i}`} {...e} />
-        ))
+        events.map((e, i) => <EventDisplay key={`ev_${i}`} {...e} />)
       ) : (
         <p>No event found for that day</p>
       )
