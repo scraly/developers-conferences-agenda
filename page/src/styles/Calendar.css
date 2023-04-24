@@ -1,6 +1,8 @@
 .header {
   text-align: center;
   cursor: pointer;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 .dayList {
