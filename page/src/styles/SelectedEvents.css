@@ -10,3 +10,14 @@
   margin-top: 5rem;
   text-align: center;
 }
+
+.eventDateDisplay h3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.eventDateDisplay button {
+  background: none;
+  border: none;
+}

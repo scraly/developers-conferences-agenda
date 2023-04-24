@@ -2,7 +2,7 @@ import {useCustomContext} from 'app.context';
 import {useMemo, useState} from 'react';
 
 const Day = ({date}) => {
-  const context = useCustomContext();
+  const userDispatch = useCustomContext().userDispatch;
   const [intensity, setIntensity] = useState('');
   const [invisible, setInvible] = useState('invisible');
 
@@ -29,7 +29,7 @@ const Day = ({date}) => {
     <div
       className={'date' + invisible + intensity}
       onClick={() =>
-        context.userDispatch({type: 'displayDate', payload: {date: date, month: null, year: null}})
+        userDispatch({type: 'displayDate', payload: {date: date, month: -1, year: null}})
       }
     >
       {date?.getDate() || ''}
