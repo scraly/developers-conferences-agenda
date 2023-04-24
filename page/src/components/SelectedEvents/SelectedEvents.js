@@ -16,7 +16,7 @@ const SelectedEvents = ({events, date}) => {
         <p>No event found for that day</p>
       )
     );
-    scrollToRef.current.scrollIntoView({behavior: 'smooth'});
+    scrollToRef.current?.scrollIntoView({behavior: 'smooth'});
   }, [events]);
 
   return (
