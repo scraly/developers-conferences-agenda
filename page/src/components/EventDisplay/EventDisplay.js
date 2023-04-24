@@ -1,12 +1,14 @@
 import 'styles/EventDisplay.css';
+import {formatEventDates} from './EventDisplay.utils';
 
-const EventDisplay = ({name, hyperlink, location, misc}) => {
+const EventDisplay = ({name, hyperlink, location, misc, date}) => {
   return (
     <div className="eventCell">
       <b>{name}</b>
-      <a href={hyperlink}>{new URL(hyperlink).hostname}</a>
+      {hyperlink ? <a href={hyperlink}>{new URL(hyperlink).hostname}</a> : ''}
       <span>{location}</span>
       <p dangerouslySetInnerHTML={{__html: misc}}></p>
+      <span className="when">{formatEventDates(date)}</span>
     </div>
   );
 };

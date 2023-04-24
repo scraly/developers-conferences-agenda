@@ -4,6 +4,7 @@ import {useMemo, useState} from 'react';
 
 import 'styles/Calendar.css';
 import {daysToWeeks} from './Calendar.utils';
+import {useCustomContext} from 'app.context';
 
 const MonthsName = [
   'January',
@@ -24,22 +25,37 @@ const DaysName = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'];
 
 const Calendar = ({month, days}) => {
   const [daysEvents, setDaysEvents] = useState(null);
+  const [events, setEvents] = useState([]);
+  const userDispatch = useCustomContext().userDispatch;
 
   useMemo(() => {
+    const events = [];
     setDaysEvents(
       daysToWeeks(days).map((week, w) => (
         <Week key={`week_${w}`}>
-          {week.map((day, i) => (
-            <Day key={`day_${i}`} date={day.date} events={day.events} />
-          ))}
+          {week.map((day, i) => {
+            if (day.events) {
+              day.events.map(e => events.push(e));
+            }
+            return <Day key={`day_${i}`} date={day.date} events={day.events} />;
+          })}
         </Week>
       ))
     );
+    setEvents(events);
   }, [days]);
 
   return (
     <div>
-      <div className="header">
+      <div
+        className="header"
+        onClick={() =>
+          userDispatch({
+            type: 'define',
+            payload: {events, selectedDate: new Date(), month: MonthsName[month]},
+          })
+        }
+      >
         <span>{MonthsName[month]}</span>
       </div>
       <div className="dayList">
