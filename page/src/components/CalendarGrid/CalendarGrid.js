@@ -14,8 +14,8 @@ const CalendarGrid = ({year}) => {
     for (let m = 0; m < 12; m++) {
       let days = [];
       // Iterate days
-      let startDate = new Date(year, m);
-      let endDate = new Date(year, m + 1);
+      let startDate = new Date(Date.UTC(year, m));
+      let endDate = new Date(Date.UTC(year, m + 1));
       for (const dayDate of DayRange(startDate, endDate)) {
         days.push({
           date: dayDate,
