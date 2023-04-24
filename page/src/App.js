@@ -1,4 +1,4 @@
-import {useEffect, useMemo, useReducer, useState} from 'react';
+import {useReducer, useState} from 'react';
 
 import {IonIcon} from '@ionic/react';
 import {arrowDownCircle} from 'ionicons/icons';
@@ -8,7 +8,7 @@ import CalendarGrid from 'components/CalendarGrid/CalendarGrid';
 
 import 'misc/fonts/inter/inter.css';
 import 'styles/App.css';
-import {exportYear, getEventsByYear} from 'utils';
+import {exportYear} from 'utils';
 import reducer from 'app.reducer';
 import SelectedEvents from 'components/SelectedEvents/SelectedEvents';
 import CustomContext from 'app.context';
@@ -20,10 +20,6 @@ const App = () => {
     userState,
     userDispatch,
   };
-
-  useEffect(() => {
-    getEventsByYear();
-  }, []);
 
   return (
     <CustomContext.Provider value={providerState}>
