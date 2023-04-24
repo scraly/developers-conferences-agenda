@@ -8,6 +8,8 @@ const CFP_OUTPUT = ROOT+"page/src/misc/all-cfps.json"
 const MONTHS_NAMES = "january,february,march,april,may,june,july,august,september,october,november,december".split(',')
 const MONTHS_SHORTNAMES = MONTHS_NAMES.map(m=>m.slice(0,3))
 
+const getTimeStamp = (year,month,day) => new Date(Date.UTC(year,month,day,0,0,0)).getTime()
+
 const extractArchiveFiles = markdown => //eg: " * [2017](archives/2017.md)"
     [...markdown.matchAll(/^\s*\*\s*\[.*\]\(archives\/.*\.md\)\s*$/gm)].map( match => match[0])
     .map( archiveLine => ROOT + archiveLine.trim().replaceAll(/^.*(archives\/.*\.md).*$/g,'$1'));
@@ -66,15 +68,15 @@ const extractEvents = (monthMarkdown,year,month) =>
 const getTimeSpan = (year,month,datespan) => {
     const [startDay,endDay] = datespan.split('-').map(d=>d.trim())
     if(!endDay){
-        return [ new Date(year,month,+startDay,0,0,0).getTime()]
+        return [ getTimeStamp(year,month,+startDay) ]
     }
     if(endDay.includes('/')){ //event ends next month "31-02/04"
-        return [ new Date(year,month,+startDay,0,0,0).getTime(), new Date(year,month+1,+endDay.split('/')[0],0,0,0).getTime()]
+        return [ getTimeStamp(year,month,+startDay), getTimeStamp(year,month+1,+endDay.split('/')[0])]
     }
     if(+startDay > +endDay){//event ends next month "31-02"
-        return [ new Date(year,month,+startDay,0,0,0).getTime(), new Date(year,month+1,+endDay,0,0,0).getTime()]
+        return [ getTimeStamp(year,month,+startDay), getTimeStamp(year,month+1,+endDay)]
     }
-    return [ new Date(year,month,+startDay,0,0,0).getTime(), new Date(year,month,+endDay,0,0,0).getTime()]
+    return [ getTimeStamp(year,month,+startDay), getTimeStamp(year,month,+endDay,0,0,0)]
 }
 const extractCfp = shieldCode => {
     if(!shieldCode.includes("shields.io")) return {}
@@ -87,10 +89,7 @@ const extractCfp = shieldCode => {
     const monthStr = untilStr.replaceAll(/[^a-zA-Z]/g,'')
     const month = MONTHS_SHORTNAMES.indexOf(monthStr.slice(0,3).toLowerCase())
     const day = untilStr.replaceAll(/^\D*(\d{1,2}).*$/g,'$1')
-    const untilDate = new Date(
-        year, month, day,
-        0,0,0
-    ).getTime()
+    const untilDate = getTimeStamp(year, month, day)
     
     return {
         link:shieldCode.includes("href=")?shieldCode.replaceAll(/^.*href="([^"]*)".*$/g,'$1'):"",

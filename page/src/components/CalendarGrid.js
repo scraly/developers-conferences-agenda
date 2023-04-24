@@ -16,7 +16,7 @@ function* DayRange(startDate, endDate) {
 export function getEventsOnDate(date) {
 	let events = [];
 	for (const event of allEvents) {
-		if (date >= event.date[0] && date < (event.date[1] ?? event.date[0])) {
+		if (date >= event.date[0] && date <= (event.date[1] ?? event.date[0])) {
 			events.push(Object.assign({}, event));
 		}
 	}
@@ -30,8 +30,8 @@ const CalendarGrid = ({ year, displayDate }) => {
 	for (let m = 0; m < 12; m++) {
 		let days = [];
 		// Iterate days
-		let startDate = new Date(year, m);
-		let endDate = new Date(year, m + 1);
+		let startDate = new Date(Date.UTC(year, m));
+		let endDate = new Date(Date.UTC(year, m + 1));
 		for (const dayDate of DayRange(startDate, endDate)) {
 			days.push({
 				date: dayDate,
