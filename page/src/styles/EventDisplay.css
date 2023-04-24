@@ -6,3 +6,17 @@
   flex-direction: column;
   border: 1px solid #ccc;
 }
+
+.eventCell .content {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.eventCell a {
+  color: blue;
+}
+
+.eventCell .when {
+  font-size: 0.8em;
+}

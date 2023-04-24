@@ -1,4 +1,4 @@
-const reducer = (state = {events: [], selectedDate: null}, action) => {
+const reducer = (state = {events: [], selectedDate: null, month: -1}, action) => {
   switch (action.type) {
     case 'define':
       return action.payload;

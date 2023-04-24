@@ -4,43 +4,45 @@ import {useMemo, useState} from 'react';
 
 import 'styles/Calendar.css';
 import {daysToWeeks} from './Calendar.utils';
-
-const MonthsName = [
-  'January',
-  'February',
-  'March',
-  'April',
-  'May',
-  'June',
-  'July',
-  'August',
-  'September',
-  'October',
-  'November',
-  'December',
-];
+import {useCustomContext} from 'app.context';
+import {getMonthName} from 'utils';
 
 const DaysName = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'];
 
 const Calendar = ({month, days}) => {
   const [daysEvents, setDaysEvents] = useState(null);
+  const [events, setEvents] = useState([]);
+  const userDispatch = useCustomContext().userDispatch;
 
   useMemo(() => {
+    const events = [];
     setDaysEvents(
       daysToWeeks(days).map((week, w) => (
         <Week key={`week_${w}`}>
-          {week.map((day, i) => (
-            <Day key={`day_${i}`} date={day.date} events={day.events} />
-          ))}
+          {week.map((day, i) => {
+            if (day.events) {
+              day.events.map(e => events.push(e));
+            }
+            return <Day key={`day_${i}`} date={day.date} events={day.events} />;
+          })}
         </Week>
       ))
     );
+    setEvents([...new Map(events.map(item => [item.name, item])).values()]);
   }, [days]);
 
   return (
     <div>
-      <div className="header">
-        <span>{MonthsName[month]}</span>
+      <div
+        className="header"
+        onClick={() =>
+          userDispatch({
+            type: 'define',
+            payload: {events, selectedDate: new Date(), month: month},
+          })
+        }
+      >
+        <span>{getMonthName(month)}</span>
       </div>
       <div className="dayList">
         {DaysName.map((d, i) => (

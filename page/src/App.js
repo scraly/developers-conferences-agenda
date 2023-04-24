@@ -37,7 +37,11 @@ const App = () => {
 
       <CalendarGrid year={selectedYear} />
 
-      <SelectedEvents events={userState.events} date={userState.selectedDate} />
+      <SelectedEvents
+        events={userState.events}
+        date={userState.selectedDate}
+        month={userState.month}
+      />
     </CustomContext.Provider>
   );
 };

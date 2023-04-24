@@ -2,9 +2,9 @@ import {useMemo, useRef, useState} from 'react';
 
 import 'styles/SelectedEvents.css';
 import EventDisplay from '../EventDisplay/EventDisplay';
-import {formatDate} from './SelectedEvents.utils';
+import {formatDate, getMonthName} from '../../utils';
 
-const SelectedEvents = ({events, date}) => {
+const SelectedEvents = ({events, date, month}) => {
   const [evnts, setEvnts] = useState(null);
   const scrollToRef = useRef();
 
@@ -24,7 +24,7 @@ const SelectedEvents = ({events, date}) => {
       {date ? (
         <>
           <h3 className="eventDateDisplay" ref={scrollToRef}>
-            {formatDate(date)}
+            {getMonthName(month) || formatDate(date)}
           </h3>
           <div className="eventsGridDisplay">{evnts}</div>
         </>
