@@ -42,7 +42,7 @@ const Calendar = ({month, days}) => {
         </Week>
       ))
     );
-    setEvents(events);
+    setEvents([...new Map(events.map(item => [item.name, item])).values()]);
   }, [days]);
 
   return (
