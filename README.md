@@ -265,10 +265,10 @@ All the data (past and coming) is available publicly in JSON:
 ### December
 
 * 6-7: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France)
+* 7: [TestJS Summit](https://testjssummit.com/) - Berlin (Germany)
 * 7-8: [SymfonyCon Brussels](https://live.symfony.com/2023-brussels-con/) - Brussels (Belgium)
 * 7-8: [DevTernity](https://devternity.com/) - Online
 * 8: [React Day Berlin](https://reactday.berlin/) - Berlin (Germany)
-* 7: [TestJS Summit](https://testjssummit.com/) - Berlin (Germany)
 * 11: [TestJS Summit](https://testjssummit.com/) - Online
 * 12: [React Day Berlin](https://reactday.berlin/) - Online
 
