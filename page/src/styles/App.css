@@ -21,3 +21,26 @@ body {
 	gap: 10px;
 	cursor: pointer;
 }
+
+.md {
+	cursor: pointer;
+}
+
+body > footer {
+	background: #333;
+	color: #e6e6e6;
+	display: grid;
+	grid-template-rows: auto;
+	grid-template-columns: 1fr minmax(300px,min(90vw,1024px)) 1fr;
+	gap: 1em;
+	font-size: small;
+	background-color: #333;
+}
+
+body > footer > .content {
+	grid-column: 2;
+}
+
+.footer {
+	color: inherit;
+}
