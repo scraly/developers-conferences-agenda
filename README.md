@@ -267,7 +267,7 @@ All the data (past and coming) is available publicly in JSON:
 
 ### December
 
-* 6-7: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France)
+* 6-7: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France) <a href="https://sessionize.com/open-source-experience-2023/"><img alt="CFP [Open Source Experience 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-june-2023&color=green"></a>
 * 7: [TestJS Summit](https://testjssummit.com/) - Berlin (Germany)
 * 7-8: [SymfonyCon Brussels](https://live.symfony.com/2023-brussels-con/) - Brussels (Belgium)
 * 7-8: [DevTernity](https://devternity.com/) - Online
