@@ -34,7 +34,9 @@ const SelectedEvents = ({year, month, date}) => {
         <p>No event found for that day</p>
       )
     );
-    scrollToRef.current?.scrollIntoView({behavior: 'smooth'});
+    setTimeout(() => {
+      scrollToRef.current?.scrollIntoView({behavior: 'smooth'});
+    }, 100);
   }, [year, month, date]);
 
   let previous = '',
