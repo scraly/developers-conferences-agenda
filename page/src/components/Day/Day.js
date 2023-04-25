@@ -4,7 +4,7 @@ import {useMemo, useState} from 'react';
 const Day = ({date}) => {
   const userDispatch = useCustomContext().userDispatch;
   const [intensity, setIntensity] = useState('');
-  const [invisible, setInvible] = useState('invisible');
+  const [invisible, setInvisible] = useState('invisible');
 
   useMemo(() => {
     if (date) {
@@ -21,7 +21,10 @@ const Day = ({date}) => {
           )}`
         );
       }
-      setInvible('');
+      setInvisible('');
+    } else {
+      setIntensity('');
+      setInvisible('invisible');
     }
   }, [date]);
 
