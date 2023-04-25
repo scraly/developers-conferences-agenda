@@ -263,7 +263,7 @@ All the data (past and coming) is available publicly in JSON:
 * 10: [BDX I/O](https://www.bdxio.fr/) - Bordeaux (France)
 * 12-14: [Meeting C++ 2023](https://meetingcpp.com/) - Berlin (Germany) and online
 * 14: [Data Community Conference](https://www.data-community.ch/) - Bern (Swiss)
-* 16: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France)
+* 16: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France) <a href="https://devfesttoulouse.fr/#le-cfp"><img alt="CFP DevFest Toulouse 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2023&color=green"></a>
 
 ### December
 
