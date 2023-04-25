@@ -9,26 +9,20 @@ import {getMonthName} from 'utils';
 
 const DaysName = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'];
 
-const Calendar = ({month, days}) => {
+const Calendar = ({year, month, days}) => {
   const [daysEvents, setDaysEvents] = useState(null);
-  const [events, setEvents] = useState([]);
   const userDispatch = useCustomContext().userDispatch;
 
   useMemo(() => {
-    const events = [];
     setDaysEvents(
       daysToWeeks(days).map((week, w) => (
         <Week key={`week_${w}`}>
-          {week.map((day, i) => {
-            if (day.events) {
-              day.events.map(e => events.push(e));
-            }
-            return <Day key={`day_${i}`} date={day.date} events={day.events} />;
+          {week.map((day, d) => {
+            return <Day key={`day_${d}`} date={day} />;
           })}
         </Week>
       ))
     );
-    setEvents([...new Map(events.map(item => [item.name, item])).values()]);
   }, [days]);
 
   return (
@@ -37,8 +31,8 @@ const Calendar = ({month, days}) => {
         className="header"
         onClick={() =>
           userDispatch({
-            type: 'define',
-            payload: {events, selectedDate: new Date(), month: month},
+            type: 'displayDate',
+            payload: {date: new Date(), month: month, year: year},
           })
         }
       >

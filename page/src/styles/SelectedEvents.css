@@ -10,3 +10,13 @@
   margin-top: 5rem;
   text-align: center;
 }
+
+.eventDateDisplay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.eventDateDisplay span {
+  padding: 0 1rem;
+}

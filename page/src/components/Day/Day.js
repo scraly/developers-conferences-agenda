@@ -1,16 +1,35 @@
 import {useCustomContext} from 'app.context';
+import {useMemo, useState} from 'react';
 
-const Day = ({date, events}) => {
+const Day = ({date}) => {
   const userDispatch = useCustomContext().userDispatch;
+  const [intensity, setIntensity] = useState('');
+  const [invisible, setInvible] = useState('invisible');
 
-  const invisible = date?.getDate() ? '' : ' invisible';
-  const intensity = ` intensity-${Math.min(events?.length ?? 0, 10)}`;
+  useMemo(() => {
+    if (date) {
+      if (
+        window.dev_events &&
+        window.dev_events[date.getFullYear()] &&
+        window.dev_events[date.getFullYear()][date.getMonth()] &&
+        window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()]
+      ) {
+        setIntensity(
+          ` intensity-${Math.min(
+            window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()].length,
+            7
+          )}`
+        );
+      }
+      setInvible('');
+    }
+  }, [date]);
 
   return (
     <div
       className={'date' + invisible + intensity}
       onClick={() =>
-        userDispatch({type: 'define', payload: {events, selectedDate: date, month: false}})
+        userDispatch({type: 'displayDate', payload: {date: date, month: -1, year: null}})
       }
     >
       {date?.getDate() || ''}
