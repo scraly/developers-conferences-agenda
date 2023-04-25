@@ -242,7 +242,7 @@ All the data (past and coming) is available publicly in JSON:
 * 10-12: [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Dublin (Ireland)
 * 10-12: [Devoxx Morocco](https://devoxx.ma/) - Agadir (Morocco) <a href="https://devoxx.ma/"><img alt="CFP ParisTestConf 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%2005-June%20to%2024-July-2023&color=red"></a>
 * 12: [Cloud Nord](https://www.cloudnord.fr/) - Lille (France)
-* 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont-Ferrand (France)
+* 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont-Ferrand (France) <a href="https://conference-hall.io/public/event/b9seMUHc924mGItMl2aa"><img alt="CFP Volcamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-May-2023&color=green"></a>
 * 12-13: [Forum PHP 2023](https://event.afup.org/forum-php-2023) - Marne-la-Vallée (France)
 * 16-18: [Platform Summit 2023](https://nordicapis.com/events/platform-summit-2023/) - Stockholm (Sweden)
 * 18-19: [Baselone 2023](https://baselone.ch/one) - Basel (Switzerland) <a href="https://sessionize.com/baselone2023/"><img alt="CFP Baselone 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-April-2023&color=red"></a>
