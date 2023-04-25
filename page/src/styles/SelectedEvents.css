@@ -11,13 +11,12 @@
   text-align: center;
 }
 
-.eventDateDisplay h3 {
+.eventDateDisplay {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.eventDateDisplay button {
-  background: none;
-  border: none;
+.eventDateDisplay span {
+  padding: 0 1rem;
 }

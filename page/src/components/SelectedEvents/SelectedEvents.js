@@ -4,6 +4,8 @@ import 'styles/SelectedEvents.css';
 import EventDisplay from '../EventDisplay/EventDisplay';
 import {formatDate, getMonthName} from '../../utils';
 import {useCustomContext} from 'app.context';
+import {IonIcon} from '@ionic/react';
+import {caretBackCircle, caretForwardCircle} from 'ionicons/icons';
 
 const SelectedEvents = ({year, month, date}) => {
   const userDispatch = useCustomContext().userDispatch;
@@ -40,23 +42,21 @@ const SelectedEvents = ({year, month, date}) => {
   if (month !== -1 && year) {
     if (month > 0)
       previous = (
-        <button
+        <IonIcon
+          icon={caretBackCircle}
           onClick={() =>
             userDispatch({type: 'displayDate', payload: {date, month: month - 1, year}})
           }
-        >
-          ◀️
-        </button>
+        />
       );
     if (month < 11)
       next = (
-        <button
+        <IonIcon
+          icon={caretForwardCircle}
           onClick={() =>
             userDispatch({type: 'displayDate', payload: {date, month: month + 1, year}})
           }
-        >
-          ▶️
-        </button>
+        />
       );
   } else if (date) {
     const dateYear = date.getFullYear();
@@ -66,30 +66,28 @@ const SelectedEvents = ({year, month, date}) => {
     const day = 24 * 60 * 60 * 1000;
     if (today !== firstDay) {
       previous = (
-        <button
+        <IonIcon
+          icon={caretBackCircle}
           onClick={() =>
             userDispatch({
               type: 'displayDate',
               payload: {date: new Date(today - day), month, year},
             })
           }
-        >
-          ◀️
-        </button>
+        />
       );
     }
     if (today !== lastDay) {
       next = (
-        <button
+        <IonIcon
+          icon={caretForwardCircle}
           onClick={() =>
             userDispatch({
               type: 'displayDate',
               payload: {date: new Date(today + day), month, year},
             })
           }
-        >
-          ▶️
-        </button>
+        />
       );
     }
   }
@@ -100,7 +98,7 @@ const SelectedEvents = ({year, month, date}) => {
         <>
           <h3 className="eventDateDisplay" ref={scrollToRef}>
             {previous}
-            {getMonthName(month) || formatDate(date)}
+            <span>{getMonthName(month) || formatDate(date)}</span>
             {next}
           </h3>
           <div className="eventsGridDisplay">{events}</div>
