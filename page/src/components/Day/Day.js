@@ -17,7 +17,7 @@ const Day = ({date}) => {
         setIntensity(
           ` intensity-${Math.min(
             window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()].length,
-            10
+            7
           )}`
         );
       }

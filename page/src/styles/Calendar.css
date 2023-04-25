@@ -30,7 +30,6 @@
 .date {
   padding: 10px;
   text-align: center;
-  background: #eee;
   border-radius: 3px;
   cursor: pointer;
 }
@@ -40,32 +39,27 @@
 }
 
 .date.intensity-1 {
-  filter: brightness(0.95);
+  background-color: rgb(241 245 249);
 }
 .date.intensity-2 {
-  filter: brightness(0.9);
+  background-color: rgb(226 232 240);
 }
 .date.intensity-3 {
-  filter: brightness(0.85);
+  background-color: rgb(226 232 240);
 }
 .date.intensity-4 {
-  filter: brightness(0.8);
+  background-color: rgb(148 163 184);
+  color: #fafafa;
 }
 .date.intensity-5 {
-  filter: brightness(0.75);
+  background-color: rgb(100 116 139);
+  color: #fafafa;
 }
 .date.intensity-6 {
-  filter: brightness(0.7);
+  background-color: rgb(71 85 105);
+  color: #fafafa;
 }
 .date.intensity-7 {
-  filter: brightness(0.65);
-}
-.date.intensity-8 {
-  filter: brightness(0.6);
-}
-.date.intensity-9 {
-  filter: brightness(0.55);
-}
-.date.intensity-10 {
-  filter: brightness(0.5);
+  background-color: rgb(51 65 85);
+  color: #fafafa;
 }
