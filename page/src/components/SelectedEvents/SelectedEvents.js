@@ -58,7 +58,7 @@ const SelectedEvents = ({year, month, date}) => {
           ▶️
         </button>
       );
-  } else {
+  } else if (date) {
     const dateYear = date.getFullYear();
     const firstDay = new Date(dateYear, 0, 1).getTime();
     const lastDay = new Date(dateYear, 12, 0).getTime();
