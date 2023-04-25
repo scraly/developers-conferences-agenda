@@ -189,6 +189,7 @@ All the data (past and coming) is available publicly in JSON:
 
 * 3-5: [DevBCN](http://www.devbcn.com) - Barcelona (Spain) <a href="https://sessionize.com/devbcn23"><img alt="CFP DevBcn" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2023&color=red"></a>
 * 10-12: [Riviera DEV](https://rivieradev.fr) - Sophia Antipolis (Nice, France) <a href="https://conference-hall.io/public/event/qDKnPd1n2RpmJ5aTZhp6"><img alt="CFP Riviera DEV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2023&color=red"></a>
+* 11-13: [The Perl and Raku Conference 2023](https://tprc.to/tprc-2023-tor/) - Toronto (Canada)
 * 17-18: [KCD Munich](https://github.com/cncf/kubernetes-community-days/issues/451) - Munich (Germany) 
 * 18-21: [ÜberConf](https://uberconf.com/) - Denver (USA)
 * 19-22: [Drupal Developer Days 2023](https://ddd23.drupalcamp.at/) - Vienna (Austria)
