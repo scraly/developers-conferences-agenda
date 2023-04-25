@@ -82,6 +82,7 @@ All the data (past and coming) is available publicly in JSON:
 * 3-4: [DevOps Days Zurich](https://devopsdays.org/events/2023-zurich/welcome/) - Zurich (Switzerland)
 * 3-4: [Stockholm Tech Show](https://stockholmtechshow.se/) - Stockholm (Sweden)
 * 4: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
+* 4: [Google Cloud Bali](https://bit.ly/GoogleCloudgoestoBali) - Bali (Indonesia)
 * 4-5: [DevGuild: Open Source](https://www.heavybit.com/devguild/open-source) - San Francisco (USA)
 * 4-6: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece) <a href="https://dvgr23.cfp.dev/"><img alt="CFP Devoxx Greece 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
 * 7: [Google Cloud Community Day](https://gdgcloud.kolkata.dev/ccd2023/) - Kolkata (India)
@@ -101,6 +102,7 @@ All the data (past and coming) is available publicly in JSON:
 * 12: [AFUP Day](https://event.afup.org/) - Lille & Lyon (France) <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"></a>
 * 12: [SoCraTes Rennes](https://socrates-rennes.github.io/) - Rennes (France)
 * 12-15: [Vue.js Live Conference](https://vuejslive.com/) - London (UK) & Online
+* 13: [Global Azure Purwokerto](https://globalazure.net/communities/2023/mugipurwokerto) - Cilacap, Jawa Tengah (Indonesia)
 * 15-18: [SLOconf 2023](https://www.sloconf.com/) - Online <img alt="CFP SLOconf 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jan-2023&color=red">
 * 16: [ObservabilityCON Singapore](https://grafana.com/about/events/observabilitycon/2023/singapore/) - Singapore
 * 16-17: [Kafka Summit London](https://www.kafka-summit.org/events/kafka-summit-london-2023/about) - London (UK) <a href="https://sessionize.com/kafka-summit-london-2023/"><img alt="CFP Kafka Summit London 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%209-January-2023&color=red"></a>
@@ -131,6 +133,7 @@ All the data (past and coming) is available publicly in JSON:
 * 27: [Polycloud](https://polycloud.fr) - Montpellier (France) <a href="https://conference-hall.io/public/event/OR1ldOA5G0ASoizWvVbO"><img alt="Polycloud" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-April-2023&color=red"></a>
 * 29-06/06: [React Summit](https://reactsummit.com/) - Amsterdam (Netherlands)
 * 30-31: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP jPrime 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2023&color=red"></a>
+* 31: [SANS Community Night at Jakarta](https://www.sans.org/mlp/community-night-jakarta-may-2023/) - Jakarta (Indonesia)
 * 31-2: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland) <a href="https://devoxxpl23.cfp.dev/"><img alt="CFP Devoxx Poland 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=red"></a>
 * 31-2: [Web2Day](https://www.web2day.co/) - Nantes (France)
 
