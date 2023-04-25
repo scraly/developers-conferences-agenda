@@ -22,6 +22,9 @@ const Day = ({date}) => {
         );
       }
       setInvible('');
+    } else {
+      setIntensity('');
+      setInvible('invisible');
     }
   }, [date]);
 
