@@ -209,6 +209,8 @@ All the data (past and coming) is available publicly in JSON:
 * 9-10: [DevOpsDays Chicago](https://devopsdays.org/chicago) - Chicago (USA)
 * 14-18: [Perl and Koha Conference](https://perlkohacon.fi/) - Helsinki (Finland) <a href="https://perlkohacon.fi/Call-For-Talks-Perl-Koha-Helsinki-August-2023.html"><img alt="CFP PerlKohaCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2023&color=green"></a>
 * 16-18: [GopherCon UK 2023](https://www.gophercon.co.uk) - London (UK)
+* 15-16: [DeveloperWeek Cloud](https://www.developerweek.com/global/conference/cloud/) - San Francisco (USA) <a href="https://www.developerweek.com/global/conference/cloud/apply-to-speak/"><img alt="DeveloperWeek Cloud 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-april-2023&color=green"></a>
+* 22-23: [DeveloperWeek Cloud](https://www.developerweek.com/global/conference/cloud/) - Online <a href="https://www.developerweek.com/global/conference/cloud/apply-to-speak/"><img alt="DeveloperWeek Cloud 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-april-2023&color=green"></a>
 * 28-01/09: [VLDB Very Large Database](https://vldb.org/2023/) - Vancouver (Canada)
 * 28-01/09: [NDC Copenhagen](https://cphdevfest.com/) - Copenhagen (Denmark)
 
