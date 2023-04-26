@@ -1,32 +1,27 @@
 import {useCustomContext} from 'app.context';
-import {useMemo, useState} from 'react';
 
 const Day = ({date}) => {
   const userDispatch = useCustomContext().userDispatch;
-  const [intensity, setIntensity] = useState('');
-  const [invisible, setInvisible] = useState('invisible');
+  let intensity = '';
+  let invisible = 'invisible';
 
-  useMemo(() => {
-    if (date) {
-      if (
-        window.dev_events &&
-        window.dev_events[date.getFullYear()] &&
-        window.dev_events[date.getFullYear()][date.getMonth()] &&
-        window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()]
-      ) {
-        setIntensity(
-          ` intensity-${Math.min(
-            window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()].length,
-            7
-          )}`
-        );
-      }
-      setInvisible('');
-    } else {
-      setIntensity('');
-      setInvisible('invisible');
+  if (date) {
+    if (
+      window.dev_events &&
+      window.dev_events[date.getFullYear()] &&
+      window.dev_events[date.getFullYear()][date.getMonth()] &&
+      window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()]
+    ) {
+      intensity = ` intensity-${Math.min(
+        window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()].length,
+        7
+      )}`;
     }
-  }, [date]);
+    invisible = '';
+  } else {
+    intensity = '';
+    invisible = 'invisible';
+  }
 
   return (
     <div
