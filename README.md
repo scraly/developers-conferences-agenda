@@ -300,4 +300,5 @@ All the data (past and coming) is available publicly in JSON:
 ### April
 
 * 17-19: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
-* 25-26: [MiXiT](https://mixitconf.org/fr/) - Villeurbanne (Lyon France)
+* 25-26: [MiXiT](https://mixitconf.org/fr/) - Lyon (France)
+* 25-26: [Android Makers](https://androidmakers.droidcon.com/) - Paris (France)
