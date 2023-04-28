@@ -160,6 +160,7 @@ All the data (past and coming) is available publicly in JSON:
 * 12-16: [Microsoft 365 EduCon DC](https://www.365educon.com/DC) - Washington (US) <a href="https://sessionize.com/microsoft-365-educon-dc-2023/"><img alt="CFP Microsoft 365 EduCon DC 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2022&color=red"></a>
 * 13-15: [OpenInfra Summit](https://openinfra.dev/summit/vancouver-2023) - Vancouver (Canada)
 * 13-15: [QCon New York](https://qconnewyork.com/) - New York (USA)
+* 13-15: [Beam Summit](https://beamsummit.org/) - New York (USA)
 * 14-15: [OW2 openSource Conf](https://www.ow2con.org/view/2023/) - Paris (France) <a href="https://pretalx.com/ow2con-2023/cfp"><img alt="CFP OW 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%20-26-February-2023&color=red"></a>
 * 14-17: [VivaTech (Viva Technology)](https://vivatechnology.com/) - Paris (France)
 * 15: [KCD Zurich](https://github.com/cncf/kubernetes-community-days/issues/449) - Zurich (Switzerland) & Online 
@@ -196,6 +197,7 @@ All the data (past and coming) is available publicly in JSON:
 * 10-12: [Riviera DEV](https://rivieradev.fr) - Sophia Antipolis (Nice, France) <a href="https://conference-hall.io/public/event/qDKnPd1n2RpmJ5aTZhp6"><img alt="CFP Riviera DEV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2023&color=red"></a>
 * 11-13: [The Perl and Raku Conference 2023](https://tprc.to/tprc-2023-tor/) - Toronto (Canada)
 * 17-18: [KCD Munich](https://github.com/cncf/kubernetes-community-days/issues/451) - Munich (Germany) 
+* 18: [Beam Summit](https://beamsummit.org/) - Online
 * 18-21: [ÜberConf](https://uberconf.com/) - Denver (USA)
 * 19-22: [Drupal Developer Days 2023](https://ddd23.drupalcamp.at/) - Vienna (Austria)
 * 21-22: [JConfDominicana](https://jconfdominicana.org/) - Santo Domingo (Dominican Republic) <a href="https://www.papercall.io/jconf-dominicana-2023"><img alt="CFP JConfDominicana 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2023&color=green"></a>
