@@ -260,7 +260,7 @@ All the data (past and coming) is available publicly in JSON:
 * 23-25: [FOSS4G North America](https://foss4gna.org/) - Baltimore (USA)
 * 25-26: [DevRelX Summit](https://www.devrelxsummit.com/) - Online
 * 26: [Codeurs en Seine](https://www.codeursenseine.com/2023) - Rouen (France)
-* 25-27: [KubeCon + CloudNativeCon + Open Source Summit China 2023](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/) - Shangai (China)
+* 25-27: [KubeCon + CloudNativeCon + Open Source Summit China 2023](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/) - Shangai (China) <a href="https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/program/call-for-proposals/"><img alt="CFP KubeCon China 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2023&color=green"></a>
 * 26-27: [Agile Tour Bordeaux](https://agiletourbordeaux.fr/) - Bordeaux (France)
 
 ### November
