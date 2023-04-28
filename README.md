@@ -220,6 +220,7 @@ All the data (past and coming) is available publicly in JSON:
 * 5-7: [try! Swift NYC](https://www.tryswift.co/events/2023/nyc/) - New York (USA)
 * 6-7: [JavaZone 2023](https://2023.javazone.no/) - Oslo (Norway)
 * 7-8: [DevRelCon London](https://london-2023.devrelcon.dev/) - London (UK) <a href="https://developerrelations.com/devrelcon-london-2023-cfp-form"><img alt="CFP DevRelCon London" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-April-2023&color=red"></a>
+* 7-9: [Pulpo Con](https://pulpocon.es/) - Vigo (Spain) <a href="https://docs.google.com/forms/d/1f2vw31PGzbM0JO4HBlNel-cotEo8E2rNVCIpSxv-lQs/viewform?edit_requested=true"><img alt="CFP PulpoCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-April-2023&color=green"></a>
 * 8: [JUG Summer Camp](https://www.jugsummercamp.org/) - La Rochelle (France)
 * 11-13: [ContainerDays 2023](https://www.containerdays.io/) - Hamburg (Germany) & Online <a href="https://sessionize.com/containerdays-2023"><img alt="CFP ContainerDays" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=red"></a>
 * 12-16: [RomHack](https://romhack.io/) - Roma (Italy) <a href="https://romhack.io/call-for-papers/"><img alt="CFP RomHack" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-May-2023&color=green"></a>
