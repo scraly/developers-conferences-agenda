@@ -99,6 +99,7 @@ All the data (past and coming) is available publicly in JSON:
 * 11: [SwampUP San Jose](https://swampup.jfrog.com/san-jose/) - San Jose (USA) <a href="https://sessionize.com/swampup-20236656"><img alt="CFP SwampUP 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-March-2023&color=red"></a>
 * 11: [A11yParis](https://www.a11yparis.org/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 11-12: [BeJS Conference](https://www.bejs.io/conf) - Brussels (Belgium) & Online
+* 11-13: [Global Azure](https://globalazure.net/) - World & Online
 * 12: [AFUP Day](https://event.afup.org/) - Lille & Lyon (France) <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"></a>
 * 12: [SoCraTes Rennes](https://socrates-rennes.github.io/) - Rennes (France)
 * 12-15: [Vue.js Live Conference](https://vuejslive.com/) - London (UK) & Online
