@@ -20,6 +20,10 @@ All the data (past and coming) is available publicly in JSON:
 - conferences : https://developers.events/all-events.json
 - CFPs : https://developers.events/all-cfps.json
 
+## Gitpod integration
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/scraly/developers-conferences-agenda.git)
+
 ## Archives
 
 * [2017](archives/2017.md)
