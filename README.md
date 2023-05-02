@@ -226,12 +226,13 @@ All the data (past and coming) is available publicly in JSON:
 * 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont-Ferrand (France) <a href="https://conference-hall.io/public/event/b9seMUHc924mGItMl2aa"><img alt="CFP Volcamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-May-2023&color=green"></a>
 * 12-13: [Forum PHP 2023](https://event.afup.org/forum-php-2023) - Marne-la-Vallée (France)
 * 16-18: [Platform Summit 2023](https://nordicapis.com/events/platform-summit-2023/) - Stockholm (Sweden)
+* 16-20: [NDC Porto](https://ndcporto.com/) - Porto (Portugal) <a href="https://ndcporto.com/call-for-papers"><img alt="CFP NCD Porto" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-June-2023&color=green"></a>
 * 17-18: [Kubernetes Community Days UK 2023](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2023/) - London (UK) <a href="https://kcd.smapply.io/prog/kcd_uk_2023/"><img alt="CFP KCD UK 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-July-2023&color=green"></a>
 * 18-19: [Baselone 2023](https://baselone.ch/one) - Basel (Switzerland) <a href="https://sessionize.com/baselone2023/"><img alt="CFP Baselone 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-April-2023&color=red"></a>
+* 18-20: [Full Stack Europe](https://fullstackeurope.com/2023) - Antwerp (Belgium) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgQjf39QepP07gLE88g7-Cn7Xdfast_mHVSUp25CfpjAM2uw/viewform"><img alt="CFP Full Stack Europe 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
+* 19: [Conf42: Incident Management 2023](https://www.conf42.com/kubenative2023) - Online
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/z5FSBfmwJSUWb4UO9hD4"><img alt="CFP DevFest Nantes 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2023&color=green"></a>
 * 19-20: [Agile Tour Rennes](https://agiletour.agilerennes.org/) - Rennes (France)
-* 16-20: [NDC Porto](https://ndcporto.com/) - Porto (Portugal) <a href="https://ndcporto.com/call-for-papers"><img alt="CFP NCD Porto" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-June-2023&color=green"></a>
-* 18-20: [Full Stack Europe](https://fullstackeurope.com/2023) - Antwerp (Belgium) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgQjf39QepP07gLE88g7-Cn7Xdfast_mHVSUp25CfpjAM2uw/viewform"><img alt="CFP Full Stack Europe 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
 * 23-25: [FOSS4G North America](https://foss4gna.org/) - Baltimore (USA)
 * 25-26: [DevRelX Summit](https://www.devrelxsummit.com/) - Online
 * 26: [Codeurs en Seine](https://www.codeursenseine.com/2023) - Rouen (France)
@@ -247,8 +248,10 @@ All the data (past and coming) is available publicly in JSON:
 * 12-14: [Meeting C++ 2023](https://meetingcpp.com/) - Berlin (Germany) and online
 * 14: [Data Community Conference](https://www.data-community.ch/) - Bern (Swiss)
 * 16: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France) <a href="https://devfesttoulouse.fr/#le-cfp"><img alt="CFP DevFest Toulouse 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2023&color=green"></a>
+* 16: [Conf42: Javascript 2023](https://www.conf42.com/js2023) - Online
 * 19-21: [GoLab](https://golab.io/) - Florence (Italy) <a href="https://www.papercall.io/golab2023"><img alt="CFP GoLab 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-May-2023&color=green"></a>
-* * 19-21: [RustLab](https://rustlab.it/) - Florence (Italy) <a href="https://www.papercall.io/rustlab2023"><img alt="CFP GoLab 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2023&color=green"></a>
+* 19-21: [RustLab](https://rustlab.it/) - Florence (Italy) <a href="https://www.papercall.io/rustlab2023"><img alt="CFP GoLab 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2023&color=green"></a>
+* 30: [Conf42: DevSecOps 2023](https://www.conf42.com/js2023) - Online
 
 ### December
 
@@ -260,6 +263,7 @@ All the data (past and coming) is available publicly in JSON:
 * 8: [React Day Berlin](https://reactday.berlin/) - Berlin (Germany)
 * 11: [TestJS Summit](https://testjssummit.com/) - Online
 * 12: [React Day Berlin](https://reactday.berlin/) - Online
+* 14: [Conf42: IoT 2023](https://www.conf42.com/iot2023) - Online
 
 ## 2024
 
