@@ -38,7 +38,7 @@ All the data (past and coming) is available publicly in JSON:
 
 ### May
 
-* 2-3: [DevOps Days Copenhagen](https://devopsdays.org/events/2023-copenhagen/welcome/) - Copenhagen (Denmark)
+* 2-3: [DevOps Days Denmark](https://devopsdays.org/events/2023-copenhagen/welcome/) - Copenhagen (Denmark)
 * 3-4: [DevOps Days Zurich](https://devopsdays.org/events/2023-zurich/welcome/) - Zurich (Switzerland)
 * 3-4: [Stockholm Tech Show](https://stockholmtechshow.se/) - Stockholm (Sweden)
 * 4: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
