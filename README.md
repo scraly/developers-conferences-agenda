@@ -43,6 +43,7 @@ All the data (past and coming) is available publicly in JSON:
 * 3-4: [Stockholm Tech Show](https://stockholmtechshow.se/) - Stockholm (Sweden)
 * 4: [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - Bucharest, Romania
 * 4: [Google Cloud Bali](https://bit.ly/GoogleCloudgoestoBali) - Bali (Indonesia)
+* 4: [Conf42: Site Reliability Engineering 2023](https://www.conf42.com/sre2023) - Online
 * 4-5: [DevGuild: Open Source](https://www.heavybit.com/devguild/open-source) - San Francisco (USA)
 * 4-6: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece) <a href="https://dvgr23.cfp.dev/"><img alt="CFP Devoxx Greece 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
 * 7: [Google Cloud Community Day](https://gdgcloud.kolkata.dev/ccd2023/) - Kolkata (India)
@@ -74,6 +75,7 @@ All the data (past and coming) is available publicly in JSON:
 * 17-18: [KubeHuddle Toronto 2023](https://kubehuddle.com/2023/toronto/) - Toronto (Ontario, Canada)
 * 17: [TEQNation](https://teqnation.com/) - Utrecht (Netherlands) - <a href="https://sessionize.com/teqnation-2023"><img alt="CFP TEQNation 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-February-2023&color=red"></a>
 * 18: [ObservabilityCON Sidney](https://grafana.com/about/events/observabilitycon/2023/sydney/) - Sidney (Australia)
+* 18: [Conf42: Machine Learning 2023](https://www.conf42.com/ml2023) - Online
 * 18-19: [JS Heroes](https://jsheroes.io/) - in Cluj-Napoca (Romania)
 * 18-19: [phpday](https://2023.phpday.it/) - Verona (Italy) & Online
 * 18-19: [Spring I/O](https://2023.springio.net/) - Barcelona (Spain) <a href="https://www.papercall.io/springio23"><img alt="CFP Spring I/O 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2023&color=red"></a>
@@ -113,6 +115,7 @@ All the data (past and coming) is available publicly in JSON:
 * 6-7: [JNation](https://jnation.pt) - Coimbra (Portugal) <a href="https://sessionize.com/jnation-2023/"><img alt="CFP JNation 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
 * 6-9: [Future Frontend](https://futurefrontend.com/) - Helsinki (Finland)
 * 7: [Serverless Days Paris](https://paris.serverlessdays.io/fr/) - Paris (France) <a href="https://sessionize.com/serverlessdays-paris-2023/"><img alt="CFP Serverless Days Paris 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-February-2023&color=red"></a>
+* 8: [Conf42: Observability 2023](https://www.conf42.com/obs2023) - Online
 * 8-9: [DDD Europe](https://2023.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://sessionize.com/dddeu23/"><img alt="CFP DDDEu 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=red"></a>
 * 8-9: [PlatformCon](https://platformcon.com) - Online <a href="https://sessionize.com/platformcon-2023/"><img alt="CFP PlatformCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=red"></a>
 * 8-10: [WordCamp Europe](https://europe.wordcamp.org/2023/) - Athens (Greece)
@@ -148,6 +151,7 @@ All the data (past and coming) is available publicly in JSON:
 * 26-02/07: [FOSS4G](https://2023.foss4g.org/) - Prizren (Kosovo)
 * 28: [NodeTLV](https://www.nodetlv.com/) - Tel-Aviv (Israel) <a href="https://sessionize.com/nodetlv-2023"><img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
 * 28-30: [Breizh Camp](https://www.breizhcamp.org/) - Rennes (France) <a href="https://sessionize.com/breizhcamp-2023"><img alt="CFP Breizh Camp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2023&color=red"></a>
+* 29: [Conf42: Quantum Computing 2023](https://www.conf42.com/quantum2023) - Online
 * 29-30: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/Jnevkv3bLyxZOyYyiWSC"><img alt="CFP Sunny Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=red"></a>
 * 29-30: [Agi'Lille](https://agilille.fr/) - Lille (France) <a href="https://sessionize.com/agilille-2023"><img alt="AgiLille 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=red"></a>
 
@@ -176,6 +180,7 @@ All the data (past and coming) is available publicly in JSON:
 * 16-18: [GopherCon UK 2023](https://www.gophercon.co.uk) - London (UK)
 * 15-16: [DeveloperWeek Cloud](https://www.developerweek.com/global/conference/cloud/) - San Francisco (USA) <a href="https://www.developerweek.com/global/conference/cloud/apply-to-speak/"><img alt="DeveloperWeek Cloud 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-april-2023&color=green"></a>
 * 22-23: [DeveloperWeek Cloud](https://www.developerweek.com/global/conference/cloud/) - Online <a href="https://www.developerweek.com/global/conference/cloud/apply-to-speak/"><img alt="DeveloperWeek Cloud 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-april-2023&color=green"></a>
+* 24: [Conf42: Rustlang 2023](https://www.conf42.com/rustlang2023) - Online
 * 24-26: [PyconLatam 2023](https://www.pylatam.org/) - Monterrey (Mexico) <a href="https://www.pylatam.org/en/speaking/"><img alt="CFP PyconLatam 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-May-2023&color=green"></a>
 * 28-01/09: [VLDB Very Large Database](https://vldb.org/2023/) - Vancouver (Canada)
 * 28-01/09: [NDC Copenhagen](https://cphdevfest.com/) - Copenhagen (Denmark)
@@ -185,6 +190,7 @@ All the data (past and coming) is available publicly in JSON:
 * 4-5: [WaysConf](https://www.waysconf.com/) - Krakow (Poland) & Online <a href="https://www.waysconf.com/call-for-speakers/form"><img alt="CFP WaysConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2023&color=red"></a>
 * 5-7: [try! Swift NYC](https://www.tryswift.co/events/2023/nyc/) - New York (USA)
 * 6-7: [JavaZone 2023](https://2023.javazone.no/) - Oslo (Norway)
+* 7: [Conf42: Platform Engineering 2023](https://www.conf42.com/platform2023) - Online
 * 7-8: [DevRelCon London](https://london-2023.devrelcon.dev/) - London (UK) <a href="https://developerrelations.com/devrelcon-london-2023-cfp-form"><img alt="CFP DevRelCon London" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-April-2023&color=red"></a>
 * 7-9: [Pulpo Con](https://pulpocon.es/) - Vigo (Spain) <a href="https://docs.google.com/forms/d/1f2vw31PGzbM0JO4HBlNel-cotEo8E2rNVCIpSxv-lQs/viewform?edit_requested=true"><img alt="CFP PulpoCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-April-2023&color=green"></a>
 * 8: [JUG Summer Camp](https://www.jugsummercamp.org/) - La Rochelle (France) <a href="https://conference-hall.io/public/event/wvKVYtvwGy7z5NEt8tOW"><img alt="CFP JUG Sumer Camp" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-June-2023&color=green"></a>
@@ -202,6 +208,7 @@ All the data (past and coming) is available publicly in JSON:
 * 21-23: [Euro IA 2023 - Information Architecture & UX conference](https://euroia.eu/) - Amsterdam (Netherland) <a href="https://softconf.com/n/euroia2023/user/scmd.cgi?scmd=submitPaperCustom&pageid=1"><img alt="CFP Euro IA 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-March-2023&color=red"></a>
 * 25-26: [BIG DATA & AI PARIS 2023](https://www.bigdataparis.com/) - Paris (France) <a href="#"><img alt="CFP BIG DATA & AI PARIS 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-March-2023&color=red"></a>
 * 27: [DevOps Days Cairo](https://devopsdays.org/events/2023-cairo/welcome/) - Cairo (Egypt)
+* 28: [Conf42: Kube Native 2023](https://www.conf42.com/kubenative2023) - Online
 * 28-30: [Paris Web](https://www.paris-web.fr/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 
 ### October
