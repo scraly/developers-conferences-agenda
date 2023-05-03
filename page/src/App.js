@@ -1,17 +1,16 @@
-import {useReducer, useState} from 'react';
+import { useReducer, useState } from 'react';
 
-import {IonIcon} from '@ionic/react';
-import {arrowDownCircle} from 'ionicons/icons';
+import { IonIcon } from '@ionic/react';
+import { arrowDownCircle } from 'ionicons/icons';
 
-import YearSelector from 'components/YearSelector/YearSelector';
 import CalendarGrid from 'components/CalendarGrid/CalendarGrid';
+import YearSelector from 'components/YearSelector/YearSelector';
 
-import 'misc/fonts/inter/inter.css';
-import 'styles/App.css';
-import {exportYear} from 'utils';
+import CustomContext from 'app.context';
 import reducer from 'app.reducer';
 import SelectedEvents from 'components/SelectedEvents/SelectedEvents';
-import CustomContext from 'app.context';
+import 'misc/fonts/inter/inter.css';
+import 'styles/App.css';
 
 const App = () => {
   const [selectedYear, setSelectedYear] = useState(new Date().getFullYear());
@@ -30,10 +29,10 @@ const App = () => {
           setSelectedYear(year);
         }}
       />
-      <div className="downloadButton" onClick={() => exportYear(selectedYear)}>
+      <a href={'/developer-conference-' + selectedYear + '.ics'} className="downloadButton">
         <IonIcon icon={arrowDownCircle} />
         Download {selectedYear} Calendar
-      </div>
+      </a>
 
       <CalendarGrid year={selectedYear} />
 
