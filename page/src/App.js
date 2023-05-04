@@ -11,6 +11,7 @@ import reducer from 'app.reducer';
 import SelectedEvents from 'components/SelectedEvents/SelectedEvents';
 import 'misc/fonts/inter/inter.css';
 import 'styles/App.css';
+import {hasEvents} from "./utils";
 
 const App = () => {
   const [selectedYear, setSelectedYear] = useState(new Date().getFullYear());
@@ -29,10 +30,12 @@ const App = () => {
           setSelectedYear(year);
         }}
       />
-      <a href={'/developer-conference-' + selectedYear + '.ics'} className="downloadButton">
+        {
+            hasEvents(selectedYear) && <a href={'/developer-conference-' + selectedYear + '.ics'} className="downloadButton">
         <IonIcon icon={arrowDownCircle} />
         Download {selectedYear} Calendar
       </a>
+        }
 
       <CalendarGrid year={selectedYear} />
 

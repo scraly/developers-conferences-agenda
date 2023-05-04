@@ -12,7 +12,7 @@ for (const event of allEvents) {
         cals[eventYear].addProp('PRODID', 'DCA');
     }
     let vevent = new VEVENT();
-    vevent.addProp('UID', `${Math.random()}@dca`);
+    vevent.addProp('UID', `${event.name}@dca-${eventYear}`);
     vevent.addProp('DTSTAMP', new Date());
     vevent.addProp('DTSTART', new Date(event.date[0] * 1000));
     vevent.addProp('DTEND', new Date(event.date[1] * 1000));
