@@ -10,6 +10,8 @@ body {
 }
 
 .downloadButton {
+  text-decoration: none;
+  color: black;
   width: max-content;
   margin: 1rem auto;
   padding: 10px;
