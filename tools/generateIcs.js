@@ -14,8 +14,10 @@ for (const event of allEvents) {
     let vevent = new VEVENT();
     vevent.addProp('UID', `${event.name}@dca-${eventYear}`);
     vevent.addProp('DTSTAMP', new Date());
-    vevent.addProp('DTSTART', new Date(event.date[0] * 1000));
-    vevent.addProp('DTEND', new Date(event.date[1] * 1000));
+    vevent.addProp('DTSTART', new Date(event.date[0]));
+    if(event.date[1]) {
+        vevent.addProp('DTEND', new Date(event.date[1]));
+    }
     vevent.addProp('LOCATION', event.location || 'unspecified');
     vevent.addProp('SUMMARY', event.name);
     vevent.addProp('URL', event.hyperlink || 'unspecified');
