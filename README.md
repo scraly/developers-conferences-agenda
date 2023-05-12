@@ -147,10 +147,11 @@ All the data (past and coming) is available publicly in JSON:
 * 21: [J-Spring](https://jspring.nl/) - Utrecht (Netherlands)
 * 21-22: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Grand-Duchy of Luxembourg (Luxembourg) <a href="https://cfp-voxxed-lux.yajug.org/"><img alt="VoxxedDays Luxembourg 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-April-2023&color=red"></a>
 * 21-22: [DevTalks](https://www.devtalks.ro/) - Bucharest (Romania)
-* 21-22: [OutSystems ONE](https://www.outsystems.com/events/one-conference/denver/) - Denver (United States)
+* 21-22: [OutSystems ONE](https://www.outsystems.com/events/one-conference/denver/) - Denver (USA)
 * 21-23: [DevOps Days Amsterdam](https://devopsdays.org/events/2023-amsterdam/welcome/) - Amsterdam (Netherlands)
 * 21-23: [Rencontres R](https://rr2023.sciencesconf.org) - Avignon (France)
 * 26-28: [Monitorama 2023](https://monitorama.com/2023/pdx.html) - Portland, OR (USA) <a href="https://monitorama.com/2023/pdx.html#cfp"><img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2023&color=red"></a>
+* 26-29: [Collision 2023](https://collisionconf.com/) - Toronto (Canada)
 * 26-29: [GopherCon Europe 2023](https://gophercon.eu/) - Berlin (Germany) <a href="https://www.papercall.io/gceu23"><img alt="CFP GopherCon Europe 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-February-2023&color=red"></a>
 * 26-30: [Developer Week '23 (DWX)](https://www.developer-week.de/) - Nuremberg (Germany) <a href="https://sessionize.com/developer-week-23/"><img alt="CFP DWX 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2023&color=red"></a>
 * 26-02/07: [FOSS4G](https://2023.foss4g.org/) - Prizren (Kosovo)
