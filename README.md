@@ -187,6 +187,7 @@ All the data (past and coming) is available publicly in JSON:
 * 14-18: [Perl and Koha Conference](https://perlkohacon.fi/) - Helsinki (Finland) <a href="https://perlkohacon.fi/Call-For-Talks-Perl-Koha-Helsinki-August-2023.html"><img alt="CFP PerlKohaCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2023&color=red"></a>
 * 16-18: [GopherCon UK 2023](https://www.gophercon.co.uk) - London (UK)
 * 15-16: [DeveloperWeek Cloud](https://www.developerweek.com/global/conference/cloud/) - San Francisco (USA) <a href="https://www.developerweek.com/global/conference/cloud/apply-to-speak/"><img alt="DeveloperWeek Cloud 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-april-2023&color=red"></a>
+* 21-24: [SpringOne](https://springone.io/) - Las Vegas, NV (USA)
 * 22-23: [DeveloperWeek Cloud](https://www.developerweek.com/global/conference/cloud/) - Online <a href="https://www.developerweek.com/global/conference/cloud/apply-to-speak/"><img alt="DeveloperWeek Cloud 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-april-2023&color=red"></a>
 * 24: [Conf42: Rustlang 2023](https://www.conf42.com/rustlang2023) - Online
 * 24-26: [PyconLatam 2023](https://www.pylatam.org/) - Monterrey (Mexico) <a href="https://www.pylatam.org/en/speaking/"><img alt="CFP PyconLatam 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-May-2023&color=red"></a>
