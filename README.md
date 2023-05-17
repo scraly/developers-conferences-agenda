@@ -87,7 +87,8 @@ All the data (past and coming) is available publicly in JSON:
 * 23-24: [Aquilité](https://www.aquilite-conf.fr/) - Online
 * 23-26: [DevOps Pro Europe](https://devopspro.lt/) - Vilnius (Lithuania) & Online
 * 23-25: [Web À Québec](https://webaquebec.org/) - Quebec City (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/vgbK9zTW"><img alt="CFP WAQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=red"></a>
-* 24-26: [Vueconf.US](https://vueconf.us/) - New Orleans (USA)
+* 24-25: [GlueCon 2023](https://www.gluecon.com/) - Broomfield, CO (USA)
+* 24-26: [Vueconf.US](https://vueconf.us/) - New Orleans, LO (USA)
 * 25-26: [Newcrafts Paris](https://ncrafts.io/) - Paris (France) <a href="https://sessionize.com/newcrafts-paris-2023"><img alt="CFP Newcrafts Paris 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%2001-December-2022%20to%2012-February-2023&color=red"></a>
 * 25-26: [NDC Oslo](https://ndcoslo.com/) - Oslo (Norway)
 * 25-26: [Code Europe](https://www.codeeurope.pl/en/) - Cracow (Poland)
