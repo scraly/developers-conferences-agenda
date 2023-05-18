@@ -237,7 +237,7 @@ All the events (past and coming) are available publicly in JSON: https://develop
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France)
 * 16-20: [NDC Porto](https://ndcporto.com/) - Porto (Portugal) <a href="https://ndcporto.com/call-for-papers"><img alt="CFP NCD Porto" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-June-2023&color=green"></a>
 * 18-20: [Full Stack Europe](https://fullstackeurope.com/2023) - Antwerp (Belgium) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgQjf39QepP07gLE88g7-Cn7Xdfast_mHVSUp25CfpjAM2uw/viewform"><img alt="CFP Full Stack Europe 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
-* 24-26: [CONNECT.TECH 2023]( https://2023.connect.tech/) - Atlanta (USA) <a href=" https://sessionize.com/connect-tech-2023/ "><img alt="CFP CONNECT.TECH 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2023&color=green"></a>![image]
+* 24-26: [CONNECT.TECH 2023]( https://2023.connect.tech/) - Atlanta (USA) <a href=" https://sessionize.com/connect-tech-2023/ "><img alt="CFP CONNECT.TECH 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2023&color=green"></a>
 
 
 ### November
