@@ -80,6 +80,7 @@ All the data (past and coming) is available publicly in JSON:
 * 18-19: [phpday](https://2023.phpday.it/) - Verona (Italy) & Online
 * 18-19: [Spring I/O](https://2023.springio.net/) - Barcelona (Spain) <a href="https://www.papercall.io/springio23"><img alt="CFP Spring I/O 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2023&color=red"></a>
 * 18-19: [Craft Conference](https://craft-conf.com/2023) - Budapest (Hungary)
+* 18-20: [The Bitcoin Conference 2023](https://b.tc/conference) - Miami, Floride (USA)
 * 22-23: [Code Europe](https://www.codeeurope.pl/en/) - Cracow (Poland)
 * 22-24: [Percona Live](https://www.percona.com/live/conferences) - Denver (USA) <a href="https://www.perconalive.com/eSites/eventregistration/Login"><img alt="CFP Percona Live 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2023&color=red"></a>
 * 23: [Infobip Shift Miami](https://shift.infobip.com/us) - Miami (USA) <a href="https://sessionize.com/infobip-shift-miami-2023/"><img alt="CFP Infobip Shift Miami" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=red"></a>
@@ -87,6 +88,7 @@ All the data (past and coming) is available publicly in JSON:
 * 23-24: [Aquilité](https://www.aquilite-conf.fr/) - Online
 * 23-26: [DevOps Pro Europe](https://devopspro.lt/) - Vilnius (Lithuania) & Online
 * 23-25: [Web À Québec](https://webaquebec.org/) - Quebec City (Canada) <a href="https://yr21i4wwzuv.typeform.com/to/vgbK9zTW"><img alt="CFP WAQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=red"></a>
+* 23-25: [Microsoft Build](https://build.microsoft.com/en-US/home) - Seattle, Washington (USA) & Online
 * 24-25: [GlueCon 2023](https://www.gluecon.com/) - Broomfield, CO (USA)
 * 24-26: [Vueconf.US](https://vueconf.us/) - New Orleans, LO (USA)
 * 25-26: [Newcrafts Paris](https://ncrafts.io/) - Paris (France) <a href="https://sessionize.com/newcrafts-paris-2023"><img alt="CFP Newcrafts Paris 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%2001-December-2022%20to%2012-February-2023&color=red"></a>
