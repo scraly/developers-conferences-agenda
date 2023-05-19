@@ -262,6 +262,7 @@ All the data (past and coming) is available publicly in JSON:
 
 ### November
 
+* 1-2: [DevOps Days Montreal](https://devopsdays.org/events/2023-montreal/welcome/) - Montreal (Canada) <a href="https://sessionize.com/devopsdays-montreal-2023/"><img alt="DevOps Days Montreal 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2023&color=green"></a>
 * 2: [GopherCon Ireland](https://gophercon.ie/) - Dublin (Ireland) <a href="https://www.papercall.io/gopherconie"><img alt="GopherCon Ireland 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-July-2023&color=green"></a>
 * 6-10: [KubeCon + CloudNativeCon NA 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - Chicago (USA) <a href="https://sessionize.com/kubecon-cloudnativecon-north-america-2023/"><img alt="CFP KubeCon NA 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2023&color=green"></a>
 * 7: [FooConf](https://www.fooconf.fi/) - Helsinki (Filand) <a href="https://sessionize.com/fooconf/"><img alt="CFP FooConf 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2023&color=green"></a>
