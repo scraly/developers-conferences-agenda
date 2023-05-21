@@ -80,7 +80,6 @@ All the data (past and coming) is available publicly in JSON:
 * 18-19: [phpday](https://2023.phpday.it/) - Verona (Italy) & Online
 * 18-19: [Spring I/O](https://2023.springio.net/) - Barcelona (Spain) <a href="https://www.papercall.io/springio23"><img alt="CFP Spring I/O 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2023&color=red"></a>
 * 18-19: [Craft Conference](https://craft-conf.com/2023) - Budapest (Hungary)
-* 18-20: [The Bitcoin Conference 2023](https://b.tc/conference) - Miami, Floride (USA)
 * 22-23: [Code Europe](https://www.codeeurope.pl/en/) - Cracow (Poland)
 * 22-24: [Percona Live](https://www.percona.com/live/conferences) - Denver (USA) <a href="https://www.perconalive.com/eSites/eventregistration/Login"><img alt="CFP Percona Live 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2023&color=red"></a>
 * 23: [Infobip Shift Miami](https://shift.infobip.com/us) - Miami (USA) <a href="https://sessionize.com/infobip-shift-miami-2023/"><img alt="CFP Infobip Shift Miami" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=red"></a>
@@ -285,6 +284,7 @@ All the data (past and coming) is available publicly in JSON:
 
 ### December
 
+* 1-3: [Africa Bitcoin Conference 2023](https://afrobitcoin.org) - Accra (Ghana)
 * 6-7: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France) <a href="https://sessionize.com/open-source-experience-2023/"><img alt="CFP [Open Source Experience 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-june-2023&color=green"></a>
 * 7: [TestJS Summit](https://testjssummit.com/) - Berlin (Germany)
 * 7-8: [SymfonyCon Brussels 2023](https://live.symfony.com/2023-brussels-con/) - Brussels (Belgium) <a href="https://live.symfony.com/2023-brussels-con/cfp"><img alt="CFP SymfonyCon Brussels 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-August-2023&color=green"></a>
@@ -311,3 +311,6 @@ All the data (past and coming) is available publicly in JSON:
 * 17-19: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 * 25-26: [MiXiT](https://mixitconf.org/fr/) - Lyon (France)
 * 25-26: [Android Makers](https://androidmakers.droidcon.com/) - Paris (France)
+
+### July
+* 25-27: [The Bitcoin Conference 2024](https://b.tc/conference) - Nashville, Tennessee (USA)
