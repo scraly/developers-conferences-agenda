@@ -121,6 +121,7 @@ All the data (past and coming) is available publicly in JSON:
 * 6-9: [Future Frontend](https://futurefrontend.com/) - Helsinki (Finland)
 * 7: [Serverless Days Paris](https://paris.serverlessdays.io/fr/) - Paris (France) <a href="https://sessionize.com/serverlessdays-paris-2023/"><img alt="CFP Serverless Days Paris 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-February-2023&color=red"></a>
 * 8: [Conf42: Observability 2023](https://www.conf42.com/obs2023) - Online
+* 8: [Passons à l'action pour un numérique plus responsable, éthique et accessible](https://hotel71.eu/2023/events/rencontre-passons-a-laction-pour-un-numerique-plus-responsable-ethique-et-accessible/) - Lyon (France)
 * 8-9: [DDD Europe](https://2023.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://sessionize.com/dddeu23/"><img alt="CFP DDDEu 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=red"></a>
 * 8-9: [PlatformCon](https://platformcon.com) - Online <a href="https://sessionize.com/platformcon-2023/"><img alt="CFP PlatformCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=red"></a>
 * 8-10: [WordCamp Europe](https://europe.wordcamp.org/2023/) - Athens (Greece)
