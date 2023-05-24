@@ -74,6 +74,7 @@ All the data (past and coming) is available publicly in JSON:
 * 17-18: [Qubit Conference Prague](https://prague.qubitconference.com/) - Prague (Czech Republic)
 * 17-18: [KubeHuddle Toronto 2023](https://kubehuddle.com/2023/toronto/) - Toronto (Ontario, Canada)
 * 17: [TEQNation](https://teqnation.com/) - Utrecht (Netherlands) - <a href="https://sessionize.com/teqnation-2023"><img alt="CFP TEQNation 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-February-2023&color=red"></a>
+* 17-20: [BSDCan](https://www.bsdcan.org/2023/) - Ottawa, Ontario (Canada)
 * 18: [ObservabilityCON Sidney](https://grafana.com/about/events/observabilitycon/2023/sydney/) - Sidney (Australia)
 * 18: [Conf42: Machine Learning 2023](https://www.conf42.com/ml2023) - Online
 * 18-19: [JS Heroes](https://jsheroes.io/) - in Cluj-Napoca (Romania)
