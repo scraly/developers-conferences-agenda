@@ -125,6 +125,7 @@ All the data (past and coming) is available publicly in JSON:
 * 8-9: [PlatformCon](https://platformcon.com) - Online <a href="https://sessionize.com/platformcon-2023/"><img alt="CFP PlatformCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=red"></a>
 * 8-10: [WordCamp Europe](https://europe.wordcamp.org/2023/) - Athens (Greece)
 * 9: [GothamGo](https://gothamgo.com/) - New York (USA) <a href="https://www.papercall.io/gothamgo2023"><img alt="CFP GothamGo 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-March-2023&color=red"></a>
+* 9-11: [SouthEast LinuxFest](https://southeastlinuxfest.org) - Charlotte, North Carolina (USA)
 * 10-15: [Sharkfest23 US](https://sharkfest.wireshark.org/sfus/) - San Diego
 * 12-14: [GrafanaCon](https://grafana.com/about/events/grafanacon/2023/) - Online
 * 12-16: [Microsoft 365 EduCon DC](https://www.365educon.com/DC) - Washington (US) <a href="https://sessionize.com/microsoft-365-educon-dc-2023/"><img alt="CFP Microsoft 365 EduCon DC 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2022&color=red"></a>
