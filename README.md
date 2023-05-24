@@ -146,7 +146,7 @@ All the data (past and coming) is available publicly in JSON:
 * 19: [KubeDay Israel](https://events.linuxfoundation.org/kubeday-israel/) - Tel Aviv (Israel)
 * 20: [Mobilis in Mobile](https://mobilis-in-mobile.io/) - Nantes (France) <a href="https://conference-hall.io/public/event/xucx9AFfz79zIgxT6Lti"><img alt="CFP Mobilis in Mobile 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=red"></a>
 * 20: [Cloud Est](http://cloudest-event.fr/) - Villeurbanne (France) <a href="https://conference-hall.io/speaker/event/ESKiH3aEGAWFiXKvcpby"><img alt="CFP Cloud Est 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-April-2023&color=red"></a>
-* 29-22: [SUSECON 2023](https://www.suse.com/susecon/) - Munich (Germany)
+* 20-22: [SUSECON 2023](https://www.suse.com/susecon/) - Munich (Germany)
 * 20-22: [Adeo DevSummit](https://forms.gle/YPcjupChvqQif85B9) - Lille (France) <a href="https://forms.gle/YPcjupChvqQif85B9"><img alt="CFP adeo DevSummit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2023&color=green"></a> <img alt="Internal event by Adeo open for external speakers" src="https://img.shields.io/static/v1?label=Internal&message=Event&color=purple"/>
 * 20-23: [JCON EUROPE 2023](https://2023.europe.jcon.one/) - Düsseldorf (Germany)  <a href="https://2023.europe.jcon.one/call-for-papers"><img alt="CFP JCON EUROPE 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
 * 20-23: [CloudLand 2023](https://www.cloudland.org/en/home/) - Phantasialand near Cologne (Germany) <img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jan-2023&color=red">
