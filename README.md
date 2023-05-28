@@ -158,6 +158,7 @@ All the data (past and coming) is available publicly in JSON:
 * 21-22: [OutSystems ONE](https://www.outsystems.com/events/one-conference/denver/) - Denver (USA)
 * 21-23: [DevOps Days Amsterdam](https://devopsdays.org/events/2023-amsterdam/welcome/) - Amsterdam (Netherlands)
 * 21-23: [Rencontres R](https://rr2023.sciencesconf.org) - Avignon (France)
+* 23: [Unconf HackYourJob](https://www.helloasso.com/associations/hackyourjob-community-lyon/evenements/unconf-juin-2023) - Région lyonnaise (France)
 * 26-28: [Monitorama 2023](https://monitorama.com/2023/pdx.html) - Portland, OR (USA) <a href="https://monitorama.com/2023/pdx.html#cfp"><img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2023&color=red"></a>
 * 26-29: [Collision 2023](https://collisionconf.com/developers) - Toronto (Canada)
 * 26-29: [GopherCon Europe 2023](https://gophercon.eu/) - Berlin (Germany) <a href="https://www.papercall.io/gceu23"><img alt="CFP GopherCon Europe 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-February-2023&color=red"></a>
