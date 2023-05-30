@@ -206,6 +206,7 @@ All the data (past and coming) is available publicly in JSON:
 
 ### September
 
+* 2-3: [SRE France SummerCamp](https://summercamp.srefrance.org) - Chambéry (France) <a href="https://summercamp.srefrance.org/cfp/"><img alt="CFP sre-france-summercamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-August-2023&color=green"></a>
 * 4-5: [WaysConf](https://www.waysconf.com/) - Krakow (Poland) & Online <a href="https://www.waysconf.com/call-for-speakers/form"><img alt="CFP WaysConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2023&color=red"></a>
 * 5-7: [try! Swift NYC](https://www.tryswift.co/events/2023/nyc/) - New York (USA)
 * 6: [Cloud Alpes](https://www.cloudalpes.fr/) - Lyon (France) <a href="https://conference-hall.io/public/event/90HSNNtojHqk1S8SbavA"><img alt="CFP Cloud Alpes" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2023&color=green"></a>
