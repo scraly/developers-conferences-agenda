@@ -115,6 +115,7 @@ All the data (past and coming) is available publicly in JSON:
 * 1-2: [CDE Universe](https://cdeuniverse.com/) - San Francisco (USA)
 * 2: [Flutter Connection](https://flutterconnection.io/) - Paris (France)
 * 2-3: [Sud Web](https://sudweb.fr/2023/) - Toulouse (France) <a href="https://sudweb.fr/2023/appel-a-sujet/"><img alt="CFP Sud Web" src="https://img.shields.io/static/v1?label=CFP&message=until%207-April-2023&color=red"></a>
+* 2-3: [KCD Bengaluru - 2023](https://community.cncf.io/events/details/cncf-kcd-bengaluru-presents-kubernetes-community-days-bengaluru-2023-in-person/) - Bengaluru (India)
 * 5: [JSNation](https://jsnation.com/) - Online <a href="https://docs.google.com/forms/d/e/1FAIpQLSfVSzKBuAkUUCVf6cSA-Tuuo6MDNI4S7CB06vrnkzTdAZYQFA/viewform"><img alt="CFP JSNation" src="https://img.shields.io/static/v1?label=CFP&message=until%205-March-2023&color=red"></a>
 * 5-9: [WWDC23](https://developer.apple.com/wwdc23/) - Online
 * 6: [CONFER Conference](https://2023.confer.no/) - Online <a href="https://docs.google.com/forms/d/e/1FAIpQLScLaPlp0hj4Oj-8wiyvuIbGrUf7JcSjwjnX2NOgmml06t10XQ/viewform"><img alt="CFP Confer" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2023&color=green"></a>
