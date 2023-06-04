@@ -120,6 +120,7 @@ All the data (past and coming) is available publicly in JSON:
 * 5-9: [WWDC23](https://developer.apple.com/wwdc23/) - Online
 * 6: [CONFER Conference](https://2023.confer.no/) - Online <a href="https://docs.google.com/forms/d/e/1FAIpQLScLaPlp0hj4Oj-8wiyvuIbGrUf7JcSjwjnX2NOgmml06t10XQ/viewform"><img alt="CFP Confer" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2023&color=green"></a>
 * 6-7: [JNation](https://jnation.pt) - Coimbra (Portugal) <a href="https://sessionize.com/jnation-2023/"><img alt="CFP JNation 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=red"></a>
+* 6-8: [The Six Five Summit](https://thesixfivesummit.com/?utm_source=Rob&utm_campaign=Cloudera&utm_id=SixFiveSummit_23) - Online
 * 6-9: [Future Frontend](https://futurefrontend.com/) - Helsinki (Finland)
 * 7: [Serverless Days Paris](https://paris.serverlessdays.io/fr/) - Paris (France) <a href="https://sessionize.com/serverlessdays-paris-2023/"><img alt="CFP Serverless Days Paris 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-February-2023&color=red"></a>
 * 8: [Conf42: Observability 2023](https://www.conf42.com/obs2023) - Online
