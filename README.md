@@ -242,7 +242,7 @@ All the data (past and coming) is available publicly in JSON:
 ### October
 
 * 1-6: [CppCon](https://cppcon.org/) - Aurora, Colorado (USA) & Online
-* 2-6: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
+* 2-6: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium) <a href="https://dvbe23.cfp.dev/"><img alt="CFP Devoxx Belgium 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%201-July-2023&color=green"></a>
 * 2-6: [QCon San Francisco](https://qconsf.com/) - San Francisco (USA)
 * 5-6: [SymfonyLive Berlin 2023](https://live.symfony.com/2023-berlin/) - Berlin (Germany) <a href="https://live.symfony.com/2023-berlin/cfp"><img alt="CFP SymfonyLive Berlin 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-June-2023&color=green"></a>
 * 5-6: [DevOps Days Indianapolis](https://devopsdays.org/events/2023-indianapolis/welcome/) - Indianapolis (USA)
