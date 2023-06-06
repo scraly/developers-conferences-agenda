@@ -334,6 +334,5 @@ All the data (past and coming) is available publicly in JSON:
 
 * 12-14: [RenderATL](https://www.renderatl.com/) - Atlanta, GA (USA)
 
-
 ### July
 * 25-27: [The Bitcoin Conference 2024](https://b.tc/conference) - Nashville, Tennessee (USA)
