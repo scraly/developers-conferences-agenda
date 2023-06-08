@@ -54,6 +54,7 @@ All the data (past and coming) is available publicly in JSON:
 * 6-8: [The Six Five Summit](https://thesixfivesummit.com/?utm_source=Rob&utm_campaign=Cloudera&utm_id=SixFiveSummit_23) - Online
 * 6-9: [Future Frontend](https://futurefrontend.com/) - Helsinki (Finland)
 * 7: [Serverless Days Paris](https://paris.serverlessdays.io/fr/) - Paris (France) <a href="https://sessionize.com/serverlessdays-paris-2023/"><img alt="CFP Serverless Days Paris 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-February-2023&color=red"></a>
+* 7: [AWS Summit London](https://aws.amazon.com/events/summits/london/) - London (England)
 * 7-8: [TechSylvania](https://techsylvania.com/) - Cluj, Transylvania (Romania)
 * 8: [Conf42: Observability 2023](https://www.conf42.com/obs2023) - Online
 * 8-9: [DDD Europe](https://2023.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://sessionize.com/dddeu23/"><img alt="CFP DDDEu 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=red"></a>
