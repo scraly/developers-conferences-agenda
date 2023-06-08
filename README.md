@@ -77,6 +77,7 @@ All the data (past and coming) is available publicly in JSON:
 * 15-17: [Open Source Festival 2023 (Oscafest)](https://festival.oscafrica.org/) - Lagos (Nigeria)
 * 16: [Agile Lyon](https://www.agilelyon.fr/) - Lyon <a href="https://sessionize.com/agile-lyon-2023/"><img alt="CFP Agile Lyon June 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=red"></a>
 * 16: [BSides Ljubljana](https://0x7e7.bsidesljubljana.si/) - Ljubljana (Slovenia) <a href="https://0x7e7.bsidesljubljana.si/cfp/"><img alt="CFP BSides Ljubljana June 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-May-2023&color=red"></a>
+* 16: [AWS Dev Day](https://pages.awscloud.com/dev-day-bengaluru-reg-june.html?trk=24802940-ee13-447c-bda9-864319c08814&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGMOHckdvotFRRBwKx-WlGGkjhhfoxMLUFKAo6pPIu3G_ymUAzHdyeQ_sEvj3KQWY2huELkFF-cKjhbUfme85Tss6q8NoohVITnX6UMcd_y54awp6SAT56f) - Bengaluru (India)
 * 17: [KCD Mumbai](https://kcdmumbai.com/) - Mumbai (India) <a href="https://kcd.smapply.io/prog/kcd_mumbai_2023_cfp/"><img alt="CFP KCD Mumbai 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2023&color=red"></a>
 * 18-20: [Berlin Buzzwords](https://2023.berlinbuzzwords.de/) - Berlin (Deustchland)
 * 19: [KubeDay Israel](https://events.linuxfoundation.org/kubeday-israel/) - Tel Aviv (Israel)
