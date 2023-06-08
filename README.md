@@ -132,6 +132,7 @@ All the data (past and coming) is available publicly in JSON:
 * 16-18: [GopherCon UK 2023](https://www.gophercon.co.uk) - London (UK)
 * 15-16: [DeveloperWeek Cloud](https://www.developerweek.com/global/conference/cloud/) - San Francisco (USA) <a href="https://www.developerweek.com/global/conference/cloud/apply-to-speak/"><img alt="DeveloperWeek Cloud 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-april-2023&color=red"></a>
 * 21-24: [SpringOne](https://springone.io/) - Las Vegas, NV (USA)
+* 22: [KCD Australia](https://community.cncf.io/events/details/cncf-kcd-australia-presents-kubernetes-community-day-australia-2023/) - Sydney (Australia)
 * 22-23: [DeveloperWeek Cloud](https://www.developerweek.com/global/conference/cloud/) - Online <a href="https://www.developerweek.com/global/conference/cloud/apply-to-speak/"><img alt="DeveloperWeek Cloud 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-april-2023&color=red"></a>
 * 24: [Conf42: Rustlang 2023](https://www.conf42.com/rustlang2023) - Online
 * 24-26: [PyconLatam 2023](https://www.pylatam.org/) - Monterrey (Mexico) <a href="https://www.pylatam.org/en/speaking/"><img alt="CFP PyconLatam 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-May-2023&color=red"></a>
@@ -152,6 +153,7 @@ All the data (past and coming) is available publicly in JSON:
 * 7-9: [Pulpo Con](https://pulpocon.es/) - Vigo (Spain) <a href="https://docs.google.com/forms/d/1f2vw31PGzbM0JO4HBlNel-cotEo8E2rNVCIpSxv-lQs/viewform?edit_requested=true"><img alt="CFP PulpoCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-April-2023&color=red"></a>
 * 8: [JUG Summer Camp](https://www.jugsummercamp.org/) - La Rochelle (France) <a href="https://conference-hall.io/public/event/wvKVYtvwGy7z5NEt8tOW"><img alt="CFP JUG Sumer Camp" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-June-2023&color=green"></a>
 * 11-13: [ContainerDays 2023](https://www.containerdays.io/) - Hamburg (Germany) & Online <a href="https://sessionize.com/containerdays-2023"><img alt="CFP ContainerDays" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=red"></a>
+* 12: [KCD Washington](https://community.cncf.io/kcd-washington-dc/) - Washington (USA)
 * 12-16: [RomHack](https://romhack.io/) - Roma (Italy) <a href="https://romhack.io/call-for-papers/"><img alt="CFP RomHack" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-May-2023&color=red"></a>
 * 14: [Cloud Sud](https://www.cloudsud.fr/) - Remote / Toulouse (France) <a href="https://conference-hall.io/public/event/UHdxMRvP0zJB2eVBwm1C"><img alt="Cloud Sud" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
 * 14-17: [EuroBSDCon](https://2023.eurobsdcon.org/) - Coimbra (Portugal) <a href="https://2023.eurobsdcon.org/call-for-papers-is-now-open/"><img alt="CFP EuroBSDCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2023&color=red"></a>
@@ -179,6 +181,7 @@ All the data (past and coming) is available publicly in JSON:
 * 5-6: [SymfonyLive Berlin 2023](https://live.symfony.com/2023-berlin/) - Berlin (Germany) <a href="https://live.symfony.com/2023-berlin/cfp"><img alt="CFP SymfonyLive Berlin 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-June-2023&color=green"></a>
 * 5-6: [DevOps Days Indianapolis](https://devopsdays.org/events/2023-indianapolis/welcome/) - Indianapolis (USA)
 * 6: [DevFest Perros-Guirec](https://devfest.codedarmor.fr/) - Perros-Guirec (France) <a href="https://conference-hall.io/public/event/sO14GCz3BN0lXwU5Ruf6"><img alt="CFP DevFest Perros-Guirec 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2023&color=red"></a>
+* 6: [KCD Texas](https://texaskcd.com) - Dallas/Irving, Texas (USA) <a href="https://kcd.smapply.io/prog/kcd-texas-2023/"><img alt="KCD Texas 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-August-2023&color=green"></a>
 * 9-10: [Intersection Conference](https://www.intersection-conference.eu/) - Torino (Italy)
 * 9-11: [Global Software Architecture Summit](https://gsas.io/) - Barcelona (Spain) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTHOW73JXdo4quGqBgRpnABd0zjd3_Op4B-bWDCmnNPIiElw/viewform"><img alt="CFP GSA Summit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
 * 10: [ParisTestConf](https://paristestconf.com/) - Paris (France) <a href="https://sessionize.com/paristestconf-2023/"><img alt="CFP ParisTestConf 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2023&color=red"></a>
