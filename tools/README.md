@@ -31,7 +31,7 @@ outputFile whose value is "-" are going to stdout.
 ]
 ```
  - name: Event name
- - date: Timestamp for single date, timastamp range for datespan. milliseconds since epoch (js standard)
+ - date: Timestamp for single date, timestamp range for datespan. milliseconds since epoch (js standard)
  - hyperlink: Link to event
  - location: User-defined event location
  - misc: Additional information (may contain HTML) - kept for retrocompatibility
