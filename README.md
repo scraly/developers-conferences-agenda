@@ -235,6 +235,7 @@ All the data (past and coming) is available publicly in JSON:
 * 19-21: [GoLab](https://golab.io/) - Florence (Italy) <a href="https://www.papercall.io/golab2023"><img alt="CFP GoLab 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-May-2023&color=red"></a>
 * 19-21: [RustLab](https://rustlab.it/) - Florence (Italy) <a href="https://www.papercall.io/rustlab2023"><img alt="CFP GoLab 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2023&color=red"></a>
 * 21-24: [JCON WORLD](https://2023.world.jcon.one/) - Online <a href="https://sessionize.com/jcon-world-2023/"><img alt="CFP JCon World 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
+* 23: [DevOps D-Day #8](https://www.devopsdday.com/) - Marseille (France) <a href="https://hopscotch.key4events.com/abstract.aspx?e=321&c=2683"><img alt="CFP DevOps D-Day #8" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-July-2023&color=green"></a>
 * 30: [Conf42: DevSecOps 2023](https://www.conf42.com/js2023) - Online
 
 ### December
