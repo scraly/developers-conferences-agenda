@@ -137,6 +137,7 @@ All the data (past and coming) is available publicly in JSON:
 * 16-18: [GopherCon UK 2023](https://www.gophercon.co.uk) - London (UK)
 * 15-16: [DeveloperWeek Cloud](https://www.developerweek.com/global/conference/cloud/) - San Francisco (USA) <a href="https://www.developerweek.com/global/conference/cloud/apply-to-speak/"><img alt="DeveloperWeek Cloud 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-april-2023&color=red"></a>
 * 21-24: [SpringOne](https://springone.io/) - Las Vegas, NV (USA)
+* 21-25: [HITBSecConf2023](https://conference.hitb.org/hitbsecconf2023hkt/) - Phuket (Thailand)
 * 22: [KCD Australia](https://community.cncf.io/events/details/cncf-kcd-australia-presents-kubernetes-community-day-australia-2023/) - Sydney (Australia)
 * 22-23: [DeveloperWeek Cloud](https://www.developerweek.com/global/conference/cloud/) - Online <a href="https://www.developerweek.com/global/conference/cloud/apply-to-speak/"><img alt="DeveloperWeek Cloud 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-april-2023&color=red"></a>
 * 24: [Conf42: Rustlang 2023](https://www.conf42.com/rustlang2023) - Online
