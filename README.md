@@ -107,6 +107,7 @@ All the data (past and coming) is available publicly in JSON:
 * 28-30: [Breizh Camp](https://www.breizhcamp.org/) - Rennes (France) <a href="https://sessionize.com/breizhcamp-2023"><img alt="CFP Breizh Camp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2023&color=red"></a>
 * 29: [Conf42: Quantum Computing 2023](https://www.conf42.com/quantum2023) - Online
 * 29: [Google Cloud Summit France](https://cloudonair.withgoogle.com/events/summit-france-2023) - Paris (France)
+* 29: [Azure Lowlands](https://www.azurelowlands.com/) - Utrecht (Pays Bas)
 * 29-30: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/Jnevkv3bLyxZOyYyiWSC"><img alt="CFP Sunny Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=red"></a>
 * 29-30: [Agi'Lille](https://agilille.fr/) - Lille (France) <a href="https://sessionize.com/agilille-2023"><img alt="AgiLille 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=red"></a>
 
