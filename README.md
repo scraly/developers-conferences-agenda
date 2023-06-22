@@ -97,6 +97,7 @@ All the data (past and coming) is available publicly in JSON:
 * 21-23: [DevOps Days Amsterdam](https://devopsdays.org/events/2023-amsterdam/welcome/) - Amsterdam (Netherlands)
 * 21-23: [Rencontres R](https://rr2023.sciencesconf.org) - Avignon (France)
 * 23: [Unconf HackYourJob](https://www.helloasso.com/associations/hackyourjob-community-lyon/evenements/unconf-juin-2023) - Région lyonnaise (France)
+* 26: [USI 2023](https://www.usievents.com/) - Paris (France)
 * 26-28: [Monitorama 2023](https://monitorama.com/2023/pdx.html) - Portland, OR (USA) <a href="https://monitorama.com/2023/pdx.html#cfp"><img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2023&color=red"></a>
 * 26-29: [Collision 2023](https://collisionconf.com/developers) - Toronto (Canada)
 * 26-29: [GopherCon Europe 2023](https://gophercon.eu/) - Berlin (Germany) <a href="https://www.papercall.io/gceu23"><img alt="CFP GopherCon Europe 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-February-2023&color=red"></a>
@@ -149,6 +150,7 @@ All the data (past and coming) is available publicly in JSON:
 ### September
 
 * 2-3: [SRE France SummerCamp](https://summercamp.srefrance.org) - Chambéry (France) <a href="https://summercamp.srefrance.org/cfp/"><img alt="CFP sre-france-summercamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-August-2023&color=green"></a>
+* 3-5: [Flutter & Friends](https://www.flutterfriends.dev/) - Stockholm (Sweden)
 * 4-5: [Cloud Native Summit 2023](https://www.cloudnativesummit.co) - Wellington (New Zealand) <a href="https://cfp.cloudnativesummit.co"><img alt="CFP CNS 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2023&color=green"></a>
 * 4-5: [WaysConf](https://www.waysconf.com/) - Krakow (Poland) & Online <a href="https://www.waysconf.com/call-for-speakers/form"><img alt="CFP WaysConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2023&color=red"></a>
 * 5-7: [try! Swift NYC](https://www.tryswift.co/events/2023/nyc/) - New York (USA)
