@@ -279,6 +279,7 @@ All the data (past and coming) is available publicly in JSON:
 ### June
 
 * 12-14: [RenderATL](https://www.renderatl.com/) - Atlanta, GA (USA)
+* 20-21: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Grand-Duchy of Luxembourg (Luxembourg)
 
 ### July
 * 25-27: [The Bitcoin Conference 2024](https://b.tc/conference) - Nashville, Tennessee (USA)
