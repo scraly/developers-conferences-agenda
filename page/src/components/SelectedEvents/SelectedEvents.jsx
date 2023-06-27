@@ -4,8 +4,7 @@ import 'styles/SelectedEvents.css';
 import EventDisplay from '../EventDisplay/EventDisplay';
 import {formatDate, getMonthName} from '../../utils';
 import {useCustomContext} from 'app.context';
-import {IonIcon} from '@ionic/react';
-import {caretBackCircle, caretForwardCircle} from 'ionicons/icons';
+import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
 
 const SelectedEvents = ({year, month, date}) => {
   const userDispatch = useCustomContext().userDispatch;
@@ -44,8 +43,7 @@ const SelectedEvents = ({year, month, date}) => {
   if (month !== -1 && year) {
     if (month > 0)
       previous = (
-        <IonIcon
-          icon={caretBackCircle}
+        <ArrowLeftCircle
           onClick={() =>
             userDispatch({type: 'displayDate', payload: {date, month: month - 1, year}})
           }
@@ -53,8 +51,7 @@ const SelectedEvents = ({year, month, date}) => {
       );
     if (month < 11)
       next = (
-        <IonIcon
-          icon={caretForwardCircle}
+        <ArrowRightCircle
           onClick={() =>
             userDispatch({type: 'displayDate', payload: {date, month: month + 1, year}})
           }
@@ -68,8 +65,7 @@ const SelectedEvents = ({year, month, date}) => {
     const day = 24 * 60 * 60 * 1000;
     if (today !== firstDay) {
       previous = (
-        <IonIcon
-          icon={caretBackCircle}
+        <ArrowLeftCircle
           onClick={() =>
             userDispatch({
               type: 'displayDate',
@@ -81,8 +77,7 @@ const SelectedEvents = ({year, month, date}) => {
     }
     if (today !== lastDay) {
       next = (
-        <IonIcon
-          icon={caretForwardCircle}
+        <ArrowRightCircle
           onClick={() =>
             userDispatch({
               type: 'displayDate',

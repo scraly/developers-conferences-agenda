@@ -1,7 +1,6 @@
 import { useReducer, useState } from 'react';
 
-import { IonIcon } from '@ionic/react';
-import { arrowDownCircle } from 'ionicons/icons';
+import { ArrowDownCircle } from 'lucide-react';
 
 import CalendarGrid from 'components/CalendarGrid/CalendarGrid';
 import YearSelector from 'components/YearSelector/YearSelector';
@@ -32,7 +31,7 @@ const App = () => {
       />
         {
             hasEvents(selectedYear) && <a href={'/developer-conference-' + selectedYear + '.ics'} className="downloadButton">
-        <IonIcon icon={arrowDownCircle} />
+        <ArrowDownCircle />
         Download {selectedYear} Calendar
       </a>
         }
