@@ -185,7 +185,6 @@ All the data (past and coming) is available publicly in JSON:
 * 26-27: [KCD Austria 2023](https://community.cncf.io/events/details/cncf-kcd-austria-presents-kcd-austria-2023-1/) - Vienna (Austria) <a href="https://kcd.smapply.io/prog/kcd_austria_2023/"><img alt="CFP KCD Austria 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-July-2023&color=green"></a>
 * 27: [DevOps Days Cairo](https://devopsdays.org/events/2023-cairo/welcome/) - Cairo (Egypt)
 * 28: [Conf42: Kube Native 2023](https://www.conf42.com/kubenative2023) - Online
-* 28-29: [DEVWORLD CONFERENCE 2023](https://devworldconference.com/) - Amsterdam (Netherlands) <a href="https://docs.google.com/forms/d/e/1FAIpQLSePbiKSSOLKQOJqG65ifQ0KtY1dsqPqA7N0pu9QY1bK1-ciDQ/viewform"><img alt="CFP DevWorld Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
 * 28-29: [Droidcon Lisbon](https://www.lisbon.droidcon.com/) - Lisbon (Portugal) <a href="https://sessionize.com/droidcon-lisbon-2023/"><img alt="Droidcon Lisbon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
 * 28-30: [Paris Web](https://www.paris-web.fr/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 
@@ -275,6 +274,10 @@ All the data (past and coming) is available publicly in JSON:
 ### January
 
 * 31-03/02: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
+
+### February
+
+* 29-1: [DEVWORLD CONFERENCE 2024](https://devworldconference.com/) - Amsterdam (Netherlands) <a href="https://docs.google.com/forms/d/e/1FAIpQLSePbiKSSOLKQOJqG65ifQ0KtY1dsqPqA7N0pu9QY1bK1-ciDQ/viewform"><img alt="CFP DevWorld Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=green"></a>
 
 ### March
 
