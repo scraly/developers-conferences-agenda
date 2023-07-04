@@ -193,7 +193,7 @@ All the data (past and coming) is available publicly in JSON:
 * 1-6: [CppCon](https://cppcon.org/) - Aurora, Colorado (USA) & Online
 * 2-6: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium) <a href="https://dvbe23.cfp.dev/"><img alt="CFP Devoxx Belgium 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%201-July-2023&color=green"></a>
 * 2-6: [QCon San Francisco](https://qconsf.com/) - San Francisco (USA)
-* 4-5: [DockerCon](docker.com/dockercon/) - Los Angeles (USA)
+* 4-5: [DockerCon](https://www.docker.com/dockercon/) - Los Angeles (USA)
 * 5-6: [SymfonyLive Berlin 2023](https://live.symfony.com/2023-berlin/) - Berlin (Germany) <a href="https://live.symfony.com/2023-berlin/cfp"><img alt="CFP SymfonyLive Berlin 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-June-2023&color=red"></a>
 * 5-6: [DevOps Days Indianapolis](https://devopsdays.org/events/2023-indianapolis/welcome/) - Indianapolis (USA)
 * 6: [DevFest Perros-Guirec](https://devfest.codedarmor.fr/) - Perros-Guirec (France) <a href="https://conference-hall.io/public/event/sO14GCz3BN0lXwU5Ruf6"><img alt="CFP DevFest Perros-Guirec 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2023&color=red"></a>
