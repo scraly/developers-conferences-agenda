@@ -20,7 +20,7 @@ jobs:
           cache: npm
           cache-dependency-path: '**/package-lock.json'
       - working-directory: page
-        run: npm install -D --force
+        run: npm install -D
       - name: Parse Markdowns
         working-directory: tools
         run: |
