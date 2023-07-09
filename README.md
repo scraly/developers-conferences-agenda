@@ -181,7 +181,7 @@ All the data (past and coming) is available publicly in JSON:
 * 21-22: [API Platform Conference](https://api-platform.com/con/2023) - Lille (France) & Online
 * 21-23: [Strange Loop 2023](https://thestrangeloop.com) - St. Louis, Missouri (USA)
 * 21-23: [Euro IA 2023 - Information Architecture & UX conference](https://euroia.eu/) - Amsterdam (Netherland) <a href="https://softconf.com/n/euroia2023/user/scmd.cgi?scmd=submitPaperCustom&pageid=1"><img alt="CFP Euro IA 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-March-2023&color=red"></a>
-* 22: [Agile Tour Sophia Antipolis](http://www.agiletoursophia.fr) - Valbonne (France) <a href="https://lnkd.in/dAkmwW8n"><img alt="CFP ATSA" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-june-2023&color=red"></a>
+* 22: [Agile Tour Sophia Antipolis](http://www.agiletoursophia.fr) - Valbonne (France) <a href="https://sessionize.com/agile-tour-sophia-2023/?sp_con=KGCdw4XVF7QH%2Fu4B8Gne1g%3D%3D"><img alt="CFP ATSA" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-june-2023&color=red"></a>
 * 25-26: [BIG DATA & AI PARIS 2023](https://www.bigdataparis.com/) - Paris (France) <a href="#"><img alt="CFP BIG DATA & AI PARIS 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-March-2023&color=red"></a>
 * 26-27: [KCD Austria 2023](https://community.cncf.io/events/details/cncf-kcd-austria-presents-kcd-austria-2023-1/) - Vienna (Austria) <a href="https://kcd.smapply.io/prog/kcd_austria_2023/"><img alt="CFP KCD Austria 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-July-2023&color=green"></a>
 * 27: [DevOps Days Cairo](https://devopsdays.org/events/2023-cairo/welcome/) - Cairo (Egypt)
