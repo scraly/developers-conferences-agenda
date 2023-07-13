@@ -222,6 +222,7 @@ All the data (past and coming) is available publicly in JSON:
 
 ### June
 
+* 1-2: [T-DOSE](https://t-dose.org/2024/) - Geldrop (The Netherlands)
 * 12-14: [RenderATL](https://www.renderatl.com/) - Atlanta, GA (USA)
 * 20-21: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Grand-Duchy of Luxembourg (Luxembourg)
 
