@@ -112,6 +112,7 @@ All the data (past and coming) is available publicly in JSON:
 * 28: [Conf42: Kube Native 2023](https://www.conf42.com/kubenative2023) - Online
 * 28-29: [Droidcon Lisbon](https://www.lisbon.droidcon.com/) - Lisbon (Portugal) <a href="https://sessionize.com/droidcon-lisbon-2023/"><img alt="Droidcon Lisbon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=red"></a>
 * 28-30: [Paris Web](https://www.paris-web.fr/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+* 30: [NodeJS Conference 2023](https://2023.nodejsconf.it/) - Brescia (Italy)
 
 ### October
 
