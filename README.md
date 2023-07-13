@@ -44,6 +44,7 @@ All the data (past and coming) is available publicly in JSON:
 * 7-9: [Nantes Maker Campus](https://nantesmakercampus.fr/) - Nantes (France)
 * 10-12: [Riviera DEV](https://rivieradev.fr) - Sophia Antipolis (Nice, France) <a href="https://conference-hall.io/public/event/qDKnPd1n2RpmJ5aTZhp6"><img alt="CFP Riviera DEV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2023&color=red"></a>
 * 11-13: [The Perl and Raku Conference 2023](https://tprc.to/tprc-2023-tor/) - Toronto (Canada)
+* 12-13: [Refactor DX 2023](https://www.refactorconf.com/) - Toronto (Canada)
 * 15: [Droidcon Vietnam](https://www.vietnam.droidcon.com/) - Ho chi Minh (Vietnam)
 * 17-18: [KCD Munich](https://github.com/cncf/kubernetes-community-days/issues/451) - Munich (Germany) 
 * 18: [Beam Summit](https://beamsummit.org/) - Online
