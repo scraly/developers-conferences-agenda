@@ -150,6 +150,7 @@ All the data (past and coming) is available publicly in JSON:
 * 24-25: [Codemotion Milan](https://extra.codemotion.com/conference-milan-2023/) - Milan (Italy) <a href="https://sessionize.com/codemotion-milan-2023/"><img alt="CFP Codemotion Milan 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Jul-2023&color=red"></a>
 * 25-26: [DevRelX Summit](https://www.devrelxsummit.com/) - Online
 * 26: [Codeurs en Seine](https://www.codeursenseine.com/2023) - Rouen (France) <a href="https://cfp.codeursenseine.com/"><img alt="CFP Codeurs en Seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Aug-2023&color=green"></a>
+* 26: [NODES 2023](https://neo4j.registration.goldcast.io/events/6fb85147-ca27-4310-9dec-cb345c53bd6f) - Online
 * 25-27: [KubeCon + CloudNativeCon + Open Source Summit China 2023](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/) - Shangai (China) <a href="https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/program/call-for-proposals/"><img alt="CFP KubeCon China 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2023&color=red"></a>
 * 25-27: [ScalaIO](https://scala.io/) - Paris (France)
 * 26-27: [Agile Tour Bordeaux](https://agiletourbordeaux.fr/) - Bordeaux (France) <a href="https://sessionize.com/agile-tour-bordeaux-2023/"><img alt="CFP Agile Tour Bordeaux 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2023&color=green"></a>
