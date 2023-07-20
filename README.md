@@ -151,6 +151,7 @@ All the data (past and coming) is available publicly in JSON:
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/z5FSBfmwJSUWb4UO9hD4"><img alt="CFP DevFest Nantes 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2023&color=red"></a>
 * 19-20: [Agile Tour Rennes](https://agiletour.agilerennes.org/) - Rennes (France) <a href="https://sessionize.com/agile-tour-rennes-2023/"><img alt="CFP Agile Tour Rennes 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2023&color=red"></a>
 * 19-20: [GeeCON Prague 2023](https://2023.geecon.cz/) - Prague (Czech Republic) <a href="https://2023.geecon.cz/cfp/"><img alt="CFP GeeCON Prague 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-Sept-2023&color=green"></a>
+* 20-22: [Software Crafters Barcelona 2023](https://softwarecrafters.barcelona/) - Barcelona (Spain)
 * 23-25: [FOSS4G North America](https://foss4gna.org/) - Baltimore (USA)
 * 24-25: [Codemotion Milan](https://extra.codemotion.com/conference-milan-2023/) - Milan (Italy) <a href="https://sessionize.com/codemotion-milan-2023/"><img alt="CFP Codemotion Milan 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Jul-2023&color=red"></a>
 * 25-26: [DevRelX Summit](https://www.devrelxsummit.com/) - Online
