@@ -160,6 +160,7 @@ All the data (past and coming) is available publicly in JSON:
 * 25-27: [ScalaIO](https://scala.io/) - Paris (France)
 * 26-27: [Agile Tour Bordeaux](https://agiletourbordeaux.fr/) - Bordeaux (France) <a href="https://sessionize.com/agile-tour-bordeaux-2023/"><img alt="CFP Agile Tour Bordeaux 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2023&color=green"></a>
 * 26-27: [Droidcon London](https://london.droidcon.com/) - London (UK) <a href="https://sessionize.com/droidcon-london-2023/"><img alt="CFP Droidcon London 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2023&color=green"></a>
+* 26-29: [SoCraTes-FR](https://socrates-fr.github.io/) - Orange (France)
 * 30-31: [DEVOPSDAYS TEL AVIV](https://tlvcommunity.dev/devopsdays) Tel Aviv (Israel)
 
 ### November
