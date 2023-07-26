@@ -234,6 +234,10 @@ All the data (past and coming) is available publicly in JSON:
 * 25-26: [MiXiT](https://mixitconf.org/fr/) - Lyon (France)
 * 25-26: [Android Makers](https://androidmakers.droidcon.com/) - Paris (France)
 
+### May
+
+* 27-31: [Domain-Driven Design Europe 2024](https://2024.dddeurope.com/) - Amsterdam (Netherlands 🇳🇱) <a href="https://2024.dddeurope.com/cfp/"><img alt="CFP DDD Europe 2024 conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Feb-2024&color=green"></a>
+
 ### June
 
 * 1-2: [T-DOSE](https://t-dose.org/2024/) - Geldrop (The Netherlands)
