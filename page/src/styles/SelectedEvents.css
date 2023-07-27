@@ -20,3 +20,9 @@
 .eventDateDisplay span {
   padding: 0 1rem;
 }
+
+.eventCountDisplay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

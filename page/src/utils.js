@@ -52,3 +52,11 @@ export const getMonthName = month =>
     'November',
     'December',
   ][month];
+
+export const countEvents = (events) => {
+    if(events.length) {
+        return events.length > 1 ? `${events.length} Events` : `${events.length} Event`
+    } else {
+        return null
+    }
+}
