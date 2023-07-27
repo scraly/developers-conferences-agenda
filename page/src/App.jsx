@@ -12,15 +12,9 @@ import 'misc/fonts/inter/inter.css';
 import 'styles/App.css';
 import {hasEvents} from "./utils";
 
-const EventCount = ({allEvents}) => {
-  <div>
-    {allEvents.length}
-  </div>
-}
 const App = () => {
   const [selectedYear, setSelectedYear] = useState(new Date().getFullYear());
   const [userState, userDispatch] = useReducer(reducer, {date: null, month: null, year: null});
-  // const [eventState, setEventState]
   const providerState = {
     userState,
     userDispatch,
