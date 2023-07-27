@@ -30,6 +30,12 @@ export const getEventsByYear = () => {
   window.dev_events = events;
 };
 
+export const getYearEvents = (year) => {
+  const events = allEvents.filter(e => new Date(e.date[0]).getFullYear() === year)
+
+  return events
+}
+
 export const hasEvents = (year) => Boolean(allEvents.find(e => new Date(e.date[0]).getFullYear() === year))
 
 const lpad2 = number => ('0' + number).slice(-2);
