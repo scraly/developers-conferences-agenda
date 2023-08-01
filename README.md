@@ -115,7 +115,7 @@ All the data (past and coming) is available publicly in JSON:
 * 28: [Conf42: Kube Native 2023](https://www.conf42.com/kubenative2023) - Online
 * 28-29: [Droidcon Lisbon](https://www.lisbon.droidcon.com/) - Lisbon (Portugal) <a href="https://sessionize.com/droidcon-lisbon-2023/"><img alt="Droidcon Lisbon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=red"></a>
 * 28-30: [Paris Web](https://www.paris-web.fr/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
-* 29-30: [KCD El Salvador](https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador-2023/) - San Miguel, El Salvador <a href="https://kcd.smapply.io/prog/kcd_el_salvador_2023_cfp/"><img alt="KCD El Salvador" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-August-2023&color=green"></a>
+* 29-30: [KCD El Salvador](https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador-2023/) - San Miguel (El Salvador) <a href="https://kcd.smapply.io/prog/kcd_el_salvador_2023_cfp/"><img alt="KCD El Salvador" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-August-2023&color=green"></a>
 * 29: [JUG Saxony Day](https://jugsaxony.day) - Dresden (Germany)
 * 30: [NodeJS Conference 2023](https://2023.nodejsconf.it/) - Brescia (Italy)
 
