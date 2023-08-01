@@ -1,7 +1,11 @@
 const getCountText = (count) => {
-    if (typeof count === 'undefined' || count === 0) return 'no event'
-    if (count === 1) return '1 event'
-    return `${count} events`
+    const getCountText = (count) => {
+        if (count) {
+          const plural = count > 1 ? "s" : ""
+          return `${count} event${plural}`;
+        }
+        return "no event";
+      };
 }
 
 const EventCount = ({events}) => {
