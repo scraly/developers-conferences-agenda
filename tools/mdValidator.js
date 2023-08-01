@@ -42,8 +42,8 @@ const addHints = confLine => {
         hints.push("CFP shields should have a link")
     }
     if(confLine.content.includes("img.shields.io") && !(
-        confLine.content.includes("label=CFP") || confLine.content.includes("Closed%20Captions") )){
-        hints.push("shields are for 'CFP' or 'Closed Content' with provided format only")
+        confLine.content.includes("label=CFP") || confLine.content.includes("Closed%20Captions") || confLine.content.includes("label=Meetup"))){
+        hints.push("shields are for 'CFP' or 'Closed Content' or 'Meetup' with provided format only")
     }
     if(confLine.content.includes("label=CFP") && 
         confLine.content.includes("Closed%20Captions") &&

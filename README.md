@@ -107,7 +107,7 @@ All the data (past and coming) is available publicly in JSON:
 * 2-6: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium) <a href="https://dvbe23.cfp.dev/"><img alt="CFP Devoxx Belgium 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-July-2023&color=green"></a>
 * 2-6: [QCon San Francisco](https://qconsf.com/) - San Francisco (USA)
 * 4-5: [DockerCon](https://www.docker.com/dockercon/) - Los Angeles (USA)
-* 5: [DevFest Mons](https://gdg.community.dev/events/details/google-gdg-mons-presents-devfest-mons-2023/) - Mons (Belgium) <a href="https://conference-hall.io/speaker/event/d1HEXfv4QJYgnrrX6s0X"><img alt="CFP DevFest Mons 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%August&color=green"></a>
+* 5: [DevFest Mons](https://gdg.community.dev/events/details/google-gdg-mons-presents-devfest-mons-2023/) - Mons (Belgium) <a href="https://conference-hall.io/speaker/event/d1HEXfv4QJYgnrrX6s0X"><img alt="CFP DevFest Mons 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-Aug-2023&color=green"></a>
 * 5-6: [SymfonyLive Berlin 2023](https://live.symfony.com/2023-berlin/) - Berlin (Germany) <a href="https://live.symfony.com/2023-berlin/cfp"><img alt="CFP SymfonyLive Berlin 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-June-2023&color=red"></a>
 * 5-6: [DevOps Days Indianapolis](https://devopsdays.org/events/2023-indianapolis/welcome/) - Indianapolis (USA)
 * 6: [DevFest Perros-Guirec](https://devfest.codedarmor.fr/) - Perros-Guirec (France) <a href="https://conference-hall.io/public/event/sO14GCz3BN0lXwU5Ruf6"><img alt="CFP DevFest Perros-Guirec 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2023&color=red"></a>
@@ -119,12 +119,12 @@ All the data (past and coming) is available publicly in JSON:
 * 10-12: [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - Dublin (Ireland)
 * 11-12: [I Code Java](https://j-sa.co) - Johannesburg (South Africa)
 * 11-13: [Devoxx Morocco](https://devoxx.ma/) - Agadir (Morocco) <a href="https://dvma23.cfp.dev/"><img alt="CFP ParisTestConf 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%2022-May%20to%2017-July-2023&color=red"></a>
-* 12: [Cloud Nord](https://www.cloudnord.fr/) - Lille (France) <a href="https://conference-hall.io/public/event/SkVFHQ5kzrrfUlSU4MK1"><img alt="CFP Cloud Nord 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June&color=red"></a>
+* 12: [Cloud Nord](https://www.cloudnord.fr/) - Lille (France) <a href="https://conference-hall.io/public/event/SkVFHQ5kzrrfUlSU4MK1"><img alt="CFP Cloud Nord 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Jun-2023&color=red"></a>
 * 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont-Ferrand (France) <a href="https://conference-hall.io/public/event/b9seMUHc924mGItMl2aa"><img alt="CFP Volcamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-May-2023&color=red"></a>
 * 12-13: [Forum PHP 2023](https://event.afup.org/forum-php-2023) - Marne-la-Vallée (France) <a href="https://afup.org/event/forumphp2023"><img alt="CFP ForumPHP 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-June-2023&color=red"></a>
 * 12-13: [Open Source India](https://www.opensourceindia.in/) - Bengaluru (India)
 * 12-13: [Droidcon Italy](https://it.droidcon.com/2023/) - Milan (Italy) <a href="https://sessionize.com/droidcon-italy-2023/"><img alt="CFP Droidcon Italy 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2023&color=green"></a>
-* 13: [OH!2023: A Human-centered Developers' Conference](https://oh.helsinkiruby.fi/) – Helsinki (Finland) <a href="https://www.papercall.io/oh"><img alt="CFP Oh the Humanity! 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=red"></a>
+* 13: [OH!2023: A Human-centered Developers' Conference](https://oh.helsinkiruby.fi/) - Helsinki (Finland) <a href="https://www.papercall.io/oh"><img alt="CFP Oh the Humanity! 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=red"></a>
 * 15-17: [All Things Open 2023](https://www.allthingsopen.org/events/all-things-open-2023/) - Raleigh, NC (USA)
 * 16-18: [Platform Summit 2023](https://nordicapis.com/events/platform-summit-2023/) - Stockholm (Sweden)
 * 16-20: [NDC Porto](https://ndcporto.com/) - Porto (Portugal) <a href="https://ndcporto.com/call-for-papers"><img alt="CFP NCD Porto" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-June-2023&color=red"></a>
@@ -147,7 +147,7 @@ All the data (past and coming) is available publicly in JSON:
 * 26-27: [Agile Tour Bordeaux](https://agiletourbordeaux.fr/) - Bordeaux (France) <a href="https://sessionize.com/agile-tour-bordeaux-2023/"><img alt="CFP Agile Tour Bordeaux 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2023&color=green"></a>
 * 26-27: [Droidcon London](https://london.droidcon.com/) - London (UK) <a href="https://sessionize.com/droidcon-london-2023/"><img alt="CFP Droidcon London 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2023&color=green"></a>
 * 26-29: [SoCraTes-FR](https://socrates-fr.github.io/) - Orange (France)
-* 30-31: [DEVOPSDAYS TEL AVIV](https://tlvcommunity.dev/devopsdays) Tel Aviv (Israel)
+* 30-31: [DEVOPSDAYS TEL AVIV](https://tlvcommunity.dev/devopsdays) - Tel Aviv (Israel)
 
 ### November
 
