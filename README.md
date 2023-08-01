@@ -67,6 +67,7 @@ All the data (past and coming) is available publicly in JSON:
 * 21-25: [HITBSecConf2023](https://conference.hitb.org/hitbsecconf2023hkt/) - Phuket (Thailand)
 * 22: [KCD Australia](https://community.cncf.io/events/details/cncf-kcd-australia-presents-kubernetes-community-day-australia-2023/) - Sydney (Australia)
 * 22-23: [DeveloperWeek Cloud](https://www.developerweek.com/global/conference/cloud/) - Online <a href="https://www.developerweek.com/global/conference/cloud/apply-to-speak/"><img alt="DeveloperWeek Cloud 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-april-2023&color=red"></a>
+* 22-24: [Testμ 2023](https://www.lambdatest.com/testmuconf-2023/) - Online 
 * 24: [Conf42: Rustlang 2023](https://www.conf42.com/rustlang2023) - Online
 * 24-26: [PyconLatam 2023](https://www.pylatam.org/) - Monterrey (Mexico) <a href="https://www.pylatam.org/en/speaking/"><img alt="CFP PyconLatam 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-May-2023&color=red"></a>
 * 24-26: [WordCamp US](https://us.wordcamp.org/2023/) - National Harbor, Maryland (USA)
