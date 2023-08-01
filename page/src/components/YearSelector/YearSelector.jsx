@@ -8,7 +8,6 @@ import { getYearEvents } from 'utils';
 import EventCount from 'components/EventCount/EventCount';
 
 const YearSelector = ({ year, onChange }) => {
-  console.log(`year: ${year}`);
   return (
     <div>
       <div className="yearNavigator">
