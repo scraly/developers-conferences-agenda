@@ -2,6 +2,7 @@ import {useMemo, useRef, useState} from 'react';
 
 import 'styles/SelectedEvents.css';
 import EventDisplay from '../EventDisplay/EventDisplay';
+import EventCount from '../EventCount/EventCount'
 import {formatDate, getMonthName} from '../../utils';
 import {useCustomContext} from 'app.context';
 import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
@@ -97,7 +98,8 @@ const SelectedEvents = ({year, month, date}) => {
             {previous}
             <span>{getMonthName(month) || formatDate(date)}</span>
             {next}
-          </h3>
+            </h3>
+            <EventCount events={events} />
           <div className="eventsGridDisplay">{events}</div>
         </>
       ) : (
