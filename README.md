@@ -125,7 +125,7 @@ All the data (past and coming) is available publicly in JSON:
 * 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont-Ferrand (France) <a href="https://conference-hall.io/public/event/b9seMUHc924mGItMl2aa"><img alt="CFP Volcamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-May-2023&color=red"></a>
 * 12-13: [Forum PHP 2023](https://event.afup.org/forum-php-2023) - Marne-la-Vallée (France) <a href="https://afup.org/event/forumphp2023"><img alt="CFP ForumPHP 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-June-2023&color=red"></a>
 * 12-13: [Open Source India](https://www.opensourceindia.in/) - Bengaluru (India)
-* 12-13: [Droidcon Italy](https://it.droidcon.com/2023/) - Milan (Italy) <a href="https://sessionize.com/droidcon-italy-2023/"><img alt="CFP Droidcon Italy 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2023&color=green"></a>
+* 12-13: [Droidcon Italy](https://it.droidcon.com/2023/) - Milan (Italy) <a href="https://sessionize.com/droidcon-italy-2023/"><img alt="CFP Droidcon Italy 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2023&color=red"></a>
 * 13: [OH!2023: A Human-centered Developers' Conference](https://oh.helsinkiruby.fi/) - Helsinki (Finland) <a href="https://www.papercall.io/oh"><img alt="CFP Oh the Humanity! 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=red"></a>
 * 15-17: [All Things Open 2023](https://www.allthingsopen.org/events/all-things-open-2023/) - Raleigh, NC (USA)
 * 16-18: [Platform Summit 2023](https://nordicapis.com/events/platform-summit-2023/) - Stockholm (Sweden)
