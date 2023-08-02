@@ -102,6 +102,7 @@ All the data (past and coming) is available publicly in JSON:
 * 29-30: [KCD El Salvador](https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador-2023/) - San Miguel (El Salvador) <a href="https://kcd.smapply.io/prog/kcd_el_salvador_2023_cfp/"><img alt="KCD El Salvador" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-August-2023&color=green"></a>
 * 29: [JUG Saxony Day](https://jugsaxony.day) - Dresden (Germany)
 * 30: [NodeJS Conference 2023](https://2023.nodejsconf.it/) - Brescia (Italy)
+* 30: [She Code Africa Summit](https://summit.shecodeafrica.org/) - Lagos (Nigeria) <a href="https://docs.google.com/forms/d/e/1FAIpQLSc7C02lAPDXrSdGjhi_-B1ilHblLoGU03T4KXIcI2nfcMy10A/viewform?pli=1"><img alt="CFP She Code Africa Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2023&color=green"></a>
 
 ### October
 
