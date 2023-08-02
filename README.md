@@ -186,7 +186,7 @@ All the data (past and coming) is available publicly in JSON:
 ### December
 
 * 1-3: [Africa Bitcoin Conference 2023](https://afrobitcoin.org) - Accra (Ghana)
-* 4: [cdCon Tokyo Japan 2023](https://cd.foundation/cdcon-japan-2023/?hss_channel=lcp-19100461&utm_content=258948670&utm_medium=social&utm_source=bradmccoy/) - Tokyo (Japan) <a href="https://linuxfoundation.smapply.io/prog/oss_japan_2023/"><img alt="CFP cdCon Japan 23" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-September-2023&color=green"></a>
+* 4: [cdCon Tokyo Japan 2023](https://cd.foundation/cdcon-japan-2023/) - Tokyo (Japan) <a href="https://linuxfoundation.smapply.io/prog/oss_japan_2023/"><img alt="CFP cdCon Japan 23" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-September-2023&color=green"></a>
 * 6-7: [Open Core Summit](https://opencoresummit.com/) - San Francisco, CA (USA)
 * 6-7: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France) <a href="https://sessionize.com/open-source-experience-2023/"><img alt="CFP [Open Source Experience 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-june-2023&color=red"></a>
 * 7: [TestJS Summit](https://testjssummit.com/) - Berlin (Germany)
