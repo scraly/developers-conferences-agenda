@@ -208,6 +208,7 @@ All the data (past and coming) is available publicly in JSON:
 ### December
 
 * 1-3: [Africa Bitcoin Conference 2023](https://afrobitcoin.org) - Accra (Ghana)
+* 1-3: [PyLadiesCon](https://pyladies.com/blog/Announcement-CFP-Launch/cfp-launch-announcement/) - Online <a href="https://pretalx.com/pyladiescon-2023/cfp"><img alt="CFP PyLadiesCon 23" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-September-2023&color=green"></a>
 * 4: [cdCon Tokyo Japan 2023](https://cd.foundation/cdcon-japan-2023/) - Tokyo (Japan) <a href="https://linuxfoundation.smapply.io/prog/oss_japan_2023/"><img alt="CFP cdCon Japan 23" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-September-2023&color=green"></a>
 * 5-6: [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-japan/) - Tokyo (Japan)  <a href="https://linuxfoundation.smapply.io/prog/oss_japan_2023/"><img alt="CFP Open Source Summit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-September-2023&color=green"></a>
 * 6-7: [Open Core Summit](https://opencoresummit.com/) - San Francisco, CA (USA)
