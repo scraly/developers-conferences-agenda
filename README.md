@@ -41,6 +41,7 @@ All the data (past and coming) is available publicly in JSON:
 * 4-5: [CppIndiaCon 2023](https://www.cppindia.co.in/conference/2023/conference_home/) - Online
 * 4-5: [Beer City Code](https://www.beercitycode.com/) - Grand Rapids, Michigan (USA) <a href="https://sessionize.com/beer-city-code-2023/"><img alt="Beer City Code" src="https://img.shields.io/static/v1?label=CFP&message=from%203-february-2023%20to%2015-april-2023&color=red"></a>
 * 9-10: [DevOpsDays Chicago](https://devopsdays.org/chicago) - Chicago (USA)
+* 10-13: [DefCon](https://defcon.org/) - Las Vegas (USA)
 * 14-18: [Perl and Koha Conference](https://perlkohacon.fi/) - Helsinki (Finland) <a href="https://perlkohacon.fi/Call-For-Talks-Perl-Koha-Helsinki-August-2023.html"><img alt="CFP PerlKohaCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2023&color=red"></a>
 * 16-18: [GopherCon UK 2023](https://www.gophercon.co.uk) - London (UK)
 * 15-16: [DeveloperWeek Cloud](https://www.developerweek.com/global/conference/cloud/) - San Francisco (USA) <a href="https://www.developerweek.com/global/conference/cloud/apply-to-speak/"><img alt="DeveloperWeek Cloud 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-april-2023&color=red"></a>
