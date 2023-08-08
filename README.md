@@ -250,6 +250,7 @@ All the data (past and coming) is available publicly in JSON:
 
 * 8-10: [QCon London](https://qconlondon.com/) - London (UK)
 * 17-19: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
+* 23-26 April 2024: [Great International Developer Summit (GIDS)](https://developersummit.com/) - Bengaluru, Karnataka (India) <a href="https://form.jotform.com/developersummit/gids-2024-call-for-proposals"><img alt="CFP GIDS 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-OCT-2023&color=green"></a>
 * 25-26: [MiXiT](https://mixitconf.org/fr/) - Lyon (France)
 * 25-26: [Android Makers](https://androidmakers.droidcon.com/) - Paris (France)
 
