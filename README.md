@@ -230,7 +230,7 @@ All the data (past and coming) is available publicly in JSON:
 ### January
 
 * 20: [Voxxed Days Ticino](https://voxxeddays.com/ticino/) - Lugano (Switzerland)
-* 31-03/02: [SnowCamp](https://snowcamp.io/) - Grenoble (France) <a href="https://snowcamp.io/"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2024&color=green"></a>
+* 31-03/02: [SnowCamp](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2024&color=green"></a>
   
 
 ### February
