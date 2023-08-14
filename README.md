@@ -208,6 +208,7 @@ All the data (past and coming) is available publicly in JSON:
 * 30: [Conf42: DevSecOps 2023](https://www.conf42.com/js2023) - Online
 * 30: [PrestaShop Developer Conference](https://events.prestashop.com/prestashop-developer-conference) - Paris (France) <a href="https://hopscotch.key4events.com/abstract.aspx?e=321&c=2683"><img alt="CFP PrestaShop Developer Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2023&color=green"></a>
 * 30: [WHO run the Tech](https://whorunthetech.com/) - Rennes (France) <a href="https://conference-hall.io/public/event/Pe62MIv1mSH9KF7nDGRA"><img alt="CFP Who Run The Tech #8" src="https://img.shields.io/static/v1?label=CFP&message=until%207-September-2023&color=green"></a>
+* 30" [DevFest Stockholm](https://www.devfest-stockholm.com/) - Stockholm (Sweden) <a href="https://sessionize.com/devfest-stockholm-2023/"><img alt="CFP DevFest Stockholm 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=green"></a>
 
 ### December
 
@@ -236,6 +237,7 @@ All the data (past and coming) is available publicly in JSON:
 ### January
 
 * 20: [Voxxed Days Ticino](https://voxxeddays.com/ticino/) - Lugano (Switzerland)
+* 24-25: [KCD Oslo](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024/) - Oslo (Norway)
 * 31-03/02: [SnowCamp](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2024&color=green"></a>
   
 
