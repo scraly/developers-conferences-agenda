@@ -149,6 +149,7 @@ All the data (past and coming) is available publicly in JSON:
 * 20-22: [Software Crafters Barcelona 2023](https://softwarecrafters.barcelona/) - Barcelona (Spain)
 * 23-25: [FOSS4G North America](https://foss4gna.org/) - Baltimore (USA)
 * 24-25: [Codemotion Milan](https://extra.codemotion.com/conference-milan-2023/) - Milan (Italy) <a href="https://sessionize.com/codemotion-milan-2023/"><img alt="CFP Codemotion Milan 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Jul-2023&color=red"></a>
+* 24-26: [GitKon](https://gitkon.com) - Online
 * 25-26: [DevRelX Summit](https://www.devrelxsummit.com/) - Online <a href="https://devecon.typeform.com/Summit23Speaker"><img alt="CFP DevRelX Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Aug-2023&color=green"></a>
 * 26: [Codeurs en Seine](https://www.codeursenseine.com/2023) - Rouen (France) <a href="https://cfp.codeursenseine.com/"><img alt="CFP Codeurs en Seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Aug-2023&color=green"></a>
 * 26: [NODES 2023](https://neo4j.registration.goldcast.io/events/6fb85147-ca27-4310-9dec-cb345c53bd6f) - Online
