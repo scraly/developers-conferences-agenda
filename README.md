@@ -122,6 +122,7 @@ All the data (past and coming) is available publicly in JSON:
 * 6: [DevFest Perros-Guirec](https://devfest.codedarmor.fr/) - Perros-Guirec (France) <a href="https://conference-hall.io/public/event/sO14GCz3BN0lXwU5Ruf6"><img alt="CFP DevFest Perros-Guirec 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2023&color=red"></a>
 * 6: [KCD Texas](https://texaskcd.com) - Dallas/Irving, Texas (USA) <a href="https://kcd.smapply.io/prog/kcd-texas-2023/"><img alt="KCD Texas 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-August-2023&color=green"></a>
 * 6: [JCConf Taiwan](https://jcconf.tw/2023) - Taipei City (Taiwan)
+* 6: [DevopsDays Madrid](https://devopsdays.org/events/2023-madrid/welcome/) - Madrid (Spain)
 * 7: [unKonf](https://unkonf.de/en) - Mannheim (Germany)
 * 7: [DevFest Beirut 2023](https://gdg.community.dev/events/details/google-gdg-coast-lebanon-presents-devfest-beirut-23/) - Beirut (Lebanon) <a href="https://sessionize.com/devfestbeirut23/"><img alt="CFP DevFest Beirut 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-August-2023&color=green"></a>
 * 7-8: [UbuCon Asia](https://events.canonical.com/event/13/) - Surakarta (Indonesia) <a href="https://louca.id/post/?title=call-for-paper"><img alt="CFP UbuCon Asia 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2023&color=red"></a>
