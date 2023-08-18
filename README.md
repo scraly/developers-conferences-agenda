@@ -119,6 +119,7 @@ All the data (past and coming) is available publicly in JSON:
 * 5: [DevFest Mons](https://gdg.community.dev/events/details/google-gdg-mons-presents-devfest-mons-2023/) - Mons (Belgium) <a href="https://conference-hall.io/speaker/event/d1HEXfv4QJYgnrrX6s0X"><img alt="CFP DevFest Mons 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-Aug-2023&color=green"></a>
 * 5-6: [SymfonyLive Berlin 2023](https://live.symfony.com/2023-berlin/) - Berlin (Germany) <a href="https://live.symfony.com/2023-berlin/cfp"><img alt="CFP SymfonyLive Berlin 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-June-2023&color=red"></a>
 * 5-6: [DevOps Days Indianapolis](https://devopsdays.org/events/2023-indianapolis/welcome/) - Indianapolis (USA)
+* 5-6: [ViteConf](https://viteconf.org/23/) - Online
 * 6: [DevFest Perros-Guirec](https://devfest.codedarmor.fr/) - Perros-Guirec (France) <a href="https://conference-hall.io/public/event/sO14GCz3BN0lXwU5Ruf6"><img alt="CFP DevFest Perros-Guirec 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2023&color=red"></a>
 * 6: [KCD Texas](https://texaskcd.com) - Dallas/Irving, Texas (USA) <a href="https://kcd.smapply.io/prog/kcd-texas-2023/"><img alt="KCD Texas 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-August-2023&color=green"></a>
 * 6: [JCConf Taiwan](https://jcconf.tw/2023) - Taipei City (Taiwan)
