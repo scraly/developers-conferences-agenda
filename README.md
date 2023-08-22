@@ -140,6 +140,7 @@ All the data (past and coming) is available publicly in JSON:
 * 12-13: [Open Source India](https://www.opensourceindia.in/) - Bengaluru (India)
 * 12-13: [Droidcon Italy](https://it.droidcon.com/2023/) - Milan (Italy) <a href="https://sessionize.com/droidcon-italy-2023/"><img alt="CFP Droidcon Italy 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2023&color=red"></a>
 * 13: [OH!2023: A Human-centered Developers' Conference](https://oh.helsinkiruby.fi/) - Helsinki (Finland) <a href="https://www.papercall.io/oh"><img alt="CFP Oh the Humanity! 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=red"></a>
+* 13-14: [SecSea 2K23](https://www.helloasso.com/associations/hack-in-provence/evenements/secsea-2k23) - La Ciotat (France)
 * 15-17: [All Things Open 2023](https://www.allthingsopen.org/events/all-things-open-2023/) - Raleigh, NC (USA)
 * 16-18: [Platform Summit 2023](https://nordicapis.com/events/platform-summit-2023/) - Stockholm (Sweden)
 * 16-20: [NDC Porto](https://ndcporto.com/) - Porto (Portugal) <a href="https://ndcporto.com/call-for-papers"><img alt="CFP NCD Porto" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-June-2023&color=red"></a>
