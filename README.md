@@ -277,6 +277,8 @@ All the data (past and coming) is available publicly in JSON:
 
 ### May
 
+* 20-21: [DevOps Pro Europe 2024](https://devopspro.lt/) - Online
+* 23-24: [DevOps Pro Europe 2024](https://devopspro.lt/) - Vilnius (Lithuania)
 * 27-31: [Domain-Driven Design Europe 2024](https://2024.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://2024.dddeurope.com/cfp/"><img alt="CFP DDD Europe 2024 conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Feb-2024&color=green"></a>
 
 ### June
