@@ -64,6 +64,7 @@ All the data (past and coming) is available publicly in JSON:
 * 4-5: [Cloud Native Summit 2023](https://www.cloudnativesummit.co) - Wellington (New Zealand) <a href="https://cfp.cloudnativesummit.co"><img alt="CFP CNS 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2023&color=red"></a>
 * 4-5: [WaysConf](https://www.waysconf.com/) - Krakow (Poland) & Online <a href="https://www.waysconf.com/call-for-speakers/form"><img alt="CFP WaysConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2023&color=red"></a>
 * 5-7: [try! Swift NYC](https://www.tryswift.co/events/2023/nyc/) - New York (USA)
+* 6: [Cloud Builders: Python Conf](https://www.cloud-builders.tech/en/python-conf/) - World
 * 6: [Apex Developer Summit](https://www.apexdevsummit.com/) - Amsterdam (Netherlands)
 * 6: [Cloud Alpes](https://www.cloudalpes.fr/) - Lyon (France) <a href="https://conference-hall.io/public/event/90HSNNtojHqk1S8SbavA"><img alt="CFP Cloud Alpes" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2023&color=red"></a>
 * 6-7: [JavaZone 2023](https://2023.javazone.no/) - Oslo (Norway)
