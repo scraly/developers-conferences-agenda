@@ -79,7 +79,7 @@ All the data (past and coming) is available publicly in JSON:
 * 12: [Java Forum Nord](https://javaforumnord.de) - Hannover (Germany)
 * 12-16: [RomHack](https://romhack.io/) - Roma (Italy) <a href="https://romhack.io/call-for-papers/"><img alt="CFP RomHack" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-May-2023&color=red"></a>
 * 14: [Cloud Sud](https://www.cloudsud.fr/) - Toulouse (France) & Online <a href="https://conference-hall.io/public/event/UHdxMRvP0zJB2eVBwm1C"><img alt="Cloud Sud" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=red"></a>
-* 14-15: [DevOpsDays Ukraine: Disaster Recovery](https://www.devopsdays.com.ua/)
+* 14-15: [DevOpsDays Ukraine: Disaster Recovery](https://www.devopsdays.com.ua/) - Online
 * 14-15: [Droidcon NYC](https://nyc.droidcon.com/) - NYC (USA) <a href="https://sessionize.com/droidcon-nyc-2023/"><img alt="Droidcon NYC" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-July-2023&color=red"></a>
 * 14-17: [EuroBSDCon](https://2023.eurobsdcon.org/) - Coimbra (Portugal) <a href="https://2023.eurobsdcon.org/call-for-papers-is-now-open/"><img alt="CFP EuroBSDCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2023&color=red"></a>
 * 18: [Agile Tour Montpellier](https://agiletourmontpellier.fr/) - Montpellier (France) <a href="https://conference-hall.io/public/event/mXxbggAyDUbTFXazxkWX"><img alt="CFP Agile Tour Montpellier" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2023&color=red"></a>
