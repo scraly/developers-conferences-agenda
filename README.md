@@ -87,9 +87,11 @@ All the data (past and coming) is available publicly in JSON:
 * 18-19: [Shift Conference](https://shift.infobip.com) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2023/"><img alt="CFP Infobip Shift" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2023&color=red"></a>
 * 18-19: [DevOpsDays Atlanta](https://devopsdays.org/events/2023-atlanta/welcome/) - Atlanta, GA (USA) <a href="https://www.papercall.io/devopsdaysatl2023"><img alt="CFP DevOpsDays Atlanta" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-July-2023&color=red"></a>
 * 18-21: [NDC TechTown](https://ndctechtown.com/) - Kongsberg (Norway) <a href="https://ndctechtown.com/call-for-papers"><img alt="CFP NCD TechTown" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2023&color=red"></a>
+* 19: [Salon de la Data Nantes](https://salondata.fr/index.php/le-salon/) - Nantes (France) & Online
 * 19-20: [Agile en Seine](https://www.agileenseine.com/) - Paris (France) <a href="https://sessionize.com/agile-en-seine-2023/"><img alt="CFP Agile en Seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2023&color=red"></a>
 * 19-21: [The Linux Foundation Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) - Bilbao (Spain) & Online
-* 19: [Salon de la Data Nantes](https://salondata.fr/index.php/le-salon/) - Nantes (France) & Online
+* 20: [Google Cloud Summit Nordics](https://cloudonair.withgoogle.com/events/summit-stockholm-2023) - Stockholm (Sweden)
+* 21: [Innovators Hive at Google Cloud Summit Nordics](https://cloudonair.withgoogle.com/events/summit-innovatorshive-connect-stockholm-2023) - Stockholm (Sweden)
 * 21: [Serverless Days Cardiff](https://cardiff.serverlessdays.io/) - Cardiff (Wales) <a href="https://www.papercall.io/serverlessdayscwl2023"><img alt="CFP Serverless Days Cardiff" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2023&color=red"></a>
 * 21: [Inclusive Design 24](https://inclusivedesign24.org/2023/) - Online <a href="https://docs.google.com/forms/d/1yzqAAGtQhxgEDqS2WZeHYPuF9h3TTiEl8NWtht0GWy0/viewform?edit_requested=true"><img alt="CFP Inclusive Design 24" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-June-2023&color=red"></a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 21-22: [API Platform Conference](https://api-platform.com/con/2023) - Lille (France) & Online
