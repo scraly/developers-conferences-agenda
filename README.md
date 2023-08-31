@@ -55,7 +55,7 @@ All the data (past and coming) is available publicly in JSON:
 * 24-26: [PyconLatam 2023](https://www.pylatam.org/) - Monterrey (Mexico) <a href="https://www.pylatam.org/en/speaking/"><img alt="CFP PyconLatam 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-May-2023&color=red"></a>
 * 24-26: [WordCamp US](https://us.wordcamp.org/2023/) - National Harbor, Maryland (USA) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 28-01/09: [VLDB Very Large Database](https://vldb.org/2023/) - Vancouver (Canada)
-* 28-01/09: [Copenhagen Developers Festival](https://cphdevfest.com/) - Copenhagen (Denmark)
+* 28-01/09: [NDC Copenhagen / Copenhagen Developers Festival](https://cphdevfest.com/) - Copenhagen (Denmark)
 * 31-01/09: [Front Conference Zurich](https://frontconference.com/) - Zurich (Switzerland)
 
 ### September
@@ -253,6 +253,7 @@ All the data (past and coming) is available publicly in JSON:
 
 ### January
 
+* 8-11: [NDC Security](https://ndc-security.com/) - Oslo (Norway)
 * 20: [Voxxed Days Ticino](https://voxxeddays.com/ticino/) - Lugano (Switzerland)
 * 24-25: [KCD Oslo](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024/) - Oslo (Norway)
 * 29-02/02: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://ndclondon.com/call-for-papers"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=green"></a>
@@ -261,6 +262,7 @@ All the data (past and coming) is available publicly in JSON:
 ### February
 
 * 5-7: [Jfokus](https://www.jfokus.se) - Stockholm (Sweden) <a href="https://www.jfokus.se/iamahero"><img alt="CFP JFokus" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=green"></a>
+* 12-16: [NDC Sydney](https://ndcsydney.com/?_ga=2.199101292.2100444823.1693508878-1997345717.1693508878) - sydney (Australia)
 * 21-23: [DeveloperWeek](https://www.developerweek.com) - San Francisco (USA) 
 * 29-1: [DEVWORLD CONFERENCE 2024](https://devworldconference.com/) - Amsterdam (Netherlands) <a href="https://docs.google.com/forms/d/e/1FAIpQLSePbiKSSOLKQOJqG65ifQ0KtY1dsqPqA7N0pu9QY1bK1-ciDQ/viewform"><img alt="CFP DevWorld Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=green"></a>
 
@@ -290,6 +292,7 @@ All the data (past and coming) is available publicly in JSON:
 
 * 1-2: [T-DOSE](https://t-dose.org/2024/) - Geldrop (The Netherlands)
 * 6-7: [DevFest Lille](https://devfest.gdglille.org/) - Lille (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+* 10-14: [NDC Oslo](https://ndcoslo.com/) - Oslo (Norway)
 * 12-14: [RenderATL](https://www.renderatl.com/) - Atlanta, GA (USA)
 * 20-21: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Grand-Duchy of Luxembourg (Luxembourg)
 
