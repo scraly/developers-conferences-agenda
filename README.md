@@ -56,6 +56,7 @@ All the data (past and coming) is available publicly in JSON:
 * 24-26: [WordCamp US](https://us.wordcamp.org/2023/) - National Harbor, Maryland (USA) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 28-01/09: [VLDB Very Large Database](https://vldb.org/2023/) - Vancouver (Canada)
 * 28-01/09: [Copenhagen Developers Festival](https://cphdevfest.com/) - Copenhagen (Denmark)
+* 31-01/09: [Front Conference Zurich](https://frontconference.com/) - Zurich (Switzerland)
 
 ### September
 
