@@ -259,7 +259,7 @@ All the data (past and coming) is available publicly in JSON:
 
 ### February
 
-* 5-7: [Jfokus](https://www.jfokus.se) - Stockholm (Sweden)
+* 5-7: [Jfokus](https://www.jfokus.se) - Stockholm (Sweden) <a href="https://www.jfokus.se/iamahero"><img alt="CFP JFokus" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=green"></a>
 * 21-23: [DeveloperWeek](https://www.developerweek.com) - San Francisco (USA) 
 * 29-1: [DEVWORLD CONFERENCE 2024](https://devworldconference.com/) - Amsterdam (Netherlands) <a href="https://docs.google.com/forms/d/e/1FAIpQLSePbiKSSOLKQOJqG65ifQ0KtY1dsqPqA7N0pu9QY1bK1-ciDQ/viewform"><img alt="CFP DevWorld Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=green"></a>
 
