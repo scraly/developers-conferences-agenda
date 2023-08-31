@@ -55,7 +55,7 @@ All the data (past and coming) is available publicly in JSON:
 * 24-26: [PyconLatam 2023](https://www.pylatam.org/) - Monterrey (Mexico) <a href="https://www.pylatam.org/en/speaking/"><img alt="CFP PyconLatam 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-May-2023&color=red"></a>
 * 24-26: [WordCamp US](https://us.wordcamp.org/2023/) - National Harbor, Maryland (USA) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 28-01/09: [VLDB Very Large Database](https://vldb.org/2023/) - Vancouver (Canada)
-* 28-01/09: [NDC Copenhagen](https://cphdevfest.com/) - Copenhagen (Denmark)
+* 28-01/09: [Copenhagen Developers Festival](https://cphdevfest.com/) - Copenhagen (Denmark)
 
 ### September
 
