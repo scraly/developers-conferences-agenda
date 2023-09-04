@@ -36,28 +36,6 @@ All the data (past and coming) is available publicly in JSON:
 
 ## 2023
 
-### August
-
-* 4-5: [CppIndiaCon 2023](https://www.cppindia.co.in/conference/2023/conference_home/) - Online
-* 4-5: [Beer City Code](https://www.beercitycode.com/) - Grand Rapids, Michigan (USA) <a href="https://sessionize.com/beer-city-code-2023/"><img alt="Beer City Code" src="https://img.shields.io/static/v1?label=CFP&message=from%203-february-2023%20to%2015-april-2023&color=red"></a>
-* 9-10: [DevOpsDays Chicago](https://devopsdays.org/chicago) - Chicago (USA)
-* 10-13: [DefCon](https://defcon.org/) - Las Vegas (USA)
-* 14-18: [Perl and Koha Conference](https://perlkohacon.fi/) - Helsinki (Finland) <a href="https://perlkohacon.fi/Call-For-Talks-Perl-Koha-Helsinki-August-2023.html"><img alt="CFP PerlKohaCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2023&color=red"></a>
-* 16-18: [GopherCon UK 2023](https://www.gophercon.co.uk) - London (UK)
-* 15-16: [DeveloperWeek Cloud](https://www.developerweek.com/global/conference/cloud/) - San Francisco (USA) <a href="https://www.developerweek.com/global/conference/cloud/apply-to-speak/"><img alt="DeveloperWeek Cloud 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-april-2023&color=red"></a>
-* 21-24: [SpringOne](https://springone.io/) - Las Vegas, NV (USA)
-* 21-25: [HITBSecConf2023](https://conference.hitb.org/hitbsecconf2023hkt/) - Phuket (Thailand)
-* 22: [KCD Australia](https://community.cncf.io/events/details/cncf-kcd-australia-presents-kubernetes-community-day-australia-2023/) - Sydney (Australia)
-* 22: [Samsung Security Tech Forum 2023](https://research.samsung.com/sstf) - Seoul (South Korea)
-* 22-23: [DeveloperWeek Cloud](https://www.developerweek.com/global/conference/cloud/) - Online <a href="https://www.developerweek.com/global/conference/cloud/apply-to-speak/"><img alt="DeveloperWeek Cloud 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-april-2023&color=red"></a>
-* 22-24: [Testμ 2023](https://www.lambdatest.com/testmuconf-2023/) - Online 
-* 24: [Conf42: Rustlang 2023](https://www.conf42.com/rustlang2023) - Online
-* 24-26: [PyconLatam 2023](https://www.pylatam.org/) - Monterrey (Mexico) <a href="https://www.pylatam.org/en/speaking/"><img alt="CFP PyconLatam 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-May-2023&color=red"></a>
-* 24-26: [WordCamp US](https://us.wordcamp.org/2023/) - National Harbor, Maryland (USA) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
-* 28-01/09: [VLDB Very Large Database](https://vldb.org/2023/) - Vancouver (Canada)
-* 28-01/09: [NDC Copenhagen / Copenhagen Developers Festival](https://cphdevfest.com/) - Copenhagen (Denmark)
-* 31-01/09: [Front Conference Zurich](https://frontconference.com/) - Zurich (Switzerland)
-
 ### September
 
 * 2-3: [SRE France SummerCamp](https://summercamp.srefrance.org) - Chambéry (France) <a href="https://summercamp.srefrance.org/cfp/"><img alt="CFP sre-france-summercamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-August-2023&color=red"></a>
