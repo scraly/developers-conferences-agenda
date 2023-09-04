@@ -261,6 +261,7 @@ All the data (past and coming) is available publicly in JSON:
   
 ### February
 
+* 3-4: [FOSDEM](https://fosdem.org/2024/) - Brussels (Belgium)
 * 5-7: [Jfokus](https://www.jfokus.se) - Stockholm (Sweden) <a href="https://www.jfokus.se/iamahero"><img alt="CFP JFokus" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=green"></a>
 * 12-16: [NDC Sydney](https://ndcsydney.com/?_ga=2.199101292.2100444823.1693508878-1997345717.1693508878) - sydney (Australia)
 * 21-23: [DeveloperWeek](https://www.developerweek.com) - San Francisco (USA) 
@@ -297,4 +298,9 @@ All the data (past and coming) is available publicly in JSON:
 * 20-21: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Grand-Duchy of Luxembourg (Luxembourg)
 
 ### July
+
 * 25-27: [The Bitcoin Conference 2024](https://b.tc/conference) - Nashville, Tennessee (USA)
+
+### August
+
+* 26-30: [NDC Copenhaguen Developer Festival](https://cphdevfest.com/) - Copenhaguen (Denmark)
