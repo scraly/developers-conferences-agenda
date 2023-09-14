@@ -152,7 +152,7 @@ All the data (past and coming) is available publicly in JSON:
 * 28: [BiznagaFest](https://biznagafest.com/) - Malaga (Spain)
 * 28: [DevFest Mauritius 2023](https://gdg.community.dev/events/details/google-gdg-mauritius-presents-devfest-mauritius-2023/) - Moka (Mauritius) <a href="https://sessionize.com/google-devfest-2023-mauritius/"><img alt="CFP DevFest Mauritius 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=green"></a>
 * 30-31: [DEVOPSDAYS TEL AVIV](https://tlvcommunity.dev/devopsdays) - Tel Aviv (Israel)
-* 30-31: [Asynconf Event](https://www.asynconf.fr/) - Paris (France) + Online
+* 30-31: [Asynconf Event](https://www.asynconf.fr/) - Paris (France) & Online
 
 ### November
 
