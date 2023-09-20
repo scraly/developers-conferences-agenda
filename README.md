@@ -189,6 +189,7 @@ All the data (past and coming) is available publicly in JSON:
 * 14: [Data Community Conference](https://www.data-community.ch/) - Bern (Swiss)
 * 14: [KCD Denmark](https://kcddenmark.dk/) - Brabrand (Denmark) <a href="https://kcd.smapply.io/prog/cfp_for_kcd_denmark_2023/"><img alt="KCD Denmark 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2023&color=red"></a>
 * 15: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/public/event/I0SQmndJ7vrnWeBdEuTQ"><img alt="CFP DevFest Strasbourg 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2023&color=red"></a>
+* 15: [HalfStack London](https://halfstackconf.com/london/) - London (UK) <a href="https://halfstackconf.com/cfp/"><img alt="CfP HalfStack" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=green"></a>
 * 16: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://devfesttoulouse.fr/#le-cfp"><img alt="CFP DevFest Toulouse 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2023&color=red"></a>
 * 16: [Conf42: Javascript 2023](https://www.conf42.com/js2023) - Online
 * 16-19: [PHPCon Poland](https://2023.phpcon.pl/en/) - Zawiercie (Poland)
@@ -201,6 +202,7 @@ All the data (past and coming) is available publicly in JSON:
 * 23: [DevOps D-Day #8](https://www.devopsdday.com/) - Marseille (France) <a href="https://hopscotch.key4events.com/abstract.aspx?e=321&c=2683"><img alt="CFP DevOps D-Day #8" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-July-2023&color=red"></a>
 * 23: [Agile Grenoble](https://agile-grenoble.org/) - Grenoble (France) <a href="https://sessionize.com/agile-grenoble-2023/"><img alt="CFP Agile Grenoble" src="https://img.shields.io/static/v1?label=CFP&message=until%202-July-2023&color=red"></a>
 * 25-26: [GambiConf](https://gambiconf.dev/) - São Paulo (Brazil) <a href="https://gambiconf.dev/cfp"><img alt="CFP GambiConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-August-2023&color=red"></a>
+* 28: [HalfStack Tel Aviv](https://halfstackconf.com/telaviv/) - Tel Aviv (Israel) <a href="https://halfstackconf.com/cfp/"><img alt="CfP HalfStack" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-October-2023&color=green"></a>
 * 30: [Conf42: DevSecOps 2023](https://www.conf42.com/js2023) - Online
 * 30: [PrestaShop Developer Conference](https://events.prestashop.com/prestashop-developer-conference) - Paris (France) <a href="https://hopscotch.key4events.com/abstract.aspx?e=321&c=2683"><img alt="CFP PrestaShop Developer Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2023&color=green"></a>
 * 30: [WHO run the Tech](https://whorunthetech.com/) - Rennes (France) <a href="https://conference-hall.io/public/event/Pe62MIv1mSH9KF7nDGRA"><img alt="CFP Who Run The Tech #8" src="https://img.shields.io/static/v1?label=CFP&message=until%207-September-2023&color=red"></a>
@@ -241,6 +243,7 @@ All the data (past and coming) is available publicly in JSON:
   
 ### February
 
+* 2: [HalfStack Phoenix](https://halfstackconf.com/phoenix/) - Phoenix (USA) <a href="https://halfstackconf.com/cfp/"><img alt="CfP HalfStack" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-January-2024&color=green"></a>
 * 3-4: [FOSDEM](https://fosdem.org/2024/) - Brussels (Belgium)
 * 5-7: [Jfokus](https://www.jfokus.se) - Stockholm (Sweden) <a href="https://www.jfokus.se/iamahero"><img alt="CFP JFokus" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=green"></a>
 * 12-16: [NDC Sydney](https://ndcsydney.com/?_ga=2.199101292.2100444823.1693508878-1997345717.1693508878) - Sydney (Australia)
