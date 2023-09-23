@@ -288,3 +288,7 @@ All the data (past and coming) is available publicly in JSON:
 ### August
 
 * 26-30: [NDC Copenhaguen Developer Festival](https://cphdevfest.com/) - Copenhaguen (Denmark)
+
+### September
+
+* 19-20: [API Platform Conference](https://api-platform.com/con/) - Lille (France) & Online 
