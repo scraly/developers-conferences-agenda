@@ -1,0 +1,9 @@
+{
+  "name": "tools",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "feed": "^4.2.2"
+  }
+}
