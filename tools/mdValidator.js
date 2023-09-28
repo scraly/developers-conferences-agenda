@@ -76,3 +76,7 @@ const warnings = confLines.filter(line => !line.content.match(confValidationPatt
 
 console.warn(`${warnings.length} conferences with wrong format entries found`)
 console.warn(warnings)
+
+if(warnings.length > 1) {
+    process.exit(1)
+}
