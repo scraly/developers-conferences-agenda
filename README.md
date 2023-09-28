@@ -265,6 +265,7 @@ All the data (past and coming) is available publicly in JSON:
 
 * 8-10: [QCon London](https://qconlondon.com/) - London (UK)
 * 17-19: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
+* 19-20: [Commit Conf](https://2024.commit-conf.com/) - Madrid (Spain) <a href="https://koliseo.com/commit/2024/sessions"><img alt="CFP Commit Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=green"></a>
 * 23-26: [Great International Developer Summit (GIDS)](https://developersummit.com/) - Bengaluru, Karnataka (India) <a href="https://form.jotform.com/developersummit/gids-2024-call-for-proposals"><img alt="CFP GIDS 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Oct-2023&color=green"></a>
 * 25-26: [MiXiT](https://mixitconf.org/fr/) - Lyon (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 25-26: [Android Makers](https://androidmakers.droidcon.com/) - Paris (France)
