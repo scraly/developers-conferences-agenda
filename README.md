@@ -210,7 +210,7 @@ All the data (past and coming) is available publicly in JSON:
 
 ### December
 
-* 1: [KCD Utrecht 2023](https://kcdutrecht.nl/) - Utrecht (The Netherlands) <a href="https://forms.gle/JyrTeEJuk2PVAT7d9"><img alt="KCD Utrecht" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-October-2023&color=red"></a>
+* 1: [KCD Utrecht 2023](https://kcdutrecht.nl/) - Utrecht (The Netherlands) <a href="https://forms.gle/JyrTeEJuk2PVAT7d9"><img alt="KCD Utrecht" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-October-2023&color=green"></a>
 * 1-3: [Africa Bitcoin Conference 2023](https://afrobitcoin.org) - Accra (Ghana)
 * 1-3: [PyLadiesCon](https://pyladies.com/blog/Announcement-CFP-Launch/cfp-launch-announcement/) - Online <a href="https://pretalx.com/pyladiescon-2023/cfp"><img alt="CFP PyLadiesCon 23" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-September-2023&color=red"></a>
 * 1-3: [GNOME.Asia Summit 2023](https://events.gnome.org/event/170/) - Kathmandu (Nepal) <a href="https://events.gnome.org/event/170/abstracts/"><img alt="GNOME.Asia Summit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%201-September-2023&color=red"></a>
