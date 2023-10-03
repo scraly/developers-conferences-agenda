@@ -253,6 +253,7 @@ All the data (past and coming) is available publicly in JSON:
 
 * 1-31/03: [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Online <a href="https://sessionize.com/90daysofdevops-2024-community-edition/"><img alt="CFP 90DaysOfDevOps" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2023&color=green"></a>
 * 8-11: [NDC Security](https://ndc-security.com/) - Oslo (Norway)
+* 19-20: [Touraine Tech](https://touraine.tech/)
 * 20: [Voxxed Days Ticino](https://voxxeddays.com/ticino/) - Lugano (Switzerland)
 * 24-25: [KCD Oslo](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024/) - Oslo (Norway)
 * 29-02/02: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://ndclondon.com/call-for-papers"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
