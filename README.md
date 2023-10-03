@@ -6,7 +6,7 @@ As conference organizers, one of the first question we ask ourselves is what wil
 
 One piece of data to take into account is the date of other events, but how do you find it?
 
-And as a developer and a technical lover, it is handy to have a calendar to look at to know when will be the next event.
+As a developer and a technical lover, it is handy to have a calendar to look at to know when will be the next event.
 
 I propose this GitHub repository to list all the conferences for developers in France, Europe and the world.
 
