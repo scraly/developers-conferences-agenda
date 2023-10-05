@@ -254,7 +254,8 @@ All the data (past and coming) are available publicly in JSON:
 
 * 1-31/03: [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Online <a href="https://sessionize.com/90daysofdevops-2024-community-edition/"><img alt="CFP 90DaysOfDevOps" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2023&color=green"></a>
 * 8-11: [NDC Security](https://ndc-security.com/) - Oslo (Norway)
-* 20: [Voxxed Days Ticino](https://voxxeddays.com/ticino/) - Lugano (Switzerland)
+* 19: [Voxxed Days Ticino](https://voxxeddays.com/ticino/) - Lugano (Switzerland) <a href="https://vdt24.cfp.dev/#/login"><img alt="CFP Voxxed Days Ticino" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=green"></a>
+* 22-23: [Voxxed Days CERN](https://cern.voxxeddays.com/) - Geneva (Switzerland) <a href="https://vdcern24.cfp.dev/#/login"><img alt="CFP Voxxed Days CERN" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2023&color=green"></a>
 * 24-25: [KCD Oslo](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024/) - Oslo (Norway)
 * 29-02/02: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://ndclondon.com/call-for-papers"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
 * 31-03/02: [SnowCamp](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/organizer/event/Bq5k5rbMXGynAls6PjRB"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=green"></a>
