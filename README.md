@@ -2,23 +2,23 @@
 
 This repository lists a maximum of conference dates to help conference organizers.
 
-As a conference organizer, we always ask ourselves what will be the ideal date for the event?
+As conference organizers, one of the first question we ask ourselves is what will be the ideal date for our event.
 
 One piece of data to take into account is the date of other events, but how do you find it?
 
-And as a developer, a technical lover, we want to have a calendar, we want to know when will be the next event.
+As a developer and a technical lover, it is handy to have a calendar to look at to know when will be the next event.
 
-I propose you this GitHub repository in order to list all the conferences for developers in France, Europe and the world.
+I propose this GitHub repository to list all the conferences for developers in France, Europe and the world.
 
-You want to contribute, add an event or your event? Perfect! Just do a [Pull Request (PR)](https://github.com/scraly/developers-conferences-agenda/pulls) in order to update this developers conferences agenda.
-If everybody contribute to this repo, it can really help conferences organizer and another goal of this idea is to list a maximum of conferences for developers.
+Do you want to contribute, add an event or your event? Perfect! You can follow the [CONTRIBUTING.md](CONTRIBUTING.md) and just open a [Pull Request (PR)](https://github.com/scraly/developers-conferences-agenda/pulls) to update the developers conferences agenda.
+If everybody contributes to this repo, it can help conference organizers but not only. Another goal of this initiative is to list the maximum of conferences for developers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
 
-This tech conferences agenda list can be seen in https://developers.events/.
+This tech conference agenda list can be seen at https://developers.events/.
 
-All the data (past and coming) is available publicly in JSON: 
-- conferences : https://developers.events/all-events.json
-- CFPs : https://developers.events/all-cfps.json
+All the data (past and coming) are available publicly in JSON: 
+- conferences: https://developers.events/all-events.json
+- CFPs: https://developers.events/all-cfps.json
 
 ## Gitpod integration
 
