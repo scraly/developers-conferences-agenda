@@ -19,14 +19,22 @@ const f = new feed.Feed({
 });
 
 events = JSON.parse(fs.readFileSync('../page/src/misc/all-events.json'), 'utf-8');
-events.forEach(event => {
+let now = new Date(today)
+events.forEach((event, idx) => {
+  now = new Date(now.getTime() + 1000)
   f.addItem({
     title: event.name,
-    id: event.hyperlink,
-    link: event.hyperlink,
+    author: [
+        {
+            name: 'developers.events',
+            link: 'https://github.com/scraly/developers-conferences-agenda'
+        }
+    ],
+    id: encodeURI(decodeURI(event.hyperlink)) + '/' + idx,
+    link: encodeURI(decodeURI(event.hyperlink)),
     description: event.name,
     content: event.name + " @ " + event.location + " - " + new Date(event.date[0]),
-    date: new Date(today),
+    date: now,
   })
 })
 
