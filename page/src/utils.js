@@ -63,7 +63,7 @@ export const getMonthName = month =>
 export const filterEvents = (events, callForPapers, query) => {
   let result = events;
   if (callForPapers) {
-    result = events.filter(e => Object.values(e.cfp).length > 0);
+    result = events.filter(e => e.cfp && new Date(e.cfp.untilDate) > new Date());
   }
 
   if (query) {
