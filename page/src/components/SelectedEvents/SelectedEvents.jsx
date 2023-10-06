@@ -3,12 +3,12 @@ import {useMemo, useRef, useState} from 'react';
 import 'styles/SelectedEvents.css';
 import EventDisplay from '../EventDisplay/EventDisplay';
 import EventCount from '../EventCount/EventCount'
-import {formatDate, getMonthName} from '../../utils';
+import {filterEvents, formatDate, getMonthName} from '../../utils';
 import {useCustomContext} from 'app.context';
 import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
 
 const SelectedEvents = ({year, month, date}) => {
-  const userDispatch = useCustomContext().userDispatch;
+  const {userState, userDispatch} = useCustomContext();
   const [events, setEvents] = useState(null);
   const scrollToRef = useRef();
 
@@ -26,6 +26,9 @@ const SelectedEvents = ({year, month, date}) => {
         events.push(e)
       );
     }
+
+    events = filterEvents(events, userState.filters.callForPapers, userState.filters.query)
+
     events = [...new Map(events.map(item => [item.name, item])).values()];
     setEvents(
       events.length ? (
@@ -37,7 +40,7 @@ const SelectedEvents = ({year, month, date}) => {
     setTimeout(() => {
       scrollToRef.current?.scrollIntoView({behavior: 'smooth'});
     }, 100);
-  }, [year, month, date]);
+  }, [year, month, date, userState.filters]);
 
   let previous = '',
     next = '';

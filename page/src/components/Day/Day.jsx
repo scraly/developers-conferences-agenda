@@ -1,19 +1,22 @@
 import {useCustomContext} from 'app.context';
+import {filterEvents} from 'utils';
 
 const Day = ({date}) => {
-  const userDispatch = useCustomContext().userDispatch;
+  const {userState, userDispatch} = useCustomContext()
   let intensity = '';
   let invisible = 'invisible';
 
-  if (date) {
-    if (
-      window.dev_events &&
+  let events = date && window.dev_events &&
       window.dev_events[date.getFullYear()] &&
       window.dev_events[date.getFullYear()][date.getMonth()] &&
-      window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()]
-    ) {
+      window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()] || []
+
+  events = filterEvents(events, userState.filters.callForPapers, userState.filters.query)
+
+  if (date) {
+    if (events.length > 0) {
       intensity = ` intensity-${Math.min(
-        window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()].length,
+        events.length,
         7
       )}`;
     }

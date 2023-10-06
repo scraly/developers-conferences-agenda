@@ -1,0 +1,23 @@
+.filters {
+    border-right: 1px solid #ccc;
+    padding: 10px;
+    padding-right: 20px;
+}
+
+.filters .filtersItem {
+    margin-bottom: 20px;
+}
+
+.filters .filtersItem input[type=text] {
+    padding: 10px;
+    display: block;
+}
+
+.filters .filtersItem label {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.filters .filtersItem label[for=filter-query] {
+    display: block;
+}
