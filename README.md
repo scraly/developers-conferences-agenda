@@ -190,6 +190,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11: [TestJS Summit](https://testjssummit.com/) - Online
 * 12: [React Day Berlin](https://reactday.berlin/) - Online
 * 12: [KubeDay Singapore](https://events.linuxfoundation.org/kubeday-singapore/) - Singapore (Singapore) <a href="https://events.linuxfoundation.org/kubeday-singapore/program/cfp/"><img alt="CFP KubeDay Singapore" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-September-2023&color=red"></a>
+* 12-13: [AI.dev](https://events.linuxfoundation.org/ai-dev-north-america/) - San Jose (USA)
 * 12-15: [PostgreSQL Conference Europe](https://2023.pgconf.eu/) - Prague (Czechia) <a href="https://www.postgresql.eu/events/pgconfeu2023/callforpapers"><img alt="CFP PGConf EU" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
 * 14: [Conf42: IoT 2023](https://www.conf42.com/iot2023) - Online
 
