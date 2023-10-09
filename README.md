@@ -254,7 +254,7 @@ All the data (past and coming) are available publicly in JSON:
 ### July
 
 * 03-05: [Fluttercon Berlin](https://fluttercon.dev/) - Berlin (Germany)
-* 03-05: [Fluttercon Berlin](https://berlin.droidcon.com/) - Berlin (Germany)
+* 03-05: [DroidCon Berlin](https://berlin.droidcon.com/) - Berlin (Germany)
 * 25-27: [The Bitcoin Conference 2024](https://b.tc/conference) - Nashville, Tennessee (USA)
 
 ### August
