@@ -85,9 +85,11 @@ All the data (past and coming) are available publicly in JSON:
 * 23-25: [FOSS4G North America](https://foss4gna.org/) - Baltimore (USA)
 * 24-25: [Codemotion Milan](https://extra.codemotion.com/conference-milan-2023/) - Milan (Italy) <a href="https://sessionize.com/codemotion-milan-2023/"><img alt="CFP Codemotion Milan 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Jul-2023&color=red"></a>
 * 24-26: [GitKon](https://gitkon.com) - Online
+* 24-26: [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Monterey (USA)
 * 25-26: [DevRelX Summit](https://www.devrelxsummit.com/) - Online <a href="https://devecon.typeform.com/Summit23Speaker"><img alt="CFP DevRelX Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Aug-2023&color=red"></a>
 * 26: [Codeurs en Seine](https://www.codeursenseine.com/2023) - Rouen (France) <a href="https://cfp.codeursenseine.com/"><img alt="CFP Codeurs en Seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Aug-2023&color=red"></a>
 * 26: [NODES 2023](https://neo4j.registration.goldcast.io/events/6fb85147-ca27-4310-9dec-cb345c53bd6f) - Online
+* 26: [NextJS Conf](https://nextjs.org/conf) - San Francisco (USA) & Online
 * 25-27: [KubeCon + CloudNativeCon + Open Source Summit China 2023](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/) - Shangai (China) <a href="https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/program/call-for-proposals/"><img alt="CFP KubeCon China 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2023&color=red"></a>
 * 26-27: [Agile Tour Bordeaux](https://agiletourbordeaux.fr/) - Bordeaux (France) <a href="https://sessionize.com/agile-tour-bordeaux-2023/"><img alt="CFP Agile Tour Bordeaux 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2023&color=red"></a>
 * 26-27: [Droidcon London](https://london.droidcon.com/) - London (UK) <a href="https://sessionize.com/droidcon-london-2023/"><img alt="CFP Droidcon London 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2023&color=red"></a>
@@ -189,6 +191,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11: [TestJS Summit](https://testjssummit.com/) - Online
 * 12: [React Day Berlin](https://reactday.berlin/) - Online
 * 12: [KubeDay Singapore](https://events.linuxfoundation.org/kubeday-singapore/) - Singapore (Singapore) <a href="https://events.linuxfoundation.org/kubeday-singapore/program/cfp/"><img alt="CFP KubeDay Singapore" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-September-2023&color=red"></a>
+* 12-13: [AI.dev](https://events.linuxfoundation.org/ai-dev-north-america/) - San Jose (USA)
 * 12-15: [PostgreSQL Conference Europe](https://2023.pgconf.eu/) - Prague (Czechia) <a href="https://www.postgresql.eu/events/pgconfeu2023/callforpapers"><img alt="CFP PGConf EU" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
 * 14: [Conf42: IoT 2023](https://www.conf42.com/iot2023) - Online
 
@@ -206,11 +209,12 @@ All the data (past and coming) are available publicly in JSON:
   
 ### February
 
+* 1: [AgiLeMans](https://agilemans.org/) - Le Mans (France) <a href="https://sessionize.com/8ieme-journee-agile-au-mans-france/"><img alt="CfP AgiLeMans" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-December-2023&color=green"></a>
 * 2: [HalfStack Phoenix](https://halfstackconf.com/phoenix/) - Phoenix (USA) <a href="https://halfstackconf.com/cfp/"><img alt="CfP HalfStack" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-January-2024&color=green"></a>
 * 3-4: [FOSDEM](https://fosdem.org/2024/) - Brussels (Belgium)
 * 5-7: [Jfokus](https://www.jfokus.se) - Stockholm (Sweden) <a href="https://www.jfokus.se/iamahero"><img alt="CFP JFokus" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=green"></a>
 * 12-16: [NDC Sydney](https://ndcsydney.com/?_ga=2.199101292.2100444823.1693508878-1997345717.1693508878) - Sydney (Australia)
-* 15-16: [Touraine Tech](https://touraine.tech/) - Tours (France)
+* 15-16: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/J2VpXPXWngD69u0nrA3R"><img alt="CFP Touraine Tech" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=green"></a>
 * 20-21: [Civo Navigate North America](https://www.civo.com/navigate/north-america) - Austin, TX (USA) <a href="https://sessionize.com/civo-navigate-austin"><img alt="CFP Civo Navigate NA 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2023&color=red"></a>
 * 21-23: [DeveloperWeek](https://www.developerweek.com) - San Francisco (USA) 
 * 29-1: [DEVWORLD CONFERENCE 2024](https://devworldconference.com/) - Amsterdam (Netherlands) <a href="https://docs.google.com/forms/d/e/1FAIpQLSePbiKSSOLKQOJqG65ifQ0KtY1dsqPqA7N0pu9QY1bK1-ciDQ/viewform"><img alt="CFP DevWorld Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=red"></a>
@@ -218,6 +222,7 @@ All the data (past and coming) are available publicly in JSON:
 ### March
 
 * 6-7: [FlowCon 2024](https://my.weezevent.com/flowcon-2024) - Paris (France)
+* 14-15: [pgDayParis](https://2024.pgday.paris/) - Paris (France)
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)
 * 18-21: [GTC 2024](https://www.nvidia.com/gtc/) - San Jose (USA) & Online <a href="https://www.nvidia.com/gtc/call-for-submissions/"><img alt="CFP GTC" src="https://img.shields.io/static/v1?label=CFP&message=until%208-September-2023&color=red"></a>
 * 19-22: [KubeCon + CloudNativeCon Europe 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2024/) - Paris (France)  <a href="https://sessionize.com/kubecon-cloudnativecon-europe-2024/"><img alt="CFP Kubecon EU" src="https://img.shields.io/static/v1?label=CFP&message=18-Sep-2023%20to%2026-Nov-2023&color=green"> </a>
@@ -226,6 +231,7 @@ All the data (past and coming) are available publicly in JSON:
 ### April
 
 * 8-10: [QCon London](https://qconlondon.com/) - London (UK)
+* 11-12: [JSDay](https://2024.jsday.it/) - Verona (Italy) <a href="https://2024.jsday.it/welcome/cfp.html"><img alt="CFP JSDay IT" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2023&color=green"></a>
 * 17-19: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 * 19-20: [Commit Conf](https://2024.commit-conf.com/) - Madrid (Spain) <a href="https://koliseo.com/commit/2024/sessions"><img alt="CFP Commit Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=green"></a>
 * 23-26: [Great International Developer Summit (GIDS)](https://developersummit.com/) - Bengaluru, Karnataka (India) <a href="https://form.jotform.com/developersummit/gids-2024-call-for-proposals"><img alt="CFP GIDS 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Oct-2023&color=green"></a>
@@ -235,6 +241,7 @@ All the data (past and coming) are available publicly in JSON:
 ### May
 
 * 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
+* 15-17: [DevSum 2024](https://devsum.se/) - Stockholm (Sweden) <a href="https://www.devsum.se/call-for-paper"><img alt="CFP DevSum 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%203-December-2023&color=green"></a>
 * 20-21: [DevOps Pro Europe 2024](https://devopspro.lt/) - Online
 * 23-24: [DevOps Pro Europe 2024](https://devopspro.lt/) - Vilnius (Lithuania)
 * 27-31: [Domain-Driven Design Europe 2024](https://2024.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://2024.dddeurope.com/cfp/"><img alt="CFP DDD Europe 2024 conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Feb-2024&color=green"></a>
@@ -249,6 +256,8 @@ All the data (past and coming) are available publicly in JSON:
 
 ### July
 
+* 03-05: [Fluttercon Berlin](https://fluttercon.dev/) - Berlin (Germany)
+* 03-05: [DroidCon Berlin](https://berlin.droidcon.com/) - Berlin (Germany)
 * 25-27: [The Bitcoin Conference 2024](https://b.tc/conference) - Nashville, Tennessee (USA)
 
 ### August
