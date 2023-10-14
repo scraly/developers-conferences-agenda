@@ -268,4 +268,8 @@ All the data (past and coming) are available publicly in JSON:
 
 ### September
 
-* 19-20: [API Platform Conference](https://api-platform.com/con/) - Lille (France) & Online 
+* 19-20: [API Platform Conference](https://api-platform.com/con/) - Lille (France) & Online
+
+### October
+
+* 7-11: [Devoxx Belgium](https://devoxx.com/#/) - Antwerp (Belgium)
