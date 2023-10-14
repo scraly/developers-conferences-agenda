@@ -26,7 +26,12 @@ const App = () => {
     <CustomContext.Provider value={providerState}>
       <h1 className="dcaTitle">Developer Conferences Agenda</h1>
       <div className='dcaGrid'>
-        <Filters query={userState.filters.query} callForPapers={userState.filters.callForPapers} onChange={(key, value) => userDispatch({type: 'setFilters', payload: {...userState.filters, [key]: value}})}/>
+        <Filters
+          query={userState.filters.query}
+          callForPapers={userState.filters.callForPapers}
+          onChange={(key, value) => userDispatch({type: 'setFilters', payload: {...userState.filters, [key]: value}})}
+          onClose={() => userDispatch({type: 'setFilters', payload: {callForPapers: false, query: ''}})}
+        />
         <div className='dcaContent'>
           <YearSelector
             year={selectedYear}

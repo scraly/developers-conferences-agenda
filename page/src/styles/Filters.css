@@ -2,14 +2,43 @@
     border-right: 1px solid #ccc;
     padding: 10px;
     padding-right: 20px;
+    overflow: hidden;
+    transition: width 1s, border-color 1s;
+}
+
+.filters .lucide-filter, .filters .lucide-filter-x {
+    cursor: pointer;
+}
+
+.filters.open {
+    width: 400px;
+    border-color: #cccccc;
+}
+
+.filters.closed {
+    width: 10px;
+    border-color: #cccccc00;
+}
+
+.filters.closed .filtersItem {
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.filters.open .filtersItem {
+    opacity: 1;
+    transition: opacity 1s;
 }
 
 .filters .filtersItem {
     margin-bottom: 20px;
+    overflow: hidden;
+    white-space: nowrap;
 }
 
 .filters .filtersItem input[type=text] {
     padding: 10px;
+    max-width: 180px;
     display: block;
 }
 
