@@ -250,6 +250,7 @@ All the data (past and coming) are available publicly in JSON:
 ### June
 
 * 1-2: [T-DOSE](https://t-dose.org/2024/) - Geldrop (The Netherlands)
+* 5-11: [DjangoCon Europe](https://2024.djangocon.eu/) - Vigo (Spain)
 * 6-7: [DevFest Lille](https://devfest.gdglille.org/) - Lille (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 10-14: [NDC Oslo](https://ndcoslo.com/) - Oslo (Norway)
 * 12-14: [RenderATL](https://www.renderatl.com/) - Atlanta, GA (USA)
