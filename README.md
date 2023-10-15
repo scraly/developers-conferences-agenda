@@ -251,6 +251,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-11: [JavaLand](https://www.javaland.eu/en/home/) - Nürburgring (Germany)
 * 11-12: [JSDay](https://2024.jsday.it/) - Verona (Italy) <a href="https://2024.jsday.it/welcome/cfp.html"><img alt="CFP JSDay IT" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2023&color=green"></a>
 * 17-19: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
+* 18-20: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece)
 * 18-20: [Dotnetdays](https://dotnetdays.ro/) - Iasi (Romania)
 * 19-20: [Commit Conf](https://2024.commit-conf.com/) - Madrid (Spain) <a href="https://koliseo.com/commit/2024/sessions"><img alt="CFP Commit Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=green"></a>
 * 23-26: [Great International Developer Summit (GIDS)](https://developersummit.com/) - Bengaluru, Karnataka (India) <a href="https://form.jotform.com/developersummit/gids-2024-call-for-proposals"><img alt="CFP GIDS 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Oct-2023&color=green"></a>
