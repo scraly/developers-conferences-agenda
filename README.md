@@ -217,6 +217,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19: [Voxxed Days Ticino](https://voxxeddays.com/ticino/) - Lugano (Switzerland) <a href="https://vdt24.cfp.dev/#/login"><img alt="CFP Voxxed Days Ticino" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=green"></a>
 * 22-23: [Voxxed Days CERN](https://cern.voxxeddays.com/) - Geneva (Switzerland) <a href="https://vdcern24.cfp.dev/#/login"><img alt="CFP Voxxed Days CERN" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2023&color=green"></a>
 * 24-25: [KCD Oslo](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024/) - Oslo (Norway)
+* 25: [Conf42: DevOps](https://www.conf42.com/devops2024) - Online
 * 29-02/02: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://ndclondon.com/call-for-papers"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
 * 31-03/02: [SnowCamp](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/organizer/event/Bq5k5rbMXGynAls6PjRB"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=green"></a>
   
@@ -235,6 +236,7 @@ All the data (past and coming) are available publicly in JSON:
 ### March
 
 * 6-7: [FlowCon 2024](https://my.weezevent.com/flowcon-2024) - Paris (France)
+* 6-7: [Scan Agile](https://www.scan-agile.org/) - Helsinki (Finland)
 * 12-15: [Explore DDD](http://exploreddd.com/) - Denver (USA)
 * 14-15: [pgDayParis](https://2024.pgday.paris/) - Paris (France)
 * 14-15: [WASM IO](https://2024.wasmio.tech/) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio24"><img alt="CFP WASM IO" src="https://img.shields.io/static/v1?label=CFP&message=until%201-January-2024&color=green"></a>
@@ -263,6 +265,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
 * 15-17: [DevSum 2024](https://devsum.se/) - Stockholm (Sweden) <a href="https://www.devsum.se/call-for-paper"><img alt="CFP DevSum 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%203-December-2023&color=green"></a>
 * 20-21: [DevOps Pro Europe 2024](https://devopspro.lt/) - Online
+* 22-24: [Kotlin Conf](https://kotlinconf.com/) - Copenhagen (Denmark)
 * 23-24: [DevOps Pro Europe 2024](https://devopspro.lt/) - Vilnius (Lithuania)
 * 27-31: [Domain-Driven Design Europe 2024](https://2024.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://2024.dddeurope.com/cfp/"><img alt="CFP DDD Europe 2024 conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Feb-2024&color=green"></a>
 * 30-31: [Craft Conf](https://craft-conf.com/2024) - Budapest (Hungary)
