@@ -225,6 +225,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 6-7: [FlowCon 2024](https://my.weezevent.com/flowcon-2024) - Paris (France)
 * 14-15: [pgDayParis](https://2024.pgday.paris/) - Paris (France)
+* 14-15: [WASM IO](https://2024.wasmio.tech/) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio24"><img alt="CFP WASM IO" src="https://img.shields.io/static/v1?label=CFP&message=until%201-January-2024&color=green"></a>
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)
 * 18-21: [GTC 2024](https://www.nvidia.com/gtc/) - San Jose (USA) & Online <a href="https://www.nvidia.com/gtc/call-for-submissions/"><img alt="CFP GTC" src="https://img.shields.io/static/v1?label=CFP&message=until%208-September-2023&color=red"></a>
 * 19-22: [KubeCon + CloudNativeCon Europe 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2024/) - Paris (France)  <a href="https://sessionize.com/kubecon-cloudnativecon-europe-2024/"><img alt="CFP Kubecon EU" src="https://img.shields.io/static/v1?label=CFP&message=18-Sep-2023%20to%2026-Nov-2023&color=green"> </a>
