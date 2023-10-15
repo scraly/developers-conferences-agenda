@@ -245,6 +245,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 8-10: [QCon London](https://qconlondon.com/) - London (UK)
 * 9-11: [DevNexus](https://devnexus.com/) - Atlanta (USA)
+* 9-11: [JavaLand](https://www.javaland.eu/en/home/) - Nürburgring (Germany)
 * 11-12: [JSDay](https://2024.jsday.it/) - Verona (Italy) <a href="https://2024.jsday.it/welcome/cfp.html"><img alt="CFP JSDay IT" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2023&color=green"></a>
 * 17-19: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 * 19-20: [Commit Conf](https://2024.commit-conf.com/) - Madrid (Spain) <a href="https://koliseo.com/commit/2024/sessions"><img alt="CFP Commit Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=green"></a>
@@ -259,6 +260,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20-21: [DevOps Pro Europe 2024](https://devopspro.lt/) - Online
 * 23-24: [DevOps Pro Europe 2024](https://devopspro.lt/) - Vilnius (Lithuania)
 * 27-31: [Domain-Driven Design Europe 2024](https://2024.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://2024.dddeurope.com/cfp/"><img alt="CFP DDD Europe 2024 conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Feb-2024&color=green"></a>
+* 30-31: [Craft Conf](https://craft-conf.com/2024) - Budapest (Hungary)
 
 ### June
 
