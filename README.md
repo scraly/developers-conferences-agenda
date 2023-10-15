@@ -53,6 +53,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6: [DevopsDays Madrid](https://devopsdays.org/events/2023-madrid/welcome/) - Madrid (Spain)
 * 7: [unKonf](https://unkonf.de/en) - Mannheim (Germany)
 * 7: [DevFest Beirut 2023](https://gdg.community.dev/events/details/google-gdg-coast-lebanon-presents-devfest-beirut-23/) - Beirut (Lebanon) <a href="https://sessionize.com/devfestbeirut23/"><img alt="CFP DevFest Beirut 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-August-2023&color=red"></a>
+* 7: [DevFest Kigali](https://gdg.community.dev/events/details/google-gdg-kigali-presents-devfest-kigali-2023/) - Kigali (Rwanda)
 * 7-8: [UbuCon Asia](https://events.canonical.com/event/13/) - Surakarta (Indonesia) <a href="https://louca.id/post/?title=call-for-paper"><img alt="CFP UbuCon Asia 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2023&color=red"></a>
 * 8-10: [AI Engineer Summit](https://www.ai.engineer/summit) - San Francisco, CA (USA) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVCTSSDPkcIBjJeqZqq1Ox-PWS6cCxzxdZ9BbZ1z5z56C8eA/viewform"><img alt="AI Engineer Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-August-2023&color=red"></a>
 * 9-10: [Intersection Conference](https://www.intersection-conference.eu/) - Torino (Italy)
