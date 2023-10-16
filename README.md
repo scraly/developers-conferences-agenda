@@ -208,6 +208,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14: [Conf42: IoT 2023](https://www.conf42.com/iot2023) - Online
 * 16: [DevFest Yamoussoukro](https://gdg.community.dev/events/details/google-gdg-yamoussoukro-presents-devfest-yamoussoukro-2023/) - Yamoussoukro (Ivory Coast)
 * 16: [DevFest Luanda](https://gdg.community.dev/events/details/google-gdg-luanda-presents-devfest-luanda-2023/) - Luanda (Angola)
+* 16: [DevOpsDays Salvador](https://devopsdays.org/events/2023-salvador/welcome/) - Ondina (Salvador)
 
 ## 2024
 
