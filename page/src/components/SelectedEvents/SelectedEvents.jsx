@@ -1,4 +1,4 @@
-import {useMemo, useRef, useState} from 'react';
+import {useMemo, useRef, useState, useEffect} from 'react';
 
 import 'styles/SelectedEvents.css';
 import EventDisplay from '../EventDisplay/EventDisplay';
@@ -37,10 +37,13 @@ const SelectedEvents = ({year, month, date}) => {
         <p>No event found for that day</p>
       )
     );
+  }, [year, month, date, userState.filters]);
+
+  useEffect(() => {
     setTimeout(() => {
       scrollToRef.current?.scrollIntoView({behavior: 'smooth'});
     }, 100);
-  }, [year, month, date, userState.filters]);
+  }, [date, month, year]);
 
   let previous = '',
     next = '';

@@ -8,11 +8,20 @@ const Filters = ({ query, callForPapers, onChange, onClose }) => {
   const [open, setOpen] = useState(false);
   return (
     <div className={"filters " + (open ? 'open' : 'closed')}>
-      {!open && <Filter onClick={() => setOpen(true)}/>}
-      {open && <FilterX onClick={() => {
-          onClose();
-          setOpen(false);
-      }}/>}
+      <div
+          className='filters-header'
+          onClick={() => {
+              if (open) {
+                  onClose();
+                  setOpen(false);
+                  return;
+              }
+              setOpen(true);
+          }}
+      >
+          {open ? <FilterX/> : <Filter/>}
+          <span className='filters-title'>Filters</span>
+      </div>
 
       <div className='filtersItem'>
         <label for='filter-query'>Search:</label>

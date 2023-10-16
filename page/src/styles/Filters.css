@@ -3,20 +3,47 @@
     padding: 10px;
     padding-right: 20px;
     overflow: hidden;
-    transition: width 1s, border-color 1s;
+    transition: min-width 1s, width 1s, border-color 1s;
+}
+
+.filters-header {
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 5px;
 }
 
 .filters .lucide-filter, .filters .lucide-filter-x {
-    cursor: pointer;
+    opacity: 1;
+    min-width: 24px;
+}
+
+.filters .filters-title {
+    font-weight: 600;
+    font-size: 24px;
+    margin-left: 5px;
+}
+
+.filters.open .filters-title {
+    opacity: 1;
+    transition: opacity 1s;
+}
+
+.filters.closed .filters-title {
+    opacity: 0;
+    transition: opacity 1s;
 }
 
 .filters.open {
-    width: 400px;
+    min-width: 210px;
+    width: 210px;
     border-color: #cccccc;
 }
 
 .filters.closed {
     width: 10px;
+    min-width: 10px;
     border-color: #cccccc00;
 }
 
