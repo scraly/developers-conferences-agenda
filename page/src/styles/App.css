@@ -24,6 +24,19 @@ body {
   cursor: pointer;
 }
 
+.downloadButton:hover{
+  transition: transform 0.5s;
+  transform: scale(1.07);
+  -webkit-transform: scale(1.07);
+  -moz-transform: scale(1.07);
+  -ms-transform: scale(1.07);
+  -o-transform: scale(1.07);
+  -webkit-transition: transform 0.5s;
+  -moz-transition: transform 0.5s;
+  -ms-transition: transform 0.5s;
+  -o-transition: transform 0.5s;
+}
+
 .md {
   cursor: pointer;
 }
