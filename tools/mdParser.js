@@ -78,7 +78,7 @@ const extractEvents = (monthMarkdown, year, month) =>
       hyperlink: eventLine.trim().replaceAll(/^.*\]\(([^)]*)\).*$/g, "$1"),
       location: eventLine
         .trim()
-        .replaceAll(/^[^)]*[\W-]*([^<]*).*$/g, "$1")
+        .replaceAll(/^[^\]]*[^)]*[\W-]*([^<]*).*$/g, "$1")
         .trim(),
       misc: eventLine.includes("</a>")
         ? eventLine.trim().replaceAll(/^.*(<a.*a>).*$/g, "$1")
