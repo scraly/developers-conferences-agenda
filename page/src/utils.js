@@ -30,13 +30,14 @@ export const getEventsByYear = () => {
   window.dev_events = events;
 };
 
-export const getYearEvents = (year) => {
-  const events = allEvents.filter(e => new Date(e.date[0]).getFullYear() === year)
+export const getYearEvents = year => {
+  const events = allEvents.filter(e => new Date(e.date[0]).getFullYear() === year);
 
-  return events
-}
+  return events;
+};
 
-export const hasEvents = (year) => Boolean(allEvents.find(e => new Date(e.date[0]).getFullYear() === year))
+export const hasEvents = year =>
+  Boolean(allEvents.find(e => new Date(e.date[0]).getFullYear() === year));
 
 const lpad2 = number => ('0' + number).slice(-2);
 
@@ -58,3 +59,21 @@ export const getMonthName = month =>
     'November',
     'December',
   ][month];
+
+export const filterEvents = (events, callForPapers, query) => {
+  let result = events;
+  if (callForPapers) {
+    result = events.filter(e => e.cfp && new Date(e.cfp.untilDate) > new Date());
+  }
+
+  if (query) {
+    result = result.filter(
+      e =>
+        e.name.toLowerCase().includes(query.toLowerCase()) ||
+        e.hyperlink.toLowerCase().includes(query.toLowerCase()) ||
+        e.location.toLowerCase().includes(query.toLowerCase())
+    );
+  }
+
+  return result;
+};
