@@ -13,6 +13,7 @@
 .arrowButton:hover{
   transition: transform 0.5s;
   transform: scale(1.15);
+  cursor: pointer;
   -webkit-transform: scale(1.15);
   -moz-transform: scale(1.15);
   -ms-transform: scale(1.15);
