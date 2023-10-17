@@ -21,6 +21,15 @@
   margin-right: 10px;
 }
 
+.listView .eventCell {
+  width: inherit;
+  background-color: #f8f8f8;
+}
+
+.listView .eventCell p {
+  margin-bottom: 0;
+}
+
 .listView .lucide-arrow-right {
   height: 16px;
   width: 16px;

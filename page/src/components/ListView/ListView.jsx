@@ -4,6 +4,8 @@ import {ArrowRight} from 'lucide-react';
 import {filterEvents} from '../../utils';
 import {useCustomContext} from 'app.context';
 
+import EventDisplay from '../EventDisplay/EventDisplay';
+
 import {getYearEvents} from 'utils';
 
 const ListView = ({year}) => {
@@ -74,17 +76,9 @@ const ListView = ({year}) => {
         .map(month => (
           <>
             <h1>{month}</h1>
-            <ul>
-              {eventsByMonth[month].map((e, i) => (
-                <li key={`${month}_ev_${i}`}>
-                  {formatDate(e.date)}
-                  <b>{e.name}</b>
-                  {e.hyperlink ? <a href={e.hyperlink}>{new URL(e.hyperlink).hostname}</a> : ''}
-                  <span>{e.location}</span>
-                  <span dangerouslySetInnerHTML={{__html: e.misc}}></span>
-                </li>
-              ))}
-            </ul>
+            {eventsByMonth[month].map((e, i) => (
+              <EventDisplay key={`ev_${i}`} {...e} dateOnTop={true} />
+            ))}
           </>
         ))}
     </div>
