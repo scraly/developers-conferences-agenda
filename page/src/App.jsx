@@ -48,15 +48,15 @@ const App = () => {
           </a>
             }
 
-          {viewType === 'calendar' && <CalendarGrid year={selectedYear} />}
-          {viewType === 'list' && <ListView year={selectedYear} />}
-
           <div className='view-type-selector'>
               <Calendar className={viewType === 'calendar' ? 'view-selector calendar-view selected' : 'view-selector calendar-view'} onClick={() => setViewType('calendar')} />
               <List className={viewType === 'list' ? 'view-selector list-view selected' : 'view-selector list-view'} onClick={() => setViewType('list')} />
           </div>
 
-          <SelectedEvents date={userState.date} month={userState.month} year={userState.year} />
+          {viewType === 'calendar' && <CalendarGrid year={selectedYear} />}
+          {viewType === 'calendar' && <SelectedEvents date={userState.date} month={userState.month} year={userState.year} />}
+
+          {viewType === 'list' && <ListView year={selectedYear} />}
         </div>
       </div>
     </CustomContext.Provider>
