@@ -53,8 +53,8 @@ body > footer > .content {
 
 .view-type-selector {
     position: absolute;
-    top: 100px;
-    right: 100px;
+    top: 20px;
+    right: 50px;
     padding: 0px;
     border: 1px solid #ccc;
     border-radius: 3px;
