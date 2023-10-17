@@ -77,7 +77,13 @@ const ListView = ({year}) => {
           <>
             <h1>{month}</h1>
             {eventsByMonth[month].map((e, i) => (
-              <EventDisplay key={`ev_${i}`} {...e} dateOnTop={true} />
+              <div key={`${month}_ev_${i}`} className='event-list-entry'>
+                {formatDate(e.date)}
+                <b>{e.name}</b>
+                {e.hyperlink ? <a href={e.hyperlink}>{new URL(e.hyperlink).hostname}</a> : ''}
+                <span>{e.location}</span>
+                <span dangerouslySetInnerHTML={{__html: e.misc}}></span>
+              </div>
             ))}
           </>
         ))}

@@ -15,19 +15,20 @@
   gap: 0.5rem;
 }
 
+.listView .event-list-entry {
+  width: inherit;
+  background-color: #f8f8f8;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: row;
+}
+
 .listView li span,
 .listView li b,
 .listView li a {
   margin-right: 10px;
-}
-
-.listView .eventCell {
-  width: inherit;
-  background-color: #f8f8f8;
-}
-
-.listView .eventCell p {
-  margin-bottom: 0;
 }
 
 .listView .lucide-arrow-right {
