@@ -1,10 +1,20 @@
-const datesReducer = (state = {date: null, month: null, year: null}, action) => {
+const appReducer = (
+  state = {filters: {callForPapers: false, query: ''}, date: null, month: null, year: null},
+  action
+) => {
   switch (action.type) {
     case 'displayDate':
-      return action.payload;
+      return {
+        ...state,
+        date: action.payload.date,
+        month: action.payload.month,
+        year: action.payload.year,
+      };
+    case 'setFilters':
+      return {...state, filters: action.payload};
     default:
       return state;
   }
 };
 
-export default datesReducer;
+export default appReducer;

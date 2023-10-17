@@ -9,6 +9,10 @@ body {
   text-align: center;
 }
 
+.dcaGrid {
+  display: flex;
+}
+
 .downloadButton {
   text-decoration: none;
   color: black;
