@@ -52,29 +52,29 @@ body > footer > .content {
 }
 
 .view-type-selector {
-    position: absolute;
-    top: 20px;
-    right: 50px;
-    padding: 0px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-    background: #eee;
-    display: flex;
-    align-items: center;
+  position: absolute;
+  top: 20px;
+  right: 50px;
+  padding: 0px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: #eee;
+  display: flex;
+  align-items: center;
 }
 
 .view-type-selector .view-selector {
-    cursor: pointer;
-    padding: 5px;
-    border-left: 1px solid #ccc;
+  cursor: pointer;
+  padding: 5px;
+  border-left: 1px solid #ccc;
 }
 
 .view-type-selector .view-selector.selected {
-    background: #ddd;
+  background: #ddd;
 }
 
 .view-type-selector .view-selector:first-child {
-    border-left: 0;
+  border-left: 0;
 }
 
 .footer {

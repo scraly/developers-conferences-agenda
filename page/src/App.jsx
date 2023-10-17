@@ -1,6 +1,6 @@
-import { useReducer, useState } from 'react';
+import {useReducer, useState} from 'react';
 
-import { ArrowDownCircle, Calendar, List } from 'lucide-react';
+import {ArrowDownCircle, Calendar, List} from 'lucide-react';
 
 import CalendarGrid from 'components/CalendarGrid/CalendarGrid';
 import ListView from 'components/ListView/ListView';
@@ -12,49 +12,71 @@ import reducer from 'app.reducer';
 import SelectedEvents from 'components/SelectedEvents/SelectedEvents';
 import 'misc/fonts/inter/inter.css';
 import 'styles/App.css';
-import {hasEvents} from "./utils";
+import {hasEvents} from './utils';
 
 const App = () => {
   const [selectedYear, setSelectedYear] = useState(new Date().getFullYear());
   const [viewType, setViewType] = useState('calendar');
-  const [userState, userDispatch] = useReducer(reducer, {filters: {callForPapers: false, query: ''}, date: null, month: null, year: null});
+  const [userState, userDispatch] = useReducer(reducer, {
+    filters: {callForPapers: false, query: ''},
+    date: null,
+    month: null,
+    year: null,
+  });
   const providerState = {
     userState,
     userDispatch,
   };
 
-  console.log(userState.filters.query)
   return (
     <CustomContext.Provider value={providerState}>
       <h1 className="dcaTitle">Developer Conferences Agenda</h1>
-      <div className='dcaGrid'>
+      <div className="dcaGrid">
         <Filters
           query={userState.filters.query}
           callForPapers={userState.filters.callForPapers}
-          onChange={(key, value) => userDispatch({type: 'setFilters', payload: {...userState.filters, [key]: value}})}
-          onClose={() => userDispatch({type: 'setFilters', payload: {callForPapers: false, query: ''}})}
+          onChange={(key, value) =>
+            userDispatch({type: 'setFilters', payload: {...userState.filters, [key]: value}})
+          }
+          onClose={() =>
+            userDispatch({type: 'setFilters', payload: {callForPapers: false, query: ''}})
+          }
         />
-        <div className='dcaContent'>
+        <div className="dcaContent">
           <YearSelector
             year={selectedYear}
             onChange={year => {
               setSelectedYear(year);
             }}
           />
-            {
-                hasEvents(selectedYear) && <a href={'/developer-conference-' + selectedYear + '.ics'} className="downloadButton">
-            <ArrowDownCircle />
-            Download {selectedYear} Calendar
-          </a>
-            }
+          {hasEvents(selectedYear) && (
+            <a href={'/developer-conference-' + selectedYear + '.ics'} className="downloadButton">
+              <ArrowDownCircle />
+              Download {selectedYear} Calendar
+            </a>
+          )}
 
-          <div className='view-type-selector'>
-              <Calendar className={viewType === 'calendar' ? 'view-selector calendar-view selected' : 'view-selector calendar-view'} onClick={() => setViewType('calendar')} />
-              <List className={viewType === 'list' ? 'view-selector list-view selected' : 'view-selector list-view'} onClick={() => setViewType('list')} />
+          <div className="view-type-selector">
+            <Calendar
+              className={
+                viewType === 'calendar'
+                  ? 'view-selector calendar-view selected'
+                  : 'view-selector calendar-view'
+              }
+              onClick={() => setViewType('calendar')}
+            />
+            <List
+              className={
+                viewType === 'list' ? 'view-selector list-view selected' : 'view-selector list-view'
+              }
+              onClick={() => setViewType('list')}
+            />
           </div>
 
           {viewType === 'calendar' && <CalendarGrid year={selectedYear} />}
-          {viewType === 'calendar' && <SelectedEvents date={userState.date} month={userState.month} year={userState.year} />}
+          {viewType === 'calendar' && (
+            <SelectedEvents date={userState.date} month={userState.month} year={userState.year} />
+          )}
 
           {viewType === 'list' && <ListView year={selectedYear} />}
         </div>
