@@ -85,6 +85,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19-20: [GeeCON Prague 2023](https://2023.geecon.cz/) - Prague (Czech Republic) <a href="https://2023.geecon.cz/cfp/"><img alt="CFP GeeCON Prague 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-Sept-2023&color=red"></a>
 * 20-22: [Software Crafters Barcelona 2023](https://softwarecrafters.barcelona/) - Barcelona (Spain)
 * 23-25: [FOSS4G North America](https://foss4gna.org/) - Baltimore (USA)
+* 23-27: [International PHP Conference](https://phpconference.com/munich/) - Munchen (Germany)
 * 24-25: [Codemotion Milan](https://extra.codemotion.com/conference-milan-2023/) - Milan (Italy) <a href="https://sessionize.com/codemotion-milan-2023/"><img alt="CFP Codemotion Milan 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Jul-2023&color=red"></a>
 * 24-26: [GitKon](https://gitkon.com) - Online
 * 24-26: [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Monterey (USA)
@@ -141,6 +142,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9: [Ory Summit](https://summit.ory.sh/) - Munich (Germany) <a href="https://forms.gle/p2d5v1BzTtgpfMpf8"><img alt="Ory Summit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2023&color=red"></a>
 * 9-10: [Devops Barcelona Conference 2023](https://devops.barcelona/?utm_source=developers-conference-agenda&utm_medium=link&utm_campaign=devops-barcelona-2023&utm_id=devops-barcelona-2023) - Barcelona (Spain) <a href="https://devops.barcelona/call-for-papers?utm_source=developers-conference-agenda&utm_medium=link&utm_campaign=devops-barcelona-2023&utm_id=devops-barcelona-2023"><img alt="CFP Devops Barcelona 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=red"></a>
 * 10: [BDX I/O](https://www.bdxio.fr/) - Bordeaux (France) <a href="https://conference-hall.io/public/event/VORL07zbTZ8CBB8kOVgq"><img alt="CFP BDX I/O 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-July-2023&color=red"></a>
+* 11: [Flutteristas Conference](https://flutteristas.org/) - Online
 * 11-12: [Droidcon Uganda](https://www.uganda.droidcon.com/) - Kampala (Uganda) <a href="https://sessionize.com/droidcon-uganda-2023"><img alt="CFP Droidcon Uganda 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-September-2023&color=red"></a>
 * 12-14: [Meeting C++ 2023](https://meetingcpp.com/) - Berlin (Germany) and online
 * 13-16: [Web Summit 2023](https://websummit.com/) - Lisbon (Portugal)
