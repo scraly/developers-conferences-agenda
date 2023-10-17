@@ -7,7 +7,10 @@ import 'styles/Filters.css';
 const Filters = ({ query, callForPapers, onChange, onClose }) => {
   const [open, setOpen] = useState(false);
   return (
-    <div className={"filters " + (open ? 'open' : 'closed')}>
+    <div
+      className={"filters " + (open ? 'open' : 'closed')}
+      title={open ? 'Close filters' : 'Open filters'}
+    >
       <div
           className='filters-header'
           onClick={() => {
