@@ -1,8 +1,9 @@
 import { useReducer, useState } from 'react';
 
-import { ArrowDownCircle } from 'lucide-react';
+import { ArrowDownCircle, Calendar, List } from 'lucide-react';
 
 import CalendarGrid from 'components/CalendarGrid/CalendarGrid';
+import ListView from 'components/ListView/ListView';
 import YearSelector from 'components/YearSelector/YearSelector';
 
 import CustomContext from 'app.context';
@@ -14,6 +15,7 @@ import {hasEvents} from "./utils";
 
 const App = () => {
   const [selectedYear, setSelectedYear] = useState(new Date().getFullYear());
+  const [viewType, setViewType] = useState('calendar');
   const [userState, userDispatch] = useReducer(reducer, {date: null, month: null, year: null});
   const providerState = {
     userState,
@@ -36,7 +38,13 @@ const App = () => {
       </a>
         }
 
-      <CalendarGrid year={selectedYear} />
+      {viewType === 'calendar' && <CalendarGrid year={selectedYear} />}
+      {viewType === 'list' && <ListView year={selectedYear} />}
+
+      <div className='view-type-selector'>
+          <Calendar className={viewType === 'calendar' ? 'view-selector calendar-view selected' : 'view-selector calendar-view'} onClick={() => setViewType('calendar')} />
+          <List className={viewType === 'list' ? 'view-selector list-view selected' : 'view-selector list-view'} onClick={() => setViewType('list')} />
+      </div>
 
       <SelectedEvents date={userState.date} month={userState.month} year={userState.year} />
     </CustomContext.Provider>

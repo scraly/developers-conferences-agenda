@@ -1,0 +1,26 @@
+.listView {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 4rem;
+}
+
+.listView > * {
+  width: max-content;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 1rem;
+  border-radius: 3px;
+  gap: 1rem;
+}
+
+.listView .eventsGridDisplay {
+    border: 0px;
+    width: 100%;
+}
+
+.listView .eventsGridDisplay .eventCell {
+    /* background: white; */
+}
