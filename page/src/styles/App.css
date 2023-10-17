@@ -13,6 +13,10 @@ body {
   display: flex;
 }
 
+.dcaContent {
+  flex-grow: 1;
+}
+
 .downloadButton {
   text-decoration: none;
   color: black;
