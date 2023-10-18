@@ -27,7 +27,7 @@ const SelectedEvents = ({year, month, date}) => {
       );
     }
 
-    events = filterEvents(events, userState.filters.callForPapers, userState.filters.query)
+    events = filterEvents(events, userState.filters.callForPapers, userState.filters.closedCaptions, userState.filters.query)
 
     events = [...new Map(events.map(item => [item.name, item])).values()];
     setEvents(

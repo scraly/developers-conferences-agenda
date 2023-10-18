@@ -11,7 +11,7 @@ import {getYearEvents} from 'utils';
 const ListView = ({year}) => {
   let events = getYearEvents(year);
   const {userState} = useCustomContext();
-  events = filterEvents(events, userState.filters.callForPapers, userState.filters.query);
+  events = filterEvents(events, userState.filters.callForPapers, userState.filters.closedCaptions, userState.filters.query);
   const monthNames = [
     'January',
     'February',
@@ -83,6 +83,7 @@ const ListView = ({year}) => {
                 {e.hyperlink ? <a href={e.hyperlink}>{new URL(e.hyperlink).hostname}</a> : ''}
                 <span>{e.location}</span>
                 <span dangerouslySetInnerHTML={{__html: e.misc}}></span>
+                {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}
               </div>
             ))}
           </>

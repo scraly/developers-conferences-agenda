@@ -1,5 +1,5 @@
 const appReducer = (
-  state = {filters: {callForPapers: false, query: ''}, date: null, month: null, year: null},
+  state = {filters: {callForPapers: false, closedCaptions: false, query: ''}, date: null, month: null, year: null},
   action
 ) => {
   switch (action.type) {
