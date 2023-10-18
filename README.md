@@ -109,6 +109,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1-2: [DevOps Days Montreal](https://devopsdays.org/events/2023-montreal/welcome/) - Montreal (Canada) <a href="https://sessionize.com/devopsdays-montreal-2023/"><img alt="DevOps Days Montreal 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-July-2023&color=red"></a>
 * 2: [GopherCon Ireland](https://gophercon.ie/) - Dublin (Ireland) <a href="https://www.papercall.io/gopherconie"><img alt="GopherCon Ireland 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-July-2023&color=red"></a>
 * 2-3: [Agile Tour Nantes](https://agilenantes.org/evenements/agile-tour-nantes/agile-tour-nantais-2023/) - Nantes (France)
+* 2-3: [GopherCon Singapore and Southeast Asia](https://2023.gophercon.sg/) - Singapore (Singapore)
 * 3: [XCraft](https://xcraft.fr) - Lyon (France)
 * 3: [DevFest Uyo](https://gdg.community.dev/events/details/google-gdg-uyo-presents-devfest-uyo-2023/) - Uyo (Nigeria)
 * 3: [SyliusCon](https://sylius.com/conference) - Poznan (Poland)
