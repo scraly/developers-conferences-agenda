@@ -11,7 +11,7 @@ const Day = ({date}) => {
       window.dev_events[date.getFullYear()][date.getMonth()] &&
       window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()] || []
 
-  events = filterEvents(events, userState.filters.callForPapers, userState.filters.query)
+  events = filterEvents(events, userState.filters.callForPapers, userState.filters.closedCaptions, userState.filters.query)
 
   if (date) {
     if (events.length > 0) {

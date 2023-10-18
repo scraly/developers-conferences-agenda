@@ -60,10 +60,14 @@ export const getMonthName = month =>
     'December',
   ][month];
 
-export const filterEvents = (events, callForPapers, query) => {
+export const filterEvents = (events, callForPapers, closedCaptions, query) => {
   let result = events;
+  if (closedCaptions) {
+    result = events.filter(e => e.closedCaptions);
+  }
+
   if (callForPapers) {
-    result = events.filter(e => e.cfp && new Date(e.cfp.untilDate) > new Date());
+    result = result.filter(e => e.cfp && new Date(e.cfp.untilDate) > new Date());
   }
 
   if (query) {

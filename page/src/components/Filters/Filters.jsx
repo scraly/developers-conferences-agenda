@@ -4,7 +4,7 @@ import { Filter, FilterX } from 'lucide-react';
 
 import 'styles/Filters.css';
 
-const Filters = ({ query, callForPapers, onChange, onClose }) => {
+const Filters = ({ query, callForPapers, closedCaptions, onChange, onClose }) => {
   const [open, setOpen] = useState(false);
   return (
     <div className={"filters " + (open ? 'open' : 'closed')}>
@@ -32,6 +32,11 @@ const Filters = ({ query, callForPapers, onChange, onClose }) => {
       <div className='filtersItem'>
         <label for='filter-call-for-papers'>Call For Papers Open:</label>
         <input checked={callForPapers} type='checkbox' id='filter-call-for-papers' onChange={(e) => onChange('callForPapers', e.target.checked)}/>
+      </div>
+
+      <div className='filtersItem'>
+        <label for='filter-closed-captions'>Closed Captions:</label>
+        <input checked={closedCaptions} type='checkbox' id='filter-closed-captions' onChange={(e) => onChange('closedCaptions', e.target.checked)}/>
       </div>
     </div>
   );
