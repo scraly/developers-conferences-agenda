@@ -26,6 +26,7 @@ body {
 }
 
 .downloadButton:hover{
+  cursor: pointer;
   transition: transform 0.5s;
   transform: scale(1.07);
   -webkit-transform: scale(1.07);

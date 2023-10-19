@@ -11,7 +11,12 @@
   margin: 0;
 }
 
+.arrowButton{
+  cursor: pointer;
+}
+
 .arrowButton:hover{
+  cursor: pointer;
   transition: transform 0.5s;
   transform: scale(1.15);
   -webkit-transform: scale(1.15);
