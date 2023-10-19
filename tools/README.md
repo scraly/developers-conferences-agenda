@@ -42,3 +42,37 @@ outputFile whose value is "-" are going to stdout.
  - [x] ~~Localized symbols may interfere with parser. (e.g. JavaOne @ 2022.md)~~
  - [x] ~~No `:` after schedule date interefere with parser. (e.g. Voxxed Melbourne @ 2019.md)~~
 
+## generateIcs4OpenedCfps.js
+
+### Mission
+
+Reads the `page/src/misc/all-cfps.json` file and generates a `developer-conference-opened-cfps.ics` file. People can then subscribe to https://developers.events/developer-conference-opened-cfps.ics to know when CFPs are closing.
+
+Note that the generated calendar only includes CFPs which are not yet closed when the script is running.
+
+### Usage
+
+```sh
+node generateIcs4OpenedCfps.js  
+```
+
+### Output format
+
+```ics
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:DCA
+BEGIN:VEVENT
+UID:DevFest Jalingo 2023@dca-2023
+DTSTAMP:20231019T114828
+DTSTART:20231020
+LOCATION:Jalingo (Nigeria)
+SUMMARY:DevFest Jalingo 2023
+URL:https://sessionize.com/devfest-2023-jalingo/
+END:VEVENT
+END:VCALENDAR
+```
+
+### Known Issues
+
+Not yet 😉
