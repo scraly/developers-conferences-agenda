@@ -1,11 +1,15 @@
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 
 import { Filter, FilterX } from 'lucide-react';
 
+import {getAllCountries} from 'utils';
+
 import 'styles/Filters.css';
 
-const Filters = ({ query, callForPapers, closedCaptions, onChange, onClose }) => {
+const Filters = ({ query, callForPapers, closedCaptions, country, onChange, onClose }) => {
   const [open, setOpen] = useState(false);
+  const countries = useMemo(() => getAllCountries(), []);
+
   return (
     <div className={"filters " + (open ? 'open' : 'closed')}>
       <div
@@ -25,18 +29,26 @@ const Filters = ({ query, callForPapers, closedCaptions, onChange, onClose }) =>
       </div>
 
       <div className='filtersItem'>
-        <label for='filter-query'>Search:</label>
+        <label htmlFor='filter-query'>Search:</label>
         <input id='filter-query' type='text' value={query} onChange={(e) => onChange('query', e.target.value)}/>
       </div>
 
       <div className='filtersItem'>
-        <label for='filter-call-for-papers'>Call For Papers Open:</label>
+        <label htmlFor='filter-call-for-papers'>Call For Papers Open:</label>
         <input checked={callForPapers} type='checkbox' id='filter-call-for-papers' onChange={(e) => onChange('callForPapers', e.target.checked)}/>
       </div>
 
       <div className='filtersItem'>
         <label for='filter-closed-captions'>Closed Captions:</label>
         <input checked={closedCaptions} type='checkbox' id='filter-closed-captions' onChange={(e) => onChange('closedCaptions', e.target.checked)}/>
+      </div>
+
+      <div className='filtersItem'>
+        <label for='filter-country'>Country:</label>
+        <select value={country} id='filter-country' onChange={(e) => onChange('country', e.target.value)}>
+          <option value=''>All</option>
+          {countries.map((c) => (<option value={c}>{c}</option>))}
+        </select>
       </div>
     </div>
   );
