@@ -63,7 +63,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11-12: [I Code Java](https://j-sa.co) - Johannesburg (South Africa)
 * 11-13: [Devoxx Morocco](https://devoxx.ma/) - Agadir (Morocco) <a href="https://dvma23.cfp.dev/"><img alt="CFP ParisTestConf 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%2022-May%20to%2017-July-2023&color=red"></a>
 * 12: [Cloud Nord](https://www.cloudnord.fr/) - Lille (France) <a href="https://conference-hall.io/public/event/SkVFHQ5kzrrfUlSU4MK1"><img alt="CFP Cloud Nord 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Jun-2023&color=red"></a>
-* 12: [Archilocus](https://www.archilocus.tech/) - Online (France) <a href="https://conference-hall.io/public/event/0DCK6T3otH36TuNl0hME"><img alt="Archilocus Fall 2023" src="https://img.shields.io/static/v1?label=CFP&message=until-07-October-2023&color=green"></a>
+* 12: [Archilocus](https://www.archilocus.tech/) - Online (France) <a href="https://conference-hall.io/public/event/0DCK6T3otH36TuNl0hME"><img alt="Archilocus Fall 2023" src="https://img.shields.io/static/v1?label=CFP&message=until-07-October-2023&color=red"></a>
 * 12-13: [Volcamp 2023](https://www.volcamp.io/) - Clermont-Ferrand (France) <a href="https://conference-hall.io/public/event/b9seMUHc924mGItMl2aa"><img alt="CFP Volcamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-May-2023&color=red"></a>
 * 12-13: [Forum PHP 2023](https://event.afup.org/forum-php-2023) - Marne-la-Vallée (France) <a href="https://afup.org/event/forumphp2023"><img alt="CFP ForumPHP 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-June-2023&color=red"></a>
 * 12-13: [Open Source India](https://www.opensourceindia.in/) - Bengaluru (India)
@@ -198,6 +198,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-8: [API Days Paris](https://www.apidays.global/paris/) - Paris (France) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-November-2023&color=green"></a>
 * 7: [TestJS Summit](https://testjssummit.com/) - Berlin (Germany)
 * 7: [Agile Tour Aix-Marseille](https://atmrs.esprit-agile.com/) - Gardanne (France) <a href="https://sessionize.com/agile-tour-aix-marseille-2023/"><img alt="CFP [Agile Tour Aix-Marseille" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-september-2023&color=red"></a>
+* 7: [Archilocus](https://www.archilocus.tech/) - Bordeaux (France) <a href="https://conference-hall.io/public/event/Z7tmWE1n4hFVYgAwzOU8"><img alt="Archilocus Automne 2023" src="https://img.shields.io/static/v1?label=CFP&message=until-17-November-2023&color=green"></a>
 * 7-8: [SymfonyCon Brussels 2023](https://live.symfony.com/2023-brussels-con/) - Brussels (Belgium) <a href="https://live.symfony.com/2023-brussels-con/cfp"><img alt="CFP SymfonyCon Brussels 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-August-2023&color=red"></a>
 * 7-8: [DevTernity](https://devternity.com/) - Online
 * 7-8: [TechRocks Summit](https://events.tech.rocks/summit-2023/fr/registration/ticketing) - Paris (France)
