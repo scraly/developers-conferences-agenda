@@ -18,7 +18,7 @@ const App = () => {
   const [selectedYear, setSelectedYear] = useState(new Date().getFullYear());
   const [viewType, setViewType] = useState('calendar');
   const [userState, userDispatch] = useReducer(reducer, {
-    filters: {callForPapers: false, closedCaptions: false, query: ''},
+    filters: {callForPapers: false, closedCaptions: false, country: '', query: ''},
     date: null,
     month: null,
     year: null,
@@ -33,9 +33,11 @@ const App = () => {
       <h1 className="dcaTitle">Developer Conferences Agenda</h1>
       <div className="dcaGrid">
         <Filters
+          year={selectedYear}
           query={userState.filters.query}
           callForPapers={userState.filters.callForPapers}
           closedCaptions={userState.filters.closedCaptions}
+          country={userState.filters.country}
           onChange={(key, value) =>
             userDispatch({type: 'setFilters', payload: {...userState.filters, [key]: value}})
           }

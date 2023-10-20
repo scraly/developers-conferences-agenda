@@ -36,6 +36,12 @@ export const getYearEvents = year => {
   return events;
 };
 
+export const getYearCountries = year => {
+  const countries = new Set(getYearEvents(year).map(e => e.country));
+
+  return Array.from(countries).sort();
+};
+
 export const hasEvents = year =>
   Boolean(allEvents.find(e => new Date(e.date[0]).getFullYear() === year));
 
@@ -60,7 +66,7 @@ export const getMonthName = month =>
     'December',
   ][month];
 
-export const filterEvents = (events, callForPapers, closedCaptions, query) => {
+export const filterEvents = (events, callForPapers, closedCaptions, country, query) => {
   let result = events;
   if (closedCaptions) {
     result = events.filter(e => e.closedCaptions);
@@ -68,6 +74,10 @@ export const filterEvents = (events, callForPapers, closedCaptions, query) => {
 
   if (callForPapers) {
     result = result.filter(e => e.cfp && new Date(e.cfp.untilDate) > new Date());
+  }
+
+  if (country) {
+    result = result.filter(e => e.country === country);
   }
 
   if (query) {

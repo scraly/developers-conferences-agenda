@@ -11,7 +11,7 @@ import {getYearEvents} from 'utils';
 const ListView = ({year}) => {
   let events = getYearEvents(year);
   const {userState} = useCustomContext();
-  events = filterEvents(events, userState.filters.callForPapers, userState.filters.closedCaptions, userState.filters.query);
+  events = filterEvents(events, userState.filters.callForPapers, userState.filters.closedCaptions, userState.filters.country, userState.filters.query);
   const monthNames = [
     'January',
     'February',
