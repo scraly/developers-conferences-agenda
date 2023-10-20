@@ -33,7 +33,6 @@ const App = () => {
       <h1 className="dcaTitle">Developer Conferences Agenda</h1>
       <div className="dcaGrid">
         <Filters
-          year={selectedYear}
           query={userState.filters.query}
           callForPapers={userState.filters.callForPapers}
           closedCaptions={userState.filters.closedCaptions}

@@ -36,10 +36,10 @@ export const getYearEvents = year => {
   return events;
 };
 
-export const getYearCountries = year => {
-  const countries = new Set(getYearEvents(year).map(e => e.country));
+export const getAllCountries = () => {
+  const countries = new Set(allEvents.map(e => e.country));
 
-  return Array.from(countries).sort();
+  return Array.from(countries).filter((c) => c != "Online" && c != "").sort();
 };
 
 export const hasEvents = year =>
