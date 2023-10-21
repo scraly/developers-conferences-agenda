@@ -206,6 +206,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8: [React Day Berlin](https://reactday.berlin/) - Berlin (Germany)
 * 8: [KubeDay India](https://events.linuxfoundation.org/kubeday-india/) - Bengaluru (India) <a href="https://events.linuxfoundation.org/kubeday-india/program/cfp/"><img alt="CFP KubeDay India" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-September-2023&color=red"></a>
 * 9: [DevFest 2023 Ikorodu](https://gdg.community.dev/events/details/google-gdg-ikorodu-presents-devfest-2023-ikorodu/) - Ikorodu (Nigeria)
+* 9: [Flutter Conf India](https://flutterconf.in/) - Gujarat (India)
 * 11: [TestJS Summit](https://testjssummit.com/) - Online
 * 12: [React Day Berlin](https://reactday.berlin/) - Online
 * 12: [KubeDay Singapore](https://events.linuxfoundation.org/kubeday-singapore/) - Singapore (Singapore) <a href="https://events.linuxfoundation.org/kubeday-singapore/program/cfp/"><img alt="CFP KubeDay Singapore" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-September-2023&color=red"></a>
