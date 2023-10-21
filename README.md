@@ -84,6 +84,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19-20: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/z5FSBfmwJSUWb4UO9hD4"><img alt="CFP DevFest Nantes 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2023&color=red"></a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 19-20: [Agile Tour Rennes](https://agiletour.agilerennes.org/) - Rennes (France) <a href="https://sessionize.com/agile-tour-rennes-2023/"><img alt="CFP Agile Tour Rennes 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2023&color=red"></a>
 * 19-20: [GeeCON Prague 2023](https://2023.geecon.cz/) - Prague (Czech Republic) <a href="https://2023.geecon.cz/cfp/"><img alt="CFP GeeCON Prague 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-Sept-2023&color=red"></a>
+* 20-21: [DevOpsDays Bengaluru](https://devopsdays.org/events/2023-bengaluru/welcome/) - Bengaluru (India)
 * 20-22: [Software Crafters Barcelona 2023](https://softwarecrafters.barcelona/) - Barcelona (Spain)
 * 23-25: [FOSS4G North America](https://foss4gna.org/) - Baltimore (USA)
 * 23-27: [International PHP Conference](https://phpconference.com/munich/) - Munchen (Germany)
@@ -102,6 +103,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28: [BiznagaFest](https://biznagafest.com/) - Malaga (Spain)
 * 28: [DevFest Mauritius 2023](https://gdg.community.dev/events/details/google-gdg-mauritius-presents-devfest-mauritius-2023/) - Moka (Mauritius) <a href="https://sessionize.com/google-devfest-2023-mauritius/"><img alt="CFP DevFest Mauritius 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=red"></a>
 * 28: [DevFest Zimbabwe](https://gdg.community.dev/events/details/google-gdg-harare-presents-devfest-zimbabwe-2023/) - Harare (Zimbabwe)
+* 28: [DevOpsDays La Paz](https://devopsdays.org/events/2023-la-paz) - La Paz (Bolivia)
 * 30-31: [DEVOPSDAYS TEL AVIV](https://tlvcommunity.dev/devopsdays) - Tel Aviv (Israel)
 * 30-31: [Asynconf Event](https://www.asynconf.fr/) - Paris (France) & Online
 
