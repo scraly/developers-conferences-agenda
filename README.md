@@ -329,4 +329,4 @@ All the data (past and coming) are available publicly in JSON:
 
 * 7-11: [Devoxx Belgium](https://devoxx.com/#/) - Antwerp (Belgium)
 * 10-11: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France)
-* 27-29: [All Things Open] (https://2023.allthingsopen.org/ato-2024-save-the-date/) - Raleigh (USA)
+* 27-29: [All Things Open](https://2023.allthingsopen.org/ato-2024-save-the-date/) - Raleigh (USA)
