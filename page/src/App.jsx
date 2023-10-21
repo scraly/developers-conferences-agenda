@@ -30,7 +30,25 @@ const App = () => {
 
   return (
     <CustomContext.Provider value={providerState}>
-      <h1 className="dcaTitle">Developer Conferences Agenda</h1>
+      <div className="dcaTitleWrapper">
+        <h1 className="dcaTitle">Developer Conferences Agenda</h1>
+        <div className="view-type-selector">
+          <Calendar
+            className={
+              viewType === 'calendar'
+                ? 'view-selector calendar-view selected'
+                : 'view-selector calendar-view'
+            }
+            onClick={() => setViewType('calendar')}
+          />
+          <List
+            className={
+              viewType === 'list' ? 'view-selector list-view selected' : 'view-selector list-view'
+            }
+            onClick={() => setViewType('list')}
+          />
+        </div>
+      </div>
       <div className="dcaGrid">
         <Filters
           query={userState.filters.query}
@@ -57,23 +75,6 @@ const App = () => {
               Download {selectedYear} Calendar
             </a>
           )}
-
-          <div className="view-type-selector">
-            <Calendar
-              className={
-                viewType === 'calendar'
-                  ? 'view-selector calendar-view selected'
-                  : 'view-selector calendar-view'
-              }
-              onClick={() => setViewType('calendar')}
-            />
-            <List
-              className={
-                viewType === 'list' ? 'view-selector list-view selected' : 'view-selector list-view'
-              }
-              onClick={() => setViewType('list')}
-            />
-          </div>
 
           {viewType === 'calendar' && <CalendarGrid year={selectedYear} />}
           {viewType === 'calendar' && (

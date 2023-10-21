@@ -22,7 +22,13 @@
   border: 1px solid #ccc;
   border-radius: 3px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 600px) {
+  .listView .event-list-entry {
+    flex-direction: row;
+  }
 }
 
 .listView li span,

@@ -51,16 +51,19 @@ body > footer > .content {
   grid-column: 2;
 }
 
+.dcaTitleWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
 .view-type-selector {
-  position: absolute;
-  top: 20px;
-  right: 50px;
-  padding: 0px;
   border: 1px solid #ccc;
   border-radius: 3px;
   background: #eee;
   display: flex;
   align-items: center;
+  margin: 0 auto;
+  width: auto;
 }
 
 .view-type-selector .view-selector {
