@@ -41,17 +41,16 @@ const MapView = ({year}) => {
           if (!geolocations[loc] || !geolocations[loc].longitude || !geolocations[loc].latitude) {
             return null;
           }
+          const marker = eventsByLocation[loc].map((e, i) => (
+            <div key={`ev_${i}`} className='event-map-entry'>
+              {e.hyperlink ? <a href={e.hyperlink} target='_blank'>{e.name}</a> : <b>{e.name}</b>}
+              <span dangerouslySetInnerHTML={{__html: e.misc}}></span>
+              {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}
+            </div>
+          ))
           return (
             <Marker position={[geolocations[loc].latitude, geolocations[loc].longitude]} key={loc}>
-              <Popup maxWidth={600} minWidth={150}>
-                {eventsByLocation[loc].map((e, i) => (
-                  <div key={`ev_${i}`} className='event-map-entry'>
-                    {e.hyperlink ? <a href={e.hyperlink} target='_blank'>{e.name}</a> : <b>{e.name}</b>}
-                    <span dangerouslySetInnerHTML={{__html: e.misc}}></span>
-                    {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}
-                  </div>
-                ))}
-              </Popup>
+              <Popup maxWidth={600} minWidth={150}>{marker}</Popup>
               <Tooltip>{loc}</Tooltip>
             </Marker>
           )

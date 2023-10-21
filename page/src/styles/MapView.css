@@ -22,3 +22,7 @@
   white-space: nowrap;
   overflow: hidden;
 }
+
+.mapView .event-map-entry img {
+  min-width: 140px;
+}
