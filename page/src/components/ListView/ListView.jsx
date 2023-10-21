@@ -4,8 +4,6 @@ import {ArrowRight} from 'lucide-react';
 import {filterEvents} from '../../utils';
 import {useCustomContext} from 'app.context';
 
-import EventDisplay from '../EventDisplay/EventDisplay';
-
 import {getYearEvents} from 'utils';
 
 const ListView = ({year}) => {

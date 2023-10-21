@@ -1,9 +1,10 @@
 import {useReducer, useState} from 'react';
 
-import {ArrowDownCircle, Calendar, List} from 'lucide-react';
+import {ArrowDownCircle, Calendar, List, Map} from 'lucide-react';
 
 import CalendarGrid from 'components/CalendarGrid/CalendarGrid';
 import ListView from 'components/ListView/ListView';
+import MapView from 'components/MapView/MapView';
 import YearSelector from 'components/YearSelector/YearSelector';
 import Filters from 'components/Filters/Filters';
 
@@ -73,6 +74,12 @@ const App = () => {
               }
               onClick={() => setViewType('list')}
             />
+            <Map
+              className={
+                viewType === 'map' ? 'view-selector map-view selected' : 'view-selector map-view'
+              }
+              onClick={() => setViewType('map')}
+            />
           </div>
 
           {viewType === 'calendar' && <CalendarGrid year={selectedYear} />}
@@ -81,6 +88,7 @@ const App = () => {
           )}
 
           {viewType === 'list' && <ListView year={selectedYear} />}
+          {viewType === 'map' && <MapView year={selectedYear} />}
         </div>
       </div>
     </CustomContext.Provider>

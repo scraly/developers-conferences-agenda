@@ -4,6 +4,7 @@
   "private": true,
   "type": "commonjs",
   "dependencies": {
-    "feed": "^4.2.2"
+    "feed": "^4.2.2",
+    "node-geocoder": "^4.2.0"
   }
 }
