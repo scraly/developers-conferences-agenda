@@ -224,6 +224,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1-31/03: [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Online <a href="https://sessionize.com/90daysofdevops-2024-community-edition/"><img alt="CFP 90DaysOfDevOps" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2023&color=green"></a>
 * 8-11: [NDC Security](https://ndc-security.com/) - Oslo (Norway)
 * 19: [Voxxed Days Ticino](https://voxxeddays.com/ticino/) - Lugano (Switzerland) <a href="https://vdt24.cfp.dev/#/login"><img alt="CFP Voxxed Days Ticino" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=green"></a>
+* 21-22: [DevOpsDays Tel Aviv](https://devopsdays.org/events/2023-tel-aviv/welcome/) - Tel Aviv (Israel)
 * 22-23: [Voxxed Days CERN](https://cern.voxxeddays.com/) - Geneva (Switzerland) <a href="https://vdcern24.cfp.dev/#/login"><img alt="CFP Voxxed Days CERN" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2023&color=green"></a>
 * 24-25: [KCD Oslo](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024/) - Oslo (Norway)
 * 25: [Conf42: DevOps](https://www.conf42.com/devops2024) - Online
@@ -251,10 +252,12 @@ All the data (past and coming) are available publicly in JSON:
 * 14-15: [pgDayParis](https://2024.pgday.paris/) - Paris (France)
 * 14-15: [WASM IO](https://2024.wasmio.tech/) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio24"><img alt="CFP WASM IO" src="https://img.shields.io/static/v1?label=CFP&message=until%201-January-2024&color=green"></a>
 * 14-15: [T3chfest](https://t3chfest.es) - Madrid (Spain) <a href="https://t3chfest.es/2024/call-for-talks"><img alt="T3chfest" src="https://img.shields.io/static/v1?label=CFP&message=until%204-December-2023&color=green"></a>
+* 15: [DevOpsDays Los Angeles](https://devopsdays.org/events/2024-los-angeles/welcome/) - Los Angeles (USA)
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)
 * 16: [DDD Melbourne](https://www.dddmelbourne.com/) - Melbourne (Australia)
 * 18-21: [GTC 2024](https://www.nvidia.com/gtc/) - San Jose (USA) & Online <a href="https://www.nvidia.com/gtc/call-for-submissions/"><img alt="CFP GTC" src="https://img.shields.io/static/v1?label=CFP&message=until%208-September-2023&color=red"></a>
 * 19-22: [KubeCon + CloudNativeCon Europe 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2024/) - Paris (France)  <a href="https://sessionize.com/kubecon-cloudnativecon-europe-2024/"><img alt="CFP Kubecon EU" src="https://img.shields.io/static/v1?label=CFP&message=18-Sep-2023%20to%2026-Nov-2023&color=green"> </a>
+* 21-22: [DevOpsDays Singapore](https://devopsdays.org/events/2024-singapore/welcome/) - Singapore (Singapore)
 * 28-29: [SymfonyLive Paris 2024](https://live.symfony.com/2024-paris/) - Paris (France)
 
 ### April
@@ -274,6 +277,7 @@ All the data (past and coming) are available publicly in JSON:
 ### May
 
 * 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
+* 13-14: [DevOpsDays Geneva](https://devopsdays.org/events/2024-geneva/welcome/) - Geneva (Switzerland) <a href="https://devopsdays-geneva.ch/forms/InputFormSpkrsDodGe.php?who=pb0cb47956025e73c797e5e17f16fc38466e34f5ae"><img alt="CFP DevOpsDays Geneva 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%207-January-2024&color=green"></a>
 * 15-17: [DevSum 2024](https://devsum.se/) - Stockholm (Sweden) <a href="https://www.devsum.se/call-for-paper"><img alt="CFP DevSum 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%203-December-2023&color=green"></a>
 * 20-21: [DevOps Pro Europe 2024](https://devopspro.lt/) - Online
 * 22-24: [Kotlin Conf](https://kotlinconf.com/) - Copenhagen (Denmark)
@@ -292,6 +296,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-7: [DevFest Lille](https://devfest.gdglille.org/) - Lille (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 10-14: [NDC Oslo](https://ndcoslo.com/) - Oslo (Norway)
 * 12-14: [RenderATL](https://www.renderatl.com/) - Atlanta, GA (USA)
+* 19-21: [DevopsDays Amsterdam](https://devopsdays.org/events/2024-amsterdam/welcome/) - Amsterdam (Netherlands)
 * 20-21: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Grand-Duchy of Luxembourg (Luxembourg)
 
 ### July
@@ -302,11 +307,13 @@ All the data (past and coming) are available publicly in JSON:
 
 ### August
 
+* 6-7: [DevOpsDays Minneapolis](https://devopsdays.org/events/2024-minneapolis/welcome/) - Minneapolis (USA)
 * 26-30: [NDC Copenhaguen Developer Festival](https://cphdevfest.com/) - Copenhaguen (Denmark)
 
 ### September
 
 * 19-20: [API Platform Conference](https://api-platform.com/con/) - Lille (France) & Online
+* 26-27: [DevOpsDays London](https://devopsdays.org/events/2024-london/welcome/) - London (UK)
 
 ### October
 
