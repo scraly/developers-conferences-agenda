@@ -52,7 +52,7 @@ const App = () => {
               setSelectedYear(year);
             }}
           />
-          {hasEvents(selectedYear) && (
+          {viewType === 'calendar' && hasEvents(selectedYear) && (
             <a href={'/developer-conference-' + selectedYear + '.ics'} className="downloadButton">
               <ArrowDownCircle />
               Download {selectedYear} Calendar
