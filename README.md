@@ -236,8 +236,8 @@ All the data (past and coming) are available publicly in JSON:
 * 19: [Voxxed Days Ticino](https://voxxeddays.com/ticino/) - Lugano (Switzerland) <a href="https://vdt24.cfp.dev/#/login"><img alt="CFP Voxxed Days Ticino" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=red"></a>
 * 21-22: [DevOpsDays Tel Aviv](https://devopsdays.org/events/2023-tel-aviv/welcome/) - Tel Aviv (Israel)
 * 22-23: [Voxxed Days CERN](https://cern.voxxeddays.com/) - Geneva (Switzerland) <a href="https://vdcern24.cfp.dev/#/login"><img alt="CFP Voxxed Days CERN" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2023&color=red"></a>
-* 24-25: [KCD Oslo](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024/) - Oslo (Norway)
-* 25: [Conf42: DevOps](https://www.conf42.com/devops2024) - Online
+* 24-25: [KCD Oslo](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024/) - Oslo (Norway) <a href="https://kcd.smapply.io/prog/kcd_oslo_2024_cfp/"><img alt="CFP KCD Oslo" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-November-2023&color=red"></a>
+* 25: [Conf42: DevOps](https://www.conf42.com/devops2024) - Online <a href="https://www.papercall.io/conf42-devops-2024"><img alt="CFP Conf42: Devops" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-December-2023&color=red"></a>
 * 29-02/02: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://ndclondon.com/call-for-papers"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
 * 31-03/02: [SnowCamp](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/organizer/event/Bq5k5rbMXGynAls6PjRB"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=red"></a>
   
@@ -257,8 +257,8 @@ All the data (past and coming) are available publicly in JSON:
 ### March
 
 * 6-7: [FlowCon 2024](https://my.weezevent.com/flowcon-2024) - Paris (France)
-* 6-7: [Scan Agile](https://www.scan-agile.org/) - Helsinki (Finland)
-* 12-15: [Explore DDD](http://exploreddd.com/) - Denver (USA)
+* 6-7: [Scan Agile](https://www.scan-agile.org/) - Helsinki (Finland) <a href="https://sessionize.com/scanagile24/"><img alt="CFP ScanAgile24" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=green"></a>
+* 12-15: [Explore DDD](http://exploreddd.com/) - Denver (USA) <a href="https://sessionize.com/explore-ddd-2023/"><img alt="CFP Explore DDD 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2023&color=green"></a>
 * 12-15: [AppDevCon](http://appdevcon.nl/) - Amsterdam (Netherlands) <a href="https://sessionize.com/appdevcon-2024"><img alt="CFP AppDevCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-December-2023&color=green"> </a>
 * 12-15: [WebDevCon](http://webdevcon.nl/) - Amsterdam (Netherlands) <a href="https://sessionize.com/webdevcon-2024"><img alt="CFP WebDevCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-December-2023&color=green"> </a>
 * 14-15: [pgDayParis](https://2024.pgday.paris/) - Paris (France)
@@ -266,7 +266,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-15: [T3chfest](https://t3chfest.es) - Madrid (Spain) <a href="https://t3chfest.es/2024/call-for-talks"><img alt="T3chfest" src="https://img.shields.io/static/v1?label=CFP&message=until%204-December-2023&color=green"></a>
 * 14-17: [SCaLE 21x](https://www.socallinuxexpo.org) - Pasadena, CA (USA) <a href="https://www.socallinuxexpo.org/scale/21x/call-presenters"><img alt="CFP SCaLE 21x" src="https://img.shields.io/static/v1?label=CFP&message=until%201-November-2023&color=green"></a>
 * 15: [DevOpsDays Los Angeles](https://devopsdays.org/events/2024-los-angeles/welcome/) - Los Angeles (USA)
-* 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)
+* 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland) <a href="https://vdz24.cfp.dev/"><img alt="CFP Voxxed Days Zurich" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=green"></a>
 * 16: [DDD Melbourne](https://www.dddmelbourne.com/) - Melbourne (Australia)
 * 18-21: [GTC 2024](https://www.nvidia.com/gtc/) - San Jose (USA) & Online <a href="https://www.nvidia.com/gtc/call-for-submissions/"><img alt="CFP GTC" src="https://img.shields.io/static/v1?label=CFP&message=until%208-September-2023&color=red"></a>
 * 19-22: [KubeCon + CloudNativeCon Europe 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2024/) - Paris (France)  <a href="https://sessionize.com/kubecon-cloudnativecon-europe-2024/"><img alt="CFP Kubecon EU" src="https://img.shields.io/static/v1?label=CFP&message=18-Sep-2023%20to%2026-Nov-2023&color=green"> </a>
