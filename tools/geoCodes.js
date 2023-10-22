@@ -35,5 +35,13 @@ geocoder.batchGeocode(locations).then((result) => {
         }
     });
 
-    fs.writeFileSync(GEOLOCATION_OUTPUT, JSON.stringify(geoLocationsObject));
+    const orderedGeoLocationsObject = Object.keys(geoLocationsObject).sort().reduce(
+      (obj, key) => {
+        obj[key] = geoLocationsObject[key];
+        return obj;
+      },
+      {}
+    );
+
+    fs.writeFileSync(GEOLOCATION_OUTPUT, JSON.stringify(orderedGeoLocationsObject, null, '  '));
 })
