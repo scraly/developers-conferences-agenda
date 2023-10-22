@@ -264,6 +264,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-15: [pgDayParis](https://2024.pgday.paris/) - Paris (France)
 * 14-15: [WASM IO](https://2024.wasmio.tech/) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio24"><img alt="CFP WASM IO" src="https://img.shields.io/static/v1?label=CFP&message=until%201-January-2024&color=green"></a>
 * 14-15: [T3chfest](https://t3chfest.es) - Madrid (Spain) <a href="https://t3chfest.es/2024/call-for-talks"><img alt="T3chfest" src="https://img.shields.io/static/v1?label=CFP&message=until%204-December-2023&color=green"></a>
+* 14-17: [SCaLE 21x](https://www.socallinuxexpo.org) - Pasadena, CA (USA) <a href="https://www.socallinuxexpo.org/scale/21x/call-presenters"><img alt="CFP SCaLE 21x" src="https://img.shields.io/static/v1?label=CFP&message=until%201-November-2023&color=green"></a>
 * 15: [DevOpsDays Los Angeles](https://devopsdays.org/events/2024-los-angeles/welcome/) - Los Angeles (USA)
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland)
 * 16: [DDD Melbourne](https://www.dddmelbourne.com/) - Melbourne (Australia)
@@ -281,7 +282,8 @@ All the data (past and coming) are available publicly in JSON:
 * 11-12: [JSDay](https://2024.jsday.it/) - Verona (Italy) <a href="https://2024.jsday.it/welcome/cfp.html"><img alt="CFP JSDay IT" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2023&color=green"></a>
 * 16-17: [DevOpsDays Zurich](https://devopsdays.org/events/2024-zurich/welcome/) - Zurich (Switzerland)
 * 16-17: [DevOpsDays Tokyo](https://devopsdays.org/events/2024-tokyo/welcome/) - Tokyo (Japan)
-* 17-18: [DevOpsDays Birmingham AI](https://devopsdays.org/events/2024-birmingham-al/welcome/) - Birmingham (USA)
+* 16-18: [Everything Open 2024](https://2024.everythingopen.au/) - Gladstone (Australia) <a href="https://2024.everythingopen.au/programme/proposals/"><img alt="CFP Everything Open 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=green"></a>
+* 17-18: [DevOpsDays Birmingham AI](https://devopsdays.org/events/2024-birmingham-al/welcome/) - Birmingham (USA) <a href="https://devopsdays.org/events/2024-birmingham-al/propose"><img alt="CFP DevOpsDays Birmingham AI" src="https://img.shields.io/static/v1?label=CFP&message=until%201-December-2023&color=green"></a>
 * 17-19: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 * 18-20: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece)
 * 18-20: [Dotnetdays](https://dotnetdays.ro/) - Iasi (Romania)
@@ -337,7 +339,7 @@ All the data (past and coming) are available publicly in JSON:
 ### September
 
 * 19-20: [API Platform Conference](https://api-platform.com/con/) - Lille (France) & Online
-* 26-27: [DevOpsDays London](https://devopsdays.org/events/2024-london/welcome/) - London (UK)
+* 26-27: [DevOpsDays London](https://devopsdays.org/events/2024-london/welcome/) - London (UK) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUK4VNyhpfpqhrm8BY7KmAvSNQHIuL49YOabkYDInbnyKD1g/viewform"><img alt="CFP DevOpsDays London" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-May-2024&color=green"></a>
 
 ### October
 
