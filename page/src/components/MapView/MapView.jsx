@@ -2,12 +2,15 @@ import 'styles/MapView.css';
 import 'leaflet/dist/leaflet.css';
 import geolocations from 'misc/geolocations.json';
 
-import icon from 'leaflet/dist/images/marker-icon.png';
+import iconMarker from 'leaflet/dist/images/marker-icon.png';
 import iconShadow from 'leaflet/dist/images/marker-shadow.png';
+//import iconRetina from 'leaflet/dist/images/marker-icon-2x.png';
+
 import { Icon } from 'leaflet'
 const myIcon = new Icon({
- iconUrl: icon,
- shadowUrl: iconShadow
+ iconUrl: iconMarker,
+ shadowUrl: iconShadow,
+ //iconRetinaUrl: iconRetina
 })
 
 import {useMemo} from 'react';
