@@ -2,6 +2,17 @@ import 'styles/MapView.css';
 import 'leaflet/dist/leaflet.css';
 import geolocations from 'misc/geolocations.json';
 
+import iconMarker from 'leaflet/dist/images/marker-icon.png';
+import iconShadow from 'leaflet/dist/images/marker-shadow.png';
+//import iconRetina from 'leaflet/dist/images/marker-icon-2x.png';
+
+import { Icon } from 'leaflet'
+const myIcon = new Icon({
+ iconUrl: iconMarker,
+ shadowUrl: iconShadow,
+ //iconRetinaUrl: iconRetina
+})
+
 import {useMemo} from 'react';
 
 import {MapContainer, TileLayer, Marker, Popup, Tooltip} from 'react-leaflet';
@@ -84,7 +95,7 @@ const MapView = ({year}) => {
             </div>
           ))
           return (
-            <Marker position={[geolocations[loc].latitude, geolocations[loc].longitude]} key={loc}>
+            <Marker icon={myIcon} position={[geolocations[loc].latitude, geolocations[loc].longitude]} key={loc}>
               <Popup maxWidth={600} minWidth={150}>{marker}</Popup>
               <Tooltip>{loc}</Tooltip>
             </Marker>
