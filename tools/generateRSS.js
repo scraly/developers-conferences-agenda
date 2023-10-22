@@ -14,7 +14,7 @@ const f = new feed.Feed({
   link: "https://developers.events/",
   feedLinks: {
     json: "https://developers.events/feed-events.json",
-    atom: "https://developers.events/feed-events.atom"
+    atom: "https://developers.events/feed-events.xml"
   },
 });
 
