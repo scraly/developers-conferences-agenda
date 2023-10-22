@@ -183,6 +183,7 @@ All the data (past and coming) are available publicly in JSON:
 * 25: [DevFest Pwani](https://gdg.community.dev/events/details/google-gdg-owerri-presents-devfest-owerri-2023/) - Mombasa (Kenya) <a href="https://sessionize.com/devfest-pwani-2023"><img alt="CFP DevFest Pwani" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-October-2023&color=red"></a>
 * 25: [DevFest Abuja](https://gdg.community.dev/events/details/google-gdg-abuja-presents-devfest-abuja-2023/cohost-gdg-abuja) - Abuja (Nigeria)
 * 25-26: [GambiConf](https://gambiconf.dev/) - São Paulo (Brazil) <a href="https://gambiconf.dev/cfp"><img alt="CFP GambiConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-August-2023&color=red"></a>
+* 26: [DevFest Istanbul](https://devfest.istanbul/) - Istanbul (Turkey)
 * 28: [HalfStack Tel Aviv](https://halfstackconf.com/telaviv/) - Tel Aviv (Israel) <a href="https://halfstackconf.com/cfp/"><img alt="CfP HalfStack" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-October-2023&color=green"></a>
 * 30: [Conf42: DevSecOps 2023](https://www.conf42.com/js2023) - Online
 * 30: [PrestaShop Developer Conference](https://events.prestashop.com/prestashop-developer-conference) - Paris (France) <a href="https://hopscotch.key4events.com/abstract.aspx?e=321&c=2683"><img alt="CFP PrestaShop Developer Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2023&color=red"></a>
