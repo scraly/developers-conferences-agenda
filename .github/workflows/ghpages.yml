@@ -29,6 +29,7 @@ jobs:
           node mdParser.js
           node generateIcs.js
           node generateRSS.js
+          node geoCodes.js
       - working-directory: page
         run: npm run build
       - name: Make all-*.json files available at the site root

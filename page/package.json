@@ -5,9 +5,10 @@
   "type": "module",
   "dependencies": {
     "ics-js": "^0.10.2",
+    "lucide-react": "0.252.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "lucide-react": "0.252.0"
+    "react-leaflet": "^4.2.1"
   },
   "scripts": {
     "start": "vite",
@@ -17,11 +18,11 @@
     "lint": "prettier -c --config node_modules/prettier-airbnb-config/index.json ./src/*.j[sx] ./src/**/*.j[sx]"
   },
   "devDependencies": {
-    "prettier": "^1.18.2",
-    "prettier-airbnb-config": "^1.0.0",
     "@types/react": "^18.0.37",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react-swc": "^3.0.0",
+    "prettier": "^1.18.2",
+    "prettier-airbnb-config": "^1.0.0",
     "vite": "^4.3.9"
   },
   "prettier": "prettier-airbnb-config"

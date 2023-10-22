@@ -11,6 +11,7 @@ node mdValidator.js
 node mdParser.js
 node generateIcs.js
 node generateRSS.js
+node geoCodes.js
 
 cd ../page
 npm start
