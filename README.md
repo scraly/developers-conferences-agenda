@@ -326,6 +326,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 03-05: [Fluttercon Berlin](https://fluttercon.dev/) - Berlin (Germany)
 * 03-05: [DroidCon Berlin](https://berlin.droidcon.com/) - Berlin (Germany)
+* 17-19: [WeAreDevelopers World Congress 2024](https://worldcongress.dev) - Berlin (Germany) <a href="https://sessionize.com/wearedevelopers-world-congress-2024"><img alt="CFP WeAreDevelopers World Congress 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=green"></a>
 * 25-27: [The Bitcoin Conference 2024](https://b.tc/conference) - Nashville, Tennessee (USA)
 
 ### August
