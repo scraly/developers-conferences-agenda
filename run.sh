@@ -10,6 +10,7 @@ npm install -D
 node mdValidator.js
 node mdParser.js
 node generateIcs.js
+node generateIcs4OpenedCfps.js
 node generateRSS.js
 node geoCodes.js
 
