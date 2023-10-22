@@ -7,6 +7,14 @@
   border: 1px solid #ccc;
 }
 
+.lucide-arrow-right-circle {
+  cursor: pointer;
+}
+
+.lucide-arrow-left-circle {
+  cursor: pointer;
+}
+
 .eventCell .content {
   display: flex;
   flex-direction: column;

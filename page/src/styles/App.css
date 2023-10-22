@@ -18,6 +18,7 @@ body {
 }
 
 .downloadButton {
+  cursor: pointer;
   text-decoration: none;
   color: black;
   width: max-content;
@@ -30,6 +31,20 @@ body {
   align-items: center;
   gap: 10px;
   cursor: pointer;
+}
+
+.downloadButton:hover{
+  cursor: pointer;
+  transition: transform 0.5s;
+  transform: scale(1.07);
+  -webkit-transform: scale(1.07);
+  -moz-transform: scale(1.07);
+  -ms-transform: scale(1.07);
+  -o-transform: scale(1.07);
+  -webkit-transition: transform 0.5s;
+  -moz-transition: transform 0.5s;
+  -ms-transition: transform 0.5s;
+  -o-transition: transform 0.5s;
 }
 
 .md {

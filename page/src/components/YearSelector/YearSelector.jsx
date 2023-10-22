@@ -11,9 +11,9 @@ const YearSelector = ({ year, onChange }) => {
   return (
     <div>
       <div className="yearNavigator">
-        <ArrowLeftCircle onClick={() => onChange(year - 1)} />
+        <ArrowLeftCircle className="arrowButton" onClick={() => onChange(year - 1)} />
         <h2 className="bigYearLabel">{year}</h2>
-        <ArrowRightCircle onClick={() => onChange(year + 1)} />
+        <ArrowRightCircle className="arrowButton" onClick={() => onChange(year + 1)} />
 
       </div>
       <div>
