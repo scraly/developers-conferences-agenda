@@ -1,35 +1,19 @@
-import {useMemo, useRef, useState, useEffect} from 'react';
+import {useRef, useEffect} from 'react';
 
 import 'styles/SelectedEvents.css';
 import EventDisplay from '../EventDisplay/EventDisplay';
 import EventCount from '../EventCount/EventCount'
-import {filterEvents, formatDate, getMonthName} from '../../utils';
+import {formatDate, getMonthName} from '../../utils';
 import {useCustomContext} from 'app.context';
+import {useMonthEvents, useDayEvents} from 'app.hooks';
 import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
 
 const SelectedEvents = ({year, month, date}) => {
   const {userState, userDispatch} = useCustomContext();
+
   const scrollToRef = useRef();
 
-  const events = useMemo(() => {
-    let events = [];
-    if (month !== -1 && year && window.dev_events[year] && window.dev_events[year][month]) {
-      Object.values(window.dev_events[year][month]).map(day => day.map(d => events.push(d)));
-    } else if (
-      date &&
-      window.dev_events[date.getFullYear()] &&
-      window.dev_events[date.getFullYear()][date.getMonth()] &&
-      window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()]
-    ) {
-      window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()].map(e =>
-        events.push(e)
-      );
-    }
-
-    events = filterEvents(events, userState.filters.callForPapers, userState.filters.closedCaptions, userState.filters.country, userState.filters.query)
-    events = [...new Map(events.map(item => [item.name, item])).values()];
-    return events
-  }, [year, month, date, userState.filters]);
+  const events = userState.month != -1 ? useMonthEvents(userState.month) : useDayEvents(date);
 
   useEffect(() => {
     setTimeout(() => {

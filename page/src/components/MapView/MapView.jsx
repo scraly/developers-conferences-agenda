@@ -22,14 +22,10 @@ import {useMemo} from 'react';
 
 import {MapContainer, TileLayer, Marker, Popup, Tooltip} from 'react-leaflet';
 
-import {getYearEvents} from 'utils';
-import {filterEvents} from '../../utils';
-import {useCustomContext} from 'app.context';
+import {useYearEvents} from 'app.hooks';
 
-const MapView = ({year}) => {
-  let events = useMemo(() => getYearEvents(year), [year]);
-  const {userState} = useCustomContext();
-  events = useMemo(() => filterEvents(events, userState.filters.callForPapers, userState.filters.closedCaptions, userState.filters.country, userState.filters.query), [userState, events]);
+const MapView = () => {
+  let events = useYearEvents()
 
   const eventsByLocation = useMemo(() => {
     return events.reduce((acc, cur) => {

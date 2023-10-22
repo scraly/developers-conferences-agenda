@@ -16,14 +16,8 @@ import 'styles/App.css';
 import {hasEvents} from './utils';
 
 const App = () => {
-  const [selectedYear, setSelectedYear] = useState(new Date().getFullYear());
   const [viewType, setViewType] = useState('calendar');
-  const [userState, userDispatch] = useReducer(reducer, {
-    filters: {callForPapers: false, closedCaptions: false, country: '', query: ''},
-    date: null,
-    month: null,
-    year: null,
-  });
+  const [userState, userDispatch] = useReducer(reducer, {filters: {callForPapers: false, closedCaptions: false, query: ''}, date: null, month: null, year: (new Date()).getFullYear()});
   const providerState = {
     userState,
     userDispatch,
@@ -47,15 +41,15 @@ const App = () => {
         />
         <div className="dcaContent">
           <YearSelector
-            year={selectedYear}
+            year={userState.year}
             onChange={year => {
-              setSelectedYear(year);
+              userDispatch({type: 'displayDate', payload: {date: null, month: null, year: year}});
             }}
           />
-          {viewType === 'calendar' && hasEvents(selectedYear) && (
-            <a href={'/developer-conference-' + selectedYear + '.ics'} className="downloadButton">
+          {viewType === 'calendar' && hasEvents(userState.year) && (
+            <a href={'/developer-conference-' + userState.year + '.ics'} className="downloadButton">
               <ArrowDownCircle />
-              Download {selectedYear} Calendar
+              Download {userState.year} Calendar
             </a>
           )}
 
@@ -82,13 +76,13 @@ const App = () => {
             />
           </div>
 
-          {viewType === 'calendar' && <CalendarGrid year={selectedYear} />}
+          {viewType === 'calendar' && <CalendarGrid year={userState.year} />}
           {viewType === 'calendar' && (
             <SelectedEvents date={userState.date} month={userState.month} year={userState.year} />
           )}
 
-          {viewType === 'list' && <ListView year={selectedYear} />}
-          {viewType === 'map' && <MapView year={selectedYear} />}
+          {viewType === 'list' && <ListView year={userState.year} />}
+          {viewType === 'map' && <MapView year={userState.year} />}
         </div>
       </div>
     </CustomContext.Provider>

@@ -1,15 +1,11 @@
 import 'styles/ListView.css';
 import {ArrowRight} from 'lucide-react';
 
-import {filterEvents} from '../../utils';
-import {useCustomContext} from 'app.context';
+import {useYearEvents} from 'app.hooks';
 
-import {getYearEvents} from 'utils';
+const ListView = () => {
+  let events = useYearEvents();
 
-const ListView = ({year}) => {
-  let events = getYearEvents(year);
-  const {userState} = useCustomContext();
-  events = filterEvents(events, userState.filters.callForPapers, userState.filters.closedCaptions, userState.filters.country, userState.filters.query);
   const monthNames = [
     'January',
     'February',

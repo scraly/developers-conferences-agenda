@@ -65,29 +65,3 @@ export const getMonthName = month =>
     'November',
     'December',
   ][month];
-
-export const filterEvents = (events, callForPapers, closedCaptions, country, query) => {
-  let result = events;
-  if (closedCaptions) {
-    result = events.filter(e => e.closedCaptions);
-  }
-
-  if (callForPapers) {
-    result = result.filter(e => e.cfp && new Date(e.cfp.untilDate) > new Date());
-  }
-
-  if (country) {
-    result = result.filter(e => e.country === country);
-  }
-
-  if (query) {
-    result = result.filter(
-      e =>
-        e.name.toLowerCase().includes(query.toLowerCase()) ||
-        e.hyperlink.toLowerCase().includes(query.toLowerCase()) ||
-        e.location.toLowerCase().includes(query.toLowerCase())
-    );
-  }
-
-  return result;
-};
