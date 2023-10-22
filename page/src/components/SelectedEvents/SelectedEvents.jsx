@@ -9,10 +9,9 @@ import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
 
 const SelectedEvents = ({year, month, date}) => {
   const {userState, userDispatch} = useCustomContext();
-  const [events, setEvents] = useState(null);
   const scrollToRef = useRef();
 
-  useMemo(() => {
+  const events = useMemo(() => {
     let events = [];
     if (month !== -1 && year && window.dev_events[year] && window.dev_events[year][month]) {
       Object.values(window.dev_events[year][month]).map(day => day.map(d => events.push(d)));
@@ -28,15 +27,8 @@ const SelectedEvents = ({year, month, date}) => {
     }
 
     events = filterEvents(events, userState.filters.callForPapers, userState.filters.closedCaptions, userState.filters.country, userState.filters.query)
-
     events = [...new Map(events.map(item => [item.name, item])).values()];
-    setEvents(
-      events.length ? (
-        events.map((e, i) => <EventDisplay key={`ev_${i}`} {...e} />)
-      ) : (
-        <p>No event found for that day</p>
-      )
-    );
+    return events
   }, [year, month, date, userState.filters]);
 
   useEffect(() => {
@@ -106,7 +98,13 @@ const SelectedEvents = ({year, month, date}) => {
             {next}
             </h3>
             <EventCount events={events} />
-          <div className="eventsGridDisplay">{events}</div>
+            <div className="eventsGridDisplay">
+              {events.length ? (
+                events.map((e, i) => <EventDisplay key={`ev_${i}`} {...e} />)
+              ) : (
+                <p>No event found for that day</p>
+              )}
+          </div>
         </>
       ) : (
         ''
