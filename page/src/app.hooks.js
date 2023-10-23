@@ -34,25 +34,27 @@ export const useYearEvents = () => {
   return filteredEvents;
 }
 
-export const useMonthEvents = () => {
+export const useMonthEvents = (yearEvents, month = null) => {
   const {userState} = useCustomContext();
-  const yearEvents = useYearEvents();
-  let result = yearEvents;
-  if (userState.month !== -1) {
-      result = yearEvents.filter(e => e.date[0] && new Date(e.date[0]).getMonth() === userState.month || e.date[1] && new Date(e.date[1]).getMonth() === userState.month);
-  }
-  return result;
+  const filterMonth = month === null ? userState.month : month;
+  return useMemo(() => {
+    let result = yearEvents;
+    if (filterMonth !== -1) {
+        result = result.filter(e => e.date[0] && new Date(e.date[0]).getMonth() === filterMonth || e.date[1] && new Date(e.date[1]).getMonth() === filterMonth);
+    }
+    return result
+  }, [filterMonth, yearEvents]);
 }
 
-export const useDayEvents = (day = null) => {
+export const useDayEvents = (monthEvents, day = null) => {
   const {userState} = useCustomContext();
-  const yearEvents = useYearEvents();
   const filterDay = day || userState.date;
 
-  let result = yearEvents
-  if (filterDay) {
-      result = result.filter(e => e.date[0] && new Date(e.date[0]).getMonth() === filterDay.getMonth() || e.date[1] && new Date(e.date[1]).getMonth() === filterDay.getMonth());
-      result = result.filter(e => e.date[0] && new Date(e.date[0]).getDate() === filterDay.getDate() || e.date[1] && new Date(e.date[1]).getDate() === filterDay.getDate());
-  }
-  return result;
+  return useMemo(() => {
+      let result = monthEvents
+      if (filterDay) {
+          result = result.filter(e => e.date[0] && new Date(e.date[0]).getDate() === filterDay.getDate() || e.date[1] && new Date(e.date[1]).getDate() === filterDay.getDate());
+      }
+      return result
+  }, [filterDay, monthEvents]);
 }

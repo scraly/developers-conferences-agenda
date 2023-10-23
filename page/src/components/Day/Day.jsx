@@ -1,17 +1,17 @@
 import {useDayEvents} from 'app.hooks';
 import {useCustomContext} from 'app.context';
 
-const Day = ({date}) => {
+const Day = ({date, events}) => {
   const {userDispatch} = useCustomContext()
-  const events = useDayEvents(date)
+  const dayEvents = useDayEvents(events, date)
 
   let intensity = '';
   let invisible = 'invisible';
 
   if (date) {
-    if (events.length > 0) {
+    if (dayEvents.length > 0) {
       intensity = ` intensity-${Math.min(
-        events.length,
+        dayEvents.length,
         7
       )}`;
     }

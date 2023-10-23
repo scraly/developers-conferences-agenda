@@ -5,7 +5,7 @@ import EventDisplay from '../EventDisplay/EventDisplay';
 import EventCount from '../EventCount/EventCount'
 import {formatDate, getMonthName} from '../../utils';
 import {useCustomContext} from 'app.context';
-import {useMonthEvents, useDayEvents} from 'app.hooks';
+import {useMonthEvents, useDayEvents, useYearEvents} from 'app.hooks';
 import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
 
 const SelectedEvents = ({year, month, date}) => {
@@ -13,7 +13,10 @@ const SelectedEvents = ({year, month, date}) => {
 
   const scrollToRef = useRef();
 
-  const events = userState.month != -1 ? useMonthEvents(userState.month) : useDayEvents(date);
+  const yearEvents = useYearEvents()
+  const monthEvents = useMonthEvents(yearEvents, userState.month != -1 ? userState.month : userState.date.getMonth())
+  const dayEvents = useDayEvents(monthEvents, userState.date)
+  const events = userState.month != -1 ?  monthEvents : dayEvents;
 
   useEffect(() => {
     setTimeout(() => {
