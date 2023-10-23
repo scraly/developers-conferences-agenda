@@ -1,6 +1,6 @@
 import {useReducer, useState} from 'react';
 
-import {ArrowDownCircle, Calendar, List, Map} from 'lucide-react';
+import {Calendar, CalendarDays, CalendarClock, List, Map} from 'lucide-react';
 
 import CalendarGrid from 'components/CalendarGrid/CalendarGrid';
 import ListView from 'components/ListView/ListView';
@@ -53,10 +53,16 @@ const App = () => {
             }}
           />
           {viewType === 'calendar' && hasEvents(selectedYear) && (
-            <a href={'/developer-conference-' + selectedYear + '.ics'} className="downloadButton">
-              <ArrowDownCircle />
-              Download {selectedYear} Calendar
-            </a>
+            <div className='downloadButtons'>
+              <a href={'/developer-conference-' + selectedYear + '.ics'} title={'Download ' + selectedYear + ' Calendar'} className="downloadButton">
+                <CalendarDays />
+                {selectedYear} Calendar
+              </a>
+              <a href={'/developer-conference-opened-cfps.ics'} title="Download Opened CFP Calendar" className="downloadButton">
+                <CalendarClock />
+                Opened CFP Calendar
+              </a>
+            </div>
           )}
 
           <div className="view-type-selector">
