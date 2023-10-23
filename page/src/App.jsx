@@ -17,11 +17,18 @@ import 'styles/App.css';
 
 const App = () => {
   const [viewType, setViewType] = useState('calendar');
-  const [userState, userDispatch] = useReducer(reducer, {filters: {callForPapers: false, closedCaptions: false, query: ''}, date: null, month: null, year: (new Date()).getFullYear()});
-  const providerState = {
-    userState,
-    userDispatch,
-  };
+  const [userState, userDispatch] = useReducer(reducer, {
+    filters: {
+      callForPapers: false,
+      closedCaptions: false,
+      query: ''
+    },
+    date: null,
+    month: null,
+    year: (new Date()).getFullYear()
+  });
+
+  const providerState = {userState, userDispatch};
 
   const hasYearEvents = useHasYearEvents(userState.year);
 
@@ -38,7 +45,7 @@ const App = () => {
             userDispatch({type: 'setFilters', payload: {...userState.filters, [key]: value}})
           }
           onClose={() =>
-            userDispatch({type: 'setFilters', payload: {callForPapers: false, query: ''}})
+            userDispatch({type: 'resetFilters'})
           }
         />
         <div className="dcaContent">
