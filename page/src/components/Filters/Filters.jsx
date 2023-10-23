@@ -1,14 +1,14 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState } from 'react';
 
 import { Filter, FilterX } from 'lucide-react';
 
-import {getAllCountries} from 'utils';
+import {useCountries} from 'app.hooks';
 
 import 'styles/Filters.css';
 
 const Filters = ({ query, callForPapers, closedCaptions, country, onChange, onClose }) => {
   const [open, setOpen] = useState(false);
-  const countries = useMemo(() => getAllCountries(), []);
+  const countries = useCountries()
 
   return (
     <div className={"filters " + (open ? 'open' : 'closed')}>

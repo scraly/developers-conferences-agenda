@@ -24,6 +24,8 @@ import {MapContainer, TileLayer, Marker, Popup, Tooltip} from 'react-leaflet';
 
 import {useYearEvents} from 'app.hooks';
 
+import {getMonthNameShort} from 'utils';
+
 const MapView = () => {
   let events = useYearEvents()
 
@@ -40,31 +42,12 @@ const MapView = () => {
     }, {})
   }, [events]);
 
-  const monthNames = [
-    'January',
-    'February',
-    'March',
-    'April',
-    'May',
-    'June',
-    'July',
-    'August',
-    'September',
-    'October',
-    'November',
-    'December',
-  ];
   const formatDate = dates => {
-    const startDate = `${new Date(dates[0]).getDate()}-${monthNames[
-      new Date(dates[0]).getMonth()
-    ].slice(0, 3)}`;
+    const startDate = `${new Date(dates[0]).getDate()}-${getMonthNameShort(new Date(dates[0]).getMonth())}`;
     let endDate = '';
     if (dates.length > 1) {
       endDate = new Date(dates[1]).getDate();
-      endDate = `${new Date(dates[1]).getDate()}-${monthNames[new Date(dates[1]).getMonth()].slice(
-        0,
-        3
-      )}`;
+      endDate = `${new Date(dates[1]).getDate()}-${getMonthNameShort(new Date(dates[1]).getMonth())}`;
     }
     if (endDate) {
       return (

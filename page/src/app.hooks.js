@@ -2,6 +2,18 @@ import allEvents from 'misc/all-events.json';
 import {useMemo} from 'react';
 import {useCustomContext} from 'app.context';
 
+export const useHasYearEvents = (year) => {
+  return useMemo(() => Boolean(allEvents.find(e => new Date(e.date[0]).getFullYear() === year)), [year]);
+}
+
+export const useCountries = () => {
+  return useMemo(() => {
+      const countries = new Set(allEvents.map(e => e.country));
+
+      return Array.from(countries).filter((c) => c != "Online" && c != "").sort();
+  }, []);
+}
+
 export const useYearEvents = () => {
   const {userState} = useCustomContext();
   const yearEvents = useMemo(() => allEvents.filter(e => e.date[0] && new Date(e.date[0]).getFullYear() === userState.year), [userState.year]);

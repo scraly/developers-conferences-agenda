@@ -10,10 +10,10 @@ import Filters from 'components/Filters/Filters';
 
 import CustomContext from 'app.context';
 import reducer from 'app.reducer';
+import {useHasYearEvents} from 'app.hooks';
 import SelectedEvents from 'components/SelectedEvents/SelectedEvents';
 import 'misc/fonts/inter/inter.css';
 import 'styles/App.css';
-import {hasEvents} from './utils';
 
 const App = () => {
   const [viewType, setViewType] = useState('calendar');
@@ -22,6 +22,8 @@ const App = () => {
     userState,
     userDispatch,
   };
+
+  const hasYearEvents = useHasYearEvents(userState.year);
 
   return (
     <CustomContext.Provider value={providerState}>
@@ -46,7 +48,7 @@ const App = () => {
               userDispatch({type: 'displayDate', payload: {date: null, month: null, year: year}});
             }}
           />
-          {viewType === 'calendar' && hasEvents(userState.year) && (
+          {viewType === 'calendar' && hasYearEvents && (
             <a href={'/developer-conference-' + userState.year + '.ics'} className="downloadButton">
               <ArrowDownCircle />
               Download {userState.year} Calendar

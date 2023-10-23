@@ -2,33 +2,19 @@ import 'styles/ListView.css';
 import {ArrowRight} from 'lucide-react';
 
 import {useYearEvents} from 'app.hooks';
+import {getMonthName, getMonthNames, getMonthNameShort} from 'utils';
 
 const ListView = () => {
   let events = useYearEvents();
 
-  const monthNames = [
-    'January',
-    'February',
-    'March',
-    'April',
-    'May',
-    'June',
-    'July',
-    'August',
-    'September',
-    'October',
-    'November',
-    'December',
-  ];
-
   const eventsByMonth = events.reduce((acc, cur) => {
-    const currentMonth = monthNames[new Date(cur.date[0]).getMonth()];
+    const currentMonth = getMonthName(new Date(cur.date[0]).getMonth());
     if (!acc[currentMonth]) {
       acc[currentMonth] = [];
     }
     acc[currentMonth].push(cur);
     if (cur.date.length > 1) {
-      const nextMonth = monthNames[new Date(cur.date[1]).getMonth()];
+      const nextMonth = getMonthName(new Date(cur.date[1]).getMonth());
       if (currentMonth !== nextMonth) {
         if (!acc[nextMonth]) {
           acc[nextMonth] = [];
@@ -40,16 +26,11 @@ const ListView = () => {
   }, {});
 
   const formatDate = dates => {
-    const startDate = `${new Date(dates[0]).getDate()}-${monthNames[
-      new Date(dates[0]).getMonth()
-    ].slice(0, 3)}`;
+    const startDate = `${new Date(dates[0]).getDate()}-${getMonthNameShort(new Date(dates[0]).getMonth())}`;
     let endDate = '';
     if (dates.length > 1) {
       endDate = new Date(dates[1]).getDate();
-      endDate = `${new Date(dates[1]).getDate()}-${monthNames[new Date(dates[1]).getMonth()].slice(
-        0,
-        3
-      )}`;
+      endDate = `${new Date(dates[1]).getDate()}-${getMonthNameShort(new Date(dates[1]).getMonth())}`;
     }
     if (endDate) {
       return (
@@ -65,7 +46,7 @@ const ListView = () => {
 
   return (
     <div className="listView">
-      {monthNames
+      {getMonthNames()
         .filter(m => eventsByMonth[m])
         .map(month => (
           <>
