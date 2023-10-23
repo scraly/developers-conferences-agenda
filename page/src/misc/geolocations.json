@@ -527,6 +527,10 @@
     "latitude": 51.0538286,
     "longitude": 3.7250121
   },
+  "Gladstone (Australia)": {
+    "latitude": -23.8431724,
+    "longitude": 151.256132
+  },
   "Glasgow (Scotland)": {
     "latitude": 55.861155,
     "longitude": -4.2501687
@@ -554,6 +558,10 @@
   "Grenoble (France)": {
     "latitude": 45.1875602,
     "longitude": 5.7357819
+  },
+  "Guadalajara (Mexico)": {
+    "latitude": 20.6720375,
+    "longitude": -103.338396
   },
   "Gujarat (India)": {
     "latitude": 22.3850051,
