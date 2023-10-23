@@ -3,6 +3,7 @@ body {
   box-sizing: border-box;
 
   font-family: Inter, Arial, sans-serif;
+  flex-grow: 1;
 }
 
 .dcaTitle {
@@ -17,11 +18,17 @@ body {
   flex-grow: 1;
 }
 
+.downloadButtons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .downloadButton {
   text-decoration: none;
   color: black;
   width: max-content;
-  margin: 1rem auto;
+  margin: 1rem;
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 3px;

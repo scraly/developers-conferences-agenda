@@ -53,16 +53,16 @@ const App = () => {
             }}
           />
           {viewType === 'calendar' && hasEvents(selectedYear) && (
-            <a href={'/developer-conference-' + selectedYear + '.ics'} title={'Download ' + selectedYear + ' Calendar'} className="downloadButton">
-              <CalendarDays />
-              {selectedYear} Calendar
-            </a>
-          )}
-          {viewType === 'calendar' && hasEvents(selectedYear) && (
-            <a href={'/developer-conference-opened-cfps.ics'} title="Download Opened CFP Calendar" className="downloadButton">
-              <CalendarClock />
-              Opened CFP Calendar
-            </a>
+            <div className='downloadButtons'>
+              <a href={'/developer-conference-' + selectedYear + '.ics'} title={'Download ' + selectedYear + ' Calendar'} className="downloadButton">
+                <CalendarDays />
+                {selectedYear} Calendar
+              </a>
+              <a href={'/developer-conference-opened-cfps.ics'} title="Download Opened CFP Calendar" className="downloadButton">
+                <CalendarClock />
+                Opened CFP Calendar
+              </a>
+            </div>
           )}
 
           <div className="view-type-selector">
