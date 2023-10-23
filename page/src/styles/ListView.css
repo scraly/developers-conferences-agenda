@@ -31,14 +31,6 @@
   margin-right: 10px;
 }
 
-.listView .lucide-arrow-right {
-  height: 16px;
-  width: 16px;
-  margin: 0 3px;
-  position: relative;
-  top: 2px;
-}
-
 .listView .eventsGridDisplay {
   border: 0px;
   width: 100%;

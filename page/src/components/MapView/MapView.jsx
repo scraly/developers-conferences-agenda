@@ -24,7 +24,7 @@ import {MapContainer, TileLayer, Marker, Popup, Tooltip} from 'react-leaflet';
 
 import {useYearEvents} from 'app.hooks';
 
-import {getMonthNameShort} from 'utils';
+import ShortDate from 'components/ShortDate/ShortDate';
 
 const MapView = () => {
   let events = useYearEvents()
@@ -42,22 +42,6 @@ const MapView = () => {
     }, {})
   }, [events]);
 
-  const formatDate = dates => {
-    const startDate = `${new Date(dates[0]).getDate()}-${getMonthNameShort(new Date(dates[0]).getMonth())}`;
-    let endDate = '';
-    if (dates.length > 1) {
-      endDate = new Date(dates[1]).getDate();
-      endDate = `${new Date(dates[1]).getDate()}-${getMonthNameShort(new Date(dates[1]).getMonth())}`;
-    }
-    if (endDate) {
-      return (
-        <span>
-          {startDate} -&gt; {endDate}
-        </span>
-      );
-    }
-    return <span>{startDate}</span>;
-  };
 
   return (
     <div className="mapView">
@@ -72,7 +56,7 @@ const MapView = () => {
           }
           const marker = eventsByLocation[loc].map((e, i) => (
             <div key={`ev_${i}`} className='event-map-entry'>
-              {formatDate(e.date)}
+              <ShortDate dates={e.date} />
               {e.hyperlink ? <a href={e.hyperlink} target='_blank'>{e.name}</a> : <b>{e.name}</b>}
               <span dangerouslySetInnerHTML={{__html: e.misc}}></span>
               {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}

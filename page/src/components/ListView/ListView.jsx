@@ -1,8 +1,8 @@
 import 'styles/ListView.css';
-import {ArrowRight} from 'lucide-react';
 
 import {useYearEvents} from 'app.hooks';
-import {getMonthName, getMonthNames, getMonthNameShort} from 'utils';
+import {getMonthName, getMonthNames} from 'utils';
+import ShortDate from 'components/ShortDate/ShortDate';
 
 const ListView = () => {
   let events = useYearEvents();
@@ -25,25 +25,6 @@ const ListView = () => {
     return acc;
   }, {});
 
-  const formatDate = dates => {
-    const startDate = `${new Date(dates[0]).getDate()}-${getMonthNameShort(new Date(dates[0]).getMonth())}`;
-    let endDate = '';
-    if (dates.length > 1) {
-      endDate = new Date(dates[1]).getDate();
-      endDate = `${new Date(dates[1]).getDate()}-${getMonthNameShort(new Date(dates[1]).getMonth())}`;
-    }
-    if (endDate) {
-      return (
-        <span>
-          {startDate}
-          <ArrowRight />
-          {endDate}
-        </span>
-      );
-    }
-    return <span>{startDate}</span>;
-  };
-
   return (
     <div className="listView">
       {getMonthNames()
@@ -53,7 +34,7 @@ const ListView = () => {
             <h1>{month}</h1>
             {eventsByMonth[month].map((e, i) => (
               <div key={`${month}_ev_${i}`} className='event-list-entry'>
-                {formatDate(e.date)}
+                <ShortDate dates={e.date} />
                 <b>{e.name}</b>
                 {e.hyperlink ? <a href={e.hyperlink}>{new URL(e.hyperlink).hostname}</a> : ''}
                 <span>{e.location}</span>
