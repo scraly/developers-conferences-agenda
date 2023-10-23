@@ -329,6 +329,7 @@ All the data (past and coming) are available publicly in JSON:
 * 24: [AFUP Day Lyon](https://event.afup.org/afup-day-2024/afup-day-2024-lyon/) - Lyon (France) <a href="https://afup.org/event/afupday2024lyon"><img alt="CFP AFUP Day Nancy 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-November-2023&color=green"></a>
 * 27-31: [Domain-Driven Design Europe 2024](https://2024.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://2024.dddeurope.com/cfp/"><img alt="CFP DDD Europe 2024 conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Feb-2024&color=green"></a>
 * 28-29: [Cybersec Europe](https://www.cyberseceurope.com/) - Bruxelles (Belgium)
+* 28-30: [Web à Québec](https://webaquebec.org/) - Qubec (Canada)
 * 30-31: [Craft Conf](https://craft-conf.com/2024) - Budapest (Hungary)
 
 ### June
