@@ -262,7 +262,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### March
 
-* 4-5: [Gartner IAM Summit](https://www.gartner.com/en/conferences/emea/identity-access-management-uk?utm_campaign=Bimonthly%20newsletter&utm_medium=email&_hsmi=278991150&_hsenc=p2ANqtz--7CE7iGl0OVevnIDv0Ie5zXladlTsg4atF3lWIdIwIwdxNq5i2Jp9WdZe9FQI--OyDcyN6VV9_BtP0wuxha1Cct9V2tg&utm_content=278991150&utm_source=hs_email) - London(UK)
+* 4-5: [Gartner IAM Summit](https://www.gartner.com/en/conferences/emea/identity-access-management-uk) - London(UK)
 * 6-7: [FlowCon 2024](https://my.weezevent.com/flowcon-2024) - Paris (France)
 * 6-7: [Scan Agile](https://www.scan-agile.org/) - Helsinki (Finland) <a href="https://sessionize.com/scanagile24/"><img alt="CFP ScanAgile24" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=green"></a>
 * 12-15: [Explore DDD](http://exploreddd.com/) - Denver (USA) <a href="https://sessionize.com/explore-ddd-2023/"><img alt="CFP Explore DDD 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2023&color=green"></a>
