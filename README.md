@@ -226,6 +226,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8: [DevFest Dijon](https://developers-group-dijon.fr/#devfest) - Dijon (France) <a href="https://conference-hall.io/public/event/YfMYBkCIuy2dMjdhRZlX"><img alt="CFP DevFest Dijon" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-october-2023&color=red"></a>
 * 8: [React Day Berlin](https://reactday.berlin/) - Berlin (Germany)
 * 8: [KubeDay India](https://events.linuxfoundation.org/kubeday-india/) - Bengaluru (India) <a href="https://events.linuxfoundation.org/kubeday-india/program/cfp/"><img alt="CFP KubeDay India" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-September-2023&color=red"></a>
+* 8: [DevFest San Jose 2023](https://gdg.community.dev/events/details/google-gdg-san-jose-presents-gdg-san-jose-devfest-2023/) - San Jose (USA) <a href="https://sessionize.com/devfest-gdg-san-jose2856/"><img alt="CFP DevFest San Jose 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-November-2023&color=green"></a>
 * 9: [DevFest 2023 Ikorodu](https://gdg.community.dev/events/details/google-gdg-ikorodu-presents-devfest-2023-ikorodu/) - Ikorodu (Nigeria)
 * 9: [Flutter Conf India](https://flutterconf.in/) - Gujarat (India)
 * 9: [DevOpsDays Porto Alegre](https://devopsdays.org/events/2023-porto-alegre) - Porto Alegre (Brazil)
