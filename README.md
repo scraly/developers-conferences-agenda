@@ -100,6 +100,7 @@ All the data (past and coming) are available publicly in JSON:
 * 26-27: [Droidcon London](https://london.droidcon.com/) - London (UK) <a href="https://sessionize.com/droidcon-london-2023/"><img alt="CFP Droidcon London 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2023&color=red"></a>
 * 26-29: [SoCraTes-FR](https://socrates-fr.github.io/) - Orange (France)
 * 27: [Go West Conf](https://www.gowestconf.com/) - Lehi, UTAH (USA)
+* 27: [ReactJSDay 2023](https://2023.reactjsday.it/) - Verona (Italy)
 * 28: [BiznagaFest](https://biznagafest.com/) - Malaga (Spain)
 * 28: [DevFest Mauritius 2023](https://gdg.community.dev/events/details/google-gdg-mauritius-presents-devfest-mauritius-2023/) - Moka (Mauritius) <a href="https://sessionize.com/google-devfest-2023-mauritius/"><img alt="CFP DevFest Mauritius 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=red"></a>
 * 28: [DevFest Zimbabwe](https://gdg.community.dev/events/details/google-gdg-harare-presents-devfest-zimbabwe-2023/) - Harare (Zimbabwe)
@@ -116,6 +117,9 @@ All the data (past and coming) are available publicly in JSON:
 * 3: [XCraft](https://xcraft.fr) - Lyon (France)
 * 3: [DevFest Uyo](https://gdg.community.dev/events/details/google-gdg-uyo-presents-devfest-uyo-2023/) - Uyo (Nigeria)
 * 3: [SyliusCon](https://sylius.com/conference) - Poznan (Poland)
+* 3: [City JS Berlin](https://berlin.cityjsconf.org/home) - Berlin (Germany)
+* 3: [Fyne Conf](https://conf.fyne.io/) - Edinburgh (UK)
+* 3-4: [DevFest Catania](https://gdg.community.dev/events/details/google-gdg-catania-presents-devfest-catania-2023/) - Catania (Italy)
 * 3-5: [Hackaday Supercon 2023](https://hackaday.com/2023/05/10/supercon-2023-is-on-we-want-you/) - Pasadena (USA) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYDwIzWTHZ0_7d8GUznm3Z9w3y8aDcV1MVGSUyY1nTcdJ9Jw/viewform?usp=sf_link"><img alt="CFP Hackaday SuperCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-July-2023&color=red"></a>
 * 4: [DevFest Nairobi](https://gdg.community.dev/events/details/google-gdg-nairobi-presents-gdg-devfest-nairobi-2023/) - Nairobi (Kenya)
 * 4: [DevFest Jalingo 2023](https://gdg.community.dev/events/details/google-gdg-jalingo-presents-devfest-2023-jalingo/) - Jalingo (Nigeria) <a href="https://sessionize.com/devfest-2023-jalingo/"><img alt="CFP DevFest Jalingo 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2023&color=red"></a>
@@ -150,15 +154,19 @@ All the data (past and coming) are available publicly in JSON:
 * 9: [BDAI UK](https://whitehallmedia.co.uk/bdanov2023/) - London (UK)
 * 9-10: [Devops Barcelona Conference 2023](https://devops.barcelona/?utm_source=developers-conference-agenda&utm_medium=link&utm_campaign=devops-barcelona-2023&utm_id=devops-barcelona-2023) - Barcelona (Spain) <a href="https://devops.barcelona/call-for-papers?utm_source=developers-conference-agenda&utm_medium=link&utm_campaign=devops-barcelona-2023&utm_id=devops-barcelona-2023"><img alt="CFP Devops Barcelona 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=red"></a>
 * 10: [BDX I/O](https://www.bdxio.fr/) - Bordeaux (France) <a href="https://conference-hall.io/public/event/VORL07zbTZ8CBB8kOVgq"> <img alt="CFP BDX I/O 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-July-2023&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+* 10: [VueDay](https://2023.vueday.it/) - Verona (Italy)
 * 11: [Flutteristas Conference](https://flutteristas.org/) - Online
 * 11: [DevOpsDays Belem](https://devopsdays.org/events/2023-belem) - Belem (Brazil)
 * 11: [DevOpsDays Florianópolis](https://devopsdays.org/events/2023-florianopolis) - Florianópolis (Brazil)
 * 11-12: [Droidcon Uganda](https://www.uganda.droidcon.com/) - Kampala (Uganda) <a href="https://sessionize.com/droidcon-uganda-2023"><img alt="CFP Droidcon Uganda 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-September-2023&color=red"></a>
+* 11-12: [PyCon Ireland 2023](https://python.ie/pycon-2023/) - Dublin (Ireland)
 * 12-14: [Meeting C++ 2023](https://meetingcpp.com/) - Berlin (Germany) & Online
 * 13-16: [Web Summit 2023](https://websummit.com/) - Lisbon (Portugal)
 * 14: [Data Community Conference](https://www.data-community.ch/) - Bern (Switzerland)
 * 14: [KCD Denmark](https://kcddenmark.dk/) - Brabrand (Denmark) <a href="https://kcd.smapply.io/prog/cfp_for_kcd_denmark_2023/"><img alt="KCD Denmark 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2023&color=red"></a>
 * 14: [IDM Nordics](https://whitehallmedia.co.uk/idmnordicsnov2023/) - Stockholm (Sweden)
+* 14: [Women In Agile](https://womeninagile.eu/#home) - Eindhoven (Netherlands)
+* 14-15: [Observability Con 2023](https://grafana.com/about/events/observabilitycon/2023/) - London (UK)
 * 15: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/public/event/I0SQmndJ7vrnWeBdEuTQ"><img alt="CFP DevFest Strasbourg 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2023&color=red"></a>
 * 15: [HalfStack London](https://halfstackconf.com/london/) - London (UK) <a href="https://halfstackconf.com/cfp/"><img alt="CfP HalfStack" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=red"></a>
 * 15: [DevOpsDays Chattanooga](https://devopsdays.org/events/2023-chattanooga/welcome/) - Chattanooga (USA)
