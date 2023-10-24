@@ -58,7 +58,7 @@ const App = () => {
           />
           {viewType === 'calendar' && hasYearEvents && (
             <div className='downloadButtons'>
-              <a href={'/developer-conference-' + userState.year + '.ics'} title={'Download ' + selectedYear + ' Calendar'} className="downloadButton">
+              <a href={'/developer-conference-' + userState.year + '.ics'} title={'Download ' + userState.year + ' Calendar'} className="downloadButton">
                 <CalendarDays />
                 {userState.year} Calendar
               </a>
