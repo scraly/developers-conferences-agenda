@@ -389,6 +389,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-11: [Devoxx Belgium](https://devoxx.be) - Antwerp (Belgium)
 * 10-11: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France)
 * 15: [CYBERGOV](https://whitehallmedia.co.uk/future-events/) - London (UK)
+* 17-18: [DevFest Nantes](https://devfest.gdgnantes.com/en/) - Nantes (France)
 * 27-29: [All Things Open](https://2023.allthingsopen.org/ato-2024-save-the-date/) - Raleigh (USA)
 
 ### November
