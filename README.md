@@ -115,7 +115,7 @@ All the data (past and coming) are available publicly in JSON:
 * 01-03: [Ektoparty 2023](https://ekoparty.org/) - Buenos Ares (Argentina)
 * 2: [GopherCon Ireland](https://gophercon.ie/) - Dublin (Ireland) <a href="https://www.papercall.io/gopherconie"><img alt="GopherCon Ireland 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-July-2023&color=red"></a>
 * 02: [Data.TLV Summit 2023](http://datatlv.com/) - Tel Aviv (Israel)
-* 02: [Day of Shecurity](https://www.dayofshecurity.com/nov-2023-conference) - VIRTUAL ()
+* 02: [Day of Shecurity](https://www.dayofshecurity.com/nov-2023-conference) - Online
 * 2-3: [Agile Tour Nantes](https://agilenantes.org/evenements/agile-tour-nantes/agile-tour-nantais-2023/) - Nantes (France)
 * 2-3: [GopherCon Singapore and Southeast Asia](https://2023.gophercon.sg/) - Singapore (Singapore)
 * 3: [XCraft](https://xcraft.fr) - Lyon (France)
