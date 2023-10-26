@@ -122,7 +122,7 @@ All the data (past and coming) are available publicly in JSON:
 * 3: [DevFest Uyo](https://gdg.community.dev/events/details/google-gdg-uyo-presents-devfest-uyo-2023/) - Uyo (Nigeria)
 * 3: [SyliusCon](https://sylius.com/conference) - Poznan (Poland)
 * 3: [City JS Berlin](https://berlin.cityjsconf.org/home) - Berlin (Germany)
-* 3: [Fyne Conf](https://conf.fyne.io/) - Edinburgh (UK)
+* 3: [Fyne Conf](https://conf.fyne.io/) - Edinburgh (Scotland)
 * 03: [Fyne Conf](https://conf.fyne.io/) - Edinburgh (Scotland)
 * 3-4: [DevFest Catania](https://gdg.community.dev/events/details/google-gdg-catania-presents-devfest-catania-2023/) - Catania (Italy)
 * 3-5: [Hackaday Supercon 2023](https://hackaday.com/2023/05/10/supercon-2023-is-on-we-want-you/) - Pasadena (USA) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYDwIzWTHZ0_7d8GUznm3Z9w3y8aDcV1MVGSUyY1nTcdJ9Jw/viewform?usp=sf_link"><img alt="CFP Hackaday SuperCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-July-2023&color=red"></a>
