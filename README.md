@@ -198,7 +198,7 @@ observability-day/) - Chicago, IL (USA)
 * 16: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France) <a href="https://devfesttoulouse.fr/#le-cfp"><img alt="CFP DevFest Toulouse 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2023&color=red"></a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 16: [Conf42: Javascript 2023](https://www.conf42.com/js2023) - Online
 * 16: [code::dive](https://codedive.pl/) - Wrocław (Poland)
-* 16: [Hashitalks Thailand](https://events.hashicorp.com/hashitalksthailand) - ONLINE ()
+* 16: [Hashitalks Thailand](https://events.hashicorp.com/hashitalksthailand) - Online
 * 16: [Kotlin Dev Day](https://kotlindevday.com/) - Amsterdam (Netherlands)
 * 16: [VMug Italy Usercon](https://www.vmug.it/) - Milan (Italy)<a href="https://www.papercall.io/vmugit-usercon-2023"><img alt=CFP  Milan src="https://img.shields.io/static/v1?label=CFP&message=until%2029-Oct-2023color=green"></a>
 * 16-19: [PHPCon Poland](https://2023.phpcon.pl/en/) - Zawiercie (Poland)
