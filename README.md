@@ -199,7 +199,7 @@ All the data (past and coming) are available publicly in JSON:
 * 16: [code::dive](https://codedive.pl/) - Wrocław (Poland)
 * 16: [Hashitalks Thailand](https://events.hashicorp.com/hashitalksthailand) - Online
 * 16: [Kotlin Dev Day](https://kotlindevday.com/) - Amsterdam (Netherlands)
-* 16: [VMug Italy Usercon](https://www.vmug.it/) - Milan (Italy)<a href="https://www.papercall.io/vmugit-usercon-2023"><img alt=CFP  Milan src="https://img.shields.io/static/v1?label=CFP&message=until%2029-Oct-2023color=green"></a>
+* 16: [VMug Italy Usercon](https://www.vmug.it/) - Milan (Italy) <a href="https://www.papercall.io/vmugit-usercon-2023"><img alt="CFP  Milan" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-Oct-2023color=green"></a>
 * 16-19: [PHPCon Poland](https://2023.phpcon.pl/en/) - Zawiercie (Poland)
 * 16-18: [Droidcon Kenya](https://droidcon.co.ke/) - Nairobi (Kenya) <a href="https://sessionize.com/droidcon-kenya-2023/"><img alt="CFP Droidcon Kenya 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-September-2023&color=red"></a>
 * 16-23: [LANOG 1.0](https://nog.la/) - Vientiane (Laos)<a href="https://nog.la/lanog-1-0/call-for-papers/"><img alt=CFP  Vientiane src="https://img.shields.io/static/v1?label=CFP&message=until%2029-Nov-2023color=green"></a>
