@@ -188,7 +188,7 @@ observability-day/) - Chicago, IL (USA)
 * 14: [IDM Nordics](https://whitehallmedia.co.uk/idmnordicsnov2023/) - Stockholm (Sweden)
 * 14: [Women In Agile](https://womeninagile.eu/#home) - Eindhoven (Netherlands)
 * 14-15: [Observability Con 2023](https://grafana.com/about/events/observabilitycon/2023/) - London (UK)
-* 14-16: [.Net Conf 2023](https://www.dotnetconf.net/) - ONLINE ()<a href="https://sessionize.com/dotnetconf-2023"><img alt=CFP  ONLINE src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Oct-2023color=green"></a>
+* 14-16: [.Net Conf 2023](https://www.dotnetconf.net/) - Online <a href="https://sessionize.com/dotnetconf-2023"><img alt="CFP.Net Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Oct-2023color=green"></a>
 * 15: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/public/event/I0SQmndJ7vrnWeBdEuTQ"><img alt="CFP DevFest Strasbourg 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2023&color=red"></a>
 * 15: [HalfStack London](https://halfstackconf.com/london/) - London (UK) <a href="https://halfstackconf.com/cfp/"><img alt="CfP HalfStack" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=red"></a>
 * 15: [DevOpsDays Chattanooga](https://devopsdays.org/events/2023-chattanooga/welcome/) - Chattanooga (USA)
