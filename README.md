@@ -170,7 +170,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10: [BDX I/O](https://www.bdxio.fr/) - Bordeaux (France) <a href="https://conference-hall.io/public/event/VORL07zbTZ8CBB8kOVgq"> <img alt="CFP BDX I/O 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-July-2023&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 10: [VueDay](https://2023.vueday.it/) - Verona (Italy)
 * 10: [NextFive](https://nextfive.io/) - Kansas City, KS (USA)
-* 10: [Thunderplains](https://2023.thunderplainsconf.com/) - Oklahoma City, OK (USA)
+* 10: [Thunderplains](https://2023.thunderplainsconf.com/) - Oklahoma City (USA)
 * 11: [Flutteristas Conference](https://flutteristas.org/) - Online
 * 11: [DevOpsDays Belem](https://devopsdays.org/events/2023-belem) - Belem (Brazil)
 * 11: [DevOpsDays Florianópolis](https://devopsdays.org/events/2023-florianopolis) - Florianópolis (Brazil)
