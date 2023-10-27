@@ -231,7 +231,7 @@ All the data (past and coming) are available publicly in JSON:
 * 25: [DevFest Pwani](https://gdg.community.dev/events/details/google-gdg-owerri-presents-devfest-owerri-2023/) - Mombasa (Kenya) <a href="https://sessionize.com/devfest-pwani-2023"><img alt="CFP DevFest Pwani" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-October-2023&color=red"></a>
 * 25: [DevFest Abuja](https://gdg.community.dev/events/details/google-gdg-abuja-presents-devfest-abuja-2023/cohost-gdg-abuja) - Abuja (Nigeria)
 * 25-26: [GambiConf](https://gambiconf.dev/) - São Paulo (Brazil) <a href="https://gambiconf.dev/cfp"><img alt="CFP GambiConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-August-2023&color=red"></a>
-* 26: [FossConf](https://conference.fosscu.org/) - Delhi (India) <a href="https://sessionize.com/fossconf-2023"><img alt="CFP FossConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-Nov-2023color=green"></a>
+* 26: [FossConf](https://conference.fosscu.org/) - Delhi (India) <a href="https://sessionize.com/fossconf-2023"><img alt="CFP FossConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-Nov-2023&color=green"></a>
 * 26: [DevFest Istanbul](https://devfest.istanbul/) - Istanbul (Turkey)
 * 27-28: [Deutsche Open Source Tage](https://deutsche-opensource-tage.de/) - Berlin (Germany)
 * 27-01/12: [.NET Developer Conference '23](https://www.dotnet-developer-conference.de/en/) - Cologne (Germany)
