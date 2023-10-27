@@ -16,7 +16,7 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 This tech conference agenda list can be seen at https://developers.events/.
 
-All the data (past and coming) are available publicly in JSON: 
+All the data (past and coming) are available publicly in JSON:
 - conferences: https://developers.events/all-events.json
 - CFPs: https://developers.events/all-cfps.json
 
@@ -155,6 +155,7 @@ All the data (past and coming) are available publicly in JSON:
 * 07-09: [Open Source Monitoring Conference](https://osmc.de/) - Nuremberg (Germany)
 * 8: [IDM UK](https://whitehallmedia.co.uk/idmnov2023/) - London (UK)
 * 08: [WeAreDevelopers Fintech Day](https://www.wearedevelopers.com/live) - Online <a href="https://sessionize.com/wearedevelopers-live-2023-season-6"><img alt="CFP WeAreDevelopers Fintech Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Nov-2023&color=green"></a>
+* 08: [Coder avec l'IA](https://learn.alexsoyes.com/conference-coder-avec-ia) - Online
 * 8-9: [GitHub Universe](https://githubuniverse.com/) - San Francisco, CA (USA) <a href="https://reg.rainfocus.com/flow/github/universe23/cfp/page/cfslandingpage"><img alt="GitHub Universe 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-June-2023&color=red"></a>
 * 08-09: [CODE BLUE 2023](https://codeblue.jp/2023/en) - Tokyo (Japan)
 * 08-09: [do IOS](https://do-ios.com/) - Amsterdam (Netherlands)
@@ -300,7 +301,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29-02/02: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://ndclondon.com/call-for-papers"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
 * 31-01/02: [Cybersec Asia](https://cybersec-asia.net/) - Bangkok (Thailand)
 * 31-03/02: [SnowCamp](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/organizer/event/Bq5k5rbMXGynAls6PjRB"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=red"></a>
-  
+
 ### February
 
 * 1: [AgiLeMans](https://agilemans.org/) - Le Mans (France) <a href="https://sessionize.com/8ieme-journee-agile-au-mans-france/"><img alt="CfP AgiLeMans" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-December-2023&color=green"></a>
@@ -312,7 +313,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-9: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/J2VpXPXWngD69u0nrA3R"><img alt="CFP Touraine Tech" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-November-2023&color=green"></a>
 * 12-16: [NDC Sydney](https://ndcsydney.com/?_ga=2.199101292.2100444823.1693508878-1997345717.1693508878) - Sydney (Australia)
 * 20-21: [Civo Navigate North America](https://www.civo.com/navigate/north-america) - Austin, TX (USA) <a href="https://sessionize.com/civo-navigate-austin"><img alt="CFP Civo Navigate NA 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2023&color=red"></a>
-* 21-23: [DeveloperWeek](https://www.developerweek.com) - San Francisco (USA) 
+* 21-23: [DeveloperWeek](https://www.developerweek.com) - San Francisco (USA)
 * 29-1: [DEVWORLD CONFERENCE 2024](https://devworldconference.com/) - Amsterdam (Netherlands) <a href="https://docs.google.com/forms/d/e/1FAIpQLSePbiKSSOLKQOJqG65ifQ0KtY1dsqPqA7N0pu9QY1bK1-ciDQ/viewform"><img alt="CFP DevWorld Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=red"></a>
 
 ### March
