@@ -155,7 +155,7 @@ observability-day/) - Chicago, IL (USA)
 * 7-8: [DevOpsDays Warsaw](https://devopsdays.org/events/2023-warsaw) - Warsaw (Poland)
 * 07-09: [Open Source Monitoring Conference](https://osmc.de/) - Nuremberg (Germany)
 * 8: [IDM UK](https://whitehallmedia.co.uk/idmnov2023/) - London (UK)
-* 08: [WeAreDevelopers Fintech Day](https://www.wearedevelopers.com/live) - ONLINE ()<a href="https://sessionize.com/wearedevelopers-live-2023-season-6"><img alt=CFP  ONLINE src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Nov-2023color=green"></a>
+* 08: [WeAreDevelopers Fintech Day](https://www.wearedevelopers.com/live) - Online <a href="https://sessionize.com/wearedevelopers-live-2023-season-6"><img alt="CFP WeAreDevelopers Fintech Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Nov-2023color=green"></a>
 * 8-9: [GitHub Universe](https://githubuniverse.com/) - San Francisco, CA (USA) <a href="https://reg.rainfocus.com/flow/github/universe23/cfp/page/cfslandingpage"><img alt="GitHub Universe 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-June-2023&color=red"></a>
 * 08-09: [CODE BLUE 2023](https://codeblue.jp/2023/en) - Tokyo (Japan)
 * 08-09: [do IOS](https://do-ios.com/) - Amsterdam (Netherlands)
