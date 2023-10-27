@@ -13,8 +13,8 @@ The aim of this calendar is to list community events. To be accepted, events mus
 * target a developer audience
 
 Examples of rejected conferences:
-- regular events like "meetup"
-- corporate promotional events
+* regular "meetup" events
+* corporate promotional events
 
 ## Guidelines
 
