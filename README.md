@@ -313,7 +313,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17-18: [DevOpsDays Birmingham AI](https://devopsdays.org/events/2024-birmingham-al/welcome/) - Birmingham (USA) <a href="https://devopsdays.org/events/2024-birmingham-al/propose"><img alt="CFP DevOpsDays Birmingham AI" src="https://img.shields.io/static/v1?label=CFP&message=until%201-December-2023&color=green"></a>
 * 17-19: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 * 18-19: [Elixir Conf](https://www.elixirconf.eu/) - Lisbon (Portugal) <a href="https://sessionize.com/elixirconf-eu-2024/"><img alt="CFP Elixir Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-December-2023&color=green"></a>
-* 18-20: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece)
+* 18-20: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece) <a href="https://dvgr24.cfp.dev/"><img alt="CFP Devoxx Greece 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2023&color=green"></a>
 * 18-20: [Dotnetdays](https://dotnetdays.ro/) - Iasi (Romania)
 * 19-20: [Commit Conf](https://2024.commit-conf.com/) - Madrid (Spain) <a href="https://koliseo.com/commit/2024/sessions"><img alt="CFP Commit Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=green"></a>
 * 20: [DevOpsDays Istanbul](https://devopsdays.org/events/2024-istanbul/welcome/) - Istanbul (Turkey)
