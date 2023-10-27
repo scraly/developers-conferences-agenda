@@ -406,6 +406,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19-21: [DevopsDays Amsterdam](https://devopsdays.org/events/2024-amsterdam/welcome/) - Amsterdam (Netherlands)
 * 20-21: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Grand-Duchy of Luxembourg (Luxembourg)
 * 21-22: [Code Beam Lite](https://www.codebeamcorunha.es/en) - Coruna (Spain) <a href="https://sessionize.com/code-beam-corunha-2024/"><img alt="CFP Code Beam Lite 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=green"></a>
+* 27-28: [Agi Lille](http://agilille.fr/) - Lille (France) <a href="https://sessionize.com/agilille-2024"><img alt="CFP Agi Lille 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=green"></a>
 
 ### July
 
