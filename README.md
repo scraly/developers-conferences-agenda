@@ -164,7 +164,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9: [J-Fall](https://jfall.nl) - Ede (Netherlands) <a href="https://sessionize.com/jfall23/"><img alt="JFall 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
 * 9: [Ory Summit](https://summit.ory.sh/) - Munich (Germany) <a href="https://forms.gle/p2d5v1BzTtgpfMpf8"><img alt="Ory Summit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2023&color=red"></a>
 * 9: [BDAI UK](https://whitehallmedia.co.uk/bdanov2023/) - London (UK)
-* 09: [BSides Nairobi](https://bsidesnairobi.ke/index.html) - Nairobi ()
+* 09: [BSides Nairobi](https://bsidesnairobi.ke/index.html) - Nairobi (Kenya)
 * 09-10: [DevConf](https://devconf.pl/) - Krakow (Poland)
 * 09-10: [Devops Barcelona Conference 2023](https://devops.barcelona/?utm_source=developers-conference-agenda&utm_medium=link&utm_campaign=devops-barcelona-2023&utm_id=devops-barcelona-2023) - Barcelona (Spain) <a href="https://devops.barcelona/call-for-papers?utm_source=developers-conference-agenda&utm_medium=link&utm_campaign=devops-barcelona-2023&utm_id=devops-barcelona-2023"><img alt="CFP Devops Barcelona 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=red"></a>
 * 10: [BDX I/O](https://www.bdxio.fr/) - Bordeaux (France) <a href="https://conference-hall.io/public/event/VORL07zbTZ8CBB8kOVgq"> <img alt="CFP BDX I/O 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-July-2023&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
