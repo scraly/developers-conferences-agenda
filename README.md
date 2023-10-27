@@ -175,7 +175,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11: [DevOpsDays Belem](https://devopsdays.org/events/2023-belem) - Belem (Brazil)
 * 11: [DevOpsDays Florianópolis](https://devopsdays.org/events/2023-florianopolis) - Florianópolis (Brazil)
 * 11: [AWS Community Day](https://awscommunity.mx/communityday) - Nuevo León (Mexico)
-* 11: [DevFest Ajah](https://gdg.community.dev/events/details/google-gdg-ajah-presents-devfest-ajah-2023/) - Lagos (Nigeria) <a href="https://sessionize.com/devfest-ajah-2023"><img alt="CFP DevFest Ajah" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-Oct-2023color=green"></a>
+* 11: [DevFest Ajah](https://gdg.community.dev/events/details/google-gdg-ajah-presents-devfest-ajah-2023/) - Lagos (Nigeria) <a href="https://sessionize.com/devfest-ajah-2023"><img alt="CFP DevFest Ajah" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-Oct-2023&color=green"></a>
 * 11: [SQL Saturday](https://sqlsaturday.com/2023-11-11-sqlsaturday1057/) - Vancouver (USA)
 * 11-12: [Droidcon Uganda](https://www.uganda.droidcon.com/) - Kampala (Uganda) <a href="https://sessionize.com/droidcon-uganda-2023"><img alt="CFP Droidcon Uganda 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-September-2023&color=red"></a>
 * 11-12: [PyCon Ireland 2023](https://python.ie/pycon-2023/) - Dublin (Ireland)
