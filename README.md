@@ -239,7 +239,7 @@ observability-day/) - Chicago, IL (USA)
 * 28: [HalfStack Tel Aviv](https://halfstackconf.com/telaviv/) - Tel Aviv (Israel) <a href="https://halfstackconf.com/cfp/"><img alt="CfP HalfStack" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-October-2023&color=green"></a>
 * 29: [ESRM UK](https://whitehallmedia.co.uk/esrmnov2023/) - London (UK)
 * 29: [DevOpsWorld](https://reg.rainfocus.com/flow/cloudbees/devopslondon/webinar3/page/landing) - London (UK)
-* 29: [WeAreDevelopers WebDev Day](https://www.wearedevelopers.com/live) - ONLINE ()<a href="https://sessionize.com/wearedevelopers-live-2023-season-6"><img alt=CFP  ONLINE src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Nov-2023color=green"></a>
+* 29: [WeAreDevelopers WebDev Day](https://www.wearedevelopers.com/live) - Online <a href="https://sessionize.com/wearedevelopers-live-2023-season-6"><img alt="CFP WeAreDevelopers WebDev Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Nov-2023color=green"></a>
 * 30: [GOVSEC UK](https://whitehallmedia.co.uk/govsecnov2023/) - London (UK)
 * 30: [Conf42: DevSecOps 2023](https://www.conf42.com/js2023) - Online
 * 30: [PrestaShop Developer Conference](https://events.prestashop.com/prestashop-developer-conference) - Paris (France) <a href="https://hopscotch.key4events.com/abstract.aspx?e=321&c=2683"><img alt="CFP PrestaShop Developer Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2023&color=red"></a>
