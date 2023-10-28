@@ -3,6 +3,19 @@
 This list of tech conferences is growing every day thanks to you.
 There is no small contribution! 💪
 
+## Eligible conference
+
+The aim of this calendar is to list community events. To be accepted, events must meet the following criteria:
+* include a variety of presentations from people outside the organization
+* offer a CFP
+* last at least 1/2 day
+* be open to the public
+* target a developer audience
+
+Examples of rejected conferences:
+* regular "meetup" events
+* corporate promotional events
+
 ## Guidelines
 
 * All changes must be made in a branch and submitted as a Pull Request (PR)
