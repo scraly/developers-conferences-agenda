@@ -330,6 +330,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-15: [T3chfest](https://t3chfest.es) - Madrid (Spain) <a href="https://t3chfest.es/2024/call-for-talks"><img alt="T3chfest" src="https://img.shields.io/static/v1?label=CFP&message=until%204-December-2023&color=green"></a>
 * 14-17: [SCaLE 21x](https://www.socallinuxexpo.org) - Pasadena (USA) <a href="https://www.socallinuxexpo.org/scale/21x/call-presenters"><img alt="CFP SCaLE 21x" src="https://img.shields.io/static/v1?label=CFP&message=until%201-November-2023&color=green"></a>
 * 15: [DevOpsDays Los Angeles](https://devopsdays.org/events/2024-los-angeles/welcome/) - Los Angeles (USA)
+* 15-17: [Pycon SK](https://2024.pycon.sk) - Bratislava (Slovakia)
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland) <a href="https://vdz24.cfp.dev/"><img alt="CFP Voxxed Days Zurich" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=green"></a>
 * 16: [DDD Melbourne](https://www.dddmelbourne.com/) - Melbourne (Australia)
 * 18-21: [GTC 2024](https://www.nvidia.com/gtc/) - San Jose (USA) & Online <a href="https://www.nvidia.com/gtc/call-for-submissions/"><img alt="CFP GTC" src="https://img.shields.io/static/v1?label=CFP&message=until%208-September-2023&color=red"></a>
@@ -344,6 +345,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### April
 
+* 2-6: [Pycon LT](https://pycon.lt/2024) - Vilnius (Lithuania)
 * 4-6: [Toulouse Hacking Convention](https://thcon.party/) - Toulouse (France) <a href="https://thcon.party/cfp/#intra"><img alt="CFP THC 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-January-2024&color=green"></a>
 * 8-10: [QCon London](https://qconlondon.com/) - London (UK)
 * 9-11: [DevNexus](https://devnexus.com/) - Atlanta (USA)
@@ -378,6 +380,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-15: [DevOpsDays Seattle](https://devopsdays.org/events/2024-seattle) - Seattle (USA)
 * 14-15: [DevOpsDays Philadelphia](https://devopsdays.org/events/2024-philadelphia) - Philadelphia (USA)
 * 15-17: [DevSum 2024](https://devsum.se/) - Stockholm (Sweden) <a href="https://www.devsum.se/call-for-paper"><img alt="CFP DevSum 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%203-December-2023&color=green"></a>
+* 17-19: [Pycon US](https://us.pycon.org/2024/) - Pittsburg (USA) <a href="https://us.pycon.org/2024/"><img alt="CFP PyCon US" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-December-2023&color=green"></a>
 * 20-21: [DevOps Pro Europe 2024](https://devopspro.lt/) - Online
 * 21-22: [DevOpsDays Baltimore](https://devopsdays.org/events/2024-baltimore) - Baltimore (USA)
 * 22-24: [Kotlin Conf](https://kotlinconf.com/) - Copenhagen (Denmark) <a href="https://sessionize.com/kotlinconf-2024/"><img alt="CFP KotlinConf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-November-2023&color=green"></a>
