@@ -87,6 +87,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20-21: [DevOpsDays Bengaluru](https://devopsdays.org/events/2023-bengaluru/welcome/) - Bengaluru (India)
 * 20-22: [Software Crafters Barcelona 2023](https://softwarecrafters.barcelona/) - Barcelona (Spain)
 * 23-25: [FOSS4G North America](https://foss4gna.org/) - Baltimore (USA)
+* 23-26: [SecTor](https://www.blackhat.com/sector/2023/) - Toronto (Canada)
 * 23-27: [International PHP Conference](https://phpconference.com/munich/) - Munchen (Germany)
 * 24-25: [Codemotion Milan](https://extra.codemotion.com/conference-milan-2023/) - Milan (Italy) <a href="https://sessionize.com/codemotion-milan-2023/"><img alt="CFP Codemotion Milan 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Jul-2023&color=red"></a>
 * 24-26: [GitKon](https://gitkon.com) - Online
