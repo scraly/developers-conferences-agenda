@@ -441,7 +441,7 @@ All the data (past and coming) are available publicly in JSON:
 * 25-26: [MiXiT](https://mixitconf.org/fr/) - Lyon (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 25-26: [Android Makers](https://androidmakers.droidcon.com/) - Paris (France)
 * 28-30: [DevOpsDays Denver](https://devopsdays.org/events/2024-denver/welcome/) - Denver (USA)
-* 29-03/05: [Visual Studio Live ](https://vslive.com/) - Chicago, IL (USA)<a href="https://sessionize.com/VSLive_Chiacgo_MicrosoftHQ_2024"><img alt=CFP  Chicago, IL src="https://img.shields.io/static/v1?label=CFP&message=until%2012-Nov-2023color=green"></a>
+* 29-03/05: [Visual Studio Live](https://vslive.com/) - Chicago, IL (USA) <a href="https://sessionize.com/VSLive_Chiacgo_MicrosoftHQ_2024"><img alt="CFP Visual Studio Live" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-Nov-2023&color=green"></a>
 
 ### May
 
