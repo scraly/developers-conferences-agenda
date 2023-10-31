@@ -252,7 +252,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 1: [KCD Utrecht 2023](https://kcdutrecht.nl/) - Utrecht (Netherlands) <a href="https://forms.gle/JyrTeEJuk2PVAT7d9"><img alt="KCD Utrecht" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-October-2023&color=red"></a>
 * 01: [DevSecCon (monthly)](devseccon.com/) - Online <a href="https://sessionize.com/devseccon-chapter-events-2022/"><img alt="CFP DevsecCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Dec-2023&color=green"></a>
-* 01: [DotNetFriday](https://dotnetfriday.nl/) - Nieuwegein (Netherlands) <a href="https://sessionize.com/dotnet-friday"><img alt="CFP DotNetFriday" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Nov-2023color=green"></a>
+* 01: [DotNetFriday](https://dotnetfriday.nl/) - Nieuwegein (Netherlands) <a href="https://sessionize.com/dotnet-friday"><img alt="CFP DotNetFriday" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Nov-2023&color=green"></a>
 * 1-2: [DevFest Alps](https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-alps-2023/) - Torino (Italy)
 * 01-02: [Dakar Bitcoin Days](https://dakarbitcoindays.com/) - Dakar (Senegal)
 * 1-3: [Africa Bitcoin Conference 2023](https://afrobitcoin.org) - Accra (Ghana)
