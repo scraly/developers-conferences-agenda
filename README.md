@@ -453,7 +453,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13: [Code BEAM Lite](https://codebeamstockholm.com/) - Stockholm (Sweden)
 * 13-14: [DevOpsDays Geneva](https://devopsdays.org/events/2024-geneva/welcome/) - Geneva (Switzerland) <a href="https://devopsdays-geneva.ch/forms/InputFormSpkrsDodGe.php?who=pb0cb47956025e73c797e5e17f16fc38466e34f5ae"><img alt="CFP DevOpsDays Geneva 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%207-January-2024&color=green"></a>
 * 13-14: [DevOpsDays](https://slcdevopsdays.org/) - Salt Lake City, UT (USA) <a href="https://sessionize.com/slcdod2024"><img alt="CFP DevOpsDays" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-Nov-2023&color=green"></a>
-* 13-16: [DynamicsCon Live](https://live.dynamicscon.com/) - Denver, CO (USA)<a href="https://sessionize.com/dynamicscon-live2024"><img alt=CFP  Denver, CO src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Nov-2023color=green"></a>
+* 13-16: [DynamicsCon Live](https://live.dynamicscon.com/) - Denver, CO (USA) <a href="https://sessionize.com/dynamicscon-live2024"><img alt="CFP DynamicsCon Live" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Nov-2023&color=green"></a>
 * 14-15: [DevOpsDays Seattle](https://devopsdays.org/events/2024-seattle) - Seattle (USA)
 * 14-15: [DevOpsDays Philadelphia](https://devopsdays.org/events/2024-philadelphia) - Philadelphia (USA)
 * 15-17: [DevSum 2024](https://devsum.se/) - Stockholm (Sweden) <a href="https://www.devsum.se/call-for-paper"><img alt="CFP DevSum 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%203-December-2023&color=green"></a>
