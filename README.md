@@ -263,7 +263,7 @@ All the data (past and coming) are available publicly in JSON:
 * 02: [DevFest Kansas City](https://devfestkc.com/) - Kansas City, MO (USA) <a href="https://www.papercall.io/devfestkc2023"><img alt="CFP DevFest Kansas City" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-Nov-2023color=green"></a>
 * 02: [Michigan DevFest](https://gdg.community.dev/events/details/google-gdg-detroit-presents-michigan-devfest/) - Detroit, MI (USA)
 * 4: [cdCon Tokyo Japan 2023](https://cd.foundation/cdcon-japan-2023/) - Tokyo (Japan) <a href="https://linuxfoundation.smapply.io/prog/oss_japan_2023/"><img alt="CFP cdCon Japan 23" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-September-2023&color=red"></a>
-* 04-06: [DevOps Vision](https://devopsvision.io/) - Clearwater, FL (USA)<a href="https://devopsvision.io/app/speaker-request"><img alt=CFP  Clearwater, FL src="https://img.shields.io/static/v1?label=CFP&message=until%20TBDcolor=green"></a>
+* 04-06: [DevOps Vision](https://devopsvision.io/) - Clearwater, FL (USA) <a href="https://devopsvision.io/app/speaker-request"><img alt="CFP DevOps Vision" src="https://img.shields.io/static/v1?label=CFP&message=until%20TBDcolor=green"></a>
 * 5-6: [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-japan/) - Tokyo (Japan)  <a href="https://linuxfoundation.smapply.io/prog/oss_japan_2023/"><img alt="CFP Open Source Summit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-September-2023&color=red"></a>
 * 05-06: [GitOpsCon Europe](https://events.linuxfoundation.org/gitopscon-europe/) - Online
 * 05-06: [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) - Tokyo (Japan)
