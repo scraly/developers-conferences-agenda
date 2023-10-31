@@ -456,7 +456,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-15: [DevOpsDays Seattle](https://devopsdays.org/events/2024-seattle) - Seattle (USA)
 * 14-15: [DevOpsDays Philadelphia](https://devopsdays.org/events/2024-philadelphia) - Philadelphia (USA)
 * 15-17: [DevSum 2024](https://devsum.se/) - Stockholm (Sweden) <a href="https://www.devsum.se/call-for-paper"><img alt="CFP DevSum 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%203-December-2023&color=green"></a>
-* 16: [DDD Melbourne](https://www.dddmelbourne.com/) - Melbourne (Australia)<a href="https://sessionize.com/ddd-melbourne-2024"><img alt=CFP  Melbourne src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Nov-2023color=green"></a>
+* 16: [DDD Melbourne](https://www.dddmelbourne.com/) - Melbourne (Australia) <a href="https://sessionize.com/ddd-melbourne-2024"><img alt="CFP DDD Melbourne" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Nov-2023&color=green"></a>
 * 16-17: [Data Grillen](https://datagrillen.com/) - Lingen (German) <a href="https://sessionize.com/datagrillen-2024"><img alt="CFP Data Grillen" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-Dec-2023&color=green"></a>
 * 16-17: [DevSum](https://www.devsum.se/) - Stockholm (Sweden) <a href="https://sessionize.com/devsum-2024"><img alt="CFP DevSum" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-Dec-2023&color=green"></a>
 * 16-17: [PHP Day](https://2024.phpday.it/) - Verona (Italy) <a href="https://sessionize.com/phpday-2024"><img alt="CFP PHP Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-Jan-2024color=green"></a>
