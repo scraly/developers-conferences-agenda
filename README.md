@@ -528,7 +528,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-11: [Devoxx Belgium](https://devoxx.be) - Antwerp (Belgium)
 * 10-11: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France)
 * 15: [CYBERGOV](https://whitehallmedia.co.uk/future-events/) - London (UK)
-* 17: [Conf42 Incident Management 2024](https://www.conf42.com/im2024) - Online <a href="https://www.papercall.io/conf42-incident-management-2024"><img alt="CFP Conf42 Incident Management" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Sep-2024color=green"></a>
+* 17: [Conf42 Incident Management 2024](https://www.conf42.com/im2024) - Online <a href="https://www.papercall.io/conf42-incident-management-2024"><img alt="CFP Conf42 Incident Management" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Sep-2024&color=green"></a>
 * 17-18: [DevFest Nantes](https://devfest.gdgnantes.com/en/) - Nantes (France)
 * 21-23: [NANOG 92](https://nanog.org/events/nanog-92/) - Toronto (Canada)
 * 27-29: [All Things Open](https://2023.allthingsopen.org/ato-2024-save-the-date/) - Raleigh (USA)
