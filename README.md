@@ -278,7 +278,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7: [Agile Tour Aix-Marseille](https://atmrs.esprit-agile.com/) - Gardanne (France) <a href="https://sessionize.com/agile-tour-aix-marseille-2023/"><img alt="CFP [Agile Tour Aix-Marseille" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-september-2023&color=red"></a>
 * 7: [Archilocus](https://www.archilocus.tech/) - Bordeaux (France) <a href="https://conference-hall.io/public/event/Z7tmWE1n4hFVYgAwzOU8"><img alt="Archilocus Automne 2023" src="https://img.shields.io/static/v1?label=CFP&message=until-17-November-2023&color=green"></a>
 * 07: [TestJS Summit](https://testjssummit.com/) - Berlin (Germany)
-* 07: [vMATechcon and vNSTechcon](https://vnstechcon.nl/) - Amerongen (Netherlands)<a href="https://www.papercall.io/vns-vma-techcon-2023"><img alt=CFP  Amerongen src="https://img.shields.io/static/v1?label=CFP&message=until%2010-Nov-2023color=green"></a>
+* 07: [vMATechcon and vNSTechcon](https://vnstechcon.nl/) - Amerongen (Netherlands) <a href="https://www.papercall.io/vns-vma-techcon-2023"><img alt="CFP vMATechcon" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-Nov-2023&color=green"></a>
 * 7-8: [SymfonyCon Brussels 2023](https://live.symfony.com/2023-brussels-con/) - Brussels (Belgium) <a href="https://live.symfony.com/2023-brussels-con/cfp"><img alt="CFP SymfonyCon Brussels 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-August-2023&color=red"></a>
 * 7-8: [DevTernity](https://devternity.com/) - Online
 * 7-8: [TechRocks Summit](https://events.tech.rocks/summit-2023/fr/registration/ticketing) - Paris (France)
