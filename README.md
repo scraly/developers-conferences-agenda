@@ -376,7 +376,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-15: [pgDayParis](https://2024.pgday.paris/) - Paris (France)
 * 14-15: [WASM IO](https://2024.wasmio.tech/) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio24"><img alt="CFP WASM IO" src="https://img.shields.io/static/v1?label=CFP&message=until%201-January-2024&color=green"></a>
 * 14-15: [T3chfest](https://t3chfest.es) - Madrid (Spain) <a href="https://t3chfest.es/2024/call-for-talks"><img alt="T3chfest" src="https://img.shields.io/static/v1?label=CFP&message=until%204-December-2023&color=green"></a>
-* 14-15: [Netnod Meeting 2024](https://www.netnod.se/netnod-events/netnod-meeting-2024) - Stockholm (Sweden)<a href="meeting@netnod.se"><img alt=CFP  Stockholm src="https://img.shields.io/static/v1?label=CFP&message=until%20TBDcolor=green"></a>
+* 14-15: [Netnod Meeting 2024](https://www.netnod.se/netnod-events/netnod-meeting-2024) - Stockholm (Sweden) <a href="meeting@netnod.se"><img alt="CFP Netnod Meeting" src="https://img.shields.io/static/v1?label=CFP&message=until%20TBDcolor=green"></a>
 * 14-17: [SCaLE 21x](https://www.socallinuxexpo.org) - Pasadena (USA) <a href="https://www.socallinuxexpo.org/scale/21x/call-presenters"><img alt="CFP SCaLE 21x" src="https://img.shields.io/static/v1?label=CFP&message=until%201-November-2023&color=green"></a>
 * 15: [DevOpsDays Los Angeles](https://devopsdays.org/events/2024-los-angeles/welcome/) - Los Angeles (USA)
 * 15: [Incontro DevOps Italia](https://2024.incontrodevops.it/) - Bologna (Italy)<a href="https://sessionize.com/incontro-devops-2024"><img alt=CFP  Bologna src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Nov-2024color=green"></a>
