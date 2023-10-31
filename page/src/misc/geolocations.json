@@ -211,6 +211,10 @@
     "latitude": 47.4978918,
     "longitude": 19.0401609
   },
+  "Buenos Aires (Argentina)": {
+    "latitude": -34.6075682,
+    "longitude": -58.4370894
+  },
   "Bulgaria": {
     "latitude": 46.7889169,
     "longitude": 23.6184909
@@ -566,10 +570,6 @@
   "Islamabad (Pakistan)": {
     "latitude": 33.6938118,
     "longitude": 73.0651511
-  },
-  "Islas Canarias (España)": {
-    "latitude": 28.2935785,
-    "longitude": -16.621447121144122
   },
   "Istanbul (Turkey)": {
     "latitude": 41.0091982,
