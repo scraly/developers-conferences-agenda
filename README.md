@@ -315,7 +315,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### January
 
-* 01: [DevSecCon (monthly)](devseccon.com/) - Online <a href="https://sessionize.com/devseccon-chapter-events-2022/"><img alt=CFP  Online src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Jan-2024color=green"></a>
+* 01: [DevSecCon (monthly)](devseccon.com/) - Online <a href="https://sessionize.com/devseccon-chapter-events-2022/"><img alt="CFP DevSecCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Jan-2024color=green"></a>
 * 1-31/03: [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Online <a href="https://sessionize.com/90daysofdevops-2024-community-edition/"><img alt="CFP 90DaysOfDevOps" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2023&color=green"></a>
 * 8-11: [NDC Security](https://ndc-security.com/) - Oslo (Norway)
 * 09-12: [CodeMash](https://www.codemash.org/) - Sandusky, OH (USA)
