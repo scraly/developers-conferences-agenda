@@ -331,7 +331,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27: [Bilbo Stack](https://bilbostack.com/) - Bilbao (Spain)
 * 29-01/02: [THAT Conference](https://that.us/events/tx/2024/) - Round Rock, TX (USA)
 * 29-02/02: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://ndclondon.com/call-for-papers"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
-* 31: [triangle.codes](https://www.meetup.com/triangle-codes/) - Online <a href="https://sessionize.com/triangle-codes/"><img alt=CFP  Online src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023color=green"></a>
+* 31: [triangle.codes](https://www.meetup.com/triangle-codes/) - Online <a href="https://sessionize.com/triangle-codes/"><img alt="CFP trinagle.codes" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023&color=green"></a>
 * 31-01/02: [Cybersec Asia](https://cybersec-asia.net/) - Bangkok (Thailand)
 * 31-03/02: [SnowCamp](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/organizer/event/Bq5k5rbMXGynAls6PjRB"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=red"></a>
   
