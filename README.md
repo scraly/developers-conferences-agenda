@@ -301,7 +301,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-15: [PostgreSQL Conference Europe](https://2023.pgconf.eu/) - Prague (Czech Republic) <a href="https://www.postgresql.eu/events/pgconfeu2023/callforpapers"><img alt="CFP PGConf EU" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
 * 13: [WeAreDevelopers Python Day](https://www.wearedevelopers.com/event/python-day-december-2023) - Online <a href="https://sessionize.com/wearedevelopers-live-2023-season-6"><img alt="CFP WeAreDevelopers Python Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Nov-2023&color=green"></a>
 * 14: [Conf42: IoT 2023](https://www.conf42.com/iot2023) - Online
-* 14: [HashiTalks India](https://hashi.co/hashitalks-india) - Online <a href="https://sessionize.com/hashitalks-india/"><img alt=CFP  Online src="https://img.shields.io/static/v1?label=CFP&message=until%2002-Nov-2023color=green"></a>
+* 14: [HashiTalks India](https://hashi.co/hashitalks-india) - Online <a href="https://sessionize.com/hashitalks-india/"><img alt="CFP HashiTalks India" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-Nov-2023&color=green"></a>
 * 14-15: [HighLoad++](https://cfp.highload.am/) - Yerevan (Armenia)
 * 15: [DevFest 2023 Greater LA](https://gdg.community.dev/events/details/google-gdg-los-angeles-presents-devfest-2023-greater-los-angeles/) - West Hollywood, CA (USA)<a href="https://www.papercall.io/devfest-la"><img alt=CFP  West Hollywood, CA src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Dec-2023color=green"></a>
 * 15-16: [PyCon Thailand](https://th.pycon.org/) - Bangkok (Thailand)
