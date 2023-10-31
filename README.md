@@ -33,6 +33,14 @@ All the data (past and coming) are available publicly in JSON:
 * [2021](archives/2021.md)
 * [2022](archives/2022.md)
 * [2023](archives/2023.md)
+* [2023](archives/2024.md)
+
+## 2024
+
+### May
+
+* 9-10: [GopherCon Brazil](https://gopherconbr.org/en/) - Florianópolis (Brazil) <a href="https://www.papercall.io/gopherconbrazil2024/"><img alt="CFP GopheCon Brazil 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%15-December-2023&color=red"></a>
+
 
 ## 2023
 
