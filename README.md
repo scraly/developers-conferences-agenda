@@ -422,7 +422,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-11: [DevNexus](https://devnexus.com/) - Atlanta (USA)
 * 9-11: [JavaLand](https://www.javaland.eu/en/home/) - Nürburgring (Germany)
 * 10-11: [DevOpsDays Raleigh](https://devopsdays.org/events/2024-raleigh) - Raleigh (USA)
-* 11: [DevOps Midwest](http://www.devopsmidwest.com/) - St. Louis, MO (USA)<a href="https://www.papercall.io/devopsmidwest2024"><img alt=CFP  St. Louis, MO src="https://img.shields.io/static/v1?label=CFP&message=until%2011-Apr-2024color=green"></a>
+* 11: [DevOps Midwest](http://www.devopsmidwest.com/) - St. Louis, MO (USA) <a href="https://www.papercall.io/devopsmidwest2024"><img alt="CFP DevOps Midwest" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-Apr-2024color=green"></a>
 * 11-12: [JSDay](https://2024.jsday.it/) - Verona (Italy) <a href="https://2024.jsday.it/welcome/cfp.html"><img alt="CFP JSDay IT" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2023&color=green"></a>
 * 11-12: [UX Healthcare Europe](https://uxhealthcare.co/) - London (UK) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN4x_OAks2lr-5NWeXjdQFhq9sOAQfKj_UbZxuvUvZZGCaag/viewform"><img alt="CFP UX Healthcare Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2024&color=green"></a>
 * 16-17: [DevOpsDays Zurich](https://devopsdays.org/events/2024-zurich/welcome/) - Zurich (Switzerland)
