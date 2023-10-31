@@ -319,7 +319,6 @@ All the data (past and coming) are available publicly in JSON:
 * 1-31/03: [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Online <a href="https://sessionize.com/90daysofdevops-2024-community-edition/"><img alt="CFP 90DaysOfDevOps" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2023&color=green"></a>
 * 8-11: [NDC Security](https://ndc-security.com/) - Oslo (Norway)
 * 09-12: [CodeMash](https://www.codemash.org/) - Sandusky, OH (USA)
-* 13: [You Got This](https://yougotthis.io/events/all-aboard/) - MULTIPLE
 * 17: [die Mobiliar (IET Summit)](https://ietsummit.ch/) - Bern (Switzerland)
 * 17: [IETSummit](https://ietsummit.ch/) - Bern (Switzerland)
 * 19: [Voxxed Days Ticino](https://voxxeddays.com/ticino/) - Lugano (Switzerland) <a href="https://vdt24.cfp.dev/#/login"><img alt="CFP Voxxed Days Ticino" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=red"></a>
