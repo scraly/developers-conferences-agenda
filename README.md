@@ -368,7 +368,7 @@ All the data (past and coming) are available publicly in JSON:
 * 08: [DecompileD 2024](https://decompiled.de/) - Dresden (Germany) <a href="https://www.papercall.io/decompiled24"><img alt="CFP DecompileD" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023color=green"></a>
 * 08: [Frontrunners](https://frontrunners.tech/) - Washington, DC (USA)
 * 12: [Navigate](https://navigate-kongress.de/) - Online 
-* 12-14: [ZANOG](https://iweek.org.za/) - Cape Town (South Africa)<a href="https://iweek.org.za/speakers/call-for-speakers"><img alt=CFP  Cape Town src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Dec-2023color=green"></a>
+* 12-14: [ZANOG](https://iweek.org.za/) - Cape Town (South Africa) <a href="https://iweek.org.za/speakers/call-for-speakers"><img alt="CFP ZANOG" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Dec-2023color=green"></a>
 * 12-15: [Explore DDD](http://exploreddd.com/) - Denver (USA) <a href="https://sessionize.com/explore-ddd-2023/"><img alt="CFP Explore DDD 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2023&color=green"></a>
 * 12-15: [AppDevCon](http://appdevcon.nl/) - Amsterdam (Netherlands) <a href="https://sessionize.com/appdevcon-2024"><img alt="CFP AppDevCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-December-2023&color=green"> </a>
 * 12-15: [WebDevCon](http://webdevcon.nl/) - Amsterdam (Netherlands) <a href="https://sessionize.com/webdevcon-2024"><img alt="CFP WebDevCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-December-2023&color=green"> </a>
