@@ -359,7 +359,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 03-08: [Visual Studio Live](https://vslive.com/Home.aspx) - Las Vegas, NV (USA)
 * 4-5: [Gartner IAM Summit](https://www.gartner.com/en/conferences/emea/identity-access-management-uk) - London(UK)
-* 04-05: [FOSS Backstage](https://24.foss-backstage.de/) - Berlin (Germany)<a href="https://program.foss-backstage.de/fossback24/cfp"><img alt=CFP  Berlin src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Nov-2023color=green"></a>
+* 04-05: [FOSS Backstage](https://24.foss-backstage.de/) - Berlin (Germany) <a href="https://program.foss-backstage.de/fossback24/cfp"><img alt="CFP FOSS Backstage" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Nov-2023&color=green"></a>
 * 6-7: [FlowCon 2024](https://my.weezevent.com/flowcon-2024) - Paris (France)
 * 6-7: [Scan Agile](https://www.scan-agile.org/) - Helsinki (Finland) <a href="https://sessionize.com/scanagile24/"><img alt="CFP ScanAgile24" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=green"></a>
 * 7-8: [Code BEAM America](https://codebeamamerica.com/) - San Francisco (USA) <a href="https://sessionize.com/code-beam-america-2024/"><img alt="CFP Code BEAM America 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-October-2023&color=red"></a>
