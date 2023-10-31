@@ -161,7 +161,7 @@ All the data (past and coming) are available publicly in JSON:
 * 08-09: [do IOS](https://do-ios.com/) - Amsterdam (Netherlands)
 * 8-10: [Oredev 2023](https://oredev.org/) - Malmo (Sweden) <a href="https://oredev.org/callforpaper"><img alt="CFP Oredev malmo 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=red"></a>
 * 8-10: [GopherCon Australia](https://gophercon.com.au) - Sydney (Australia) <a href="https://www.papercall.io/gopherconau2023"><img  alt="CFP GopherConAU" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-August-2023&color=red"></a>
-* 8-10: [droidcon Keiya](https://droidcon.co.ke/) - Kenya
+* 8-10: [droidcon Keiya](https://droidcon.co.ke/) - Nairobi (Kenya)
 * 9: [J-Fall](https://jfall.nl) - Ede (Netherlands) <a href="https://sessionize.com/jfall23/"><img alt="JFall 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
 * 9: [Ory Summit](https://summit.ory.sh/) - Munich (Germany) <a href="https://forms.gle/p2d5v1BzTtgpfMpf8"><img alt="Ory Summit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2023&color=red"></a>
 * 9: [BDAI UK](https://whitehallmedia.co.uk/bdanov2023/) - London (UK)
@@ -358,7 +358,7 @@ All the data (past and coming) are available publicly in JSON:
 ### March
 
 * 03-08: [Visual Studio Live](https://vslive.com/Home.aspx) - Las Vegas, NV (USA)
-* 4-5: [Gartner IAM Summit](https://www.gartner.com/en/conferences/emea/identity-access-management-uk) - London(UK)
+* 4-5: [Gartner IAM Summit](https://www.gartner.com/en/conferences/emea/identity-access-management-uk) - London (UK)
 * 04-05: [FOSS Backstage](https://24.foss-backstage.de/) - Berlin (Germany) <a href="https://program.foss-backstage.de/fossback24/cfp"><img alt="CFP FOSS Backstage" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Nov-2023&color=green"></a>
 * 6-7: [FlowCon 2024](https://my.weezevent.com/flowcon-2024) - Paris (France)
 * 6-7: [Scan Agile](https://www.scan-agile.org/) - Helsinki (Finland) <a href="https://sessionize.com/scanagile24/"><img alt="CFP ScanAgile24" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=green"></a>
