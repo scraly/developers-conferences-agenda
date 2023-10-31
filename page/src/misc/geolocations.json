@@ -179,6 +179,10 @@
     "latitude": 48.3905283,
     "longitude": -4.4860088
   },
+  "Brisbane (Australia)": {
+    "latitude": -27.4689682,
+    "longitude": 153.0234991
+  },
   "Bristol (UK)": {
     "latitude": 51.4538022,
     "longitude": -2.5972985
@@ -612,10 +616,6 @@
     "longitude": 18.682409
   },
   "Krakow (Poland)": {
-    "latitude": 50.0619474,
-    "longitude": 19.9368564
-  },
-  "Kraków (Poland)": {
     "latitude": 50.0619474,
     "longitude": 19.9368564
   },

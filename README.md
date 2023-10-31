@@ -513,7 +513,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### September
 
-* 14: [BSides Kraków 2024](https://bsideskrakow.pl/) - Krakow (Poland)
+* 14: [BSides Krakow 2024](https://bsideskrakow.pl/) - Krakow (Poland)
 * 16-17: [Infobip Shift](https://shift.infobip.com/) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2024/"><img alt="CFP Infobit Shift" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 19-20: [API Platform Conference](https://api-platform.com/con/) - Lille (France) & Online <a href="https://conference-hall.io/public/event/GMijW4ZrZDo6hzKeF1gk"><img alt="CFP API Platform Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-March-2024&color=green"></a>
 * 19-20: [UX Healthcare Europe](https://uxhealthcare.co/) - Berlin (Germany) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN4x_OAks2lr-5NWeXjdQFhq9sOAQfKj_UbZxuvUvZZGCaag/viewform"><img alt="CFP UX Healthcare Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%201-June-2024&color=green"></a>
