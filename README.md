@@ -365,7 +365,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-7: [Scan Agile](https://www.scan-agile.org/) - Helsinki (Finland) <a href="https://sessionize.com/scanagile24/"><img alt="CFP ScanAgile24" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=green"></a>
 * 7-8: [Code BEAM America](https://codebeamamerica.com/) - San Francisco (USA) <a href="https://sessionize.com/code-beam-america-2024/"><img alt="CFP Code BEAM America 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-October-2023&color=red"></a>
 * 07-08: [DKNOG](https://events.dknog.dk/event/25/) - Copenhagen (Denmark)<a href="https://events.dknog.dk/event/25/abstracts/"><img alt=CFP  Copenhagen src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jan-2024color=green"></a>
-* 08: [DecompileD 2024](https://decompiled.de/) - Dresden (Germany)<a href="https://www.papercall.io/decompiled24"><img alt=CFP  Dresden src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023color=green"></a>
+* 08: [DecompileD 2024](https://decompiled.de/) - Dresden (Germany) <a href="https://www.papercall.io/decompiled24"><img alt="CFP DecompileD" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023color=green"></a>
 * 08: [Frontrunners](https://frontrunners.tech/) - Washington, DC (USA)
 * 12: [Navigate](https://navigate-kongress.de/) - Online 
 * 12-14: [ZANOG](https://iweek.org.za/) - Cape Town (South Africa)<a href="https://iweek.org.za/speakers/call-for-speakers"><img alt=CFP  Cape Town src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Dec-2023color=green"></a>
