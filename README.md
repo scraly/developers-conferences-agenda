@@ -308,6 +308,7 @@ All the data (past and coming) are available publicly in JSON:
 * 3-4: [FOSDEM](https://fosdem.org/2024/) - Brussels (Belgium)
 * 5-7: [Config Management Camp](https://cfgmgmtcamp.eu/ghent2024/) - Ghent (Belgium) <a href="https://cfp.cfgmgmtcamp.org/2024/cfp"><img alt="CFP CfgMgmtCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2023&color=green"></a>
 * 5-7: [Jfokus](https://www.jfokus.se) - Stockholm (Sweden) <a href="https://www.jfokus.se/iamahero"><img alt="CFP JFokus" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=red"></a>
+* 6-8: [GopherCon Europe 2024: Winter Edition in Athens](https://gophercon.eu) - Athens (Greece) <a href="https://sessionize.com/gceu24a/"><img alt="CFP GopherCon Europe 2024: Winter Edition in Athens" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=green"></a>
 * 6-7: [State of Open Con](https://stateofopencon.com/) - London (UK)
 * 8-9: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/J2VpXPXWngD69u0nrA3R"><img alt="CFP Touraine Tech" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-November-2023&color=green"></a>
 * 12-16: [NDC Sydney](https://ndcsydney.com/?_ga=2.199101292.2100444823.1693508878-1997345717.1693508878) - Sydney (Australia)
@@ -400,6 +401,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-7: [DevFest Lille](https://devfest.gdglille.org/) - Lille (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 10-14: [NDC Oslo](https://ndcoslo.com/) - Oslo (Norway)
 * 12-14: [RenderATL](https://www.renderatl.com/) - Atlanta, GA (USA)
+* 17-20: [GopherCon Europe 2024: Summer Edition in Berlin](https://gophercon.eu) - Berlin (Germany) <a href="https://sessionize.com/gceu24b"><img alt="CFP GopherCon Europe 2024: Summer Edition in Berlin" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-February-2024&color=green"></a>
 * 18: [IDM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 18-19: [UX Healthcare Europe](https://uxhealthcare.co/) - Amsterdam (Netherlands) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN4x_OAks2lr-5NWeXjdQFhq9sOAQfKj_UbZxuvUvZZGCaag/viewform"><img alt="CFP UX Healthcare Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2024&color=green"></a>
 * 19: [BDAI UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
