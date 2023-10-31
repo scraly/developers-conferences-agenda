@@ -536,7 +536,7 @@ All the data (past and coming) are available publicly in JSON:
 ### November
 
 * 01: [Conf24 Prompt Engineering](https://www.conf42.com/prompt2024) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2024"><img alt="CFP Conf42 Prompt" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-Oct-2024&color=green"></a>
-* 01: [DevSecCon (monthly)](devseccon.com/) - Online <a href="https://sessionize.com/devseccon-chapter-events-2022/"><img alt="CFP DevSecCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Nov-2024color=green"></a>
+* 01: [DevSecCon (monthly)](devseccon.com/) - Online <a href="https://sessionize.com/devseccon-chapter-events-2022/"><img alt="CFP DevSecCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Nov-2024&color=green"></a>
 * 01-11: [Java Day Istanbul 2024](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2024"><img alt="CFP Java Day Istanbul" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023color=green"></a>
 * 05: [IDM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 19: [IDM Nordics](https://whitehallmedia.co.uk/future-events/) - Stockholm (Sweden)
