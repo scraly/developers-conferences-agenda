@@ -346,7 +346,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-7: [State of Open Con](https://stateofopencon.com/) - London (UK)
 * 07-08: [DNN Summit](https://www.dnnsummit.org/) - Online 
 * 8-9: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/J2VpXPXWngD69u0nrA3R"><img alt="CFP Touraine Tech" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-November-2023&color=green"></a>
-* 08-09: [OARC 42](https://indico.dns-oarc.net/event/48/) - Charlotte, NC (USA)<a href="https://indico.dns-oarc.net/event/48/abstracts/"><img alt=CFP  Charlotte, NC src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Nov-2023color=green"></a>
+* 08-09: [OARC 42](https://indico.dns-oarc.net/event/48/) - Charlotte, NC (USA) <a href="https://indico.dns-oarc.net/event/48/abstracts/"><img alt="CFP OARC 42" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Nov-2023&color=green"></a>
 * 12-16: [NDC Sydney](https://ndcsydney.com/?_ga=2.199101292.2100444823.1693508878-1997345717.1693508878) - Sydney (Australia)
 * 12-14: [NANOG 90](https://nanog.org/events/nanog-90/) - Charlotte, NC (USA)
 * 16-17: [CactusCon](https://www.cactuscon.com/) - Mesa, AZ (USA)
