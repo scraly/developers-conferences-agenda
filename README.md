@@ -299,7 +299,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-13: [AI.dev](https://events.linuxfoundation.org/ai-dev-north-america/) - San Jose (USA)
 * 12-13: [SharePoint Summit 12](https://events.m365-summits.de/SharePointSummit2023-1213Dezember2023) - Online
 * 12-15: [PostgreSQL Conference Europe](https://2023.pgconf.eu/) - Prague (Czech Republic) <a href="https://www.postgresql.eu/events/pgconfeu2023/callforpapers"><img alt="CFP PGConf EU" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
-* 13: [WeAreDevelopers Python Day](https://www.wearedevelopers.com/live) - Online <a href="https://sessionize.com/wearedevelopers-live-2023-season-6"><img alt=CFP  Online src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Nov-2023color=green"></a>
+* 13: [WeAreDevelopers Python Day](https://www.wearedevelopers.com/event/python-day-december-2023) - Online <a href="https://sessionize.com/wearedevelopers-live-2023-season-6"><img alt="CFP WeAreDevelopers Python Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Nov-2023&color=green"></a>
 * 14: [Conf42: IoT 2023](https://www.conf42.com/iot2023) - Online
 * 14: [HashiTalks India](https://hashi.co/hashitalks-india) - Online <a href="https://sessionize.com/hashitalks-india/"><img alt=CFP  Online src="https://img.shields.io/static/v1?label=CFP&message=until%2002-Nov-2023color=green"></a>
 * 14-15: [HighLoad++](https://cfp.highload.am/) - Yerevan (Armenia)
