@@ -260,7 +260,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1-3: [GNOME.Asia Summit 2023](https://events.gnome.org/event/170/) - Kathmandu (Nepal) <a href="https://events.gnome.org/event/170/abstracts/"><img alt="GNOME.Asia Summit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%201-September-2023&color=red"></a>
 * 2: [DevOpsDays Recife](https://devopsdays.org/events/2023-recife) - Recife (Brazil)
 * 02: [Chippewa Valley Code Camp](https://chippewavalleycodecamp.com/) - Eau Claire, WI (USA)
-* 02: [DevFest Kansas City](https://devfestkc.com/) - Kansas City, MO (USA)<a href="https://www.papercall.io/devfestkc2023"><img alt=CFP  Kansas City, MO src="https://img.shields.io/static/v1?label=CFP&message=until%2002-Nov-2023color=green"></a>
+* 02: [DevFest Kansas City](https://devfestkc.com/) - Kansas City, MO (USA) <a href="https://www.papercall.io/devfestkc2023"><img alt="CFP DevFest Kansas City" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-Nov-2023color=green"></a>
 * 02: [Michigan DevFest](https://gdg.community.dev/events/details/google-gdg-detroit-presents-michigan-devfest/) - Detroid, MI (USA)
 * 4: [cdCon Tokyo Japan 2023](https://cd.foundation/cdcon-japan-2023/) - Tokyo (Japan) <a href="https://linuxfoundation.smapply.io/prog/oss_japan_2023/"><img alt="CFP cdCon Japan 23" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-September-2023&color=red"></a>
 * 04-06: [DevOps Vision](https://devopsvision.io/) - Clearwater, FL (USA)<a href="https://devopsvision.io/app/speaker-request"><img alt=CFP  Clearwater, FL src="https://img.shields.io/static/v1?label=CFP&message=until%20TBDcolor=green"></a>
