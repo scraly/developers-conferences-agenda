@@ -1,3 +1,4 @@
+import React from 'react';
 import 'styles/ListView.css';
 
 import {useYearEvents} from 'app.hooks';
@@ -30,7 +31,7 @@ const ListView = () => {
       {getMonthNames()
         .filter(m => eventsByMonth[m])
         .map(month => (
-          <>
+          <React.Fragment key={month}>
             <h1>{month}</h1>
             {eventsByMonth[month].map((e, i) => (
               <div key={`${month}_ev_${i}`} className='event-list-entry'>
@@ -42,7 +43,7 @@ const ListView = () => {
                 {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}
               </div>
             ))}
-          </>
+          </React.Fragment>
         ))}
     </div>
   );
