@@ -447,7 +447,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-10: [DrupalCon Portland 2024](https://events.drupal.org/portland2024) - Portland (USA) <a href="https://sessionize.com/drupalcon-portland-2024"><img alt="CFP DrupalCon Portland 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-November-2023&color=green"></a>
 * 7: [IDM Nordics](https://whitehallmedia.co.uk/future-events/) - Stockholm (Sweden)
 * 7-8: [DevOpsDays Berlin](https://devopsdays.org/events/2024-berlin) - Berlin (Germany)
-* 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
+* 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="[https://example.com/](https://devoxxuk24.cfp.dev/)"><img alt="CFP Devoxx UK" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2024&color=green"></a>
 * 9-10: [GopherCon Brazil 2024](https://gopherconbr.org/en/) - Florianópolis (Brazil) <a href="https://www.papercall.io/gopherconbrazil2024"><img alt="CFP GopherCon Brazil 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2023&color=green"></a>
 * 13: [Code BEAM Lite](https://codebeamstockholm.com/) - Stockholm (Sweden)
 * 13-14: [DevOpsDays Geneva](https://devopsdays.org/events/2024-geneva/welcome/) - Geneva (Switzerland) <a href="https://devopsdays-geneva.ch/forms/InputFormSpkrsDodGe.php?who=pb0cb47956025e73c797e5e17f16fc38466e34f5ae"><img alt="CFP DevOpsDays Geneva 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%207-January-2024&color=green"></a>
