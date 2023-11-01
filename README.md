@@ -490,7 +490,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10-12: [NANOG 91](https://nanog.org/events/nanog-91/) - Kansas City, MO (USA)
 * 10-14: [NDC Oslo](https://ndcoslo.com/) - Oslo (Norway)
 * 11-14: [EuroStar](https://conference.eurostarsoftwaretesting.com/) - Stockholm (Sweden)
-* 12: [You Got This Summer 2024](https://yougotthis.io/events/spring-2024) - Online
+* 12: [You Got This Summer 2024](https://yougotthis.io/events/summer-2024) - Online
 * 12-14: [RenderATL](https://www.renderatl.com/) - Atlanta, GA (USA)
 * 17-20: [GopherCon Europe 2024: Summer Edition in Berlin](https://gophercon.eu) - Berlin (Germany) <a href="https://sessionize.com/gceu24b"><img alt="CFP GopherCon Europe 2024: Summer Edition in Berlin" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-February-2024&color=green"></a>
 * 18: [IDM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
