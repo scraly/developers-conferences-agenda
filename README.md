@@ -207,7 +207,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17: [RVA Javascript Conf](https://www.rvajavascript.com/) - Richmond, VA (USA)
 * 17-18: [JSConf](https://www.jsconf.co/) - Medellin (Columbia)
 * 17-18: [Italian Agile Days](https://www.agileday.it/) - Milan (Italy) <a href="https://sessionize.com/italian-agile-days-2023"><img alt="CFP Italian Agile Days 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2023&color=red"></a>
-* 18: [DevFest London](https://devfestlondon.com/) - London <a href="https://sessionize.com/devfest-2023/"><img alt="CFP DevFest London" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-October-2023&color=red"></a>
+* 18: [DevFest London](https://devfestlondon.com/) - London (UK) <a href="https://sessionize.com/devfest-2023/"><img alt="CFP DevFest London" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-October-2023&color=red"></a>
 * 18: [DevFest Cape Town](https://gdg.community.dev/events/details/google-gdg-cape-town-presents-google-devfest-2023/) - Cape Town (South Africa) <a href="https://sessionize.com/google-devfest-2023-cape-town/"><img alt="CFP DevFest Cape Town" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2023&color=red"></a>
 * 18: [Bsides Berlin](https://bsides.berlin/?ck_subscriber_id=1096856780) - Berlin (Germany)
 * 18-19: [Pycon ID](https://pycon.id/) - Bandung (Indonesia)
