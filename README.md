@@ -549,7 +549,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### December
 
-* 11: [You Got This Winter 2024](https://yougotthis.io/events/spring-2024) - Online
+* 11: [You Got This Winter 2024](https://yougotthis.io/events/winter-2024) - Online
 
 ## 2025
 
