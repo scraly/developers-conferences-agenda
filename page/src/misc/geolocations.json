@@ -679,6 +679,10 @@
     "latitude": 34.0980031,
     "longitude": -118.329523
   },
+  "Hollywood, Florida (USA)": {
+    "latitude": 26.0112014,
+    "longitude": -80.1494901
+  },
   "Hong Kong": {
     "latitude": 22.2793278,
     "longitude": 114.1628131
@@ -730,6 +734,10 @@
   "Istanbul (Turkey)": {
     "latitude": 41.0091982,
     "longitude": 28.9662187
+  },
+  "Jailingo (Nigeria)": {
+    "latitude": 8.892852399999999,
+    "longitude": 11.3771496
   },
   "Jakarta (Indonesia)": {
     "latitude": -6.175247,
@@ -979,6 +987,10 @@
     "latitude": 33.4151005,
     "longitude": -111.831455
   },
+  "Mexico City (Mexico)": {
+    "latitude": 19.4326296,
+    "longitude": -99.1331785
+  },
   "Miami (USA)": {
     "latitude": 25.7741728,
     "longitude": -80.19362
@@ -1139,6 +1151,10 @@
     "latitude": 46.3241132,
     "longitude": -0.4649403
   },
+  "Norwich (UK)": {
+    "latitude": 52.6292567,
+    "longitude": 1.2978802
+  },
   "Nuevo León (Mexico)": {
     "latitude": 26.2384363,
     "longitude": -99.8873
@@ -1158,6 +1174,10 @@
   "Omni La Costa Resort & Spa Carlsbad, California (USA)": {
     "latitude": 33.091985449999996,
     "longitude": -117.26610534145561
+  },
+  "Ondina (El Salvador)": {
+    "latitude": 13.794185,
+    "longitude": -88.89653
   },
   "Online": {
     "latitude": 43.59047185,
@@ -1426,6 +1446,10 @@
   "Santa Clara (USA)": {
     "latitude": 37.2333253,
     "longitude": -121.6846349
+  },
+  "Santiago (Chile)": {
+    "latitude": -33.4377756,
+    "longitude": -70.6504502
   },
   "Santo Domingo (Dominican Republic)": {
     "latitude": 18.4801972,
