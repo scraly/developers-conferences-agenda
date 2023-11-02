@@ -1,14 +1,14 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState } from 'react';
 
 import { Filter, FilterX } from 'lucide-react';
 
-import {getAllCountries} from 'utils';
+import {useCountries} from 'app.hooks';
 
 import 'styles/Filters.css';
 
 const Filters = ({ query, callForPapers, closedCaptions, country, onChange, onClose }) => {
   const [open, setOpen] = useState(false);
-  const countries = useMemo(() => getAllCountries(), []);
+  const countries = useCountries()
 
   return (
     <div className={"filters " + (open ? 'open' : 'closed')}>
@@ -39,15 +39,15 @@ const Filters = ({ query, callForPapers, closedCaptions, country, onChange, onCl
       </div>
 
       <div className='filtersItem'>
-        <label for='filter-closed-captions'>Closed Captions:</label>
+        <label htmlFor='filter-closed-captions'>Closed Captions:</label>
         <input checked={closedCaptions} type='checkbox' id='filter-closed-captions' onChange={(e) => onChange('closedCaptions', e.target.checked)}/>
       </div>
 
       <div className='filtersItem'>
-        <label for='filter-country'>Country:</label>
+        <label htmlFor='filter-country'>Country:</label>
         <select value={country} id='filter-country' onChange={(e) => onChange('country', e.target.value)}>
           <option value=''>All</option>
-          {countries.map((c) => (<option value={c}>{c}</option>))}
+          {countries.map((c) => (<option value={c} key={c}>{c}</option>))}
         </select>
       </div>
     </div>

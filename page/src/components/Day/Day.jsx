@@ -1,22 +1,17 @@
+import {useDayEvents} from 'app.hooks';
 import {useCustomContext} from 'app.context';
-import {filterEvents} from 'utils';
 
-const Day = ({date}) => {
-  const {userState, userDispatch} = useCustomContext()
+const Day = ({date, events}) => {
+  const {userDispatch} = useCustomContext()
+  const dayEvents = useDayEvents(events, date)
+
   let intensity = '';
   let invisible = 'invisible';
 
-  let events = date && window.dev_events &&
-      window.dev_events[date.getFullYear()] &&
-      window.dev_events[date.getFullYear()][date.getMonth()] &&
-      window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()] || []
-
-  events = filterEvents(events, userState.filters.callForPapers, userState.filters.closedCaptions, userState.filters.country, userState.filters.query)
-
   if (date) {
-    if (events.length > 0) {
+    if (dayEvents.length > 0) {
       intensity = ` intensity-${Math.min(
-        events.length,
+        dayEvents.length,
         7
       )}`;
     }
@@ -30,7 +25,7 @@ const Day = ({date}) => {
     <div
       className={'date' + invisible + intensity}
       onClick={() =>
-        userDispatch({type: 'displayDate', payload: {date: date, month: -1, year: null}})
+        userDispatch({type: 'displayDate', payload: {date: date, month: -1, year: date.getFullYear()}})
       }
     >
       {date?.getDate() || ''}
