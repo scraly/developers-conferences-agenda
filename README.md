@@ -207,7 +207,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17: [RVA Javascript Conf](https://www.rvajavascript.com/) - Richmond, VA (USA)
 * 17-18: [JSConf](https://www.jsconf.co/) - Medellin (Columbia)
 * 17-18: [Italian Agile Days](https://www.agileday.it/) - Milan (Italy) <a href="https://sessionize.com/italian-agile-days-2023"><img alt="CFP Italian Agile Days 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2023&color=red"></a>
-* 18: [DevFest London](https://devfestlondon.com/) - London <a href="https://sessionize.com/devfest-2023/"><img alt="CFP DevFest London" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-October-2023&color=red"></a>
+* 18: [DevFest London](https://devfestlondon.com/) - London (UK) <a href="https://sessionize.com/devfest-2023/"><img alt="CFP DevFest London" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-October-2023&color=red"></a>
 * 18: [DevFest Cape Town](https://gdg.community.dev/events/details/google-gdg-cape-town-presents-google-devfest-2023/) - Cape Town (South Africa) <a href="https://sessionize.com/google-devfest-2023-cape-town/"><img alt="CFP DevFest Cape Town" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2023&color=red"></a>
 * 18: [Bsides Berlin](https://bsides.berlin/?ck_subscriber_id=1096856780) - Berlin (Germany)
 * 18-19: [Pycon ID](https://pycon.id/) - Bandung (Indonesia)
@@ -334,6 +334,7 @@ All the data (past and coming) are available publicly in JSON:
 * 31: [triangle.codes](https://www.meetup.com/triangle-codes/) - Online <a href="https://sessionize.com/triangle-codes/"><img alt="CFP trinagle.codes" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023&color=green"></a>
 * 31-01/02: [Cybersec Asia](https://cybersec-asia.net/) - Bangkok (Thailand)
 * 31-03/02: [SnowCamp](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/organizer/event/Bq5k5rbMXGynAls6PjRB"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=red"></a>
+* 31-01/02: [Design Matters Mexico](https://designmatters.mx/) - Mexico City (Mexico)
   
 ### February
 
@@ -372,6 +373,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-15: [AppDevCon](http://appdevcon.nl/) - Amsterdam (Netherlands) <a href="https://sessionize.com/appdevcon-2024"><img alt="CFP AppDevCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-December-2023&color=green"> </a>
 * 12-15: [WebDevCon](http://webdevcon.nl/) - Amsterdam (Netherlands) <a href="https://sessionize.com/webdevcon-2024"><img alt="CFP WebDevCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-December-2023&color=green"> </a>
 * 13: [ECS UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
+* 13: [You Got This Spring 2024](https://yougotthis.io/events/spring-2024) - Online
 * 14-15: [pgDayParis](https://2024.pgday.paris/) - Paris (France)
 * 14-15: [WASM IO](https://2024.wasmio.tech/) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio24"><img alt="CFP WASM IO" src="https://img.shields.io/static/v1?label=CFP&message=until%201-January-2024&color=green"></a>
 * 14-15: [T3chfest](https://t3chfest.es) - Madrid (Spain) <a href="https://t3chfest.es/2024/call-for-talks"><img alt="T3chfest" src="https://img.shields.io/static/v1?label=CFP&message=until%204-December-2023&color=green"></a>
@@ -421,6 +423,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-11: [DevNexus](https://devnexus.com/) - Atlanta (USA)
 * 9-11: [JavaLand](https://www.javaland.eu/en/home/) - Nürburgring (Germany)
 * 10-11: [DevOpsDays Raleigh](https://devopsdays.org/events/2024-raleigh) - Raleigh (USA)
+* 10-11: [Agile en Chile](https://agilealliance.swoogo.com/agileenchile2024/Home) - Santiago (Chile)
 * 11: [DevOps Midwest](http://www.devopsmidwest.com/) - St. Louis, MO (USA) <a href="https://www.papercall.io/devopsmidwest2024"><img alt="CFP DevOps Midwest" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-Apr-2024&color=green"></a>
 * 11-12: [JSDay](https://2024.jsday.it/) - Verona (Italy) <a href="https://2024.jsday.it/welcome/cfp.html"><img alt="CFP JSDay IT" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2023&color=green"></a>
 * 11-12: [UX Healthcare Europe](https://uxhealthcare.co/) - London (UK) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN4x_OAks2lr-5NWeXjdQFhq9sOAQfKj_UbZxuvUvZZGCaag/viewform"><img alt="CFP UX Healthcare Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2024&color=green"></a>
@@ -447,7 +450,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-10: [DrupalCon Portland 2024](https://events.drupal.org/portland2024) - Portland (USA) <a href="https://sessionize.com/drupalcon-portland-2024"><img alt="CFP DrupalCon Portland 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-November-2023&color=green"></a>
 * 7: [IDM Nordics](https://whitehallmedia.co.uk/future-events/) - Stockholm (Sweden)
 * 7-8: [DevOpsDays Berlin](https://devopsdays.org/events/2024-berlin) - Berlin (Germany)
-* 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
+* 8-10: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk24.cfp.dev/#/"><img alt="CFP Devoxx UK 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2024&color=green"></a>
 * 9-10: [GopherCon Brazil 2024](https://gopherconbr.org/en/) - Florianópolis (Brazil) <a href="https://www.papercall.io/gopherconbrazil2024"><img alt="CFP GopherCon Brazil 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2023&color=green"></a>
 * 13: [Code BEAM Lite](https://codebeamstockholm.com/) - Stockholm (Sweden)
 * 13-14: [DevOpsDays Geneva](https://devopsdays.org/events/2024-geneva/welcome/) - Geneva (Switzerland) <a href="https://devopsdays-geneva.ch/forms/InputFormSpkrsDodGe.php?who=pb0cb47956025e73c797e5e17f16fc38466e34f5ae"><img alt="CFP DevOpsDays Geneva 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%207-January-2024&color=green"></a>
@@ -487,6 +490,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10-12: [NANOG 91](https://nanog.org/events/nanog-91/) - Kansas City, MO (USA)
 * 10-14: [NDC Oslo](https://ndcoslo.com/) - Oslo (Norway)
 * 11-14: [EuroStar](https://conference.eurostarsoftwaretesting.com/) - Stockholm (Sweden)
+* 12: [You Got This Summer 2024](https://yougotthis.io/events/summer-2024) - Online
 * 12-14: [RenderATL](https://www.renderatl.com/) - Atlanta, GA (USA)
 * 17-20: [GopherCon Europe 2024: Summer Edition in Berlin](https://gophercon.eu) - Berlin (Germany) <a href="https://sessionize.com/gceu24b"><img alt="CFP GopherCon Europe 2024: Summer Edition in Berlin" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-February-2024&color=green"></a>
 * 18: [IDM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
@@ -515,6 +519,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 14: [BSides Krakow 2024](https://bsideskrakow.pl/) - Krakow (Poland)
 * 16-17: [Infobip Shift](https://shift.infobip.com/) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2024/"><img alt="CFP Infobit Shift" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
+* 18: [You Got This Fall 2024](https://yougotthis.io/events/fall-2024) - Online
 * 19-20: [API Platform Conference](https://api-platform.com/con/) - Lille (France) & Online <a href="https://conference-hall.io/public/event/GMijW4ZrZDo6hzKeF1gk"><img alt="CFP API Platform Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-March-2024&color=green"></a>
 * 19-20: [UX Healthcare Europe](https://uxhealthcare.co/) - Berlin (Germany) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN4x_OAks2lr-5NWeXjdQFhq9sOAQfKj_UbZxuvUvZZGCaag/viewform"><img alt="CFP UX Healthcare Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%201-June-2024&color=green"></a>
 * 25-27: [UX Healthcare Europe](https://uxhealthcare.co/) - Prague (Czech Republic)
@@ -541,6 +546,10 @@ All the data (past and coming) are available publicly in JSON:
 * 05: [IDM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 19: [IDM Nordics](https://whitehallmedia.co.uk/future-events/) - Stockholm (Sweden)
 * 28: [ESRM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
+
+### December
+
+* 11: [You Got This Winter 2024](https://yougotthis.io/events/winter-2024) - Online
 
 ## 2025
 
