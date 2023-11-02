@@ -481,6 +481,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-28: [Lambda Days](https://www.lambdadays.org/) - Krakow (Poland)
 * 27-31: [Domain-Driven Design Europe 2024](https://2024.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://2024.dddeurope.com/cfp/"><img alt="CFP DDD Europe 2024 conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Feb-2024&color=green"></a>
 * 28-29: [Cybersec Europe](https://www.cyberseceurope.com/) - Bruxelles (Belgium)
+* 28-29: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP jPrime" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Feb-2024&color=green"></a>
 * 28-29: [API Days Helsinki & North](https://www.apidays.global/helsinki_and_north/) - Helsinki (Finland) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Helsinki & north" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-April-2024&color=green"></a>
 * 28-30: [Web à Québec](https://webaquebec.org/) - Quebec (Canada)
 * 30-31: [Craft Conf](https://craft-conf.com/2024) - Budapest (Hungary)
