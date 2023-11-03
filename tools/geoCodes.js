@@ -12,7 +12,7 @@ const options = {
 
 const geocoder = NodeGeocoder(options);
 
-const locations = Array.from(new Set(events.map((event) => event.location.replace(" & Online", "")))).filter((location) => !cachedGeolocations[location]).filter((location) => location !== "").sort();
+const locations = Array.from(new Set(events.map((event) => event.location.replace(" & Online", "")))).filter((location) => !cachedGeolocations[location]).filter((location) => location !== "" && location !== "Online").sort();
 const cachedLocations = Array.from(new Set(events.map((event) => event.location.replace(" & Online", "")))).filter((location) => cachedGeolocations[location]).filter((location) => location !== "").sort();
 
 geocoder.batchGeocode(locations).then((result) => {

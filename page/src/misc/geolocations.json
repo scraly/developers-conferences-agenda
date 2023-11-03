@@ -163,6 +163,10 @@
     "latitude": 12.9767936,
     "longitude": 77.590082
   },
+  "Bergen (Norway)": {
+    "latitude": 60.3943055,
+    "longitude": 5.3259192
+  },
   "Berlin (Germany)": {
     "latitude": 52.5170365,
     "longitude": 13.3888599
@@ -1179,14 +1183,6 @@
     "latitude": 13.794185,
     "longitude": -88.89653
   },
-  "Online": {
-    "latitude": 43.59047185,
-    "longitude": 3.8595132132013186
-  },
-  "Online (France)": {
-    "latitude": 43.59047185,
-    "longitude": 3.8595132132013186
-  },
   "Orange (France)": {
     "latitude": 44.1371311,
     "longitude": 4.8078783
@@ -1700,6 +1696,10 @@
     "longitude": 21.071432235636493
   },
   "Washington (USA)": {
+    "latitude": 38.8950368,
+    "longitude": -77.0365427
+  },
+  "Washington D.C. (USA)": {
     "latitude": 38.8950368,
     "longitude": -77.0365427
   },

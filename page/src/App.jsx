@@ -21,6 +21,7 @@ const App = () => {
     filters: {
       callForPapers: false,
       closedCaptions: false,
+      online: false,
       country: '',
       query: ''
     },
@@ -42,6 +43,7 @@ const App = () => {
           callForPapers={userState.filters.callForPapers}
           closedCaptions={userState.filters.closedCaptions}
           country={userState.filters.country}
+          online={userState.filters.online}
           onChange={(key, value) =>
             userDispatch({type: 'setFilters', payload: {...userState.filters, [key]: value}})
           }

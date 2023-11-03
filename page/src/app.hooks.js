@@ -28,6 +28,10 @@ export const useYearEvents = () => {
         result = result.filter(e => e.cfp && new Date(e.cfp.untilDate) > new Date());
       }
 
+      if (userState.filters.online) {
+        result = result.filter(e => e.location.indexOf('Online') !== -1);
+      }
+
       if (userState.filters.country) {
         result = result.filter(e => e.country === userState.filters.country);
       }
