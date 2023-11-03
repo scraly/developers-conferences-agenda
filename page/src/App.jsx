@@ -53,6 +53,7 @@ const App = () => {
         />
         <div className="dcaContent">
           <YearSelector
+            isMap={viewType === 'map'}
             year={userState.year}
             onChange={year => {
               userDispatch({type: 'displayDate', payload: {date: null, month: null, year: year}});
