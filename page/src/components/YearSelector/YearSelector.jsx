@@ -7,7 +7,7 @@ import 'styles/YearSelector.css';
 import {useYearEvents} from 'app.hooks';
 import EventCount from 'components/EventCount/EventCount';
 
-const YearSelector = ({ year, onChange }) => {
+const YearSelector = ({ isMap, year, onChange }) => {
   const yearEvents = useYearEvents()
   return (
     <div>
@@ -18,7 +18,7 @@ const YearSelector = ({ year, onChange }) => {
 
       </div>
       <div>
-        <EventCount events={yearEvents} />
+        <EventCount events={yearEvents} isMap={isMap} />
       </div>
     </div>
   );

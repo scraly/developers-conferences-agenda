@@ -6,7 +6,7 @@ import {useCountries} from 'app.hooks';
 
 import 'styles/Filters.css';
 
-const Filters = ({ query, callForPapers, closedCaptions, country, onChange, onClose }) => {
+const Filters = ({ query, callForPapers, closedCaptions, online, country, onChange, onClose }) => {
   const [open, setOpen] = useState(false);
   const countries = useCountries()
 
@@ -41,6 +41,11 @@ const Filters = ({ query, callForPapers, closedCaptions, country, onChange, onCl
       <div className='filtersItem'>
         <label htmlFor='filter-closed-captions'>Closed Captions:</label>
         <input checked={closedCaptions} type='checkbox' id='filter-closed-captions' onChange={(e) => onChange('closedCaptions', e.target.checked)}/>
+      </div>
+
+      <div className='filtersItem'>
+        <label htmlFor='filter-online'>Online:</label>
+        <input checked={online} type='checkbox' id='filter-online' onChange={(e) => onChange('online', e.target.checked)}/>
       </div>
 
       <div className='filtersItem'>

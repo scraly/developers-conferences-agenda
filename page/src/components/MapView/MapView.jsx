@@ -31,13 +31,14 @@ const MapView = () => {
 
   const eventsByLocation = useMemo(() => {
     return events.reduce((acc, cur) => {
-      if (!geolocations[cur.location] || !geolocations[cur.location].longitude || !geolocations[cur.location].latitude) {
+      const location = cur.location.replaceAll(' & Online', '');
+      if (!geolocations[location] || !geolocations[location].longitude || !geolocations[location].latitude) {
         return acc;
       }
-      if (!acc[cur.location]) {
-        acc[cur.location] = [];
+      if (!acc[location]) {
+        acc[location] = [];
       }
-      acc[cur.location].push(cur);
+      acc[location].push(cur);
       return acc;
     }, {})
   }, [events]);
