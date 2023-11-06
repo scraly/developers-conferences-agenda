@@ -129,7 +129,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4: [DevFest Nairobi](https://gdg.community.dev/events/details/google-gdg-nairobi-presents-gdg-devfest-nairobi-2023/) - Nairobi (Kenya)
 * 4: [DevFest Jalingo 2023](https://gdg.community.dev/events/details/google-gdg-jalingo-presents-devfest-2023-jalingo/) - Jalingo (Nigeria) <a href="https://sessionize.com/devfest-2023-jalingo/"><img alt="CFP DevFest Jalingo 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2023&color=red"></a>
 * 4: [DevFest Ado-Ekiti](https://gdg.community.dev/events/details/google-gdg-ado-ekiti-presents-devfest-ado-ekiti-2023/) - Ado (Nigeria) <a href="https://sessionize.com/devfest-ado-ekiti-2023/"><img alt="CFP DevFest Ado" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-October-2023&color=red"></a>
-* 04: [DevFest Jailingo](https://gdg.community.dev/events/details/google-gdg-jalingo-presents-devfest-2023-jalingo/) - Jailingo (Nigeria)
+* 04: [DevFest Jalingo](https://gdg.community.dev/events/details/google-gdg-jalingo-presents-devfest-2023-jalingo/) - Jalingo (Nigeria)
 * 04: [TedxGrandJunction](http://tedxgj.com/) - Grand Junction, CO (USA)
 * 04-05: [Cloud Native Rejekts](https://cloud-native.rejekts.io/) - Chicago (USA)
 * 05-10: [Agile+DevOps East](https://agiledevopseast.techwell.com/) - Orlando (USA)
