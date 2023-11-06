@@ -309,7 +309,7 @@ All the data (past and coming) are available publicly in JSON:
 * 16: [PyOhio](https://www.pyohio.org/2023/) - Online
 * 16: [DevFest Yamoussoukro](https://gdg.community.dev/events/details/google-gdg-yamoussoukro-presents-devfest-yamoussoukro-2023/) - Yamoussoukro (Ivory Coast)
 * 16: [DevFest Luanda](https://gdg.community.dev/events/details/google-gdg-luanda-presents-devfest-luanda-2023/) - Luanda (Angola)
-* 16: [DevOpsDays Salvador](https://devopsdays.org/events/2023-salvador/welcome/) - Ondina (El Salvador)
+* 16: [DevOpsDays Salvador](https://devopsdays.org/events/2023-salvador/welcome/) - Salvador (Brazil)
 
 ## 2024
 
