@@ -39,6 +39,10 @@
     "latitude": 52.000487,
     "longitude": 5.4600535
   },
+  "Amman (Jordan)": {
+    "latitude": 31.9515694,
+    "longitude": 35.9239625
+  },
   "Amsterdam (Netherlands)": {
     "latitude": 52.3730796,
     "longitude": 4.8924534
@@ -1179,6 +1183,10 @@
     "latitude": 50.3309196,
     "longitude": 6.940674171000003
   },
+  "Oakland, CA (USA)": {
+    "latitude": 37.8044557,
+    "longitude": -122.271356
+  },
   "Oklahoma City (USA)": {
     "latitude": 35.4729886,
     "longitude": -97.5170536
@@ -1742,6 +1750,10 @@
   "Wisconsin Dells, WI (USA)": {
     "latitude": 43.6256168,
     "longitude": -89.7715646
+  },
+  "Wroclaw (Poland)": {
+    "latitude": 51.1089776,
+    "longitude": 17.0326689
   },
   "Wrocław (Poland)": {
     "latitude": 51.1089776,
