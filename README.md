@@ -324,7 +324,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19: [Voxxed Days Ticino](https://voxxeddays.com/ticino/) - Lugano (Switzerland) <a href="https://vdt24.cfp.dev/#/login"><img alt="CFP Voxxed Days Ticino" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=red"></a>
 * 21-22: [DevOpsDays Tel Aviv](https://devopsdays.org/events/2023-tel-aviv/welcome/) - Tel Aviv (Israel)
 * 22-23: [Voxxed Days CERN](https://cern.voxxeddays.com/) - Geneva (Switzerland) <a href="https://vdcern24.cfp.dev/#/login"><img alt="CFP Voxxed Days CERN" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2023&color=red"></a>
-* 23-24: [CSNOG](https://www.csnog.eu/en/) - Zlin (Czech Republic)
+* 23-24: [CSNOG](https://www.csnog.eu/en/) - Zlin (Czech Republic) <a href="https://indico.csnog.eu/event/19/abstracts/"><img alt="CFP CSNOG" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Nov-2023&color=green"></a>
 * 24-25: [Chaos Carnival 2024](https://chaoscarnival.io/) - Online <a href="https://sessionize.com/chaos-carnival-2024"><img alt="CFP Chaos Carnival" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Jan-2024&color=green"></a>
 * 24-25: [KCD Oslo](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024/) - Oslo (Norway) <a href="https://kcd.smapply.io/prog/kcd_oslo_2024_cfp/"><img alt="CFP KCD Oslo" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-November-2023&color=green"></a>
 * 25: [Conf42: DevOps](https://www.conf42.com/devops2024) - Online <a href="https://www.papercall.io/conf42-devops-2024"><img alt="CFP Conf42: Devops" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-December-2023&color=green"></a>
@@ -332,7 +332,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29-01/02: [THAT Conference](https://that.us/events/tx/2024/) - Round Rock, TX (USA)
 * 29-02/02: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://ndclondon.com/call-for-papers"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
 * 31: [triangle.codes](https://www.meetup.com/triangle-codes/) - Online <a href="https://sessionize.com/triangle-codes/"><img alt="CFP trinagle.codes" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023&color=green"></a>
-* 31-01/02: [Cybersec Asia](https://cybersec-asia.net/) - Bangkok (Thailand)
+* 31-01/02: [Cybersec Asia](https://cybersec-asia.net/) - Bangkok (Thailand) <a href="https://www.papercall.io/cybersecasia"><img alt="CFP Cybersec Asia" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=green"></a>
 * 31-03/02: [SnowCamp](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/organizer/event/Bq5k5rbMXGynAls6PjRB"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=red"></a>
 * 31-01/02: [Design Matters Mexico](https://designmatters.mx/) - Mexico City (Mexico)
 * 31-01/02: [Meet Magento Florida 2.0](https://meetmagentofl.com/) - Hollywood, Florida (USA) <a href="https://forms.gle/afJUfJyBMKAEWTgN8"><img alt="CFP Meet Magento Florida 2.0" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=green"></a>
@@ -382,7 +382,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-17: [SCaLE 21x](https://www.socallinuxexpo.org) - Pasadena (USA) <a href="https://www.socallinuxexpo.org/scale/21x/call-presenters"><img alt="CFP SCaLE 21x" src="https://img.shields.io/static/v1?label=CFP&message=until%201-November-2023&color=green"></a>
 * 15: [DevOpsDays Los Angeles](https://devopsdays.org/events/2024-los-angeles/welcome/) - Los Angeles (USA)
 * 15: [Incontro DevOps Italia](https://2024.incontrodevops.it/) - Bologna (Italy) <a href="https://sessionize.com/incontro-devops-2024"><img alt="CFP Incontro DevOps Italia" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Nov-2024&color=green"></a>
-* 15-17: [Pycon SK](https://2024.pycon.sk) - Bratislava (Slovakia)
+* 15-17: [Pycon SK](https://2024.pycon.sk) - Bratislava (Slovakia) <a href="https://2024.pycon.sk/en/cfp.html"><img alt="CFP Pycon SK" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2024&color=green"></a>
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland) <a href="https://vdz24.cfp.dev/"><img alt="CFP Voxxed Days Zurich" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=green"></a>
 * 16: [DDD Melbourne](https://www.dddmelbourne.com/) - Melbourne (Australia)
 * 18-20: [SREcon24 Americas](https://www.usenix.org/conference/srecon24americas) - San Francisco, CA (USA)
@@ -413,7 +413,7 @@ All the data (past and coming) are available publicly in JSON:
 * 26-28: [Forum INCYBER Europe](https://europe.forum-incyber.com/) - Lille (France)
 * 26-28: [Rust Nation UK](https://www.rustnationuk.com/) - London (UK) <a href="https://www.rustnationuk.com/call-for-papers"><img alt="CFP Rust Nation UK" src="https://img.shields.io/static/v1?label=CFP&message=14-Jun-2023%20to%2030-Sep-2023&color=red"> </a>
 * 28: [IDM Dach](https://whitehallmedia.co.uk/future-events/) - Frankfurt (Germany)
-* 28-29: [SymfonyLive Paris 2024](https://live.symfony.com/2024-paris/) - Paris (France)
+* 28-29: [SymfonyLive Paris 2024](https://live.symfony.com/2024-paris/) - Paris (France) <a href="https://live.symfony.com/2024-paris/cfp"><img alt="CFP SymfonyLive Paris 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-December-2023&color=green"></a>
 
 ### April
 
