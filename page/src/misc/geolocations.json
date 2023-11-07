@@ -739,10 +739,6 @@
     "latitude": 41.0091982,
     "longitude": 28.9662187
   },
-  "Jailingo (Nigeria)": {
-    "latitude": 8.892852399999999,
-    "longitude": 11.3771496
-  },
   "Jakarta (Indonesia)": {
     "latitude": -6.175247,
     "longitude": 106.8270488
@@ -838,6 +834,10 @@
   "Lake Tahoe (USA)": {
     "latitude": 39.08854049999999,
     "longitude": -120.05035277301698
+  },
+  "Lalitpur (Nepal)": {
+    "latitude": 27.6587525,
+    "longitude": 85.3247183
   },
   "Las Vegas (USA)": {
     "latitude": 36.1672559,
@@ -978,6 +978,10 @@
   "Mbarara (Uganda)": {
     "latitude": -0.4180848,
     "longitude": 30.573737377548046
+  },
+  "Medellin (Colombia)": {
+    "latitude": 6.2476376,
+    "longitude": -75.56581530000001
   },
   "Medellin (Columbia)": {
     "latitude": 6.2697018,
@@ -1143,6 +1147,10 @@
     "latitude": 40.7127281,
     "longitude": -74.0060152
   },
+  "Newquay (UK)": {
+    "latitude": 50.41549699999999,
+    "longitude": -5.073719
+  },
   "Nice (France)": {
     "latitude": 43.7009358,
     "longitude": 7.2683912
@@ -1179,9 +1187,9 @@
     "latitude": 33.091985449999996,
     "longitude": -117.26610534145561
   },
-  "Ondina (El Salvador)": {
-    "latitude": 13.794185,
-    "longitude": -88.89653
+  "Opatija (Croatia)": {
+    "latitude": 45.3376197,
+    "longitude": 14.305196
   },
   "Orange (France)": {
     "latitude": 44.1371311,
@@ -1246,6 +1254,10 @@
   "Phoenix (USA)": {
     "latitude": 33.4484367,
     "longitude": -112.074141
+  },
+  "Phoenix, AZ (USA)": {
+    "latitude": 33.4483771,
+    "longitude": -112.0740373
   },
   "Phuket (Thailand)": {
     "latitude": 7.9366015,
@@ -1482,6 +1494,10 @@
   "Singapore (Singapore)": {
     "latitude": 1.2899175,
     "longitude": 103.8519072
+  },
+  "Skopje (North Macedonia)": {
+    "latitude": 41.9981294,
+    "longitude": 21.4254355
   },
   "Sofia (Bulgaria)": {
     "latitude": 42.6977028,
