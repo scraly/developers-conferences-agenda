@@ -541,6 +541,7 @@ All the data (past and coming) are available publicly in JSON:
 * 3-4: [Nordic.JS](https://nordicjs.com/2024/) - Stockholm (Sweden)
 * 7-11: [Devoxx Belgium](https://devoxx.be) - Antwerp (Belgium)
 * 10-11: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France)
+* 10-11: [Forum PHP](https://event.afup.org/) - Disneyland Paris (France)
 * 15: [CYBERGOV](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 16-17: [API Days Australia](https://www.apidays.global/singapore/) - Melbourne (Australia) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Australia" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-September-2024&color=green"></a>
 * 17: [Conf42 Incident Management 2024](https://www.conf42.com/im2024) - Online <a href="https://www.papercall.io/conf42-incident-management-2024"><img alt="CFP Conf42 Incident Management" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Sep-2024&color=green"></a>
