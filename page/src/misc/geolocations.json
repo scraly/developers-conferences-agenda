@@ -679,6 +679,10 @@
     "latitude": 60.1674881,
     "longitude": 24.9427473
   },
+  "Heredia (Costa Rica)": {
+    "latitude": 10.376781300000001,
+    "longitude": -84.01397213865732
+  },
   "Ho chi Minh (Vietnam)": {
     "latitude": 10.7763897,
     "longitude": 106.7011391
@@ -1123,6 +1127,10 @@
     "latitude": 36.1622767,
     "longitude": -86.7742984
   },
+  "Nashville, TN (USA)": {
+    "latitude": 36.1622767,
+    "longitude": -86.7742984
+  },
   "Nashville, Tennessee (USA)": {
     "latitude": 36.1622767,
     "longitude": -86.7742984
@@ -1563,6 +1571,10 @@
     "latitude": -33.8698439,
     "longitude": 151.2082848
   },
+  "Sydney (Australia))": {
+    "latitude": -33.8698439,
+    "longitude": 151.2082848
+  },
   "São Paulo (Brazil)": {
     "latitude": -1.2043218,
     "longitude": -47.1583944
@@ -1774,6 +1786,10 @@
   "Zadar (Croatia)": {
     "latitude": 44.1168594,
     "longitude": 15.2353257
+  },
+  "Zagreb (Croatia)": {
+    "latitude": 45.84264135,
+    "longitude": 15.962231476593626
   },
   "Zanzibar (Tanzania)": {
     "latitude": -6.09994425,
