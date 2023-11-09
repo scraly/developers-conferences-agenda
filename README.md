@@ -415,6 +415,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19: [Platform Engineering Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/platform-engineering-day/) - Paris (France) <a href="https://sessionize.com/kccnc-eu-co-located-24"><img alt="CFP KubeCon Colocated events" src="https://img.shields.io/static/v1?label=CFP&message=until%203-December-2023&color=green"></a>
 * 19: [ThanosCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/thanoscon/) - Paris (France) <a href="https://sessionize.com/kccnc-eu-co-located-24"><img alt="CFP KubeCon Colocated events" src="https://img.shields.io/static/v1?label=CFP&message=until%203-December-2023&color=green"></a>
 * 19: [Programmable 2024 - Melbourne](https://programmable.tech) - Melbourne (Australia) <a href="https://sessionize.com/programmable-2024-melbourne"><img alt="CFP Programmable 2024 - Melbourne" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=green"></a>
+* 19-20: [Kafka Summit](https://www.kafka-summit.org/events/kafka-summit-london-2024/about) - London (UK) <a href="https://sessionize.com/kafka-summit-london-2024/"><img alt="CfP Kafka Summit London 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-November-2023&color=green"></a>
 * 19-20: [LeadDev NY](https://leaddev.com/leaddev-new-york) - New York, NY (USA)
 * 19-20: [StaffPlus NY](https://leaddev.com/staffplus-new-york) - New York, NY (USA)
 * 19-21: [IT & Cybersecurity Meetings](https://www.it-and-cybersecurity-meetings.com/) - Paris (France)
@@ -470,6 +471,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### May
 
+* 2: [Kafka Summit](https://www.kafka-summit.org/events/kafka-summit-bangalore-2024/about) - Bangalore (India) <a href="https://sessionize.com/kafka-summit-bangalore-2024/"><img alt="CfP Kafka Summit Bangalore 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2024&color=green"></a>
 * 5-7: [Deep Dish Swift 2024](https://deepdishswift.com) - Chicago, IL (USA) <a href="https://www.papercall.io/deep-dish-swift-2024"><img alt="CFP Deep Dish Swift 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=green"></a>
 * 6-10: [DrupalCon Portland 2024](https://events.drupal.org/portland2024) - Portland (USA) <a href="https://sessionize.com/drupalcon-portland-2024"><img alt="CFP DrupalCon Portland 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-November-2023&color=green"></a>
 * 7: [IDM Nordics](https://whitehallmedia.co.uk/future-events/) - Stockholm (Sweden)
