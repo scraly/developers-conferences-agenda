@@ -203,6 +203,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6: [DevFest Banjul](https://gdg.community.dev/events/details/google-gdg-banjul-presents-devfest-banjul-2023/) - Banjul (Gambia)
 * 6-7: [Open Core Summit](https://opencoresummit.com/) - San Francisco, CA (USA)
 * 6-7: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France) <a href="https://sessionize.com/open-source-experience-2023/"><img alt="CFP [Open Source Experience 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-june-2023&color=red"></a>
+* 6-7: [SIDO Paris](https://www.sido-paris.com/) - Paris (France)
 * 6-8: [API Days Paris](https://www.apidays.global/paris/) - Paris (France) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-November-2023&color=green"></a>
 * 7: [TestJS Summit](https://testjssummit.com/) - Berlin (Germany)
 * 7: [Agile Tour Aix-Marseille](https://atmrs.esprit-agile.com/) - Gardanne (France) <a href="https://sessionize.com/agile-tour-aix-marseille-2023/"><img alt="CFP [Agile Tour Aix-Marseille" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-september-2023&color=red"></a>
