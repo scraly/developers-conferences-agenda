@@ -424,6 +424,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21: [Programmable 2024 - Sydney](https://programmable.tech) - Sydney (Australia)) <a href="https://sessionize.com/programmable-2024-sydney"><img alt="CFP Programmable 2024 - Sydney" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=green"></a>
 * 21-22: [DevOpsDays Singapore](https://devopsdays.org/events/2024-singapore/welcome/) - Singapore (Singapore) <a href="https://www.papercall.io/dodsin23"><img alt="CFP DevOpsDays 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-December-2023&color=green"></a>
 * 21-22: [DevOps Talks Conference](https://devops.talksplus.com/melbourne/devops) - Melbourne (Australia) <a href="https://devops.talksplus.com/submit-talk"><img alt="CFP DevOps Talks" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2024&color=green"></a>
+* 22-23: [Agile Games France](https://agilegamesfrance.fr/doku.php?id=evenement_2024) - En cours de choix (France)
 * 26: [IDM Europe](https://whitehallmedia.co.uk/future-events/) - Utrecht (Netherlands)
 * 26-28: [Forum INCYBER Europe](https://europe.forum-incyber.com/) - Lille (France)
 * 26-28: [Rust Nation UK](https://www.rustnationuk.com/) - London (UK) <a href="https://www.rustnationuk.com/call-for-papers"><img alt="CFP Rust Nation UK" src="https://img.shields.io/static/v1?label=CFP&message=14-Jun-2023%20to%2030-Sep-2023&color=red"> </a>
