@@ -471,7 +471,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### May
 
-* 2: [Kafka Summit](https://www.kafka-summit.org/events/kafka-summit-bangalore-2024/about) - Bangalore (India) <a href="https://sessionize.com/kafka-summit-bangalore-2024/"><img alt="CfP Kafka Summit Bangalore 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2024&color=green"></a>
+* 2: [Kafka Summit Bangalore](https://www.kafka-summit.org/events/kafka-summit-bangalore-2024/about) - Bangalore (India) <a href="https://sessionize.com/kafka-summit-bangalore-2024/"><img alt="CfP Kafka Summit Bangalore 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2024&color=green"></a>
 * 5-7: [Deep Dish Swift 2024](https://deepdishswift.com) - Chicago, IL (USA) <a href="https://www.papercall.io/deep-dish-swift-2024"><img alt="CFP Deep Dish Swift 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=green"></a>
 * 6-10: [DrupalCon Portland 2024](https://events.drupal.org/portland2024) - Portland (USA) <a href="https://sessionize.com/drupalcon-portland-2024"><img alt="CFP DrupalCon Portland 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-November-2023&color=green"></a>
 * 7: [IDM Nordics](https://whitehallmedia.co.uk/future-events/) - Stockholm (Sweden)
