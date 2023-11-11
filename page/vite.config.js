@@ -12,6 +12,7 @@ export default defineConfig({
 			utils: join(__dirname, 'src', 'utils'),
 			components: join(__dirname, 'src', 'components'),
 			"app.context": join(__dirname, 'src', 'app.context'),
+			"app.hooks": join(__dirname, 'src', 'app.hooks'),
 			"app.reducer": join(__dirname, 'src', 'app.reducer'),
 			misc: join(__dirname, 'src', 'misc'),
 			styles: join(__dirname, 'src', 'styles')

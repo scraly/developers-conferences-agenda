@@ -6,13 +6,17 @@ const NodeGeocoder = require('node-geocoder');
 const ROOT = "../";
 const GEOLOCATION_OUTPUT = ROOT + "page/src/misc/geolocations.json";
 
-const options = {
-  provider: 'openstreetmap',
-};
+let options = {provider: 'openstreetmap'};
+if (process.env.GOOGLE_MAPS_API_KEY !== undefined) {
+  options = {
+    provider: 'google',
+    apiKey: process.env.GOOGLE_MAPS_API_KEY,
+  }
+}
 
 const geocoder = NodeGeocoder(options);
 
-const locations = Array.from(new Set(events.map((event) => event.location.replace(" & Online", "")))).filter((location) => !cachedGeolocations[location]).filter((location) => location !== "").sort();
+const locations = Array.from(new Set(events.map((event) => event.location.replace(" & Online", "")))).filter((location) => !cachedGeolocations[location]).filter((location) => location !== "" && location.toLowerCase() !== "online").sort();
 const cachedLocations = Array.from(new Set(events.map((event) => event.location.replace(" & Online", "")))).filter((location) => cachedGeolocations[location]).filter((location) => location !== "").sort();
 
 geocoder.batchGeocode(locations).then((result) => {

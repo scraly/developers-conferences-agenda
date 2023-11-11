@@ -22,63 +22,27 @@ import {useMemo} from 'react';
 
 import {MapContainer, TileLayer, Marker, Popup, Tooltip} from 'react-leaflet';
 
-import {getYearEvents} from 'utils';
-import {filterEvents} from '../../utils';
-import {useCustomContext} from 'app.context';
+import {useYearEvents} from 'app.hooks';
 
-const MapView = ({year}) => {
-  let events = useMemo(() => getYearEvents(year), [year]);
-  const {userState} = useCustomContext();
-  events = useMemo(() => filterEvents(events, userState.filters.callForPapers, userState.filters.closedCaptions, userState.filters.country, userState.filters.query), [userState, events]);
+import ShortDate from 'components/ShortDate/ShortDate';
+
+const MapView = () => {
+  let events = useYearEvents()
 
   const eventsByLocation = useMemo(() => {
     return events.reduce((acc, cur) => {
-      if (!geolocations[cur.location] || !geolocations[cur.location].longitude || !geolocations[cur.location].latitude) {
+      const location = cur.location.replaceAll(' & Online', '');
+      if (!geolocations[location] || !geolocations[location].longitude || !geolocations[location].latitude) {
         return acc;
       }
-      if (!acc[cur.location]) {
-        acc[cur.location] = [];
+      if (!acc[location]) {
+        acc[location] = [];
       }
-      acc[cur.location].push(cur);
+      acc[location].push(cur);
       return acc;
     }, {})
   }, [events]);
 
-  const monthNames = [
-    'January',
-    'February',
-    'March',
-    'April',
-    'May',
-    'June',
-    'July',
-    'August',
-    'September',
-    'October',
-    'November',
-    'December',
-  ];
-  const formatDate = dates => {
-    const startDate = `${new Date(dates[0]).getDate()}-${monthNames[
-      new Date(dates[0]).getMonth()
-    ].slice(0, 3)}`;
-    let endDate = '';
-    if (dates.length > 1) {
-      endDate = new Date(dates[1]).getDate();
-      endDate = `${new Date(dates[1]).getDate()}-${monthNames[new Date(dates[1]).getMonth()].slice(
-        0,
-        3
-      )}`;
-    }
-    if (endDate) {
-      return (
-        <span>
-          {startDate} -&gt; {endDate}
-        </span>
-      );
-    }
-    return <span>{startDate}</span>;
-  };
 
   return (
     <div className="mapView">
@@ -93,7 +57,7 @@ const MapView = ({year}) => {
           }
           const marker = eventsByLocation[loc].map((e, i) => (
             <div key={`ev_${i}`} className='event-map-entry'>
-              {formatDate(e.date)}
+              <ShortDate dates={e.date} />
               {e.hyperlink ? <a href={e.hyperlink} target='_blank'>{e.name}</a> : <b>{e.name}</b>}
               <span dangerouslySetInnerHTML={{__html: e.misc}}></span>
               {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}

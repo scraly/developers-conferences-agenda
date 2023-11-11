@@ -1,5 +1,5 @@
 const appReducer = (
-  state = {filters: {callForPapers: false, closedCaptions: false, query: ''}, date: null, month: null, year: null},
+  state,
   action
 ) => {
   switch (action.type) {
@@ -12,6 +12,8 @@ const appReducer = (
       };
     case 'setFilters':
       return {...state, filters: action.payload};
+    case 'resetFilters':
+      return {...state, filters: {callForPapers: false, closedCaptions: false, online: false, country: '', query: ''}};
     default:
       return state;
   }

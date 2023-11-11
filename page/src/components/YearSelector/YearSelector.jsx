@@ -4,10 +4,11 @@ import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
 
 
 import 'styles/YearSelector.css';
-import { getYearEvents } from 'utils';
+import {useYearEvents} from 'app.hooks';
 import EventCount from 'components/EventCount/EventCount';
 
-const YearSelector = ({ year, onChange }) => {
+const YearSelector = ({ isMap, year, onChange }) => {
+  const yearEvents = useYearEvents()
   return (
     <div>
       <div className="yearNavigator">
@@ -17,7 +18,7 @@ const YearSelector = ({ year, onChange }) => {
 
       </div>
       <div>
-        <EventCount events={getYearEvents(year)} />
+        <EventCount events={yearEvents} isMap={isMap} />
       </div>
     </div>
   );

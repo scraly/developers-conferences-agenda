@@ -1,6 +1,6 @@
 import {useReducer, useState} from 'react';
 
-import {ArrowDownCircle, Calendar, List, Map} from 'lucide-react';
+import {Calendar, CalendarDays, CalendarClock, List, Map} from 'lucide-react';
 
 import CalendarGrid from 'components/CalendarGrid/CalendarGrid';
 import ListView from 'components/ListView/ListView';
@@ -10,24 +10,29 @@ import Filters from 'components/Filters/Filters';
 
 import CustomContext from 'app.context';
 import reducer from 'app.reducer';
+import {useHasYearEvents} from 'app.hooks';
 import SelectedEvents from 'components/SelectedEvents/SelectedEvents';
 import 'misc/fonts/inter/inter.css';
 import 'styles/App.css';
-import {hasEvents} from './utils';
 
 const App = () => {
-  const [selectedYear, setSelectedYear] = useState(new Date().getFullYear());
   const [viewType, setViewType] = useState('calendar');
   const [userState, userDispatch] = useReducer(reducer, {
-    filters: {callForPapers: false, closedCaptions: false, country: '', query: ''},
+    filters: {
+      callForPapers: false,
+      closedCaptions: false,
+      online: false,
+      country: '',
+      query: ''
+    },
     date: null,
     month: null,
-    year: null,
+    year: (new Date()).getFullYear()
   });
-  const providerState = {
-    userState,
-    userDispatch,
-  };
+
+  const providerState = {userState, userDispatch};
+
+  const hasYearEvents = useHasYearEvents(userState.year);
 
   return (
     <CustomContext.Provider value={providerState}>
@@ -38,25 +43,33 @@ const App = () => {
           callForPapers={userState.filters.callForPapers}
           closedCaptions={userState.filters.closedCaptions}
           country={userState.filters.country}
+          online={userState.filters.online}
           onChange={(key, value) =>
             userDispatch({type: 'setFilters', payload: {...userState.filters, [key]: value}})
           }
           onClose={() =>
-            userDispatch({type: 'setFilters', payload: {callForPapers: false, query: ''}})
+            userDispatch({type: 'resetFilters'})
           }
         />
         <div className="dcaContent">
           <YearSelector
-            year={selectedYear}
+            isMap={viewType === 'map'}
+            year={userState.year}
             onChange={year => {
-              setSelectedYear(year);
+              userDispatch({type: 'displayDate', payload: {date: null, month: null, year: year}});
             }}
           />
-          {viewType === 'calendar' && hasEvents(selectedYear) && (
-            <a href={'/developer-conference-' + selectedYear + '.ics'} className="downloadButton">
-              <ArrowDownCircle />
-              Download {selectedYear} Calendar
-            </a>
+          {viewType === 'calendar' && hasYearEvents && (
+            <div className='downloadButtons'>
+              <a href={'/developer-conference-' + userState.year + '.ics'} title={'Download ' + userState.year + ' Calendar'} className="downloadButton">
+                <CalendarDays />
+                {userState.year} Calendar
+              </a>
+              <a href={'/developer-conference-opened-cfps.ics'} title="Download Opened CFP Calendar" className="downloadButton">
+                <CalendarClock />
+                Opened CFP Calendar
+              </a>
+            </div>
           )}
 
           <div className="view-type-selector">
@@ -82,13 +95,13 @@ const App = () => {
             />
           </div>
 
-          {viewType === 'calendar' && <CalendarGrid year={selectedYear} />}
+          {viewType === 'calendar' && <CalendarGrid year={userState.year} />}
           {viewType === 'calendar' && (
             <SelectedEvents date={userState.date} month={userState.month} year={userState.year} />
           )}
 
-          {viewType === 'list' && <ListView year={selectedYear} />}
-          {viewType === 'map' && <MapView year={selectedYear} />}
+          {viewType === 'list' && <ListView year={userState.year} />}
+          {viewType === 'map' && <MapView year={userState.year} />}
         </div>
       </div>
     </CustomContext.Provider>
