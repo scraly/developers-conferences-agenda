@@ -122,6 +122,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15: [DevOpsDays Chattanooga](https://devopsdays.org/events/2023-chattanooga/welcome/) - Chattanooga (USA)
 * 15: [NOG.fi](https://nog.fi/event/8/) - Helsinki (Finland) <a href="https://nog.fi/event/8/abstracts/"><img alt="CFP  Helsinki" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-Nov-2023&color=green"></a>
 * 15: [WeAreDevelopers Machine Learning Day](https://www.wearedevelopers.com/live) - Online <a href="https://sessionize.com/wearedevelopers-live-2023-season-6"><img alt="CFP  WeAreDevelopers Machine Learning Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Nov-2023&color=green"></a>
+* 15-16: [DevOps Live Paris](https://www.cloudexpoeurope.fr/devops-live-paris/) - Paris (France)
 * 15-17: [Build Stuff](https://www.buildstuff.events/) - Vilnius (Lithuania)
 * 16: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France) <a href="https://devfesttoulouse.fr/#le-cfp"><img alt="CFP DevFest Toulouse 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2023&color=red"></a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 16: [Conf42: Javascript 2023](https://www.conf42.com/js2023) - Online
