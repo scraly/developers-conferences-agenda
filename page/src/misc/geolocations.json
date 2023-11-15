@@ -115,6 +115,10 @@
     "latitude": -6.9215529,
     "longitude": 107.6110212
   },
+  "Bangalore (India)": {
+    "latitude": 12.9767936,
+    "longitude": 77.590082
+  },
   "Bangkok (Thailand)": {
     "latitude": 13.8245796,
     "longitude": 100.6224463
@@ -1190,6 +1194,10 @@
   "Nürburgring (Germany)": {
     "latitude": 50.3309196,
     "longitude": 6.940674171000003
+  },
+  "Oakland (USA)": {
+    "latitude": 37.8044557,
+    "longitude": -122.271356
   },
   "Oakland, CA (USA)": {
     "latitude": 37.8044557,
