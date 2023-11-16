@@ -38,7 +38,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### June
 
-* 3-5: [Community Over Code](https://eu.communityovercode.org/) - Bratislava (Slovakia) <a href="https://sessionize.com/coceu-2024/"><img alt="Community Over Code Bratislava 2024, Call for Papers" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2024&color=red"></a>
+* 3-5: [Community Over Code](https://eu.communityovercode.org/) - Bratislava (Slovakia) <a href="https://sessionize.com/coceu-2024/"><img alt="Community Over Code Bratislava 2024, Call for Papers" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2024&color=green"></a>
 
 ## 2023
 
