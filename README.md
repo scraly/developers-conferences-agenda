@@ -264,3 +264,11 @@ All the events (past and coming) are available publicly in JSON: https://develop
 ### February
 
 * 1-3: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)
+
+### April
+
+* 09-11: [DEVNEXUS 2024](https://devnexus.com/) - Atlanta, GA (USA) 
+
+### September
+
+* 24-26: [JCONF.DEV 2024](https://2024.jconf.dev/) - Dallas, TX (USA) <a href=" https://sessionize.com/jconf-2024/ "><img alt="CFP JCONF.DEV 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2023&color=green"></a>
