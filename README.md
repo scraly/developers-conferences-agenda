@@ -150,6 +150,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22: [Malt Tech Days](https://www.papercall.io/mtd-2023) - Online
 * 23: [DevOps D-Day #8](https://www.devopsdday.com/) - Marseille (France) <a href="https://hopscotch.key4events.com/abstract.aspx?e=321&c=2683"><img alt="CFP DevOps D-Day #8" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-July-2023&color=red"></a>
 * 23: [Agile Grenoble](https://agile-grenoble.org/) - Grenoble (France) <a href="https://sessionize.com/agile-grenoble-2023/"><img alt="CFP Agile Grenoble" src="https://img.shields.io/static/v1?label=CFP&message=until%202-July-2023&color=red"></a>
+* 24: [Angular Day](https://2023.angularday.it/) - Verona (Italy)
 * 24-25: [DevFest Lagos](https://www.devfestlagos.com/) - Lagos (Nigeria) <a href="https://www.devfestlagos.com/cfp-2023"><img alt="CFP DevFest Lagos" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=red"></a>
 * 25: [DATA BASH](https://databash.live/) - Online
 * 25: [DevFest Mbarara](https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-devfest-mbarara-2023/cohost-gdg-cloud-mbarara) - Mbarara (Uganda) <a href="https://sessionize.com/devfestmbra23/"><img alt="CFP DevFest Mbarara" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=red"></a>
@@ -182,6 +183,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1: [KCD Utrecht 2023](https://kcdutrecht.nl/) - Utrecht (Netherlands) <a href="https://forms.gle/JyrTeEJuk2PVAT7d9"><img alt="KCD Utrecht" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-October-2023&color=red"></a>
 * 01: [DevSecCon](https://www.devseccon.com/) - Online
 * 01: [DotNetFriday](https://dotnetfriday.nl/) - Nieuwegein (Netherlands) <a href="https://sessionize.com/dotnet-friday"><img alt="CFP DotNetFriday" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Nov-2023&color=green"></a>
+* 01: [NG Rome](https://2023.ngrome.io/) - Rome (Italy)
 * 1-2: [DevFest Alps](https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-alps-2023/) - Torino (Italy)
 * 01-02: [Dakar Bitcoin Days](https://dakarbitcoindays.com/) - Dakar (Senegal)
 * 1-3: [Africa Bitcoin Conference 2023](https://afrobitcoin.org) - Accra (Ghana)
@@ -285,6 +287,7 @@ All the data (past and coming) are available publicly in JSON:
 * 07-08: [DNN Summit](https://www.dnnsummit.org/) - Online 
 * 8-9: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/J2VpXPXWngD69u0nrA3R"><img alt="CFP Touraine Tech" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-November-2023&color=green"></a>
 * 08-09: [OARC 42](https://indico.dns-oarc.net/event/48/) - Charlotte, NC (USA) <a href="https://indico.dns-oarc.net/event/48/abstracts/"><img alt="CFP OARC 42" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Nov-2023&color=green"></a>
+* 10: [ng-India](https://www.ng-ind.com/) - Delhi (India)
 * 12-16: [NDC Sydney](https://ndcsydney.com/?_ga=2.199101292.2100444823.1693508878-1997345717.1693508878) - Sydney (Australia)
 * 12-14: [NANOG 90](https://nanog.org/events/nanog-90/) - Charlotte, NC (USA)
 * 15: [Conf42.com Chaos Engineering 2024](https://www.conf42.com/ce2024) - Online <a href="https://www.papercall.io/conf42-chaos-engineering-2024"><img alt="CFP Conf42.com Chaos Engineering 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2024&color=green"></a>
