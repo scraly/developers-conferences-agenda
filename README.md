@@ -427,6 +427,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-16: [JCON EUROPE 2024](https://2024.europe.jcon.one/) - Cologne (Germany) <a href="https://sessionize.com/jcon-europe-2024"><img alt="CFP JCON EUROPE 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Nov-2023&color=green"></a>
 * 14-15: [DevOpsDays Seattle](https://devopsdays.org/events/2024-seattle) - Seattle (USA)
 * 14-15: [DevOpsDays Philadelphia](https://devopsdays.org/events/2024-philadelphia) - Philadelphia (USA)
+* 15-17: [GeeCON 2024](https://2024.geecon.org) - Krakow (Poland) <a href="https://2024.geecon.org/cfp/"><img alt="CFP GeeCON 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jan-2024&color=navy"></a>
 * 15-17: [DevSum 2024](https://devsum.se/) - Stockholm (Sweden) <a href="https://www.devsum.se/call-for-paper"><img alt="CFP DevSum 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%203-December-2023&color=green"></a>
 * 16: [DDD Melbourne](https://www.dddmelbourne.com/) - Melbourne (Australia) <a href="https://sessionize.com/ddd-melbourne-2024"><img alt="CFP DDD Melbourne" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Nov-2023&color=red"></a>
 * 16-17: [Newcrafts Paris](https://ncrafts.io/) - Paris (France) <a href="https://sessionize.com/newcrafts-paris-2024"><img alt="CFP Newcrafts Paris 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-Jan-2024&color=green"></a>
