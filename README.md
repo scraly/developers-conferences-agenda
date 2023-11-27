@@ -281,7 +281,7 @@ All the data (past and coming) are available publicly in JSON:
 * 3-4: [FOSDEM](https://fosdem.org/2024/) - Brussels (Belgium) <a href="https://fosdem.org/2024/news/2023-11-08-devrooms-announced/"><img alt="CFP FOSDEM" src="https://img.shields.io/static/v1?label=CFP&message=until%20December-2023&color=green"></a>
 * 5-7: [Config Management Camp](https://cfgmgmtcamp.eu/ghent2024/) - Ghent (Belgium) <a href="https://cfp.cfgmgmtcamp.org/2024/cfp"><img alt="CFP CfgMgmtCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2023&color=red"></a>
 * 5-7: [Jfokus](https://www.jfokus.se) - Stockholm (Sweden) <a href="https://www.jfokus.se/iamahero"><img alt="CFP JFokus" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=red"></a>
-* 6: [DevFest Paris](https://devfest.gdgparis.com/) - Paris (France) <a href="https://conference-hall.io/public/event/pJRc2OqdUx5iAXkJgTEW"><img alt="CFP DevFest Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-November-2023&color=green"></a>
+* 6: [DevFest Paris](https://devfest.gdgparis.com/) - Paris (France) <a href="https://conference-hall.io/public/event/pJRc2OqdUx5iAXkJgTEW"><img alt="CFP DevFest Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=green"></a>
 * 6-8: [GopherCon Europe 2024: Winter Edition in Athens](https://gophercon.eu) - Athens (Greece) <a href="https://sessionize.com/gceu24a/"><img alt="CFP GopherCon Europe 2024: Winter Edition in Athens" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=green"></a>
 * 6-7: [State of Open Con](https://stateofopencon.com/) - London (UK)
 * 07-08: [DNN Summit](https://www.dnnsummit.org/) - Online 
