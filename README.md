@@ -461,6 +461,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29-30: [plSwift 2024](https://plswift.com/) - Krakow (Poland) <a href="https://www.papercall.io/plswift24"><img alt="CFP plSwift 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-December-2023&color=green"></a>
 * 30: [Conf42.com Artificial Intelligence & Machine Learning (AI & ML) 2024](https://www.conf42.com/aiml2024) - Online <a href="https://www.papercall.io/conf42-artificial-intelligence-machine-learning-2024"><img alt="CFP Conf42.com Artificial Intelligence & Machine Learning (AI & ML) 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-April-2024&color=green"></a>
 * 30-31: [Craft Conf](https://craft-conf.com/2024) - Budapest (Hungary)
+* 30-31: [Spring I/O](https://2024.springio.net/) - Barcelona (Spain)
 
 ### June
 
