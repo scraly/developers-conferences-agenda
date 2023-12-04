@@ -461,7 +461,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29-30: [plSwift 2024](https://plswift.com/) - Krakow (Poland) <a href="https://www.papercall.io/plswift24"><img alt="CFP plSwift 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-December-2023&color=green"></a>
 * 30: [Conf42.com Artificial Intelligence & Machine Learning (AI & ML) 2024](https://www.conf42.com/aiml2024) - Online <a href="https://www.papercall.io/conf42-artificial-intelligence-machine-learning-2024"><img alt="CFP Conf42.com Artificial Intelligence & Machine Learning (AI & ML) 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-April-2024&color=green"></a>
 * 30-31: [Craft Conf](https://craft-conf.com/2024) - Budapest (Hungary)
-* 30-31: [Spring I/O](https://2024.springio.net/) - Barcelona (Spain)
+* 30-31: [Spring I/O](https://2024.springio.net/) - Barcelona (Spain) <a href="https://sessionize.com/spring-io-2024/"><img alt="CFP Spring I/O 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-February-2024&color=green"></a>
 
 ### June
 
@@ -545,7 +545,7 @@ All the data (past and coming) are available publicly in JSON:
 * 01-11: [Java Day Istanbul 2024](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2024"><img alt="CFP Java Day Istanbul" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023&color=green"></a>
 * 05: [IDM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 12-15: [KubeCon + CloudNativeCon NA 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2024/) - Salt Lake City (USA)
-* 14-15: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain)
+* 14-15: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain) <a href="https://devops.barcelona/call-for-papers"><img alt="CFP DevOps Barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 19: [IDM Nordics](https://whitehallmedia.co.uk/future-events/) - Stockholm (Sweden)
 * 21: [Conf42 Prompt Engineering 2024](https://www.conf42.com/prompt2024) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2024"><img alt="CFP Conf42 Prompt Engineering 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-October-2024&color=green"></a>
 * 28: [ESRM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
