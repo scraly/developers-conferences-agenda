@@ -498,6 +498,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1-5: [Developer Week '24](https://www.developer-week.de) - Nuremberg (Germany) <a href="https://sessionize.com/developer-week-24/"><img alt="CFP Developer Week '24" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2024&color=green"></a>
 * 03-05: [Fluttercon Berlin](https://fluttercon.dev/) - Berlin (Germany)
 * 03-05: [DroidCon Berlin](https://berlin.droidcon.com/) - Berlin (Germany)
+* 4-5: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/32IQQ5wYijdJdXrqtYsx/"><img alt="CFP Sunny Tech 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-February-2024&color=green"></a>
 * 4-5: [Agile On The Beach 2024](https://www.agileonthebeach.com) - Falmouth (UK) <a href="https://sessionize.com/agile-on-the-beach-2024"><img alt="CFP Agile On The Beach 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=green"></a>
 * 15: [LechazoConf](https://lechazoconf.com/) - Valladolid (Spain) <a href="https://lechazoconf.com/"><img alt="CFP Lechazo Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
 * 17: [Middlesbrough Front End](https://www.middlesbroughfe.co.uk/) - Middlesbrough (UK)
