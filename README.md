@@ -292,7 +292,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-14: [NANOG 90](https://nanog.org/events/nanog-90/) - Charlotte, NC (USA)
 * 15: [Conf42.com Chaos Engineering 2024](https://www.conf42.com/ce2024) - Online <a href="https://www.papercall.io/conf42-chaos-engineering-2024"><img alt="CFP Conf42.com Chaos Engineering 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2024&color=green"></a>
 * 15-16: [DevOps.js Conference](https://devopsjsconf.com/) - Online <a href="https://www.papercall.io/devopsjsconference"><img alt="CFP DevOps.js Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=green"></a>
-* 15-16: [Scala.IO](https://scala.io/) - Nantes (FR)
+* 15-16: [Scala.IO](https://scala.io/) - Nantes (France)
 * 16-17: [CactusCon](https://www.cactuscon.com/) - Mesa, AZ (USA)
 * 17: [GeekBeacon Festival 2024](https://www.gbfest.org) - Online <a href="https://sessionize.com/geekbeacon-festival-2024/"><img alt="CFP GeekBeacon Festival 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2024&color=green"></a>
 * 19-24: [BlaBlaConf - 100% Moroccan Dialect](https://www.blablaconf.com/) - Online <a href="https://sessionize.com/blablaconf-2024"><img alt="CFP BlaBlaConf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-February-2024&color=green"></a>
