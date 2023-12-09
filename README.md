@@ -439,7 +439,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18: [AWS Community Day Türkiye 2024](https://aws.cloudturkey.io/) - Istanbul (Turkey) <a href="https://www.papercall.io/aws-comday-tur-2024"><img alt="CFP AWS Community Day Türkiye 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
 * 20-21: [DevOps Pro Europe 2024](https://devopspro.lt/) - Online
 * 21-22: [DevOpsDays Baltimore](https://devopsdays.org/events/2024-baltimore) - Baltimore (USA)
-* 21-22: [Codemotion Madrid](https://conferences.codemotion.com/madrid2024/) - Madrid (Spain)
+* 21-22: [Codemotion Madrid](https://conferences.codemotion.com/madrid2024/) - Madrid (Spain) <a href="https://sessionize.com/codemotion-madrid-2024"><img alt="CFP Codemotion Madrid 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-February-2024&color=green"></a>
 * 22-23: [InfoShare](https://infoshare.pl/) - Gdansk (Poland)
 * 22-24: [Kotlin Conf](https://kotlinconf.com/) - Copenhagen (Denmark) <a href="https://sessionize.com/kotlinconf-2024/"><img alt="CFP KotlinConf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-November-2023&color=green"></a>
 * 23: [GOVSEC UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
