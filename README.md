@@ -224,6 +224,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9: [Flutter Conf India](https://flutterconf.in/) - Gujarat (India)
 * 9: [DevOpsDays Porto Alegre](https://devopsdays.org/events/2023-porto-alegre) - Porto Alegre (Brazil)
 * 9: [PosaDev 2023](https://posadev.mx) - Guadalajara (Mexico) <a href="https://sessionize.com/posadev-2023"><img alt="CFP PosaDev 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-October-2023&color=red"></a>
+* 9: [DevFest Miami](https://miami.devfestflorida.com/) - Miami (USA)
 * 11: [TestJS Summit](https://testjssummit.com/) - Online
 * 12: [React Day Berlin](https://reactday.berlin/) - Online
 * 12: [KubeDay Singapore](https://events.linuxfoundation.org/kubeday-singapore/) - Singapore (Singapore) <a href="https://events.linuxfoundation.org/kubeday-singapore/program/cfp/"><img alt="CFP KubeDay Singapore" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-September-2023&color=red"></a>
