@@ -87,6 +87,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12: [React Day Berlin](https://reactday.berlin/) - Online
 * 12: [KubeDay Singapore](https://events.linuxfoundation.org/kubeday-singapore/) - Singapore (Singapore) <a href="https://events.linuxfoundation.org/kubeday-singapore/program/cfp/"><img alt="CFP KubeDay Singapore" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-September-2023&color=red"></a>
 * 12: [KCD Spain](https://kcdspain.com/) - Online <a href="https://kcd.smapply.io/prog/kcd_spain_2023/"><img alt="CFP KCD Spain 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2023&color=red"></a>
+* 12: [DevFest 2023 - Aveiro / Braga](https://gdg.community.dev/events/details/google-gdg-braga-presents-devfest-2023-aveiro-braga) - Vila Nova de Gaia (Portugal)
 * 12-13: [AI.dev](https://events.linuxfoundation.org/ai-dev-north-america/) - San Jose (USA)
 * 12-13: [SharePoint Summit 12](https://events.m365-summits.de/SharePointSummit2023-1213Dezember2023) - Online
 * 12-15: [PostgreSQL Conference Europe](https://2023.pgconf.eu/) - Prague (Czech Republic) <a href="https://www.postgresql.eu/events/pgconfeu2023/callforpapers"><img alt="CFP PGConf EU" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
@@ -108,7 +109,8 @@ All the data (past and coming) are available publicly in JSON:
 * 16: [DevFest Belém 2023](https://gdg.community.dev/events/details/google-gdg-belem-presents-devfest-belem-2023-acai-com-farinha/) - Belém (Brazil)
 * 16: [DevFest Chimbote 2023](https://gdg.community.dev/events/details/google-gdg-chimbote-presents-devfest-chimbote-2023/) - Nuevo Chimbote (Perou)
 * 16: [DevFest Cochabamba 2023](https://gdg.community.dev/events/details/google-gdg-cochabamba-presents-devfest-cochabamba-2023-1) - Cochabamba (Bolivia)
-* 16: [DevFest Pelotas](https://gdg.community.dev/events/details/google-gdg-pelotas-presents-devfest-pelotas) - Pelotas (Urugay)
+* 16: [DevFest Pelotas](https://gdg.community.dev/events/details/google-gdg-pelotas-presents-devfest-pelotas) - Pelotas (Brazil)
+* 16: [DevFest Essaouira 2023](https://gdg.community.dev/events/details/google-gdg-marrakesh-presents-devfest-2023/) - Essaouira (Morocco)
 * 17: [Designers Day 2023](https://designersktm.com) - Lalitpur (Nepal) <a href="https://www.papercall.io/designersday2023"><img alt="CFP Designers Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2023&color=red"></a>
 * 18: [DevFest IPN - ESCOM](https://gdg.community.dev/events/details/google-gdg-ipn-presents-devfest-ipn-escom) - Mexico City (Mexico)
 * 20: [DevFest Agreste 2023](https://gdg.community.dev/events/details/google-gdg-arapiraca-presents-devfest-agreste-2023/) - Arapiraca (Brazil)

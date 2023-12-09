@@ -423,6 +423,10 @@
     "latitude": 46.769379,
     "longitude": 23.5899542
   },
+  "Cochabamba (Bolivia)": {
+    "latitude": -17.401245799999998,
+    "longitude": -66.16756808852
+  },
   "Coimbra (Portugal)": {
     "latitude": 40.2111931,
     "longitude": -8.4294632
@@ -566,6 +570,10 @@
   "Eindhoven (Netherlands)": {
     "latitude": 51.4392648,
     "longitude": 5.478633
+  },
+  "Essaouira (Morocco)": {
+    "latitude": 31.5118281,
+    "longitude": -9.7620903
   },
   "Faenza (Italy)": {
     "latitude": 44.2855555,
@@ -1275,6 +1283,10 @@
     "latitude": 34.1476507,
     "longitude": -118.1441551
   },
+  "Pelotas (Brazil)": {
+    "latitude": -31.7699736,
+    "longitude": -52.3410161
+  },
   "Perros-Guirec (France)": {
     "latitude": 48.8151133,
     "longitude": -3.4394662
@@ -1746,6 +1758,10 @@
   "Vigo (Spain)": {
     "latitude": 42.1964491,
     "longitude": -8.7117809
+  },
+  "Vila Nova de Gaia (Portugal)": {
+    "latitude": 41.1300103,
+    "longitude": -8.6058415
   },
   "Villeurbanne (France)": {
     "latitude": 45.7733573,
