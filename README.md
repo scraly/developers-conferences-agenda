@@ -96,13 +96,22 @@ All the data (past and coming) are available publicly in JSON:
 * 14: [HashiTalks India](https://hashi.co/hashitalks-india) - Online <a href="https://sessionize.com/hashitalks-india/"><img alt="CFP HashiTalks India" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-Nov-2023&color=red"></a>
 * 14-15: [HighLoad++](https://cfp.highload.am/) - Yerevan (Armenia)
 * 15: [DevFest 2023 Greater LA](https://gdg.community.dev/events/details/google-gdg-los-angeles-presents-devfest-2023-greater-los-angeles/) - West Hollywood, CA (USA) <a href="https://www.papercall.io/devfest-la"><img alt="CFP DevFest 2023 Greater LA" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Dec-2023&color=green"></a>
+* 15: [Devfest São Luís 2023](https://gdg.community.dev/events/details/google-gdg-sao-luis-presents-devfest-sao-luis-2023/) - São Luís (Brazil)
 * 15-16: [PyCon Thailand](https://th.pycon.org/) - Bangkok (Thailand)
 * 16: [DevOpsDays](https://devopsdays.org/events/2023-salvador/welcome/) - Salvador (Brazil)
 * 16: [PyOhio](https://www.pyohio.org/2023/) - Online
 * 16: [DevFest Yamoussoukro](https://gdg.community.dev/events/details/google-gdg-yamoussoukro-presents-devfest-yamoussoukro-2023/) - Yamoussoukro (Ivory Coast)
 * 16: [DevFest Luanda](https://gdg.community.dev/events/details/google-gdg-luanda-presents-devfest-luanda-2023/) - Luanda (Angola)
 * 16: [DevOpsDays Salvador](https://devopsdays.org/events/2023-salvador/welcome/) - Salvador (Brazil)
+* 16: [DevFest Panama](https://gdg.community.dev/events/details/google-gdg-panama-presents-devfest-panama-2023/) - Online
+* 16: [DevFest Caribbean 2023 - Port-of-Spain](https://gdg.community.dev/events/details/google-gdg-port-of-spain-presents-devfest-caribbean-2023-port-of-spain/) - Port of Spain (Trinidad)
+* 16: [DevFest Belém 2023](https://gdg.community.dev/events/details/google-gdg-belem-presents-devfest-belem-2023-acai-com-farinha/) - Belém (Brazil)
+* 16: [DevFest Chimbote 2023](https://gdg.community.dev/events/details/google-gdg-chimbote-presents-devfest-chimbote-2023/) - Nuevo Chimbote (Perou)
+* 16: [DevFest Cochabamba 2023](https://gdg.community.dev/events/details/google-gdg-cochabamba-presents-devfest-cochabamba-2023-1) - Cochabamba (Bolivia)
+* 16: [DevFest Pelotas](https://gdg.community.dev/events/details/google-gdg-pelotas-presents-devfest-pelotas) - Pelotas (Urugay)
 * 17: [Designers Day 2023](https://designersktm.com) - Lalitpur (Nepal) <a href="https://www.papercall.io/designersday2023"><img alt="CFP Designers Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2023&color=red"></a>
+* 18: [DevFest IPN - ESCOM](https://gdg.community.dev/events/details/google-gdg-ipn-presents-devfest-ipn-escom) - Mexico City (Mexico)
+* 20: [DevFest Agreste 2023](https://gdg.community.dev/events/details/google-gdg-arapiraca-presents-devfest-agreste-2023/) - Arapiraca (Brazil)
 
 ## 2024
 

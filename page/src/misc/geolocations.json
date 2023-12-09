@@ -59,6 +59,10 @@
     "latitude": 51.2211097,
     "longitude": 4.3997081
   },
+  "Arapiraca (Brazil)": {
+    "latitude": -9.754866,
+    "longitude": -36.661471
+  },
   "Athens (Greece)": {
     "latitude": 37.9755648,
     "longitude": 23.7348324
@@ -162,6 +166,10 @@
   "Bellevue, WA (USA)": {
     "latitude": 47.6144219,
     "longitude": -122.192337
+  },
+  "Belém (Brazil)": {
+    "latitude": -1.45056,
+    "longitude": -48.4682453
   },
   "Bengaluru (India)": {
     "latitude": 12.9767936,
@@ -1187,6 +1195,10 @@
     "latitude": 52.6292567,
     "longitude": 1.2978802
   },
+  "Nuevo Chimbote (Perou)": {
+    "latitude": -9.1221157,
+    "longitude": -78.5309749
+  },
   "Nuevo León (Mexico)": {
     "latitude": 26.2384363,
     "longitude": -99.8873
@@ -1310,6 +1322,10 @@
   "Poland": {
     "latitude": 52.215933,
     "longitude": 19.134422
+  },
+  "Port of Spain (Trinidad)": {
+    "latitude": 10.6472492,
+    "longitude": -61.51139452899346
   },
   "Portland (USA)": {
     "latitude": 45.5202471,
@@ -1586,6 +1602,10 @@
   "Sydney (Australia))": {
     "latitude": -33.8698439,
     "longitude": 151.2082848
+  },
+  "São Luís (Brazil)": {
+    "latitude": -2.5295265,
+    "longitude": -44.2963942
   },
   "São Paulo (Brazil)": {
     "latitude": -1.2043218,
