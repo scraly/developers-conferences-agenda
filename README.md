@@ -114,6 +114,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17: [Designers Day 2023](https://designersktm.com) - Lalitpur (Nepal) <a href="https://www.papercall.io/designersday2023"><img alt="CFP Designers Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2023&color=red"></a>
 * 18: [DevFest IPN - ESCOM](https://gdg.community.dev/events/details/google-gdg-ipn-presents-devfest-ipn-escom) - Mexico City (Mexico)
 * 20: [DevFest Agreste 2023](https://gdg.community.dev/events/details/google-gdg-arapiraca-presents-devfest-agreste-2023/) - Arapiraca (Brazil)
+* 22: [DevFest Kolkata 2023](https://devfest.gdgkolkata.in/) - Kolkata (India)
 
 ## 2024
 
