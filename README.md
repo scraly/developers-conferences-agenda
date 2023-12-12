@@ -135,6 +135,7 @@ All the data (past and coming) are available publicly in JSON:
 * 23-24: [CSNOG](https://www.csnog.eu/en/) - Zlin (Czech Republic) <a href="https://indico.csnog.eu/event/19/abstracts/"><img alt="CFP CSNOG" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Nov-2023&color=red"></a>
 * 24-25: [Chaos Carnival 2024](https://chaoscarnival.io/) - Online <a href="https://sessionize.com/chaos-carnival-2024"><img alt="CFP Chaos Carnival" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Jan-2024&color=green"></a>
 * 24-25: [KCD Oslo](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024/) - Oslo (Norway) <a href="https://kcd.smapply.io/prog/kcd_oslo_2024_cfp/"><img alt="CFP KCD Oslo" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-November-2023&color=red"></a>
+* 25-30: [JChampions Conference](https://jchampionsconf.com/) - Online
 * 25: [Conf42: DevOps](https://www.conf42.com/devops2024) - Online <a href="https://www.papercall.io/conf42-devops-2024"><img alt="CFP Conf42: Devops" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-December-2023&color=green"></a>
 * 27: [Bilbo Stack](https://bilbostack.com/) - Bilbao (Spain)
 * 29-01/02: [THAT Conference](https://that.us/events/tx/2024/) - Round Rock, TX (USA)
