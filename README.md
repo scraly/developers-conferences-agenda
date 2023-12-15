@@ -354,6 +354,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-7: [DevFest Lille](https://devfest.gdglille.org/) - Lille (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 6-7: [Alpes Craft](https://www.alpescraft.fr/) - Grenoble (France)
 * 8: [Data Saturday Croatia 2024](https://datasaturdays.com/2024-06-08-datasaturday0042/) - Zagreb (Croatia) <a href="https://sessionize.com/data-saturday-croatia-2024/"><img alt="CFP Data Saturday Croatia 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2023&color=green"></a>
+* 10-11: [CodeEurope](https://www.codeeurope.pl/en) - Krakow, Poland <a href="https://www.codeeurope.pl/en/become-a-speaker"><img alt="CFP Code Europe Poland 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%201-April-2024&color=green"></a>
 * 10-12: [NANOG 91](https://nanog.org/events/nanog-91/) - Kansas City, MO (USA)
 * 10-14: [NDC Oslo](https://ndcoslo.com/) - Oslo (Norway) <a href="https://sessionize.com/ndc-oslo-2024"><img alt="CFP NDC Oslo 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-February-2024&color=green"></a>
 * 10-14: [PlatformCon 2024](https://platformcon.com) - Online <a href="https://sessionize.com/platformcon-2024"><img alt="CFP PlatformCon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-February-2024&color=green"></a>
