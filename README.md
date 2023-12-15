@@ -382,6 +382,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### July
 
+* 1-2: [KCD Munich](https://www.kcdmunich.com/) - Munich (Germany) <a href="https://sessionize.com/kcd-munich-2024-cfp/"><img alt="CFP KCD Munich 24" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=green"></a>
 * 1-5: [Developer Week '24](https://www.developer-week.de) - Nuremberg (Germany) <a href="https://sessionize.com/developer-week-24/"><img alt="CFP Developer Week '24" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2024&color=green"></a>
 * 03-05: [Fluttercon Berlin](https://fluttercon.dev/) - Berlin (Germany)
 * 03-05: [DroidCon Berlin](https://berlin.droidcon.com/) - Berlin (Germany)
