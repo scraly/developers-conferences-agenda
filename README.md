@@ -232,7 +232,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19-20: [LeadDev NY](https://leaddev.com/leaddev-new-york) - New York, NY (USA)
 * 19-20: [StaffPlus NY](https://leaddev.com/staffplus-new-york) - New York, NY (USA)
 * 19-21: [IT & Cybersecurity Meetings](https://www.it-and-cybersecurity-meetings.com/) - Paris (France)
-* 19-22: [KubeCon + CloudNativeCon Europe 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2024/) - Paris (France)  <a href="https://sessionize.com/kubecon-cloudnativecon-europe-2024/"><img alt="CFP Kubecon EU" src="https://img.shields.io/static/v1?label=CFP&message=18-Sep-2023%20to%2026-Nov-2023&color=green"> </a>
+* 19-22: [KubeCon + CloudNativeCon Europe 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2024/) - Paris (France)  <a href="https://sessionize.com/kubecon-cloudnativecon-europe-2024/"><img alt="CFP Kubecon EU" src="https://img.shields.io/static/v1?label=CFP&message=18-Sep-2023%20to%2026-Nov-2023&color=red"> </a>
 * 21: [LeadingEng NY](https://leaddev.com/leadingeng-new-york) - New York, NY (USA)
 * 21: [Conf42.com Cloud Native 2024](https://www.conf42.com/cloud2024) - Online <a href="https://www.papercall.io/conf42-cloud-native-2024"><img alt="CFP Conf42.com Cloud Native 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-February-2024&color=green"></a>
 * 21: [Programmable 2024 - Sydney](https://programmable.tech) - Sydney (Australia)) <a href="https://sessionize.com/programmable-2024-sydney"><img alt="CFP Programmable 2024 - Sydney" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=red"></a>
