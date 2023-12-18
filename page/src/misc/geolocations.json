@@ -771,6 +771,10 @@
     "latitude": 41.0091982,
     "longitude": 28.9662187
   },
+  "Istanbul (Turkiye)": {
+    "latitude": 41.0082376,
+    "longitude": 28.9783589
+  },
   "Jakarta (Indonesia)": {
     "latitude": -6.175247,
     "longitude": 106.8270488
@@ -1507,6 +1511,10 @@
     "latitude": 41.2951563,
     "longitude": -83.1555438
   },
+  "Sanford, FL (USA)": {
+    "latitude": 28.8028612,
+    "longitude": -81.269453
+  },
   "Sankt Augustin (Germany)": {
     "latitude": 50.7752776,
     "longitude": 7.1895507
@@ -1730,6 +1738,10 @@
   "Valbonne (France)": {
     "latitude": 43.641141,
     "longitude": 7.0086255
+  },
+  "Valence (France)": {
+    "latitude": 44.933393,
+    "longitude": 4.89236
   },
   "Valencia (Spain)": {
     "latitude": 39.4697065,
