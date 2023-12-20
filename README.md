@@ -375,6 +375,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11-14: [EuroStar](https://conference.eurostarsoftwaretesting.com/) - Stockholm (Sweden)
 * 12: [You Got This Summer 2024](https://yougotthis.io/events/summer-2024) - Online
 * 12-14: [RenderATL](https://www.renderatl.com/) - Atlanta, GA (USA)
+* 12-14: [Rencontres R](https://rr2024.sciencesconf.org/) - Vannes (France)
 * 13: [Conf42.com Observability 2024](https://www.conf42.com/obs2024) - Online <a href="https://www.papercall.io/conf42-observability-2024"><img alt="CFP Conf42.com Observability 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-May-2024&color=green"></a>
 * 13: [JSNation](https://jsnation.com/) - Amsterdam (Netherlands) & Online <a href="https://www.papercall.io/jsnation"><img alt="CFP JSNation" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2024&color=green"></a>
 * 13-14: [DevBCN](https://www.devbcn.com/) - Barcelona (Spain)
