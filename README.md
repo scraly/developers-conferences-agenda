@@ -175,7 +175,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21-23: [DeveloperWeek](https://www.developerweek.com) - San Francisco (USA) 
 * 21-29: [ProductWorld 2024](https://productworld.co/) - Oakland, CA (USA) <a href="https://sessionize.com/productworld-2024/"><img alt="CFP ProductWorld 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2023&color=red"></a>
 * 22-23: [Nor(dev):con](https://nordevcon.com/) - Norwich (UK) <a href="https://sessionize.com/nordevcon24"><img alt="CFP Nordevcon" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Nov-2023&color=green"></a>
-* 23-24: [KCD Brazil](https://community.cncf.io/kcd-brasil/) - São Paulo (Brazil)
+* 23-24: [KCD Brazil](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/) - São Paulo (Brazil)
 * 23-24: [CCOSS + KCD Guadalajara](https://ccoss.org/) - Guadalajara (Mexico) <a href="https://sessionize.com/ccoss-kcdgdl-2024/?"><img alt="CFP KCD Guadalajara" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-January-2024&color=green"></a>
 * 24: [Orlando Code Camp 2024](https://orlandocodecamp.com/) - Sanford, FL (USA) <a href="https://sessionize.com/orlando-code-camp-2024/"><img alt="CFP Orlando Code Camp 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2024&color=green"></a>
 * 29: [Conf42.com Python 2024](https://www.conf42.com/python2024) - Online <a href="https://www.papercall.io/conf42-python-2024"><img alt="CFP Conf42.com Python 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-January-2024&color=green"></a>
