@@ -377,6 +377,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10-14: [NDC Oslo](https://ndcoslo.com/) - Oslo (Norway) <a href="https://sessionize.com/ndc-oslo-2024"><img alt="CFP NDC Oslo 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-February-2024&color=green"></a>
 * 10-14: [PlatformCon 2024](https://platformcon.com) - Online <a href="https://sessionize.com/platformcon-2024"><img alt="CFP PlatformCon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-February-2024&color=green"></a>
 * 11-14: [EuroStar](https://conference.eurostarsoftwaretesting.com/) - Stockholm (Sweden)
+* 11-12: [OW2con](https://www.ow2con.org/view/2024/) - Paris (France) <a href="https://pretalx.com/ow2con-2024/cfp"><img alt="CFP OW2con'24 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-February-2024&color=green"></a>
 * 12: [You Got This Summer 2024](https://yougotthis.io/events/summer-2024) - Online
 * 12-14: [RenderATL](https://www.renderatl.com/) - Atlanta, GA (USA)
 * 12-14: [Rencontres R](https://rr2024.sciencesconf.org/) - Vannes (France)
