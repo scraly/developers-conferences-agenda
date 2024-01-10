@@ -336,6 +336,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22-23: [InfoShare](https://infoshare.pl/) - Gdansk (Poland)
 * 22-24: [Kotlin Conf](https://kotlinconf.com/) - Copenhagen (Denmark) <a href="https://sessionize.com/kotlinconf-2024/"><img alt="CFP KotlinConf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-November-2023&color=red"></a>
 * 22-24: [Vueconf.US & UIArchConf 2024](https://vueconf.us/) - New Orleans, LA (USA) <a href="https://sessionize.com/vueconf-uiarchconf-2024/"><img alt="CFP Vueconf.US & UIArchConf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-January-2024&color=green"></a>
+* 22-25: [Viva Tech](https://vivatechnology.com/) - Paris (France)
 * 23: [GOVSEC UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 23: [DevOpsDays Medellin 2024](http://devopsdays.io) - Medellin (Colombia) <a href="https://www.papercall.io/dodmded2024"><img alt="CFP DevOpsDays Medellin 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-April-2024&color=green"></a>
 * 23-24: [DevOps Pro Europe 2024](https://devopspro.lt/) - Vilnius (Lithuania)
