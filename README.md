@@ -35,88 +35,6 @@ All the data (past and coming) are available publicly in JSON:
 * [2022](archives/2022.md)
 * [2023](archives/2023.md)
 
-## 2023
-
-### December
-
-* 1: [KCD Utrecht 2023](https://kcdutrecht.nl/) - Utrecht (Netherlands) <a href="https://forms.gle/JyrTeEJuk2PVAT7d9"><img alt="KCD Utrecht" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-October-2023&color=red"></a>
-* 01: [DevSecCon](https://www.devseccon.com/) - Online
-* 01: [DotNetFriday](https://dotnetfriday.nl/) - Nieuwegein (Netherlands) <a href="https://sessionize.com/dotnet-friday"><img alt="CFP DotNetFriday" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Nov-2023&color=green"></a>
-* 01: [NG Rome](https://2023.ngrome.io/) - Rome (Italy)
-* 1-2: [DevFest Alps](https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-alps-2023/) - Torino (Italy)
-* 01-02: [Dakar Bitcoin Days](https://dakarbitcoindays.com/) - Dakar (Senegal)
-* 1-3: [Africa Bitcoin Conference 2023](https://afrobitcoin.org) - Accra (Ghana)
-* 1-3: [PyLadiesCon](https://pyladies.com/blog/Announcement-CFP-Launch/cfp-launch-announcement/) - Online <a href="https://pretalx.com/pyladiescon-2023/cfp"><img alt="CFP PyLadiesCon 23" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-September-2023&color=red"></a>
-* 1-3: [GNOME.Asia Summit 2023](https://events.gnome.org/event/170/) - Kathmandu (Nepal) <a href="https://events.gnome.org/event/170/abstracts/"><img alt="GNOME.Asia Summit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%201-September-2023&color=red"></a>
-* 2: [DevOpsDays Recife](https://devopsdays.org/events/2023-recife) - Recife (Brazil)
-* 02: [Chippewa Valley Code Camp](https://chippewavalleycodecamp.com/) - Eau Claire, WI (USA)
-* 02: [DevFest Kansas City](https://devfestkc.com/) - Kansas City, MO (USA) <a href="https://www.papercall.io/devfestkc2023"><img alt="CFP DevFest Kansas City" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-Nov-2023&color=red"></a>
-* 02: [Michigan DevFest](https://gdg.community.dev/events/details/google-gdg-detroit-presents-michigan-devfest/) - Detroit, MI (USA)
-* 4: [cdCon Tokyo Japan 2023](https://cd.foundation/cdcon-japan-2023/) - Tokyo (Japan) <a href="https://linuxfoundation.smapply.io/prog/oss_japan_2023/"><img alt="CFP cdCon Japan 23" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-September-2023&color=red"></a>
-* 04-06: [DevOps Vision](https://devopsvision.io/) - Clearwater, FL (USA)
-* 5-6: [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-japan/) - Tokyo (Japan)  <a href="https://linuxfoundation.smapply.io/prog/oss_japan_2023/"><img alt="CFP Open Source Summit 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-September-2023&color=red"></a>
-* 05-06: [GitOpsCon Europe](https://events.linuxfoundation.org/gitopscon-europe/) - Online
-* 05-06: [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) - Tokyo (Japan)
-* 05-06: [PrestoCon 2023](https://events.linuxfoundation.org/prestocon/) - Mountain View, CA (USA)
-* 6: [DevFest Banjul](https://gdg.community.dev/events/details/google-gdg-banjul-presents-devfest-banjul-2023/) - Banjul (Gambia)
-* 6-7: [Open Core Summit](https://opencoresummit.com/) - San Francisco, CA (USA)
-* 6-7: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France) <a href="https://sessionize.com/open-source-experience-2023/"><img alt="CFP [Open Source Experience 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-june-2023&color=red"></a>
-* 06-07: [Hashitalks Deploy](https://hashi.co/deploy) - Online
-* 6-7: [SIDO Paris](https://www.sido-paris.com/) - Paris (France)
-* 06-08: [DevRel Experience](https://devrelexperience.io/) - Clearwater, FL (USA) <a href="https://devrelexperience.io/app/speaker-request"><img alt="CFP Devrel Experience" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2023&color=red"></a>
-* 6-8: [API Days Paris](https://www.apidays.global/paris/) - Paris (France) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-November-2023&color=red"></a>
-* 7: [TestJS Summit](https://testjssummit.com/) - Berlin (Germany)
-* 7: [Agile Tour Aix-Marseille](https://atmrs.esprit-agile.com/) - Gardanne (France) <a href="https://sessionize.com/agile-tour-aix-marseille-2023/"><img alt="CFP [Agile Tour Aix-Marseille" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-september-2023&color=red"></a>
-* 7: [Archilocus](https://www.archilocus.tech/) - Bordeaux (France) <a href="https://conference-hall.io/public/event/Z7tmWE1n4hFVYgAwzOU8"><img alt="Archilocus Automne 2023" src="https://img.shields.io/static/v1?label=CFP&message=until-17-November-2023&color=red"></a>
-* 07: [TestJS Summit](https://testjssummit.com/) - Berlin (Germany)
-* 07: [vMATechcon and vNSTechcon](https://vnstechcon.nl/) - Amerongen (Netherlands) <a href="https://www.papercall.io/vns-vma-techcon-2023"><img alt="CFP vMATechcon" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-Nov-2023&color=green"></a>
-* 7-8: [SymfonyCon Brussels 2023](https://live.symfony.com/2023-brussels-con/) - Brussels (Belgium) <a href="https://live.symfony.com/2023-brussels-con/cfp"><img alt="CFP SymfonyCon Brussels 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-August-2023&color=red"></a>
-* 7-8: [DevTernity](https://devternity.com/) - Online
-* 7-8: [TechRocks Summit](https://events.tech.rocks/summit-2023/fr/registration/ticketing) - Paris (France)
-* 07-08: [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/) - Tokyo (Japan)
-* 8: [DevFest Dijon](https://developers-group-dijon.fr/#devfest) - Dijon (France) <a href="https://conference-hall.io/public/event/YfMYBkCIuy2dMjdhRZlX"><img alt="CFP DevFest Dijon" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-october-2023&color=red"></a>
-* 8: [React Day Berlin](https://reactday.berlin/) - Berlin (Germany)
-* 8: [KubeDay India](https://events.linuxfoundation.org/kubeday-india/) - Bengaluru (India) <a href="https://events.linuxfoundation.org/kubeday-india/program/cfp/"><img alt="CFP KubeDay India" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-September-2023&color=red"></a>
-* 8: [DevFest San Jose 2023](https://gdg.community.dev/events/details/google-gdg-san-jose-presents-gdg-san-jose-devfest-2023/) - San Jose (USA) <a href="https://sessionize.com/devfest-gdg-san-jose2856/"><img alt="CFP DevFest San Jose 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-November-2023&color=red"></a>
-* 08: [Bsides Philadelphia](https://bsidesphilly.org/) - Philadelphia, PA (USA)
-* 9: [DevFest 2023 Ikorodu](https://gdg.community.dev/events/details/google-gdg-ikorodu-presents-devfest-2023-ikorodu/) - Ikorodu (Nigeria)
-* 9: [Flutter Conf India](https://flutterconf.in/) - Gujarat (India)
-* 9: [DevOpsDays Porto Alegre](https://devopsdays.org/events/2023-porto-alegre) - Porto Alegre (Brazil)
-* 9: [PosaDev 2023](https://posadev.mx) - Guadalajara (Mexico) <a href="https://sessionize.com/posadev-2023"><img alt="CFP PosaDev 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-October-2023&color=red"></a>
-* 9: [DevFest Miami](https://miami.devfestflorida.com/) - Miami (USA)
-* 11: [TestJS Summit](https://testjssummit.com/) - Online
-* 12: [React Day Berlin](https://reactday.berlin/) - Online
-* 12: [KubeDay Singapore](https://events.linuxfoundation.org/kubeday-singapore/) - Singapore (Singapore) <a href="https://events.linuxfoundation.org/kubeday-singapore/program/cfp/"><img alt="CFP KubeDay Singapore" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-September-2023&color=red"></a>
-* 12: [KCD Spain](https://kcdspain.com/) - Online <a href="https://kcd.smapply.io/prog/kcd_spain_2023/"><img alt="CFP KCD Spain 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2023&color=red"></a>
-* 12: [DevFest 2023 - Aveiro / Braga](https://gdg.community.dev/events/details/google-gdg-braga-presents-devfest-2023-aveiro-braga) - Vila Nova de Gaia (Portugal)
-* 12-13: [AI.dev](https://events.linuxfoundation.org/ai-dev-north-america/) - San Jose (USA)
-* 12-13: [SharePoint Summit 12](https://events.m365-summits.de/SharePointSummit2023-1213Dezember2023) - Online
-* 12-15: [PostgreSQL Conference Europe](https://2023.pgconf.eu/) - Prague (Czech Republic) <a href="https://www.postgresql.eu/events/pgconfeu2023/callforpapers"><img alt="CFP PGConf EU" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2023&color=red"></a>
-* 13: [WeAreDevelopers Python Day](https://www.wearedevelopers.com/event/python-day-december-2023) - Online <a href="https://sessionize.com/wearedevelopers-live-2023-season-6"><img alt="CFP WeAreDevelopers Python Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Nov-2023&color=red"></a>
-* 14: [Conf42: IoT 2023](https://www.conf42.com/iot2023) - Online
-* 14: [DevCon #20 - 100 % sécurité & qualité du code ](https://www.programmez.com/page-devcon/devcon-20-100-securite-qualite-du-code) - Paris (France)
-* 14: [HashiTalks India](https://hashi.co/hashitalks-india) - Online <a href="https://sessionize.com/hashitalks-india/"><img alt="CFP HashiTalks India" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-Nov-2023&color=red"></a>
-* 14-15: [HighLoad++](https://cfp.highload.am/) - Yerevan (Armenia)
-* 15: [DevFest 2023 Greater LA](https://gdg.community.dev/events/details/google-gdg-los-angeles-presents-devfest-2023-greater-los-angeles/) - West Hollywood, CA (USA) <a href="https://www.papercall.io/devfest-la"><img alt="CFP DevFest 2023 Greater LA" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Dec-2023&color=green"></a>
-* 15: [Devfest São Luís 2023](https://gdg.community.dev/events/details/google-gdg-sao-luis-presents-devfest-sao-luis-2023/) - São Luís (Brazil)
-* 15-16: [PyCon Thailand](https://th.pycon.org/) - Bangkok (Thailand)
-* 16: [DevOpsDays](https://devopsdays.org/events/2023-salvador/welcome/) - Salvador (Brazil)
-* 16: [PyOhio](https://www.pyohio.org/2023/) - Online
-* 16: [DevFest Yamoussoukro](https://gdg.community.dev/events/details/google-gdg-yamoussoukro-presents-devfest-yamoussoukro-2023/) - Yamoussoukro (Ivory Coast)
-* 16: [DevFest Luanda](https://gdg.community.dev/events/details/google-gdg-luanda-presents-devfest-luanda-2023/) - Luanda (Angola)
-* 16: [DevOpsDays Salvador](https://devopsdays.org/events/2023-salvador/welcome/) - Salvador (Brazil)
-* 16: [DevFest Panama](https://gdg.community.dev/events/details/google-gdg-panama-presents-devfest-panama-2023/) - Online
-* 16: [DevFest Caribbean 2023 - Port-of-Spain](https://gdg.community.dev/events/details/google-gdg-port-of-spain-presents-devfest-caribbean-2023-port-of-spain/) - Port of Spain (Trinidad)
-* 16: [DevFest Belém 2023](https://gdg.community.dev/events/details/google-gdg-belem-presents-devfest-belem-2023-acai-com-farinha/) - Belém (Brazil)
-* 16: [DevFest Chimbote 2023](https://gdg.community.dev/events/details/google-gdg-chimbote-presents-devfest-chimbote-2023/) - Nuevo Chimbote (Perou)
-* 16: [DevFest Cochabamba 2023](https://gdg.community.dev/events/details/google-gdg-cochabamba-presents-devfest-cochabamba-2023-1) - Cochabamba (Bolivia)
-* 16: [DevFest Pelotas](https://gdg.community.dev/events/details/google-gdg-pelotas-presents-devfest-pelotas) - Pelotas (Brazil)
-* 16: [DevFest Essaouira 2023](https://gdg.community.dev/events/details/google-gdg-marrakesh-presents-devfest-2023/) - Essaouira (Morocco)
-* 17: [Designers Day 2023](https://designersktm.com) - Lalitpur (Nepal) <a href="https://www.papercall.io/designersday2023"><img alt="CFP Designers Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2023&color=red"></a>
-* 18: [DevFest IPN - ESCOM](https://gdg.community.dev/events/details/google-gdg-ipn-presents-devfest-ipn-escom) - Mexico City (Mexico)
-* 20: [DevFest Agreste 2023](https://gdg.community.dev/events/details/google-gdg-arapiraca-presents-devfest-agreste-2023/) - Arapiraca (Brazil)
-* 22: [DevFest Kolkata 2023](https://devfest.gdgkolkata.in/) - Kolkata (India)
-
 ## 2024
 
 ### January
@@ -251,6 +169,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28: [IDM Dach](https://whitehallmedia.co.uk/future-events/) - Frankfurt (Germany)
 * 28: [Richmond Virginia Data / AI Summit 2024](https://rvatech.com/rvatech-events/2024-rvatech-data-summit/) - Richmond, VA (USA) <a href="https://www.papercall.io/rvadataai24"><img alt="CFP Richmond Virginia Data / AI Summit 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2023&color=green"></a>
 * 28-29: [SymfonyLive Paris 2024](https://live.symfony.com/2024-paris/) - Paris (France) <a href="https://live.symfony.com/2024-paris/cfp"><img alt="CFP SymfonyLive Paris 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-December-2023&color=green"></a>
+* 28-30: [DrupalCamp Roazhon](https://rennes2024.drupalcamp.fr/) - Rennes (France)
 
 ### April
 
@@ -269,7 +188,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11-12: [UX Healthcare Europe](https://uxhealthcare.co/) - London (UK) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN4x_OAks2lr-5NWeXjdQFhq9sOAQfKj_UbZxuvUvZZGCaag/viewform"><img alt="CFP UX Healthcare Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2024&color=green"></a>
 * 11-12: [RubyConf AU 2024](https://www.rubyconf.org.au) - Sydney (Australia) <a href="https://sessionize.com/rubyconf-au-2024"><img alt="CFP RubyConf AU 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2024&color=green"></a>
 * 12-13: [Texas Linux Festival 2024](https://2024.texaslinuxfest.org) - Austin, TX (USA) <a href="https://www.papercall.io/txlf2024"><img alt="CFP Texas Linux Festival 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2023&color=green"></a>
-* 15: [GitOpsCon North America 2024]() - Seattle (USA) <a href="https://sessionize.com/GitOpsCon-North-America-2024/"><img alt="CFP GitOpsCon North America 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-February-2024&color=green"></a>
+* 15: [GitOpsCon North America 2024](https://events.linuxfoundation.org/gitopscon-north-america/) - Seattle (USA) <a href="https://sessionize.com/GitOpsCon-North-America-2024/"><img alt="CFP GitOpsCon North America 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-February-2024&color=green"></a>
 * 16-17: [DevOpsDays Zurich](https://devopsdays.org/events/2024-zurich/welcome/) - Zurich (Switzerland) <a href="https://sessionize.com/devopsdays-zurich-2024/"><img alt="CFP DevOpsDays Zurich 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2024&color=green"></a>
 * 16-17: [DevOpsDays Tokyo](https://devopsdays.org/events/2024-tokyo/welcome/) - Tokyo (Japan)
 * 16-18: [Everything Open 2024](https://2024.everythingopen.au/) - Gladstone (Australia) <a href="https://2024.everythingopen.au/programme/proposals/"><img alt="CFP Everything Open 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=red"></a>

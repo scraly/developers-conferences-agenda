@@ -1003,6 +1003,10 @@
     "latitude": 49.4892913,
     "longitude": 8.4673098
   },
+  "Marietta, GA (USA)": {
+    "latitude": 33.9528472,
+    "longitude": -84.5496148
+  },
   "Marne-la-Vallée (France)": {
     "latitude": 48.8494036,
     "longitude": 2.6727019475243083
@@ -1170,6 +1174,10 @@
   "Netherlands": {
     "latitude": 52.2434979,
     "longitude": 5.6343227
+  },
+  "New Orleans, LA (USA)": {
+    "latitude": 29.9759983,
+    "longitude": -90.0782127
   },
   "New Orleans, LO (USA)": {
     "latitude": 32.1538186,
@@ -1527,6 +1535,10 @@
     "latitude": -33.4377756,
     "longitude": -70.6504502
   },
+  "Santiago de los Caballeros (Dominican Republic)": {
+    "latitude": 19.4503932,
+    "longitude": -70.6909047
+  },
   "Santo Domingo (Dominican Republic)": {
     "latitude": 18.4801972,
     "longitude": -69.942111
@@ -1758,6 +1770,10 @@
   "Vancouver (USA)": {
     "latitude": 45.6306954,
     "longitude": -122.6744557
+  },
+  "Vannes (France)": {
+    "latitude": 47.6586772,
+    "longitude": -2.7599079
   },
   "Verona (Italy)": {
     "latitude": 45.4384958,
