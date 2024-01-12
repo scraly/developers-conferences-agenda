@@ -165,7 +165,6 @@ All the data (past and coming) are available publicly in JSON:
 * 26: [IDM Europe](https://whitehallmedia.co.uk/future-events/) - Utrecht (Netherlands)
 * 26-28: [Forum INCYBER Europe](https://europe.forum-incyber.com/) - Lille (France)
 * 26-28: [Rust Nation UK](https://www.rustnationuk.com/) - London (UK) <a href="https://www.rustnationuk.com/call-for-papers"><img alt="CFP Rust Nation UK" src="https://img.shields.io/static/v1?label=CFP&message=14-Jun-2023%20to%2030-Sep-2023&color=red"> </a>
-* 28: [DevDay](https://www.devday.be) - Mons (Belgium) <a href="https://sessionize.com/devday-2024/"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=green"></a>
 * 28: [IDM Dach](https://whitehallmedia.co.uk/future-events/) - Frankfurt (Germany)
 * 28: [Richmond Virginia Data / AI Summit 2024](https://rvatech.com/rvatech-events/2024-rvatech-data-summit/) - Richmond, VA (USA) <a href="https://www.papercall.io/rvadataai24"><img alt="CFP Richmond Virginia Data / AI Summit 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2023&color=green"></a>
 * 28-29: [SymfonyLive Paris 2024](https://live.symfony.com/2024-paris/) - Paris (France) <a href="https://live.symfony.com/2024-paris/cfp"><img alt="CFP SymfonyLive Paris 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-December-2023&color=green"></a>
@@ -379,6 +378,7 @@ All the data (past and coming) are available publicly in JSON:
 * 01-11: [Java Day Istanbul 2024](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2024"><img alt="CFP Java Day Istanbul" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023&color=green"></a>
 * 05: [IDM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 6: [Master Dev De France](https://www.masterdevfrance.com/) - Paris (France)
+* 7: [DevDay](https://www.devday.be) - Mons (Belgium) <a href="https://sessionize.com/devday-2024/"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=until%203-September-2024&color=green"></a>
 * 12-15: [KubeCon + CloudNativeCon NA 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2024/) - Salt Lake City (USA)
 * 14-15: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain) <a href="https://devops.barcelona/call-for-papers"><img alt="CFP DevOps Barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 19: [IDM Nordics](https://whitehallmedia.co.uk/future-events/) - Stockholm (Sweden)
