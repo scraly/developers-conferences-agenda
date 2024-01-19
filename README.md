@@ -328,6 +328,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4-5: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/32IQQ5wYijdJdXrqtYsx/"><img alt="CFP Sunny Tech 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-February-2024&color=green"></a>
 * 4-5: [Agile On The Beach 2024](https://www.agileonthebeach.com) - Falmouth (UK) <a href="https://sessionize.com/agile-on-the-beach-2024"><img alt="CFP Agile On The Beach 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=red"></a>
 * 7-10: [GopherCon](https://www.gophercon.com) - Chicago, IL (USA) <a href="https://sessionize.com/gophercon-2024"><img alt="CFP GopherCon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-February-2024&color=green"></a>
+* 8-10: [Riviera DEV](https://rivieradev.fr/) - Sophia Antipolis (France)
 * 15: [LechazoConf](https://lechazoconf.com/) - Valladolid (Spain) <a href="https://lechazoconf.com/"><img alt="CFP Lechazo Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
 * 17: [Middlesbrough Front End](https://www.middlesbroughfe.co.uk/) - Middlesbrough (UK)
 * 17-19: [WeAreDevelopers World Congress 2024](https://worldcongress.dev) - Berlin (Germany) <a href="https://sessionize.com/wearedevelopers-world-congress-2024"><img alt="CFP WeAreDevelopers World Congress 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=green"></a>
