@@ -75,7 +75,8 @@ All the data (past and coming) are available publicly in JSON:
 * 6: [DevFest Paris](https://devfest.gdgparis.com/) - Paris (France) <a href="https://conference-hall.io/public/event/pJRc2OqdUx5iAXkJgTEW"><img alt="CFP DevFest Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=red"></a>
 * 6-8: [GopherCon Europe 2024: Winter Edition in Athens](https://gophercon.eu) - Athens (Greece) <a href="https://sessionize.com/gceu24a/"><img alt="CFP GopherCon Europe 2024: Winter Edition in Athens" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=red"></a>
 * 6-7: [State of Open Con](https://stateofopencon.com/) - London (UK)
-* 07-08: [DNN Summit](https://www.dnnsummit.org/) - Online 
+* 07-08: [DNN Summit](https://www.dnnsummit.org/) - Online
+* 7-8: [Agile Tour Martinique](https://www.agiletourmartinique.org/) - Fort-De-France (Martinique)
 * 8-9: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/J2VpXPXWngD69u0nrA3R"><img alt="CFP Touraine Tech" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-November-2023&color=red"></a>
 * 08-09: [OARC 42](https://indico.dns-oarc.net/event/48/) - Charlotte, NC (USA) <a href="https://indico.dns-oarc.net/event/48/abstracts/"><img alt="CFP OARC 42" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-Nov-2023&color=red"></a>
 * 10: [ng-India](https://www.ng-ind.com/) - Delhi (India)
