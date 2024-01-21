@@ -270,6 +270,7 @@ All the data (past and coming) are available publicly in JSON:
 * 24-25: [esLibre](https://eslib.re/2024/) - Valencia (Spain) <a href="https://eslib.re/2024/propuestas/"><img alt="CFP EsLibre" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-January-2024&color=green"></a>
 * 25: [Data Saturdays Sweden](https://datasatsto.se/) - Stockholm (Sweden) <a href="https://sessionize.com/data-saturday-stockholm-2024"><img alt="CFP Data Saturdays Sweden" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Jan-2024&color=green"></a>
 * 27-28: [Lambda Days](https://www.lambdadays.org/) - Krakow (Poland)
+* 27-28: [DevOps Days Montreal](https://devopsdays.org/events/2024-montreal/welcome/) - Montreal (Canada) <a href="https://sessionize.com/devopsdays-montreal-2024/"><img alt="CFP DevOps Days Montreal" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-February-2024&color=green"></a>
 * 27-31: [Domain-Driven Design Europe 2024](https://2024.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://2024.dddeurope.com/cfp/"><img alt="CFP DDD Europe 2024 conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Feb-2024&color=green"></a>
 * 28-29: [Cybersec Europe](https://www.cyberseceurope.com/) - Bruxelles (Belgium)
 * 28-29: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP jPrime" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Feb-2024&color=green"></a>
