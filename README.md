@@ -49,7 +49,6 @@ All the data (past and coming) are available publicly in JSON:
 * 18-20: [droidcon Amman 2024](https://amman.droidcon.com) - Amman (Jordan) <a href="https://sessionize.com/droidcon-amman"><img alt="CFP droidcon Amman 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=red"></a>
 * 19: [Voxxed Days Ticino](https://voxxeddays.com/ticino/) - Lugano (Switzerland) <a href="https://vdt24.cfp.dev/#/login"><img alt="CFP Voxxed Days Ticino" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2023&color=red"></a>
 * 19: [JakartaOne Livestream](https://jakartaone.org/2024/portuguese/) - Online <a href="https://www.papercall.io/portuguese"><img alt="CFP JakartaOne Livestream" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2023&color=red"></a>
-* 21-22: [DevOpsDays Tel Aviv](https://devopsdays.org/events/2023-tel-aviv/welcome/) - Tel Aviv (Israel)
 * 22-23: [Voxxed Days CERN](https://cern.voxxeddays.com/) - Geneva (Switzerland) <a href="https://vdcern24.cfp.dev/#/login"><img alt="CFP Voxxed Days CERN" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2023&color=red"></a>
 * 23-24: [CSNOG](https://www.csnog.eu/en/) - Zlin (Czech Republic) <a href="https://indico.csnog.eu/event/19/abstracts/"><img alt="CFP CSNOG" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Nov-2023&color=red"></a>
 * 24-25: [Chaos Carnival 2024](https://chaoscarnival.io/) - Online <a href="https://sessionize.com/chaos-carnival-2024"><img alt="CFP Chaos Carnival" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-Jan-2024&color=red"></a>
@@ -381,6 +380,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21-23: [NANOG 92](https://nanog.org/events/nanog-92/) - Toronto (Canada)
 * 22-23: [KCD UK](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-london-2024/) - London (UK)
 * 27-29: [All Things Open](https://2023.allthingsopen.org/ato-2024-save-the-date/) - Raleigh (USA)
+* 30-31: [DevOpsDays Tel Aviv](https://devopsdays.org/events/2024-tel-aviv/welcome/) - Tel Aviv (Israel)
 * 31: [Conf42 JavaScript 2024](https://www.conf42.com/js2024) - Online <a href="https://www.papercall.io/conf42-javascript-2024"><img alt="CFP Conf42 JavaScript 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2024&color=green"></a>
 
 ### November
