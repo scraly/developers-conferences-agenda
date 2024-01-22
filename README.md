@@ -210,6 +210,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18-20: [Dotnetdays](https://dotnetdays.ro/) - Iasi (Romania) <a href="https://sessionize.com/dotnetdays-2024"><img alt="CFP Dotnetdays" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2023&color=red"></a>
 * 19-20: [Commit Conf](https://2024.commit-conf.com/) - Madrid (Spain) <a href="https://koliseo.com/commit/2024/sessions"><img alt="CFP Commit Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=red"></a>
 * 20: [DevOpsDays Istanbul](https://devopsdays.org/events/2024-istanbul/welcome/) - Istanbul (Turkey) <a href="https://www.papercall.io/devopsdays-istanbul-2023"><img alt="CFP DevOpsDays Istanbul" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2024&color=green"></a>
+* 20-21: [BSides Charm](https://bsidescharm.org/) - Towson, MD (USA) <a href="https://pretalx.com/bsidescharm2024/cfp"><img alt="CFP BSides Charm" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-January-2024&color=green"></a>
 * 22: [React Connection 2024](https://reactconnection.io/) - Paris (France) <a href="https://conference-hall.io/public/event/J4B6tn2Vas37pLaU0pIo"><img alt="CFP React Connection 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%203-February-2024&color=green"></a>
 * 23: [React Native Connection 2024](https://reactnativeconnection.io/) - Paris (France) <a href="https://conference-hall.io/public/event/pdyGi2RB4aYQnp7gdGhc"><img alt="CFP React Native Connection 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%203-February-2024&color=green"></a>
 * 23-25: [php tek 2024](https://tek.phparch.com) - Chicago (USA) <a href="https://sessionize.com/phptek-2024"><img alt="CFP php tek 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=red"></a>
@@ -242,7 +243,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9: [Conf42.com Site Reliability Engineering (SRE) 2024](https://www.conf42.com/sre2024) - Online <a href="https://www.papercall.io/conf42-site-reliability-engineering-sre-2024"><img alt="CFP Conf42.com Site Reliability Engineering (SRE) 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-April-2024&color=green"></a>
 * 9-10: [GopherCon Brazil 2024](https://gopherconbr.org/en/) - Florianópolis (Brazil) <a href="https://www.papercall.io/gopherconbrazil2024"><img alt="CFP GopherCon Brazil 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2023&color=green"></a>
 * 11: [Java Day Istanbul 2024](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2024"><img alt="CFP Java Day Istanbul 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2023&color=green"></a>
-* 11 [BSides312](https://bsides312.org) - Chicago, IL (USA) <a href="https://www.papercall.io/bs312-2024"><img alt="CFP BSides312" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2024&color=green"></a>
+* 11: [BSides312](https://bsides312.org) - Chicago, IL (USA) <a href="https://www.papercall.io/bs312-2024"><img alt="CFP BSides312" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2024&color=green"></a>
 * 13: [Code BEAM Lite](https://codebeamstockholm.com/) - Stockholm (Sweden)
 * 13-14: [DevOpsDays Geneva](https://devopsdays.org/events/2024-geneva/welcome/) - Geneva (Switzerland) <a href="https://devopsdays-geneva.ch/forms/InputFormSpkrsDodGe.php?who=pb0cb47956025e73c797e5e17f16fc38466e34f5ae"><img alt="CFP DevOpsDays Geneva 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%207-January-2024&color=green"></a>
 * 13-14: [ioSKonf](http://ioskonf.mk/) - Skopje (North Macedonia) <a href="https://www.papercall.io/ioskonf"><img alt="CFP ioSKonf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=green"></a>
@@ -301,6 +302,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### June
 
+* 1: [BSides Buffalo 2024](https://www.bsidesbuffalo.org) - Buffalo, NY (USA) <a href="https://sessionize.com/bsides-buffalo-2024"><img alt="CFP BSides Buffalo 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
 * 1-2: [T-DOSE](https://t-dose.org/2024/) - Geldrop (Netherlands)
 * 2: [PolyCloud](https://polycloud.fr/) - Montpellier (France) <a href="https://conference-hall.io/public/event/0NC2WdB8KknRtX8aBgyO"><img alt="CFP PolyCloud" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-March-2024&color=green"></a>
 * 3-5: [Community Over Code EU 2024](https://eu.communityovercode.org) - Bratislava (Slovakia) <a href="https://sessionize.com/coceu-2024"><img alt="CFP Community Over Code EU 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2024&color=green"></a>
