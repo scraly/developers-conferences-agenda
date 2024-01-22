@@ -31,6 +31,10 @@
     "latitude": 55.001251,
     "longitude": -115.002136
   },
+  "Albuquerque (USA)": {
+    "latitude": 35.0843859,
+    "longitude": -106.650422
+  },
   "Amboise (France)": {
     "latitude": 47.4110351,
     "longitude": 0.983698
@@ -219,6 +223,10 @@
     "latitude": 44.4938203,
     "longitude": 11.3426327
   },
+  "Bonn (Germany)": {
+    "latitude": 50.73743,
+    "longitude": 7.0982068
+  },
   "Bordeaux (France)": {
     "latitude": 44.841225,
     "longitude": -0.5800364
@@ -290,6 +298,10 @@
   "Buenos Ares (Argentina)": {
     "latitude": -34.63974725,
     "longitude": -58.4446923529756
+  },
+  "Buffalo, NY (USA)": {
+    "latitude": 42.88644679999999,
+    "longitude": -78.8783689
   },
   "Bujumbura (Burundi)": {
     "latitude": -3.3638125,
@@ -438,6 +450,10 @@
   "Colombo (Sri Lanka)": {
     "latitude": 6.9388614,
     "longitude": 79.8542005
+  },
+  "Columbus, OH (USA)": {
+    "latitude": 39.9611755,
+    "longitude": -82.99879419999999
   },
   "Copenhagen (Denmark)": {
     "latitude": 55.6867243,
@@ -603,6 +619,10 @@
     "latitude": 27.7567667,
     "longitude": -81.4639835
   },
+  "Fort-De-France (Martinique)": {
+    "latitude": 14.6060576,
+    "longitude": -61.06988399999999
+  },
   "France": {
     "latitude": 46.603354,
     "longitude": 1.8883335
@@ -763,6 +783,10 @@
     "latitude": 52.865196,
     "longitude": -7.9794599
   },
+  "Irving, TX (USA)": {
+    "latitude": 32.8140177,
+    "longitude": -96.9488945
+  },
   "Islamabad (Pakistan)": {
     "latitude": 33.6938118,
     "longitude": 73.0651511
@@ -787,6 +811,10 @@
     "latitude": 40.9921996,
     "longitude": -75.9078749
   },
+  "Jaén (Spain)": {
+    "latitude": 37.7795941,
+    "longitude": -3.784905699999999
+  },
   "Jinja (Uganda)": {
     "latitude": 0.57515665,
     "longitude": 33.28052985775423
@@ -798,6 +826,10 @@
   "Kampala (Uganda)": {
     "latitude": 0.3177137,
     "longitude": 32.5813539
+  },
+  "Kansas City (USA)": {
+    "latitude": 39.0997265,
+    "longitude": -94.5785667
   },
   "Kansas City, KS (USA)": {
     "latitude": 39.1134562,
@@ -826,6 +858,10 @@
   "Kitwe (Zambia)": {
     "latitude": -12.8104186,
     "longitude": 28.2068361
+  },
+  "Knoxville, TN (USA)": {
+    "latitude": 35.9606384,
+    "longitude": -83.9207392
   },
   "Kolkata (India)": {
     "latitude": 22.5726459,
@@ -1150,6 +1186,10 @@
   "Nancy (France)": {
     "latitude": 48.6937223,
     "longitude": 6.1834097
+  },
+  "Nantes (FR)": {
+    "latitude": 47.218371,
+    "longitude": -1.553621
   },
   "Nantes (France)": {
     "latitude": 47.2186371,
@@ -1495,6 +1535,10 @@
     "latitude": -12.9822499,
     "longitude": -38.4812772
   },
+  "Salzburg (Austria)": {
+    "latitude": 47.80949,
+    "longitude": 13.05501
+  },
   "San Diego (USA)": {
     "latitude": 32.7174202,
     "longitude": -117.1627728
@@ -1526,6 +1570,10 @@
   "Sankt Augustin (Germany)": {
     "latitude": 50.7752776,
     "longitude": 7.1895507
+  },
+  "Sankt Leon-Rot (Germany)": {
+    "latitude": 49.2568614,
+    "longitude": 8.6265334
   },
   "Santa Clara (USA)": {
     "latitude": 37.2333253,
@@ -1614,6 +1662,10 @@
   "St. Louis, Missouri (USA)": {
     "latitude": 38.6280278,
     "longitude": -90.1910154
+  },
+  "St. Petersburg (Rusia)": {
+    "latitude": 59.9310584,
+    "longitude": 30.3609097
   },
   "Stockholm (Sweden)": {
     "latitude": 59.3251172,
@@ -1718,6 +1770,10 @@
   "Tours (France)": {
     "latitude": 47.3900474,
     "longitude": 0.6889268
+  },
+  "Towson, MD (USA)": {
+    "latitude": 39.4014955,
+    "longitude": -76.6019125
   },
   "Turin (Italy)": {
     "latitude": 45.0677551,
