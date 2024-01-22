@@ -324,6 +324,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17: [JSNation](https://jsnation.com/) - Online <a href="https://www.papercall.io/jsnation"><img alt="CFP JSNation" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2024&color=green"></a>
 * 17-20: [GopherCon Europe 2024: Summer Edition in Berlin](https://gophercon.eu) - Berlin (Germany) <a href="https://sessionize.com/gceu24b"><img alt="CFP GopherCon Europe 2024: Summer Edition in Berlin" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-February-2024&color=green"></a>
 * 18: [IDM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
+* 18: [Mobilis In Mobile 2024](https://mobilis-in-mobile.io/) - Nantes (FR) <a href="https://conference-hall.io/public/event/YvcuiTfRV8GsU8NVCQLS"><img alt="CFP Mobilis In Mobile 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2024&color=green"></a>
 * 18-19: [UX Healthcare Europe](https://uxhealthcare.co/) - Amsterdam (Netherlands) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN4x_OAks2lr-5NWeXjdQFhq9sOAQfKj_UbZxuvUvZZGCaag/viewform"><img alt="CFP UX Healthcare Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2024&color=green"></a>
 * 19: [BDAI UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 19-21: [DevopsDays Amsterdam](https://devopsdays.org/events/2024-amsterdam/welcome/) - Amsterdam (Netherlands)
