@@ -130,6 +130,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15-17: [Pycon SK](https://2024.pycon.sk) - Bratislava (Slovakia) <a href="https://2024.pycon.sk/en/cfp.html"><img alt="CFP Pycon SK" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2024&color=green"></a>
 * 16: [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - Zurich (Switzerland) <a href="https://vdz24.cfp.dev/"><img alt="CFP Voxxed Days Zurich" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=red"></a>
 * 16: [DDD Melbourne](https://www.dddmelbourne.com/) - Melbourne (Australia)
+* 17-18: [Cloud Native Rejekts EU 2024](https://cloud-native.rejekts.io/) - Paris (France)
 * 18-20: [SREcon24 Americas](https://www.usenix.org/conference/srecon24americas) - San Francisco, CA (USA)
 * 18-21: [GTC 2024](https://www.nvidia.com/gtc/) - San Jose (USA) & Online <a href="https://www.nvidia.com/gtc/call-for-submissions/"><img alt="CFP GTC" src="https://img.shields.io/static/v1?label=CFP&message=until%208-September-2023&color=red"></a>
 * 18-21: [ng-conf 2024](https://ng-conf.org/) - Salt Lake City, UT (USA) <a href="https://sessionize.com/ng-conf-2024"><img alt="CFP ng-conf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-December-2023&color=green"></a>
