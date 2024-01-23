@@ -231,6 +231,7 @@ All the data (past and coming) are available publicly in JSON:
 ### May
 
 * 2: [Kafka Summit Bangalore](https://www.kafka-summit.org/events/kafka-summit-bangalore-2024/about) - Bangalore (India) <a href="https://sessionize.com/kafka-summit-bangalore-2024/"><img alt="CfP Kafka Summit Bangalore 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2024&color=green"></a>
+* 2-3: [DevOpsDays Austin](https://devopsdays.org/events/2024-austin/welcome/) - Austin, TX (USA) <a href="https://talks.devopsdays.org/devopsdays-austin-2024/cfp"><img alt="CFP DevOpsDays Austin" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-March-2024&color=green"></a>
 * 3: [Stir Trek 2024](https://stirtrek.com) - Columbus, OH (USA) <a href="https://sessionize.com/stir-trek-2024/"><img alt="CFP Stir Trek 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-January-2024&color=green"></a>
 * 5-7: [Deep Dish Swift 2024](https://deepdishswift.com) - Chicago, IL (USA) <a href="https://www.papercall.io/deep-dish-swift-2024"><img alt="CFP Deep Dish Swift 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=green"></a>
 * 6-10: [DrupalCon Portland 2024](https://events.drupal.org/portland2024) - Portland (USA) <a href="https://sessionize.com/drupalcon-portland-2024"><img alt="CFP DrupalCon Portland 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-November-2023&color=red"></a>
@@ -377,6 +378,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 * 6-7: [DevOpsDays Minneapolis](https://devopsdays.org/events/2024-minneapolis/welcome/) - Minneapolis (USA)
 * 7-9: [fintech_devcon](https://fintechdevcon.io/) - Austin, TX (USA) <a href="https://fintechdevcon.io/call-for-speakers/"><img alt="CFP fintech_devcon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2024&color=green"></a>
 * 8-11: [DEF CON 32](https://defcon.org/) - Las Vegas, NV (USA)
+* 21-22: [DevOpsDays Halifax](https://devopsdays.org/events/2024-halifax/welcome/) - Halifax (Canada) <a href="https://talks.devopsdays.org/devopsdays-halifax-2024/cfp"><img alt="CFP DevOpsDays Halifax" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
 * 22: [Conf42 Rustlang 2024](https://www.conf42.com/rustlang-2024) - Online <a href="https://www.papercall.io/conf42-rustlang-2024"><img alt="CFP Conf42 Rustlang 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-July-2024&color=green"></a>
 * 26-30: [NDC Copenhaguen Developer Festival](https://cphdevfest.com/) - Copenhaguen (Denmark)
 * 30: [ShipItCon](https://shipitcon.com/) - Dublin (Ireland)
