@@ -1,22 +1,34 @@
 import {useRef, useEffect} from 'react';
+import {useNavigate, useSearchParams, useParams} from 'react-router-dom';
 
 import 'styles/SelectedEvents.css';
 import EventDisplay from '../EventDisplay/EventDisplay';
 import EventCount from '../EventCount/EventCount'
 import {formatDate, getMonthName} from '../../utils';
-import {useCustomContext} from 'app.context';
 import {useMonthEvents, useDayEvents, useYearEvents} from 'app.hooks';
 import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
 
-const SelectedEvents = ({year, month, date}) => {
-  const {userState, userDispatch} = useCustomContext();
+const SelectedEvents = () => {
+  const navigate = useNavigate();
+  const [searchParams] = useSearchParams();
+  const {year, month, date} = useParams();
+
+  let currentMonth = parseInt(month, 10);
+  if (Number.isNaN(month)) {
+      currentMonth = -1
+  }
+
+  let currentDate
+  if (date !== undefined) {
+      currentDate = new Date(parseInt(date, 10));
+  }
 
   const scrollToRef = useRef();
 
   const yearEvents = useYearEvents()
-  const monthEvents = useMonthEvents(yearEvents, userState.month != -1 ? userState.month : userState.date.getMonth())
-  const dayEvents = useDayEvents(monthEvents, userState.date)
-  const events = userState.month != -1 ?  monthEvents : dayEvents;
+  const monthEvents = useMonthEvents(yearEvents, currentMonth != -1 ? currentMonth : currentDate.getMonth())
+  const dayEvents = useDayEvents(monthEvents, currentDate)
+  const events = currentMonth != -1 ?  monthEvents : dayEvents;
 
   useEffect(() => {
     setTimeout(() => {
@@ -26,37 +38,34 @@ const SelectedEvents = ({year, month, date}) => {
 
   let previous = '',
     next = '';
-  if (month !== -1 && year) {
-    if (month > 0)
+  if (currentMonth !== -1 && year) {
+    if (currentMonth > 0)
       previous = (
         <ArrowLeftCircle
           onClick={() =>
-            userDispatch({type: 'displayDate', payload: {date, month: month - 1, year}})
+            navigate(`/${year}/calendar/${currentMonth - 1}/0?${searchParams.toString()}`)
           }
         />
       );
-    if (month < 11)
+    if (currentMonth < 11)
       next = (
         <ArrowRightCircle
           onClick={() =>
-            userDispatch({type: 'displayDate', payload: {date, month: month + 1, year}})
+            navigate(`/${year}/calendar/${currentMonth + 1}/0?${searchParams.toString()}`)
           }
         />
       );
-  } else if (date) {
-    const dateYear = date.getFullYear();
+  } else if (currentDate) {
+    const dateYear = currentDate.getFullYear();
     const firstDay = new Date(dateYear, 0, 1).getTime();
     const lastDay = new Date(dateYear, 12, 0).getTime();
-    const today = date.getTime();
+    const today = currentDate.getTime();
     const day = 24 * 60 * 60 * 1000;
     if (today !== firstDay) {
       previous = (
         <ArrowLeftCircle
           onClick={() =>
-            userDispatch({
-              type: 'displayDate',
-              payload: {date: new Date(today - day), month, year},
-            })
+            navigate(`/${year}/calendar/${currentMonth}/${today - day}?${searchParams.toString()}`)
           }
         />
       );
@@ -65,10 +74,7 @@ const SelectedEvents = ({year, month, date}) => {
       next = (
         <ArrowRightCircle
           onClick={() =>
-            userDispatch({
-              type: 'displayDate',
-              payload: {date: new Date(today + day), month, year},
-            })
+            navigate(`/${year}/calendar/${currentMonth}/${today + day}?${searchParams.toString()}`)
           }
         />
       );
@@ -77,11 +83,11 @@ const SelectedEvents = ({year, month, date}) => {
 
   return (
     <>
-      {date ? (
+      {currentDate ? (
         <>
           <h3 className="eventDateDisplay" ref={scrollToRef}>
             {previous}
-            <span>{getMonthName(month) || formatDate(date)}</span>
+            <span>{getMonthName(currentMonth) || formatDate(currentDate)}</span>
             {next}
             </h3>
             <EventCount events={events} />

@@ -72,32 +72,6 @@ body > footer > .content {
   grid-column: 2;
 }
 
-.view-type-selector {
-  position: absolute;
-  top: 20px;
-  right: 50px;
-  padding: 0px;
-  border: 1px solid #ccc;
-  border-radius: 3px;
-  background: #eee;
-  display: flex;
-  align-items: center;
-}
-
-.view-type-selector .view-selector {
-  cursor: pointer;
-  padding: 5px;
-  border-left: 1px solid #ccc;
-}
-
-.view-type-selector .view-selector.selected {
-  background: #ddd;
-}
-
-.view-type-selector .view-selector:first-child {
-  border-left: 0;
-}
-
 .footer {
   color: inherit;
 }

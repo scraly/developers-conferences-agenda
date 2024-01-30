@@ -1,110 +1,126 @@
-import {useReducer, useState} from 'react';
+import {useEffect} from 'react';
+import {BrowserRouter as Router, Routes, Route, useParams, useNavigate, useSearchParams, createSearchParams} from "react-router-dom";
 
-import {Calendar, CalendarDays, CalendarClock, List, Map} from 'lucide-react';
+import {CalendarDays, CalendarClock} from 'lucide-react';
 
 import CalendarGrid from 'components/CalendarGrid/CalendarGrid';
 import ListView from 'components/ListView/ListView';
+import ViewSelector from 'components/ViewSelector/ViewSelector';
 import MapView from 'components/MapView/MapView';
 import YearSelector from 'components/YearSelector/YearSelector';
 import Filters from 'components/Filters/Filters';
 
-import CustomContext from 'app.context';
-import reducer from 'app.reducer';
 import {useHasYearEvents} from 'app.hooks';
 import SelectedEvents from 'components/SelectedEvents/SelectedEvents';
 import 'misc/fonts/inter/inter.css';
 import 'styles/App.css';
 
 const App = () => {
-  const [viewType, setViewType] = useState('calendar');
-  const [userState, userDispatch] = useReducer(reducer, {
-    filters: {
-      callForPapers: false,
-      closedCaptions: false,
-      online: false,
-      country: '',
-      query: ''
-    },
-    date: null,
-    month: null,
-    year: (new Date()).getFullYear()
-  });
-
-  const providerState = {userState, userDispatch};
-
-  const hasYearEvents = useHasYearEvents(userState.year);
-
   return (
-    <CustomContext.Provider value={providerState}>
+    <Router>
       <h1 className="dcaTitle">Developer Conferences Agenda</h1>
-      <div className="dcaGrid">
-        <Filters
-          query={userState.filters.query}
-          callForPapers={userState.filters.callForPapers}
-          closedCaptions={userState.filters.closedCaptions}
-          country={userState.filters.country}
-          online={userState.filters.online}
-          onChange={(key, value) =>
-            userDispatch({type: 'setFilters', payload: {...userState.filters, [key]: value}})
-          }
-          onClose={() =>
-            userDispatch({type: 'resetFilters'})
-          }
-        />
-        <div className="dcaContent">
-          <YearSelector
-            isMap={viewType === 'map'}
-            year={userState.year}
-            onChange={year => {
-              userDispatch({type: 'displayDate', payload: {date: null, month: null, year: year}});
-            }}
-          />
-          {viewType === 'calendar' && hasYearEvents && (
-            <div className='downloadButtons'>
-              <a href={'/developer-conference-' + userState.year + '.ics'} title={'Download ' + userState.year + ' Calendar'} className="downloadButton">
-                <CalendarDays />
-                {userState.year} Calendar
-              </a>
-              <a href={'/developer-conference-opened-cfps.ics'} title="Download Opened CFP Calendar" className="downloadButton">
-                <CalendarClock />
-                Opened CFP Calendar
-              </a>
-            </div>
-          )}
+      <Routes path="/">
+        <Route path="" Component={() => {
+            const navigate = useNavigate();
+            useEffect(() => {
+                return navigate('/' + new Date().getFullYear());
+            }, []);
+        }} />
+        <Route path=":year" Component={() => {
+            const {year} = useParams();
+            const navigate = useNavigate();
+            useEffect(() => {
+                return navigate('/' + year + '/calendar');
+            }, [year]);
+        }} />
+        <Route path=":year/calendar/:month?/:date?" Component={() => {
+            const {year, month, date} = useParams();
+            const navigate = useNavigate();
+            const [searchParams] = useSearchParams();
+            const hasYearEvents = useHasYearEvents(year);
 
-          <div className="view-type-selector">
-            <Calendar
-              className={
-                viewType === 'calendar'
-                  ? 'view-selector calendar-view selected'
-                  : 'view-selector calendar-view'
-              }
-              onClick={() => setViewType('calendar')}
-            />
-            <List
-              className={
-                viewType === 'list' ? 'view-selector list-view selected' : 'view-selector list-view'
-              }
-              onClick={() => setViewType('list')}
-            />
-            <Map
-              className={
-                viewType === 'map' ? 'view-selector map-view selected' : 'view-selector map-view'
-              }
-              onClick={() => setViewType('map')}
-            />
-          </div>
+            return (
+                <div className="dcaGrid">
+                  <Filters/>
+                  <div className="dcaContent">
+                    <YearSelector
+                      isMap={false}
+                      year={parseInt(year, 10)}
+                      onChange={year => {
+                        navigate(`/${year}/calendar?${createSearchParams(searchParams)}`);
+                      }}
+                    />
+                    {hasYearEvents && (
+                      <div className='downloadButtons'>
+                        <a href={'/developer-conference-' + year + '.ics'} title={'Download ' + year + ' Calendar'} className="downloadButton">
+                          <CalendarDays />
+                          {year} Calendar
+                        </a>
+                        <a href={'/developer-conference-opened-cfps.ics'} title="Download Opened CFP Calendar" className="downloadButton">
+                          <CalendarClock />
+                          Opened CFP Calendar
+                        </a>
+                      </div>
+                    )}
 
-          {viewType === 'calendar' && <CalendarGrid year={userState.year} />}
-          {viewType === 'calendar' && (
-            <SelectedEvents date={userState.date} month={userState.month} year={userState.year} />
-          )}
+                    <ViewSelector selected={'calendar'}/>
 
-          {viewType === 'list' && <ListView year={userState.year} />}
-          {viewType === 'map' && <MapView year={userState.year} />}
-        </div>
-      </div>
-    </CustomContext.Provider>
+                    <CalendarGrid year={year} />
+                    <SelectedEvents date={date} month={month} />
+                </div>
+              </div>
+            );
+        }} />
+        <Route path="/:year/map" Component={() => {
+            const {year} = useParams();
+            const navigate = useNavigate();
+            const [searchParams] = useSearchParams();
+
+            return (
+                <div className="dcaGrid">
+                  <Filters/>
+                  <div className="dcaContent">
+                    <YearSelector
+                      isMap={true}
+                      year={parseInt(year, 10)}
+                      onChange={year => {
+                        navigate(`/${year}/map?${createSearchParams(searchParams)}`);
+                      }}
+                    />
+
+                    <ViewSelector selected={'map'}/>
+
+                    <MapView year={year} />
+                </div>
+              </div>
+            );
+        }} />
+        <Route path="/:year/list" Component={() => {
+            const {year} = useParams();
+            const navigate = useNavigate();
+            const [searchParams] = useSearchParams();
+
+            return (
+                <div className="dcaGrid">
+                  <Filters/>
+                  <div className="dcaContent">
+                    <YearSelector
+                      isMap={false}
+                      year={parseInt(year, 10)}
+                      onChange={year => {
+                        navigate(`/${year}/list?${createSearchParams(searchParams)}`);
+                      }}
+                    />
+
+                    <ViewSelector selected={'list'}/>
+
+                    <ListView year={year} />
+                </div>
+              </div>
+            );
+        }} />
+      </Routes>
+    </Router>
   );
 };
 

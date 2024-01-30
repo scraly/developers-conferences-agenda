@@ -1,9 +1,9 @@
+import {useParams, useSearchParams} from "react-router-dom";
 import allEvents from 'misc/all-events.json';
 import {useMemo} from 'react';
-import {useCustomContext} from 'app.context';
 
 export const useHasYearEvents = (year) => {
-  return useMemo(() => Boolean(allEvents.find(e => new Date(e.date[0]).getFullYear() === year)), [year]);
+  return useMemo(() => Boolean(allEvents.find(e => new Date(e.date[0]).getFullYear() === parseInt(year, 10))), [year]);
 }
 
 export const useCountries = () => {
@@ -15,44 +15,45 @@ export const useCountries = () => {
 }
 
 export const useYearEvents = () => {
-  const {userState} = useCustomContext();
-  const yearEvents = useMemo(() => allEvents.filter(e => e.date[0] && new Date(e.date[0]).getFullYear() === userState.year), [userState.year]);
+  const {year} = useParams();
+  const [searchParams] = useSearchParams();
+  const search = Object.fromEntries(searchParams);
+  const yearEvents = useMemo(() => allEvents.filter(e => e.date[0] && new Date(e.date[0]).getFullYear() === parseInt(year, 10)), [year]);
 
   const filteredEvents = useMemo(() => {
       let result = yearEvents;
-      if (userState.filters.closedCaptions) {
+      if (search.closedCaptions === 'true') {
         result = result.filter(e => e.closedCaptions);
       }
 
-      if (userState.filters.callForPapers) {
+      if (search.callForPapers === 'true') {
         result = result.filter(e => e.cfp && new Date(e.cfp.untilDate) > new Date());
       }
 
-      if (userState.filters.online) {
+      if (search.online === 'true') {
         result = result.filter(e => e.location.indexOf('Online') !== -1);
       }
 
-      if (userState.filters.country) {
-        result = result.filter(e => e.country === userState.filters.country);
+      if (search.country) {
+        result = result.filter(e => e.country === search.country);
       }
 
-      if (userState.filters.query) {
+      if (search.query) {
         result = result.filter(
           e =>
-            e.name.toLowerCase().includes(userState.filters.query.toLowerCase()) ||
-            e.hyperlink.toLowerCase().includes(userState.filters.query.toLowerCase()) ||
-            e.location.toLowerCase().includes(userState.filters.query.toLowerCase())
+            e.name.toLowerCase().includes(search.query.toLowerCase()) ||
+            e.hyperlink.toLowerCase().includes(search.query.toLowerCase()) ||
+            e.location.toLowerCase().includes(search.query.toLowerCase())
         );
       }
       return result
-  }, [yearEvents, userState.filters]);
+  }, [yearEvents, searchParams]);
 
   return filteredEvents;
 }
 
 export const useMonthEvents = (yearEvents, month = null) => {
-  const {userState} = useCustomContext();
-  const filterMonth = month === null ? userState.month : month;
+  const filterMonth = month
   return useMemo(() => {
     let result = yearEvents;
     if (filterMonth !== -1) {
@@ -63,8 +64,7 @@ export const useMonthEvents = (yearEvents, month = null) => {
 }
 
 export const useDayEvents = (monthEvents, day = null) => {
-  const {userState} = useCustomContext();
-  const filterDay = day || userState.date;
+  const filterDay = day
 
   return useMemo(() => {
       let result = monthEvents
