@@ -104,7 +104,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### March
 
-* 1-2: [Kubernetes Community Day Costa Rica 2024](https://community.cncf.io/events/details/cncf-kcd-costa-rica-presents-kcd-costa-rica-2024/) - Heredia (Costa Rica) & Online <a href="https://sessionize.com/kubernetes-community-day-costa-rica-2024"><img alt="CFP Kubernetes Community Day Costa Rica 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=green"></a>
+* 1-2: [Kubernetes Community Day KCD Costa Rica 2024](https://community.cncf.io/events/details/cncf-kcd-costa-rica-presents-kcd-costa-rica-2024/) - Heredia (Costa Rica) & Online <a href="https://sessionize.com/kubernetes-community-day-costa-rica-2024"><img alt="CFP Kubernetes Community Day Costa Rica 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=green"></a>
 * 03-08: [Visual Studio Live](https://vslive.com/Home.aspx) - Las Vegas, NV (USA)
 * 4-5: [Gartner IAM Summit](https://www.gartner.com/en/conferences/emea/identity-access-management-uk) - London (UK)
 * 04-05: [FOSS Backstage](https://24.foss-backstage.de/) - Berlin (Germany) <a href="https://program.foss-backstage.de/fossback24/cfp"><img alt="CFP FOSS Backstage" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Nov-2023&color=red"></a>
@@ -160,6 +160,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19-20: [Kafka Summit London](https://www.kafka-summit.org/events/kafka-summit-london-2024/about) - London (UK) <a href="https://sessionize.com/kafka-summit-london-2024/"><img alt="CfP Kafka Summit London 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-November-2023&color=red"></a>
 * 19-20: [LeadDev NY](https://leaddev.com/leaddev-new-york) - New York, NY (USA)
 * 19-20: [StaffPlus NY](https://leaddev.com/staffplus-new-york) - New York, NY (USA)
+* 19-21: [CloudNativeHacks](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cloudnativehacks/) - Paris (France)
 * 19-21: [IT & Cybersecurity Meetings](https://www.it-and-cybersecurity-meetings.com/) - Paris (France)
 * 19-22: [KubeCon + CloudNativeCon Europe 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2024/) - Paris (France)  <a href="https://sessionize.com/kubecon-cloudnativecon-europe-2024/"><img alt="CFP Kubecon EU" src="https://img.shields.io/static/v1?label=CFP&message=18-Sep-2023%20to%2026-Nov-2023&color=red"> </a>
 * 21: [LeadingEng NY](https://leaddev.com/leadingeng-new-york) - New York, NY (USA)
