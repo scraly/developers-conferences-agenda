@@ -35,6 +35,10 @@
     "latitude": 35.0843859,
     "longitude": -106.650422
   },
+  "Alpharetta (USA)": {
+    "latitude": 34.0709576,
+    "longitude": -84.2747329
+  },
   "Amboise (France)": {
     "latitude": 47.4110351,
     "longitude": 0.983698
@@ -1202,6 +1206,10 @@
   "Nantes (France)": {
     "latitude": 47.2186371,
     "longitude": -1.5541362
+  },
+  "Napa (USA)": {
+    "latitude": 38.2971367,
+    "longitude": -122.2855293
   },
   "Nashville (USA)": {
     "latitude": 36.1622767,
