@@ -78,12 +78,27 @@ const extractEvents = (monthMarkdown, year, month) =>
       hyperlink: eventLine.trim().replaceAll(/^.*\]\(([^)]*)\).*$/g, "$1"),
       location: eventLine
         .trim()
-        .replaceAll(/^[^)]*[\W-]*([^<]*).*$/g, "$1")
+        .replaceAll(/^[^\]]*[^)]*[\W-]*([^<]*).*$/g, "$1")
         .trim(),
+      city: eventLine
+        .trim()
+        .replaceAll(/^[^\]]*[^)]*[\W-]*([^<]*).*$/g, "$1")
+        .trim()
+	.replaceAll(/ \& Online/g, "")
+	.replaceAll(/^([^(]*)\(.*$/g, "$1")
+	.trim(),
+      country: eventLine 
+        .trim()
+        .replaceAll(/^[^\]]*[^)]*[\W-]*([^<]*).*$/g, "$1")
+        .trim()
+	.replaceAll(/ \& Online/g, "")
+	.replaceAll(/^[^(]*\(([^)]*)\)$/g, "$1")
+	.trim(),
       misc: eventLine.includes("</a>")
         ? eventLine.trim().replaceAll(/^.*(<a.*a>).*$/g, "$1")
         : "",
       cfp: extractCfp(eventLine.trim().replaceAll(/^.*(<a.*a>).*$/g, "$1")),
+      closedCaptions: eventLine.trim().match(/^.*(<img alt=.Closed Captions.).*$/) !== null,
       status: eventLine.trim().startsWith("* [")
         ? eventLine.trim().replaceAll(/^[^[]*\[([\w\s]*)\].*$/g, "$1")
         : "open",

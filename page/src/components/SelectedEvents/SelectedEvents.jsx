@@ -1,43 +1,28 @@
-import {useMemo, useRef, useState} from 'react';
+import {useRef, useEffect} from 'react';
 
 import 'styles/SelectedEvents.css';
 import EventDisplay from '../EventDisplay/EventDisplay';
 import EventCount from '../EventCount/EventCount'
 import {formatDate, getMonthName} from '../../utils';
 import {useCustomContext} from 'app.context';
+import {useMonthEvents, useDayEvents, useYearEvents} from 'app.hooks';
 import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
 
 const SelectedEvents = ({year, month, date}) => {
-  const userDispatch = useCustomContext().userDispatch;
-  const [events, setEvents] = useState(null);
+  const {userState, userDispatch} = useCustomContext();
+
   const scrollToRef = useRef();
 
-  useMemo(() => {
-    let events = [];
-    if (month !== -1 && year && window.dev_events[year] && window.dev_events[year][month]) {
-      Object.values(window.dev_events[year][month]).map(day => day.map(d => events.push(d)));
-    } else if (
-      date &&
-      window.dev_events[date.getFullYear()] &&
-      window.dev_events[date.getFullYear()][date.getMonth()] &&
-      window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()]
-    ) {
-      window.dev_events[date.getFullYear()][date.getMonth()][date.getDate()].map(e =>
-        events.push(e)
-      );
-    }
-    events = [...new Map(events.map(item => [item.name, item])).values()];
-    setEvents(
-      events.length ? (
-        events.map((e, i) => <EventDisplay key={`ev_${i}`} {...e} />)
-      ) : (
-        <p>No event found for that day</p>
-      )
-    );
+  const yearEvents = useYearEvents()
+  const monthEvents = useMonthEvents(yearEvents, userState.month != -1 ? userState.month : userState.date.getMonth())
+  const dayEvents = useDayEvents(monthEvents, userState.date)
+  const events = userState.month != -1 ?  monthEvents : dayEvents;
+
+  useEffect(() => {
     setTimeout(() => {
       scrollToRef.current?.scrollIntoView({behavior: 'smooth'});
     }, 100);
-  }, [year, month, date]);
+  }, [date, month, year]);
 
   let previous = '',
     next = '';
@@ -100,7 +85,13 @@ const SelectedEvents = ({year, month, date}) => {
             {next}
             </h3>
             <EventCount events={events} />
-          <div className="eventsGridDisplay">{events}</div>
+            <div className="eventsGridDisplay">
+              {events.length ? (
+                events.map((e, i) => <EventDisplay key={`ev_${i}`} {...e} />)
+              ) : (
+                <p>No event found for that day</p>
+              )}
+          </div>
         </>
       ) : (
         ''

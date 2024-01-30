@@ -1,0 +1,23 @@
+name: Check
+on: pull_request
+
+jobs:
+  MdValidator:
+    name: MdValidator
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: npm
+          cache-dependency-path: '**/package-lock.json'
+      - working-directory: page
+        run: npm install -D
+      - name: Parse Markdowns
+        working-directory: tools
+        run: |
+          npm install -D
+          node mdValidator.js

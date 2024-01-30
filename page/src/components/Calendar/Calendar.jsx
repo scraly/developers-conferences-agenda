@@ -1,29 +1,24 @@
 import Day from 'components/Day/Day';
 import Week from 'components/Week/Week';
-import {useMemo, useState} from 'react';
+import {useMemo} from 'react';
 
 import 'styles/Calendar.css';
 import {daysToWeeks} from './Calendar.utils';
 import {useCustomContext} from 'app.context';
+import {useYearEvents, useMonthEvents} from 'app.hooks';
 import {getMonthName} from 'utils';
 
 const DaysName = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'];
 
 const Calendar = ({year, month, days}) => {
-  const [daysEvents, setDaysEvents] = useState(null);
   const userDispatch = useCustomContext().userDispatch;
+  const yearEvents = useYearEvents()
+  const monthEvents = useMonthEvents(yearEvents, month)
 
-  useMemo(() => {
-    setDaysEvents(
-      daysToWeeks(days).map((week, w) => (
-        <Week key={`week_${w}`}>
-          {week.map((day, d) => {
-            return <Day key={`day_${d}`} date={day} />;
-          })}
-        </Week>
-      ))
-    );
-  }, [days]);
+  const weeks = useMemo(() => daysToWeeks(days), [days]);
+  const weeksAndDays = useMemo(() => weeks.map((week, w) => {
+      return {id: w, days: week.map((day, d) => ({day: day, id: d}))}
+  }), [weeks]);
 
   return (
     <div>
@@ -43,7 +38,13 @@ const Calendar = ({year, month, days}) => {
           <span key={`d_${i}`}>{d}</span>
         ))}
       </div>
-      <div className="weeks">{daysEvents}</div>
+      <div className="weeks">
+        {weeksAndDays.map((week) => (
+            <Week key={`week_${week.id}`}>
+                {week.days.map((day) => (<Day key={`day_${day.id}`} date={day.day} events={monthEvents}/>))}
+            </Week>
+        ))}
+      </div>
     </div>
   );
 };

@@ -1,0 +1,89 @@
+.filters {
+    border-right: 1px solid #ccc;
+    padding: 10px;
+    padding-right: 20px;
+    overflow: hidden;
+    transition: min-width 1s, width 1s, border-color 1s;
+}
+
+.filters-header {
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+.filters .lucide-filter, .filters .lucide-filter-x {
+    opacity: 1;
+    min-width: 24px;
+}
+
+.filters .filters-title {
+    font-weight: 600;
+    font-size: 24px;
+    margin-left: 5px;
+}
+
+.filters.open .filters-title {
+    opacity: 1;
+    transition: opacity 1s;
+}
+
+.filters.closed .filters-title {
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.filters.open {
+    min-width: 210px;
+    width: 210px;
+    border-color: #cccccc;
+}
+
+.filters.closed {
+    width: 10px;
+    min-width: 10px;
+    border-color: #cccccc00;
+}
+
+.filters.closed .filtersItem {
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.filters.open .filtersItem {
+    opacity: 1;
+    transition: opacity 1s;
+}
+
+.filters .filtersItem {
+    margin-bottom: 20px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.filters .filtersItem input[type=text] {
+    padding: 10px;
+    max-width: 180px;
+    display: block;
+}
+
+.filters .filtersItem label {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.filters .filtersItem label[for=filter-query] {
+    display: block;
+}
+
+.filters .filtersItem select {
+    padding: 10px;
+    max-width: 180px;
+    display: block;
+    background: transparent;
+    margin-top: 10px;
+    border: 1px solid #aaa;
+}
+

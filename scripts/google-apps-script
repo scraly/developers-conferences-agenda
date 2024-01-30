@@ -1,0 +1,19 @@
+function ImportEvents() {
+  var jsondata = UrlFetchApp.fetch("https://developers.events/all-events.json");
+  var object   = JSON.parse(jsondata.getContentText());
+  var data = new Array();
+  data[0] = ["Start Date", "End Date", "Name", "Hyperlink",	"City", "Country", "Cfp Link", "Cfp Until"];
+  for (x in object) {
+    data.push([
+      new Date(object[x].date[0]),
+      object[x].date.length > 1 ? new Date(object[x].date[1]) : '',
+      object[x].name,
+      object[x].hyperlink,
+      object[x].city,
+      object[x].country,
+      object[x].cfp.link,
+      object[x].cfp.untilDate ? new Date(object[x].cfp.untilDate) : '',
+    ]);
+  }
+  return data;
+}

@@ -3,17 +3,32 @@ body {
   box-sizing: border-box;
 
   font-family: Inter, Arial, sans-serif;
+  flex-grow: 1;
 }
 
 .dcaTitle {
   text-align: center;
 }
 
+.dcaGrid {
+  display: flex;
+}
+
+.dcaContent {
+  flex-grow: 1;
+}
+
+.downloadButtons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .downloadButton {
   text-decoration: none;
   color: black;
   width: max-content;
-  margin: 1rem auto;
+  margin: 1rem;
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 3px;
@@ -22,6 +37,20 @@ body {
   align-items: center;
   gap: 10px;
   cursor: pointer;
+}
+
+.downloadButton:hover{
+  cursor: pointer;
+  transition: transform 0.5s;
+  transform: scale(1.07);
+  -webkit-transform: scale(1.07);
+  -moz-transform: scale(1.07);
+  -ms-transform: scale(1.07);
+  -o-transform: scale(1.07);
+  -webkit-transition: transform 0.5s;
+  -moz-transition: transform 0.5s;
+  -ms-transition: transform 0.5s;
+  -o-transition: transform 0.5s;
 }
 
 .md {
@@ -41,6 +70,32 @@ body > footer {
 
 body > footer > .content {
   grid-column: 2;
+}
+
+.view-type-selector {
+  position: absolute;
+  top: 20px;
+  right: 50px;
+  padding: 0px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: #eee;
+  display: flex;
+  align-items: center;
+}
+
+.view-type-selector .view-selector {
+  cursor: pointer;
+  padding: 5px;
+  border-left: 1px solid #ccc;
+}
+
+.view-type-selector .view-selector.selected {
+  background: #ddd;
+}
+
+.view-type-selector .view-selector:first-child {
+  border-left: 0;
 }
 
 .footer {
