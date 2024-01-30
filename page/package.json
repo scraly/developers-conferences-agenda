@@ -8,7 +8,8 @@
     "lucide-react": "0.252.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-leaflet": "^4.2.1"
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.21.3"
   },
   "scripts": {
     "start": "vite",

@@ -1,19 +1,21 @@
 import Day from 'components/Day/Day';
 import Week from 'components/Week/Week';
 import {useMemo} from 'react';
+import {useNavigate, useSearchParams, useParams} from 'react-router-dom';
 
 import 'styles/Calendar.css';
 import {daysToWeeks} from './Calendar.utils';
-import {useCustomContext} from 'app.context';
 import {useYearEvents, useMonthEvents} from 'app.hooks';
 import {getMonthName} from 'utils';
 
 const DaysName = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'];
 
-const Calendar = ({year, month, days}) => {
-  const userDispatch = useCustomContext().userDispatch;
+const Calendar = ({month, days}) => {
   const yearEvents = useYearEvents()
   const monthEvents = useMonthEvents(yearEvents, month)
+  const navigate = useNavigate();
+  const {year} = useParams();
+  const [searchParams] = useSearchParams();
 
   const weeks = useMemo(() => daysToWeeks(days), [days]);
   const weeksAndDays = useMemo(() => weeks.map((week, w) => {
@@ -25,10 +27,7 @@ const Calendar = ({year, month, days}) => {
       <div
         className="header"
         onClick={() =>
-          userDispatch({
-            type: 'displayDate',
-            payload: {date: new Date(), month: month, year: year},
-          })
+          navigate(`/${year}/calendar/${month}/0?${searchParams.toString()}`)
         }
       >
         <span>{getMonthName(month)}</span>

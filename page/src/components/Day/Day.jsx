@@ -1,9 +1,11 @@
 import {useDayEvents} from 'app.hooks';
-import {useCustomContext} from 'app.context';
+import {useNavigate, useSearchParams, useParams} from 'react-router-dom';
 
 const Day = ({date, events}) => {
-  const {userDispatch} = useCustomContext()
   const dayEvents = useDayEvents(events, date)
+  const navigate = useNavigate();
+  const {year} = useParams();
+  const [searchParams] = useSearchParams();
 
   let intensity = '';
   let invisible = 'invisible';
@@ -25,7 +27,7 @@ const Day = ({date, events}) => {
     <div
       className={'date' + invisible + intensity}
       onClick={() =>
-        userDispatch({type: 'displayDate', payload: {date: date, month: -1, year: date.getFullYear()}})
+        navigate(`/${year}/calendar/-1/${date.getTime()}?${searchParams.toString()}`)
       }
     >
       {date?.getDate() || ''}
