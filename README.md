@@ -359,6 +359,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 * 20-21: [Golang Conf 2024](https://cfp.golangconf.ru/en) - St. Petersburg (Rusia) <a href="https://cfp.golangconf.ru/en"><img alt="CFP Golang Conf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2024&color=green"></a>
 * 21-22: [Code Beam Lite](https://www.codebeamcorunha.es/en) - Coruna (Spain) <a href="https://sessionize.com/code-beam-corunha-2024/"><img alt="CFP Code Beam Lite 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=green"></a>
 * 21-22: [Opensouthcode](https://www.opensouthcode.org) - Malaga (Spain) <a href="https://www.opensouthcode.org/conferences/opensouthcode2024/program/proposals/new"><img alt="CFP Opensouthcode 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
+* 24-25: [InfoQ Dev Summit Boston](https://devsummit.infoq.com/boston_medialisting2024) - Boston, MA (USA)
 * 24-27: [psconf.eu 2024](https://psconf.eu) - Antwerp (Belgium) <a href="https://sessionize.com/psconfeu-2024/"><img alt="CFP psconf.eu 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2023&color=red"></a>
 * 26-28: [KCDC 2024](http://www.kcdc.info) - Kansas City (USA) <a href="https://sessionize.com/kcdc-2024/"><img alt="CFP KCDC 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-January-2024&color=red"></a>
 * 26-27: [CloudNativeSecurityCon North America 2024](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) - Seattle (USA) <a href="https://sessionize.com/cloudnativesecuritycon-north-america-2024/"><img alt="CFP CloudNativeSecurityCon North America 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
@@ -444,6 +445,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 * 7: [DevDay](https://www.devday.be) - Mons (Belgium) <a href="https://sessionize.com/devday-2024/"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=until%203-September-2024&color=green"></a>
 * 12-15: [KubeCon + CloudNativeCon NA 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2024/) - Salt Lake City (USA)
 * 14-15: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain) <a href="https://devops.barcelona/call-for-papers"><img alt="CFP DevOps Barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
+* 18-22: [QCon San Francisco 2024](https://qconsf.com/medialisting2024) - San Francisco, CA (USA)
 * 19: [IDM Nordics](https://whitehallmedia.co.uk/future-events/) - Stockholm (Sweden)
 * 21: [Conf42 Prompt Engineering 2024](https://www.conf42.com/prompt2024) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2024"><img alt="CFP Conf42 Prompt Engineering 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-October-2024&color=green"></a>
 * 28: [ESRM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
