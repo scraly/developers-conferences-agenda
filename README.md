@@ -87,9 +87,9 @@ All the data (past and coming) are available publicly in JSON:
 * 15-16: [PHP UK Conference](https://www.phpconference.co.uk/) - London (UK)
 * 16-17: [CactusCon](https://www.cactuscon.com/) - Mesa, AZ (USA)
 * 17: [GeekBeacon Festival 2024](https://www.gbfest.org) - Online <a href="https://sessionize.com/geekbeacon-festival-2024/"><img alt="CFP GeekBeacon Festival 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2024&color=green"></a>
-* 19-24: [BlaBlaConf - 100% Moroccan Dialect](https://www.blablaconf.com/) - Online <a href="https://sessionize.com/blablaconf-2024"><img alt="CFP BlaBlaConf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-February-2024&color=green"></a>
 * 20-21: [Civo Navigate North America](https://www.civo.com/navigate/north-america) - Austin, TX (USA) <a href="https://sessionize.com/civo-navigate-austin"><img alt="CFP Civo Navigate NA 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2023&color=red"></a>
 * 20-22: [Axe-con](https://www.deque.com/axe-con/) - Online <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+* 19-24: [BlaBlaConf - 100% Moroccan Dialect](https://www.blablaconf.com/) - Online <a href="https://sessionize.com/blablaconf-2024"><img alt="CFP BlaBlaConf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%31-December-2024&color=red"></a>
 * 21: [Dapr Day](https://community.cncf.io/events/details/cncf-virtual-project-events-2024-hosted-by-cncf-presents-dapr-day-2024-virtual/) - Online <a href="https://sessionize.com/Dapr-Day-2024"><img alt="CFP dapr day 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-January-2023&color=red"></a>
 * 21-23: [DeveloperWeek](https://www.developerweek.com) - San Francisco (USA) 
 * 21-29: [ProductWorld 2024](https://productworld.co/) - Oakland, CA (USA) <a href="https://sessionize.com/productworld-2024/"><img alt="CFP ProductWorld 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2023&color=red"></a>
