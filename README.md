@@ -418,6 +418,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 
 * 3-4: [ContainerDays Conference 2024](https://www.containerdays.io/containerdays-conference-2024/) - Hamburg (Germany) <a href="https://sessionize.com/CDS-conference-2024/"><img alt="CFP ContainerDays Conference 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
 * 4-5: [JavaZone](https://2024.javazone.no/) - Oslo (Norway) <a href="https://2024.javazone.no/speakers"><img alt="CFP JavaZone 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-April-2024&color=green"></a>
+* 6: [JUG Summer Camp](https://www.jugsummercamp.org) - La Rochelle (France)
 * 14: [BSides Krakow 2024](https://bsideskrakow.pl/) - Krakow (Poland)
 * 16-17: [Infobip Shift](https://shift.infobip.com/) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2024/"><img alt="CFP Infobit Shift" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 16-17: [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) - Vienna (Austria)
