@@ -1,5 +1,5 @@
 import {useEffect} from 'react';
-import {BrowserRouter as Router, Routes, Route, useParams, useNavigate, useSearchParams, createSearchParams} from "react-router-dom";
+import {HashRouter as Router, Routes, Route, useParams, useNavigate, useSearchParams, createSearchParams} from "react-router-dom";
 
 import {CalendarDays, CalendarClock} from 'lucide-react';
 
