@@ -435,6 +435,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 * 25-26: [JSConf Ireland 2024](https://jsconf.ie/) - Dublin (Ireland) <a href="https://www.jsconf.ie/call-for-proposals/"><img alt="CFP JSConf Ireland 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-February-2024&color=green"></a>
 * 26: [Conf42 Kube Native](https://www.conf42.com/kubenative2024) - Online <a href="https://www.papercall.io/conf42-kube-native-2024"><img alt="CFP Conf42 Kube Native" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Aug-2024&color=green"></a>
 * 26-27: [DevOpsDays London](https://devopsdays.org/events/2024-london/welcome/) - London (UK) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUK4VNyhpfpqhrm8BY7KmAvSNQHIuL49YOabkYDInbnyKD1g/viewform"><img alt="CFP DevOpsDays London" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-May-2024&color=green"></a>
+* 26-27: [Rails World 2024](https://rubyonrails.org/world) - Toronto (Canada)
 
 ### October
 
