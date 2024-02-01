@@ -186,6 +186,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4: [BSides Prague 2024](https://www.bsidesprg.cz) - Prague (Czech Republic) <a href="https://www.papercall.io/bsidesprg2024"><img alt="CFP Security BSides Prague 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-February-2024&color=green"></a>
 * 4: [SoCraTes Rennes 2024](https://socrates-rennes.github.io/) - Rennes (France)
 * 4-6: [Toulouse Hacking Convention](https://thcon.party/) - Toulouse (France) <a href="https://thcon.party/cfp/#intra"><img alt="CFP THC 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-January-2024&color=red"></a>
+* 6: [WTM Montreal](https://wtmmontreal.com/fr/) - Montreal (Canada) <a href="https://www.papercall.io/wtmmontreal2024"><img alt="CFP WTM Montreal" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2024&color=green"></a>
 * 8-10: [QCon London](https://qconlondon.com/) - London (UK)
 * 08-11: [Powershell DevOps Global Summit](https://powershellsummit.org/) - Bellevue, WA (USA) <a href="https://sessionize.com/pshsummit24"><img alt="CFP Powershell DevOps Global" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Nov-2023&color=red"></a>
 * 9-10: [GrafanaCon](https://grafana.com/about/events/grafanacon/2024/) - Amsterdam (Netherlands) <a href="https://docs.google.com/forms/d/e/1FAIpQLSf78xO-J7ZmkMarpA5spfyS6Dt-wjWvUNeQzrBJPm2b_Q1LPg/viewform"><img alt="CFP GrafanaCon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2024&color=green"></a>
