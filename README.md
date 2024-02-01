@@ -188,6 +188,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4-6: [Toulouse Hacking Convention](https://thcon.party/) - Toulouse (France) <a href="https://thcon.party/cfp/#intra"><img alt="CFP THC 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-January-2024&color=red"></a>
 * 8-10: [QCon London](https://qconlondon.com/) - London (UK)
 * 08-11: [Powershell DevOps Global Summit](https://powershellsummit.org/) - Bellevue, WA (USA) <a href="https://sessionize.com/pshsummit24"><img alt="CFP Powershell DevOps Global" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Nov-2023&color=red"></a>
+* 9-10: [GrafanaCon](https://grafana.com/about/events/grafanacon/2024/) - Amsterdam (Netherlands) <a href="https://docs.google.com/forms/d/e/1FAIpQLSf78xO-J7ZmkMarpA5spfyS6Dt-wjWvUNeQzrBJPm2b_Q1LPg/viewform"><img alt="CFP GrafanaCon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2024&color=green"></a>
 * 9-11: [DevNexus](https://devnexus.com/) - Atlanta (USA)
 * 9-11: [JavaLand](https://www.javaland.eu/en/home/) - Nürburgring (Germany)
 * 9-11: [Automotive Grade Linux at Embedded World](https://events.linuxfoundation.org/agl-at-embedded-world/) - Nuremberg (Germany)
