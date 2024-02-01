@@ -342,7 +342,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 * 10-14: [PlatformCon 2024](https://platformcon.com) - Online <a href="https://sessionize.com/platformcon-2024"><img alt="CFP PlatformCon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-February-2024&color=green"></a>
 * 11-14: [EuroStar](https://conference.eurostarsoftwaretesting.com/) - Stockholm (Sweden)
 * 11-12: [OW2con](https://www.ow2con.org/view/2024/) - Paris (France) <a href="https://pretalx.com/ow2con-2024/cfp"><img alt="CFP OW2con'24 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-February-2024&color=green"></a>
-* 11-12: [StaffPlus London](hhttps://leaddev.com/staffplus-london) - London (UK) <a href="https://leaddev.submittable.com/submit/283040/talk-submissions-for-staffplus-london-2024"><img alt="CFP StaffPlus London" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-February-2024&color=green"></a>
+* 11-12: [StaffPlus London](https://leaddev.com/staffplus-london) - London (UK) <a href="https://leaddev.submittable.com/submit/283040/talk-submissions-for-staffplus-london-2024"><img alt="CFP StaffPlus London" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-February-2024&color=green"></a>
 * 11-12: [LeadDev London](https://leaddev.com/leaddev-london) - London (UK) <a href="https://leaddev.submittable.com/submit/283041/talk-submissions-for-leaddev-london-2024"><img alt="CFP LeadDev London" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-February-2024&color=green"></a>
 * 12: [You Got This Summer 2024](https://yougotthis.io/events/summer-2024) - Online
 * 12-14: [RenderATL](https://www.renderatl.com/) - Atlanta, GA (USA)
