@@ -5,7 +5,7 @@ const MAIN_INPUT = ROOT+"README.md"
 const confIdentifierPattern = /^ *\* ?(\[.*\]\s?)?[0-9?x\/-]+/
 
 //complex example : "* [Virtualized] 31/05-04/06: [event : stuff](http://link.io) - chambéry (France) <a ... ><img ...label=CFP.../></a> <img ...Closed%20Captions... />" 
-const confValidationPattern = /^\*( \[(?<status>[\w ]+)\])? (?<date>\d{1,2}(\/\d{1,2})?(-\d{1,2})?(\/\d{1,2})?)\s?: \[(?<name>[^\]]*)\]\((?<link>https?:\S*)\)( - (?<place>[^<\n]*))?(?<cfp><a.*label=CFP.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>)?\s*(?<cc><img.*Closed%20Captions.*\/>)?\s*(?<other><img.*color=purple.*\/>)?\s*$/
+const confValidationPattern = /^\*( \[(?<status>[\w ]+)\])? (?<date>\d{1,2}(\/\d{1,2})?(-\d{1,2})?(\/\d{1,2})?)\s?: \[(?<name>[^\]]*)\]\((?<link>https?:\S*)\)( - (?<place>[^<\n]*))?(?<cfp><a.*label=CFP.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>)?\s*(?<sco><a.*label=Scholarship.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>)?\s*(?<cc><img.*Closed%20Captions.*\/>)?\s*(?<other><img.*color=purple.*\/>)?\s*$/
 
 const extractArchiveFiles = markdown => //eg: " * [2017](archives/2017.md)"
     [...markdown.matchAll(/^\s*\*\s*\[.*\]\(archives\/.*\.md\)\s*$/gm)].map( match => match[0])
@@ -42,14 +42,19 @@ const addHints = confLine => {
         hints.push("CFP shields should have a link")
     }
     if(confLine.content.includes("img.shields.io") && !(
-        confLine.content.includes("label=CFP") || confLine.content.includes("Closed%20Captions") || confLine.content.includes("label=Meetup"))){
-        hints.push("shields are for 'CFP' or 'Closed Content' or 'Meetup' with provided format only")
+        confLine.content.includes("label=CFP") || confLine.content.includes("Closed%20Captions") || confLine.content.includes("Scholarship") || confLine.content.includes("label=Meetup"))){
+        hints.push("shields are for 'CFP' or 'Closed Content' or 'Scholarship' or 'Meetup' with provided format only")
     }
     if(confLine.content.includes("label=CFP") && 
         confLine.content.includes("Closed%20Captions") &&
         confLine.content.indexOf("Closed%20Captions") < confLine.content.indexOf("label=CFP")){
         hints.push("please order your shields : CFP, ClosedContent")
     }
+    if(confLine.content.includes("label=CFP") && 
+    confLine.content.includes("Scholarship") &&
+    confLine.content.indexOf("Scholarship") < confLine.content.indexOf("label=CFP")){
+    hints.push("please order your shields : CFP, Scholarship")
+}
     if(confLine.content.includes("img.shields.io") && !confLine.content.match(/>\s*$/) ){
         hints.push("please place your shields at the end of the line")
     }
