@@ -5,7 +5,9 @@ const MAIN_INPUT = ROOT+"README.md"
 const confIdentifierPattern = /^ *\* ?(\[.*\]\s?)?[0-9?x\/-]+/
 
 //complex example : "* [Virtualized] 31/05-04/06: [event : stuff](http://link.io) - chambéry (France) <a ... ><img ...label=CFP.../></a> <img ...Closed%20Captions... />" 
-const confValidationPattern = /^\*( \[(?<status>[\w ]+)\])? (?<date>\d{1,2}(\/\d{1,2})?(-\d{1,2})?(\/\d{1,2})?)\s?: \[(?<name>[^\]]*)\]\((?<link>https?:\S*)\)( - (?<place>[^<\n]*))?(?<cfp><a.*label=CFP.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>)?\s*(?<cc><img.*Closed%20Captions.*\/>)?\s*(?<other><img.*color=purple.*\/>)?\s*$/
+//const confValidationPattern = /^\*( \[(?<status>[\w ]+)\])? (?<date>\d{1,2}(\/\d{1,2})?(-\d{1,2})?(\/\d{1,2})?)\s?: \[(?<name>[^\]]*)\]\((?<link>https?:\S*)\)( - (?<place>[^<\n]*))?(?<cfp><a.*label=CFP.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>)?\s*(?<cc><img.*Closed%20Captions.*\/>)?\s*(?<other><img.*color=purple.*\/>)?\s*$/
+//const confValidationPattern = /^\*( \[(?<status>[\w ]+)\])? (?<date>\d{1,2}(\/\d{1,2})?(-\d{1,2})?(\/\d{1,2})?)\s?: \[(?<name>[^\]]*)\]\((?<link>https?:\S*)\)( - (?<place>[^<\n]*))?(?<cfp><a.*label=CFP.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>)?\s*(?<cc><img.*Closed%20Captions.*\/>)?\s*(?<sc><img.*Scholarship.*\/>)?\s*(?<other><img.*color=purple.*\/>)?\s*$/
+const confValidationPattern = /^\*( \[(?<status>[\w ]+)\])? (?<date>\d{1,2}(\/\d{1,2})?(-\d{1,2})?(\/\d{1,2})?)\s?: \[(?<name>[^\]]*)\]\((?<link>https?:\S*)\)( - (?<place>[^<\n]*))?(?<cfp><a.*label=CFP.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>)?\s*(?<sco><a.*label=Scholarship.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>)?\s*(?<cc><img.*Closed%20Captions.*\/>)?\s*(?<other><img.*color=purple.*\/>)?\s*$/
 
 const extractArchiveFiles = markdown => //eg: " * [2017](archives/2017.md)"
     [...markdown.matchAll(/^\s*\*\s*\[.*\]\(archives\/.*\.md\)\s*$/gm)].map( match => match[0])
