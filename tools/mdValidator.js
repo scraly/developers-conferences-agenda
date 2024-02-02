@@ -42,14 +42,19 @@ const addHints = confLine => {
         hints.push("CFP shields should have a link")
     }
     if(confLine.content.includes("img.shields.io") && !(
-        confLine.content.includes("label=CFP") || confLine.content.includes("Closed%20Captions") || confLine.content.includes("label=Meetup"))){
-        hints.push("shields are for 'CFP' or 'Closed Content' or 'Meetup' with provided format only")
+        confLine.content.includes("label=CFP") || confLine.content.includes("Closed%20Captions") || confLine.content.includes("Scholarship") || confLine.content.includes("label=Meetup"))){
+        hints.push("shields are for 'CFP' or 'Closed Content' or 'Scholarship' or 'Meetup' with provided format only")
     }
     if(confLine.content.includes("label=CFP") && 
         confLine.content.includes("Closed%20Captions") &&
         confLine.content.indexOf("Closed%20Captions") < confLine.content.indexOf("label=CFP")){
         hints.push("please order your shields : CFP, ClosedContent")
     }
+    if(confLine.content.includes("label=CFP") && 
+    confLine.content.includes("Scholarship") &&
+    confLine.content.indexOf("Scholarship") < confLine.content.indexOf("label=CFP")){
+    hints.push("please order your shields : CFP, Scholarship")
+}
     if(confLine.content.includes("img.shields.io") && !confLine.content.match(/>\s*$/) ){
         hints.push("please place your shields at the end of the line")
     }
