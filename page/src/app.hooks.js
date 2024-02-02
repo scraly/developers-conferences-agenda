@@ -35,6 +35,10 @@ export const useYearEvents = () => {
       result = result.filter(e => e.closedCaptions);
     }
 
+    if (search.scholarship === 'true') {
+      result = result.filter(e => e.scholarship);
+    }
+
     if (search.callForPapers === 'true') {
       result = result.filter(e => e.cfp && new Date(e.cfp.untilDate) > new Date());
     }

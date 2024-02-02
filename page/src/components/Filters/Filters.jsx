@@ -53,6 +53,11 @@ const Filters = () => {
       </div>
 
       <div className='filtersItem'>
+        <label htmlFor='filter-scholarship'>Scholarship:</label>
+        <input checked={search.scholarship == 'true'} type='checkbox' id='filter-scholarship' onChange={(e) => onChange('scholarship', e.target.checked)}/>
+      </div>
+
+      <div className='filtersItem'>
         <label htmlFor='filter-online'>Online:</label>
         <input checked={search.online == 'true'} type='checkbox' id='filter-online' onChange={(e) => onChange('online', e.target.checked)}/>
       </div>
