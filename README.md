@@ -99,7 +99,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13: [ECS UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 13: [You Got This Spring 2024](https://yougotthis.io/events/spring-2024) - Online
 * 14-15: [pgDayParis](https://2024.pgday.paris/) - Paris (France)
-* 14-15: [WASM IO](https://2024.wasmio.tech/) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio24"><img alt="CFP WASM IO" src="https://img.shields.io/static/v1?label=CFP&message=until%201-January-2024&color=red"></a>
+* 14-15: [WASM IO](https://2024.wasmio.tech/) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio24"><img alt="CFP WASM IO" src="https://img.shields.io/static/v1?label=CFP&message=until%201-January-2024&color=red"></a> <a href="https://2024.wasmio.tech/diversity/"><img alt="Scholarship" src="https://img.shields.io/static/v1?label=Scholarship&message=until%2008-February-2024&color=yellow" /></a>
 * 14-15: [T3chfest](https://t3chfest.es) - Madrid (Spain) <a href="https://t3chfest.es/2024/call-for-talks"><img alt="T3chfest" src="https://img.shields.io/static/v1?label=CFP&message=until%204-December-2023&color=red"></a>
 * 14-15: [Netnod Meeting 2024](https://www.netnod.se/netnod-events/netnod-meeting-2024) - Stockholm (Sweden) <a href="meeting@netnod.se"><img alt="CFP Netnod Meeting" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2023&color=green"></a>
 * 14-17: [SCaLE 21x](https://www.socallinuxexpo.org) - Pasadena (USA) <a href="https://www.socallinuxexpo.org/scale/21x/call-presenters"><img alt="CFP SCaLE 21x" src="https://img.shields.io/static/v1?label=CFP&message=until%201-November-2023&color=red"></a>
@@ -161,7 +161,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4: [SoCraTes Rennes 2024](https://socrates-rennes.github.io/) - Rennes (France)
 * 4-6: [Toulouse Hacking Convention](https://thcon.party/) - Toulouse (France) <a href="https://thcon.party/cfp/#intra"><img alt="CFP THC 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-January-2024&color=red"></a>
 * 6: [WTM Montreal](https://wtmmontreal.com/fr/) - Montreal (Canada) <a href="https://www.papercall.io/wtmmontreal2024"><img alt="CFP WTM Montreal" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2024&color=green"></a>
-* 8-10: [QCon London](https://qconlondon.com/) - London (UK)
+* 8-10: [QCon London](https://qconlondon.com/) - London (UK) <a href="https://forms.gle/eZzmJap4zqEfsXqx9"><img alt="Scholarship" src="https://img.shields.io/static/v1?label=Scholarship&message=until%2019-February-2024&color=yellow" /></a>
 * 08-11: [Powershell DevOps Global Summit](https://powershellsummit.org/) - Bellevue, WA (USA) <a href="https://sessionize.com/pshsummit24"><img alt="CFP Powershell DevOps Global" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Nov-2023&color=red"></a>
 * 9-10: [GrafanaCon](https://grafana.com/about/events/grafanacon/2024/) - Amsterdam (Netherlands) <a href="https://docs.google.com/forms/d/e/1FAIpQLSf78xO-J7ZmkMarpA5spfyS6Dt-wjWvUNeQzrBJPm2b_Q1LPg/viewform"><img alt="CFP GrafanaCon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2024&color=green"></a>
 * 9-11: [DevNexus](https://devnexus.com/) - Atlanta (USA)
