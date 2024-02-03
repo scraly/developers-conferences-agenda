@@ -203,6 +203,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22: [React Connection 2024](https://reactconnection.io/) - Paris (France) <a href="https://conference-hall.io/public/event/J4B6tn2Vas37pLaU0pIo"><img alt="CFP React Connection 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%203-February-2024&color=green"></a>
 * 23: [React Native Connection 2024](https://reactnativeconnection.io/) - Paris (France) <a href="https://conference-hall.io/public/event/pdyGi2RB4aYQnp7gdGhc"><img alt="CFP React Native Connection 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%203-February-2024&color=green"></a>
 * 23-25: [php tek 2024](https://tek.phparch.com) - Chicago (USA) <a href="https://sessionize.com/phptek-2024"><img alt="CFP php tek 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=red"></a>
+* 23-25: [Women Tech Glocal Conference](https://www.womentech.net/women-tech-conference) - Online <a href="https://www.womentech.net/apply-for-scholarship"><img alt="Scholarship" src="https://img.shields.io/static/v1?label=Scholarship&message=until%2001-April-2024&color=yellow" /></a>
 * 23-26: [Great International Developer Summit (GIDS)](https://developersummit.com/) - Bengaluru, Karnataka (India) <a href="https://form.jotform.com/developersummit/gids-2024-call-for-proposals"><img alt="CFP GIDS 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Oct-2023&color=red"></a>
 * 24-25: [OUGN2024](https://www.papercall.io/ougn2024) - Oslo (Norway) <a href="https://www.papercall.io/ougn2024"><img alt="CFP OUGN2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-Dec-2023&color=red"></a>
 * 24-25: [Enterprise Technology Leadership Summit Virtual 2024](https://itrevolution.com/events) - Online <a href="https://sessionize.com/enterprise-tech-leadership-summit-virtual-2024/"><img alt="CFP Enterprise Technology Leadership Summit Virtual 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2024&color=green"></a>
@@ -445,6 +446,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 * 05: [IDM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 6: [Master Dev De France](https://www.masterdevfrance.com/) - Paris (France)
 * 7: [DevDay](https://www.devday.be) - Mons (Belgium) <a href="https://sessionize.com/devday-2024/"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=until%203-September-2024&color=green"></a>
+* 11-14: [Web Summit](https://websummit.com/) - Lisbon (Portugal)
 * 12-15: [KubeCon + CloudNativeCon NA 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2024/) - Salt Lake City (USA)
 * 14-15: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain) <a href="https://devops.barcelona/call-for-papers"><img alt="CFP DevOps Barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 18-19: [The Linux Foundation Legal Summit](https://events.linuxfoundation.org/lf-legal-summit/) - Napa (USA)
@@ -457,6 +459,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 ### December
 
 * 11: [You Got This Winter 2024](https://yougotthis.io/events/winter-2024) - Online
+* 14-15: [Euro STEM](https://eurostem.eu/) - Tallinn (Estonia) <a href="https://eurostem.eu/grants/"><img alt="Scholarship" src="https://img.shields.io/static/v1?label=Scholarship&message=until%2001-October-2024&color=yellow" /></a>
 
 ## 2025
 
