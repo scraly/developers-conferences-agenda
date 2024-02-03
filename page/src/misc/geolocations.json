@@ -739,6 +739,10 @@
     "latitude": 10.376781300000001,
     "longitude": -84.01397213865732
   },
+  "Ho (Ghana)": {
+    "latitude": 6.6126598,
+    "longitude": 0.4688932
+  },
   "Ho chi Minh (Vietnam)": {
     "latitude": 10.7763897,
     "longitude": 106.7011391
@@ -1727,6 +1731,10 @@
     "latitude": 23.5983227,
     "longitude": 120.83537694479215
   },
+  "Tallinn (Estonia)": {
+    "latitude": 59.4372155,
+    "longitude": 24.7453688
+  },
   "Tampa Bay (USA)": {
     "latitude": 27.6886419,
     "longitude": -82.5723193
@@ -1906,6 +1914,10 @@
   "West Hollywood, CA (USA)": {
     "latitude": 34.0923014,
     "longitude": -118.3692894
+  },
+  "Windhoek (Namibia)": {
+    "latitude": -22.5776104,
+    "longitude": 17.0772739
   },
   "Winterthur, Zürich (Switzerland)": {
     "latitude": 47.4991723,
