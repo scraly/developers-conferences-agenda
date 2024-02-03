@@ -34,6 +34,7 @@ All the data (past and coming) are available publicly in JSON:
 * [2021](archives/2021.md)
 * [2022](archives/2022.md)
 * [2023](archives/2023.md)
+* [2024](archives/2024.md)
 
 ## 2024
 
