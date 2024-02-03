@@ -99,6 +99,7 @@ const extractEvents = (monthMarkdown, year, month) =>
         : "",
       cfp: extractCfp(eventLine.trim().replaceAll(/^.*(<a.*a>).*$/g, "$1")),
       closedCaptions: eventLine.trim().match(/^.*(<img alt=.Closed Captions.).*$/) !== null,
+      scholarship: eventLine.trim().match(/^.*(<img alt=.Scholarship.).*$/) !== null,
       status: eventLine.trim().startsWith("* [")
         ? eventLine.trim().replaceAll(/^[^[]*\[([\w\s]*)\].*$/g, "$1")
         : "open",
