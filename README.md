@@ -44,6 +44,7 @@ All the data (past and coming) are available publicly in JSON:
 * 2: [HalfStack Phoenix](https://halfstackconf.com/phoenix/) - Phoenix (USA) <a href="https://halfstackconf.com/cfp/"><img alt="CfP HalfStack" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-January-2024&color=red"></a>
 * 3: [KCD Kelara](https://kcdkerala.in/) - Kochi (India)
 * 3-4: [FOSDEM](https://fosdem.org/2024/) - Brussels (Belgium) <a href="https://fosdem.org/2024/news/2023-11-08-devrooms-announced/"><img alt="CFP FOSDEM" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2023&color=red"></a>
+* 5-6: [Laracon EU](https://laracon.eu/) - Amsterdam (Netherlands)
 * 5-7: [Config Management Camp](https://cfgmgmtcamp.eu/ghent2024/) - Ghent (Belgium) <a href="https://cfp.cfgmgmtcamp.org/2024/cfp"><img alt="CFP CfgMgmtCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2023&color=red"></a>
 * 5-7: [Jfokus](https://www.jfokus.se) - Stockholm (Sweden) <a href="https://www.jfokus.se/iamahero"><img alt="CFP JFokus" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2023&color=red"></a>
 * 6: [DevFest Paris](https://devfest.gdgparis.com/) - Paris (France) <a href="https://conference-hall.io/public/event/pJRc2OqdUx5iAXkJgTEW"><img alt="CFP DevFest Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=red"></a>
@@ -149,6 +150,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21-22: [DevOps Talks Conference](https://devops.talksplus.com/melbourne/devops) - Melbourne (Australia) <a href="https://devops.talksplus.com/submit-talk"><img alt="CFP DevOps Talks" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2024&color=green"></a>
 * 22-23: [Agile Games France](https://agilegamesfrance.fr/doku.php?id=evenement_2024) - Valence (France)
 * 23: [Atlanta Cloud Conference 2024](https://atlcloudconf.com/) - Marietta, GA (USA) <a href="https://sessionize.com/atlanta-cloud-conference-2024/"><img alt="CFP Atlanta Cloud Conference 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-February-2024&color=green"></a>
+* 23-24: [Laracon India](https://laracon.in/) - Udaipur (India)
 * 26: [IDM Europe](https://whitehallmedia.co.uk/future-events/) - Utrecht (Netherlands)
 * 26-28: [Forum INCYBER Europe](https://europe.forum-incyber.com/) - Lille (France)
 * 26-28: [Rust Nation UK](https://www.rustnationuk.com/) - London (UK) <a href="https://www.rustnationuk.com/call-for-papers"><img alt="CFP Rust Nation UK" src="https://img.shields.io/static/v1?label=CFP&message=14-Jun-2023%20to%2030-Sep-2023&color=red"> </a>
@@ -291,6 +293,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28-29: [Cybersec Europe](https://www.cyberseceurope.com/) - Bruxelles (Belgium)
 * 28-29: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP jPrime" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Feb-2024&color=green"></a>
 * 28-29: [API Days Helsinki & North](https://www.apidays.global/helsinki_and_north/) - Helsinki (Finland) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Helsinki & north" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-April-2024&color=green"></a>
+* 28-29: [Symfony Live Paris](https://live.symfony.com/2024-paris/) - Paris (France)
 * 28-30: [Web à Québec](https://webaquebec.org/) - Quebec (Canada) <a href="https://webaquebec.org/appel-a-conferences"><img alt="CFP Web à Québec" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2024&color=red"></a>
 * 29-30: [Security BSides Barcelona 2024](https://bsides.barcelona/) - Barcelona (Spain) <a href="https://www.papercall.io/bsides-barcelona-24"><img alt="CFP Security BSides Barcelona 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-March-2024&color=green"></a>
 * 29-30: [DevTalks Romania 2024](https://www.devtalks.ro/) - Bucharest (Romania) <a href="https://www.papercall.io/devtalks-2024"><img alt="CFP DevTalks Romania 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-May-2024&color=green"></a>
