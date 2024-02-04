@@ -19,10 +19,13 @@ const geocoder = NodeGeocoder(options);
 const locations = Array.from(new Set(events.map((event) => event.location.replace(" & Online", "")))).filter((location) => !cachedGeolocations[location]).filter((location) => location !== "" && location.toLowerCase() !== "online").sort();
 const cachedLocations = Array.from(new Set(events.map((event) => event.location.replace(" & Online", "")))).filter((location) => cachedGeolocations[location]).filter((location) => location !== "").sort();
 
+var warnings = []; 
+
 geocoder.batchGeocode(locations).then((result) => {
     const geoLocationsObject = result.map((r, idx) => ({...(r.value && r.value[0] ? r.value[0] : {}), query: locations[idx]})).reduce((acc, currentValue) => {
         if (!currentValue.latitude || !currentValue.longitude) {
             console.log("Unable to get geocode for location: ", currentValue.query);
+            warnings.push(currentValue.query);
             return acc;
         }
         acc[currentValue.query] = {
@@ -48,4 +51,8 @@ geocoder.batchGeocode(locations).then((result) => {
     );
 
     fs.writeFileSync(GEOLOCATION_OUTPUT, JSON.stringify(orderedGeoLocationsObject, null, '  '));
+
+    if(warnings.length > 1) {
+      process.exit(1)
+    }
 })
