@@ -40,6 +40,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### February
 
+* 1: [AgiLeMans](https://agilemans.org/) - Le Manstestsss (France) <a href="https://sessionize.com/8ieme-journee-agile-au-mans-france/"><img alt="CfP AgiLeMans" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-December-2023&color=red"></a>
 * 1: [AgiLeMans](https://agilemans.org/) - Le Mans (France) <a href="https://sessionize.com/8ieme-journee-agile-au-mans-france/"><img alt="CfP AgiLeMans" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-December-2023&color=red"></a>
 * 2: [HalfStack Phoenix](https://halfstackconf.com/phoenix/) - Phoenix (USA) <a href="https://halfstackconf.com/cfp/"><img alt="CfP HalfStack" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-January-2024&color=red"></a>
 * 3: [KCD Kelara](https://kcdkerala.in/) - Kochi (India)
