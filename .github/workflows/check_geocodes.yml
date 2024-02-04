@@ -1,4 +1,4 @@
-name: Check
+name: CheckGeoCodes
 on: pull_request
 
 jobs:
