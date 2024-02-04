@@ -1,4 +1,4 @@
-name: Check
+name: CheckMarkdown
 on: pull_request
 
 jobs:
