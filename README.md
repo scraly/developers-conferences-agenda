@@ -400,6 +400,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 * 21-22: [DevOpsDays Halifax](https://devopsdays.org/events/2024-halifax/welcome/) - Halifax (Canada) <a href="https://talks.devopsdays.org/devopsdays-halifax-2024/cfp"><img alt="CFP DevOpsDays Halifax" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
 * 22: [Conf42 Rustlang 2024](https://www.conf42.com/rustlang-2024) - Online <a href="https://www.papercall.io/conf42-rustlang-2024"><img alt="CFP Conf42 Rustlang 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-July-2024&color=green"></a>
 * 26-30: [NDC Copenhaguen Developer Festival](https://cphdevfest.com/) - Copenhaguen (Denmark) <a href="https://sessionize.com/copenhagen-developers-festival-2024/"><img alt="CFP NDC Copenhagen Developers Festival" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
+* 27-28: [Laracon US](https://laracon.us/) - Dallas, TX (USA)
 * 30: [ShipItCon](https://shipitcon.com/) - Dublin (Ireland)
 
 ### September
