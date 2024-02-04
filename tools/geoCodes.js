@@ -52,7 +52,7 @@ geocoder.batchGeocode(locations).then((result) => {
 
     fs.writeFileSync(GEOLOCATION_OUTPUT, JSON.stringify(orderedGeoLocationsObject, null, '  '));
 
-    if(warnings.length > 1) {
+    if(warnings.length > 0) {
       process.exit(1)
     }
 })
