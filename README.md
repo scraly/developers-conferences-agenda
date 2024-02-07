@@ -385,6 +385,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 * 17: [Middlesbrough Front End](https://www.middlesbroughfe.co.uk/) - Middlesbrough (UK) <a href="https://www.middlesbroughfe.co.uk/call-for-papers"><img alt="CFP Middlesbrough Front End" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-February-2024&color=green"></a>
 * 17-18: [Automotive Grade Linux All Member Meeting Summer](https://events.linuxfoundation.org/agl-amm-summer/) - Berlin (Germany)
 * 17-19: [WeAreDevelopers World Congress 2024](https://worldcongress.dev) - Berlin (Germany) <a href="https://sessionize.com/wearedevelopers-world-congress-2024"><img alt="CFP WeAreDevelopers World Congress 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=green"></a>
+* 18-19: [DevRel Con New York](https://nyc24.devrelcon.dev/) - New York (USA)
 * 19-20: [JConf Dominicana 2024](https://jconfdominicana.org/) - Santiago de los Caballeros (Dominican Republic) <a href="https://www.papercall.io/jconf-dominicana-2024"><img alt="CFP JConf Dominicana 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-March-2024&color=green"></a>
 * 19-20: [Security BSides Albuquerque](https://www.bsidesabq.org) - Albuquerque (USA) <a href="https://sessionize.com/bsides-albuquerque-2024/"><img alt="CFP Security BSides Albuquerque" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2024&color=green"></a>
 * 20: [KCD Lima](https://community.cncf.io/kcd-lima-peru/) - Lima (Peru)
