@@ -433,6 +433,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 * 2: [IDM Europe](https://whitehallmedia.co.uk/future-events/) - Utrecht (Netherlands)
 * 3-4: [Nordic.JS](https://nordicjs.com/2024/) - Stockholm (Sweden)
 * 7-11: [Devoxx Belgium](https://devoxx.be) - Antwerp (Belgium)
+* 10: [Cloud Nord](https://www.cloudnord.fr/) - Lille (France)
 * 10-11: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France)
 * 10-11: [Forum PHP](https://event.afup.org/) - Marne-la-Vallée (France)
 * 14-18: [NDC Porto 2024](https://ndcporto.com/) - Porto (Portugal) <a href="https://sessionize.com/ndc-porto-2024/"><img alt="CFP NDC Porto 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2024&color=green"></a>
