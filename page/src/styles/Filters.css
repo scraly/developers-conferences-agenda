@@ -2,7 +2,6 @@
     border-right: 1px solid #ccc;
     padding: 10px;
     padding-right: 20px;
-    overflow: hidden;
     transition: min-width 1s, width 1s, border-color 1s;
 }
 
@@ -17,6 +16,10 @@
 .filters .lucide-filter, .filters .lucide-filter-x {
     opacity: 1;
     min-width: 24px;
+    background: #eee;
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
 }
 
 .filters .filters-title {
