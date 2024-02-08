@@ -1,6 +1,7 @@
 body {
   outline: 0;
   box-sizing: border-box;
+  margin: 0;
 
   font-family: Inter, Arial, sans-serif;
   flex-grow: 1;
