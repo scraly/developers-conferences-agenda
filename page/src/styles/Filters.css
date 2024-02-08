@@ -3,6 +3,9 @@
     padding: 10px;
     padding-right: 20px;
     transition: min-width 1s, width 1s, border-color 1s;
+    position: absolute;
+    background: white;
+    height: 100%;
 }
 
 .filters-header {
