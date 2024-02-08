@@ -13,6 +13,7 @@ body {
 
 .dcaGrid {
   display: flex;
+  position: relative;
 }
 
 .dcaContent {
