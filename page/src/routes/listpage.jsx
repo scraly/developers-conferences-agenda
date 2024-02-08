@@ -19,9 +19,8 @@ export function ListPage() {
               onChange={year => {
                 navigate(`/${year}/list?${createSearchParams(searchParams)}`);
               }}
+              view="list"
             />
-
-            <ViewSelector selected={'list'}/>
 
             <ListView year={year} />
         </div>

@@ -23,6 +23,7 @@ export function DatePage() {
               onChange={year => {
                 navigate(`/${year}/calendar?${createSearchParams(searchParams)}`);
               }}
+              view="calendar"
             />
             {hasYearEvents && (
               <div className='downloadButtons'>
@@ -36,8 +37,6 @@ export function DatePage() {
                 </a>
               </div>
             )}
-
-            <ViewSelector selected={'calendar'}/>
 
             <CalendarGrid year={year} />
             <SelectedEvents date={date} month={month} />

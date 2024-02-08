@@ -1,6 +1,5 @@
 import Filters from "components/Filters/Filters";
 import MapView from "components/MapView/MapView";
-import ViewSelector from "components/ViewSelector/ViewSelector";
 import YearSelector from "components/YearSelector/YearSelector";
 import { createSearchParams, useNavigate, useParams, useSearchParams } from "react-router-dom";
 
@@ -19,9 +18,9 @@ export function MapPage() {
               onChange={year => {
                 navigate(`/${year}/map?${createSearchParams(searchParams)}`);
               }}
-            />
 
-            <ViewSelector selected={'map'}/>
+              view="map"
+            />
 
             <MapView year={year} />
         </div>
