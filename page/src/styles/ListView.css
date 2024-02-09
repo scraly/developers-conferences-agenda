@@ -106,3 +106,31 @@
     background-color: #eee;
     padding: 0.5rem;
 }
+
+@media screen and (max-width: 660px) {
+    .dcaContent { /* TODO: Make this available to anywhere, not just this page. */
+        width: 100%;
+    }
+
+    .event-list-entry > header {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .event-list-entry > header > .shortDate {
+        border: none;
+    }
+    
+    .event-list-entry > header > a {
+        text-align: left;
+    }
+
+    .event-banners {
+        justify-content: start;
+    }
+
+    .event-banners.hide {
+        display: none;
+    }
+    
+}
