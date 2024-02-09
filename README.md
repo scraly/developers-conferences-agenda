@@ -435,6 +435,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 ### October
 
 * 2: [IDM Europe](https://whitehallmedia.co.uk/future-events/) - Utrecht (Netherlands)
+* 2-4: [Devoxx Morocco](https://devoxx.ma/) - Marrakech (Morocco)
 * 3-4: [Nordic.JS](https://nordicjs.com/2024/) - Stockholm (Sweden)
 * 7-11: [Devoxx Belgium](https://devoxx.be) - Antwerp (Belgium)
 * 10: [Cloud Nord](https://www.cloudnord.fr/) - Lille (France)
