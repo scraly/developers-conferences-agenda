@@ -19,7 +19,6 @@
   border: 1px solid #ccc;
   border-radius: 3px;
   display: flex;
-  flex-direction: row;
 }
 
 .listView li span,
@@ -37,10 +36,12 @@
   /* background: white; */
 }
 
+
 .event-list-entry > header {
     display: flex;
     width: 100%;
     gap: 1rem;
+    cursor: pointer;
 }
 
 .event-list-entry > header > * {
@@ -79,6 +80,29 @@
     gap: 10px;
 }
 
+.event-banners.hide {
+    visibility: hidden;
+}
+
 .event-banners * {
     height: max-content;
+}
+
+.event-list-entry > .show {
+    display: flex;
+}
+
+.event-list-entry > article, .event-list-entry > footer {
+    display: none;
+}
+
+.event-list-entry > article {
+    border-top: 1px solid #ccc;
+    padding: 1rem;
+}
+
+.event-list-entry > footer {
+    border-top: 1px solid #ccc;
+    background-color: #eee;
+    padding: 0.5rem;
 }
