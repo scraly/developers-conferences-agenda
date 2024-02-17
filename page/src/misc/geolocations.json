@@ -639,6 +639,10 @@
     "latitude": 50.1106444,
     "longitude": 8.6820917
   },
+  "Gabrovo (Bulgaria)": {
+    "latitude": 42.9638895,
+    "longitude": 25.211953846464205
+  },
   "Gardanne (France)": {
     "latitude": 43.455613,
     "longitude": 5.4710661
@@ -931,6 +935,10 @@
     "latitude": 27.6587525,
     "longitude": 85.3247183
   },
+  "Larvik (Norway)": {
+    "latitude": 59.0967308,
+    "longitude": 10.021929959972812
+  },
   "Las Vegas (USA)": {
     "latitude": 36.1672559,
     "longitude": -115.148516
@@ -1070,6 +1078,10 @@
   "Marne-la-Vallée (France)": {
     "latitude": 48.8494036,
     "longitude": 2.6727019475243083
+  },
+  "Marrakech (Morocco)": {
+    "latitude": 31.6258257,
+    "longitude": -7.9891608
   },
   "Marseille (France)": {
     "latitude": 43.2961743,
@@ -1822,6 +1834,10 @@
   "Uchaux (France)": {
     "latitude": 44.2091055,
     "longitude": 4.80107
+  },
+  "Udaipur (India)": {
+    "latitude": 24.578721,
+    "longitude": 73.6862571
   },
   "Ukraine": {
     "latitude": 37.9382413,
