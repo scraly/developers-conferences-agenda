@@ -1,7 +1,6 @@
 .view-type-selector {
   position: absolute;
-  top: 20px;
-  right: 50px;
+  right: 1rem;
   padding: 0px;
   border: 1px solid #ccc;
   border-radius: 3px;
