@@ -89,6 +89,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4-7: [PyCon Namibia](https://na.pycon.org/) - Windhoek (Namibia)
 * 6-7: [FlowCon 2024](https://my.weezevent.com/flowcon-2024) - Paris (France)
 * 6-7: [Scan Agile](https://www.scan-agile.org/) - Helsinki (Finland) <a href="https://sessionize.com/scanagile24/"><img alt="CFP ScanAgile24" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2023&color=red"></a>
+* 7: [DevCon #21 : 100% IA](https://www.programmez.com/page-devcon/devcon-21-100-ia) - Paris (France)
 * 7-8: [Code BEAM America](https://codebeamamerica.com/) - San Francisco (USA) <a href="https://sessionize.com/code-beam-america-2024/"><img alt="CFP Code BEAM America 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-October-2023&color=red"></a>
 * 07-08: [DKNOG](https://events.dknog.dk/event/25/) - Copenhagen (Denmark) <a href="https://events.dknog.dk/event/25/abstracts/"><img alt="CFP DKNOG" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jan-2024&color=red"></a>
 * 7-8: [Open Source Day 2024](https://2024.osday.dev/) - Florence (Italy) <a href="https://sessionize.com/opensourceday24"><img alt="CFP Open Source Day 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=red"></a>
