@@ -486,6 +486,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 
 ### December
 
+* 03-04: [Frontend Barcelona 2024](https://frontend.barcelona/?utm_source=developers-conference-agenda&utm_medium=link&utm_campaign=frontend-barcelona-2024&utm_id=frontend-barcelona-2024) - Barcelona (Spain) <a href="https://frontend.barcelona/call-for-papers"><img alt="CFP Frontend Barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2024&color=green"></a>
 * 11: [You Got This Winter 2024](https://yougotthis.io/events/winter-2024) - Online
 * 14-15: [Euro STEM](https://eurostem.eu/) - Tallinn (Estonia) <a href="https://eurostem.eu/grants/"><img alt="Scholarship" src="https://img.shields.io/static/v1?label=Scholarship&message=until%2001-October-2024&color=yellow" /></a>
 
