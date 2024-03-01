@@ -446,6 +446,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 * 2-4: [Devoxx Morocco](https://devoxx.ma/) - Marrakech (Morocco)
 * 3-4: [Nordic.JS](https://nordicjs.com/2024/) - Stockholm (Sweden)
 * 7-11: [Devoxx Belgium](https://devoxx.be) - Antwerp (Belgium)
+* 8-9: [Agile Tour Quebec](https://agilequebec.ca/) - Quebec (Canada)
 * 10: [Cloud Nord](https://www.cloudnord.fr/) - Lille (France)
 * 10-11: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France)
 * 10-11: [Forum PHP](https://event.afup.org/) - Marne-la-Vallée (France)
@@ -473,6 +474,7 @@ Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.co
 * 01-11: [Java Day Istanbul 2024](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2024"><img alt="CFP Java Day Istanbul" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023&color=green"></a>
 * 05: [IDM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 6: [Master Dev De France](https://www.masterdevfrance.com/) - Paris (France)
+* 6-8: [Oredev](https://oredev.org/) - Malmo (Sweden)
 * 7: [DevDay](https://www.devday.be) - Mons (Belgium) <a href="https://sessionize.com/devday-2024/"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=until%203-September-2024&color=green"></a>
 * 11-14: [Web Summit](https://websummit.com/) - Lisbon (Portugal)
 * 12-15: [KubeCon + CloudNativeCon NA 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2024/) - Salt Lake City (USA)

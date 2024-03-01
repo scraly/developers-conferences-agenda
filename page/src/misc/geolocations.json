@@ -1115,6 +1115,10 @@
     "latitude": 25.7741728,
     "longitude": -80.19362
   },
+  "Miami, FL (USA)": {
+    "latitude": 25.7741728,
+    "longitude": -80.19362
+  },
   "Middlesbrough (UK)": {
     "latitude": 54.5760419,
     "longitude": -1.2344047
@@ -1710,6 +1714,10 @@
   "Stockholm (Sweden)": {
     "latitude": 59.3251172,
     "longitude": 18.0710935
+  },
+  "Strasbourg (FR)": {
+    "latitude": 48.584614,
+    "longitude": 7.7507127
   },
   "Strasbourg (France)": {
     "latitude": 48.584614,
