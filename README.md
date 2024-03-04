@@ -176,7 +176,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8: [Lyon Craft](https://lyon-craft.fr/) - Lyon (France)
 * 8-10: [QCon London](https://qconlondon.com/) - London (UK) <a href="https://forms.gle/eZzmJap4zqEfsXqx9"><img alt="Scholarship" src="https://img.shields.io/static/v1?label=Scholarship&message=until%2019-February-2024&color=yellow" /></a>
 * 08-11: [Powershell DevOps Global Summit](https://powershellsummit.org/) - Bellevue, WA (USA) <a href="https://sessionize.com/pshsummit24"><img alt="CFP Powershell DevOps Global" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Nov-2023&color=red"></a>
-* 8-11: [DevOpsCon London](https://devopscon.io/london/), London (UK)
+* 8-11: [DevOpsCon London](https://devopscon.io/london/) - London (UK)
 * 8-11: [API Conference London](https://apiconference.net/london/), London (UK)
 * 8-11: [International JavaScript Conference London](https://javascript-conference.com/london/), London (UK)
 * 8-11: [Serverless Architecture Conference London](https://serverless-architecture.io/london/), London (UK)
