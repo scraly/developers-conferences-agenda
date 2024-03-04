@@ -339,6 +339,10 @@
     "latitude": 30.0443879,
     "longitude": 31.2357257
   },
+  "Cakovec (Croatia)": {
+    "latitude": 46.3892305,
+    "longitude": 16.4368593
+  },
   "California (USA)": {
     "latitude": 36.7014631,
     "longitude": -118.755997
@@ -615,6 +619,10 @@
     "latitude": 50.1552197,
     "longitude": -5.0688262
   },
+  "Farnborough (UK)": {
+    "latitude": 51.2918693,
+    "longitude": -0.7539836
+  },
   "Faro (Portugal)": {
     "latitude": 37.0162727,
     "longitude": -7.9351771
@@ -766,6 +774,10 @@
   "Heredia (Costa Rica)": {
     "latitude": 10.376781300000001,
     "longitude": -84.01397213865732
+  },
+  "Hilversum (Netherlands)": {
+    "latitude": 52.2241375,
+    "longitude": 5.1719396
   },
   "Ho (Ghana)": {
     "latitude": 6.6126598,
@@ -1035,9 +1047,17 @@
     "latitude": 51.5073359,
     "longitude": -0.12765
   },
+  "London (United Kingdom)": {
+    "latitude": 51.4893335,
+    "longitude": -0.14405508452768728
+  },
   "Lone Tree, Colorado (USA)": {
     "latitude": 39.5364152,
     "longitude": -104.9041528
+  },
+  "Long Beach, CA (USA)": {
+    "latitude": 33.7690164,
+    "longitude": -118.191604
   },
   "Los Angeles (USA)": {
     "latitude": 34.0536909,
@@ -1546,6 +1566,10 @@
   "Recife (Brazil)": {
     "latitude": -8.0584933,
     "longitude": -34.8848193
+  },
+  "Redmond, WA (USA)": {
+    "latitude": 47.6694141,
+    "longitude": -122.1238767
   },
   "Rennes (France)": {
     "latitude": 48.1113387,
