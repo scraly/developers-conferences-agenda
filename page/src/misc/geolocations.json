@@ -251,6 +251,10 @@
     "latitude": 33.615491899999995,
     "longitude": -117.39528100998477
   },
+  "Boulder, CO (USA)": {
+    "latitude": 40.0149856,
+    "longitude": -105.2705456
+  },
   "Brabrand (Denmark)": {
     "latitude": 56.1565872,
     "longitude": 10.1056465
@@ -755,6 +759,10 @@
     "latitude": 60.1674881,
     "longitude": 24.9427473
   },
+  "Henderson, NV (USA)": {
+    "latitude": 36.0395247,
+    "longitude": -114.9817213
+  },
   "Heredia (Costa Rica)": {
     "latitude": 10.376781300000001,
     "longitude": -84.01397213865732
@@ -978,6 +986,10 @@
   "Lehi, UTAH (USA)": {
     "latitude": 40.3881114,
     "longitude": -111.8486019
+  },
+  "Lihue, HI (USA)": {
+    "latitude": 21.9742235,
+    "longitude": -159.3672769
   },
   "Lille & Lyon (France)": {
     "latitude": 45.6919466,
@@ -1399,6 +1411,10 @@
     "latitude": 48.8588897,
     "longitude": 2.3200410217200766
   },
+  "Park City, UT (USA)": {
+    "latitude": 40.6460622,
+    "longitude": -111.4979729
+  },
   "Pasadena (USA)": {
     "latitude": 34.1476507,
     "longitude": -118.1441551
@@ -1502,6 +1518,10 @@
   "Prizren (Kosovo)": {
     "latitude": 42.2130151,
     "longitude": 20.7363339
+  },
+  "Pune (India)": {
+    "latitude": 18.5204303,
+    "longitude": 73.8567437
   },
   "Quebec (Canada)": {
     "latitude": 52.4760892,
@@ -1630,6 +1650,10 @@
   "Sandusky, OH (USA)": {
     "latitude": 41.2951563,
     "longitude": -83.1555438
+  },
+  "Sandy, UT (USA)": {
+    "latitude": 40.5649781,
+    "longitude": -111.8389726
   },
   "Sanford, FL (USA)": {
     "latitude": 28.8028612,
