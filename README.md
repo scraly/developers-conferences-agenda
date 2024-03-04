@@ -23,7 +23,6 @@ All the data (past and coming) are available publicly in JSON:
 ## Gitpod integration
 
 
-
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/scraly/developers-conferences-agenda.git)
 
 ## Archives
