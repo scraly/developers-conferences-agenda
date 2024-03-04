@@ -663,6 +663,10 @@
     "latitude": 46.2017559,
     "longitude": 6.1466014
   },
+  "George Town (Cayman Islands)": {
+    "latitude": 19.2965778,
+    "longitude": -81.3819158
+  },
   "Germany": {
     "latitude": 34.895926,
     "longitude": -83.4665496
@@ -703,6 +707,10 @@
     "latitude": 49.6112768,
     "longitude": 6.129799
   },
+  "Greenville, SC (USA)": {
+    "latitude": 34.85261759999999,
+    "longitude": -82.3940104
+  },
   "Grenoble (France)": {
     "latitude": 45.1875602,
     "longitude": 5.7357819
@@ -722,6 +730,10 @@
   "Hamburg (Germany)": {
     "latitude": 53.550341,
     "longitude": 10.000654
+  },
+  "Hangzhou (China)": {
+    "latitude": 30.2741499,
+    "longitude": 120.15515
   },
   "Hannover (Germany)": {
     "latitude": 52.3744779,
@@ -1039,6 +1051,10 @@
     "latitude": 49.6112768,
     "longitude": 6.129799
   },
+  "Luzern (Switzerland)": {
+    "latitude": 47.05016819999999,
+    "longitude": 8.3093072
+  },
   "Lyon (France)": {
     "latitude": 45.7578137,
     "longitude": 4.8320114
@@ -1186,6 +1202,10 @@
   "Moscow (Russia)": {
     "latitude": 55.7505412,
     "longitude": 37.6174782
+  },
+  "Mount Pocono, PA (USA)": {
+    "latitude": 41.1220337,
+    "longitude": -75.3646282
   },
   "Mountain View (USA)": {
     "latitude": 37.3893889,
@@ -2006,6 +2026,10 @@
   "Zürich (Switzerland)": {
     "latitude": 47.3744489,
     "longitude": 8.5410422
+  },
+  "dź (Poland)": {
+    "latitude": 51.919438,
+    "longitude": 19.145136
   },
   "ibenik (Croatia)": {
     "latitude": 43.7350196,
