@@ -71,9 +71,17 @@
     "latitude": 51.2211097,
     "longitude": 4.3997081
   },
+  "Aracaju (Brazil)": {
+    "latitude": -10.9266526,
+    "longitude": -37.0729014
+  },
   "Arapiraca (Brazil)": {
     "latitude": -9.754866,
     "longitude": -36.661471
+  },
+  "Asheville, NC (USA)": {
+    "latitude": 35.5950581,
+    "longitude": -82.5514869
   },
   "Athens (Greece)": {
     "latitude": 37.9755648,
@@ -391,6 +399,10 @@
     "latitude": 35.0457219,
     "longitude": -85.3094883
   },
+  "Chattanooga, TN (USA)": {
+    "latitude": 35.0457984,
+    "longitude": -85.3093995
+  },
   "Chemnitz (Germany)": {
     "latitude": 50.8323531,
     "longitude": 12.918914
@@ -610,6 +622,10 @@
   "Essaouira (Morocco)": {
     "latitude": 31.5118281,
     "longitude": -9.7620903
+  },
+  "Exeter (UK)": {
+    "latitude": 50.72603669999999,
+    "longitude": -3.5274889
   },
   "Faenza (Italy)": {
     "latitude": 44.2855555,
@@ -1091,6 +1107,10 @@
     "latitude": 47.05016819999999,
     "longitude": 8.3093072
   },
+  "Lviv (Ukraine)": {
+    "latitude": 49.839683,
+    "longitude": 24.029717
+  },
   "Lyon (France)": {
     "latitude": 45.7578137,
     "longitude": 4.8320114
@@ -1118,6 +1138,14 @@
   "Malmo (Sweden)": {
     "latitude": 55.6052931,
     "longitude": 13.0001566
+  },
+  "Malmö (Sweden)": {
+    "latitude": 55.604981,
+    "longitude": 13.003822
+  },
+  "Manchester (UK)": {
+    "latitude": 53.4807593,
+    "longitude": -2.2426305
   },
   "Mannheim (Germany)": {
     "latitude": 49.4892913,
@@ -1706,6 +1734,14 @@
   "Santo Domingo (Dominican Republic)": {
     "latitude": 18.4801972,
     "longitude": -69.942111
+  },
+  "Sarajevo (Bosnia and Herzegovina)": {
+    "latitude": 43.8562586,
+    "longitude": 18.4130763
+  },
+  "Sau Paulo (Brazil)": {
+    "latitude": -23.5557714,
+    "longitude": -46.6395571
   },
   "Seattle (USA)": {
     "latitude": 47.6038321,
