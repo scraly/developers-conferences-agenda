@@ -334,6 +334,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11-12: [OW2con](https://www.ow2con.org/view/2024/) - Paris (France) <a href="https://pretalx.com/ow2con-2024/cfp"><img alt="CFP OW2con'24 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-February-2024&color=green"></a>
 * 11-12: [StaffPlus London](https://leaddev.com/staffplus-london) - London (UK) <a href="https://leaddev.submittable.com/submit/283040/talk-submissions-for-staffplus-london-2024"><img alt="CFP StaffPlus London" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-February-2024&color=red"></a>
 * 11-12: [LeadDev London](https://leaddev.com/leaddev-london) - London (UK) <a href="https://leaddev.submittable.com/submit/283041/talk-submissions-for-leaddev-london-2024"><img alt="CFP LeadDev London" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-February-2024&color=red"></a>
+* 11-12: [PGDay Lille](https://pgday.fr/) - Lille (FR) 
 * 12: [You Got This Summer 2024](https://yougotthis.io/events/summer-2024) - Online
 * 12-14: [RenderATL](https://www.renderatl.com/) - Atlanta, GA (USA)
 * 12-14: [Rencontres R](https://rr2024.sciencesconf.org/) - Vannes (France)
