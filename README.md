@@ -521,6 +521,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17-18: [Rubyfuza](https://dev.events/conferences/rubyfuza-cape-town-9-2024) - Cape Town (South Africa)
 * 17-18: [Rubyfuza & friends 2024](https://www.rubyfuza.org/) - Cape Town (South Africa) <a href="https://www.papercall.io/rubyfuza-2024"><img alt="CFP Rubyfuza & friends 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-August-2024&color=green"></a>
 * 17-18: [DevOpsDays Salt Lake City](https://devopsdays.org/events/2024-salt-lake-city) - Salt Lake City, UT (USA)
+* 17-19: [PyCon Portugal](https://2024.pycon.pt/) - Braga (Portugal) <a href="https://pretalx.evolutio.pt/pycon-portugal-2024/cfp"><img alt="CFP PyCon Portugal 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-April-2024&color=green"></a>
 * 21-23: [NANOG 92](https://nanog.org/events/nanog-92/) - Toronto (Canada)
 * 21-23: [Hands On Testing 2024 (Virtual)](https://handsontesting.com/) - Online <a href="https://sessionize.com/hands-on-testing-2024"><img alt="CFP Hands On Testing 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2024&color=green"></a>
 * 22-23: [KCD UK](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-london-2024/) - London (UK)
