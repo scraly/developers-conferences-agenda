@@ -143,6 +143,10 @@
     "latitude": 39.2908816,
     "longitude": -76.610759
   },
+  "Bamenda (Cameroon)": {
+    "latitude": 5.9630513,
+    "longitude": 10.1591213
+  },
   "Bandung (Indonesia)": {
     "latitude": -6.9215529,
     "longitude": 107.6110212
@@ -286,6 +290,10 @@
   "Brabrand (Denmark)": {
     "latitude": 56.1565872,
     "longitude": 10.1056465
+  },
+  "Braga (Portugal)": {
+    "latitude": 41.5454486,
+    "longitude": -8.426506999999999
   },
   "Bratislava (Slovakia)": {
     "latitude": 48.1516988,
@@ -1103,10 +1111,6 @@
     "latitude": 51.5073359,
     "longitude": -0.12765
   },
-  "London (United Kingdom)": {
-    "latitude": 51.4893335,
-    "longitude": -0.14405508452768728
-  },
   "Lone Tree, Colorado (USA)": {
     "latitude": 39.5364152,
     "longitude": -104.9041528
@@ -1611,13 +1615,13 @@
     "latitude": 18.5204303,
     "longitude": 73.8567437
   },
-  "Quebec (Canada)": {
-    "latitude": 52.4760892,
-    "longitude": -71.8258668
-  },
   "Quebec City (Canada)": {
     "latitude": 46.8137431,
     "longitude": -71.2084061
+  },
+  "Quebec, QC (Canada)": {
+    "latitude": 46.8130816,
+    "longitude": -71.20745959999999
   },
   "Québec (Canada)": {
     "latitude": 52.4760892,
@@ -1883,10 +1887,6 @@
     "latitude": -33.8698439,
     "longitude": 151.2082848
   },
-  "Sydney (Australia))": {
-    "latitude": -33.8698439,
-    "longitude": 151.2082848
-  },
   "São Luís (Brazil)": {
     "latitude": -2.5295265,
     "longitude": -44.2963942
@@ -2010,10 +2010,6 @@
   "Utrecht (Netherlands)": {
     "latitude": 52.080985600000005,
     "longitude": 5.12768396945229
-  },
-  "Utrecht (The Netherlands)": {
-    "latitude": 52.0907006,
-    "longitude": 5.1215634
   },
   "Uyo (Nigeria)": {
     "latitude": 4.9902370000000005,
