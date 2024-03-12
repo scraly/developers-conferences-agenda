@@ -65,6 +65,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13: [ECS UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 13: [You Got This Spring 2024](https://yougotthis.io/events/spring-2024) - Online
 * 13: [Microsoft AI Tour](https://www.microsoft.com/en-us/msaITour/paristour) - Paris (France)
+* 13: [Inclusive AI & Skills Conference](https://inclusiveai.eu/) - Brussels (Belgium)
 * 14: [The DevOps Conference](https://www.thedevopsconference.com/) - London (UK)
 * 14-15: [pgDayParis](https://2024.pgday.paris/) - Paris (France)
 * 14-15: [WASM IO](https://2024.wasmio.tech/) - Barcelona (Spain) <a href="https://www.papercall.io/wasmio24"><img alt="CFP WASM IO" src="https://img.shields.io/static/v1?label=CFP&message=until%201-January-2024&color=red"></a> <a href="https://2024.wasmio.tech/diversity/"><img alt="Scholarship" src="https://img.shields.io/static/v1?label=Scholarship&message=until%2008-February-2024&color=yellow" /></a>
