@@ -15,110 +15,23 @@ import SelectedEvents from 'components/SelectedEvents/SelectedEvents';
 import 'misc/fonts/inter/inter.css';
 import 'styles/App.css';
 
+import { Index } from 'routes';
+import { Year } from 'routes/year';
+import { DatePage } from 'routes/datepage';
+import { MapPage } from 'routes/mappage';
+import { ListPage } from 'routes/listpage';
+
 const App = () => {
   return (
     <Router>
       <h1 className="dcaTitle">Developer Conferences Agenda</h1>
       <Routes path="/">
-        <Route path="" Component={() => {
-            const navigate = useNavigate();
-            useEffect(() => {
-                return navigate('/' + new Date().getFullYear());
-            }, []);
-        }} />
-        <Route path=":year" Component={() => {
-            const {year} = useParams();
-            const navigate = useNavigate();
-            useEffect(() => {
-                return navigate('/' + year + '/calendar');
-            }, [year]);
-        }} />
-        <Route path=":year/calendar/:month?/:date?" Component={() => {
-            const {year, month, date} = useParams();
-            const navigate = useNavigate();
-            const [searchParams] = useSearchParams();
-            const hasYearEvents = useHasYearEvents(year);
+        <Route path="" Component={Index} />
+        <Route path=":year" Component={Year} />
 
-            return (
-                <div className="dcaGrid">
-                  <Filters/>
-                  <div className="dcaContent">
-                    <YearSelector
-                      isMap={false}
-                      year={parseInt(year, 10)}
-                      onChange={year => {
-                        navigate(`/${year}/calendar?${createSearchParams(searchParams)}`);
-                      }}
-                    />
-                    {hasYearEvents && (
-                      <div className='downloadButtons'>
-                        <a href={'/developer-conference-' + year + '.ics'} title={'Download ' + year + ' Calendar'} className="downloadButton">
-                          <CalendarDays />
-                          {year} Calendar
-                        </a>
-                        <a href={'/developer-conference-opened-cfps.ics'} title="Download Opened CFP Calendar" className="downloadButton">
-                          <CalendarClock />
-                          Opened CFP Calendar
-                        </a>
-                      </div>
-                    )}
-
-                    <ViewSelector selected={'calendar'}/>
-
-                    <CalendarGrid year={year} />
-                    <SelectedEvents date={date} month={month} />
-                </div>
-              </div>
-            );
-        }} />
-        <Route path="/:year/map" Component={() => {
-            const {year} = useParams();
-            const navigate = useNavigate();
-            const [searchParams] = useSearchParams();
-
-            return (
-                <div className="dcaGrid">
-                  <Filters/>
-                  <div className="dcaContent">
-                    <YearSelector
-                      isMap={true}
-                      year={parseInt(year, 10)}
-                      onChange={year => {
-                        navigate(`/${year}/map?${createSearchParams(searchParams)}`);
-                      }}
-                    />
-
-                    <ViewSelector selected={'map'}/>
-
-                    <MapView year={year} />
-                </div>
-              </div>
-            );
-        }} />
-        <Route path="/:year/list" Component={() => {
-            const {year} = useParams();
-            const navigate = useNavigate();
-            const [searchParams] = useSearchParams();
-
-            return (
-                <div className="dcaGrid">
-                  <Filters/>
-                  <div className="dcaContent">
-                    <YearSelector
-                      isMap={false}
-                      year={parseInt(year, 10)}
-                      onChange={year => {
-                        navigate(`/${year}/list?${createSearchParams(searchParams)}`);
-                      }}
-                    />
-
-                    <ViewSelector selected={'list'}/>
-
-                    <ListView year={year} />
-                </div>
-              </div>
-            );
-        }} />
+        <Route path=":year/calendar/:month?/:date?" Component={DatePage} />
+        <Route path="/:year/map" Component={MapPage} />
+        <Route path="/:year/list" Component={ListPage} />
       </Routes>
     </Router>
   );
