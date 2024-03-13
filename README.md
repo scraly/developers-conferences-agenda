@@ -561,6 +561,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France)
 * 8: [angularday 2024](https://2024.angularday.it) - Verona (Italy) <a href="https://sessionize.com/angularday-2024/"><img alt="CFP angularday 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-June-2024&color=green"></a>
 * 8: [BDX I/O](https://bdxio.fr/) - Bordeaux (France)
+* 11-13: [GoLab](https://golab.io/) - Firenze (Italy)
 * 11-14: [Web Summit](https://websummit.com/) - Lisbon (Portugal)
 * 12-15: [KubeCon + CloudNativeCon NA 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2024/) - Salt Lake City (USA)
 * 13: [Product Management Day 2024](https://www.productmanagementday.com/) - Bologna (Italy) <a href="https://sessionize.com/product-management-day-2024/"><img alt="CFP Product Management Day 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-May-2024&color=green"></a>
