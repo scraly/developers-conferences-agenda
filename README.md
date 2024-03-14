@@ -503,6 +503,7 @@ All the data (past and coming) are available publicly in JSON:
 * 26-27: [Rails World 2024](https://rubyonrails.org/world) - Toronto (Canada)
 * 26-27: [Less Conference Madrid](https://less.works/conferenza/conferences/2024-less-conference-madrid-10) - Madrid (Spain) <a href="https://less.works/conferenza/conferences/2024-less-conference-madrid-10/submission"><img alt="CFP Less Conference Madrid" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
 * 26-27: [ServerSide.swift 2024 ](https://www.serversideswift.info) - London (UK) <a href="https://www.papercall.io/server-side-swift-2024"><img alt="CFP ServerSide.swift 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
+* 26-27: [InfoQ Dev Summit Munich](https://devsummit.infoq.com/munich_medialisting2024) - Munich (Germany)
 * 27: [AWS Community Day Italy 2024](https://www.awscommunityday.it) - Rome (Italy) <a href="https://sessionize.com/aws-community-day-italy-2024/"><img alt="CFP AWS Community Day Italy 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
 * 28: [RomHack](https://romhack.io/) - Rome (Italy) <a href="https://romhack.io/call-for-papers/"><img alt="CFP RomHack 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
 * 28: [DevOpsDays Belo Horizonte](https://devopsdays.org/events/2024-belo-horizonte) - Belo Horizonte, MG (Brazil)
