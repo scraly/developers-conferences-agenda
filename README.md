@@ -288,6 +288,7 @@ All the data (past and coming) are available publicly in JSON:
 * 23: [GOVSEC UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 23: [DevOpsDays Medellin 2024](http://devopsdays.io) - Medellin (Colombia) <a href="https://www.papercall.io/dodmded2024"><img alt="CFP DevOpsDays Medellin 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-April-2024&color=green"></a>
 * 23: [ServerlessDays Belfast 2024](https://serverlessdaysbelfast.com/) - Belfast (UK) <a href="https://sessionize.com/serverlessdays-belfast-2024"><img alt="CFP ServerlessDays Belfast 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
+* 23: [Vercel Ship 2024](https://vercel.com/ship) - New York (USA) <a href="https://ship-cfp-2024.vercel.app/"><img alt="CFP Vercel Ship 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-April-2024&color=green"></a>
 * 23-24: [DevOps Pro Europe 2024](https://devopspro.lt/) - Vilnius (Lithuania)
 * 23-24: [JSHeroes 2024](https://jsheroes.io/) - Cluj-Napoca (Romania) <a href="https://sessionize.com/jsheroes-2024/"><img alt="CFP JSHeroes 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2023&color=red"></a>
 * 24: [ServerlessDays ANZ 2024, Auckland](https://anz.serverlessdays.io/) - Auckland (New Zealand) <a href="https://sessionize.com/serverlessdays-anz-2024-auckland/"><img alt="CFP ServerlessDays ANZ 2024, Auckland" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
