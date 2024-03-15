@@ -547,6 +547,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-29: [All Things Open](https://2023.allthingsopen.org/ato-2024-save-the-date/) - Raleigh (USA)
 * 28-30: [VOICE & AI](https://www.voiceand.ai/) - Arlington, VA (USA) <a href="https://sessionize.com/gnrt-ai-2024/"><img alt="CFP VOICE & AI / GovAI Summit 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
 * 28-30: [GovAI Summit 2024](https://www.govaisummit.com/) - Arlington, VA (USA) <a href="https://sessionize.com/gnrt-ai-2024/"><img alt="CFP VOICE & AI / GovAI Summit 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
+* 29-30: [GitHub Universe 2024](https://githubuniverse.com/#next) - San Francisco, CA (USA)
 * 29-31: [MWC Kigali](https://www.mwckigali.com/) - Kigali (Rwanda)
 * 29-31: [Security BSides Cayman Islands 2024](https://www.bsides.ky) - George Town (Cayman Islands) <a href="https://sessionize.com/security-bsides-cayman-islands-2024"><img alt="CFP Security BSides Cayman Islands 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-May-2024&color=green"></a>
 * 30-31: [DevOpsDays Tel Aviv](https://devopsdays.org/events/2024-tel-aviv/welcome/) - Tel Aviv (Israel)
