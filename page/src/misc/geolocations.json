@@ -255,6 +255,10 @@
     "latitude": 51.4818111,
     "longitude": 7.2196635
   },
+  "Bogotá (Colombia)": {
+    "latitude": 4.710988599999999,
+    "longitude": -74.072092
+  },
   "Boise (USA)": {
     "latitude": 43.6166163,
     "longitude": -116.200886
@@ -915,6 +919,10 @@
     "latitude": 41.0082376,
     "longitude": 28.9783589
   },
+  "Jacksonville, FL (USA)": {
+    "latitude": 30.3321838,
+    "longitude": -81.65565099999999
+  },
   "Jakarta (Indonesia)": {
     "latitude": -6.175247,
     "longitude": 106.8270488
@@ -1070,10 +1078,6 @@
   "Lille & Lyon (France)": {
     "latitude": 45.6919466,
     "longitude": 4.5946695
-  },
-  "Lille (FR)": {
-    "latitude": 50.6365654,
-    "longitude": 3.0635282
   },
   "Lille (France)": {
     "latitude": 50.6365654,
@@ -1362,10 +1366,6 @@
   "Nancy (France)": {
     "latitude": 48.6937223,
     "longitude": 6.1834097
-  },
-  "Nantes (FR)": {
-    "latitude": 47.218371,
-    "longitude": -1.553621
   },
   "Nantes (France)": {
     "latitude": 47.2186371,
@@ -1870,10 +1870,6 @@
   "Stockholm (Sweden)": {
     "latitude": 59.3251172,
     "longitude": 18.0710935
-  },
-  "Strasbourg (FR)": {
-    "latitude": 48.584614,
-    "longitude": 7.7507127
   },
   "Strasbourg (France)": {
     "latitude": 48.584614,
