@@ -567,6 +567,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21-23: [Hands On Testing 2024 (Virtual)](https://handsontesting.com/) - Online <a href="https://sessionize.com/hands-on-testing-2024"><img alt="CFP Hands On Testing 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2024&color=green"></a>
 * 22-23: [KCD UK](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-london-2024/) - London (UK)
 * 22-23: [SOSS Fusion](https://events.linuxfoundation.org/soss-fusion/) - Alpharetta, GA (USA) <a href="https://sessionize.com/sossfusion2024"><img alt="CFP SOSS Fusion 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-July-2024&color=green"></a>
+* 22-23: [JDD](https://jdd.org.pl) - Krakow (Poland) <a href="https://jdd.org.pl/cfp-2024/"><img alt="CFP JDD" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
 * 22-25: [PGConf.EU 2024](https://2024.pgconf.eu/) - Athens (Greece)
 * 24: [Hands On Testing 2024 (In person)](https://handsontesting.com/) - Mexico City (Mexico) <a href="https://sessionize.com/hands-on-testing-2024"><img alt="CFP Hands On Testing 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2024&color=green"></a>
 * 25: [reactjsday 2024](https://2024.reactjsday.it) - Verona (Italy) <a href="https://sessionize.com/reactjsday-2024/"><img alt="CFP reactjsday 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-June-2024&color=green"></a>
@@ -606,6 +607,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19-21: [Open Source Monitoring Conference](https://osmc.de/) - Nuremberg (Germany) <a href="https://osmc.de/call-for-papers/"><img alt="CFP Open Source Monitoring Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2024&color=green"></a>
 * 21: [Conf42 Prompt Engineering 2024](https://www.conf42.com/prompt2024) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2024"><img alt="CFP Conf42 Prompt Engineering 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-October-2024&color=green"></a>
 * 22-23: [Open Conf - 2024](https://www.open-conf.gr/) - Athens (Greece) <a href="https://sessionize.com/open-conf-2024"><img alt="CFP Open Conf - 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-March-2024&color=green"></a>
+* 26: [Oh My H@ck](https://omhconf.pl/) - Wrocław (Poland) <a href="https://omhconf.pl/cfp-2024/"><img alt="CFP Oh My H@ck" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-September-2024&color=green"></a>
 * 28: [ESRM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 28: [SREday 2024](https://www.sreday.com) - Amsterdam (Netherlands) <a href="https://www.papercall.io/sreday-2024-amsterdam"><img alt="CFP SREday 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-August-2024&color=green"></a>
 
