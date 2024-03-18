@@ -529,7 +529,6 @@ All the data (past and coming) are available publicly in JSON:
 * 28: [DevOpsDays Belo Horizonte](https://devopsdays.org/events/2024-belo-horizonte) - Belo Horizonte, MG (Brazil)
 * 30-03/10: [Dev2Next](https://www.dev2next.com/) - Lone Tree, Colorado (USA) <a href="https://www.dev2next.com/cfp"><img alt="CFP Dev2Next" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2024&color=green"></a>
 
-
 ### October
 
 * 2: [IDM Europe](https://whitehallmedia.co.uk/future-events/) - Utrecht (Netherlands)
