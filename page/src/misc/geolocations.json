@@ -39,9 +39,9 @@
     "latitude": 38.3459963,
     "longitude": -0.4906855
   },
-  "Alpharetta (USA)": {
-    "latitude": 34.0709576,
-    "longitude": -84.2747329
+  "Alpharetta, GA (USA)": {
+    "latitude": 34.0753762,
+    "longitude": -84.2940899
   },
   "Amboise (France)": {
     "latitude": 47.4110351,
@@ -1638,6 +1638,10 @@
   "Raleigh, NC (USA)": {
     "latitude": 35.7803977,
     "longitude": -78.6390989
+  },
+  "Rapperswil (Switzerland)": {
+    "latitude": 47.2266239,
+    "longitude": 8.818437399999999
   },
   "Recife (Brazil)": {
     "latitude": -8.0584933,
