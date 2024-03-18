@@ -547,20 +547,19 @@ All the data (past and coming) are available publicly in JSON:
 * 10-11: [Forum PHP](https://event.afup.org/) - Marne-la-Vallée (France)
 * 10-11: [Zebu Live 2024](https://zebulive.xyz) - London (UK) <a href="https://sessionize.com/zebu-live-2024"><img alt="CFP Zebu Live 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
 * 10-11: [EuroRust 2024](https://eurorust.eu) - Vienna (Austria) & Online <a href="https://www.papercall.io/eurorust-2024"><img alt="CFP EuroRust 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-June-2024&color=green"></a>
-* 10-11: [DevOpsDays Des Moines](https://devopsdays.org/events/2024-des-moines) - Des Moines, IA (USA)
+* 10-11: [Devops Days + Agile Des Moines 2024](https://devopsdays.org/des-moines) - Des Moines, IA (USA) <a href="https://sessionize.com/devops-days-agile-des-moines-2024/"><img alt="CFP Devops Days + Agile Des Moines 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2024&color=green"></a>
 * 13-16: [JavaCro'24](https://2024.javacro.hr/eng) - Rovinj (Croatia) <a href="https://sessionize.com/javacro24"><img alt="CFP JavaCro'24" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
 * 14-18: [NDC Porto 2024](https://ndcporto.com/) - Porto (Portugal) <a href="https://sessionize.com/ndc-porto-2024/"><img alt="CFP NDC Porto 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2024&color=green"></a>
 * 14-16: [Global Software Architecture Summit 2024](https://gsas.io) - Barcelona (Spain)
 * 15: [CYBERGOV](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 16: [DotPy](https://www.dotpy.io/) - Paris (France) <a href="https://www.dotpy.io/cfp"><img alt="CFP DotPy 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2024&color=green"></a>
 * 16-17: [API Days Australia](https://www.apidays.global/singapore/) - Melbourne (Australia) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Australia" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-September-2024&color=green"></a>
-* 16-17: [Camunda Con New York](https://www.camundacon.com/na/) - New York (USA) & Online
+* 16-17: [Camunda Con New York](https://www.camundacon.com/na/) - New York (USA) & Online <a href="https://www.camundacon.com/na/call-for-presentations/"><img alt="CFP Camunda Con New York" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-May-2024&color=green"></a>
 * 16-17: [BaselOne 2024](https://baselone.ch) - Basel (Switzerland) <a href="https://sessionize.com/baselone-2024"><img alt="CFP BaselOne 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2024&color=green"></a>
 * 16-18: [DevConf 2024](https://devconf.pl) - Łódź (Poland) <a href="https://sessionize.com/devconfpl-2024"><img alt="CFP DevConf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-May-2024&color=green"></a>
 * 17: [Conf42 Incident Management 2024](https://www.conf42.com/im2024) - Online <a href="https://www.papercall.io/conf42-incident-management-2024"><img alt="CFP Conf42 Incident Management" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Sep-2024&color=green"></a>
 * 17-18: [DevFest Nantes](https://devfest.gdgnantes.com/en/) - Nantes (France)
 * 17-18: [DotAI](https://www.dotai.io/) - Paris (France) <a href="https://www.dotai.io/cfp"><img alt="CFP DotAI 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2024&color=green"></a>
-* 17-18: [Rubyfuza](https://dev.events/conferences/rubyfuza-cape-town-9-2024) - Cape Town (South Africa)
 * 17-18: [Rubyfuza & friends 2024](https://www.rubyfuza.org/) - Cape Town (South Africa) <a href="https://www.papercall.io/rubyfuza-2024"><img alt="CFP Rubyfuza & friends 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-August-2024&color=green"></a>
 * 17-18: [DevOpsDays Salt Lake City](https://devopsdays.org/events/2024-salt-lake-city) - Salt Lake City, UT (USA)
 * 17-19: [PyCon Portugal](https://2024.pycon.pt/) - Braga (Portugal) <a href="https://pretalx.evolutio.pt/pycon-portugal-2024/cfp"><img alt="CFP PyCon Portugal 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-April-2024&color=green"></a>
