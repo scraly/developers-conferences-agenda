@@ -480,6 +480,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5-6: [OWASP New Zealand Day](https://appsec.org.nz/conference) - Auckland (New Zealand) <a href="https://www.papercall.io/owaspnz2024"><img alt="CFP OWASP New Zealand Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 6: [JUG Summer Camp](https://www.jugsummercamp.org) - La Rochelle (France)
 * 6-8: [Blue Team Con](https://blueteamcon.com/) - Chicago (USA) <a href="https://blueteamcon.com/blue-team-con-2024-call-for-papers/"><img alt="CFP Blue Team Con" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-March-2024&color=green"></a>
+* 9-11: [PGIBZ 2024](https://pgibz.io) - Ibiza (Spain)
 * 9-12: [NDC TechTown 2024](https://ndctechtown.com) - Kongsberg (Norway) <a href="https://sessionize.com/ndc-techtown-2024"><img alt="CFP NDC TechTown 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2024&color=green"></a>
 * 10-13: [RustConf 2024](http://rustconf.com) - Montréal (Canada) <a href="https://sessionize.com/rustconf-2024"><img alt="CFP RustConf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-April-2024&color=green"></a>
 * 11-12: [DevOpsDays Vilnius](https://devopsdays.org/events/2024-vilnius) - Vilnius (Lithuania)
