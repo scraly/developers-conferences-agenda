@@ -428,8 +428,8 @@ All the data (past and coming) are available publicly in JSON:
 
 * 1-2: [KCD Munich](https://www.kcdmunich.com/) - Munich (Germany) <a href="https://sessionize.com/kcd-munich-2024-cfp/"><img alt="CFP KCD Munich 24" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
 * 1-5: [Developer Week '24](https://www.developer-week.de) - Nuremberg (Germany) <a href="https://sessionize.com/developer-week-24/"><img alt="CFP Developer Week '24" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2024&color=red"></a>
-* 3-5: [Fluttercon Berlin](https://fluttercon.dev/) - Berlin (Germany)
-* 3-5: [DroidCon Berlin](https://berlin.droidcon.com/) - Berlin (Germany)
+* 3-5: [Fluttercon Berlin](https://fluttercon.dev/) - Berlin (Germany) <a href="https://sessionize.com/flutterconeurope-2024/"><img alt="CFP Fluttercon Europe 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-May-2024&color=green"></a>
+* 3-5: [DroidCon Berlin](https://berlin.droidcon.com/) - Berlin (Germany) <a href="https://sessionize.com/droidcon-berlin-2024"><img alt="CFP droidcon Berlin 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-May-2024&color=green"></a>
 * 4-5: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/32IQQ5wYijdJdXrqtYsx/"><img alt="CFP Sunny Tech 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-February-2024&color=green"></a>
 * 4-5: [Agile On The Beach 2024](https://www.agileonthebeach.com) - Falmouth (UK) <a href="https://sessionize.com/agile-on-the-beach-2024"><img alt="CFP Agile On The Beach 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2023&color=red"></a>
 * 4-5: [React Nexus](https://reactnexus.com) - Bangalore (India) <a href="https://forms.gle/zNFgFV9G9TtwiqU89"><img alt="CFP React Nexus" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2024&color=green"></a>
