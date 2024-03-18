@@ -39,9 +39,9 @@
     "latitude": 38.3459963,
     "longitude": -0.4906855
   },
-  "Alpharetta (USA)": {
-    "latitude": 34.0709576,
-    "longitude": -84.2747329
+  "Alpharetta, GA (USA)": {
+    "latitude": 34.0753762,
+    "longitude": -84.2940899
   },
   "Amboise (France)": {
     "latitude": 47.4110351,
@@ -875,6 +875,10 @@
     "latitude": 47.1615416,
     "longitude": 27.5837224
   },
+  "Ibiza (Spain)": {
+    "latitude": 39.0200099,
+    "longitude": 1.4821482
+  },
   "Iceland": {
     "latitude": 64.9841821,
     "longitude": -18.1059013
@@ -1639,6 +1643,10 @@
     "latitude": 35.7803977,
     "longitude": -78.6390989
   },
+  "Rapperswil (Switzerland)": {
+    "latitude": 47.2266239,
+    "longitude": 8.818437399999999
+  },
   "Recife (Brazil)": {
     "latitude": -8.0584933,
     "longitude": -34.8848193
@@ -1898,6 +1906,10 @@
   "São Paulo, SP (Brazil)": {
     "latitude": -23.682794700000002,
     "longitude": -46.716998204286014
+  },
+  "Taipei (Taiwan)": {
+    "latitude": 25.0329694,
+    "longitude": 121.5654177
   },
   "Taipei City (Taiwan)": {
     "latitude": 25.061706,
