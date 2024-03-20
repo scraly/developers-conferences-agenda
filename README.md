@@ -571,7 +571,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17-19: [PyCon Portugal](https://2024.pycon.pt/) - Braga (Portugal) <a href="https://pretalx.evolutio.pt/pycon-portugal-2024/cfp"><img alt="CFP PyCon Portugal 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-April-2024&color=green"></a>
 * 21-23: [NANOG 92](https://nanog.org/events/nanog-92/) - Toronto (Canada)
 * 21-23: [Hands On Testing 2024 (Virtual)](https://handsontesting.com/) - Online <a href="https://sessionize.com/hands-on-testing-2024"><img alt="CFP Hands On Testing 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2024&color=green"></a>
-* 22-23: [KCD UK](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-london-2024/) - London (UK)
+* 22-23: [KCD UK](https://kcduk.io/) - London (UK) <a href="https://sessionize.com/kcd-uk-london-2024"><img alt="CFP KCD UK" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-June-2024&color=green"></a>
 * 22-23: [SOSS Fusion](https://events.linuxfoundation.org/soss-fusion/) - Alpharetta, GA (USA) <a href="https://sessionize.com/sossfusion2024"><img alt="CFP SOSS Fusion 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-July-2024&color=green"></a>
 * 22-23: [JDD](https://jdd.org.pl) - Krakow (Poland) <a href="https://jdd.org.pl/cfp-2024/"><img alt="CFP JDD" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
 * 22-25: [PGConf.EU 2024](https://2024.pgconf.eu/) - Athens (Greece)
