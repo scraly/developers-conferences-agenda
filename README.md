@@ -132,7 +132,7 @@ All the data (past and coming) are available publicly in JSON:
 ### April
 
 * 2-6: [Pycon LT](https://pycon.lt/2024) - Vilnius (Lithuania) <a href="https://pretalx.com/pycon-lithuania-2024/cfp"><img alt="CFP Pycon LT" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2024&color=red"></a>
-* 3: [AWS Summit Paris] (https://aws.amazon.com/fr/events/summits/emea/paris/agenda) - Paris (France)
+* 3: [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/emea/paris/agenda) - Paris (France)
 * 4: [BSides Prague 2024](https://www.bsidesprg.cz) - Prague (Czech Republic) <a href="https://www.papercall.io/bsidesprg2024"><img alt="CFP Security BSides Prague 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-February-2024&color=green"></a>
 * 4: [SoCraTes Rennes 2024](https://socrates-rennes.github.io/) - Rennes (France)
 * 4-6: [Toulouse Hacking Convention](https://thcon.party/) - Toulouse (France) <a href="https://thcon.party/cfp/#intra"><img alt="CFP THC 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-January-2024&color=red"></a>
