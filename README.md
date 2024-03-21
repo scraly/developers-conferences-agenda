@@ -458,6 +458,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20: [KCD Lima](https://community.cncf.io/kcd-lima-peru/) - Lima (Peru)
 * 21-26: [Agile2024](https://www.agilealliance.org/agile2024/) - Dallas, TX (USA) <a href="https://sessionize.com/agile2024/"><img alt="CFP Agile2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=red"></a>
 * 24-25: [SkySummit](https://skysummit.io) - Berlin (Germany) <a href="https://sessionize.com/skysummit/"><img alt="CFP SkySummit" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-January-2024&color=red"></a>
+* 25-26: [DrupalCamp Colorado 2024](https://drupal-colorado.org) - Denver, CO (USA) <a href="https://sessionize.com/drupalcamp-colorado-2024/"><img alt="CFP DrupalCamp Colorado 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-May-2024&color=green"></a>
 * 25-27: [The Bitcoin Conference 2024](https://b.tc/conference) - Nashville, Tennessee (USA)
 * 26-28: [CommunityOverCode Asia 2024](https://asia.communityovercode.org/) - Hangzhou (China) <a href="https://sessionize.com/communityovercode-asia-2024"><img alt="CFP CommunityOverCode Asia 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-April-2024&color=green"></a>
 * 27: [How.Camp 2024: A day of FOSS](https://how.camp) - Gabrovo (Bulgaria)
