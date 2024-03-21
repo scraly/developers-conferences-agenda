@@ -425,6 +425,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27: [NG Rome](https://ngrome.io) - Rome (Italy) <a href="https://docs.google.com/forms/d/e/1FAIpQLSdS4HP50VFsW-CdVNKUtbRFT3bYdxieLf50yeEyVA2bCEnzsA/viewform"><img alt="CFP NG Rome" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2024&color=green"></a>
 * 27: [Azure & AI Lowlands](https://www.azurelowlands.com/) - Utrecht (Netherlands)
 * 27: [BSidesTLV 2024](https://bsidestlv.com) - Tel Aviv (Israel) <a href="https://sessionize.com/bsidestlv-2024"><img alt="CFP BSidesTLV 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2024&color=green"></a>
+* 27: [React and Chill](https://reactandchill.live/) - Online <a href="https://forms.office.com/r/7uxfcCmGBE"><img alt="CFP React and Chill" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-May-2024&color=green"></a>
 * 27-28: [Agi Lille](http://agilille.fr/) - Lille (France) <a href="https://sessionize.com/agilille-2024"><img alt="CFP Agi Lille 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=red"></a>
 * 27-28: [Swiss PGDay 2024](https://www.pgday.ch/2024/) - Rapperswil (Switzerland) <a href="https://www.pgday.ch/2024/#cfs"><img alt="CFP Swiss PGDay 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-April-2024&color=green"></a>
 * 29: [Data Saturday Rheinland 2024](https://datasaturdays.com/2024-06-29-datasaturday0050/) - Bonn (Germany) <a href="https://sessionize.com/data-saturday-rheinland-2024/"><img alt="CFP Data Saturday Rheinland 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
@@ -492,6 +493,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5-6: [OWASP New Zealand Day](https://appsec.org.nz/conference) - Auckland (New Zealand) <a href="https://www.papercall.io/owaspnz2024"><img alt="CFP OWASP New Zealand Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 6: [JUG Summer Camp](https://www.jugsummercamp.org) - La Rochelle (France)
 * 6-8: [Blue Team Con](https://blueteamcon.com/) - Chicago (USA) <a href="https://blueteamcon.com/blue-team-con-2024-call-for-papers/"><img alt="CFP Blue Team Con" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-March-2024&color=green"></a>
+* 9-10: [Regional Scrum Gathering - Stockholm 2024](https://regionalscrumgathering-stockholm2024.com/) - Stockholm (Sweden) <a href="https://sessionize.com/regional-scrum-gathering-stockholm-202"><img alt="CFP Regional Scrum Gathering - Stockholm 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2024&color=green"></a>
 * 9-11: [PGIBZ 2024](https://pgibz.io) - Ibiza (Spain)
 * 9-12: [NDC TechTown 2024](https://ndctechtown.com) - Kongsberg (Norway) <a href="https://sessionize.com/ndc-techtown-2024"><img alt="CFP NDC TechTown 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2024&color=green"></a>
 * 10-12: [Airflow Summit 2024](https://airflowsummit.org) - San Francisco, CA (USA) <a href="https://sessionize.com/airflow-summit-2024/"><img alt="CFP Airflow Summit 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-April-2024&color=green"></a>
@@ -595,6 +597,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1: [DevSecCon](https://www.devseccon.com/) - Online
 * 1-11: [Java Day Istanbul 2024](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2024"><img alt="CFP Java Day Istanbul" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023&color=green"></a>
 * 5: [IDM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
+* 5-14: [CloudX 2024](https://www.developerweek.com/cloudx/) - Santa Clara, CA (USA) <a href="https://sessionize.com/cloudx-2024/"><img alt="CFP CloudX 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-June-2024&color=green"></a>
 * 6: [Master Dev De France](https://www.masterdevfrance.com/) - Paris (France)
 * 6-8: [Oredev](https://oredev.org/) - Malmo (Sweden) <a href="https://sessionize.com/oredev-2024/"><img alt="CFP Øredev 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
 * 7: [DevDay](https://www.devday.be) - Mons (Belgium) <a href="https://sessionize.com/devday-2024/"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=until%203-September-2024&color=green"></a>
