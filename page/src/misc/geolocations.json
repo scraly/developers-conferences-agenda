@@ -871,6 +871,10 @@
     "latitude": 29.7589382,
     "longitude": -95.3676974
   },
+  "Hyderābād (India)": {
+    "latitude": 17.406498,
+    "longitude": 78.47724389999999
+  },
   "Iasi (Romania)": {
     "latitude": 47.1615416,
     "longitude": 27.5837224
@@ -1783,6 +1787,10 @@
     "latitude": 37.2333253,
     "longitude": -121.6846349
   },
+  "Santa Clara, CA (USA)": {
+    "latitude": 37.3541079,
+    "longitude": -121.9552356
+  },
   "Santiago (Chile)": {
     "latitude": -33.4377756,
     "longitude": -70.6504502
@@ -1882,6 +1890,10 @@
   "Strasbourg (France)": {
     "latitude": 48.584614,
     "longitude": 7.7507127
+  },
+  "Sunnyvale, CA (USA)": {
+    "latitude": 37.36883,
+    "longitude": -122.0363496
   },
   "Surakarta (Indonesia)": {
     "latitude": -7.5692489,
