@@ -647,4 +647,5 @@ All the data (past and coming) are available publicly in JSON:
 
 ### April
 
+* 1-4: [KubeCon + CloudNativeCon EU 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2025/) - London (UK)
 * 29-30: [DevOpsDays Aarhus](https://devopsdays.org/events/2025-aarhus) - Aarhus (Denmark)
