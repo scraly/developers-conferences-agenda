@@ -650,6 +650,10 @@ All the data (past and coming) are available publicly in JSON:
 
 * 3-5: [NANOG 93](https://nanog.org/events/nanog-93/) - Atlanta, GA (USA)
 
+### March
+
+* 17-20: [JavaOne](https://inside.java/2024/03/19/announcing-javaone-2025/) - San Francisco (USA)
+
 ### April
 
 * 1-4: [KubeCon + CloudNativeCon EU 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2025/) - London (UK)
