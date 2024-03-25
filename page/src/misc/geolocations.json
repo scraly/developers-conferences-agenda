@@ -771,6 +771,10 @@
     "latitude": 39.063956,
     "longitude": -108.5507317
   },
+  "Grand Rapids, MI (USA)": {
+    "latitude": 42.9633599,
+    "longitude": -85.6680863
+  },
   "Grand Rapids, Michigan (USA)": {
     "latitude": 42.9632425,
     "longitude": -85.6678639
@@ -1882,6 +1886,10 @@
   "St. Petersburg (Rusia)": {
     "latitude": 59.9310584,
     "longitude": 30.3609097
+  },
+  "Stavanger (Norway)": {
+    "latitude": 58.9699756,
+    "longitude": 5.7331073
   },
   "Stockholm (Sweden)": {
     "latitude": 59.3251172,
