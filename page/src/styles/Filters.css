@@ -3,6 +3,10 @@
     padding: 10px;
     padding-right: 20px;
     transition: min-width 1s, width 1s, border-color 1s;
+    position: absolute;
+    z-index: 2;
+    background: white;
+    height: 100%;
 }
 
 .filters-header {
@@ -31,6 +35,7 @@
 .filters.open .filters-title {
     opacity: 1;
     transition: opacity 1s;
+    background: revert;
 }
 
 .filters.closed .filters-title {
@@ -48,6 +53,7 @@
     width: 0;
     min-width: 10px;
     border-color: #cccccc00;
+    background: transparent;
 }
 
 .filters.closed .filtersItem {

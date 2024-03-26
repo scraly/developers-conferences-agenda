@@ -4,6 +4,7 @@ import 'styles/ListView.css';
 import {useYearEvents} from 'app.hooks';
 import {getMonthName, getMonthNames} from 'utils';
 import ShortDate from 'components/ShortDate/ShortDate';
+import { EventListEntry } from './Entry';
 
 const ListView = () => {
   let events = useYearEvents();
@@ -34,14 +35,7 @@ const ListView = () => {
           <React.Fragment key={month}>
             <h1>{month}</h1>
             {eventsByMonth[month].map((e, i) => (
-              <div key={`${month}_ev_${i}`} className='event-list-entry'>
-                <ShortDate dates={e.date} />
-                <b>{e.name}</b>
-                {e.hyperlink ? <a href={e.hyperlink}>{new URL(e.hyperlink).hostname}</a> : ''}
-                <span>{e.location}</span>
-                <span dangerouslySetInnerHTML={{__html: e.misc}}></span>
-                {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}
-              </div>
+              <EventListEntry key={`${month}_ev_${i}`} event={e} />
             ))}
           </React.Fragment>
         ))}
