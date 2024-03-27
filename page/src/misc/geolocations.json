@@ -219,6 +219,10 @@
     "latitude": 12.9767936,
     "longitude": 77.590082
   },
+  "Benidorm (Spain)": {
+    "latitude": 38.5411928,
+    "longitude": -0.1233831
+  },
   "Bergen (Norway)": {
     "latitude": 60.3943055,
     "longitude": 5.3259192
@@ -234,6 +238,10 @@
   "Beurs van Berlage (Netherlands)": {
     "latitude": 52.3750218,
     "longitude": 4.89626468097017
+  },
+  "Bidart (France)": {
+    "latitude": 43.439236,
+    "longitude": -1.590062
   },
   "Bilbao (Spain)": {
     "latitude": 43.2630018,
@@ -1035,6 +1043,10 @@
     "latitude": 43.1758591,
     "longitude": 5.6062495
   },
+  "La Laguna (Spain)": {
+    "latitude": 28.4874009,
+    "longitude": -16.3159061
+  },
   "La Paz (Bolivia)": {
     "latitude": -16.4955455,
     "longitude": -68.1336229
@@ -1507,6 +1519,10 @@
     "latitude": 45.4208777,
     "longitude": -75.6901106
   },
+  "Oviedo (Spain)": {
+    "latitude": 43.3622522,
+    "longitude": -5.8485461
+  },
   "Owerri (Nigeria)": {
     "latitude": 5.489736,
     "longitude": 7.0341973
@@ -1514,6 +1530,10 @@
   "Palo Alto (USA)": {
     "latitude": 37.4443293,
     "longitude": -122.1598465
+  },
+  "Pamplona (Spain)": {
+    "latitude": 42.812526,
+    "longitude": -1.6457745
   },
   "Paris (France)": {
     "latitude": 48.8588897,
