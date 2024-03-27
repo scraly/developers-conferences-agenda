@@ -311,6 +311,7 @@ All the data (past and coming) are available publicly in JSON:
 * 25: [Data Saturdays Sweden](https://datasatsto.se/) - Stockholm (Sweden) <a href="https://sessionize.com/data-saturday-stockholm-2024"><img alt="CFP Data Saturdays Sweden" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Jan-2024&color=red"></a>
 * 25: [Dotned Saturday](https://dotnedsaturday.nl/) - Hilversum (Netherlands)
 * 25: [Gopherday Taiwan](https://gopherday.golang.tw/2024/en) - Taipei (Taiwan) <a href="https://gopherday.golang.tw/2024/en/cfp"><img alt="CFP Gopherday Taiwan" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-March-2024&color=green"></a>
+* 25: [WTD Kenya](https://www.meetup.com/wtd-kenya/events/299526798/) - Nairobi (Kenya)
 * 27-28: [Lambda Days](https://www.lambdadays.org/) - Krakow (Poland)
 * 27-28: [DevOpsDays Montréal](https://devopsdays.org/events/2024-montreal/welcome/) - Montréal (Canada) <a href="https://sessionize.com/devopsdays-montreal-2024/"><img alt="CFP DevOps Days Montréal" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-February-2024&color=red"></a>
 * 27-31: [Domain-Driven Design Europe 2024](https://2024.dddeurope.com/) - Amsterdam (Netherlands) <a href="https://2024.dddeurope.com/cfp/"><img alt="CFP DDD Europe 2024 conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Feb-2024&color=red"></a>
