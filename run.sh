@@ -9,7 +9,7 @@ cd ../tools
 npm install -D
 node mdValidator.js
 node mdParser.js
-node validateCFPColor.js
+node fixCFPColor.js
 node generateIcs.js
 node generateIcs4OpenedCfps.js
 node generateRSS.js
