@@ -337,6 +337,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 1: [BSides Buffalo 2024](https://www.bsidesbuffalo.org) - Buffalo, NY (USA) <a href="https://sessionize.com/bsides-buffalo-2024"><img alt="CFP BSides Buffalo 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
 * 1: [Agile Real Life](https://eventos.paradigmadigital.com/agile-real-life) - Pozuelo de Alarcon (Spain) <a href="https://eventos.paradigmadigital.com/agile-real-life#hs_cos_wrapper_module_16583179555981575"><img alt="CFP Agile Real Life" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-April-2024&color=green"></a>
+* 1: [DevFest Pisa](https://devfest.gdgpisa.it/) - Pisa (Italy)
 * 1-2: [T-DOSE](https://t-dose.org/2024/) - Geldrop (Netherlands) <a href="https://pretalx.t-dose.org/2024/cfp"><img alt="CFP T-DOSE" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-May-2024&color=green"></a>
 * 1: [PolyCloud](https://polycloud.fr/) - Montpellier (France) <a href="https://conference-hall.io/public/event/0NC2WdB8KknRtX8aBgyO"><img alt="CFP PolyCloud" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-March-2024&color=red"></a>
 * 1: [DevOpsDays Nairobi](https://devopsdays.org/events/2024-nairobi) - Nairobi (Kenya)
