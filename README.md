@@ -128,6 +128,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28: [Richmond Virginia Data / AI Summit 2024](https://rvatech.com/rvatech-events/2024-rvatech-data-summit/) - Richmond, VA (USA) <a href="https://www.papercall.io/rvadataai24"><img alt="CFP Richmond Virginia Data / AI Summit 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2023&color=red"></a>
 * 28-29: [SymfonyLive Paris 2024](https://live.symfony.com/2024-paris/) - Paris (France) <a href="https://live.symfony.com/2024-paris/cfp"><img alt="CFP SymfonyLive Paris 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-December-2023&color=red"></a>
 * 28-30: [DrupalCamp Roazhon](https://rennes2024.drupalcamp.fr/) - Rennes (France)
+* 31: [IWD Udaipur](https://gdg.community.dev/events/details/google-gdg-udaipur-presents-international-womens-day-2024-iwd24/) - Udaipur (India)
 
 ### April
 
@@ -135,9 +136,11 @@ All the data (past and coming) are available publicly in JSON:
 * 3: [AWS Summit Paris](https://aws.amazon.com/fr/events/summits/emea/paris/agenda) - Paris (France)
 * 4: [BSides Prague 2024](https://www.bsidesprg.cz) - Prague (Czech Republic) <a href="https://www.papercall.io/bsidesprg2024"><img alt="CFP Security BSides Prague 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-February-2024&color=red"></a>
 * 4: [SoCraTes Rennes 2024](https://socrates-rennes.github.io/) - Rennes (France)
+* 5: [IWD Calabar](https://gdg.community.dev/events/details/google-gdg-calabar-presents-international-womens-day-calabar-24/) - Calabar (Nigeria)
 * 4-6: [Toulouse Hacking Convention](https://thcon.party/) - Toulouse (France) <a href="https://thcon.party/cfp/#intra"><img alt="CFP THC 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-January-2024&color=red"></a>
 * 6: [WTM Montreal](https://wtmmontreal.com/fr/) - Montreal (Canada) <a href="https://www.papercall.io/wtmmontreal2024"><img alt="CFP WTM Montreal" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2024&color=red"></a>
 * 6: [DevOpsDays Goiânia 2024](https://devopsdays.org/events/2024-goiania) - Goiânia, GO (Brazil)
+* 7: [IWD Indore](https://gdg.community.dev/events/details/google-gdg-indore-presents-iwd-indore-2024-international-womens-day-celebration/) - Indore (India)
 * 8: [Lyon Craft](https://lyon-craft.fr/) - Lyon (France)
 * 8-10: [QCon London](https://qconlondon.com/) - London (UK) <a href="https://forms.gle/eZzmJap4zqEfsXqx9"><img alt="Scholarship" src="https://img.shields.io/static/v1?label=Scholarship&message=until%2019-February-2024&color=yellow" /></a>
 * 8-11: [Powershell DevOps Global Summit](https://powershellsummit.org/) - Bellevue, WA (USA) <a href="https://sessionize.com/pshsummit24"><img alt="CFP Powershell DevOps Global" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Nov-2023&color=red"></a>
