@@ -521,6 +521,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13: [UtahJS Conf 2024](https://www.utahjs.com/conference) - Sandy, UT (USA) <a href="https://sessionize.com/utahjs-conf-2024"><img alt="CFP UtahJS Conf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-April-2024&color=green"></a>
 * 14: [BSides Krakow 2024](https://bsideskrakow.pl/) - Krakow (Poland)
 * 14: [TofuConf](https://tofuconf.com/) - Madrid (Spain)
+* 15-20: [CppCon](https://cppcon.org/about/) - Aurora, colorado, USA
 * 16-17: [Infobip Shift](https://shift.infobip.com/) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2024/"><img alt="CFP Infobit Shift" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 16-17: [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) - Vienna (Austria) <a href="https://sessionize.com/linux-security-summit-eu-2024"><img alt="CFP Linux Security Summit Europe 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2024&color=green"></a>
 * 16-17: [DevOpsDays Denver](https://devopsdays.org/events/2024-denver) - Denver, CO (USA) <a href="https://talks.devopsdays.org/devopsdays-denver-2024/cfp"><img alt="CFP DevOpsDays Denver" src="https://img.shields.io/static/v1?label=CFP&message=until%204-May-2024&color=green"></a>
