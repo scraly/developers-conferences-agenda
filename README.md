@@ -336,6 +336,7 @@ All the data (past and coming) are available publicly in JSON:
 ### June
 
 * 1: [BSides Buffalo 2024](https://www.bsidesbuffalo.org) - Buffalo, NY (USA) <a href="https://sessionize.com/bsides-buffalo-2024"><img alt="CFP BSides Buffalo 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=green"></a>
+* 1: [Agile Real Life](https://eventos.paradigmadigital.com/agile-real-life) - Pozuelo de Alarcon (Spain) <a href="https://eventos.paradigmadigital.com/agile-real-life#hs_cos_wrapper_module_16583179555981575"><img alt="CFP Agile Real Life" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-April-2024&color=green"></a>
 * 1-2: [T-DOSE](https://t-dose.org/2024/) - Geldrop (Netherlands) <a href="https://pretalx.t-dose.org/2024/cfp"><img alt="CFP T-DOSE" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-May-2024&color=green"></a>
 * 1: [PolyCloud](https://polycloud.fr/) - Montpellier (France) <a href="https://conference-hall.io/public/event/0NC2WdB8KknRtX8aBgyO"><img alt="CFP PolyCloud" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-March-2024&color=red"></a>
 * 1: [DevOpsDays Nairobi](https://devopsdays.org/events/2024-nairobi) - Nairobi (Kenya)
@@ -518,6 +519,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11-13: [EuRuKo 2024](https://2024.euruko.org) - Sarajevo (Bosnia and Herzegovina) <a href="https://www.papercall.io/euruko2024"><img alt="CFP EuRuKo 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2024&color=green"></a>
 * 13: [UtahJS Conf 2024](https://www.utahjs.com/conference) - Sandy, UT (USA) <a href="https://sessionize.com/utahjs-conf-2024"><img alt="CFP UtahJS Conf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-April-2024&color=green"></a>
 * 14: [BSides Krakow 2024](https://bsideskrakow.pl/) - Krakow (Poland)
+* 14: [TofuConf](https://tofuconf.com/) - Madrid (Spain)
 * 16-17: [Infobip Shift](https://shift.infobip.com/) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2024/"><img alt="CFP Infobit Shift" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 16-17: [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) - Vienna (Austria) <a href="https://sessionize.com/linux-security-summit-eu-2024"><img alt="CFP Linux Security Summit Europe 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2024&color=green"></a>
 * 16-17: [DevOpsDays Denver](https://devopsdays.org/events/2024-denver) - Denver, CO (USA) <a href="https://talks.devopsdays.org/devopsdays-denver-2024/cfp"><img alt="CFP DevOpsDays Denver" src="https://img.shields.io/static/v1?label=CFP&message=until%204-May-2024&color=green"></a>
@@ -643,6 +645,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-15: [Build Stuff 2024 Lithuania](http://buildstuff.events) - Vilnius (Lithuania) <a href="https://sessionize.com/build-stuff-2024/"><img alt="CFP Build Stuff 2024 Lithuania" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-June-2024&color=green"></a>
 * 14-15: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain) <a href="https://devops.barcelona/call-for-papers"><img alt="CFP DevOps Barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 14-15: [Conferencia Agile Spain (CAS2024)](https://cas.agile-spain.org/) - Madrid (Spain) <a href="https://sessionize.com/conferencia-agile-spain-cas2024/"><img alt="CFP Conferencia Agile Spain (CAS2024)" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2024&color=green"></a>
+* 14-16: [TRG Con](https://www.trgcon.com/) - Madrid (Spain)
 * 18-19: [The Linux Foundation Legal Summit](https://events.linuxfoundation.org/lf-legal-summit/) - Napa (USA)
 * 18-21: [React Summit US](https://reactsummit.us/) - New York, NY (USA) <a href="https://forms.gle/aFJk2xHfegCqHW2b9"><img alt="CFP React Summit US" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2024&color=green"></a>
 * 18-22: [QCon San Francisco 2024](https://qconsf.com/medialisting2024) - San Francisco, CA (USA)
