@@ -499,6 +499,10 @@
     "latitude": 41.4996574,
     "longitude": -81.6936772
   },
+  "Cleveland, OH (USA)": {
+    "latitude": 41.49932,
+    "longitude": -81.6943605
+  },
   "Cluj, Transylvania (Romania)": {
     "latitude": 46.7712101,
     "longitude": 23.6236353
@@ -982,6 +986,10 @@
   "Kansas City, MO (USA)": {
     "latitude": 39.100105,
     "longitude": -94.5781416
+  },
+  "Kaohsiung (Taiwan)": {
+    "latitude": 22.6272772,
+    "longitude": 120.3014375
   },
   "Karlsruhe (Germany)": {
     "latitude": 49.0068901,
@@ -1583,6 +1591,10 @@
     "latitude": 7.9366015,
     "longitude": 98.3529292
   },
+  "Pisa (Italy)": {
+    "latitude": 43.7228386,
+    "longitude": 10.4016888
+  },
   "Pittsburg (USA)": {
     "latitude": 32.9954021,
     "longitude": -94.9657688
@@ -1643,6 +1655,10 @@
     "latitude": 52.4082663,
     "longitude": 16.9335199
   },
+  "Pozuelo de Alarcon (Spain)": {
+    "latitude": 40.4475272,
+    "longitude": -3.8074152
+  },
   "Prague (Czech Republic)": {
     "latitude": 50.0874654,
     "longitude": 14.4212535
@@ -1698,6 +1714,10 @@
   "Riga (Latvia)": {
     "latitude": 56.9493977,
     "longitude": 24.1051846
+  },
+  "Rio de Janeiro (Brasil)": {
+    "latitude": -22.9068467,
+    "longitude": -43.1728965
   },
   "Rio de Janeiro, RJ (Brazil)": {
     "latitude": -22.9110137,
@@ -1907,7 +1927,7 @@
     "latitude": 38.6280278,
     "longitude": -90.1910154
   },
-  "St. Petersburg (Rusia)": {
+  "St. Petersburg (Russia)": {
     "latitude": 59.9310584,
     "longitude": 30.3609097
   },
