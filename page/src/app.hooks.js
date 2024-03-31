@@ -40,7 +40,7 @@ export const useYearEvents = () => {
     }
 
     if (search.callForPapers === 'true') {
-      result = result.filter(e => e.cfp && new Date(e.cfp.untilDate) > new Date());
+      result = result.filter(e => e.cfp && new Date(e.cfp.untilDate+24*60*60*1000) > new Date());
     }
 
     if (search.online === 'true') {
