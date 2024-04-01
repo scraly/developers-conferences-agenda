@@ -30,18 +30,18 @@ jobs:
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v6
-	with:
-	  token: ${{ secrets.PAT }}
-    	  commit-message: update cfp status color
-    	  title: Update CFP status color
-    	  base: main
+        with:
+          token: ${{ secrets.PAT }}
+          commit-message: update cfp status color
+          title: Update CFP status color
+          base: main
           committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>
           signoff: false
           branch: update-cfp-color
           delete-branch: true
-         body: |
+          body: |
             This PR was generated via GH action
             - Updated CFP status color green to red
-	  draft: false
+          draft: false
           reviewers: scraly
