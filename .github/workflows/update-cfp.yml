@@ -28,8 +28,10 @@ jobs:
           node mdParser.js
           node fixCFPColor.js
       - name: Create Pull Request
-	uses: peter-evans/create-pull-request@v4
+        id: cpr
+        uses: peter-evans/create-pull-request@v6
 	with:
+	  token: ${{ secrets.PAT }}
     	  commit-message: update cfp status color
     	  title: Update CFP status color
     	  base: main
@@ -43,5 +45,3 @@ jobs:
             - Updated CFP status color green to red
 	  draft: false
           reviewers: scraly
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
