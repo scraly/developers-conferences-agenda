@@ -28,15 +28,15 @@ jobs:
           node mdParser.js
           node fixCFPColor.js
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
+	uses: peter-evans/create-pull-request@v4
 	with:
-	  commit-message: update cfp status color
+    	  commit-message: update cfp status color
+    	  title: Update CFP status color
+    	  base: main
           committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>
           signoff: false
           branch: update-cfp-color
-	  base: main
-	  title: 'Upgrade CFP Status color'
           delete-branch: true
          body: |
             This PR was generated via GH action
