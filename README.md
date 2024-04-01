@@ -525,7 +525,7 @@ All the data (past and coming) are available publicly in JSON:
 * 16-18: [DevConf 2024](https://devconf.pl) - Łódź (Poland) <a href="https://sessionize.com/devconfpl-2024"><img alt="CFP DevConf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-May-2024&color=green"></a>
 * 16-21: [Pycon Brasil](https://2024.pythonbrasil.org.br) - Rio de Janeiro (Brazil)
 * 17: [Conf42 Incident Management 2024](https://www.conf42.com/im2024) - Online <a href="https://www.papercall.io/conf42-incident-management-2024"><img alt="CFP Conf42 Incident Management" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Sep-2024&color=green"></a>
-* 17-18: [DevFest Nantes](https://devfest.gdgnantes.com/en/) - Nantes (France)
+* 17-18: [DevFest Nantes](https://devfest.gdgnantes.com/en/) - Nantes (France) <a href="https://conference-hall.io/public/event/AJYPylkzTDd6j3O6ADZn"><img alt="CFP DevFest Nantes 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-June-2024&color=green"></a>
 * 17-18: [DotAI](https://www.dotai.io/) - Paris (France) <a href="https://www.dotai.io/cfp"><img alt="CFP DotAI 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2024&color=green"></a>
 * 17-18: [Rubyfuza & friends 2024](https://www.rubyfuza.org/) - Cape Town (South Africa) <a href="https://www.papercall.io/rubyfuza-2024"><img alt="CFP Rubyfuza & friends 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-August-2024&color=green"></a>
 * 17-18: [DevOpsDays Salt Lake City](https://devopsdays.org/events/2024-salt-lake-city) - Salt Lake City, UT (USA)
