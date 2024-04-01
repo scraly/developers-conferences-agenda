@@ -1,0 +1,47 @@
+name: Update CFP Status
+
+on:
+  schedule:
+    # Runs every day
+    - cron: '* 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: npm
+          cache-dependency-path: '**/package-lock.json'
+      - working-directory: page
+        run: npm install -D
+      - name: Parse Markdowns
+        working-directory: tools
+        run: |
+          npm install -D
+          node mdValidator.js
+          node mdParser.js
+          node fixCFPColor.js
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+	with:
+	  commit-message: feat: update cfp status color
+          committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>
+          signoff: false
+          branch: update-cfp-color
+	  base: main
+	  title: 'Upgrade CFP Status color'
+          delete-branch: true
+         body: |
+            This PR was generated via GH action
+            - Updated CFP status color green to red
+	  draft: false
+          reviewers: scraly
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
