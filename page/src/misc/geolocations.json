@@ -175,6 +175,10 @@
     "latitude": 47.5581077,
     "longitude": 7.5878261
   },
+  "Baton Rouge, LA (USA)": {
+    "latitude": 30.4514677,
+    "longitude": -91.18714659999999
+  },
   "Beirut (Lebanon)": {
     "latitude": 33.8959203,
     "longitude": 35.47843
@@ -390,6 +394,10 @@
   "Cakovec (Croatia)": {
     "latitude": 46.3892305,
     "longitude": 16.4368593
+  },
+  "Calabar (Nigeria)": {
+    "latitude": 4.9757165,
+    "longitude": 8.3417006
   },
   "California (USA)": {
     "latitude": 36.7014631,
@@ -639,6 +647,10 @@
     "latitude": 53.3493795,
     "longitude": -6.2605593
   },
+  "Durham, NC (US)": {
+    "latitude": 35.9940329,
+    "longitude": -78.898619
+  },
   "Durham, NC (USA)": {
     "latitude": 35.996653,
     "longitude": -78.9018053
@@ -706,6 +718,10 @@
   "Florida (USA)": {
     "latitude": 27.7567667,
     "longitude": -81.4639835
+  },
+  "Fort Lauderdale, FL (USA)": {
+    "latitude": 26.1224386,
+    "longitude": -80.13731740000001
   },
   "Fort-De-France (Martinique)": {
     "latitude": 14.6060576,
@@ -919,6 +935,10 @@
     "latitude": 39.7683331,
     "longitude": -86.1583502
   },
+  "Indore (India)": {
+    "latitude": 22.7195687,
+    "longitude": 75.8577258
+  },
   "Ipswich (UK)": {
     "latitude": 52.0579324,
     "longitude": 1.1528095
@@ -970,6 +990,10 @@
   "Johannesburg (South Africa)": {
     "latitude": -26.205,
     "longitude": 28.049722
+  },
+  "Juiz De Fora, MG (Brazil)": {
+    "latitude": -21.7623932,
+    "longitude": -43.3434669
   },
   "Kampala (Uganda)": {
     "latitude": 0.3177137,
@@ -1715,7 +1739,7 @@
     "latitude": 56.9493977,
     "longitude": 24.1051846
   },
-  "Rio de Janeiro (Brasil)": {
+  "Rio de Janeiro (Brazil)": {
     "latitude": -22.9068467,
     "longitude": -43.1728965
   },
@@ -2062,6 +2086,10 @@
   "Towson, MD (USA)": {
     "latitude": 39.4014955,
     "longitude": -76.6019125
+  },
+  "Trujillo (Peru)": {
+    "latitude": -8.1157846,
+    "longitude": -79.0257381
   },
   "Turin (Italy)": {
     "latitude": 45.0677551,
