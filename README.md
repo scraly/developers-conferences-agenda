@@ -513,7 +513,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9: [Cloud Foundry Day Europe 2024](https://events.linuxfoundation.org/cloud-foundry-day-europe/) - Karlsruhe (Germany) <a href="https://events.linuxfoundation.org/cloud-foundry-day-europe/program/cfp/"><img alt="CFP Cloud Foundry Day Europe 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-July-2024&color=green"></a>
 * 9-10: [DevOpsDays Dallas](https://devopsdays.org/events/2024-dallas) - Dallas, TX (USA)
 * 10: [Cloud Nord](https://www.cloudnord.fr/) - Lille (France)
-* 10-11: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France)
+* 10-11: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France) <a href="https://conference-hall.io/public/event/98FptSgEGcOSQZymZkUr"><img alt="CFP Volcamp 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-May-2024&color=green"></a>
 * 10-11: [Forum PHP](https://event.afup.org/) - Marne-la-Vallée (France)
 * 10-11: [Zebu Live 2024](https://zebulive.xyz) - London (UK) <a href="https://sessionize.com/zebu-live-2024"><img alt="CFP Zebu Live 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
 * 10-11: [EuroRust 2024](https://eurorust.eu) - Vienna (Austria) & Online <a href="https://www.papercall.io/eurorust-2024"><img alt="CFP EuroRust 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-June-2024&color=green"></a>
