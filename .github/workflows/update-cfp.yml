@@ -20,7 +20,7 @@ jobs:
           cache-dependency-path: '**/package-lock.json'
       - working-directory: page
         run: npm install -D
-      - name: Parse Markdowns
+      - name: Fix CFP color
         working-directory: tools
         run: |
           npm install -D
