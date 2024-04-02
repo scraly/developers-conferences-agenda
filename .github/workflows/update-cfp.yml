@@ -44,4 +44,3 @@ jobs:
             This PR was generated via GH action
             - Updated CFP status color green to red
           draft: false
-          reviewers: scraly
