@@ -3,7 +3,7 @@ name: Update CFP Status
 on:
   schedule:
     # Runs every day
-    - cron: '* 6 * * *'
+    - cron: '0 4 * * *'
   workflow_dispatch:
 
 jobs:
@@ -27,6 +27,7 @@ jobs:
           node mdValidator.js
           node mdParser.js
           node fixCFPColor.js
+          node geoCodes.js
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v6
