@@ -573,7 +573,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6: [Master Dev De France](https://www.masterdevfrance.com/) - Paris (France)
 * 6-8: [Oredev](https://oredev.org/) - Malmo (Sweden) <a href="https://sessionize.com/oredev-2024/"><img alt="CFP Øredev 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=red"></a>
 * 7: [DevDay](https://www.devday.be) - Mons (Belgium) <a href="https://sessionize.com/devday-2024/"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=until%203-September-2024&color=green"></a>
-* 7: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France) <a href="https://sessionize.com/devfest-toulouse/"><img alt="CFP DevFest Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%230-June-2024&color=green"></a>
+* 7: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France) <a href="https://sessionize.com/devfest-toulouse/"><img alt="CFP DevFest Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 8: [angularday 2024](https://2024.angularday.it) - Verona (Italy) <a href="https://sessionize.com/angularday-2024/"><img alt="CFP angularday 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-June-2024&color=green"></a>
 * 8: [BDX I/O](https://bdxio.fr/) - Bordeaux (France)
 * 9-11: [RustLab 2024](https://rustlab.it) - Florence (Italy) <a href="https://sessionize.com/rustlab-2024"><img alt="CFP RustLab 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-May-2024&color=green"></a>
