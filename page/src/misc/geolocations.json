@@ -631,6 +631,10 @@
     "latitude": 48.4539775,
     "longitude": -2.047687
   },
+  "Douala (Cameroon)": {
+    "latitude": 4.0429408,
+    "longitude": 9.706203
+  },
   "Dresden (Germany)": {
     "latitude": 51.0493286,
     "longitude": 13.7381437
@@ -1131,6 +1135,10 @@
     "latitude": 40.3881114,
     "longitude": -111.8486019
   },
+  "Leipzig (Germany)": {
+    "latitude": 51.3406321,
+    "longitude": 12.3747329
+  },
   "Lihue, HI (USA)": {
     "latitude": 21.9742235,
     "longitude": -159.3672769
@@ -1590,6 +1598,10 @@
   "Pelotas (Brazil)": {
     "latitude": -31.7699736,
     "longitude": -52.3410161
+  },
+  "Pergamino (Argentina)": {
+    "latitude": -33.897495,
+    "longitude": -60.575046
   },
   "Perros-Guirec (France)": {
     "latitude": 48.8151133,
