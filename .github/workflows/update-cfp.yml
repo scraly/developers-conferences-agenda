@@ -43,5 +43,6 @@ jobs:
           delete-branch: true
           body: |
             This PR was generated via GH action
-            - Updated CFP status color green to red
+            - Updates CFP status color green to red
+            - Generates geo locations
           draft: false
