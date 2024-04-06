@@ -158,7 +158,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9: [Conf42.com Site Reliability Engineering (SRE) 2024](https://www.conf42.com/sre2024) - Online <a href="https://www.papercall.io/conf42-site-reliability-engineering-sre-2024"><img alt="CFP Conf42.com Site Reliability Engineering (SRE) 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-April-2024&color=green"></a>
 * 9: [NervesConf US](https://nervesconf.us) - Chattanooga, TN (USA) <a href="https://www.papercall.io/nervesconf-us"><img alt="CFP NervesConf US" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-March-2024&color=red"></a>
 * 9-10: [GopherCon Brazil 2024](https://gopherconbr.org/en/) - Florianópolis (Brazil) <a href="https://www.papercall.io/gopherconbrazil2024"><img alt="CFP GopherCon Brazil 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2023&color=red"></a>
-* 9-10: [KCD Argentina 2024](https://linktr.ee/kcd.argentina) - Buenos Aires (Argentina) <a href="https://sessionize.com/kcd-argentina-2024/"><img alt="CFP KCD Argentina 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-April-2024&color=green"></a>
+* 9-10: [KCD Argentina 2024](https://linktr.ee/kcd.argentina) - Buenos Aires (Argentina) <a href="https://sessionize.com/kcd-argentina-2024/"><img alt="CFP KCD Argentina 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-April-2024&color=red"></a>
 * 10: [Weblica](https://weblica.hr/en/weblica/) - Cakovec (Croatia)
 * 11: [Java Day Istanbul 2024](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2024"><img alt="CFP Java Day Istanbul 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2023&color=red"></a>
 * 11: [BSides312](https://bsides312.org) - Chicago, IL (USA) <a href="https://www.papercall.io/bs312-2024"><img alt="CFP BSides312" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2024&color=red"></a>
@@ -211,7 +211,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22-25: [Viva Tech](https://vivatechnology.com/) - Paris (France)
 * 22-25: [PyCon IT](https://2024.pycon.it/en) - Florence (Italy)
 * 23: [GOVSEC UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
-* 23: [DevOpsDays Medellin 2024](http://devopsdays.io) - Medellin (Colombia) <a href="https://www.papercall.io/dodmded2024"><img alt="CFP DevOpsDays Medellin 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-April-2024&color=green"></a>
+* 23: [DevOpsDays Medellin 2024](http://devopsdays.io) - Medellin (Colombia) <a href="https://www.papercall.io/dodmded2024"><img alt="CFP DevOpsDays Medellin 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-April-2024&color=red"></a>
 * 23: [ServerlessDays Belfast 2024](https://serverlessdaysbelfast.com/) - Belfast (UK) <a href="https://sessionize.com/serverlessdays-belfast-2024"><img alt="CFP ServerlessDays Belfast 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=red"></a>
 * 23: [Vercel Ship 2024](https://vercel.com/ship) - New York (USA) <a href="https://ship-cfp-2024.vercel.app/"><img alt="CFP Vercel Ship 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-April-2024&color=green"></a>
 * 23-24: [DevOps Pro Europe 2024](https://devopspro.lt/) - Vilnius (Lithuania)
