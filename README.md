@@ -126,6 +126,7 @@ All the data (past and coming) are available publicly in JSON:
 * 25-26: [Vue.js Live Conference](https://vuejslive.com/) - Online <a href="https://www.papercall.io/vuejs-conference"><img alt="CFP Vue.js Live Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2024&color=red"></a>
 * 25-27: [BSides Goa Security Conference](https://www.bsidesgoa.in/) - Goa (India) <a href="https://www.bsidesgoa.in/submit-cfp"><img alt="CFP BSides Goa Security Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=red"></a>
 * 26: [IWD Mexico 2024](https://gdg.community.dev/e/mrsupq/) - Mexico City (Mexico) <a href="https://sessionize.com/iwd-mexico-2024"><img alt="CFP IWD Mexico 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-March-2024&color=red"></a>
+* 26: [PGDay Chicago](https://www.postgresql.org/about/event/pgday-chicago-2024-2493/) - Chicago (USA)
 * 26-27: [BSides Colombia 2024](https://bsidesco.org/) - Medellin (Colombia) <a href="https://www.papercall.io/bsidesco2024"><img alt="CFP BSides Colombia 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-March-2024&color=red"></a>
 * 27: [BSides Cymru 2024](https://www.bsides.cymru) - Cardiff (Wales) <a href="https://pretalx.com/bsides-cymru-2024/cfp"><img alt="CFP BSides Cymru 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=red"></a>
 * 27: [DDD South West](https://dddsouthwest.com/) - Bristol (UK)
