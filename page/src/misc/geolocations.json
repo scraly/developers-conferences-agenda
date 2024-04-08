@@ -1075,6 +1075,10 @@
     "latitude": 50.4500336,
     "longitude": 30.5241361
   },
+  "Köln (Germany)": {
+    "latitude": 50.937531,
+    "longitude": 6.9602786
+  },
   "L'aquila (Italy)": {
     "latitude": 42.1368853,
     "longitude": 13.610341022538911
@@ -1290,6 +1294,10 @@
   "Mbarara (Uganda)": {
     "latitude": -0.4180848,
     "longitude": 30.573737377548046
+  },
+  "Mechelen (Belgium)": {
+    "latitude": 51.0259143,
+    "longitude": 4.4775553
   },
   "Medellin (Colombia)": {
     "latitude": 6.2476376,
