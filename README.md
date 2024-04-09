@@ -58,6 +58,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-11: [International JavaScript Conference London](https://javascript-conference.com/london/) - London (UK)
 * 8-11: [Serverless Architecture Conference London](https://serverless-architecture.io/london/) - London (UK)
 * 9: [Unconf HackYourJob](https://www.helloasso.com/associations/hackyourjob-community-lyon/evenements/unconf-avril-2024) - Lyon (France)
+* 9: [AWS Summit Amsterdam](https://aws.amazon.com/fr/events/summits/emea/amsterdam/) - Amsterdam(Netherlands)
 * 9-10: [GrafanaCon](https://grafana.com/about/events/grafanacon/2024/) - Amsterdam (Netherlands) <a href="https://docs.google.com/forms/d/e/1FAIpQLSf78xO-J7ZmkMarpA5spfyS6Dt-wjWvUNeQzrBJPm2b_Q1LPg/viewform"><img alt="CFP GrafanaCon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2024&color=red"></a>
 * 9-11: [DevNexus](https://devnexus.com/) - Atlanta (USA)
 * 9-11: [JavaLand](https://www.javaland.eu/en/home/) - Nürburgring (Germany)
