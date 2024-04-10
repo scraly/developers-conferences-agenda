@@ -549,6 +549,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-11: [Devoxx Belgium](https://devoxx.be) - Antwerp (Belgium)
 * 8-9: [Agile Tour Quebec](https://agilequebec.ca/) - Quebec, QC (Canada)
 * 9: [Cloud Foundry Day Europe 2024](https://events.linuxfoundation.org/cloud-foundry-day-europe/) - Karlsruhe (Germany) <a href="https://events.linuxfoundation.org/cloud-foundry-day-europe/program/cfp/"><img alt="CFP Cloud Foundry Day Europe 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-July-2024&color=green"></a>
+* 9: [KubeDay Colombia](https://events.linuxfoundation.org/kubeday-colombia/) - Medellín (Colombia)
 * 9-10: [DevOpsDays Dallas](https://devopsdays.org/events/2024-dallas) - Dallas, TX (USA) <a href="https://www.papercall.io/dod-dfw-2024"><img alt="CFP DevOpsDays Dallas" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 10: [Cloud Nord](https://www.cloudnord.fr/) - Lille (France)
 * 10: [ContainerDay](https://2024.containerday.it/) - Bologna (Italy) & Online <a href="https://2024.containerday.it/welcome/cfp.html"><img alt="CFP ContainerDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-June-2024&color=green"></a>
@@ -564,6 +565,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-18: [NDC Porto 2024](https://ndcporto.com/) - Porto (Portugal) <a href="https://sessionize.com/ndc-porto-2024/"><img alt="CFP NDC Porto 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2024&color=green"></a>
 * 14-16: [Global Software Architecture Summit 2024](https://gsas.io) - Barcelona (Spain)
 * 15: [CYBERGOV](https://whitehallmedia.co.uk/future-events/) - London (UK)
+* 15: [KubeDay Australia](https://events.linuxfoundation.org/kubeday-australia/) - Melbourne (Australia)
 * 16: [DotPy](https://www.dotpy.io/) - Paris (France) <a href="https://www.dotpy.io/cfp"><img alt="CFP DotPy 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2024&color=green"></a>
 * 16-17: [API Days Australia](https://www.apidays.global/singapore/) - Melbourne (Australia) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Australia" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-September-2024&color=green"></a>
 * 16-17: [Camunda Con New York](https://www.camundacon.com/na/) - New York, NY (USA) & Online <a href="https://www.camundacon.com/na/call-for-presentations/"><img alt="CFP Camunda Con New York" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-May-2024&color=green"></a>
