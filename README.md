@@ -613,6 +613,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1: [DevSecCon](https://www.devseccon.com/) - Online
 * 1-11: [Java Day Istanbul 2024](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2024"><img alt="CFP Java Day Istanbul" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023&color=red"></a>
 * 4-5: [Rendercon Kenya](https://www.rendercon.org/) - Nairobi (Kenya)
+* 4-5: [LeadDev Berlin](https://leaddev.com/leaddev-berlin) - Berlin (Germany)  <a href="https://leaddev.submittable.com/submit/290640/talk-submissions-for-leaddev-berlin-2024"><img alt="CFP LeadDev Berlin" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2024&color=green"></a>
 * 5: [IDM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 5-14: [CloudX 2024](https://www.developerweek.com/cloudx/) - Santa Clara, CA (USA) <a href="https://sessionize.com/cloudx-2024/"><img alt="CFP CloudX 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-June-2024&color=green"></a>
 * 6: [Master Dev De France](https://www.masterdevfrance.com/) - Paris (France)
