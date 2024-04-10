@@ -59,6 +59,10 @@
     "latitude": 52.3730796,
     "longitude": 4.8924534
   },
+  "Amsterdam(Netherlands)": {
+    "latitude": 52.3730796,
+    "longitude": 4.8924534
+  },
   "Anglet (France)": {
     "latitude": 43.4813927,
     "longitude": -1.5149935
@@ -1582,6 +1586,10 @@
   "Owerri (Nigeria)": {
     "latitude": 5.489736,
     "longitude": 7.0341973
+  },
+  "Palaiseau (France)": {
+    "latitude": 48.7144587,
+    "longitude": 2.2453842
   },
   "Palo Alto (USA)": {
     "latitude": 37.4443293,
