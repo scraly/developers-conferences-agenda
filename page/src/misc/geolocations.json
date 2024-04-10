@@ -59,6 +59,10 @@
     "latitude": 52.3730796,
     "longitude": 4.8924534
   },
+  "Amsterdam(Netherlands)": {
+    "latitude": 52.3675734,
+    "longitude": 4.9041389
+  },
   "Anglet (France)": {
     "latitude": 43.4813927,
     "longitude": -1.5149935
@@ -131,6 +135,10 @@
     "latitude": 43.9492493,
     "longitude": 4.8059012
   },
+  "Avilés (Spain)": {
+    "latitude": 43.5511103,
+    "longitude": -5.9304039
+  },
   "Baden (France)": {
     "latitude": 47.6199988,
     "longitude": -2.9184744
@@ -182,6 +190,10 @@
   "Beirut (Lebanon)": {
     "latitude": 33.8959203,
     "longitude": 35.47843
+  },
+  "Belagavi (India)": {
+    "latitude": 15.8496953,
+    "longitude": 74.4976741
   },
   "Belarus": {
     "latitude": 47.69245275,
@@ -402,6 +414,10 @@
   "California (USA)": {
     "latitude": 36.7014631,
     "longitude": -118.755997
+  },
+  "Cambridge, ON (Canada)": {
+    "latitude": 43.3616211,
+    "longitude": -80.3144276
   },
   "Canada": {
     "latitude": 61.0666922,
@@ -798,6 +814,10 @@
   "Golfe du morbihan (France)": {
     "latitude": 47.5976972,
     "longitude": -2.7533397586005415
+  },
+  "Granada (Spain)": {
+    "latitude": 37.1774605,
+    "longitude": -3.5984368
   },
   "Grand Junction, CO (USA)": {
     "latitude": 39.063956,
@@ -1583,6 +1603,10 @@
     "latitude": 5.489736,
     "longitude": 7.0341973
   },
+  "Palaiseau (France)": {
+    "latitude": 48.714509,
+    "longitude": 2.245748
+  },
   "Palo Alto (USA)": {
     "latitude": 37.4443293,
     "longitude": -122.1598465
@@ -1903,6 +1927,10 @@
     "latitude": 43.8562586,
     "longitude": 18.4130763
   },
+  "Saskatoon, SK (Canada)": {
+    "latitude": 52.157902,
+    "longitude": -106.6701577
+  },
   "Seattle (USA)": {
     "latitude": 47.6038321,
     "longitude": -122.330062
@@ -1990,6 +2018,10 @@
   "Strasbourg (France)": {
     "latitude": 48.584614,
     "longitude": 7.7507127
+  },
+  "Stuttgart (Germany)": {
+    "latitude": 48.7758459,
+    "longitude": 9.1829321
   },
   "Sunnyvale, CA (USA)": {
     "latitude": 37.36883,
