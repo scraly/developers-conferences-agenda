@@ -268,7 +268,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1: [DevOpsDays Nairobi](https://devopsdays.org/events/2024-nairobi) - Nairobi (Kenya)
 * 3-5: [Community Over Code EU 2024](https://eu.communityovercode.org) - Bratislava (Slovakia) <a href="https://sessionize.com/coceu-2024"><img alt="CFP Community Over Code EU 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2024&color=red"></a>
 * 4: [re>≡CAP](https://recap-conf.dev/) - Sankt Leon-Rot (Germany) <a href="https://recap.cfapps.eu12.hana.ondemand.com/"><img alt="CFP recap 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-February-2024&color=red"></a>
-* 4: [OpenInfra Day Hungary](https://oideurope2024.openinfra.dev/hungary/) - Budapest (Hungary) <a href="https://forms.gle/5uhidFatr2sLp6qNA"><img alt="CFP OpenInfra Day Hungary" src="https://img.shields.io/static/v1?label=CFP&message=until%20323-April-2024&color=green"></a>
+* 4: [OpenInfra Day Hungary](https://oideurope2024.openinfra.dev/hungary/) - Budapest (Hungary) <a href="https://forms.gle/5uhidFatr2sLp6qNA"><img alt="CFP OpenInfra Day Hungary" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-April-2024&color=green"></a>
 * 4: [AWS Summit Stockholm](https://aws.amazon.com/fr/events/summits/emea/stockholm/) - Stockholm (Sweden)
 * 4-5: [JNation](https://jnation.pt/) - Coimbra (Portugal) <a href="https://sessionize.com/jnation-2024/"><img alt="CFP JNation 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=red"></a>
 * 4-5: [DevOpsDays Houston](https://devopsdays.org/events/2024-houston) - Houston, TX (USA)
