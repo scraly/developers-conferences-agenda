@@ -152,6 +152,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-10: [DrupalCon Portland 2024](https://events.drupal.org/portland2024) - Portland (USA) <a href="https://sessionize.com/drupalcon-portland-2024"><img alt="CFP DrupalCon Portland 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-November-2023&color=red"></a>
 * 6-8: [Techorama 2024 Belgium](https://www.techorama.be) - Antwerp (Belgium) <a href="https://sessionize.com/techorama-2024-belgium/"><img alt="CFP Techorama 2024 Belgium" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2024&color=red"></a>
 * 7: [IDM Nordics](https://whitehallmedia.co.uk/future-events/) - Stockholm (Sweden)
+* 7: [OpenInfra Day Sweden](https://oideurope2024.openinfra.dev/sweden/) - Gothenburg (Sweden) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCvmgoq_9cqIDxz2K3ZI5dPZvsUSaaksGJpVEKt-6U89Udzg/viewform"><img alt="CFP OpenInfra Day Sweden" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-March-2024&color=red"></a>
 * 7: [KubeHuddle Toronto 2024](https://ca.kubehuddle.com) - Toronto (Canada) <a href="https://sessionize.com/kubehuddle-toronto-2024/"><img alt="KubeHuddle Toronto 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-Feb-2024&color=red"></a>
 * 7-8: [DevOpsDays Berlin](https://devopsdays.org/events/2024-berlin) - Berlin (Germany) <a href="https://cfp.devopsdays.berlin/2024/cfp"><img alt="CFP DevOpsDays Berlin" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=red"></a>
 * 7-9: [Rails Conf 2024](https://railsconf.org/) - Detroit (USA) <a href="https://sessionize.com/railsconf2024"><img alt="CFP Rails Conf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-February-2024&color=red"></a>
@@ -177,6 +178,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-15: [DevOpsDays Philadelphia](https://devopsdays.org/events/2024-philadelphia) - Philadelphia, PA (USA)
 * 14-15: [Iceberg Summit 2024](https://iceberg-summit.org/) - Online <a href="https://sessionize.com/iceberg-summit-2024/"><img alt="CFP Iceberg Summit 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-April-2024&color=green"></a>
 * 14-16: [OpenSIPS Summit 2024](https://www.opensips.org/events/Summit-2024Valencia) - Valencia (Spain) <a href="https://www.papercall.io/opensips-summit-2024"><img alt="CFP OpenSIPS Summit 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-March-2024&color=red"></a>
+* 15: [OpenInfra Day Germany](https://oideurope2024.openinfra.dev/germany/) - Berlin (Germany) <a href="https://forms.gle/KJzFYxVSh7JadurSA"><img alt="CFP OpenInfra Day Germany" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-March-2024&color=red"></a>
 * 15-16: [Kubernetes Community Days KCD Istanbul 2024](https://kcd.istanbul) - Istanbul (Turkiye) <a href="https://sessionize.com/kubernetes-community-days-istanbul"><img alt="CFP Kubernetes Community Days Istanbul 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jan-2024&color=red"></a>
 * 15-16: [Camunda Con Berlin](https://www.camundacon.com/emea/berlin/tickets/) - Berlin (Germany) & Online
 * 15-16: [React Conf 2024](https://conf.react.dev/) - Henderson, NV (USA) <a href="https://sessionize.com/react-conf-2024/"><img alt="CFP React Conf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-March-2024&color=red"></a>
@@ -201,6 +203,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18: [Write The Docs Kenya Conference](https://www.meetup.com/wtd-kenya/) - Nairobi (Kenya) <a href="https://sessionize.com/wtd-kenya-conf/"><img alt="CFP Write The Docs Kenya Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=red"></a>
 * 18: [DevOpsDays São Paulo](https://devopsdays.org/events/2024-sao-paulo) - São Paulo, SP (Brazil)
 * 18-19: [BSides São Paulo](https://www.securitybsides.com.br) - São Paulo (Brazil) <a href="https://www.papercall.io/bsides-v19"><img alt="CFP BSides São Paulo" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2024&color=red"></a>
+* 20: [OpenInfra Day Türkiye](https://oideurope2024.openinfra.dev/) - Istanbul (Turkey) <a href="https://openinfraturkiye.org.tr/call-for-presentations"><img alt="CFP OpenInfra Day Türkiye" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2024&color=green"></a>
 * 20-21: [DevOps Pro Europe 2024](https://devopspro.lt/) - Online
 * 20-23: [DevOpsCon San Diego](https://devopscon.io/san-diego/) - San Diego (USA)
 * 20-23: [International JavaScript Conference San Diego](https://javascript-conference.com/san-diego/) - San Diego (USA)
@@ -265,6 +268,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1: [DevOpsDays Nairobi](https://devopsdays.org/events/2024-nairobi) - Nairobi (Kenya)
 * 3-5: [Community Over Code EU 2024](https://eu.communityovercode.org) - Bratislava (Slovakia) <a href="https://sessionize.com/coceu-2024"><img alt="CFP Community Over Code EU 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2024&color=red"></a>
 * 4: [re>≡CAP](https://recap-conf.dev/) - Sankt Leon-Rot (Germany) <a href="https://recap.cfapps.eu12.hana.ondemand.com/"><img alt="CFP recap 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-February-2024&color=red"></a>
+* 4: [OpenInfra Day Hungary](https://oideurope2024.openinfra.dev/hungary/) - Budapest (Hungary) <a href="https://forms.gle/5uhidFatr2sLp6qNA"><img alt="CFP OpenInfra Day Hungary" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-April-2024&color=green"></a>
 * 4: [AWS Summit Stockholm](https://aws.amazon.com/fr/events/summits/emea/stockholm/) - Stockholm (Sweden)
 * 4-5: [JNation](https://jnation.pt/) - Coimbra (Portugal) <a href="https://sessionize.com/jnation-2024/"><img alt="CFP JNation 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=red"></a>
 * 4-5: [DevOpsDays Houston](https://devopsdays.org/events/2024-houston) - Houston, TX (USA)
