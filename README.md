@@ -203,7 +203,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18: [Write The Docs Kenya Conference](https://www.meetup.com/wtd-kenya/) - Nairobi (Kenya) <a href="https://sessionize.com/wtd-kenya-conf/"><img alt="CFP Write The Docs Kenya Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=red"></a>
 * 18: [DevOpsDays São Paulo](https://devopsdays.org/events/2024-sao-paulo) - São Paulo, SP (Brazil)
 * 18-19: [BSides São Paulo](https://www.securitybsides.com.br) - São Paulo (Brazil) <a href="https://www.papercall.io/bsides-v19"><img alt="CFP BSides São Paulo" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2024&color=red"></a>
-* 20: [OpenInfra Day Türkiye](https://oideurope2024.openinfra.dev/) - Istanbul (Türkiye) <a href="https://openinfraturkiye.org.tr/call-for-presentations"><img alt="CFP OpenInfra Day Türkiye" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2024&color=green"></a>
+* 20: [OpenInfra Day Türkiye](https://oideurope2024.openinfra.dev/) - Istanbul (Turkey) <a href="https://openinfraturkiye.org.tr/call-for-presentations"><img alt="CFP OpenInfra Day Türkiye" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2024&color=green"></a>
 * 20-21: [DevOps Pro Europe 2024](https://devopspro.lt/) - Online
 * 20-23: [DevOpsCon San Diego](https://devopscon.io/san-diego/) - San Diego (USA)
 * 20-23: [International JavaScript Conference San Diego](https://javascript-conference.com/san-diego/) - San Diego (USA)
