@@ -815,6 +815,10 @@
     "latitude": 47.5976972,
     "longitude": -2.7533397586005415
   },
+  "Gothenburg (Sweden)": {
+    "latitude": 57.7072326,
+    "longitude": 11.9670171
+  },
   "Granada (Spain)": {
     "latitude": 37.1774605,
     "longitude": -3.5984368
@@ -1326,6 +1330,10 @@
   "Medellin (Columbia)": {
     "latitude": 6.2697018,
     "longitude": -75.60252574475943
+  },
+  "Medellín (Colombia)": {
+    "latitude": 6.2443382,
+    "longitude": -75.573553
   },
   "Melbourne (Australia)": {
     "latitude": -37.8142454,
