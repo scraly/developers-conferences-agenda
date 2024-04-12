@@ -280,6 +280,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5: [UI5con](https://openui5.org/ui5con/germany2024/) - Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.com/"><img alt="CFP UI5con 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-February-2024&color=red"></a>
 * 5: [AWS Summit Madrid](https://aws.amazon.com/es/events/summits/emea/madrid/) - Madrid (Spain)
 * 5-6: [DeveloperWeek Global 2024](https://www.developerweek.com/global/) - Online <a href="https://sessionize.com/developerweek-global-2024"><img alt="CFP DeveloperWeek Global 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-March-2024&color=red"></a>
+* 5-7: [Penpot Fest 24](https://penpotfest.org/) - Barcelona (Spain)
 * 5-11: [DjangoCon Europe](https://2024.djangocon.eu/) - Vigo (Spain) <a href="https://pretalx.evolutio.pt/djangocon-europe-2024/cfp"><img alt="CFP DjangoCon Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2024&color=red"></a>
 * 6: [Tech passion day 2024](https://techpassionday.com/) - Copenhagen (Denmark) <a href="https://sessionize.com/tech-passion-day-2024/"><img alt="CFP Tech passion day 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-May-2024&color=green"></a>
 * 6: [Agile Tour Geneva](https://www.agilesuisse.ch/agile-tour-geneve-2024) - Geneva (Switzerland)
