@@ -280,7 +280,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5: [UI5con](https://openui5.org/ui5con/germany2024/) - Sankt Leon-Rot (Germany) <a href="http://ui5con2024.cfapps.eu12.hana.ondemand.com/"><img alt="CFP UI5con 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-February-2024&color=red"></a>
 * 5: [AWS Summit Madrid](https://aws.amazon.com/es/events/summits/emea/madrid/) - Madrid (Spain)
 * 5-6: [DeveloperWeek Global 2024](https://www.developerweek.com/global/) - Online <a href="https://sessionize.com/developerweek-global-2024"><img alt="CFP DeveloperWeek Global 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-March-2024&color=red"></a>
-* 5-7: [Penpot Fest 24](https://penpotfest.org/) - Barcelona (Spain)
+* 5-7: [Penpot Fest 24](https://penpotfest.org/) - Barcelona (Spain) <a href="https://community.penpot.app/t/be-a-part-and-share-your-expertise-at-penpot-fest-2024/4653"><img alt="CFP Penpot Fest 24" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-May-2024&color=green"></a>
 * 5-11: [DjangoCon Europe](https://2024.djangocon.eu/) - Vigo (Spain) <a href="https://pretalx.evolutio.pt/djangocon-europe-2024/cfp"><img alt="CFP DjangoCon Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2024&color=red"></a>
 * 6: [Tech passion day 2024](https://techpassionday.com/) - Copenhagen (Denmark) <a href="https://sessionize.com/tech-passion-day-2024/"><img alt="CFP Tech passion day 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-May-2024&color=green"></a>
 * 6: [Agile Tour Geneva](https://www.agilesuisse.ch/agile-tour-geneve-2024) - Geneva (Switzerland)
@@ -546,6 +546,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28: [ThreatModCon 2024 San Francisco](https://www.threatmodcon.com/) - San Francisco, CA (USA) <a href="https://sessionize.com/threatmodcon-2024-san-francisco"><img alt="CFP ThreatModCon 2024 San Francisco" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2024&color=green"></a>
 * 30-01/10: [Targeting Quality 2024](https://targetingquality.ca/) - Cambridge, ON (Canada) <a href="https://www.papercall.io/tq2024"><img alt="CFP Targeting Quality 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-April-2024&color=green"></a>
 * 30-02/10: [Agile By Example](https://agilebyexample.com/) - Warsaw (Poland) <a href="https://agilebyexample.com/speak-at-abe/"><img alt="CFP Agile By Example" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
+* 30-02/10: [PGConf NYC](https://2024.pgconf.nyc/) - New York, NY (USA) <a href="https://2024.pgconf.nyc/callforpapers/"><img alt="CFP PGConf NYC" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-June-2024&color=green"></a>
 * 30-03/10: [Dev2Next](https://www.dev2next.com/) - Lone Tree, Colorado (USA) <a href="https://www.dev2next.com/cfp"><img alt="CFP Dev2Next" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2024&color=red"></a>
 
 ### October
@@ -663,6 +664,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19-21: [Open Source Monitoring Conference](https://osmc.de/) - Nuremberg (Germany) <a href="https://osmc.de/call-for-papers/"><img alt="CFP Open Source Monitoring Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2024&color=green"></a>
 * 21: [Conf42 Prompt Engineering 2024](https://www.conf42.com/prompt2024) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2024"><img alt="CFP Conf42 Prompt Engineering 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-October-2024&color=green"></a>
 * 21: [JSNation US Online](https://jsnation.us/) - Online <a href="https://forms.gle/xu7MJi1GkXTZd8Bi8"><img alt="CFP JS Nation US Online" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2024&color=green"></a>
+* 21-22: [WeyWeyWeb](https://weyweyweb.com) - Málaga (Spain) <a href="https://forms.gle/9PMZza735aVeDBaV7"><img alt="CFP WeyWeyWeb" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2024&color=green"></a>
 * 22-23: [Open Conf - 2024](https://www.open-conf.gr/) - Athens (Greece) <a href="https://sessionize.com/open-conf-2024"><img alt="CFP Open Conf - 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-March-2024&color=red"></a>
 * 26: [Oh My H@ck](https://omhconf.pl/) - Warsaw (Poland) <a href="https://omhconf.pl/cfp-2024/"><img alt="CFP Oh My H@ck" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-September-2024&color=green"></a>
 * 28: [ESRM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
