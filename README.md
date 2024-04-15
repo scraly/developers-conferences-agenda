@@ -293,6 +293,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-8: [BelPy 2024](https://belpy.in) - Belagavi (India) <a href="https://www.papercall.io/belpy2024"><img alt="CFP BelPy 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-April-2024&color=green"></a>
 * 7: [Fork it! Community](https://www.forkit.community/) - Rouen (France) <a href="https://conference-hall.io/public/event/1GyOS8KvW02suD6jQmjz"><img alt="CFP Fork it community" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-April-2024&color=green"></a>
 * 7: [UXDay IT](https://2024.uxday.it/) - Faenza (Italy) <a href="https://2024.uxday.it/welcome/cfp.html"><img alt="CFP UXDay IT" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=red"></a>
+* 7: [HalfStack Newquay](https://halfstackconf.com/newquay) - Newquay (UK)
 * 7-9: [Pycon Colombia](https://2024.pycon.co/en) - Medellin (Colombia) <a href="https://2024.pycon.co/en/call-for-proposals"><img alt="CFP Pycon Colombia" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2024&color=red"></a>
 * 7-9: [ScalaMatsuri](https://scalamatsuri.org/en) - Tokyo (Japan) <a href="https://scalamatsuri.org/en"><img alt="CFP ScalaMatsuri" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-February-2024&color=red"></a>
 * 8: [Data Saturday Croatia 2024](https://datasaturdays.com/2024-06-08-datasaturday0042/) - Zagreb (Croatia) <a href="https://sessionize.com/data-saturday-croatia-2024/"><img alt="CFP Data Saturday Croatia 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2023&color=red"></a>
@@ -413,6 +414,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18-19: [AI in Production](https://www.aiinproduction.com) - Asheville, NC (USA) <a href="https://www.papercall.io/aiinproduction"><img alt="CFP AI in Production" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2024&color=green"></a>
 * 19-20: [JConf Dominicana 2024](https://jconfdominicana.org/) - Santiago de los Caballeros (Dominican Republic) <a href="https://www.papercall.io/jconf-dominicana-2024"><img alt="CFP JConf Dominicana 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-March-2024&color=red"></a>
 * 19-20: [Security BSides Albuquerque](https://www.bsidesabq.org) - Albuquerque (USA) <a href="https://sessionize.com/bsides-albuquerque-2024/"><img alt="CFP Security BSides Albuquerque" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2024&color=green"></a>
+* 19-24: [GUADEC](https://events.gnome.org/event/209/) - Denver, CO (USA)
 * 20: [KCD Lima](https://community.cncf.io/kcd-lima-peru/) - Lima (Peru)
 * 21-26: [Agile2024](https://www.agilealliance.org/agile2024/) - Dallas, TX (USA) <a href="https://sessionize.com/agile2024/"><img alt="CFP Agile2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=red"></a>
 * 24-25: [SkySummit](https://skysummit.io) - Berlin (Germany) <a href="https://sessionize.com/skysummit/"><img alt="CFP SkySummit" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-January-2024&color=red"></a>
@@ -475,6 +477,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5-6: [OWASP New Zealand Day](https://appsec.org.nz/conference) - Auckland (New Zealand) <a href="https://www.papercall.io/owaspnz2024"><img alt="CFP OWASP New Zealand Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 5-6: [droidcon Lisbon 2024](http://lisbon.droidcon.com) - Lisbon (Portugal) <a href="https://sessionize.com/droidcon-lisbon-2024/"><img alt="CFP droidcon Lisbon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
 * 6: [JUG Summer Camp](https://www.jugsummercamp.org) - La Rochelle (France)
+* 6: [HalfStack Belgrade](https://halfstackconf.com/belgrade) - Belgrade (Serbia)
 * 6-7: [Agile Pays Basque](https://agile-paysbasque.fr/) - Bidart (France) <a href="https://conference-hall.io/public/event/w59YkxhTPvNuwdaRCXKc"><img alt="CFP Agile pays basque 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 6-8: [Blue Team Con](https://blueteamcon.com/) - Chicago, IL (USA) <a href="https://blueteamcon.com/blue-team-con-2024-call-for-papers/"><img alt="CFP Blue Team Con" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-March-2024&color=red"></a>
 * 8: [AWS Community Day Bay Area](https://www.aws-aicd.com/) - Mountain View, CA (USA) <a href="https://www.aws-aicd.com/call-for-presentations"><img alt="CFP AWS Community Day Bay Area" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-July-2024&color=green"></a>
@@ -490,6 +493,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11-13: [GDevCon#5](http://www.gdevcon.com) - Stuttgart (Germany) <a href="https://www.papercall.io/gdevcon5"><img alt="CFP GDevCon#5" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2024&color=green"></a>
 * 12: [BSides Belfast 2024](https://bsidesbelfast.org/) - Belfast (UK) <a href="https://sessionize.com/bsides-belfast-2024/"><img alt="CFP BSides Belfast 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
 * 13: [UtahJS Conf 2024](https://www.utahjs.com/conference) - Sandy, UT (USA) <a href="https://sessionize.com/utahjs-conf-2024"><img alt="CFP UtahJS Conf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-April-2024&color=red"></a>
+* 13: [HalfStack Vienna](https://halfstackconf.com/vienna) - Vienna (Austria)
 * 14: [BSides Krakow 2024](https://bsideskrakow.pl/) - Krakow (Poland)
 * 14: [TofuConf](https://tofuconf.com/) - Madrid (Spain)
 * 15-20: [CppCon](https://cppcon.org/about/) - Aurora, Colorado (USA)
@@ -636,6 +640,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5-14: [CloudX 2024](https://www.developerweek.com/cloudx/) - Santa Clara, CA (USA) <a href="https://sessionize.com/cloudx-2024/"><img alt="CFP CloudX 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-June-2024&color=green"></a>
 * 6: [Master Dev De France](https://www.masterdevfrance.com/) - Paris (France)
 * 6-8: [Oredev](https://oredev.org/) - Malmo (Sweden) <a href="https://sessionize.com/oredev-2024/"><img alt="CFP Øredev 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=red"></a>
+* 6-8: [DroidConKE24](https://droidcon.co.ke/) - Nairobi (Kenya)
 * 7: [DevDay](https://www.devday.be) - Mons (Belgium) <a href="https://sessionize.com/devday-2024/"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=until%203-September-2024&color=green"></a>
 * 7: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France) <a href="https://sessionize.com/devfest-toulouse/"><img alt="CFP DevFest Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 7: [LaravelDay](https://2024.laravelday.it/) - Verona (Italy) & Online <a href="https://2024.laravelday.it/welcome/cfp.html"><img alt="CFP LaravelDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-July-2024&color=green"></a>
@@ -653,6 +658,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-14: [Agile Tour Rennes 2024](https://agiletour.agilerennes.org/) - Rennes (France) <a href="https://sessionize.com/agile-tour-rennes-2024/"><img alt="CFP Agile Tour Rennes 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
 * 13-15: [Build Stuff 2024 Lithuania](http://buildstuff.events) - Vilnius (Lithuania) <a href="https://sessionize.com/build-stuff-2024/"><img alt="CFP Build Stuff 2024 Lithuania" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-June-2024&color=green"></a>
 * 14: [Conf24 Prompt Engineering](https://www.conf42.com/prompt2024) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2024"><img alt="CFP Conf42 Prompt" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-Oct-2024&color=green"></a>
+* 14: [Kotlin Dev Day](https://kotlindevday.com/) - Amsterdam (Netherlands)
 * 14-15: [DevOps Barcelona](https://devops.barcelona/) - Barcelona (Spain) <a href="https://devops.barcelona/call-for-papers"><img alt="CFP DevOps Barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 14-15: [Conferencia Agile Spain (CAS2024)](https://cas.agile-spain.org/) - Madrid (Spain) <a href="https://sessionize.com/conferencia-agile-spain-cas2024/"><img alt="CFP Conferencia Agile Spain (CAS2024)" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2024&color=green"></a>
 * 14-16: [TRG Con](https://www.trgcon.com/) - Madrid (Spain)
@@ -673,11 +679,14 @@ All the data (past and coming) are available publicly in JSON:
 
 ### December
 
+* 2-4: [DevOps Vision](https://devopsvision.io/) - Clearwater, FL (USA)
 * 3-5: [APIdays Paris](https://www.apidays.global/paris/) - Paris (France)
 * 3-4: [Frontend Barcelona 2024](https://frontend.barcelona/?utm_source=developers-conference-agenda&utm_medium=link&utm_campaign=frontend-barcelona-2024&utm_id=frontend-barcelona-2024) - Barcelona (Spain) <a href="https://frontend.barcelona/call-for-papers"><img alt="CFP Frontend Barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2024&color=green"></a>
+* 4-5: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France)
 * 5: [Conf42.com DevSecOps 2024](https://www.conf42.com/devsecops2024) - Online <a href="https://www.papercall.io/conf42-devsecops-2024"><img alt="CFP Conf42.com DevSecOps 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-November-2024&color=green"></a>
 * 11: [You Got This Winter 2024](https://yougotthis.io/events/winter-2024) - Online
 * 11-12: [KubeCon + CloudNativeCon India 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) - Delhi (India)
+* 13-16: [React Day Berlin](https://reactday.berlin) - Berlin (Germany) <a href="https://forms.gle/xFDmUHGY1b7hb77c7"><img alt="CFP React Day Berlin" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-August-2024&color=green"></a>
 * 14: [DevOpsDays Recife 2024](https://devopsdays.org/recife) - Recife (Brazil) <a href="https://www.papercall.io/dodrec24"><img alt="CFP DevOpsDays Recife 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2024&color=green"></a>
 * 14-15: [Euro STEM](https://eurostem.eu/) - Tallinn (Estonia) <a href="https://eurostem.eu/grants/"><img alt="Scholarship" src="https://img.shields.io/static/v1?label=Scholarship&message=until%2001-October-2024&color=yellow" /></a>
 * 19: [Conf42.com Internet of Things (IoT) 2024](https://www.conf42.com/iot2024) - Online <a href="https://www.papercall.io/conf42-iot-2024"><img alt="CFP Conf42.com Internet of Things (IoT) 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-November-2024&color=green"></a>
@@ -686,8 +695,10 @@ All the data (past and coming) are available publicly in JSON:
 
 ### January
 
+* 22-25: [SnowCamp 2025](https://snowcamp.io/) - Grenoble (France)
 * 23: [Conf42.com DevOps 2025](https://www.conf42.com/devops2025) - Online <a href="https://www.papercall.io/conf42-devops-2025"><img alt="CFP Conf42.com DevOps 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2024&color=green"></a>
 * 28-29: [Cybersec Asia 2025](http://www.cybersec-asia.net) - Bangkok (Thailand) <a href="https://www.papercall.io/cybersecasia25"><img alt="CFP Cybersec Asia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2024&color=green"></a>
+* 31: [HalfStack Phoenix](https://halfstackconf.com/phoenix) - Gilbert, AZ (USA)
 
 ### February
 
