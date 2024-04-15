@@ -459,7 +459,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27: [gRPC Conf 2024](https://events.linuxfoundation.org/grpc-conf/) - Sunnyvale, CA (USA) <a href="https://sessionize.com/grpc-conf-2024"><img alt="CFP gRPC Conf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2024&color=green"></a>
 * 27-1/09: [KubeDay Japan 2024](https://events.linuxfoundation.org/kubeday-japan/) - Tokyo (Japan) <a href="https://events.linuxfoundation.org/kubeday-japan/program/cfp/"><img alt="CFP KubeDay Japan 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2024&color=green"></a>
 * 27-28: [Laracon US](https://laracon.us/) - Dallas, TX (USA)
-* 27-30: [ElixirConf US](https://2024.elixirconf.com/) - Olrando, FL (USA)
+* 27-30: [ElixirConf US](https://2024.elixirconf.com/) - Orlando, FL (USA)
 * 28: [AWS Community Day New York 2024](https://www.awscommunitynewyork.com) - New York, NY (USA) <a href="https://sessionize.com/aws-community-day-ny-2024/"><img alt="CFP AWS Community Day New York 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
 * 30: [ShipItCon](https://shipitcon.com/) - Dublin (Ireland)
 * 30-31: [BSides Bristol 2024](https://www.bsidesbristol.org.uk) - Bristol (UK) <a href="https://www.papercall.io/bsidesbristol2024"><img alt="CFP BSides Bristol 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2024&color=green"></a>

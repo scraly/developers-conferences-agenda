@@ -591,6 +591,10 @@
     "latitude": 49.7439047,
     "longitude": 15.3381061
   },
+  "Cáceres (Spain)": {
+    "latitude": 39.4751126,
+    "longitude": -6.371453
+  },
   "Dakar (Senegal)": {
     "latitude": 14.693425,
     "longitude": -17.447938
@@ -790,6 +794,10 @@
   "Ghent (Belgium)": {
     "latitude": 51.0538286,
     "longitude": 3.7250121
+  },
+  "Gilbert, AZ (USA)": {
+    "latitude": 33.3528264,
+    "longitude": -111.789027
   },
   "Gladstone (Australia)": {
     "latitude": -23.8431724,
@@ -1590,6 +1598,10 @@
   "Orlando (USA)": {
     "latitude": 28.5421109,
     "longitude": -81.3790304
+  },
+  "Orlando, FL (USA)": {
+    "latitude": 28.5383832,
+    "longitude": -81.3789269
   },
   "Orlando, Florida (USA)": {
     "latitude": 28.5421109,
