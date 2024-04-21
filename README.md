@@ -134,7 +134,6 @@ All the data (past and coming) are available publicly in JSON:
 * 27: [DDD South West](https://dddsouthwest.com/) - Bristol (UK)
 * 27: [IWD Honduras 2024](https://gdg.community.dev/e/m5sxgt/) - Tegucigalpa (Honduras) <a href="https://sessionize.com/iwd-honduras-2024/"><img alt="CFP IWD Honduras 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=red"></a>
 * 27: [Flisol](https://scrollarmy.com.ar/event) - Pergamino (Argentina) <a href="https://www.papercall.io/flisol-scrollarmy"><img alt="CFP Flisol" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-April-2024&color=red"></a>
-* 28: [Who Run The Tech ?](https://whorunthetech.com) - Rennes (France) <a href="https://conference-hall.io/public/event/bJDribf9r5Lf2VzBgbYQ"><img alt="CFP Who Run The Tech ? 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%204-June-2024&color=green"></a>
 * 29-01/05: [ONE Summit](https://events.linuxfoundation.org/one-summit-north-america/) - San Jose (USA) <a href="https://events.linuxfoundation.org/one-summit-north-america/program/cfp/"><img alt="CFP ONE Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-Dec-2023&color=red"></a>
 * 29-03/05: [Visual Studio Live](https://vslive.com/) - Chicago, IL (USA) <a href="https://sessionize.com/VSLive_Chiacgo_MicrosoftHQ_2024"><img alt="CFP Visual Studio Live" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-Nov-2023&color=red"></a>
 * 30-01/05: [API Days New York](https://www.apidays.global/new-york/) - New York, NY (USA) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days New York" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2024&color=red"></a>
@@ -680,6 +679,7 @@ All the data (past and coming) are available publicly in JSON:
 * 26: [Oh My H@ck](https://omhconf.pl/) - Warsaw (Poland) <a href="https://omhconf.pl/cfp-2024/"><img alt="CFP Oh My H@ck" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-September-2024&color=green"></a>
 * 28: [ESRM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 28: [SREday 2024](https://www.sreday.com) - Amsterdam (Netherlands) <a href="https://www.papercall.io/sreday-2024-amsterdam"><img alt="CFP SREday 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-August-2024&color=green"></a>
+* 28: [Who Run The Tech ?](https://whorunthetech.com) - Rennes (France) <a href="https://conference-hall.io/public/event/bJDribf9r5Lf2VzBgbYQ"><img alt="CFP Who Run The Tech ? 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%204-June-2024&color=green"></a>
 
 ### December
 
