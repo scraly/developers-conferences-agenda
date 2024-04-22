@@ -75,6 +75,10 @@
     "latitude": 51.2211097,
     "longitude": 4.3997081
   },
+  "Antwerpen (Belgium)": {
+    "latitude": 51.2213404,
+    "longitude": 4.4051485
+  },
   "Aracaju (Brazil)": {
     "latitude": -10.9266526,
     "longitude": -37.0729014
@@ -262,6 +266,10 @@
   "Bilbao (Spain)": {
     "latitude": 43.2630018,
     "longitude": -2.9350039
+  },
+  "Biot (France)": {
+    "latitude": 43.62685099999999,
+    "longitude": 7.09808
   },
   "Birmingham (UK)": {
     "latitude": 52.4796992,
@@ -606,6 +614,10 @@
   "Dallas/Irving, Texas (USA)": {
     "latitude": 32.891402049999996,
     "longitude": -96.97086265455442
+  },
+  "Dar es Salaam (Tanzania)": {
+    "latitude": -6.8165054,
+    "longitude": 39.2894367
   },
   "Darmstadt (Germany)": {
     "latitude": 49.8851869,
@@ -1198,6 +1210,10 @@
   "Lille, Lyon, Nantes, Tours (France)": {
     "latitude": 50.62925,
     "longitude": 3.057256
+  },
+  "Lillestrøm (Norway)": {
+    "latitude": 59.9559696,
+    "longitude": 11.0503785
   },
   "Lima (Peru)": {
     "latitude": -12.0621065,
@@ -2294,6 +2310,10 @@
   "Windhoek (Namibia)": {
     "latitude": -22.5776104,
     "longitude": 17.0772739
+  },
+  "Winnipeg, MB (Canada)": {
+    "latitude": 49.8954221,
+    "longitude": -97.1385145
   },
   "Winterthur, Zürich (Switzerland)": {
     "latitude": 47.4991723,
