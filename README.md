@@ -582,7 +582,7 @@ All the data (past and coming) are available publicly in JSON:
 ### October
 
 * 2: [IDM Europe](https://whitehallmedia.co.uk/future-events/) - Utrecht (Netherlands)
-* 2-4: [Devoxx Morocco](https://devoxx.ma/) - Marrakech (Morocco)
+* 2-4: [Devoxx Morocco](https://devoxx.ma/) - Marrakech (Morocco) <a><img alt="CFP Devoxx Morocco 2024" src="https://img.shields.io/static/v1?label=CFP&message=from%2006-May-2024-until%2007-Jul-2024&color=red"></a>
 * 2-4: [MSSN CTRL 2024](http://mssnctrl.org) -  Arlington, VA (USA) <a href="https://www.papercall.io/mssnctrl2024"><img alt="CFP MSSN CTRL 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-June-2024&color=green"></a>
 * 3: [Digital Architecture Design Day 2024](https://dadd.nl) - Nieuwegein (Netherlands) <a href="https://sessionize.com/dadd2024"><img alt="CFP Digital Architecture Design Day 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2024&color=green"></a>
 * 3: [Chicago Women in Technology Virtual Conference 2024](https://chiwomenintech.com/) - Chicago, IL (USA) <a href="https://www.papercall.io/chiwitcon2024"><img alt="CFP Chicago Women in Technology Virtual Conference 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2024&color=green"></a>
