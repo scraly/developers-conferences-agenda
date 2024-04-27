@@ -8,7 +8,8 @@
     "lucide-react": "0.252.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-leaflet": "^4.2.1"
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.21.3"
   },
   "scripts": {
     "start": "vite",
@@ -23,7 +24,7 @@
     "@vitejs/plugin-react-swc": "^3.0.0",
     "prettier": "^1.18.2",
     "prettier-airbnb-config": "^1.0.0",
-    "vite": "^4.5.2"
+    "vite": "^4.5.3"
   },
   "prettier": "prettier-airbnb-config"
 }

@@ -1,7 +1,14 @@
-.yearNavigator {
+.yearNavigatorWrapper, .yearNavigator {
   display: flex;
   align-items: center;
+}
+
+.yearNavigatorWrapper {
+  position: relative;
   justify-content: center;
+}
+
+.yearNavigator {
   gap: 1rem;
 }
 
