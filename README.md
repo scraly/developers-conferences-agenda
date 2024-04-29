@@ -247,7 +247,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-31: [Webinale](https://webinale.de/en/) - Berlin (Germany)
 * 28-29: [Cybersec Europe](https://www.cyberseceurope.com/) - Bruxelles (Belgium)
 * 28-29: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP jPrime" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Feb-2024&color=red"></a>
-* 28-29: [API Days Helsinki & North](https://www.apidays.global/helsinki_and_north/) - Helsinki (Finland) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Helsinki & north" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-April-2024&color=green"></a>
+* 28-29: [API Days Helsinki & North](https://www.apidays.global/helsinki_and_north/) - Helsinki (Finland) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Helsinki & north" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-April-2024&color=red"></a>
 * 28-29: [Symfony Live Paris](https://live.symfony.com/2024-paris/) - Paris (France)
 * 28-30: [Web à Québec](https://webaquebec.org/) - Quebec, QC (Canada) <a href="https://webaquebec.org/appel-a-conferences"><img alt="CFP Web à Québec" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2024&color=red"></a>
 * 29: [AWS Summit Dubai](https://aws.amazon.com/fr/events/summits/emea/dubai/) - Dubai (United Arab Emirates)
@@ -340,6 +340,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15-19: [TechLead Conference](https://techleadconf.com/) - Online <a href="https://www.papercall.io/techlead"><img alt="CFP TechLead Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=red"></a>
 * 17: [JSNation](https://jsnation.com/) - Online <a href="https://www.papercall.io/jsnation"><img alt="CFP JSNation" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2024&color=red"></a>
 * 17: [Micro Frontends Conference 2024](https://conference.microfrontends.cloud/) - Online <a href="https://sessionize.com/micro-frontends-conference-2024/"><img alt="CFP Micro Frontends Conference 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=red"></a>
+* 17-19: [SUSECON 2024](https://www.suse.com/susecon/) - Berlin (Germany)
 * 17-20: [GopherCon Europe 2024: Summer Edition in Berlin](https://gophercon.eu) - Berlin (Germany) <a href="https://sessionize.com/gceu24b"><img alt="CFP GopherCon Europe 2024: Summer Edition in Berlin" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-February-2024&color=red"></a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdzKPRtamkvdxZlx-X-7cNZznEy__LGhHkmTgz8fZFtag8scw/viewform"><img alt="Scholarship" src="https://img.shields.io/static/v1?label=Scholarship&message=until%2008-April-2024&color=yellow" /></a>
 * 17-20: [DevOpsCon Berlin](https://devopscon.io/berlin/) - Berlin (Germany) & Online
 * 18: [IDM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
@@ -490,7 +491,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5-6: [OWASP New Zealand Day](https://appsec.org.nz/conference) - Auckland (New Zealand) <a href="https://www.papercall.io/owaspnz2024"><img alt="CFP OWASP New Zealand Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 5-6: [droidcon Lisbon 2024](http://lisbon.droidcon.com) - Lisbon (Portugal) <a href="https://sessionize.com/droidcon-lisbon-2024/"><img alt="CFP droidcon Lisbon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
 * 5-6: [LF Energy Summit 2024](https://events.linuxfoundation.org/lfenergysummit/) - Brussels (Belgium) <a href="https://sessionize.com/lfenergy2024"><img alt="CFP LF Energy Summit 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2024&color=green"></a>
-* 6: [JUG Summer Camp](https://www.jugsummercamp.org) - La Rochelle (France)
+* 6: [JUG Summer Camp](https://www.jugsummercamp.org) - La Rochelle (France) <a href="https://conference-hall.io/public/event/p1eSeAZlUj8gc8DxE8vX"><img alt="CFP JUG SUmmer Camp 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-June-2024&color=green"></a>
 * 6: [HalfStack Belgrade](https://halfstackconf.com/belgrade) - Belgrade (Serbia)
 * 6-7: [Agile Pays Basque](https://agile-paysbasque.fr/) - Bidart (France) <a href="https://conference-hall.io/public/event/w59YkxhTPvNuwdaRCXKc"><img alt="CFP Agile pays basque 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 6-7: [Data Saturday Dallas 2024](https://datasaturdays.com/Event/20240907-datasaturday0056) - Irving, TX (USA) <a href="https://sessionize.com/data-saturday-dallas-2024"><img alt="CFP Data Saturday Dallas 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-June-2024&color=green"></a>
