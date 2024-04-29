@@ -247,7 +247,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-31: [Webinale](https://webinale.de/en/) - Berlin (Germany)
 * 28-29: [Cybersec Europe](https://www.cyberseceurope.com/) - Bruxelles (Belgium)
 * 28-29: [jPrime](https://jprime.io/) - Sofia (Bulgaria) <a href="https://jprime.io/cfp"><img alt="CFP jPrime" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Feb-2024&color=red"></a>
-* 28-29: [API Days Helsinki & North](https://www.apidays.global/helsinki_and_north/) - Helsinki (Finland) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Helsinki & north" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-April-2024&color=green"></a>
+* 28-29: [API Days Helsinki & North](https://www.apidays.global/helsinki_and_north/) - Helsinki (Finland) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Helsinki & north" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-April-2024&color=red"></a>
 * 28-29: [Symfony Live Paris](https://live.symfony.com/2024-paris/) - Paris (France)
 * 28-30: [Web à Québec](https://webaquebec.org/) - Quebec, QC (Canada) <a href="https://webaquebec.org/appel-a-conferences"><img alt="CFP Web à Québec" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2024&color=red"></a>
 * 29: [AWS Summit Dubai](https://aws.amazon.com/fr/events/summits/emea/dubai/) - Dubai (United Arab Emirates)
