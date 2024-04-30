@@ -759,6 +759,10 @@ All the data (past and coming) are available publicly in JSON:
 * 16-18: [Devoxx France](https://www.devoxx.fr) - Paris (France)
 * 29-30: [DevOpsDays Aarhus](https://devopsdays.org/events/2025-aarhus) - Aarhus (Denmark)
 
+### May
+
+* 19-22: [JCON EUROPE 2025](https://jcon.one/) - Cologne (Germany)
+  
 ### June
 
 * 2-6: [DDD Europe - 2025](https://dddeurope.com/) - Antwerpen (Belgium) <a href="https://sessionize.com/aardling2025"><img alt="CFP DDD Europe - 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2025&color=green"></a>
