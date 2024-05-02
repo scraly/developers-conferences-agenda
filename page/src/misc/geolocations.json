@@ -515,6 +515,10 @@
     "latitude": -7.46167105,
     "longitude": 108.80461463117007
   },
+  "Cincinnati, OH (USA)": {
+    "latitude": 39.1031182,
+    "longitude": -84.5120196
+  },
   "Clearwater, FL (USA)": {
     "latitude": 27.9658533,
     "longitude": -82.8001026
@@ -682,6 +686,10 @@
   "Dublin (Ireland)": {
     "latitude": 53.3493795,
     "longitude": -6.2605593
+  },
+  "Durango, CO (USA)": {
+    "latitude": 37.27528,
+    "longitude": -107.8800667
   },
   "Durham, NC (US)": {
     "latitude": 35.9940329,
