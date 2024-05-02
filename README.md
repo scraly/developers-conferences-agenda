@@ -324,7 +324,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13: [ServerlessDay Milano](https://milan.serverlessday.io) - Milan (Italy) <a href="https://www.papercall.io/serverlessdays-milano-2024"><img alt="CFP ServerlessDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-February-2024&color=red"></a>
 * 13: [LeadingEng London](https://leaddev.com/leadingeng-london) - London (UK) <a href="https://leaddev.submittable.com/submit/283039/talk-submissions-for-leadingeng-london-2024"><img alt="CFP LeadingEng London" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-February-2024&color=red"></a>
 * 13-14: [DevBCN](https://www.devbcn.com/) - Barcelona (Spain) <a href="https://sessionize.com/devbcn-2024/"><img alt="CFP DevBCN" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2024&color=red"></a>
-* 13-14: [KCD Barcelona - Cohosted with DevBCN] (https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-barcelona-2024/) - Barcelona (Spain) 
+* 13-14: [KCD Barcelona - Co-hosted with DevBCN] (https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-barcelona-2024/) - Barcelona (Spain) 
 * 13-14: [THE MERGE](https://merge.berlin) - Berlin (Germany) <a href="mailto:speakers@gitbutler.com"><img alt="THE MERGE" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=red"></a>
 * 13-14: [Agile Tour Toulouse](https://tour.agiletoulouse.fr/) - Toulouse (France)
 * 13-14: [FlutterNinjas](https://flutternjas.dev) - Tokyo (Japan) <a href="https://sessionize.com/flutterninjas-2024/"><img alt="CFP FlutterNinjas" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-April-2024&color=red"></a>
