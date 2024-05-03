@@ -539,6 +539,10 @@
     "latitude": 41.49932,
     "longitude": -81.6943605
   },
+  "Cluj (Romania)": {
+    "latitude": 46.769379,
+    "longitude": 23.5899542
+  },
   "Cluj, Transylvania (Romania)": {
     "latitude": 46.7712101,
     "longitude": 23.6236353
@@ -2046,6 +2050,10 @@
   "Sri Lanka": {
     "latitude": 7.5554942,
     "longitude": 80.7137847
+  },
+  "St Julian's (Malta)": {
+    "latitude": 35.9199225,
+    "longitude": 14.4877119
   },
   "St. Louis, MO (USA)": {
     "latitude": 38.6280278,
