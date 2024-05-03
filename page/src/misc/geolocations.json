@@ -1331,10 +1331,6 @@
     "latitude": 55.604981,
     "longitude": 13.003822
   },
-  "Malta (Malta)": {
-    "latitude": 35.8885993,
-    "longitude": 14.4476911
-  },
   "Manchester (UK)": {
     "latitude": 53.4807593,
     "longitude": -2.2426305
@@ -2054,6 +2050,10 @@
   "Sri Lanka": {
     "latitude": 7.5554942,
     "longitude": 80.7137847
+  },
+  "St Julian's (Malta)": {
+    "latitude": 35.9199225,
+    "longitude": 14.4877119
   },
   "St. Louis, MO (USA)": {
     "latitude": 38.6280278,
