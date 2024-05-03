@@ -539,6 +539,10 @@
     "latitude": 41.49932,
     "longitude": -81.6943605
   },
+  "Cluj (Romania)": {
+    "latitude": 46.769379,
+    "longitude": 23.5899542
+  },
   "Cluj, Transylvania (Romania)": {
     "latitude": 46.7712101,
     "longitude": 23.6236353
@@ -1326,6 +1330,10 @@
   "Malmö (Sweden)": {
     "latitude": 55.604981,
     "longitude": 13.003822
+  },
+  "Malta (Malta)": {
+    "latitude": 35.8885993,
+    "longitude": 14.4476911
   },
   "Manchester (UK)": {
     "latitude": 53.4807593,
