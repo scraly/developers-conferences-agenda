@@ -552,6 +552,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17-18: [DevOpsDays Salt Lake City](https://devopsdays.org/events/2024-salt-lake-city) - Salt Lake City, UT (USA)
 * 17-19: [PyCon Portugal](https://2024.pycon.pt/) - Braga (Portugal) <a href="https://pretalx.evolutio.pt/pycon-portugal-2024/cfp"><img alt="CFP PyCon Portugal 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-April-2024&color=red"></a>
 * 18-19: [GopherCon Africa](https://nairobi.gophers.africa) - Nairobi (Kenya) <a href="https://www.papercall.io/gophercon-africa"><img alt="CFP GopherCon Africa" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2024&color=green"></a>
+* 18-19: [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/) - Thessaloniki (Greece)
 * 21-23: [NANOG 92](https://nanog.org/events/nanog-92/) - Toronto (Canada)
 * 21-23: [Hands On Testing 2024 (Virtual)](https://handsontesting.com/) - Online <a href="https://sessionize.com/hands-on-testing-2024"><img alt="CFP Hands On Testing 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2024&color=red"></a>
 * 22-23: [KCD UK](https://kcduk.io/) - London (UK) <a href="https://sessionize.com/kcd-uk-london-2024"><img alt="CFP KCD UK" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-June-2024&color=green"></a>
