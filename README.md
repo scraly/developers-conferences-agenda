@@ -573,7 +573,7 @@ All the data (past and coming) are available publicly in JSON:
 * 30-31: [Agile Tour Nantais 2024](https://agilenantes.org/agile-tour-nantais-2024/) - Nantes (France) <a href="https://sessionize.com/agile-tour-nantais-2024"><img alt="CFP Agile Tour Nantais 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2024&color=green"></a>
 * 30-31: [Agile Tour Bordeaux 2024](https://agiletourbordeaux.fr/) - Bordeaux (France) <a href="https://sessionize.com/agile-tour-bordeaux-2024/"><img alt="CFP Agile Tour Bordeaux 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 31: [Conf42 JavaScript 2024](https://www.conf42.com/js2024) - Online <a href="https://www.papercall.io/conf42-javascript-2024"><img alt="CFP Conf42 JavaScript 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2024&color=green"></a>
-* 31-03/11: [PyCon.FR](https://www.pycon.fr/2024/) - Strasbourg (France)
+* 31-03/11: [PyCon.FR](https://www.pycon.fr/2024/) - Strasbourg (France) <a href="https://example.com/"><img alt="CFP conference-name" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-July-2024&color=green">https://cfp.pycon.fr/pyconfr-2024/cfp</a>
 
 ### November
 
