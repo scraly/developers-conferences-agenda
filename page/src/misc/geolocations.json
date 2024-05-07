@@ -515,6 +515,10 @@
     "latitude": -7.46167105,
     "longitude": 108.80461463117007
   },
+  "Cincinnati, OH (USA)": {
+    "latitude": 39.1031182,
+    "longitude": -84.5120196
+  },
   "Clearwater, FL (USA)": {
     "latitude": 27.9658533,
     "longitude": -82.8001026
@@ -534,6 +538,10 @@
   "Cleveland, OH (USA)": {
     "latitude": 41.49932,
     "longitude": -81.6943605
+  },
+  "Cluj (Romania)": {
+    "latitude": 46.769379,
+    "longitude": 23.5899542
   },
   "Cluj, Transylvania (Romania)": {
     "latitude": 46.7712101,
@@ -682,6 +690,10 @@
   "Dublin (Ireland)": {
     "latitude": 53.3493795,
     "longitude": -6.2605593
+  },
+  "Durango, CO (USA)": {
+    "latitude": 37.27528,
+    "longitude": -107.8800667
   },
   "Durham, NC (US)": {
     "latitude": 35.9940329,
@@ -1904,8 +1916,8 @@
     "longitude": 13.05501
   },
   "San Antonio, TX (USA)": {
-    "latitude": 29.4246002,
-    "longitude": -98.4951405
+    "latitude": 29.4251905,
+    "longitude": -98.4945922
   },
   "San Diego (USA)": {
     "latitude": 32.7174202,
@@ -2038,6 +2050,10 @@
   "Sri Lanka": {
     "latitude": 7.5554942,
     "longitude": 80.7137847
+  },
+  "St Julian's (Malta)": {
+    "latitude": 35.9199225,
+    "longitude": 14.4877119
   },
   "St. Louis, MO (USA)": {
     "latitude": 38.6280278,
