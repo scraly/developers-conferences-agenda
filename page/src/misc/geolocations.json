@@ -631,6 +631,10 @@
     "latitude": 49.8851869,
     "longitude": 8.6736295
   },
+  "Dead Sea (Jordan)": {
+    "latitude": 31.6406337,
+    "longitude": 35.5746844
+  },
   "Delhi (India)": {
     "latitude": 28.6273928,
     "longitude": 77.1716954
@@ -1162,6 +1166,10 @@
   "Lagos (Nigeria)": {
     "latitude": 6.4550575,
     "longitude": 3.3941795
+  },
+  "Lahore (Pakistan)": {
+    "latitude": 31.5656822,
+    "longitude": 74.3141829
   },
   "Lake Tahoe (USA)": {
     "latitude": 39.08854049999999,
@@ -2202,6 +2210,10 @@
   "Towson, MD (USA)": {
     "latitude": 39.4014955,
     "longitude": -76.6019125
+  },
+  "Trieste (Italy)": {
+    "latitude": 45.6496485,
+    "longitude": 13.7772781
   },
   "Trujillo (Peru)": {
     "latitude": -8.1157846,
