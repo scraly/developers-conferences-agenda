@@ -443,6 +443,10 @@
     "latitude": -33.928992,
     "longitude": 18.417396
   },
+  "Cardiff (UK)": {
+    "latitude": 51.483707,
+    "longitude": -3.1680962
+  },
   "Cardiff (Wales)": {
     "latitude": 51.4816546,
     "longitude": -3.1791934
@@ -778,6 +782,10 @@
   "Fort-De-France (Martinique)": {
     "latitude": 14.6060576,
     "longitude": -61.06988399999999
+  },
+  "Fortaleza (Brazil)": {
+    "latitude": -3.7327203,
+    "longitude": -38.5270134
   },
   "France": {
     "latitude": 46.603354,
@@ -2019,6 +2027,10 @@
     "latitude": -33.8698439,
     "longitude": 151.2082848
   },
+  "Sinaloa (Mexico)": {
+    "latitude": 25.8226854,
+    "longitude": -108.2216704
+  },
   "Singapore": {
     "latitude": 1.357107,
     "longitude": 103.8194992
@@ -2266,6 +2278,10 @@
   "Valladolid (Spain)": {
     "latitude": 41.6521328,
     "longitude": -4.728562
+  },
+  "Valparaíso (Chile)": {
+    "latitude": -33.047238,
+    "longitude": -71.61268849999999
   },
   "Vancouver (Canada)": {
     "latitude": 49.2608724,
