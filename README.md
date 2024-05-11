@@ -386,7 +386,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-1/09: [KubeDay Japan 2024](https://events.linuxfoundation.org/kubeday-japan/) - Tokyo (Japan) <a href="https://events.linuxfoundation.org/kubeday-japan/program/cfp/"><img alt="CFP KubeDay Japan 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2024&color=green"></a>
 * 27-28: [Laracon US](https://laracon.us/) - Dallas, TX (USA)
 * 27-30: [ElixirConf US](https://2024.elixirconf.com/) - Orlando, FL (USA)
-* 28: [AWS Community Day New York 2024](https://www.awscommunitynewyork.cohttps://shipitcon.com/call-for-papers/m) - New York, NY (USA) <a href="https://sessionize.com/aws-community-day-ny-2024/"><img alt="CFP AWS Community Day New York 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
+* 28: [AWS Community Day New York 2024](https://www.awscommunitynewyork.com) - New York, NY (USA) <a href="https://sessionize.com/aws-community-day-ny-2024/"><img alt="CFP AWS Community Day New York 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
 * 30: [ShipItCon](https://shipitcon.com/) - Dublin (Ireland)
 * 30-31: [BSides Bristol 2024](https://www.bsidesbristol.org.uk) - Bristol (UK) <a href="https://www.papercall.io/bsidesbristol2024"><img alt="CFP BSides Bristol 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2024&color=green"></a>
 * 31: [Data Saturdays Oslo](https://datasaturdays.com/Event/0a4ae215-2fae-44ea-8754-696b2fc58fb8) - Oslo (Norway) <a href="https://sessionize.com/data-saturday-oslo-2024/"><img alt="CFP Data Saturdays Oslo" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2024&color=red"></a>
