@@ -154,6 +154,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28-29: [Symfony Live Paris](https://live.symfony.com/2024-paris/) - Paris (France)
 * 28-30: [Web à Québec](https://webaquebec.org/) - Quebec, QC (Canada) <a href="https://webaquebec.org/appel-a-conferences"><img alt="CFP Web à Québec" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2024&color=red"></a>
 * 29: [AWS Summit Dubai](https://aws.amazon.com/fr/events/summits/emea/dubai/) - Dubai (United Arab Emirates)
+* 29: [Odoo Developer Day](https://www.odoo.com/r/mFP) - Gembloux (Belgium)
 * 29-30: [Security BSides Barcelona 2024](https://bsides.barcelona/) - Barcelona (Spain) <a href="https://www.papercall.io/bsides-barcelona-24"><img alt="CFP Security BSides Barcelona 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-March-2024&color=red"></a>
 * 29-30: [DevTalks Romania 2024](https://www.devtalks.ro/) - Bucharest (Romania) <a href="https://www.papercall.io/devtalks-2024"><img alt="CFP DevTalks Romania 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-May-2024&color=red"></a>
 * 29-30: [plDroid 2024](https://pldroid.com) - Krakow (Poland) <a href="https://www.papercall.io/pldroid24"><img alt="CFP plDroid 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-December-2023&color=red"></a>
