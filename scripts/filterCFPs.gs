@@ -18,15 +18,33 @@ function checkOngoingCFPsInFranceThisWeek() {
     ],
   );
 
-  Logger.log("Ongoing CFPs from "+formatDate(thisDateOnMonday)+" to "+formatDate(thisDateOnSunday));
-  for (cfpIndex in filteredCfps) {
-    var cfpJsonData = filteredCfps[cfpIndex];
-    Logger.log(toPretty(cfpJsonData));
+  if (filteredCfps.length > 0) {
+    sendMarkdownChatMessage(toMarkdown(filteredCfps, thisDateOnMonday, thisDateOnSunday))
   }
 }
 
-function toPretty(cfpJsonData) {
-  return "[" + cfpJsonData.conf.date.map((date) => formatDate(new Date(date))).join(" to ") + "] " + cfpJsonData.conf.name + " @" + cfpJsonData.conf.location + " - CFP open until " + formatDate(new Date(cfpJsonData.untilDate)) + " : " + cfpJsonData.link;
+function toMarkdown(filteredCfps, thisDateOnMonday, thisDateOnSunday) {
+  var stringBuilder = [];
+  stringBuilder.push('### Ongoing CFPs from '+formatDate(thisDateOnMonday)+' to '+formatDate(thisDateOnSunday));
+  stringBuilder.push('');
+  stringBuilder.push('|Name|🗓️ Dates|📍 Location|🗣️ CFP Status|');
+  stringBuilder.push('|---|---|---|---|');
+
+  for (cfpIndex in filteredCfps) {
+    stringBuilder.push(cfpToMarkdown(filteredCfps[cfpIndex]));
+  }
+
+  return stringBuilder.join('\n');
+}
+
+function cfpToMarkdown(cfpJsonData) {
+  var rowBuilder = [];
+  rowBuilder.push('[' + cfpJsonData.conf.name + '](' + cfpJsonData.conf.hyperlink + ')');
+  rowBuilder.push(cfpJsonData.conf.date.map((date) => formatDate(new Date(date))).join(' to '));
+  rowBuilder.push(cfpJsonData.conf.location);
+  rowBuilder.push('[Open until ' + formatDate(new Date(cfpJsonData.untilDate)) + '](' + cfpJsonData.link + ')');
+
+  return '|' + rowBuilder.join('|') + '|';
 }
 
 function buildFilterLocation(countryCode) {
