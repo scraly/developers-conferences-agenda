@@ -207,6 +207,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-9: [ScalaMatsuri](https://scalamatsuri.org/en) - Tokyo (Japan) <a href="https://scalamatsuri.org/en"><img alt="CFP ScalaMatsuri" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-February-2024&color=red"></a>
 * 8: [Data Saturday Croatia 2024](https://datasaturdays.com/2024-06-08-datasaturday0042/) - Zagreb (Croatia) <a href="https://sessionize.com/data-saturday-croatia-2024/"><img alt="CFP Data Saturday Croatia 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2023&color=red"></a>
 * 8: [Go Conference 2024](https://gocon.jp) - Tokyo (Japan) <a href="https://sessionize.com/go-conference-2024/"><img alt="CFP Go Conference 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-March-2024&color=red"></a>
+* 8: [Agile En Méditerranée](https://agileenmed.com/) - Casablanca (Morocco)
 * 9: [JavaScript Conference Armenia](https://jsconf.am/) - Yerevan (Armenia) <a href="https://bit.ly/JSConfAM24speakers"><img alt="CFP JavaScript Conference Armenia" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-May-2024&color=red"></a>
 * 10-11: [CodeEurope](https://www.codeeurope.pl/en) - Krakow (Poland) <a href="https://www.codeeurope.pl/en/become-a-speaker"><img alt="CFP Code Europe Poland 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%201-April-2024&color=red"></a>
 * 10-12: [NANOG 91](https://nanog.org/events/nanog-91/) - Kansas City, MO (USA)
