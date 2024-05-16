@@ -715,3 +715,17 @@ All the data (past and coming) are available publicly in JSON:
 ### June
 
 * 2-6: [DDD Europe - 2025](https://dddeurope.com/) - Antwerpen (Belgium) <a href="https://sessionize.com/aardling2025"><img alt="CFP DDD Europe - 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2025&color=green"></a>
+
+### November
+
+* 10-13: [KubeCon + CloudNativeCon NA 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2025/) - Atlanta (USA)
+
+## 2026
+
+### March
+
+* 23-26: [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) - Amsterdam (Netherlands)
+
+### October
+
+* 26-29: [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - Los Angeles (USA)
