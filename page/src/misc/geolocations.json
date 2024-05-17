@@ -443,9 +443,17 @@
     "latitude": -33.928992,
     "longitude": 18.417396
   },
+  "Cardiff (UK)": {
+    "latitude": 51.483707,
+    "longitude": -3.1680962
+  },
   "Cardiff (Wales)": {
     "latitude": 51.4816546,
     "longitude": -3.1791934
+  },
+  "Casablanca (Morocco)": {
+    "latitude": 33.5945144,
+    "longitude": -7.6200284
   },
   "Catania (Italy)": {
     "latitude": 37.5023612,
@@ -631,6 +639,10 @@
     "latitude": 49.8851869,
     "longitude": 8.6736295
   },
+  "Dead Sea (Jordan)": {
+    "latitude": 31.6406337,
+    "longitude": 35.5746844
+  },
   "Delhi (India)": {
     "latitude": 28.6273928,
     "longitude": 77.1716954
@@ -775,6 +787,10 @@
     "latitude": 14.6060576,
     "longitude": -61.06988399999999
   },
+  "Fortaleza (Brazil)": {
+    "latitude": -3.7327203,
+    "longitude": -38.5270134
+  },
   "France": {
     "latitude": 46.603354,
     "longitude": 1.8883335
@@ -798,6 +814,10 @@
   "Geldrop (Netherlands)": {
     "latitude": 51.4226684,
     "longitude": 5.5607546
+  },
+  "Gembloux (Belgium)": {
+    "latitude": 50.5597273,
+    "longitude": 4.6943126
   },
   "Geneva (Switzerland)": {
     "latitude": 46.2017559,
@@ -1162,6 +1182,10 @@
   "Lagos (Nigeria)": {
     "latitude": 6.4550575,
     "longitude": 3.3941795
+  },
+  "Lahore (Pakistan)": {
+    "latitude": 31.5656822,
+    "longitude": 74.3141829
   },
   "Lake Tahoe (USA)": {
     "latitude": 39.08854049999999,
@@ -2011,6 +2035,10 @@
     "latitude": -33.8698439,
     "longitude": 151.2082848
   },
+  "Sinaloa (Mexico)": {
+    "latitude": 25.8226854,
+    "longitude": -108.2216704
+  },
   "Singapore": {
     "latitude": 1.357107,
     "longitude": 103.8194992
@@ -2203,6 +2231,10 @@
     "latitude": 39.4014955,
     "longitude": -76.6019125
   },
+  "Trieste (Italy)": {
+    "latitude": 45.6496485,
+    "longitude": 13.7772781
+  },
   "Trujillo (Peru)": {
     "latitude": -8.1157846,
     "longitude": -79.0257381
@@ -2254,6 +2286,10 @@
   "Valladolid (Spain)": {
     "latitude": 41.6521328,
     "longitude": -4.728562
+  },
+  "Valparaíso (Chile)": {
+    "latitude": -33.047238,
+    "longitude": -71.61268849999999
   },
   "Vancouver (Canada)": {
     "latitude": 49.2608724,
