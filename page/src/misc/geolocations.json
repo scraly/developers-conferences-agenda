@@ -1079,6 +1079,10 @@
     "latitude": -26.205,
     "longitude": 28.049722
   },
+  "João Pessoa (Brazil)": {
+    "latitude": -7.118835199999999,
+    "longitude": -34.8814339
+  },
   "Juiz De Fora, MG (Brazil)": {
     "latitude": -21.7623932,
     "longitude": -43.3434669
@@ -1638,6 +1642,10 @@
   "Oklahoma City (USA)": {
     "latitude": 35.4729886,
     "longitude": -97.5170536
+  },
+  "Oklahoma City, OK (USA)": {
+    "latitude": 35.4675602,
+    "longitude": -97.5164276
   },
   "Omni La Costa Resort & Spa Carlsbad, California (USA)": {
     "latitude": 33.091985449999996,
@@ -2398,6 +2406,10 @@
   "Yamoussoukro (Ivory Coast)": {
     "latitude": 6.8200066,
     "longitude": -5.2776034
+  },
+  "Yaoundé (Cameroon)": {
+    "latitude": 3.8616853,
+    "longitude": 11.5202292
   },
   "Yerevan (Armenia)": {
     "latitude": 40.1777112,
