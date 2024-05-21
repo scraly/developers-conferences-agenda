@@ -685,6 +685,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4-5: [DevOpsDays Paris](https://devopsdays.org/events/2024-paris/welcome/) - Paris (France)
 * 4-5: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France)
 * 5: [Conf42.com DevSecOps 2024](https://www.conf42.com/devsecops2024) - Online <a href="https://www.papercall.io/conf42-devsecops-2024"><img alt="CFP Conf42.com DevSecOps 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-November-2024&color=green"></a>
+* 6: [DevFest Dijon](https://devfest.developers-group-dijon.fr/) - Dijon (France) <a href="https://conference-hall.io/public/event/LvvYRcF5AIhpojdn2lkQ"><img alt="CFP DevFest Dijon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2024&color=green"></a>
 * 7-8: [Winter of C++](https://winterofcpp.vercel.app/) - Amsterdam (Netherlands) <a href="https://forms.gle/ScdFFZQD6yPNFr9S8"><img alt="CFP Winter of C++" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 11: [You Got This Winter 2024](https://yougotthis.io/events/winter-2024) - Online
 * 11-12: [KubeCon + CloudNativeCon India 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) - Delhi (India)
