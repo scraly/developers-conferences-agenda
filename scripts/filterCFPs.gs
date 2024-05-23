@@ -21,6 +21,8 @@ function checkOngoingCFPsThisWeek(locationFilter) {
       buildFilterOpenDuringDateRange(thisDateOnMonday, thisDateOnSunday),
     ].filter((filterMethod) => filterMethod != null),
   );
+  // Sort by untilDate ASC
+  filteredCfps.sort( (cfpJsonData1, cfpJsonData2) => new Date(cfpJsonData1.untilDate) - new Date(cfpJsonData2.untilDate) );
 
   if (filteredCfps.length > 0) {
     sendMarkdownChatMessage(toMarkdown(filteredCfps, thisDateOnMonday, thisDateOnSunday))
@@ -87,9 +89,22 @@ function cfpToMarkdown(cfpJsonData) {
   rowBuilder.push('[' + cfpJsonData.conf.name + '](' + cfpJsonData.conf.hyperlink + ')');
   rowBuilder.push(cfpJsonData.conf.date.map((date) => formatDate(new Date(date))).join(' to '));
   rowBuilder.push(cfpJsonData.conf.location);
-  rowBuilder.push('[Open until ' + formatDate(new Date(cfpJsonData.untilDate)) + '](' + cfpJsonData.link + ')');
+  var cfpUntilDate = new Date(cfpJsonData.untilDate);
+  rowBuilder.push('[' + buildEmergencyLevelIndicator(cfpUntilDate) + ' Open until ' + formatDate(cfpUntilDate) + '](' + cfpJsonData.link + ')');
 
   return '|' + rowBuilder.join('|') + '|';
+}
+
+function buildEmergencyLevelIndicator(endDate) {
+  var daysUntilEndDate = Math.floor(Math.abs(endDate - new Date()) / (1000 * 60 * 60 * 24) );
+  switch(true) {
+    case (daysUntilEndDate <= 7):
+      return '🔴';
+    case (daysUntilEndDate <= 30):
+      return '🟡';
+    default:
+      return '🟢';
+  }
 }
 
 function formatDate(date) {
