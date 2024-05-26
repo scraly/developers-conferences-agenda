@@ -346,7 +346,7 @@ All the data (past and coming) are available publicly in JSON:
 * 24-25: [SkySummit](https://skysummit.io) - Berlin (Germany) <a href="https://sessionize.com/skysummit/"><img alt="CFP SkySummit" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-January-2024&color=red"></a>
 * 24-26: [CityJS Singapore 2024](https://singapore.cityjsconf.org/) - Singapore (Singapore) <a href="https://forms.gle/r7XtqE72taVEHtjj7"><img alt="CFP CityJS Signapore 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2024&color=green"></a>
 * 25: [TheGeekConf](https://thegeekconf.com/) - Berlin (Germany)
-* 25-26: [DrupalCamp Colorado 2024](https://drupal-colorado.org) - Denver, CO (USA) <a href="https://sessionize.com/drupalcamp-colorado-2024/"><img alt="CFP DrupalCamp Colorado 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-May-2024&color=green"></a>
+* 25-26: [DrupalCamp Colorado 2024](https://drupal-colorado.org) - Denver, CO (USA) <a href="https://sessionize.com/drupalcamp-colorado-2024/"><img alt="CFP DrupalCamp Colorado 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-May-2024&color=red"></a>
 * 25-27: [The Bitcoin Conference 2024](https://b.tc/conference) - Nashville, Tennessee (USA)
 * 26: [SysAdminDay 2024 in Leipzig](https://www.sysadminday.it/) - Leipzig (Germany) <a href="https://sessionize.com/sysadminday-2024/"><img alt="CFP SysAdminDay 2024 in Leipzig" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=green"></a>
 * 26-27: [PyCon Russia](https://pycon.ru/) - Moscow (Russia)
