@@ -689,6 +689,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/public/event/ZZv81ZNIzVzCMBxjX1xe"><img alt="CFP DevFest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-July-2024&color=green"></a>
 * 22-23: [Open Conf - 2024](https://www.open-conf.gr/) - Athens (Greece) <a href="https://sessionize.com/open-conf-2024"><img alt="CFP Open Conf - 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-March-2024&color=red"></a>
 * 26: [Oh My H@ck](https://omhconf.pl/) - Warsaw (Poland) <a href="https://omhconf.pl/cfp-2024/"><img alt="CFP Oh My H@ck" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-September-2024&color=green"></a>
+* 27-28: [Cloud Expo Europe](https://www.cloudexpoeurope.fr/) - Paris (France)
 * 27-29: [WeyWeyWeb](https://weyweyweb.com) - Málaga (Spain) <a href="https://forms.gle/9PMZza735aVeDBaV7"><img alt="CFP WeyWeyWeb" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2024&color=green"></a>
 * 28: [ESRM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 28: [SREday 2024](https://www.sreday.com) - Amsterdam (Netherlands) <a href="https://www.papercall.io/sreday-2024-amsterdam"><img alt="CFP SREday 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-August-2024&color=green"></a>
@@ -744,6 +745,7 @@ All the data (past and coming) are available publicly in JSON:
 ### May
 
 * 19-22: [JCON EUROPE 2025](https://jcon.one/) - Cologne (Germany)
+* 21-23: [Spring I/O](https://springio.net/) - Barcelona (Spain)
   
 ### June
 
