@@ -3,6 +3,10 @@
     "latitude": 56.1496278,
     "longitude": 10.2134046
   },
+  "Aba (Nigeria)": {
+    "latitude": 5.1215877,
+    "longitude": 7.3732655
+  },
   "Abuja (Nigeria)": {
     "latitude": 9.0643305,
     "longitude": 7.4892974
@@ -1006,6 +1010,10 @@
   "Iasi (Romania)": {
     "latitude": 47.1615416,
     "longitude": 27.5837224
+  },
+  "Ibadan (Nigeria)": {
+    "latitude": 7.3775355,
+    "longitude": 3.9470396
   },
   "Ibiza (Spain)": {
     "latitude": 39.0200099,
@@ -2390,6 +2398,10 @@
   "West Hollywood, CA (USA)": {
     "latitude": 34.0923014,
     "longitude": -118.3692894
+  },
+  "Westerville, OH (USA)": {
+    "latitude": 40.1266689,
+    "longitude": -82.9318807
   },
   "Windhoek (Namibia)": {
     "latitude": -22.5776104,
