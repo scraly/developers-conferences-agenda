@@ -276,6 +276,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### September
 
+* 1-3: [Flutter & Friends](https://flutterfriends.dev) - Stockholm (Sweden) <a href="https://airtable.com/appAYMHfCGwzg7bxu/shrSoAdprf4WMGpdY"><img alt="CFP Flutter & Friends 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=red"></a>
 * 3: [DevOpsDays Global Organiser Summit](https://devopsdays.org/events/2024-organiser-summit/welcome/) - Antwerp (Belgium) <a href="https://talks.devopsdays.org/organiser-summit-2024/cfp"><img alt="CFP DevOpsDays Global Organiser Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-May-2024&color=red"></a>
 * 3-4: [ContainerDays Conference 2024](https://www.containerdays.io/containerdays-conference-2024/) - Hamburg (Germany) <a href="https://sessionize.com/CDS-conference-2024/"><img alt="CFP ContainerDays Conference 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=red"></a>
 * 4-5: [JavaZone](https://2024.javazone.no/) - Oslo (Norway) <a href="https://2024.javazone.no/speakers"><img alt="CFP JavaZone 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-April-2024&color=red"></a>
