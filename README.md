@@ -227,6 +227,7 @@ All the data (past and coming) are available publicly in JSON:
 * 26-27: [PyCon Russia](https://pycon.ru/) - Moscow (Russia)
 * 26-27: [SQL Saturday Baton Rouge 2024](http://www.sqlsatbr.com) - Baton Rouge, LA (USA) <a href="https://sessionize.com/sqlsatbr/"><img alt="CFP SQL Saturday Baton Rouge 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-May-2024&color=red"></a>
 * 26-27: [Ruby Conf Africa 2024](https://rubyconf.africa/) - Nairobi (Kenya) <a href="https://www.papercall.io/rubyconfafrica2024"><img alt="CFP Ruby Conf Africa 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-July-2024&color=green"></a>
+* 26-27: [Tech RAMEN Conference](https://techramenconf.net/) - Asahikawa (Japan)
 * 26-28: [CommunityOverCode Asia 2024](https://asia.communityovercode.org/) - Hangzhou (China) <a href="https://sessionize.com/communityovercode-asia-2024"><img alt="CFP CommunityOverCode Asia 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-April-2024&color=red"></a>
 * 27: [How.Camp 2024: A day of FOSS](https://how.camp) - Gabrovo (Bulgaria)
 * 27: [Data Saturday South Island 2024](https://datasaturdays.com/Event/83f693fc-05f3-48ae-b674-a1e7bb32c9f8) - Christchurch (New Zealand) <a href="https://sessionize.com/data-saturday-southisland/"><img alt="CFP Data Saturday South Island 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
