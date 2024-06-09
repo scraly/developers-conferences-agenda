@@ -139,6 +139,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19-22: [CascadiaJS 2024](https://cascadiajs.com/2024) - Seattle (USA) <a href="https://cascadiajs.com/2024/cfp"><img alt="CFP CascadiaJS" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-February-2024&color=red"></a>
 * 20: [KCD Italy](https://community.cncf.io/events/details/cncf-kcd-italy-presents-kcd-italy-2024/) - Bologna (Italy) <a href="https://sessionize.com/kcd-italy-2024"><img alt="CFP KCD Italy 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-April-2024&color=red"></a>
 * 20: [Scrum Day London](https://scrumdaylondon.com/) - London (UK)
+* 20: [The Browser Conference](https://www.browserconference.com/) - Online
 * 20-21: [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - Grand-Duchy of Luxembourg (Luxembourg) <a href="https://voxxedlu2024.cfp.dev/#/login"><img alt="CFP VoxxedDays Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-March-2024&color=red"></a>
 * 20-21: [Golang Conf 2024](https://cfp.golangconf.ru/en) - St. Petersburg (Russia) <a href="https://cfp.golangconf.ru/en"><img alt="CFP Golang Conf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2024&color=red"></a>
 * 21-22: [Code Beam Lite](https://www.codebeamcorunha.es/en) - Coruna (Spain) <a href="https://sessionize.com/code-beam-corunha-2024/"><img alt="CFP Code Beam Lite 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=red"></a>
