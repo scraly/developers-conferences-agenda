@@ -10,7 +10,7 @@ As a developer and a technical lover, it is handy to have a calendar to look at 
 
 I propose this GitHub repository to list all the conferences for developers in France, Europe and the world.
 
-Do you want to contribute, add an event or your event? Perfect! You can follow the [CONTRIBUTING.md](CONTRIBUTING.md) and just open a [Pull Request (PR)](https://github.com/scraly/developers-conferences-agenda/pulls) to update the developers conferences agenda.
+Do you want to contribute, add an event or your event? Perfect! You can follow the [CONTRIBUTING.md](CONTRFIBUTING.md) and just open a [Pull Request (PR)](https://github.com/scraly/developers-conferences-agenda/pulls) to update the developers conferences agenda.
 If everybody contributes to this repo, it can help conference organizers but not only. Another goal of this initiative is to list the maximum of conferences for developers.
 If they don't know your conference they can't buy a ticket and come to it 😏.
 
@@ -269,7 +269,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-28: [Laracon US](https://laracon.us/) - Dallas, TX (USA)
 * 27-30: [ElixirConf US](https://2024.elixirconf.com/) - Orlando, FL (USA)
 * 28: [AWS Community Day New York 2024](https://www.awscommunitynewyork.com) - New York, NY (USA) <a href="https://sessionize.com/aws-community-day-ny-2024/"><img alt="CFP AWS Community Day New York 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=red"></a>
-* 29-30: [Front Conference](https://frontconference.com/) - Zurich (Switzerland)
+* 29-30: [Front Conference](https://frontconference.com/) - Zurich (Switzerland) <a href="https://frontconference.com/call-for-speakers"><img alt="CFP Front Conference 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-June-2024&color=green"></a>
 * 30: [ShipItCon](https://shipitcon.com/) - Dublin (Ireland)
 * 30-31: [BSides Bristol 2024](https://www.bsidesbristol.org.uk) - Bristol (UK) <a href="https://www.papercall.io/bsidesbristol2024"><img alt="CFP BSides Bristol 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2024&color=green"></a>
 * 31: [Data Saturdays Oslo](https://datasaturdays.com/Event/0a4ae215-2fae-44ea-8754-696b2fc58fb8) - Oslo (Norway) <a href="https://sessionize.com/data-saturday-oslo-2024/"><img alt="CFP Data Saturdays Oslo" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2024&color=red"></a>
