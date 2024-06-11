@@ -351,6 +351,10 @@
     "latitude": 48.3905283,
     "longitude": -4.4860088
   },
+  "Brighton (UK)": {
+    "latitude": 50.8214626,
+    "longitude": -0.1400561
+  },
   "Brisbane (Australia)": {
     "latitude": -27.4689682,
     "longitude": 153.0234991
@@ -2430,6 +2434,10 @@
   "Wisconsin Dells, WI (USA)": {
     "latitude": 43.6256168,
     "longitude": -89.7715646
+  },
+  "Wisła (Poland)": {
+    "latitude": 52.380897,
+    "longitude": 20.0867774
   },
   "Wroclaw (Poland)": {
     "latitude": 51.1089776,
