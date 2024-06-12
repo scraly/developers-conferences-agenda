@@ -99,6 +99,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-14: [Rencontres R](https://rr2024.sciencesconf.org/) - Vannes (France)
 * 13: [Conf42.com Observability 2024](https://www.conf42.com/obs2024) - Online <a href="https://www.papercall.io/conf42-observability-2024"><img alt="CFP Conf42.com Observability 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-May-2024&color=red"></a>
 * 13: [JSNation](https://jsnation.com/) - Amsterdam (Netherlands) & Online <a href="https://www.papercall.io/jsnation"><img alt="CFP JSNation" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2024&color=red"></a>
+* 13: [J-Spring](https://jspring.nl/) - Utrecht (Netherlands)
 * 13: [ServerlessDay Milano](https://milan.serverlessday.io) - Milan (Italy) <a href="https://www.papercall.io/serverlessdays-milano-2024"><img alt="CFP ServerlessDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-February-2024&color=red"></a>
 * 13: [LeadingEng London](https://leaddev.com/leadingeng-london) - London (UK) <a href="https://leaddev.submittable.com/submit/283039/talk-submissions-for-leadingeng-london-2024"><img alt="CFP LeadingEng London" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-February-2024&color=red"></a>
 * 13-14: [DevBCN](https://www.devbcn.com/) - Barcelona (Spain) <a href="https://sessionize.com/devbcn-2024/"><img alt="CFP DevBCN" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2024&color=red"></a>
@@ -509,6 +510,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-8: [DroidConKE24](https://droidcon.co.ke/) - Nairobi (Kenya)
 * 7: [DevDay](https://www.devday.be) - Mons (Belgium) <a href="https://sessionize.com/devday-2024/"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=until%203-September-2024&color=green"></a>
 * 7: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France) <a href="https://sessionize.com/devfest-toulouse/"><img alt="CFP DevFest Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-June-2024&color=red"></a>
+* 7: [J-Fall](https://jfall.nl/) - Ede (Netherlands) <a href="https://sessionize.com/jfall24/"><img alt="CFP J-Fall" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2024&color=green"></a>
 * 7: [LaravelDay](https://2024.laravelday.it/) - Verona (Italy) & Online <a href="https://2024.laravelday.it/welcome/cfp.html"><img alt="CFP LaravelDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-July-2024&color=green"></a>
 * 7: [NODES 2024](https://dev.neo4j.com/nodes24) - Online <a href="https://sessionize.com/nodes-2024/"><img alt="CFP NODES 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2024&color=green"></a>
 * 8: [angularday 2024](https://2024.angularday.it) - Verona (Italy) & Online <a href="https://sessionize.com/angularday-2024/"><img alt="CFP angularday 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-June-2024&color=green"></a>
