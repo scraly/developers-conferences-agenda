@@ -3,6 +3,10 @@
     "latitude": 56.1496278,
     "longitude": 10.2134046
   },
+  "Aba (Nigeria)": {
+    "latitude": 5.1215877,
+    "longitude": 7.3732655
+  },
   "Abuja (Nigeria)": {
     "latitude": 9.0643305,
     "longitude": 7.4892974
@@ -94,6 +98,10 @@
   "Arlington, VA (USA)": {
     "latitude": 38.8769326,
     "longitude": -77.0893094
+  },
+  "Asahikawa (Japan)": {
+    "latitude": 43.7627501,
+    "longitude": 142.3579263
   },
   "Asheville, NC (USA)": {
     "latitude": 35.5950581,
@@ -343,6 +351,10 @@
     "latitude": 48.3905283,
     "longitude": -4.4860088
   },
+  "Brighton (UK)": {
+    "latitude": 50.8214626,
+    "longitude": -0.1400561
+  },
   "Brisbane (Australia)": {
     "latitude": -27.4689682,
     "longitude": 153.0234991
@@ -407,6 +419,10 @@
     "latitude": 39.759172500000005,
     "longitude": -6.1379457147709005
   },
+  "Cadiz (Spain)": {
+    "latitude": 36.5262463,
+    "longitude": -5.9008367301110844
+  },
   "Cairo (Egypt)": {
     "latitude": 30.0443879,
     "longitude": 31.2357257
@@ -418,6 +434,10 @@
   "Calabar (Nigeria)": {
     "latitude": 4.9757165,
     "longitude": 8.3417006
+  },
+  "Cali (Colombia)": {
+    "latitude": 3.4516467,
+    "longitude": -76.5319854
   },
   "California (USA)": {
     "latitude": 36.7014631,
@@ -450,6 +470,10 @@
   "Cardiff (Wales)": {
     "latitude": 51.4816546,
     "longitude": -3.1791934
+  },
+  "Casablanca (Morocco)": {
+    "latitude": 33.5945144,
+    "longitude": -7.6200284
   },
   "Catania (Italy)": {
     "latitude": 37.5023612,
@@ -775,6 +799,10 @@
     "latitude": 27.7567667,
     "longitude": -81.4639835
   },
+  "Folkestone, Kent (UK)": {
+    "latitude": 51.0791335,
+    "longitude": 1.1794073
+  },
   "Fort Lauderdale, FL (USA)": {
     "latitude": 26.1224386,
     "longitude": -80.13731740000001
@@ -810,6 +838,14 @@
   "Geldrop (Netherlands)": {
     "latitude": 51.4226684,
     "longitude": 5.5607546
+  },
+  "Gelilot (Israel)": {
+    "latitude": 32.13655705,
+    "longitude": 34.80366518770497
+  },
+  "Gembloux (Belgium)": {
+    "latitude": 50.5597273,
+    "longitude": 4.6943126
   },
   "Geneva (Switzerland)": {
     "latitude": 46.2017559,
@@ -987,6 +1023,10 @@
     "latitude": 47.1615416,
     "longitude": 27.5837224
   },
+  "Ibadan (Nigeria)": {
+    "latitude": 7.3775355,
+    "longitude": 3.9470396
+  },
   "Ibiza (Spain)": {
     "latitude": 39.0200099,
     "longitude": 1.4821482
@@ -1031,6 +1071,10 @@
     "latitude": 33.6938118,
     "longitude": 73.0651511
   },
+  "Issy-les-Moulineaux (France)": {
+    "latitude": 48.8250508,
+    "longitude": 2.273457
+  },
   "Istanbul (Turkey)": {
     "latitude": 41.0091982,
     "longitude": 28.9662187
@@ -1066,6 +1110,10 @@
   "Johannesburg (South Africa)": {
     "latitude": -26.205,
     "longitude": 28.049722
+  },
+  "João Pessoa (Brazil)": {
+    "latitude": -7.118835199999999,
+    "longitude": -34.8814339
   },
   "Juiz De Fora, MG (Brazil)": {
     "latitude": -21.7623932,
@@ -1347,6 +1395,10 @@
     "latitude": 55.604981,
     "longitude": 13.003822
   },
+  "Managua (Nicaragua)": {
+    "latitude": 12.1544035,
+    "longitude": -86.2737642
+  },
   "Manchester (UK)": {
     "latitude": 53.4807593,
     "longitude": -2.2426305
@@ -1627,6 +1679,10 @@
     "latitude": 35.4729886,
     "longitude": -97.5170536
   },
+  "Oklahoma City, OK (USA)": {
+    "latitude": 35.4675602,
+    "longitude": -97.5164276
+  },
   "Omni La Costa Resort & Spa Carlsbad, California (USA)": {
     "latitude": 33.091985449999996,
     "longitude": -117.26610534145561
@@ -1658,6 +1714,10 @@
   "Oslo (Norway)": {
     "latitude": 59.9133301,
     "longitude": 10.7389701
+  },
+  "Ottawa, ON (Canada)": {
+    "latitude": 45.4208777,
+    "longitude": -75.6901106
   },
   "Ottawa, Ontario (Canada)": {
     "latitude": 45.4208777,
@@ -1758,6 +1818,10 @@
   "Poland": {
     "latitude": 52.215933,
     "longitude": 19.134422
+  },
+  "Port Harcourt (Nigeria)": {
+    "latitude": 4.847222599999999,
+    "longitude": 6.974603999999999
   },
   "Port of Spain (Trinidad)": {
     "latitude": 10.6472492,
@@ -2355,6 +2419,14 @@
     "latitude": 34.0923014,
     "longitude": -118.3692894
   },
+  "Westerville, OH (USA)": {
+    "latitude": 40.1266689,
+    "longitude": -82.9318807
+  },
+  "Whitley Bay (UK)": {
+    "latitude": 55.0422091,
+    "longitude": -1.4454353
+  },
   "Windhoek (Namibia)": {
     "latitude": -22.5776104,
     "longitude": 17.0772739
@@ -2375,6 +2447,10 @@
     "latitude": 43.6256168,
     "longitude": -89.7715646
   },
+  "Wisła (Poland)": {
+    "latitude": 52.380897,
+    "longitude": 20.0867774
+  },
   "Wroclaw (Poland)": {
     "latitude": 51.1089776,
     "longitude": 17.0326689
@@ -2386,6 +2462,10 @@
   "Yamoussoukro (Ivory Coast)": {
     "latitude": 6.8200066,
     "longitude": -5.2776034
+  },
+  "Yaoundé (Cameroon)": {
+    "latitude": 3.8616853,
+    "longitude": 11.5202292
   },
   "Yerevan (Armenia)": {
     "latitude": 40.1777112,
