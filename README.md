@@ -331,6 +331,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-13: [EmberFest 2024](https://emberfest.eu) - Ibiza (Spain) <a href="https://www.papercall.io/emberfest-2024"><img alt="CFP EmberFest 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-July-2024&color=green"></a>
 * 13: [UtahJS Conf 2024](https://www.utahjs.com/conference) - Sandy, UT (USA) <a href="https://sessionize.com/utahjs-conf-2024"><img alt="CFP UtahJS Conf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-April-2024&color=red"></a>
 * 13: [HalfStack Vienna](https://halfstackconf.com/vienna) - Vienna (Austria)
+* 13: [PGDay Lowlands 2024](https://2024.pgday.nl) - Amsterdam (Netherlands) <a href="https://2024.pgday.nl/call-for-papers/"><img alt="CFP PGDay Lowlands" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-July-2024&color=green"></a>
 * 14: [BSides Krakow 2024](https://bsideskrakow.pl/) - Krakow (Poland)
 * 14: [TofuConf](https://tofuconf.com/) - Madrid (Spain)
 * 14: [DevOpsDays Belo Horizonte](https://devopsdays.org/events/2024-belo-horizonte) - Belo Horizonte, MG (Brazil) <a href="https://www.papercall.io/devopsdaysbhz"><img alt="CFP DevOpsDays Belo Horizonte" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-July-2024&color=green"></a>
