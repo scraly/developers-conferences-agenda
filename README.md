@@ -582,6 +582,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21: [JSNation US Online](https://jsnation.us/) - Online <a href="https://forms.gle/xu7MJi1GkXTZd8Bi8"><img alt="CFP JS Nation US Online" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2024&color=green"></a>
 * 21: [Tech Tribes Conference](http://www.techtribes.eu/ttc) - Antwerpen (Belgium) <a href="https://sessionize.com/tech-tribes-talks"><img alt="CFP Tech Tribes Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-April-2024&color=red"></a>
 * 21: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/public/event/ZZv81ZNIzVzCMBxjX1xe"><img alt="CFP DevFest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-July-2024&color=green"></a>
+* 21: [Codeurs en Seine](https://www.codeursenseine.com) - Rouen (France)
 * 22-23: [Open Conf - 2024](https://www.open-conf.gr/) - Athens (Greece) <a href="https://sessionize.com/open-conf-2024"><img alt="CFP Open Conf - 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-March-2024&color=red"></a>
 * 26: [Oh My H@ck](https://omhconf.pl/) - Warsaw (Poland) <a href="https://omhconf.pl/cfp-2024/"><img alt="CFP Oh My H@ck" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-September-2024&color=green"></a>
 * 27-28: [Cloud Expo Europe](https://www.cloudexpoeurope.fr/) - Paris (France)
