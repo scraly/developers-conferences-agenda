@@ -590,6 +590,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28: [ESRM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 28: [SREday 2024](https://www.sreday.com) - Amsterdam (Netherlands) <a href="https://www.papercall.io/sreday-2024-amsterdam"><img alt="CFP SREday 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-August-2024&color=green"></a>
 * 28: [Who Run The Tech ?](https://whorunthetech.com) - Rennes (France) <a href="https://conference-hall.io/public/event/bJDribf9r5Lf2VzBgbYQ"><img alt="CFP Who Run The Tech ? 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%204-June-2024&color=red"></a>
+* 29: [REACT AFRICA](https://react-africa.com/) - Casablanca (Morocco) <a href="https://docs.google.com/forms/d/e/1FAIpQLSd4P01b6UQn02RtnwtjO6i0OIjlFKDCw8I_WjobEABxb8SDfQ/viewform"><img alt="CFP REACT AFRICA" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-August-2024&color=green"></a>
 
 ### December
 
