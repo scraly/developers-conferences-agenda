@@ -256,6 +256,7 @@ All the data (past and coming) are available publicly in JSON:
 * 2-4: [ISC24TX](https://isc24tx.com/) - San Antonio, TX (USA)
 * 3: [Python Conf. Voyager 2024](http://pythonautas.dev/conf_2024) - Bogotá (Colombia) <a href="https://www.papercall.io/pythonautas"><img alt="CFP Python Conf. Voyager 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 3: [SQL Saturday Albany 2024](https://sqlsaturday.com/2024-08-03-sqlsaturday1083/) - Albany, NY (USA) <a href="https://sessionize.com/sql-saturday-albany-2024"><img alt="CFP SQL Saturday Albany 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=red"></a>
+* 3-4: [COSCUP](https://coscup.org/2024/en/) - Taipei (Taiwan)
 * 6-7: [DevOpsDays Minneapolis](https://devopsdays.org/events/2024-minneapolis/welcome/) - Minneapolis, MN (USA) <a href="https://devopsdays.org/events/2024-minneapolis/propose"><img alt="CFP DevOpsDays Minneapolis" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2024&color=red"></a>
 * 7-9: [fintech_devcon](https://fintechdevcon.io/) - Austin, TX (USA) <a href="https://fintechdevcon.io/call-for-speakers/"><img alt="CFP fintech_devcon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2024&color=red"></a>
 * 8-11: [DEF CON 32](https://defcon.org/) - Las Vegas, NV (USA) <a href="https://defcon.org/html/defcon-32/dc-32-cfp.html"><img alt="CFP DEF CON 32" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-May-2024&color=red"></a>
@@ -637,6 +638,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 1-4: [KubeCon + CloudNativeCon EU 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2025/) - London (UK)
 * 10: [Conf42.com Large Language Models (LLMs) 2025](https://www.conf42.com/llm2025) - Online <a href="https://www.papercall.io/conf42-large-language-models-llms-2025"><img alt="CFP Conf42.com Large Language Models (LLMs) 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-March-2025&color=green"></a>
+* 15-17: [CYBERSEC](https://cybersec.ithome.com.tw/) - Taipei (Taiwan)
 * 16-18: [Devoxx France](https://www.devoxx.fr) - Paris (France)
 * 29-30: [DevOpsDays Aarhus](https://devopsdays.org/events/2025-aarhus) - Aarhus (Denmark)
 
