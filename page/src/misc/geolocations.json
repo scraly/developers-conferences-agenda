@@ -1395,6 +1395,10 @@
     "latitude": 55.604981,
     "longitude": 13.003822
   },
+  "Managua (Nicaragua)": {
+    "latitude": 12.1544035,
+    "longitude": -86.2737642
+  },
   "Manchester (UK)": {
     "latitude": 53.4807593,
     "longitude": -2.2426305
@@ -1710,6 +1714,10 @@
   "Oslo (Norway)": {
     "latitude": 59.9133301,
     "longitude": 10.7389701
+  },
+  "Ottawa, ON (Canada)": {
+    "latitude": 45.4208777,
+    "longitude": -75.6901106
   },
   "Ottawa, Ontario (Canada)": {
     "latitude": 45.4208777,
@@ -2414,6 +2422,10 @@
   "Westerville, OH (USA)": {
     "latitude": 40.1266689,
     "longitude": -82.9318807
+  },
+  "Whitley Bay (UK)": {
+    "latitude": 55.0422091,
+    "longitude": -1.4454353
   },
   "Windhoek (Namibia)": {
     "latitude": -22.5776104,
