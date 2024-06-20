@@ -32,11 +32,11 @@ export function EventListEntry({ event }) {
             </div>
             {hyperlink}
         </header>
-        <article className={showDetail}>
+        {/*<article className={showDetail}>
         </article>
         <footer className={showDetail}>
             <span dangerouslySetInnerHTML={{__html: event.misc}}></span>
             <span>{closedCaptionElement}</span>
-        </footer>
+        </footer>*/}
     </div>;
 };
