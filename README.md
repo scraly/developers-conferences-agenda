@@ -200,7 +200,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-10: [Riviera DEV](https://rivieradev.fr/) - Sophia Antipolis (France) <a href="https://conference-hall.io/public/event/ieJBZ8FhXHMinZmeTCJp"><img alt="CFP Riviera Dev 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-March-2024&color=red"></a>
 * 8-11: [useR!](https://events.linuxfoundation.org/user/) - Salzburg (Austria) <a href="https://sessionize.com/user-2024/"><img alt="CFP useR!" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-March-2024&color=red"></a>
 * 8-14: [Euro Python](https://ep2024.europython.eu/) - Prague (Czech Republic) & Online
-* 8-14: [SciPy 2024](https://www.scipy2024.scipy.org/) - USA
+* 8-14: [SciPy 2024](https://www.scipy2024.scipy.org/) - Tacoma, WA (USA)
 * 9: [TEDxGrandJunction 2024](http://tedxgj.com) - Grand Junction, CO (USA) <a href="https://www.papercall.io/tedxgj2024"><img alt="CFP TEDxGrandJunction 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2024&color=green"></a>
 * 9-13: [JuliaCon](https://juliacon.org/2024/) - Eindhoven (Netherlands)
 * 10-11: [DevOpsDays Nashville 2024](https://devopsdays.org/events/2024-nashville/welcome/) - Nashville, TN (USA) <a href="https://www.papercall.io/devopsdays-nashville-2024"><img alt="CFP DevOpsDays Nashville 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=red"></a>
