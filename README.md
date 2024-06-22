@@ -595,6 +595,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19-20: [KCD Denmark](https://kcddenmark.dk/) - Copenhagen (Denmark)
 * 19-21: [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa (USA)
 * 19-21: [Open Source Monitoring Conference](https://osmc.de/) - Nuremberg (Germany) <a href="https://osmc.de/call-for-papers/"><img alt="CFP Open Source Monitoring Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2024&color=green"></a>
+* 19-21: [Open Source Analytics Conference (OSA CON) 24](https://osacon.io/) - Online <a href="https://sessionize.com/osa-con-2024"><img alt="CFP OSA CON 24" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-July-2024&color=green"></a>
 * 20-22: [Agile Grenoble 2024](https://agile-grenoble.org/) - Grenoble (France) <a href="https://sessionize.com/agile-grenoble-2024/"><img alt="CFP Agile Grenoble 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 21: [Conf42 Prompt Engineering 2024](https://www.conf42.com/prompt2024) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2024"><img alt="CFP Conf42 Prompt Engineering 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-October-2024&color=green"></a>
 * 21: [JSNation US Online](https://jsnation.us/) - Online <a href="https://forms.gle/xu7MJi1GkXTZd8Bi8"><img alt="CFP JS Nation US Online" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2024&color=green"></a>
