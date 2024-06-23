@@ -41,7 +41,7 @@ const Filters = () => {
               setOpen(true);
           }}
       >
-          {open ? <FilterX/> : <Filter/>}
+          <div className='filters-icon'>{open ? <FilterX/> : <Filter/>}</div>
           <span className='filters-title'>Filters</span>
       </div>
 
