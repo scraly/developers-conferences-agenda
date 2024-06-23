@@ -20,8 +20,9 @@ export function EventListEntry({ event }) {
     }
 
     return <div className="event-list-entry">
-        <header onClick={() => setShowDetail(helper_toggle_show)}>
-            <ShortDate dates={event.date} />
+        {/* <header onClick={() => setShowDetail(helper_toggle_show)}> */}
+        <header>
+        <ShortDate dates={event.date} />
             <div className="event-name-location">
                 <b>{event.name}</b>
                 <span>{event.location}</span>
