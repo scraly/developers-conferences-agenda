@@ -11,8 +11,8 @@ export function EventListEntry({ event }) {
         return 'hide';
     }
     
-    if (event.closedCaption) {
-        closedCaptionElement = <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />;
+    if (event.closedCaptions) {
+        closedCaptionElement = <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>;
     }
 
     if (event.hyperlink) {
