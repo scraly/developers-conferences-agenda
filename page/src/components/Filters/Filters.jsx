@@ -1,4 +1,4 @@
-import React, { useState, useCallback } from 'react';
+import React, { useState, useCallback, useContext, useEffect } from 'react';
 import {useSearchParams} from "react-router-dom";
 
 import { Filter, FilterX } from 'lucide-react';
@@ -6,10 +6,18 @@ import { Filter, FilterX } from 'lucide-react';
 import {useCountries} from 'app.hooks';
 
 import 'styles/Filters.css';
+import { FilterContext } from 'contexts/FilterContext';
 
 const Filters = () => {
-  const [searchParams, setSearchParams] = useSearchParams();
-  const [open, setOpen] = useState(searchParams.size > 0);
+  const context = useContext(FilterContext);
+  console.log(context)
+  const [searchParams, setSearchParams] = useSearchParams(context.searchParams);
+  const [open, setOpen] = useState(context.open);
+
+  useEffect(() => {
+    context.searchParams = searchParams;
+    context.open = open;
+  }, [searchParams, open]);
 
   const onChange = useCallback((key, value) => {
       setSearchParams({...Object.fromEntries(searchParams), [key]: value})
@@ -26,7 +34,7 @@ const Filters = () => {
           title={open ? 'Close filters' : 'Open filters'}
           onClick={() => {
               if (open) {
-                  setSearchParams({})
+                  // setSearchParams({});
                   setOpen(false);
                   return;
               }
