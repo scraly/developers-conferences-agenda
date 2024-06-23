@@ -7,6 +7,11 @@ body {
   flex-grow: 1;
 }
 
+body * {
+  box-sizing: border-box;
+  outline: 0;
+}
+
 .dcaTitle {
   text-align: center;
 }
@@ -77,4 +82,14 @@ body > footer > .content {
 
 .footer {
   color: inherit;
+}
+
+input, select {
+  font-family: inherit;
+  border-radius: 3px;
+  border: 0;
+}
+
+input[type=text] {
+  border: solid 1px #aaa;
 }

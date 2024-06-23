@@ -1,7 +1,6 @@
 .filters {
     border-right: 1px solid #ccc;
-    padding: 1rem;
-    padding-right: 20px;
+    padding: 1rem 2rem;
     transition: 1s;
     position: fixed;
     padding-top: 7rem;
@@ -23,7 +22,7 @@
     display: flex;
     align-items: center;
     cursor: pointer;
-    margin-bottom: 5px;
+    margin-bottom: 1rem;
 }
 
 .filters .lucide-filter, .filters .lucide-filter-x {
@@ -37,7 +36,6 @@
 .filters .filters-title {
     font-weight: 600;
     font-size: 24px;
-    margin-left: 5px;
 }
 
 .filters.open .filters-title {
@@ -54,21 +52,30 @@
     border-color: #cccccc00;
 }
 
+.filtersList {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin: 2rem 0;
+}
+
 .filters .filtersItem {
-    margin-bottom: 20px;
     overflow: hidden;
     white-space: nowrap;
 }
 
+.filters .filtersItem input[type=checkbox] {
+    margin-right: 0.5rem;
+}
+
 .filters .filtersItem input[type=text] {
-    padding: 10px;
-    max-width: 180px;
-    display: block;
+    padding: 0.5rem 1rem;
+    width: 100%;
 }
 
 .filters .filtersItem label {
-    font-weight: 600;
-    margin-bottom: 10px;
+    display: inline-block;
+    width: 100%;
 }
 
 .filters .filtersItem label[for=filter-query] {
@@ -76,8 +83,8 @@
 }
 
 .filters .filtersItem select {
-    padding: 10px;
-    max-width: 180px;
+    padding: 0.5rem 1rem;
+    width: 100%;
     display: block;
     background: transparent;
     margin-top: 10px;
