@@ -59,7 +59,7 @@
 }
 
 .event-list-entry > header > a {
-    flex: 1;
+    width: 15%;
     text-align: right;
     overflow: hidden;
     text-overflow: ellipsis;
