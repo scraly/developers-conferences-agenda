@@ -231,6 +231,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19-24: [GUADEC](https://events.gnome.org/event/209/) - Denver, CO (USA)
 * 20: [KCD Lima](https://community.cncf.io/kcd-lima-peru/) - Lima (Peru) <a href="https://sessionize.com/KCDLimaPeru-2024"><img alt="CFP KCD Lima" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2024&color=red"></a>
 * 20: [Google I/O Extended Ibadan 2024](https://gdg.community.dev/events/details/google-gdg-ibadan-presents-google-io-extended-ibadan-2024/) - Ibadan (Nigeria) <a href="https://sessionize.com/google-io-extended-ibadan-2024/"><img alt="CFP Google I/O Extended Ibadan 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-June-2024&color=green"></a>
+* 20: [GitHub Field India](https://githubfieldday.com/in2024del/) - Delhi (India)
 * 21-26: [Agile2024](https://www.agilealliance.org/agile2024/) - Dallas, TX (USA) <a href="https://sessionize.com/agile2024/"><img alt="CFP Agile2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2024&color=red"></a>
 * 22: [Google I/O Extended Aba 2024](https://gdg.community.dev/events/details/google-gdg-aba-presents-google-io-extended-aba-2024/) - Aba (Nigeria) <a href="https://sessionize.com/google-io-extended-aba-2024/"><img alt="CFP Google I/O Extended Aba 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-June-2024&color=red"></a>
 * 24-25: [SkySummit](https://skysummit.io) - Berlin (Germany) <a href="https://sessionize.com/skysummit/"><img alt="CFP SkySummit" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-January-2024&color=red"></a>
@@ -259,6 +260,7 @@ All the data (past and coming) are available publicly in JSON:
 * 2-4: [ISC24TX](https://isc24tx.com/) - San Antonio, TX (USA)
 * 3: [Python Conf. Voyager 2024](http://pythonautas.dev/conf_2024) - Bogotá (Colombia) <a href="https://www.papercall.io/pythonautas"><img alt="CFP Python Conf. Voyager 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=green"></a>
 * 3: [SQL Saturday Albany 2024](https://sqlsaturday.com/2024-08-03-sqlsaturday1083/) - Albany, NY (USA) <a href="https://sessionize.com/sql-saturday-albany-2024"><img alt="CFP SQL Saturday Albany 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=red"></a>
+* 3: [GitHub Field Hyderabad](https://githubfieldday.com/in2024hyd/) - Bengaluru (India)
 * 3-4: [COSCUP](https://coscup.org/2024/en/) - Taipei (Taiwan)
 * 6-7: [DevOpsDays Minneapolis](https://devopsdays.org/events/2024-minneapolis/welcome/) - Minneapolis, MN (USA) <a href="https://devopsdays.org/events/2024-minneapolis/propose"><img alt="CFP DevOpsDays Minneapolis" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2024&color=red"></a>
 * 7-9: [fintech_devcon](https://fintechdevcon.io/) - Austin, TX (USA) <a href="https://fintechdevcon.io/call-for-speakers/"><img alt="CFP fintech_devcon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2024&color=red"></a>
