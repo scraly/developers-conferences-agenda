@@ -477,6 +477,7 @@ All the data (past and coming) are available publicly in JSON:
 * 16-17: [Camunda Con New York](https://www.camundacon.com/na/) - New York, NY (USA) & Online <a href="https://www.camundacon.com/na/call-for-presentations/"><img alt="CFP Camunda Con New York" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-May-2024&color=red"></a>
 * 16-17: [BaselOne 2024](https://baselone.ch) - Basel (Switzerland) <a href="https://sessionize.com/baselone-2024"><img alt="CFP BaselOne 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2024&color=red"></a>
 * 16-17: [#HelloStavanger 2024](https://hellostavanger.no) - Stavanger (Norway) <a href="https://sessionize.com/hellostavanger-2024"><img alt="CFP #HelloStavanger 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-April-2024&color=red"></a>
+* 16-17: [NoCode Summit 2024](https://www.nocode-summit.org/fr) - Paris (France)
 * 16-18: [DevConf 2024](https://devconf.pl) - Łódź (Poland) <a href="https://sessionize.com/devconfpl-2024"><img alt="CFP DevConf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-May-2024&color=red"></a>
 * 16-21: [Pycon Brasil](https://2024.pythonbrasil.org.br) - Rio de Janeiro (Brazil)
 * 17: [Conf42 Incident Management 2024](https://www.conf42.com/im2024) - Online <a href="https://www.papercall.io/conf42-incident-management-2024"><img alt="CFP Conf42 Incident Management" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Sep-2024&color=green"></a>
