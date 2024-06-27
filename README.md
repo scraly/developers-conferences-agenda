@@ -545,6 +545,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5-7: [The DEVOPS Conference Copenhagen & Stockholm 2024](https://www.thedevopsconference.com/) - Copenhagen (Denmark) <a href="https://sessionize.com/the-devops-conference-copenhagen-stockholm"><img alt="CFP The DEVOPS Conference Copenhagen & Stockholm 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-May-2024&color=red"></a>
 * 5-14: [CloudX 2024](https://www.developerweek.com/cloudx/) - Santa Clara, CA (USA) <a href="https://sessionize.com/cloudx-2024/"><img alt="CFP CloudX 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-June-2024&color=red"></a>
 * 6: [Master Dev De France](https://www.masterdevfrance.com/) - Paris (France)
+* 6: [Data in Motion Tour](https://events.confluent.io/datainmotiontour2024frankfurt) - Frankfurt (Germany)
 * 6-8: [Oredev](https://oredev.org/) - Malmo (Sweden) <a href="https://sessionize.com/oredev-2024/"><img alt="CFP Øredev 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=red"></a>
 * 6-8: [DroidConKE24](https://droidcon.co.ke/) - Nairobi (Kenya)
 * 7: [DevDay](https://www.devday.be) - Mons (Belgium) <a href="https://sessionize.com/devday-2024/"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=until%203-September-2024&color=green"></a>
