@@ -1727,6 +1727,10 @@
     "latitude": 59.9133301,
     "longitude": 10.7389701
   },
+  "Otemachi (Japan)": {
+    "latitude": 35.6846087,
+    "longitude": 139.7664613
+  },
   "Ottawa, ON (Canada)": {
     "latitude": 45.4208777,
     "longitude": -75.6901106
@@ -2102,6 +2106,10 @@
   "Shangai (China)": {
     "latitude": 31.2312707,
     "longitude": 121.4700152
+  },
+  "Shenzhen (China)": {
+    "latitude": 22.5445741,
+    "longitude": 114.0545429
   },
   "Sidney (Australia)": {
     "latitude": -33.8698439,
