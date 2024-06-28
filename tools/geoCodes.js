@@ -6,7 +6,13 @@ const NodeGeocoder = require('node-geocoder');
 const ROOT = "../";
 const GEOLOCATION_OUTPUT = ROOT + "page/src/misc/geolocations.json";
 
-let options = {provider: 'openstreetmap'};
+//let options = {provider: 'openstreetmap'};
+let options = {
+  provider: 'openstreetmap',
+  fetch(url, options) {
+    return fetch(url, {...options, headers: { 'user-agent': 'dca-0' }})
+  }
+};
 if (process.env.GOOGLE_MAPS_API_KEY !== undefined) {
   options = {
     provider: 'google',

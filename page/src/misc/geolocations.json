@@ -411,6 +411,10 @@
     "latitude": 46.7889169,
     "longitude": 23.6184909
   },
+  "Burlington, VT (USA)": {
+    "latitude": 44.4761601,
+    "longitude": -73.212906
+  },
   "Bydgoszcz (Poland)": {
     "latitude": 53.12974625,
     "longitude": 18.029369658534854
@@ -1451,6 +1455,10 @@
     "latitude": 33.4151005,
     "longitude": -111.831455
   },
+  "Metro Manila (Philippines)": {
+    "latitude": 14.5736108,
+    "longitude": 121.0329706
+  },
   "Mexico City (Mexico)": {
     "latitude": 19.4326296,
     "longitude": -99.1331785
@@ -2195,6 +2203,10 @@
     "latitude": -23.682794700000002,
     "longitude": -46.716998204286014
   },
+  "Tacoma, WA (USA)": {
+    "latitude": 47.2455013,
+    "longitude": -122.438329
+  },
   "Taipei (Taiwan)": {
     "latitude": 25.0329694,
     "longitude": 121.5654177
@@ -2470,6 +2482,10 @@
   "Yerevan (Armenia)": {
     "latitude": 40.1777112,
     "longitude": 44.5126233
+  },
+  "Yogyakarta (Indonesia)": {
+    "latitude": -7.9778383999999996,
+    "longitude": 110.36722565020224
   },
   "Yokohama (Japan)": {
     "latitude": 35.4443947,
