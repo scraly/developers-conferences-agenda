@@ -7,11 +7,13 @@ import EventCount from '../EventCount/EventCount'
 import {formatDate, getMonthName} from '../../utils';
 import {useMonthEvents, useDayEvents, useYearEvents} from 'app.hooks';
 import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
+import { dayEventFilterFactory } from 'components/Day/Day';
 
 const SelectedEvents = () => {
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
   const {year, month, date} = useParams();
+  const search = Object.fromEntries(searchParams);
 
   let currentMonth = parseInt(month, 10);
   if (Number.isNaN(month)) {
@@ -27,7 +29,7 @@ const SelectedEvents = () => {
 
   const yearEvents = useYearEvents()
   const monthEvents = useMonthEvents(yearEvents, currentMonth != -1 ? currentMonth : currentDate.getMonth())
-  const dayEvents = useDayEvents(monthEvents, currentDate)
+  const dayEvents = useDayEvents(monthEvents, currentDate).filter(dayEventFilterFactory(search, currentDate));
   const events = currentMonth != -1 ?  monthEvents : dayEvents;
 
   useEffect(() => {
