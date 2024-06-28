@@ -1,9 +1,15 @@
 body {
   outline: 0;
   box-sizing: border-box;
+  margin: 0;
 
   font-family: Inter, Arial, sans-serif;
   flex-grow: 1;
+}
+
+body * {
+  box-sizing: border-box;
+  outline: 0;
 }
 
 .dcaTitle {
@@ -12,6 +18,7 @@ body {
 
 .dcaGrid {
   display: flex;
+  position: relative;
 }
 
 .dcaContent {
@@ -74,4 +81,14 @@ body > footer > .content {
 
 .footer {
   color: inherit;
+}
+
+input, select {
+  font-family: inherit;
+  border-radius: 3px;
+  border: 0;
+}
+
+input[type=text] {
+  border: solid 1px #aaa;
 }

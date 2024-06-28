@@ -1,4 +1,4 @@
-import React, { useState, useCallback } from 'react';
+import React, { useState, useCallback, useContext, useEffect } from 'react';
 import {useSearchParams} from "react-router-dom";
 
 import { Filter, FilterX } from 'lucide-react';
@@ -6,10 +6,18 @@ import { Filter, FilterX } from 'lucide-react';
 import {useCountries} from 'app.hooks';
 
 import 'styles/Filters.css';
+import { FilterContext } from 'contexts/FilterContext';
 
 const Filters = () => {
-  const [searchParams, setSearchParams] = useSearchParams();
-  const [open, setOpen] = useState(searchParams.size > 0);
+  const context = useContext(FilterContext);
+  console.log(context)
+  const [searchParams, setSearchParams] = useSearchParams(context.searchParams);
+  const [open, setOpen] = useState(context.open);
+
+  useEffect(() => {
+    context.searchParams = searchParams;
+    context.open = open;
+  }, [searchParams, open]);
 
   const onChange = useCallback((key, value) => {
       setSearchParams({...Object.fromEntries(searchParams), [key]: value})
@@ -26,40 +34,38 @@ const Filters = () => {
           title={open ? 'Close filters' : 'Open filters'}
           onClick={() => {
               if (open) {
-                  setSearchParams({})
+                  // setSearchParams({});
                   setOpen(false);
                   return;
               }
               setOpen(true);
           }}
       >
-          {open ? <FilterX/> : <Filter/>}
+          <div className='filters-icon'>{open ? <FilterX size={'32px'}/> : <Filter size={'32px'}/>}</div>
           <span className='filters-title'>Filters</span>
       </div>
 
       <div className='filtersItem'>
-        <label htmlFor='filter-query'>Search:</label>
-        <input id='filter-query' type='text' value={search.query} onChange={(e) => onChange('query', e.target.value)}/>
+        <input id='filter-query' type='text' value={search.query} onChange={(e) => onChange('query', e.target.value)} placeholder="Search..."/>
       </div>
 
-      <div className='filtersItem'>
-        <label htmlFor='filter-call-for-papers'>Call For Papers Open:</label>
-        <input checked={search.callForPapers == 'true'} type='checkbox' id='filter-call-for-papers' onChange={(e) => onChange('callForPapers', e.target.checked)}/>
-      </div>
-
-      <div className='filtersItem'>
-        <label htmlFor='filter-closed-captions'>Closed Captions:</label>
-        <input checked={search.closedCaptions == 'true'} type='checkbox' id='filter-closed-captions' onChange={(e) => onChange('closedCaptions', e.target.checked)}/>
-      </div>
-
-      <div className='filtersItem'>
-        <label htmlFor='filter-scholarship'>Scholarship:</label>
-        <input checked={search.scholarship == 'true'} type='checkbox' id='filter-scholarship' onChange={(e) => onChange('scholarship', e.target.checked)}/>
-      </div>
-
-      <div className='filtersItem'>
-        <label htmlFor='filter-online'>Online:</label>
-        <input checked={search.online == 'true'} type='checkbox' id='filter-online' onChange={(e) => onChange('online', e.target.checked)}/>
+      <div className='filtersList'>
+        <div className='filtersItem'>
+          <input checked={search.callForPapers == 'true'} type='checkbox' id='filter-call-for-papers' onChange={(e) => onChange('callForPapers', e.target.checked)}/>
+          <label htmlFor='filter-call-for-papers'>Call For Papers Open</label>
+        </div>
+        <div className='filtersItem'>
+          <input checked={search.closedCaptions == 'true'} type='checkbox' id='filter-closed-captions' onChange={(e) => onChange('closedCaptions', e.target.checked)}/>
+          <label htmlFor='filter-closed-captions'>Closed Captions</label>
+        </div>
+        <div className='filtersItem'>
+          <input checked={search.scholarship == 'true'} type='checkbox' id='filter-scholarship' onChange={(e) => onChange('scholarship', e.target.checked)}/>
+          <label htmlFor='filter-scholarship'>Scholarship</label>
+        </div>
+        <div className='filtersItem'>
+          <input checked={search.online == 'true'} type='checkbox' id='filter-online' onChange={(e) => onChange('online', e.target.checked)}/>
+          <label htmlFor='filter-online'>Online</label>
+        </div>
       </div>
 
       <div className='filtersItem'>

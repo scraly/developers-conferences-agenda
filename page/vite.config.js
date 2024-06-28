@@ -11,6 +11,7 @@ export default defineConfig({
 		alias: {
 			utils: join(__dirname, 'src', 'utils'),
 			components: join(__dirname, 'src', 'components'),
+			contexts: join(__dirname, 'src', 'contexts'),
             routes: join(__dirname, 'src', 'routes'),
 			"app.context": join(__dirname, 'src', 'app.context'),
 			"app.hooks": join(__dirname, 'src', 'app.hooks'),

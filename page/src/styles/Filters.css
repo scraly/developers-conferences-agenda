@@ -1,8 +1,20 @@
 .filters {
     border-right: 1px solid #ccc;
-    padding: 10px;
-    padding-right: 20px;
-    transition: min-width 1s, width 1s, border-color 1s;
+    padding: 1rem 2rem;
+    transition: 1s;
+    position: fixed;
+    padding-top: 7rem;
+    top: 0;
+    left: 0;
+    z-index: 999999;
+    background: white;
+    height: 100%;
+}
+
+.filters-icon {
+    position: fixed;
+    /* top: 7rem; */
+    left: 100%;
 }
 
 .filters-header {
@@ -10,71 +22,60 @@
     display: flex;
     align-items: center;
     cursor: pointer;
-    margin-bottom: 5px;
+    margin-bottom: 1rem;
 }
 
 .filters .lucide-filter, .filters .lucide-filter-x {
-    opacity: 1;
     min-width: 24px;
     background: #eee;
     padding: 5px;
-    border-radius: 3px;
+    border-radius: 0 3px 3px 0;
     border: 1px solid #ccc;
 }
 
 .filters .filters-title {
     font-weight: 600;
     font-size: 24px;
-    margin-left: 5px;
 }
 
 .filters.open .filters-title {
-    opacity: 1;
-    transition: opacity 1s;
-}
-
-.filters.closed .filters-title {
-    opacity: 0;
-    transition: opacity 1s;
+    background: revert;
 }
 
 .filters.open {
-    min-width: 210px;
-    width: 210px;
+    transform: translateX(0%);
     border-color: #cccccc;
 }
 
 .filters.closed {
-    width: 0;
-    min-width: 10px;
+    transform: translateX(-100%);
     border-color: #cccccc00;
 }
 
-.filters.closed .filtersItem {
-    opacity: 0;
-    transition: opacity 1s;
-}
-
-.filters.open .filtersItem {
-    opacity: 1;
-    transition: opacity 1s;
+.filtersList {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin: 2rem 0;
 }
 
 .filters .filtersItem {
-    margin-bottom: 20px;
     overflow: hidden;
     white-space: nowrap;
 }
 
+.filters .filtersItem input[type=checkbox] {
+    margin-right: 0.5rem;
+}
+
 .filters .filtersItem input[type=text] {
-    padding: 10px;
-    max-width: 180px;
-    display: block;
+    padding: 0.5rem 1rem;
+    width: 100%;
 }
 
 .filters .filtersItem label {
-    font-weight: 600;
-    margin-bottom: 10px;
+    display: inline-block;
+    width: 100%;
 }
 
 .filters .filtersItem label[for=filter-query] {
@@ -82,8 +83,8 @@
 }
 
 .filters .filtersItem select {
-    padding: 10px;
-    max-width: 180px;
+    padding: 0.5rem 1rem;
+    width: 100%;
     display: block;
     background: transparent;
     margin-top: 10px;

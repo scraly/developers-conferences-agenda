@@ -18,7 +18,7 @@ const ShortDate = ({dates}) => {
       </span>
     );
   }
-  return <span className='short-date'>{startDate}</span>;
+  return <span className='shortDate'>{startDate}</span>;
 };
 
 export default ShortDate;

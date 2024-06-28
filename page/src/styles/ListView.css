@@ -39,3 +39,102 @@
 .listView .eventsGridDisplay .eventCell {
   /* background: white; */
 }
+
+
+.event-list-entry > header {
+    display: flex;
+    width: 100%;
+    gap: 1rem;
+    cursor: pointer;
+}
+
+.event-list-entry > header > * {
+    padding: 10px;
+}
+
+.event-list-entry > header > .shortDate {
+    min-width: 9rem;
+    border-right: 1px solid #ccc;
+    background: #eee;
+}
+
+.event-list-entry > header > .event-name-location {
+    flex: 2;
+}
+
+.event-list-entry > header > a {
+    flex: 1;
+    text-align: right;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.event-name-location > b {
+    margin-right: 1rem;
+}
+
+.event-name-location > span {
+    font-size: smaller;
+}
+
+.event-banners {
+    display: flex;
+    flex: 1;
+    justify-content: end;
+    gap: 10px;
+}
+
+.event-banners.hide {
+    visibility: hidden;
+}
+
+.event-banners * {
+    height: max-content;
+}
+
+.event-list-entry > .show {
+    display: flex;
+}
+
+.event-list-entry > article, .event-list-entry > footer {
+    display: none;
+}
+
+.event-list-entry > article {
+    border-top: 1px solid #ccc;
+    padding: 1rem;
+}
+
+.event-list-entry > footer {
+    border-top: 1px solid #ccc;
+    background-color: #eee;
+    padding: 0.5rem;
+}
+
+@media screen and (max-width: 660px) {
+    .dcaContent { /* TODO: Make this available to anywhere, not just this page. */
+        width: 100%;
+    }
+
+    .event-list-entry > header {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .event-list-entry > header > .shortDate {
+        border: none;
+    }
+    
+    .event-list-entry > header > a {
+        text-align: left;
+    }
+
+    .event-banners {
+        justify-content: start;
+    }
+
+    .event-banners.hide {
+        display: none;
+    }
+    
+}
