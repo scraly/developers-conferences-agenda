@@ -255,6 +255,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-28: [PyOhio](https://www.pyohio.org/2024/) - Cleveland, OH (USA) <a href="https://pretalx.com/pyohio-2024/cfp"><img alt="CFP PyOhio" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-May-2024&color=red"></a>
 * 28: [Open Source Days 2024](https://events.linuxfoundation.org/open-source-days/) - Denver, CO (USA) <a href="https://sessionize.com/open-source-days-2024"><img alt="CFP Open Source Days 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-May-2024&color=red"></a>
 * 29-30: [PyData Vermont](https://pydata.org/vermont2024/) - Burlington, VT (USA)
+* 29-02/08: [THAT Conference Wisconsin](https://thatconference.com/wi/2024/) - Wisconsin Dells, WI (USA)
 
 ### August
 
