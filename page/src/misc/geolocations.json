@@ -2115,6 +2115,10 @@
     "latitude": 1.2899175,
     "longitude": 103.8519072
   },
+  "Skopje (Macedonia)": {
+    "latitude": 41.9961816,
+    "longitude": 21.4319213
+  },
   "Skopje (North Macedonia)": {
     "latitude": 41.9981294,
     "longitude": 21.4254355
@@ -2234,6 +2238,10 @@
   "Tampa Bay, FL (USA)": {
     "latitude": 27.6886419,
     "longitude": -82.5723193
+  },
+  "Tartu (Estonia)": {
+    "latitude": 58.3801207,
+    "longitude": 26.72245
   },
   "Tbilisi (Georgia)": {
     "latitude": 41.6934591,
