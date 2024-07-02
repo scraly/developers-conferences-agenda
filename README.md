@@ -642,7 +642,7 @@ All the data (past and coming) are available publicly in JSON:
 * 3: [JakartaOne Livestream 2024](https://jakartaone.org/2024/) - Online <a href="https://www.papercall.io/jakartaone-2024"><img alt="CFP JakartaOne Livestream" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2024&color=green"></a>
 * 3-5: [APIdays Paris](https://www.apidays.global/paris/) - Paris (France)
 * 3-4: [Frontend Barcelona 2024](https://frontend.barcelona/?utm_source=developers-conference-agenda&utm_medium=link&utm_campaign=frontend-barcelona-2024&utm_id=frontend-barcelona-2024) - Barcelona (Spain) <a href="https://frontend.barcelona/call-for-papers"><img alt="CFP Frontend Barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2024&color=green"></a>
-* 4-5: [DevOpsDays Paris](https://devopsdays.org/events/2024-paris/welcome/) - Paris (France)
+* 4-5: [DevOpsRex](https://www.devopsrex.fr/fr) - Paris (France)
 * 4-5: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France) <a href="https://pretalx.com/opensource-experience-2024/cfp"><img alt="CFP Open Source Experience" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-July-2024&color=green"></a>
 * 5: [Conf42.com DevSecOps 2024](https://www.conf42.com/devsecops2024) - Online <a href="https://www.papercall.io/conf42-devsecops-2024"><img alt="CFP Conf42.com DevSecOps 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-November-2024&color=green"></a>
 * 5-7: [JSConf Chile](https://jsconf.cl/) - Santiago (Chile)
