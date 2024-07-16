@@ -669,6 +669,7 @@ All the data (past and coming) are available publicly in JSON:
 ### February
 
 * 3-5: [NANOG 93](https://nanog.org/events/nanog-93/) - Atlanta, GA (USA)
+* 6-7: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/public/event/FpB8KQaTh0iktZFr6Tne"><img alt="CFP Touraine Tech" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=green"></a>
 * 13: [Conf42.com Chaos Engineering 2025](https://www.conf42.com/ce2025) - Online <a href="https://www.papercall.io/conf42-chaos-engineering-2025"><img alt="CFP Conf42.com Chaos Engineering 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-January-2025&color=green"></a>
 * 26-28: [nor(DEV): con 2025](https://ti.to/norfolkdevelopers/nordevcon-25) - Norwich (UK) 
 * 27: [Conf42.com Python 2025](https://www.conf42.com/python2025) - Online <a href="https://www.papercall.io/conf42-python-2025"><img alt="CFP Conf42.com Python 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-January-2025&color=green"></a>
