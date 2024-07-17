@@ -263,6 +263,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### August
 
+* 1-2: [Madison+ Ruby 2024](https://www.madisonruby.com) - Madison, WI (USA)
 * 2-3: [Beer City Code 2024](https://beercitycode.com) - Grand Rapids, MI (USA) <a href="https://sessionize.com/beer-city-code-2024/"><img alt="CFP Beer City Code 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2024&color=red"></a>
 * 2-4: [ISC24TX](https://isc24tx.com/) - San Antonio, TX (USA)
 * 3: [Python Conf. Voyager 2024](http://pythonautas.dev/conf_2024) - Bogotá (Colombia) <a href="https://www.papercall.io/pythonautas"><img alt="CFP Python Conf. Voyager 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=red"></a>
