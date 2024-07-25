@@ -317,6 +317,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-11: [Devoxx Belgium](https://devoxx.be) - Antwerp (Belgium) <a href="https://dvbe24.cfp.dev"><img alt="CFP Devoxx Belgium 2024" src="https://img.shields.io/static/v1?label=CFP&message=from%2003-June-2024-until%2012-Jul-2024&color=red"></a>
 * 8: [Red Hat Summit: Connect 2024](https://www.redhat.com/fr/summit/connect/emea/paris-2024) - Paris (France)
 * 8-9: [Agile Tour Quebec](https://agilequebec.ca/) - Quebec, QC (Canada)
+* 8-9: [DevSecCon 2024](https://snyk.io/events/devseccon/) - Online <a href="https://sessionize.com/devseccon/"><img alt="CFP DevSecCon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2024&color=green"></a>
 * 8-9: [Project to Product Summit 2024](https://projecttoproductsummit.com/) - Online <a href="https://sessionize.com/project-to-product-summit-20245776"><img alt="CFP Project to Product Summit 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-August-2024&color=green"></a>
 * 8-9: [vuejs.de Conf](https://conf.vuejs.de/) - Bonn (Germany)
 * 8-10: [KCD Austria](https://kcdaustria.at/) - Vienna (Austria) <a href="https://sessionize.com/kcd-austria"><img alt="CFP KCD Austria" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-June-2024&color=red"></a>
@@ -530,7 +531,7 @@ All the data (past and coming) are available publicly in JSON:
 * 3-5: [NANOG 93](https://nanog.org/events/nanog-93/) - Atlanta, GA (USA)
 * 6-7: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/public/event/FpB8KQaTh0iktZFr6Tne"><img alt="CFP Touraine Tech" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=green"></a>
 * 13: [Conf42.com Chaos Engineering 2025](https://www.conf42.com/ce2025) - Online <a href="https://www.papercall.io/conf42-chaos-engineering-2025"><img alt="CFP Conf42.com Chaos Engineering 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-January-2025&color=green"></a>
-* 26-28: [nor(DEV): con 2025](https://ti.to/norfolkdevelopers/nordevcon-25) - Norwich (UK) 
+* 26-28: [nor(DEV): con 2025](https://ti.to/norfolkdevelopers/nordevcon-25) - Norwich (UK)
 * 27: [Conf42.com Python 2025](https://www.conf42.com/python2025) - Online <a href="https://www.papercall.io/conf42-python-2025"><img alt="CFP Conf42.com Python 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-January-2025&color=green"></a>
 
 ### March
@@ -554,7 +555,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 19-22: [JCON EUROPE 2025](https://jcon.one/) - Cologne (Germany)
 * 21-23: [Spring I/O](https://springio.net/) - Barcelona (Spain)
-  
+
 ### June
 
 * 2-6: [DDD Europe - 2025](https://dddeurope.com/) - Antwerpen (Belgium) <a href="https://sessionize.com/aardling2025"><img alt="CFP DDD Europe - 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2025&color=green"></a>
