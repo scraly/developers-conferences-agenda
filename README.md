@@ -235,10 +235,23 @@ All the data (past and coming) are available publicly in JSON:
 * 18-19: [PyTorch Conference 2024](https://events.linuxfoundation.org/pytorch-conference/) - San Francisco, CA (USA) <a href="https://sessionize.com/pytorch2024"><img alt="CFP PyTorch Conference 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-June-2024&color=red"></a>
 * 18-20: [Replay 2024](https://temporal.io/replay) - Bellevue, WA (USA) <a href="https://www.papercall.io/replay2024"><img alt="CFP Replay 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-June-2024&color=red"></a>
 * 18-20: [PyData Amsterdam](https://amsterdam.pydata.org/) - Amsterdam (Netherlands)
+* 18-20: [Linux Plumber's Conference](https://lpc.events/) - Vienna (Austria)
 * 19: [SREday 2024](https://www.sreday.com) - London (UK) <a href="https://www.papercall.io/sreday-2024-london"><img alt="CFP SREday 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-June-2024&color=red"></a>
 * 19: [Swiss Cloud Native Day 2024](https://cloudnativeday.ch) - Bern (Switzerland) <a href="https://sessionize.com/swiss-cloud-native-day-2024"><img alt="CFP Swiss Cloud Native Day 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2024&color=red"></a>
 * 19: [DevOpsDays Tampa Bay](https://devopsdays.org/events/2024-tampa) - Tampa Bay, FL (USA) <a href="https://sessionize.com/devops-days-tampa-bay-2024"><img alt="CFP DevOps Days Tampa Bay 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2024&color=red"></a>
 * 19: [SOSS Community Day Europe 2024](https://events.linuxfoundation.org/soss-community-day-europe/) - Vienna (Austria) <a href="https://sessionize.com/soss-community-day-europe-2024"><img alt="CFP SOSS Community Day Europe 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-June-2024&color=red"></a>
+* 19: [Continuous Delivery Mini Summit](https://cd.foundation/cd-mini-summit-vienna/) - Vienna (Austria)
+* 19: [CIP Mini Summit](https://www.cip-project.org/announcement/2024/06/06/minisummit2024) - Vienna (Austria)
+* 19: [Confidential Computing Mini Summit](https://events.linuxfoundation.org/open-source-summit-europe/register/) - Vienna (Austria)
+* 19: [LF Edge Day](https://events.linuxfoundation.org/open-source-summit-europe/register/) - Vienna (Austria)
+* 19: [Linux Foundation Europe Member Summit](https://events.linuxfoundation.org/lf-europe-member-summit/) - Vienna (Austria)
+* 19: [NextArch Summit](https://events.linuxfoundation.org/open-source-summit-europe/register/) - Vienna (Austria)
+* 19: [Open Hardware Mini Summit](https://events.linuxfoundation.org/open-source-summit-europe/register/) - Vienna (Austria)
+* 19: [Sonic Mini Summit](https://events.linuxfoundation.org/open-source-summit-europe/register/) - Vienna (Austria)
+* 19: [Sylva Mini Summit](https://events.linuxfoundation.org/open-source-summit-europe/register/) - Vienna (Austria)
+* 19: [ValKey Developer Day](https://events.linuxfoundation.org/open-source-summit-europe/register/) - Vienna (Austria)
+* 19: [Yocto Project Developer Day](https://events.linuxfoundation.org/open-source-summit-europe/register/) - Vienna (Austria)
+* 19: [Zephyr Workshop](https://events.linuxfoundation.org/open-source-summit-europe/register/) - Vienna (Austria)
 * 19-20: [API Platform Conference](https://api-platform.com/con/) - Lille (France) & Online <a href="https://conference-hall.io/public/event/GMijW4ZrZDo6hzKeF1gk"><img alt="CFP API Platform Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-March-2024&color=red"></a>
 * 19-20: [UX Healthcare Europe](https://uxhealthcare.co/) - Berlin (Germany) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeN4x_OAks2lr-5NWeXjdQFhq9sOAQfKj_UbZxuvUvZZGCaag/viewform"><img alt="CFP UX Healthcare Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%201-June-2024&color=red"></a>
 * 19-20: [Fluttercon USA 2024](https://www.flutterconusa.dev) - New York, NY (USA) <a href="https://sessionize.com/fluttercon-usa-2024/"><img alt="CFP Fluttercon USA 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-July-2024&color=red"></a>
@@ -508,6 +521,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5: [Conf42.com DevSecOps 2024](https://www.conf42.com/devsecops2024) - Online <a href="https://www.papercall.io/conf42-devsecops-2024"><img alt="CFP Conf42.com DevSecOps 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-November-2024&color=green"></a>
 * 5-7: [JSConf Chile](https://jsconf.cl/) - Santiago (Chile)
 * 6: [DevFest Dijon](https://devfest.developers-group-dijon.fr/) - Dijon (France) <a href="https://conference-hall.io/public/event/LvvYRcF5AIhpojdn2lkQ"><img alt="CFP DevFest Dijon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2024&color=red"></a>
+* 6: [KCD Floripa](https://community.cncf.io/kcd-brasil/) - Florianópolis (Brazil)
 * 7-8: [Winter of C++](https://winterofcpp.vercel.app/) - Amsterdam (Netherlands) <a href="https://forms.gle/ScdFFZQD6yPNFr9S8"><img alt="CFP Winter of C++" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=red"></a>
 * 11: [You Got This Winter 2024](https://yougotthis.io/events/winter-2024) - Online
 * 11-12: [KubeCon + CloudNativeCon India 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) - Delhi (India) <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-india/program/cfp/"><img alt="CFP KubeCon India" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-August-2024&color=green"></a>
