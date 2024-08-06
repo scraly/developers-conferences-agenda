@@ -501,7 +501,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21: [JSNation US Online](https://jsnation.us/) - Online <a href="https://forms.gle/xu7MJi1GkXTZd8Bi8"><img alt="CFP JS Nation US Online" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2024&color=red"></a>
 * 21: [Tech Tribes Conference](http://www.techtribes.eu/ttc) - Antwerpen (Belgium) <a href="https://sessionize.com/tech-tribes-talks"><img alt="CFP Tech Tribes Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-April-2024&color=red"></a>
 * 21: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/public/event/ZZv81ZNIzVzCMBxjX1xe"><img alt="CFP DevFest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-July-2024&color=red"></a>
-* 21: [Codeurs en Seine](https://www.codeursenseine.com) - Rouen (France)
+* 21: [Codeurs en Seine](https://www.codeursenseine.com) - Rouen (France) <a href="https://conference-hall.io/public/event/Su6sfM6SAhoHmg3GWKHS"><img alt="CFP Codeurs en Seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2024&color=green"></a>
 * 22-23: [Open Conf - 2024](https://www.open-conf.gr/) - Athens (Greece) <a href="https://sessionize.com/open-conf-2024"><img alt="CFP Open Conf - 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-March-2024&color=red"></a>
 * 25-26: [KCD Accra Ghana](https://community.cncf.io/kcd-ghana/) - Online <a href="https://sessionize.com/kcd-accra"><img alt="CFP Open Conf - 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2024&color=green"></a>
 * 26: [Oh My H@ck](https://omhconf.pl/) - Warsaw (Poland) <a href="https://omhconf.pl/cfp-2024/"><img alt="CFP Oh My H@ck" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-September-2024&color=green"></a>
@@ -562,6 +562,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### April
 
+* 1-3: [Java Land](https://www.javaland.eu/de/home/) - Nürburg (Germany) <a href="https://my.doag.org/events/javaland/cfp/"><img alt="CFP Java Land 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-September-2024&color=green"></a>
 * 1-4: [KubeCon + CloudNativeCon EU 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2025/) - London (UK)
 * 10: [Conf42.com Large Language Models (LLMs) 2025](https://www.conf42.com/llm2025) - Online <a href="https://www.papercall.io/conf42-large-language-models-llms-2025"><img alt="CFP Conf42.com Large Language Models (LLMs) 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-March-2025&color=green"></a>
 * 15-17: [CYBERSEC](https://cybersec.ithome.com.tw/) - Taipei (Taiwan)
