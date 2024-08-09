@@ -10,7 +10,6 @@ import { FilterContext } from 'contexts/FilterContext';
 
 const Filters = () => {
   const context = useContext(FilterContext);
-  console.log(context)
   const [searchParams, setSearchParams] = useSearchParams(context.searchParams);
   const [open, setOpen] = useState(context.open);
 
@@ -20,12 +19,17 @@ const Filters = () => {
   }, [searchParams, open]);
 
   const onChange = useCallback((key, value) => {
-      setSearchParams({...Object.fromEntries(searchParams), [key]: value})
+      const clone = { ...Object.fromEntries(searchParams), [key]: value };
+      if (value === undefined) delete clone[key];
+      setSearchParams(clone);
   }, [searchParams, setSearchParams]);
 
   const countries = useCountries()
 
-  const search = Object.fromEntries(searchParams)
+  const search = Object.fromEntries(searchParams);
+  if (search.showEventsMode0 === undefined) {
+    
+  }
 
   return (
     <div className={"filters " + (open ? 'open' : 'closed')}>
@@ -67,6 +71,24 @@ const Filters = () => {
           <label htmlFor='filter-online'>Online</label>
         </div>
       </div>
+
+      <fieldset className='filtersList'>
+        <legend>Calendar Highlight</legend>
+        
+        {/* TODO: Make showEventsMode an array */}
+        <div className='filtersItem'>
+          <input checked={search.showEventsMode0 == 'true' || search.showEventsMode0 === undefined} type='checkbox' id='filter-sem-0' onChange={(e) => onChange('showEventsMode0', e.target.checked || false)}/>
+          <label htmlFor='filter-sem-0'>Start Date</label>
+        </div>
+        <div className='filtersItem'>
+          <input checked={search.showEventsMode1 == 'true'} type='checkbox' id='filter-sem-1' onChange={(e) => onChange('showEventsMode1', e.target.checked || undefined)}/>
+          <label htmlFor='filter-sem-1'>In-Between Dates</label>
+        </div>
+        <div className='filtersItem'>
+          <input checked={search.showEventsMode2 == 'true'} type='checkbox' id='filter-sem-2' onChange={(e) => onChange('showEventsMode2', e.target.checked || undefined)}/>
+          <label htmlFor='filter-sem-2'>End Date</label>
+        </div>
+      </fieldset>
 
       <div className='filtersItem'>
         <label htmlFor='filter-country'>Country:</label>
