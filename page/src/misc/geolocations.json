@@ -15,6 +15,10 @@
     "latitude": 5.5571096,
     "longitude": -0.2012376
   },
+  "Adelaide (Australia)": {
+    "latitude": -34.9284989,
+    "longitude": 138.6007456
+  },
   "Ado (Nigeria)": {
     "latitude": 6.6,
     "longitude": 2.933333
@@ -30,6 +34,10 @@
   "Aix-en-Provence (France)": {
     "latitude": 43.5298424,
     "longitude": 5.4474738
+  },
+  "Akland, CA (USA)": {
+    "latitude": 37.8043514,
+    "longitude": -122.2711639
   },
   "Albany, NY (USA)": {
     "latitude": 42.6525793,
@@ -67,9 +75,17 @@
     "latitude": 52.3730796,
     "longitude": 4.8924534
   },
+  "Amsterdam (The Netherlands)": {
+    "latitude": 52.3675734,
+    "longitude": 4.9041389
+  },
   "Anglet (France)": {
     "latitude": 43.4813927,
     "longitude": -1.5149935
+  },
+  "Ankeny, IA (USA)": {
+    "latitude": 41.7317884,
+    "longitude": -93.6001278
   },
   "Antalya (Turkey)": {
     "latitude": 36.8872942,
@@ -339,6 +355,10 @@
     "latitude": 41.5454486,
     "longitude": -8.426506999999999
   },
+  "Brasília (Brazil)": {
+    "latitude": -15.7975154,
+    "longitude": -47.89188739999999
+  },
   "Bratislava (Slovakia)": {
     "latitude": 48.1516988,
     "longitude": 17.1093063
@@ -450,6 +470,10 @@
   "Cambridge, ON (Canada)": {
     "latitude": 43.3616211,
     "longitude": -80.3144276
+  },
+  "Campinas (Brazil)": {
+    "latitude": -22.9050824,
+    "longitude": -47.0613327
   },
   "Canada": {
     "latitude": 61.0666922,
@@ -871,6 +895,10 @@
     "latitude": 51.0538286,
     "longitude": 3.7250121
   },
+  "Gijón (Spain)": {
+    "latitude": 43.5322493,
+    "longitude": -5.660973299999999
+  },
   "Gilbert, AZ (USA)": {
     "latitude": 33.3528264,
     "longitude": -111.789027
@@ -890,6 +918,10 @@
   "Goiana (Brazil)": {
     "latitude": -7.560603,
     "longitude": -34.99591
+  },
+  "Goinia (Brazil)": {
+    "latitude": -16.6868491,
+    "longitude": -49.2707899
   },
   "Goiânia, GO (Brazil)": {
     "latitude": -16.680882,
@@ -934,6 +966,10 @@
   "Guadalajara (Mexico)": {
     "latitude": 20.6720375,
     "longitude": -103.338396
+  },
+  "Guadalajara (Spain)": {
+    "latitude": 40.632489,
+    "longitude": -3.16017
   },
   "Gujarat (India)": {
     "latitude": 22.3850051,
@@ -1019,6 +1055,10 @@
     "latitude": 29.7589382,
     "longitude": -95.3676974
   },
+  "Hyderabad (India)": {
+    "latitude": 17.406498,
+    "longitude": 78.47724389999999
+  },
   "Hyderābād (India)": {
     "latitude": 17.406498,
     "longitude": 78.47724389999999
@@ -1094,6 +1134,10 @@
   "Jacksonville, FL (USA)": {
     "latitude": 30.3321838,
     "longitude": -81.65565099999999
+  },
+  "Jaipur (India)": {
+    "latitude": 26.9124336,
+    "longitude": 75.7872709
   },
   "Jakarta (Indonesia)": {
     "latitude": -6.175247,
@@ -1302,6 +1346,10 @@
   "Lima (Peru)": {
     "latitude": -12.0621065,
     "longitude": -77.0365256
+  },
+  "Lima (Perú)": {
+    "latitude": -12.0466888,
+    "longitude": -77.04308859999999
   },
   "Lingen (Germany)": {
     "latitude": 52.5224659,
@@ -1627,6 +1675,10 @@
     "latitude": 52.2434979,
     "longitude": 5.6343227
   },
+  "New Delhi (India)": {
+    "latitude": 28.6139298,
+    "longitude": 77.2088282
+  },
   "New Orleans, LA (USA)": {
     "latitude": 29.9759983,
     "longitude": -90.0782127
@@ -1694,6 +1746,10 @@
   "Oakland, CA (USA)": {
     "latitude": 37.8044557,
     "longitude": -122.271356
+  },
+  "Ogun (Nigeria)": {
+    "latitude": 6.997974699999999,
+    "longitude": 3.4737378
   },
   "Oklahoma City (USA)": {
     "latitude": 35.4729886,
@@ -1763,6 +1819,10 @@
     "latitude": 37.4443293,
     "longitude": -122.1598465
   },
+  "Pamplemousses (Mauritius)": {
+    "latitude": -20.1136008,
+    "longitude": 57.57592599999999
+  },
   "Pamplona (Spain)": {
     "latitude": 42.812526,
     "longitude": -1.6457745
@@ -1778,6 +1838,10 @@
   "Park City, UT (USA)": {
     "latitude": 40.6460622,
     "longitude": -111.4979729
+  },
+  "Parma (Italy)": {
+    "latitude": 44.8014788,
+    "longitude": 10.3279911
   },
   "Pasadena (USA)": {
     "latitude": 34.1476507,
@@ -1842,6 +1906,10 @@
   "Poland": {
     "latitude": 52.215933,
     "longitude": 19.134422
+  },
+  "Ponferrada (Spain)": {
+    "latitude": 42.5499958,
+    "longitude": -6.598259000000001
   },
   "Port Harcourt (Nigeria)": {
     "latitude": 4.847222599999999,
@@ -2111,6 +2179,10 @@
     "latitude": 44.024322850000004,
     "longitude": 21.07657433209902
   },
+  "Sevilla (Spain)": {
+    "latitude": 37.3890924,
+    "longitude": -5.9844589
+  },
   "Shangai (China)": {
     "latitude": 31.2312707,
     "longitude": 121.4700152
@@ -2339,6 +2411,10 @@
     "latitude": -8.1157846,
     "longitude": -79.0257381
   },
+  "Tunja (Colombia)": {
+    "latitude": 5.5446422,
+    "longitude": -73.3575572
+  },
   "Turin (Italy)": {
     "latitude": 45.0677551,
     "longitude": 7.6824892
@@ -2407,6 +2483,10 @@
     "latitude": 47.6586772,
     "longitude": -2.7599079
   },
+  "Veenendaal (Netherlands)": {
+    "latitude": 52.0263009,
+    "longitude": 5.5544309
+  },
   "Verona (Italy)": {
     "latitude": 45.4384958,
     "longitude": 10.9924122
@@ -2438,6 +2518,10 @@
   "Vilnius (Lithuania)": {
     "latitude": 54.6870458,
     "longitude": 25.2829111
+  },
+  "Volta (Ghana)": {
+    "latitude": 6.5781373,
+    "longitude": 0.4502368
   },
   "Warsaw (Poland)": {
     "latitude": 52.2337172,
@@ -2534,6 +2618,10 @@
   "Zanzibar (Tanzania)": {
     "latitude": -6.09994425,
     "longitude": 39.32094431715264
+  },
+  "Zaragoza (Spain)": {
+    "latitude": 41.6474339,
+    "longitude": -0.8861451
   },
   "Zawiercie (Poland)": {
     "latitude": 50.4844179,
