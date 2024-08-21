@@ -675,4 +675,4 @@ All the data (past and coming) are available publicly in JSON:
 
 * 26-29: [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - Los Angeles (USA)
 
-(2025-04-29T00:00:00Z) * 29-1: [NDC Melbourne 2025](https://ndcmelbourne.com) - Melbourne (Australia) <a href="https://sessionize.com/ndc-melbourne-2025"><img alt="CFP NDC Melbourne 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2024&color=green"></a>
+* 29-1/5: [NDC Melbourne 2025](https://ndcmelbourne.com) - Melbourne (Australia) <a href="https://sessionize.com/ndc-melbourne-2025"><img alt="CFP NDC Melbourne 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2024&color=green"></a>
