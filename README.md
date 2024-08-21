@@ -272,7 +272,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20-21: [UGConf Perú 2024](https://conf.ugperu.cloud) - Lima (Peru) <a href="https://sessionize.com/ugconf2024/"><img alt="CFP UGConf Perú 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-September-2024&color=green"></a>
 * 20-23: [PyCon India](https://in.pycon.org/2024/) - Bengaluru (India) <a href="https://in.pycon.org/cfp/2024/proposals/"><img alt="CFP PyCon India" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=red"></a>
 * 21: [DevOpsDays Fortaleza 2024](https://devopsdays.org/events/2024-fortaleza/welcome/) - Fortaleza (Brazil) <a href="https://www.papercall.io/devopsdaysfortaleza2024"><img alt="CFP DevOpsDays Fortaleza 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2024&color=red"></a>
-* 21: [AWS Community Day Delhi NCR - 2024](http://www.awsugdelhincr.in/) - New Delhi (India) <a href="https://sessionize.com/aws-community-day-delhi-ncr-2024/"><img alt="CFP AWS Community Day Delhi NCR - 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-August-2024&color=green"></a>
+* 21: [AWS Community Day Delhi NCR - 2024](http://www.awsugdelhincr.in/) - New Delhi (India) <a href="https://sessionize.com/aws-community-day-delhi-ncr-2024/"><img alt="CFP AWS Community Day Delhi NCR - 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-August-2024&color=red"></a>
 * 21-22: [Pycon Taiwan](https://tw.pycon.org/2024/en-us) - Kaohsiung (Taiwan) <a href="https://tw.pycon.org/2024/en-us/speaking/cfp"><img alt="CFP PyCon Taiwan" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-April-2024&color=red"></a>
 * 22-27: [DjangoCon US](https://2024.djangocon.us/) - Durham, NC (US) <a href="https://2024.djangocon.us/speaking/"><img alt="CFP DjangoCon US" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-April-2024&color=red"></a>
 * 23-24: [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg) -  Winnipeg, MB (Canada) <a href="https://www.papercall.io/prdcwinnipeg2024"><img alt="CFP Prairie Dev Con Winnipeg 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-May-2024&color=red"></a>
@@ -652,6 +652,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15-17: [CYBERSEC](https://cybersec.ithome.com.tw/) - Taipei (Taiwan)
 * 16-18: [Devoxx France](https://www.devoxx.fr) - Paris (France)
 * 29-30: [DevOpsDays Aarhus](https://devopsdays.org/events/2025-aarhus) - Aarhus (Denmark)
+* 29-1/5: [NDC Melbourne 2025](https://ndcmelbourne.com) - Melbourne (Australia) <a href="https://sessionize.com/ndc-melbourne-2025"><img alt="CFP NDC Melbourne 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2024&color=green"></a>
 
 ### May
 
@@ -678,5 +679,3 @@ All the data (past and coming) are available publicly in JSON:
 ### October
 
 * 26-29: [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - Los Angeles (USA)
-
-* 29-1/5: [NDC Melbourne 2025](https://ndcmelbourne.com) - Melbourne (Australia) <a href="https://sessionize.com/ndc-melbourne-2025"><img alt="CFP NDC Melbourne 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2024&color=green"></a>
