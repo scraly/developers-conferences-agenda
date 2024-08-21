@@ -62,6 +62,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-13: [JuliaCon](https://juliacon.org/2024/) - Eindhoven (Netherlands)
 * 10-11: [DevOpsDays Nashville 2024](https://devopsdays.org/events/2024-nashville/welcome/) - Nashville, TN (USA) <a href="https://www.papercall.io/devopsdays-nashville-2024"><img alt="CFP DevOpsDays Nashville 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=red"></a>
 * 10-11: [DevOpsDays Taipei](https://devopsdays.tw/2024/) - Taipei (Taiwan) <a href="https://devopsdays.tw/2024/CFP/"><img alt="CFP DevOpsDays Taipei" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-April-2024&color=red"></a>
+* 10-12: [Alfresco TechQuest](https://university.hyland.com/pages/techquest-alfresco) - Lisbon (Portugal)
 * 11: [PyData Eindhoven](https://pydata.org/eindhoven2024/) - Eindhoven (Netherlands)
 * 11-13: [WordCamp Canada 2024](https://canada.wordcamp.org/2024/) - Ottawa, ON (Canada)
 * 12: [BSidesPGH 2024](https://bsidespgh.com) - Pittsburgh (USA) <a href="https://sessionize.com/bsidespgh-2024/"><img alt="CFP BSidesPGH 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2024&color=red"></a>
