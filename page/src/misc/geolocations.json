@@ -75,10 +75,6 @@
     "latitude": 52.3730796,
     "longitude": 4.8924534
   },
-  "Amsterdam (The Netherlands)": {
-    "latitude": 52.3675734,
-    "longitude": 4.9041389
-  },
   "Anglet (France)": {
     "latitude": 43.4813927,
     "longitude": -1.5149935
@@ -755,10 +751,6 @@
     "latitude": 37.27528,
     "longitude": -107.8800667
   },
-  "Durham, NC (US)": {
-    "latitude": 35.9940329,
-    "longitude": -78.898619
-  },
   "Durham, NC (USA)": {
     "latitude": 35.996653,
     "longitude": -78.9018053
@@ -1127,10 +1119,6 @@
     "latitude": 41.0091982,
     "longitude": 28.9662187
   },
-  "Istanbul (Turkiye)": {
-    "latitude": 41.0082376,
-    "longitude": 28.9783589
-  },
   "Jacksonville, FL (USA)": {
     "latitude": 30.3321838,
     "longitude": -81.65565099999999
@@ -1346,10 +1334,6 @@
   "Lima (Peru)": {
     "latitude": -12.0621065,
     "longitude": -77.0365256
-  },
-  "Lima (Perú)": {
-    "latitude": -12.0466888,
-    "longitude": -77.04308859999999
   },
   "Lingen (Germany)": {
     "latitude": 52.5224659,
@@ -1719,9 +1703,9 @@
     "latitude": 52.6292567,
     "longitude": 1.2978802
   },
-  "Nuevo Chimbote (Perou)": {
-    "latitude": -9.1221157,
-    "longitude": -78.5309749
+  "Nuevo Chimbote (Peru)": {
+    "latitude": -9.105264799999999,
+    "longitude": -78.445126
   },
   "Nuevo León (Mexico)": {
     "latitude": 26.2384363,

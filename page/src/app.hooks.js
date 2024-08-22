@@ -1,5 +1,6 @@
 import {useParams, useSearchParams} from 'react-router-dom';
 import allEvents from 'misc/all-events.json';
+import regions from 'misc/regions.json';
 import {useMemo} from 'react';
 
 export const useHasYearEvents = year => {
@@ -19,10 +20,27 @@ export const useCountries = () => {
   }, []);
 };
 
+export const useRegionsMap = () => {
+  return useMemo(() => {
+    let results = {};
+    Object.keys(regions).forEach(region => {
+      regions[region].forEach(country => results[country] = region)
+    })
+    return results
+  }, []);
+};
+
+export const useRegions = () => {
+  return useMemo(() => {
+    return Object.keys(regions)
+  }, []);
+};
+
 export const useYearEvents = () => {
   const {year} = useParams();
   const [searchParams] = useSearchParams();
   const search = Object.fromEntries(searchParams);
+  const regionsMap = useRegionsMap();
   const yearEvents = useMemo(
     () =>
       allEvents.filter(e => e.date[0] && new Date(e.date[0]).getFullYear() === parseInt(year, 10)),
@@ -49,6 +67,10 @@ export const useYearEvents = () => {
 
     if (search.country) {
       result = result.filter(e => e.country === search.country);
+    }
+
+    if (search.region) {
+      result = result.filter(e => regionsMap[e.country] === search.region);
     }
 
     if (search.query) {

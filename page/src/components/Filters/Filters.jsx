@@ -3,7 +3,7 @@ import {useSearchParams} from "react-router-dom";
 
 import { Filter, FilterX } from 'lucide-react';
 
-import {useCountries} from 'app.hooks';
+import {useCountries, useRegions} from 'app.hooks';
 
 import 'styles/Filters.css';
 import { FilterContext } from 'contexts/FilterContext';
@@ -24,6 +24,7 @@ const Filters = () => {
   }, [searchParams, setSearchParams]);
 
   const countries = useCountries()
+  const regions = useRegions()
 
   const search = Object.fromEntries(searchParams)
 
@@ -66,6 +67,14 @@ const Filters = () => {
           <input checked={search.online == 'true'} type='checkbox' id='filter-online' onChange={(e) => onChange('online', e.target.checked)}/>
           <label htmlFor='filter-online'>Online</label>
         </div>
+      </div>
+
+      <div className='filtersItem'>
+        <label htmlFor='filter-region'>Region:</label>
+        <select value={search.region} id='filter-region' onChange={(e) => onChange('region', e.target.value)}>
+          <option value=''>All</option>
+          {regions.map((c) => (<option value={c} key={c}>{c}</option>))}
+        </select>
       </div>
 
       <div className='filtersItem'>
