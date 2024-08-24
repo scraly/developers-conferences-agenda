@@ -2,7 +2,7 @@ name: CheckRegions
 on: pull_request
 
 jobs:
-  MdValidator:
+  RegionsValidator:
     name: RegionsValidator
     runs-on: ubuntu-latest
     steps:
