@@ -1,7 +1,7 @@
-import {useParams, useSearchParams} from 'react-router-dom';
+import { useParams, useSearchParams } from 'react-router-dom';
 import allEvents from 'misc/all-events.json';
 import regions from 'misc/regions.json';
-import {useMemo} from 'react';
+import { useMemo } from 'react';
 
 export const useHasYearEvents = year => {
   return useMemo(
@@ -20,13 +20,19 @@ export const useCountries = () => {
   }, []);
 };
 
-export const useRegionsMap = () => {
+export const useCountryToRegionMap = () => {
   return useMemo(() => {
     let results = {};
     Object.keys(regions).forEach(region => {
       regions[region].forEach(country => results[country] = region)
     })
     return results
+  }, []);
+};
+
+export const useRegionsMap = () => {
+  return useMemo(() => {
+    return regions
   }, []);
 };
 
@@ -37,10 +43,10 @@ export const useRegions = () => {
 };
 
 export const useYearEvents = () => {
-  const {year} = useParams();
+  const { year } = useParams();
   const [searchParams] = useSearchParams();
   const search = Object.fromEntries(searchParams);
-  const regionsMap = useRegionsMap();
+  const regionsMap = useCountryToRegionMap();
   const yearEvents = useMemo(
     () =>
       allEvents.filter(e => e.date[0] && new Date(e.date[0]).getFullYear() === parseInt(year, 10)),
@@ -58,7 +64,7 @@ export const useYearEvents = () => {
     }
 
     if (search.callForPapers === 'true') {
-      result = result.filter(e => e.cfp && new Date(e.cfp.untilDate+24*60*60*1000) > new Date());
+      result = result.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date());
     }
 
     if (search.online === 'true') {
