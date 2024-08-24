@@ -1479,10 +1479,6 @@
     "latitude": 6.2476376,
     "longitude": -75.56581530000001
   },
-  "Medellin (Columbia)": {
-    "latitude": 6.2697018,
-    "longitude": -75.60252574475943
-  },
   "Medellín (Colombia)": {
     "latitude": 6.2443382,
     "longitude": -75.573553
@@ -1682,6 +1678,10 @@
   "New York, NY (USA)": {
     "latitude": 40.7127281,
     "longitude": -74.0060152
+  },
+  "Newcastle upon Tyne (UK)": {
+    "latitude": 54.978252,
+    "longitude": -1.61778
   },
   "Newquay (UK)": {
     "latitude": 50.41549699999999,
