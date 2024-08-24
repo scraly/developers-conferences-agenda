@@ -33,7 +33,7 @@ const Filters = () => {
   const search = Object.fromEntries(searchParams)
 
   let countriesList = countries
-  if (search.region !== '') {
+  if (search.region) {
     countriesList = regionsMap[search.region]
   }
 
