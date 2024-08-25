@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useContext, useEffect } from 'react';
+import React, { useState, useCallback, useContext, useEffect, useMemo } from 'react';
 import { useSearchParams } from "react-router-dom";
 
 import { Filter, FilterX } from 'lucide-react';
@@ -32,10 +32,14 @@ const Filters = () => {
 
   const search = Object.fromEntries(searchParams)
 
-  let countriesList = countries
-  if (search.region) {
-    countriesList = regionsMap[search.region]
-  }
+  const countriesList = useMemo(() => {
+    let result = countries
+    if (search.region) {
+      result = regionsMap[search.region]
+      result.sort()
+    }
+    return result
+  }, [search.region, regionsMap, countries])
 
   return (
     <div className={"filters " + (open ? 'open' : 'closed')}>
