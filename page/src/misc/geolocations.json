@@ -1811,6 +1811,10 @@
     "latitude": -20.1136008,
     "longitude": 57.57592599999999
   },
+  "Pamplemousses (Mauritus)": {
+    "latitude": -20.1136008,
+    "longitude": 57.57592599999999
+  },
   "Pamplona (Spain)": {
     "latitude": 42.812526,
     "longitude": -1.6457745
@@ -1994,6 +1998,10 @@
   "Rennes (France)": {
     "latitude": 48.1113387,
     "longitude": -1.6800198
+  },
+  "Richmond (Australia)": {
+    "latitude": -37.8238936,
+    "longitude": 144.9982667
   },
   "Richmond, VA (USA)": {
     "latitude": 37.5385087,
@@ -2434,6 +2442,10 @@
   "Uyo (Nigeria)": {
     "latitude": 4.9902370000000005,
     "longitude": 7.9974399113319485
+  },
+  "Vadodara (India)": {
+    "latitude": 22.3071588,
+    "longitude": 73.1812187
   },
   "Valbonne (France)": {
     "latitude": 43.641141,
