@@ -551,7 +551,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18-21: [React Summit US](https://reactsummit.us/) - New York, NY (USA) <a href="https://forms.gle/aFJk2xHfegCqHW2b9"><img alt="CFP React Summit US" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2024&color=red"></a>
 * 18-22: [QCon San Francisco 2024](https://qconsf.com/medialisting2024) - San Francisco, CA (USA)
 * 19: [IDM Nordics](https://whitehallmedia.co.uk/future-events/) - Stockholm (Sweden)
-* 19-20: [KCD Denmark](https://kcddenmark.dk/) - Copenhagen (Denmark)
+* 19-20: [KCD Denmark](https://kcddenmark.dk/) - Copenhagen (Denmark) <a href="https://sessionize.com/kcd-denmark-2024/"><img alt="CFP KCD Denmark 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2024&color=green"></a>
 * 19-21: [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa (USA)
 * 19-21: [Open Source Monitoring Conference](https://osmc.de/) - Nuremberg (Germany) <a href="https://osmc.de/call-for-papers/"><img alt="CFP Open Source Monitoring Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2024&color=red"></a>
 * 19-21: [Open Source Analytics Conference (OSA CON) 24](https://osacon.io/) - Online <a href="https://sessionize.com/osa-con-2024"><img alt="CFP OSA CON 24" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-July-2024&color=red"></a>
@@ -604,6 +604,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7: [DDD Brisbane 2024](https://www.dddbrisbane.com) - Brisbane (Australia) <a href="https://sessionize.com/ddd-brisbane-2024"><img alt="CFP DDD Brisbane 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-September-2024&color=green"></a>
 * 7: [SQL Saturday Houston](http://www.sqlsaturday.com) - Houston, TX (USA) <a href="https://sessionize.com/sql-saturday-houston"><img alt="CFP SQL Saturday Houston" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-October-2024&color=green"></a>
 * 7-8: [Winter of C++](https://winterofcpp.vercel.app/) - Amsterdam (Netherlands) <a href="https://forms.gle/ScdFFZQD6yPNFr9S8"><img alt="CFP Winter of C++" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=red"></a>
+* 10: [Dutch Cloud Native Day 2024](https://community.cncf.io/e/mjfygk/) - Amsterdam (Netherlands) <a href="https://sessionize.com/dutch-cloud-native-day-2024"><img alt="CFP Dutch Cloud Native Day 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=green"></a>
 * 11: [You Got This Winter 2024](https://yougotthis.io/events/winter-2024) - Online
 * 11-12: [KubeCon + CloudNativeCon India 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) - Delhi (India) <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-india/program/cfp/"><img alt="CFP KubeCon India" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-August-2024&color=red"></a>
 * 12: [CollabCon 2024](https://www.collabconforall.com/) - Orlando, FL (USA) <a href="https://sessionize.com/collabcon-2024"><img alt="CFP CollabCon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2024&color=green"></a>
