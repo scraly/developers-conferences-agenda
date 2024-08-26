@@ -1,0 +1,24 @@
+name: CheckRegions
+on: pull_request
+
+jobs:
+  RegionsValidator:
+    name: RegionsValidator
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: '**/package-lock.json'
+      - working-directory: page
+        run: npm install -D
+      - name: Validate Regions
+        working-directory: tools
+        run: |
+          npm install -D
+          node mdParser.js
+          node validateRegions.js
