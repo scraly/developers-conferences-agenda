@@ -235,6 +235,10 @@
     "latitude": 47.6144219,
     "longitude": -122.192337
   },
+  "Belo Horizonte (Brazil)": {
+    "latitude": -19.919052,
+    "longitude": -43.9386685
+  },
   "Belo Horizonte, MG (Brazil)": {
     "latitude": -19.9227318,
     "longitude": -43.9450948
@@ -394,6 +398,10 @@
   "Bulgaria": {
     "latitude": 46.7889169,
     "longitude": 23.6184909
+  },
+  "Burlington, MA (USA)": {
+    "latitude": 42.5047161,
+    "longitude": -71.1956205
   },
   "Burlington, VT (USA)": {
     "latitude": 44.4761601,
@@ -946,6 +954,10 @@
   "Hollywood, Florida (USA)": {
     "latitude": 26.0112014,
     "longitude": -80.1494901
+  },
+  "Homestead, PA (USA)": {
+    "latitude": 40.4059025,
+    "longitude": -79.9119948
   },
   "Hong Kong (China)": {
     "latitude": 22.2793278,
@@ -1871,6 +1883,10 @@
     "latitude": 37.7749295,
     "longitude": -122.4194155
   },
+  "Saint Paul, MN (USA)": {
+    "latitude": 44.9537029,
+    "longitude": -93.0899578
+  },
   "Salt Lake City, UT (USA)": {
     "latitude": 40.7596198,
     "longitude": -111.886797
@@ -1887,9 +1903,9 @@
     "latitude": 29.4251905,
     "longitude": -98.4945922
   },
-  "San Diego (USA)": {
-    "latitude": 32.7174202,
-    "longitude": -117.1627728
+  "San Diego, CA (USA)": {
+    "latitude": 32.715738,
+    "longitude": -117.1610838
   },
   "San Francisco, CA (USA)": {
     "latitude": 37.7790262,
@@ -2058,6 +2074,10 @@
   "Sydney (Australia)": {
     "latitude": -33.8698439,
     "longitude": 151.2082848
+  },
+  "Syracuse, NY (USA)": {
+    "latitude": 43.0481221,
+    "longitude": -76.14742439999999
   },
   "São Luís (Brazil)": {
     "latitude": -2.5295265,
@@ -2230,6 +2250,9 @@
   "Vancouver, BC (USA)": {
     "latitude": 49.2827291,
     "longitude": -123.1207375
+  "Vancouver, WA (USA)": {
+    "latitude": 45.6280277,
+    "longitude": -122.673865
   },
   "Vannes (France)": {
     "latitude": 47.6586772,
