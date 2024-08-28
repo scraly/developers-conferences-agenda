@@ -87,17 +87,9 @@
     "latitude": 51.2211097,
     "longitude": 4.3997081
   },
-  "Antwerpen (Belgium)": {
-    "latitude": 51.2213404,
-    "longitude": 4.4051485
-  },
   "Aracaju (Brazil)": {
     "latitude": -10.9266526,
     "longitude": -37.0729014
-  },
-  "Aracaju, SE (Brazil)": {
-    "latitude": -10.9162061,
-    "longitude": -37.0774655
   },
   "Arapiraca (Brazil)": {
     "latitude": -9.754866,
@@ -219,10 +211,6 @@
     "latitude": -19.919052,
     "longitude": -43.9386685
   },
-  "Belo Horizonte, MG (Brazil)": {
-    "latitude": -19.9227318,
-    "longitude": -43.9450948
-  },
   "Benidorm (Spain)": {
     "latitude": 38.5411928,
     "longitude": -0.1233831
@@ -238,10 +226,6 @@
   "Bern (Switzerland)": {
     "latitude": 46.9484742,
     "longitude": 7.4521749
-  },
-  "Beurs van Berlage (Netherlands)": {
-    "latitude": 52.3750218,
-    "longitude": 4.89626468097017
   },
   "Bidart (France)": {
     "latitude": 43.439236,
@@ -362,10 +346,6 @@
   "Buenos Aires (Argentina)": {
     "latitude": -34.6075682,
     "longitude": -58.4370894
-  },
-  "Buenos Ares (Argentina)": {
-    "latitude": -34.63974725,
-    "longitude": -58.4446923529756
   },
   "Buffalo, NY (USA)": {
     "latitude": 42.88644679999999,
@@ -558,10 +538,6 @@
   "Coruna (Spain)": {
     "latitude": 43.3709703,
     "longitude": -8.3959425
-  },
-  "Cracow (Poland)": {
-    "latitude": 50.0606452,
-    "longitude": 19.9370985
   },
   "Craiova (Romania)": {
     "latitude": 44.3190159,
@@ -807,10 +783,6 @@
     "latitude": -16.6868491,
     "longitude": -49.2707899
   },
-  "Goiânia, GO (Brazil)": {
-    "latitude": -16.680882,
-    "longitude": -49.2532691
-  },
   "Golfe du morbihan (France)": {
     "latitude": 47.5976972,
     "longitude": -2.7533397586005415
@@ -903,11 +875,7 @@
     "latitude": 10.7763897,
     "longitude": 106.7011391
   },
-  "Hollywood (USA)": {
-    "latitude": 34.0980031,
-    "longitude": -118.329523
-  },
-  "Hollywood, Florida (USA)": {
+  "Hollywood, FL (USA)": {
     "latitude": 26.0112014,
     "longitude": -80.1494901
   },
@@ -1039,10 +1007,6 @@
     "latitude": 0.3177137,
     "longitude": 32.5813539
   },
-  "Kansas City, KS (USA)": {
-    "latitude": 39.1134562,
-    "longitude": -94.626497
-  },
   "Kansas City, MO (USA)": {
     "latitude": 39.100105,
     "longitude": -94.5781416
@@ -1163,21 +1127,9 @@
     "latitude": 21.9742235,
     "longitude": -159.3672769
   },
-  "Lille & Lyon (France)": {
-    "latitude": 45.6919466,
-    "longitude": 4.5946695
-  },
   "Lille (France)": {
     "latitude": 50.6365654,
     "longitude": 3.0635282
-  },
-  "Lille Grand Palais (France)": {
-    "latitude": 50.6296509,
-    "longitude": 3.0749235
-  },
-  "Lille, Lyon, Nantes, Tours (France)": {
-    "latitude": 50.62925,
-    "longitude": 3.057256
   },
   "Lillestrøm (Norway)": {
     "latitude": 59.9559696,
@@ -1219,13 +1171,9 @@
     "latitude": 33.7690164,
     "longitude": -118.191604
   },
-  "Los Angeles (USA)": {
-    "latitude": 34.0536909,
-    "longitude": -118.242766
-  },
-  "Los Angeles Convention Center (USA)": {
-    "latitude": 34.0414713,
-    "longitude": -118.26898072389606
+  "Los Angeles, CA (USA)": {
+    "latitude": 34.0549076,
+    "longitude": -118.242643
   },
   "Louvain-La-Neuve (Belgium)": {
     "latitude": 50.6682012,
@@ -1263,14 +1211,6 @@
     "latitude": 45.7578137,
     "longitude": 4.8320114
   },
-  "Lyon 3e (France)": {
-    "latitude": 45.7541777,
-    "longitude": 4.8845249
-  },
-  "MIT (USA)": {
-    "latitude": 42.3582529,
-    "longitude": -71.0966272383055
-  },
   "Madison, WI (USA)": {
     "latitude": 43.074761,
     "longitude": -89.3837613
@@ -1290,10 +1230,6 @@
   "Malmo (Sweden)": {
     "latitude": 55.6052931,
     "longitude": 13.0001566
-  },
-  "Malmö (Sweden)": {
-    "latitude": 55.604981,
-    "longitude": 13.003822
   },
   "Managua (Nicaragua)": {
     "latitude": 12.1544035,
@@ -1334,10 +1270,6 @@
   "Medellin (Colombia)": {
     "latitude": 6.2476376,
     "longitude": -75.56581530000001
-  },
-  "Medellín (Colombia)": {
-    "latitude": 6.2443382,
-    "longitude": -75.573553
   },
   "Melbourne (Australia)": {
     "latitude": -37.8142454,
@@ -1471,10 +1403,6 @@
     "latitude": 52.2434979,
     "longitude": 5.6343227
   },
-  "New Delhi (India)": {
-    "latitude": 28.6139298,
-    "longitude": 77.2088282
-  },
   "New Orleans, LA (USA)": {
     "latitude": 29.9759983,
     "longitude": -90.0782127
@@ -1527,10 +1455,6 @@
     "latitude": 50.3413391,
     "longitude": 6.9519229
   },
-  "Nürburgring (Germany)": {
-    "latitude": 50.3309196,
-    "longitude": 6.940674171000003
-  },
   "Oakland, CA (USA)": {
     "latitude": 37.8044557,
     "longitude": -122.271356
@@ -1538,10 +1462,6 @@
   "Ogun (Nigeria)": {
     "latitude": 6.997974699999999,
     "longitude": 3.4737378
-  },
-  "Oklahoma City (USA)": {
-    "latitude": 35.4729886,
-    "longitude": -97.5170536
   },
   "Oklahoma City, OK (USA)": {
     "latitude": 35.4675602,
@@ -1570,10 +1490,6 @@
   "Oslo (Norway)": {
     "latitude": 59.9133301,
     "longitude": 10.7389701
-  },
-  "Otemachi (Japan)": {
-    "latitude": 35.6846087,
-    "longitude": 139.7664613
   },
   "Ottawa, ON (Canada)": {
     "latitude": 45.4208777,
@@ -1630,10 +1546,6 @@
   "Perros-Guirec (France)": {
     "latitude": 48.8151133,
     "longitude": -3.4394662
-  },
-  "Phantasialand near Cologne (Germany)": {
-    "latitude": 50.8014727,
-    "longitude": 6.8765161
   },
   "Philadelphia, PA (USA)": {
     "latitude": 39.9527237,
@@ -1779,10 +1691,6 @@
     "latitude": -22.9068467,
     "longitude": -43.1728965
   },
-  "Rio de Janeiro, RJ (Brazil)": {
-    "latitude": -22.9110137,
-    "longitude": -43.2093727
-  },
   "Romania": {
     "latitude": 45.9852129,
     "longitude": 24.6859225
@@ -1814,14 +1722,6 @@
   "Russia": {
     "latitude": 40.2338211,
     "longitude": -84.4096729
-  },
-  "Région lyonnaise (France)": {
-    "latitude": 45.764043,
-    "longitude": 4.835659
-  },
-  "SF Bay Area (USA)": {
-    "latitude": 37.7749295,
-    "longitude": -122.4194155
   },
   "Saint Paul, MN (USA)": {
     "latitude": 44.9537029,
@@ -1951,10 +1851,6 @@
     "latitude": 41.9961816,
     "longitude": 21.4319213
   },
-  "Skopje (North Macedonia)": {
-    "latitude": 41.9981294,
-    "longitude": 21.4254355
-  },
   "Sofia (Bulgaria)": {
     "latitude": 42.6977028,
     "longitude": 23.3217359
@@ -2079,10 +1975,6 @@
     "latitude": 28.2935785,
     "longitude": -16.621447121144122
   },
-  "The Brewery, City of London (UK)": {
-    "latitude": 51.5207687,
-    "longitude": -0.0912983
-  },
   "The Hague Marriott Hotel (Netherlands)": {
     "latitude": 52.0898995,
     "longitude": 4.282433973327428
@@ -2187,10 +2079,6 @@
     "latitude": 49.2608724,
     "longitude": -123.113952
   },
-  "Vancouver, BC (USA)": {
-    "latitude": 49.2827291,
-    "longitude": -123.1207375
-  },
   "Vancouver, WA (USA)": {
     "latitude": 45.6280277,
     "longitude": -122.673865
@@ -2223,10 +2111,6 @@
     "latitude": 41.1300103,
     "longitude": -8.6058415
   },
-  "Villeurbanne, Lyon (France)": {
-    "latitude": 45.7733573,
-    "longitude": 4.8868454
-  },
   "Vilnius (Lithuania)": {
     "latitude": 54.6870458,
     "longitude": 25.2829111
@@ -2246,10 +2130,6 @@
   "Wellington (New Zealand)": {
     "latitude": -41.2887953,
     "longitude": 174.7772114
-  },
-  "West Hollywood, CA (USA)": {
-    "latitude": 34.0923014,
-    "longitude": -118.3692894
   },
   "Westerville, OH (USA)": {
     "latitude": 40.1266689,
@@ -2342,9 +2222,5 @@
   "ibenik (Croatia)": {
     "latitude": 43.7350196,
     "longitude": 15.8952045
-  },
-  "in Cluj-Napoca (Romania)": {
-    "latitude": 46.7688067,
-    "longitude": 23.5947163
   }
 }
