@@ -7,7 +7,7 @@ Object.keys(locations).forEach((city) => {
     if (city === city2) {
       return
     }
-    if (locations[city].longitude === locations[city2].longitude && locations[city].latitude === locations[city2].latitude) {
+    if (Math.abs(locations[city].longitude - locations[city2].longitude) < 0.001 && Math.abs(locations[city].latitude - locations[city2].latitude) < 0.001) {
       console.error(`Duplicate coordinates: ${city} and ${city2}`)
       hasErrors = true
     }

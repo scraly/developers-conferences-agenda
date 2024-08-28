@@ -35,10 +35,6 @@
     "latitude": 43.5298424,
     "longitude": 5.4474738
   },
-  "Akland, CA (USA)": {
-    "latitude": 37.8043514,
-    "longitude": -122.2711639
-  },
   "Albany, NY (USA)": {
     "latitude": 42.6525793,
     "longitude": -73.7562317
@@ -491,10 +487,6 @@
     "latitude": 38.029306,
     "longitude": -78.4766781
   },
-  "Chattanooga (USA)": {
-    "latitude": 35.0457219,
-    "longitude": -85.3094883
-  },
   "Chattanooga, TN (USA)": {
     "latitude": 35.0457984,
     "longitude": -85.3093995
@@ -542,10 +534,6 @@
   "Clermont-Ferrand (France)": {
     "latitude": 45.7774551,
     "longitude": 3.0819427
-  },
-  "Cleveland (USA)": {
-    "latitude": 41.4996574,
-    "longitude": -81.6936772
   },
   "Cleveland, OH (USA)": {
     "latitude": 41.49932,
@@ -871,10 +859,6 @@
     "latitude": 42.9633599,
     "longitude": -85.6680863
   },
-  "Grand Rapids, Michigan (USA)": {
-    "latitude": 42.9632425,
-    "longitude": -85.6678639
-  },
   "Greenville, SC (USA)": {
     "latitude": 34.85261759999999,
     "longitude": -82.3940104
@@ -1083,10 +1067,6 @@
     "latitude": 0.3177137,
     "longitude": 32.5813539
   },
-  "Kansas City (USA)": {
-    "latitude": 39.0997265,
-    "longitude": -94.5785667
-  },
   "Kansas City, KS (USA)": {
     "latitude": 39.1134562,
     "longitude": -94.626497
@@ -1146,10 +1126,6 @@
   "Kyiv (Ukraine)": {
     "latitude": 50.4500336,
     "longitude": 30.5241361
-  },
-  "Köln (Germany)": {
-    "latitude": 50.937531,
-    "longitude": 6.9602786
   },
   "L'aquila (Italy)": {
     "latitude": 42.1368853,
@@ -1691,10 +1667,6 @@
     "latitude": 39.9527237,
     "longitude": -75.1635262
   },
-  "Phoenix (USA)": {
-    "latitude": 33.4484367,
-    "longitude": -112.074141
-  },
   "Phoenix, AZ (USA)": {
     "latitude": 33.4483771,
     "longitude": -112.0740373
@@ -1790,10 +1762,6 @@
   "Pune (India)": {
     "latitude": 18.5204303,
     "longitude": 73.8567437
-  },
-  "Quebec City (Canada)": {
-    "latitude": 46.8137431,
-    "longitude": -71.2084061
   },
   "Quebec, QC (Canada)": {
     "latitude": 46.8130816,
@@ -2250,7 +2218,7 @@
   "Vancouver, BC (USA)": {
     "latitude": 49.2827291,
     "longitude": -123.1207375
-},
+  },
   "Vancouver, WA (USA)": {
     "latitude": 45.6280277,
     "longitude": -122.673865
