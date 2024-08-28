@@ -431,6 +431,10 @@
     "latitude": 46.7889169,
     "longitude": 23.6184909
   },
+  "Burgos (Spain)": {
+    "latitude": 42.3504659,
+    "longitude": -3.689354499999999
+  },
   "Burlington, MA (USA)": {
     "latitude": 42.5047161,
     "longitude": -71.1956205
@@ -2159,6 +2163,10 @@
     "latitude": -33.4377756,
     "longitude": -70.6504502
   },
+  "Santiago de Compostela (Spain)": {
+    "latitude": 42.8768606,
+    "longitude": -8.5441729
+  },
   "Santiago de los Caballeros (Dominican Republic)": {
     "latitude": 19.4503932,
     "longitude": -70.6909047
@@ -2246,6 +2254,10 @@
   "Sophia-Antipolis (France)": {
     "latitude": 43.6195225,
     "longitude": 7.0518158
+  },
+  "Sousse (Tunez)": {
+    "latitude": 35.8245029,
+    "longitude": 10.634584
   },
   "Spain": {
     "latitude": 39.3260685,
