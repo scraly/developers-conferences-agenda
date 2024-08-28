@@ -71,6 +71,10 @@
     "latitude": 52.3730796,
     "longitude": 4.8924534
   },
+  "Anduze (France)": {
+    "latitude": 44.0545668,
+    "longitude": 3.9857082
+  },
   "Anglet (France)": {
     "latitude": 43.4813927,
     "longitude": -1.5149935
@@ -407,10 +411,6 @@
     "latitude": -22.9050824,
     "longitude": -47.0613327
   },
-  "Canada": {
-    "latitude": 61.0666922,
-    "longitude": -107.991707
-  },
   "Canary Islands (Spain)": {
     "latitude": 28.286398900000002,
     "longitude": -16.796011808910734
@@ -615,10 +615,6 @@
     "latitude": 51.0493286,
     "longitude": 13.7381437
   },
-  "Dubai": {
-    "latitude": 2.9470179,
-    "longitude": 30.961206
-  },
   "Dubai (United Arab Emirates)": {
     "latitude": 25.2653471,
     "longitude": 55.2924914
@@ -706,10 +702,6 @@
   "Fortaleza (Brazil)": {
     "latitude": -3.7327203,
     "longitude": -38.5270134
-  },
-  "France": {
-    "latitude": 46.603354,
-    "longitude": 1.8883335
   },
   "Frankfurt (Germany)": {
     "latitude": 50.1106444,
@@ -1906,10 +1898,6 @@
   "Surakarta (Indonesia)": {
     "latitude": -7.5692489,
     "longitude": 110.828448
-  },
-  "Switzerland": {
-    "latitude": 46.7985624,
-    "longitude": 8.2319736
   },
   "Sydney (Australia)": {
     "latitude": -33.8698439,
