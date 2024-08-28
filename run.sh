@@ -15,6 +15,7 @@ node generateIcs.js
 node generateIcs4OpenedCfps.js
 node generateRSS.js
 node geoCodes.js
+node validateGeolocations.js
 
 cd ../page
 npm start
