@@ -71,6 +71,10 @@
     "latitude": 52.3730796,
     "longitude": 4.8924534
   },
+  "Anduze (France)": {
+    "latitude": 44.0545668,
+    "longitude": 3.9857082
+  },
   "Anglet (France)": {
     "latitude": 43.4813927,
     "longitude": -1.5149935
@@ -726,10 +730,6 @@
   "Fortaleza (Brazil)": {
     "latitude": -3.7327203,
     "longitude": -38.5270134
-  },
-  "France": {
-    "latitude": 46.603354,
-    "longitude": 1.8883335
   },
   "Frankfurt (Germany)": {
     "latitude": 50.1106444,
