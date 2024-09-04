@@ -594,6 +594,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10: [Java Day Istanbul 2025](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2025"><img alt="CFP Java Day Istanbul 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=green"></a>
 * 14-15: [APIdays New York](https://www.apidays.global/new-york/) - New York, NY (USA) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days New York" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2025&color=green"></a>
 * 19-22: [JCON EUROPE 2025](https://jcon.one/) - Cologne (Germany)
+* 19-23: [NDC Oslo 2025](https://ndcoslo.com/) - Oslo (Norway)
 * 21-23: [Spring I/O](https://springio.net/) - Barcelona (Spain)
 
 ### June
