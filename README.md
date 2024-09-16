@@ -589,6 +589,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18: [NAVIGATE 2025](https://navigate-kongress.de/) - Online <a href="https://sessionize.com/navigate-2025"><img alt="CFP NAVIGATE 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=green"></a>
 * 20: [Conf42.com Cloud Native 2025](https://www.conf42.com/cloud2025) - Online <a href="https://www.papercall.io/conf42-cloud-native-2025"><img alt="CFP Conf42.com Cloud Native 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-February-2025&color=green"></a>
 * 21: [Frontrunners Mar 21, 2025](https://frontrunners.tech/) - Washington D.C. (USA)  <a href="https://www.papercall.io/frontrunners2025"><img alt="CFP Frontrunners Mar 21, 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=green"></a>
+* 26: [Rustikon 2025](https://www.rustikon.dev) - Warsaw (Poland) <a href="https://sessionize.com/rustikon-2025"><img alt="CFP Rustikon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-October-2024&color=green"></a>
 * 26-27: [VoxxedDays Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2025/) - Bucharest (Romania) <a href="hhttps://vdbuh2025.cfp.dev/"><img alt="CFP VoxxedDays Bucharest 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=green"></a>
 * 27: [Ghana Artificial Intelligence Summit and Awards](https://www.artificialintelligenceghana.com) - Accra (Ghana) <a href="https://www.papercall.io/ghanaaisummit"><img alt="CFP Call for Papers: Ghana's 1st  Artificial Intelligence Summit and Awards" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-November-2024&color=green"></a>
 * 27-28: [Scalar 2025](https://scalar-conf.com) - Warsaw (Poland) <a href="https://sessionize.com/scalar-2025"><img alt="CFP Scalar 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-October-2024&color=green"></a>
@@ -634,6 +635,7 @@ All the data (past and coming) are available publicly in JSON:
 ### July
 
 * 2-3: [APIdays Munich](https://www.apidays.global/munich/) - Munich (Germany) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Munich" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-June-2025&color=green"></a>
+* 9-11: [WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin (Germany)
 
 ### November
 
