@@ -577,6 +577,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### March
 
+* 1: [JSConf España](https://www.jsconf.es/) - Madrid (Spain) <a href="https://tally.so/r/3xyl4v"><img alt="CFP JSConf España" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-November-2024&color=green"></a>
 * 4-6: [Devnexus 2025](https://devnexus.com/) - Atlanta, GA (USA) <a href="https://sessionize.com/devnexus-2025/"><img alt="CFP Devnexus 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2024&color=red"></a>
 * 6-7: [Code BEAM America 2025](https://codebeamamerica.com) - San Francisco, CA (USA) <a href="https://sessionize.com/code-beam-america-2025/"><img alt="CFP Code BEAM America 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2024&color=green"></a>
 * 12-13: [DevOpsDays Zurich](https://devopsdays.org/events/2025-zurich/welcome/) - Zurich (Switzerland)
