@@ -525,6 +525,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13: [ServerlessDays Rome 2024](https://rome.serverlessdays.io/) - Rome (Italy) <a href="https://www.papercall.io/serverlessdays-rome-24"><img alt="CFP ServerlessDays Rome 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2024&color=green"></a>
 * 13: [XmasDev 2024](https://xmasdev.net/) - Rome (Italy) <a href="https://sessionize.com/xmasdev-2024"><img alt="CFP XmasDev 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-October-2024&color=green"></a>
 * 14: [DevOpsDays Recife 2024](https://devopsdays.org/recife) - Recife (Brazil) <a href="https://www.papercall.io/dodrec24"><img alt="CFP DevOpsDays Recife 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2024&color=red"></a>
+* 14: [DevFest Miami](https://gdg.community.dev/events/details/google-gdg-miami-presents-devfest-miami-2024/) - Miami, FL (USA)
 * 14-15: [Euro STEM](https://eurostem.eu/) - Tallinn (Estonia) <a href="https://eurostem.eu/grants/"><img alt="Scholarship" src="https://img.shields.io/static/v1?label=Scholarship&message=until%2001-October-2024&color=yellow" /></a>
 * 19: [Conf42.com Internet of Things (IoT) 2024](https://www.conf42.com/iot2024) - Online <a href="https://www.papercall.io/conf42-iot-2024"><img alt="CFP Conf42.com Internet of Things (IoT) 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-November-2024&color=green"></a>
 
@@ -608,6 +609,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15-16: [APIdays Singapore](https://www.apidays.global/singapore/) - Singapore (Singapore) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Singapore" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2025&color=green"></a>
 * 15-17: [CYBERSEC](https://cybersec.ithome.com.tw/) - Taipei (Taiwan)
 * 16-18: [Devoxx France](https://www.devoxx.fr) - Paris (France)
+* 17-18: [React Miami](https://www.reactmiami.com/) - Miami, FL (USA) <a href="https://forms.gle/icwjhV7qWjzEs3tJ8"><img alt="CFP React Miami" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-December-2024&color=green"></a>
 * 29-30: [DevOpsDays Aarhus](https://devopsdays.org/events/2025-aarhus) - Aarhus (Denmark)
 * 29-1/5: [NDC Melbourne 2025](https://ndcmelbourne.com) - Melbourne (Australia) <a href="https://sessionize.com/ndc-melbourne-2025"><img alt="CFP NDC Melbourne 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2024&color=green"></a>
 
