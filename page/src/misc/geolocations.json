@@ -651,6 +651,14 @@
     "latitude": 51.4392648,
     "longitude": 5.478633
   },
+  "Eket (Nigeria)": {
+    "latitude": 4.646736499999999,
+    "longitude": 7.9429421
+  },
+  "Enugu (Nigeria)": {
+    "latitude": 6.448270099999999,
+    "longitude": 7.5138947
+  },
   "Essaouira (Morocco)": {
     "latitude": 31.5118281,
     "longitude": -9.7620903
@@ -1039,6 +1047,10 @@
     "latitude": 22.5726459,
     "longitude": 88.3638953
   },
+  "Kongens Lyngby (Denmark)": {
+    "latitude": 55.763516,
+    "longitude": 12.4949429
+  },
   "Kongsberg (Norway)": {
     "latitude": 59.594550049999995,
     "longitude": 9.670860075643745
@@ -1202,6 +1214,10 @@
   "Lyon (France)": {
     "latitude": 45.7578137,
     "longitude": 4.8320114
+  },
+  "Maceió (Brazil)": {
+    "latitude": -9.6660417,
+    "longitude": -35.7352167
   },
   "Madison, WI (USA)": {
     "latitude": 43.074761,
