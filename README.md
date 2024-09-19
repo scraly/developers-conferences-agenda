@@ -361,6 +361,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1: [GopherCon Singapore 2024](https://2024.gophercon.sg) - Singapore (Singapore) <a href="https://www.papercall.io/gopherconsg-2024"><img alt="CFP GopherCon Singapore 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-August-2024&color=red"></a>
 * 1: [DevSecCon](https://www.devseccon.com/) - Online
 * 1-2: [FlutterBytes Conference 2024](https://www.flutterbytesconf.com/) - Lagos (Nigeria) <a href="https://sessionize.com/flutterbytes-conference-2024/"><img alt="CFP FlutterBytes Conference 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2024&color=red"></a>
+* 1-2: [AI Summit](https://vanaisummit.com/) - Vancouver, BC (Canada)
 * 1-11: [Java Day Istanbul 2024](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2024"><img alt="CFP Java Day Istanbul" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Dec-2023&color=red"></a>
 * 2: [BSidesChicago 2024](https://bsideschicago.org) - Chicago, IL (USA) <a href="https://sessionize.com/bsideschicago-2024/"><img alt="CFP BSidesChicago 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2024&color=red"></a>
 * 2: [Pacific Hackers Conference 2024](https://www.phack.org) - Mountain View, CA (USA) <a href="https://sessionize.com/pacific-hackers-conference-2024"><img alt="CFP Pacific Hackers Conference 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2024&color=green"></a>
