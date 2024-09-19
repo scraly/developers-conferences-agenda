@@ -500,6 +500,7 @@ All the data (past and coming) are available publicly in JSON:
 * 30: [DevFest Cali](https://gdg.community.dev/events/details/google-gdg-cali-presents-devfest-cali-2024/) - Cali (Colombia) <a href="https://www.papercall.io/devfestcali24"><img alt="CFP DevFest Cali" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2024&color=green"></a>
 * 30: [DevOpsDays Maceió](https://devopsdays.org/events/2024-maceio) - Maceió (Brazil) <a href="https://www.papercall.io/devopsdaysmaceio2024"><img alt="CFP DevOpsDays Maceió" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-October-2024&color=green"></a>
 * 30: [DevOpsDays Porto Alegre](https://devopsdays.org/events/2024-porto-alegre/welcome/) - Porto Alegre (Brazil) <a href="https://www.papercall.io/devopsdayspoa2023"><img alt="CFP DevOpsDays Porto Alegre" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2024&color=green"></a>
+* 30: [DevFest Scotland](https://gdg.community.dev/events/details/google-gdg-glasgow-presents-devfest-scotland-2024-1/) - Glasgow (Scotland) <a href="https://sessionize.com/devfest-scotland-2024/"><img alt="CFP DevFest Scotland" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2024&color=green"></a>
 
 ### December
 
