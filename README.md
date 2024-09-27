@@ -271,7 +271,7 @@ All the data (past and coming) are available publicly in JSON:
 * 16-17: [NoCode Summit 2024](https://www.nocode-summit.org/fr) - Paris (France)
 * 16-18: [DevConf 2024](https://devconf.pl) - Łódź (Poland) <a href="https://sessionize.com/devconfpl-2024"><img alt="CFP DevConf 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-May-2024&color=red"></a>
 * 16-21: [Pycon Brasil](https://2024.pythonbrasil.org.br) - Rio de Janeiro (Brazil)
-* 17: [Conf42 Incident Management 2024](https://www.conf42.com/im2024) - Online <a href="https://www.papercall.io/conf42-incident-management-2024"><img alt="CFP Conf42 Incident Management" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Sep-2024&color=green"></a>
+* 17: [Conf42 Incident Management 2024](https://www.conf42.com/im2024) - Online <a href="https://www.papercall.io/conf42-incident-management-2024"><img alt="CFP Conf42 Incident Management" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Sep-2024&color=red"></a>
 * 17: [Momentum 2024](https://momentumdevcon.com) - Cincinnati, OH (USA) <a href="https://sessionize.com/momentum-2024/"><img alt="CFP Momentum 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2024&color=red"></a>
 * 17: [CapSec 2024](https://ti.to/trade-offs/capsec) - Online <a href="https://www.papercall.io/capsec"><img alt="CFP CapSec 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2024&color=green"></a>
 * 17-18: [DevFest Nantes](https://devfest.gdgnantes.com/en/) - Nantes (France) <a href="https://conference-hall.io/public/event/AJYPylkzTDd6j3O6ADZn"><img alt="CFP DevFest Nantes 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-June-2024&color=red"></a>
