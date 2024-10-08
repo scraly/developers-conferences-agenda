@@ -117,7 +117,7 @@ body > footer > .content {
 
 .footer-links ul li a {
   color: #bbb;
-  text-decoration: none;
+  
   transition: color 0.3s ease;
 }
 
