@@ -26,7 +26,7 @@ const addHints = confLine => {
         hints.push("date format seems wrong : 'DD' or 'DD-DD' or 'DD/MM-DD/MM'")
     }
     if(confLine.content.includes("—") || confLine.content.includes("–")){
-        hints.push("long dash '—' fond. did you mean '-' ?")
+        hints.push("long dash '—' found. did you mean '-' ?")
     }
     if(!confLine.content.includes("http")){
         hints.push("links should start with http:// or https://")
