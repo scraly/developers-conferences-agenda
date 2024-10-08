@@ -513,6 +513,10 @@ All the data (past and coming) are available publicly in JSON:
 * 2-3: [APIdays Munich](https://www.apidays.global/munich/) - Munich (Germany) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Munich" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-June-2025&color=green"></a>
 * 9-11: [WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin (Germany)
 
+### September
+
+* 18-19: [API Platform Conference](https://api-platform.com/con/2025/) - Lille (France) & Online
+
 ### November
 
 * 10-13: [KubeCon + CloudNativeCon NA 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2025/) - Atlanta, GA (USA)
