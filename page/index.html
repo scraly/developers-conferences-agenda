@@ -1,92 +1,106 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
+  <head>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-20CBRBVW37"></script>
     <script>
-        window.dataLayer = window.dataLayer || [];
+      window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
 
-        gtag('config', 'G-20CBRBVW37');
+      gtag('config', 'G-20CBRBVW37');
     </script>
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <meta name="description"
-        content="This website lists a maximum of conference dates and CFP link to help conference organizers, speakers, sponsors and attendees." />
+    <meta
+      name="description"
+      content="This website lists a maximum of conference dates and CFP link to help conference organizers, speakers, sponsors and attendees."
+    />
     <meta name="author" content="Aurélie Vache" value="Aurélie Vache" />
     <meta name="robots" content="index, follow" value="index, follow" />
-    <meta name="keywords" content="conferences, talks, events, speaker, sponsor, organizer, attendee" />
+    <meta
+      name="keywords"
+      content="conferences, talks, events, speaker, sponsor, organizer, attendee"
+    />
 
     <title>Developer Conferences Agenda</title>
-</head>
+  </head>
 
-<body>
+  <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
-</body>
-<footer>
+  </body>
+  <footer>
     <div class="content">
-        <p>
-            Created by
-            <a
-                href="https://twitter.com/aurelievache"
-                target="_blank"
-                class="footer">
-                Aurélie Vache
-            </a>
-            & maintained by the
-            <a
-                href="https://github.com/scraly/developers-conferences-agenda/graphs/contributors"
-                target="_blank"
-                class="footer">
-                community
-            </a>
-            with ❤️
-        </p>
-        <p>
-            Contribute now: create a
-            <a
-                href="https://github.com/scraly/developers-conferences-agenda/pulls"
-                target="_blank"
-                class="footer">
-                Pull Request
-            </a>
-            or an
-            <a
-                href="https://github.com/scraly/developers-conferences-agenda/issues"
-                target="_blank"
-                class="footer">
-                issue
-            </a> to add an event.
-        </p>
-        <p>
-            Become a <a href="https://github.com/sponsors/scraly" target="_blank" class="footer">Sponsor</a> ❤️
-        </p>
-        <p>
-            Links:
+      <p>
+        Created by
+        <a href="https://twitter.com/aurelievache" target="_blank" class="footer-link">
+          Aurélie Vache
+        </a>
+        & maintained by the
+        <a
+          href="https://github.com/scraly/developers-conferences-agenda/graphs/contributors"
+          target="_blank"
+          class="footer-link"
+        >
+          community
+        </a>
+        with ❤️
+      </p>
+      <p>
+        Contribute now: create a
+        <a
+          href="https://github.com/scraly/developers-conferences-agenda/pulls"
+          target="_blank"
+          class="footer-link"
+        >
+          Pull Request
+        </a>
+        or an
+        <a
+          href="https://github.com/scraly/developers-conferences-agenda/issues"
+          target="_blank"
+          class="footer-link"
+        >
+          issue
+        </a>
+        to add an event.
+      </p>
+      <p>
+        Become a
+        <a href="https://github.com/sponsors/scraly" target="_blank" class="footer-link">Sponsor</a>
+        ❤️
+      </p>
+      <div class="footer-links">
+        <p>Links:</p>
         <ul>
-            <li>
-                <a href="https://developers.events/all-events.json" target="_blank" class="footer">Full events list</a>
-            </li>
-            <li>
-                <a href="https://developers.events/all-cfps.json" target="_blank" class="footer">Full CFPs list</a>
-            </li>
-            <li>
-                <a href="https://developers.events/feed-events.xml" target="_blank" class="footer">ATOM feed</a>
-            </li>
-            <li>
-                <a href="https://developers.events/feed-events.json" target="_blank" class="footer">JSON feed</a>
-            </li>
+          <li>
+            <a href="https://developers.events/all-events.json" target="_blank" class="footer-link"
+              >Full events list</a
+            >
+          </li>
+          <li>
+            <a href="https://developers.events/all-cfps.json" target="_blank" class="footer-link"
+              >Full CFPs list</a
+            >
+          </li>
+          <li>
+            <a href="https://developers.events/feed-events.xml" target="_blank" class="footer-link"
+              >ATOM feed</a
+            >
+          </li>
+          <li>
+            <a href="https://developers.events/feed-events.json" target="_blank" class="footer-link"
+              >JSON feed</a
+            >
+          </li>
         </ul>
-        </p>
+      </div>
     </div>
-</footer>
-
+  </footer>
 </html>
