@@ -843,6 +843,10 @@
     "latitude": 53.550341,
     "longitude": 10.000654
   },
+  "Hanau (Germany)": {
+    "latitude": 50.1264123,
+    "longitude": 8.9283105
+  },
   "Hangzhou (China)": {
     "latitude": 30.2741499,
     "longitude": 120.15515
@@ -1254,6 +1258,10 @@
   "Manchester (UK)": {
     "latitude": 53.4807593,
     "longitude": -2.2426305
+  },
+  "Manila (Philippines)": {
+    "latitude": 14.5995124,
+    "longitude": 120.9842195
   },
   "Mannheim (Germany)": {
     "latitude": 49.4892913,
@@ -1695,6 +1703,10 @@
     "latitude": 47.6694141,
     "longitude": -122.1238767
   },
+  "Redwood Shores, CA (USA)": {
+    "latitude": 37.5364134,
+    "longitude": -122.2455364
+  },
   "Rennes (France)": {
     "latitude": 48.1113387,
     "longitude": -1.6800198
@@ -1858,6 +1870,10 @@
   "Shenzhen (China)": {
     "latitude": 22.5445741,
     "longitude": 114.0545429
+  },
+  "Sherbrooke (Canada)": {
+    "latitude": 45.4042669,
+    "longitude": -71.89367399999999
   },
   "Sinaloa (Mexico)": {
     "latitude": 25.8226854,
