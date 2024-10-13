@@ -532,6 +532,10 @@ All the data (past and coming) are available publicly in JSON:
 
 * 18-19: [API Platform Conference](https://api-platform.com/con/2025/) - Lille (France) & Online
 
+### October
+
+* 9-10: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France)
+
 ### November
 
 * 10-13: [KubeCon + CloudNativeCon NA 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2025/) - Atlanta, GA (USA)
