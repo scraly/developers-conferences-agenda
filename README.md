@@ -421,6 +421,7 @@ All the data (past and coming) are available publicly in JSON:
 ### February
 
 * 1-2: [FOSDEM](https://fosdem.org/2025/) - Brussels (Belgium)
+* 3-5: [ConfigManagementCamp 2025](https://cfgmgmtcamp.org/ghent2025/) - Ghent (Belgium) <a href="https://cfp.cfgmgmtcamp.org/ghent2025/cfp"><img alt="CFP CFGMgmtCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-November-2024&color=green"></a>
 * 3-4: [IntelliC0N](https://www.intelliguards.com/intellic0n) - Austin, TX (USA) <a href="https://www.papercall.io/intellic0n"><img alt="CFP IntelliC0N" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-December-2024&color=green"></a>
 * 3-5: [NANOG 93](https://nanog.org/events/nanog-93/) - Atlanta, GA (USA)
 * 3-5: [Jfokus 2025](https://www.jfokus.se/) - Stockholm (Sweden) <a href="https://sessionize.com/jfokus-2025"><img alt="CFP Jfokus 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2024&color=red"></a>
