@@ -514,7 +514,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21-23: [Spring I/O](https://springio.net/) - Barcelona (Spain)
 * 21-23: [KotlinConf 2025](https://kotlinconf.com) - Copenhagen (Denmark) <a href="https://sessionize.com/kotlinconf-2025/"><img alt="CFP KotlinConf 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2024&color=green"></a>
 * 27-30: [Craft Conference 2025](https://craft-conf.com/2025) - Budapest (Hungary) <a href="https://www.papercall.io/craft2025"><img alt="CFP Craft Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=green"></a>
-* 28-30: [App.js 2025](https://appjs.co/) - Kraków (Poland)</a>
+* 28-30: [App.js 2025](https://appjs.co/) - Krakow (Poland)</a>
 
 ### June
 
