@@ -1,10 +1,8 @@
 import {useMemo} from 'react';
-
 import Calendar from 'components/Calendar/Calendar';
-
 import 'styles/CalendarGrid.css';
 
-const CalendarGrid = ({year}) => {
+const CalendarGrid = ({year, openModal}) => {
   const months = useMemo(() => {
     // Iterate month
     let months = [];
@@ -19,9 +17,21 @@ const CalendarGrid = ({year}) => {
     return months;
   }, [year]);
 
+  // Function to handle day click
+  const handleDayClick = (day, events) => {
+    openModal(day, events); // Open the modal with the selected day
+  };
+
   return (
     <div className="calendarGrid">
-      {months.map((m) => <Calendar key={`month_${m.month}`} month={m.month} days={m.days} />)}
+      {months.map(m => (
+        <Calendar
+          key={`month_${m.month}`}
+          month={m.month}
+          days={m.days}
+          openModal={handleDayClick} // Pass the click handler to Calendar
+        />
+      ))}
     </div>
   );
 };
