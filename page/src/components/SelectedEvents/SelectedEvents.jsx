@@ -1,108 +1,91 @@
-import {useRef, useEffect} from 'react';
+import {useRef, useEffect, useState, useCallback} from 'react';
 import {useNavigate, useSearchParams, useParams} from 'react-router-dom';
-
 import 'styles/SelectedEvents.css';
 import EventDisplay from '../EventDisplay/EventDisplay';
-import EventCount from '../EventCount/EventCount'
+import EventCount from '../EventCount/EventCount';
 import {formatDate, getMonthName} from '../../utils';
 import {useMonthEvents, useDayEvents, useYearEvents} from 'app.hooks';
-import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
+import {ArrowLeftCircle, ArrowRightCircle} from 'lucide-react';
 
-const SelectedEvents = () => {
+const SelectedEvents = ({onClose}) => {
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
   const {year, month, date} = useParams();
+  const [page, setPage] = useState(1); // Pagination for infinite scroll
+  const [hasMore, setHasMore] = useState(true);
 
   let currentMonth = parseInt(month, 10);
-  if (Number.isNaN(month)) {
-      currentMonth = -1
+  if (Number.isNaN(currentMonth)) {
+    currentMonth = -1;
   }
 
-  let currentDate
+  let currentDate;
   if (date !== undefined) {
-      currentDate = new Date(parseInt(date, 10));
+    currentDate = new Date(parseInt(date, 10));
   }
 
-  const scrollToRef = useRef();
+  const yearEvents = useYearEvents();
+  const monthEvents = useMonthEvents(
+    yearEvents,
+    currentMonth !== -1 ? currentMonth : currentDate.getMonth()
+  );
+  const dayEvents = useDayEvents(monthEvents, currentDate);
+  const events = currentMonth !== -1 ? monthEvents : dayEvents;
 
-  const yearEvents = useYearEvents()
-  const monthEvents = useMonthEvents(yearEvents, currentMonth != -1 ? currentMonth : currentDate.getMonth())
-  const dayEvents = useDayEvents(monthEvents, currentDate)
-  const events = currentMonth != -1 ?  monthEvents : dayEvents;
+  // Infinite scroll handler
+  const observer = useRef();
+  const lastEventElementRef = useCallback(
+    node => {
+      if (observer.current) observer.current.disconnect();
+      observer.current = new IntersectionObserver(entries => {
+        if (entries[0].isIntersecting && hasMore) {
+          setPage(prevPage => prevPage + 1); // Load more events
+        }
+      });
+      if (node) observer.current.observe(node);
+    },
+    [hasMore]
+  );
 
+  // Fake loading more events
   useEffect(() => {
-    setTimeout(() => {
-      scrollToRef.current?.scrollIntoView({behavior: 'smooth'});
-    }, 100);
-  }, [date, month, year]);
-
-  let previous = '',
-    next = '';
-  if (currentMonth !== -1 && year) {
-    if (currentMonth > 0)
-      previous = (
-        <ArrowLeftCircle
-          onClick={() =>
-            navigate(`/${year}/calendar/${currentMonth - 1}/0?${searchParams.toString()}`)
-          }
-        />
-      );
-    if (currentMonth < 11)
-      next = (
-        <ArrowRightCircle
-          onClick={() =>
-            navigate(`/${year}/calendar/${currentMonth + 1}/0?${searchParams.toString()}`)
-          }
-        />
-      );
-  } else if (currentDate) {
-    const dateYear = currentDate.getFullYear();
-    const firstDay = new Date(dateYear, 0, 1).getTime();
-    const lastDay = new Date(dateYear, 12, 0).getTime();
-    const today = currentDate.getTime();
-    const day = 24 * 60 * 60 * 1000;
-    if (today !== firstDay) {
-      previous = (
-        <ArrowLeftCircle
-          onClick={() =>
-            navigate(`/${year}/calendar/${currentMonth}/${today - day}?${searchParams.toString()}`)
-          }
-        />
-      );
+    // Assuming fetchMoreEvents would get the next set of events
+    if (page > 1) {
+      // Simulate API call for more events
+      const moreEvents = []; // Replace this with actual API call logic
+      if (moreEvents.length === 0) {
+        setHasMore(false);
+      } else {
+        // Append fetched events to the existing events
+        // setEvents([...events, ...moreEvents]);
+      }
     }
-    if (today !== lastDay) {
-      next = (
-        <ArrowRightCircle
-          onClick={() =>
-            navigate(`/${year}/calendar/${currentMonth}/${today + day}?${searchParams.toString()}`)
-          }
-        />
-      );
-    }
-  }
+  }, [page]);
 
   return (
-    <>
-      {currentDate ? (
-        <>
-          <h3 className="eventDateDisplay" ref={scrollToRef}>
-            {previous}
-            <span>{getMonthName(currentMonth) || formatDate(currentDate)}</span>
-            {next}
-            </h3>
-            <EventCount events={events} />
-            <div className="eventsGridDisplay">
-              {events.length ? (
-                events.map((e, i) => <EventDisplay key={`ev_${i}`} {...e} />)
-              ) : (
-                <p>No event found for that day</p>
-              )}
-          </div>
-        </>
-      ) : (
-        ''
-      )}
-    </>
+    <div className="modal-content">
+      <div className="modal-header">
+        <h3 className="modal-title">{getMonthName(currentMonth) || formatDate(currentDate)}</h3>
+        <button className="close-button" onClick={onClose}>
+          X
+        </button>
+      </div>
+
+      <EventCount events={events} />
+      <div className="eventsGridDisplay">
+        {events.length ? (
+          events.map((e, i) => (
+            <EventDisplay
+              key={`ev_${i}`}
+              {...e}
+              ref={i === events.length - 1 ? lastEventElementRef : null} // Last element for infinite scroll
+            />
+          ))
+        ) : (
+          <p>No events found for this day</p>
+        )}
+      </div>
+    </div>
   );
 };
 
