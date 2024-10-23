@@ -391,7 +391,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-9: [Flutter Roadshow India 2024](https://flutterroadshow.com/) - Mumbai (India) <a href="https://sessionize.com/flutter-roadshow-2024/"><img alt="CFP Flutter Roadshow India 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=green"></a>
 * 10: [Dutch Cloud Native Day 2024](https://community.cncf.io/e/mjfygk/) - Amsterdam (Netherlands) <a href="https://sessionize.com/dutch-cloud-native-day-2024"><img alt="CFP Dutch Cloud Native Day 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=green"></a>
 * 11: [You Got This Winter 2024](https://yougotthis.io/events/winter-2024) - Online
-* 11: [AI Heroes](https://aiheroes.it/) - Turin (Italy)
+* 11: [AI Heroes](https://aiheroes.it/) - Torino (Italy)
 * 11-12: [KubeCon + CloudNativeCon India 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) - Delhi (India) <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-india/program/cfp/"><img alt="CFP KubeCon India" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-August-2024&color=red"></a>
 * 12: [CollabCon 2024](https://www.collabconforall.com/) - Orlando, FL (USA) <a href="https://sessionize.com/collabcon-2024"><img alt="CFP CollabCon 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2024&color=red"></a>
 * 13-16: [React Day Berlin](https://reactday.berlin) - Berlin (Germany) <a href="https://forms.gle/xFDmUHGY1b7hb77c7"><img alt="CFP React Day Berlin" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-August-2024&color=red"></a>
