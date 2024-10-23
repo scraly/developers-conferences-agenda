@@ -364,6 +364,7 @@ All the data (past and coming) are available publicly in JSON:
 * 30: [DevFest Scotland](https://gdg.community.dev/events/details/google-gdg-glasgow-presents-devfest-scotland-2024-1/) - Glasgow (Scotland) <a href="https://sessionize.com/devfest-scotland-2024/"><img alt="CFP DevFest Scotland" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2024&color=red"></a>
 * 30: [DevFest Kampala 2024](https://gdg.community.dev/events/details/google-gdg-cloud-kampala-presents-devfest-kampala-2024/) - Kampala (Uganda) <a href="https://sessionize.com/devfest-kampala-2024/"><img alt="CFP DevFest Kampala 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-November-2024&color=green"></a>
 * 30: [Devfest Manila 2024](https://gdg.community.dev/events/details/google-gdg-manila-presents-gdg-devfest-manila-2024/) - Manila (Philippines) <a href="https://sessionize.com/gdg-devfest-manila-2024/"><img alt="CFP GDG Devfest Manila 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-November-2024&color=green"></a>
+* 30: [Warsaw DevFest 2024](https://gdg.community.dev/events/details/google-gdg-warszawa-presents-devfest-warsaw-2024/) - Warsaw (Poland) <a href="https://sessionize.com/warsaw-devfest-2024"><img alt="CFP Warsaw DevFest 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-October-2024&color=green"></a>
 
 ### December
 
@@ -516,6 +517,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-11: [Evento de datos Valencia 2025](https://www.eventodedatos.com) - Valencia (Spain) <a href="https://sessionize.com/evento-de-datos-valencia-mayo-2025"><img alt="CFP Evento de datos Valencia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=green"></a>
 * 10: [Java Day Istanbul 2025](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2025"><img alt="CFP Java Day Istanbul 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=green"></a>
 * 14-15: [APIdays New York](https://www.apidays.global/new-york/) - New York, NY (USA) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days New York" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2025&color=green"></a>
+* 15-16: [phpday 2025](https://2025.phpday.it) - Verona (Italy) <a href="https://sessionize.com/phpday-2025"><img alt="CFP phpday 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2025&color=green"></a>
 * 19-22: [JCON EUROPE 2025](https://jcon.one/) - Cologne (Germany)
 * 19-23: [NDC Oslo 2025](https://ndcoslo.com/) - Oslo (Norway)
 * 20-22: [php tek 2025](https://phptek.io) - Chicago, IL (USA) <a href="https://sessionize.com/phptek-2025"><img alt="CFP php[tek] 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=green"></a>
@@ -535,6 +537,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### July
 
+* 1-4: [Open edX Conference - 2025](https://con.openedx.org) - Palaiseau (France) <a href="https://sessionize.com/open-edx-conference-2025"><img alt="CFP Open edX Conference - 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-December-2024&color=green"></a>
 * 2-3: [APIdays Munich](https://www.apidays.global/munich/) - Munich (Germany) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Munich" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-June-2025&color=green"></a>
 * 3-4: [Agile On The Beach 2025](https://www.agileonthebeach.com) - Falmouth (UK) <a href="https://sessionize.com/agile-on-the-beach-2025/"><img alt="CFP Agile On The Beach 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2024&color=green"></a>
 * 9-11: [WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin (Germany)
