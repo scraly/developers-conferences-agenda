@@ -298,6 +298,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-16: [TRG Con](https://www.trgcon.com/) - Madrid (Spain)
 * 14-16: [Meeting C++](https://meetingcpp.com/) - Berlin (Germany) <a href="https://meetingcpp.com/mcpp/submittalk/"><img alt="CFP Meeting C++ Berlin" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-June-2024&color=red"></a>
 * 14-16: [HoneyCON24](https://honeycon.eu/) - Guadalajara (Spain) <a href="https://www.papercall.io/honeycon24"><img alt="CFP HoneyCON24" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-October-2024&color=red"></a>
+* 15: [Tokyo Test Fest](https://tokyotestfest.com/) - Tokyo (Japan)
 * 15-16: [Droidcon Uganda 2024](https://www.uganda.droidcon.com/) - Kampala (Uganda) <a href="https://sessionize.com/droidcon-uganda-2024/"><img alt="CFP Droidcon Uganda 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-September-2024&color=red"></a>
 * 15-16: [DevFest Lagos](https://devfestlagos.com/) - Lagos (Nigeria)
 * 16: [DevFest London](https://gdg.community.dev/events/details/google-gdg-london-presents-devfest-london-2024/cohost-gdg-cloud-london) - London (UK) <a href="https://sessionize.com/devfest-london-2024"><img alt="CFP DevFest London 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-October-2024&color=red"></a>
