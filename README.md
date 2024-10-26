@@ -195,7 +195,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29-31: [MWC Kigali](https://www.mwckigali.com/) - Kigali (Rwanda)
 * 29-31: [Security BSides Cayman Islands 2024](https://www.bsides.ky) - George Town (Cayman Islands) <a href="https://sessionize.com/security-bsides-cayman-islands-2024"><img alt="CFP Security BSides Cayman Islands 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-May-2024&color=red"></a>
 * 30: [rvatech/Women in Technology Conference](https://rvatech.com/rvatech-events/2023-women-in-tech-conference/) - Richmond, VA (USA) <a href="https://www.papercall.io/rvatechwitconference2024"><img alt="CFP rvatech/Women in Technology Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2024&color=red"></a>
-* 30: [DevFest Aranjuez](https://gdg.community.dev/events/details/google-gdg-aranjuez-presents-devfest-aranjuez-2024-1/) - Aranjuez (Spain) 
+* 30: [DevFest Aranjuez](https://gdg.community.dev/events/details/google-gdg-aranjuez-presents-devfest-aranjuez-2024-1/) - Aranjuez (Spain)
 * 30-31: [DevOpsDays Tel Aviv](https://devopsdays.org/events/2024-tel-aviv/welcome/) - Tel Aviv (Israel)
 * 30-31: [Hacker Halted 2024](http://hackerhalted.com) - Atlanta, GA (USA) <a href="https://www.papercall.io/hh2024"><img alt="CFP Hacker Halted 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-June-2024&color=red"></a>
 * 30-31: [Agile Tour Nantais 2024](https://agilenantes.org/agile-tour-nantais-2024/) - Nantes (France) <a href="https://sessionize.com/agile-tour-nantais-2024"><img alt="CFP Agile Tour Nantais 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2024&color=red"></a>
@@ -299,7 +299,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-16: [Meeting C++](https://meetingcpp.com/) - Berlin (Germany) <a href="https://meetingcpp.com/mcpp/submittalk/"><img alt="CFP Meeting C++ Berlin" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-June-2024&color=red"></a>
 * 14-16: [HoneyCON24](https://honeycon.eu/) - Guadalajara (Spain) <a href="https://www.papercall.io/honeycon24"><img alt="CFP HoneyCON24" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-October-2024&color=red"></a>
 * 15-16: [Droidcon Uganda 2024](https://www.uganda.droidcon.com/) - Kampala (Uganda) <a href="https://sessionize.com/droidcon-uganda-2024/"><img alt="CFP Droidcon Uganda 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-September-2024&color=red"></a>
-* 15-16: [DevFest Lagos](https://devfestlagos.com/) - Lagos (Nigeria) 
+* 15-16: [DevFest Lagos](https://devfestlagos.com/) - Lagos (Nigeria)
 * 16: [DevFest London](https://gdg.community.dev/events/details/google-gdg-london-presents-devfest-london-2024/cohost-gdg-cloud-london) - London (UK) <a href="https://sessionize.com/devfest-london-2024"><img alt="CFP DevFest London 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-October-2024&color=red"></a>
 * 16: [DevFest Ireland 2024](https://gdg.community.dev/events/details/google-gdg-belfast-presents-devfest-ireland-2024/) - Belfast (UK) <a href="https://sessionize.com/devfest-ireland-2024/"><img alt="CFP DevFest Ireland 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2024&color=red"></a>
 * 16: [DevOpsDays Florianópolis](https://devopsdays.org/events/2024-florianopolis/welcome/) - Florianópolis (Brazil) <a href="https://www.papercall.io/devopsdays-fln-2024"><img alt="CFP DevOpsDays Florianópolis" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-August-2024&color=red"></a>
@@ -372,7 +372,7 @@ All the data (past and coming) are available publicly in JSON:
 * 2-3: [Tech Rocks Summit](https://events.tech.rocks/summit-2024) - Paris (France)
 * 2-4: [DevOps Vision](https://devopsvision.io/) - Clearwater, FL (USA)
 * 3: [JakartaOne Livestream 2024](https://jakartaone.org/2024/) - Online <a href="https://www.papercall.io/jakartaone-2024"><img alt="CFP JakartaOne Livestream" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2024&color=red"></a>
-* 3: [Generation AI](https://www.apidays.global/generationai-paris/) - Paris (France) <a href="https://apidays.typeform.com/to/BUasJhAb"><img alt="CFP Generation AI" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-November-2024&color=green"></a> 
+* 3: [Generation AI](https://www.apidays.global/generationai-paris/) - Paris (France) <a href="https://apidays.typeform.com/to/BUasJhAb"><img alt="CFP Generation AI" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-November-2024&color=green"></a>
 * 3-5: [APIdays Paris](https://www.apidays.global/paris/) - Paris (France) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-November-2024&color=green"></a>
 * 3-4: [Frontend Barcelona 2024](https://frontend.barcelona/?utm_source=developers-conference-agenda&utm_medium=link&utm_campaign=frontend-barcelona-2024&utm_id=frontend-barcelona-2024) - Barcelona (Spain) <a href="https://frontend.barcelona/call-for-papers"><img alt="CFP Frontend Barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2024&color=red"></a>
 * 4-5: [DevOpsRex](https://www.devopsrex.fr/fr) - Paris (France) <a href="https://talks.devopsdays.org/devopsdays-paris-2024/cfp"><img alt="CFP DevOps Rex" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2024&color=red"></a>
@@ -432,6 +432,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1-2: [FOSDEM](https://fosdem.org/2025/) - Brussels (Belgium)
 * 3-5: [ConfigManagementCamp 2025](https://cfgmgmtcamp.org/ghent2025/) - Ghent (Belgium) <a href="https://cfp.cfgmgmtcamp.org/ghent2025/cfp"><img alt="CFP CFGMgmtCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-November-2024&color=green"></a>
 * 3-4: [IntelliC0N](https://www.intelliguards.com/intellic0n) - Austin, TX (USA) <a href="https://www.papercall.io/intellic0n"><img alt="CFP IntelliC0N" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-December-2024&color=green"></a>
+* 3-4: [Laracon EU 2025](https://laracon.eu/) - Amsterdam (Netherlands)
 * 3-5: [NANOG 93](https://nanog.org/events/nanog-93/) - Atlanta, GA (USA)
 * 3-5: [Jfokus 2025](https://www.jfokus.se/) - Stockholm (Sweden) <a href="https://sessionize.com/jfokus-2025"><img alt="CFP Jfokus 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2024&color=red"></a>
 * 6: [CyberConVA 2025](https://rvatech.com/rvatech-events/cyberconva-2025/) - Richmond, VA (USA) <a href="https://www.papercall.io/cyberconva2025"><img alt="CFP CyberConVA 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-October-2024&color=red"></a>
@@ -523,6 +524,9 @@ All the data (past and coming) are available publicly in JSON:
 * 10: [Java Day Istanbul 2025](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2025"><img alt="CFP Java Day Istanbul 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=green"></a>
 * 14-15: [APIdays New York](https://www.apidays.global/new-york/) - New York, NY (USA) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days New York" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2025&color=green"></a>
 * 15-16: [phpday 2025](https://2025.phpday.it) - Verona (Italy) <a href="https://sessionize.com/phpday-2025"><img alt="CFP phpday 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2025&color=green"></a>
+* 16: [AFUP Day 2025 Lille](https://event.afup.org/afup-day-2025/) - Lille (France) <a href="https://afup.org/event/afupday2025lille"><img alt="CFP AFUP Day Lille 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2024&color=green"></a>
+* 16: [AFUP Day 2025 Lyon](https://event.afup.org/afup-day-2025/) - Lyon (France) <a href="https://afup.org/event/afupday2025lyon"><img alt="CFP AFUP Day Lille 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2024&color=green"></a>
+* 16: [AFUP Day 2025 Poitiers](https://event.afup.org/afup-day-2025/) - Poitiers (France) <a href="https://afup.org/event/afupday2025poitiers"><img alt="CFP AFUP Day Lille 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2024&color=green"></a>
 * 19-22: [JCON EUROPE 2025](https://jcon.one/) - Cologne (Germany)
 * 19-23: [NDC Oslo 2025](https://ndcoslo.com/) - Oslo (Norway)
 * 20-22: [php tek 2025](https://phptek.io) - Chicago, IL (USA) <a href="https://sessionize.com/phptek-2025"><img alt="CFP php[tek] 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=green"></a>
