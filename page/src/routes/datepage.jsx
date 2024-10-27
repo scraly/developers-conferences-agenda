@@ -13,17 +13,17 @@ export function DatePage() {
   const [searchParams] = useSearchParams();
   const hasYearEvents = useHasYearEvents(year);
 
-  const [isModalOpen, setModalOpen] = useState(false);
+  const [isModalOpen, setIsModalOpen] = useState(false);
   const [modalEvents, setModalEvents] = useState([]);
   const [selectedDateOrMonth, setSelectedDateOrMonth] = useState(null);
 
   const openModal = (selectedDate, events) => {
     setModalEvents(events);
     setSelectedDateOrMonth(selectedDate);
-    setModalOpen(true);
+    setIsModalOpen(true);
   };
 
-  const closeModal = () => setModalOpen(false);
+  const closeModal = () => setIsModalOpen(false);
 
   return (
       <div className="dcaGrid">

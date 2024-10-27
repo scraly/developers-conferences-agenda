@@ -19,7 +19,7 @@ const CalendarGrid = ({year, openModal}) => {
 
   // Function to handle day click
   const handleDayClick = (day, events) => {
-    openModal(day, events); // Open the modal with the selected day
+    openModal(day, events);
   };
 
   return (
@@ -29,7 +29,7 @@ const CalendarGrid = ({year, openModal}) => {
           key={`month_${m.month}`}
           month={m.month}
           days={m.days}
-          openModal={handleDayClick} // Pass the click handler to Calendar
+          openModal={handleDayClick}
         />
       ))}
     </div>

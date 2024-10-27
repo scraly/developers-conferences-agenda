@@ -1,21 +1,19 @@
 import Day from 'components/Day/Day';
 import Week from 'components/Week/Week';
 import {useMemo} from 'react';
-import {useNavigate, useSearchParams, useParams} from 'react-router-dom';
+import {useParams} from 'react-router-dom';
 
+import {useMonthEvents, useYearEvents} from 'app.hooks';
 import 'styles/Calendar.css';
-import {daysToWeeks} from './Calendar.utils';
-import {useYearEvents, useMonthEvents} from 'app.hooks';
 import {getMonthName} from 'utils';
+import {daysToWeeks} from './Calendar.utils';
 
 const DaysName = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'];
 
 const Calendar = ({month, days, openModal}) => {
   const yearEvents = useYearEvents();
   const monthEvents = useMonthEvents(yearEvents, month);
-  const navigate = useNavigate();
   const {year} = useParams();
-  const [searchParams] = useSearchParams();
 
   const weeks = useMemo(() => daysToWeeks(days), [days]);
   const weeksAndDays = useMemo(
@@ -30,7 +28,7 @@ const Calendar = ({month, days, openModal}) => {
     <div>
       <div
         className="header"
-        onClick={() => openModal(getMonthName(month) + " " + year, monthEvents)} // Open modal with all month events
+        onClick={() => openModal(getMonthName(month) + ' ' + year, monthEvents)}
       >
         <span>{getMonthName(month)}</span>
       </div>

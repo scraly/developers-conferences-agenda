@@ -20,7 +20,7 @@ const Day = ({date, events, openModal}) => {
   return (
     <div
       className={`date ${invisible} ${intensity}`}
-      onClick={() => openModal(formatDate(date), dayEvents)} // Trigger the modal on day click
+      onClick={() => openModal(formatDate(date), dayEvents)} 
     >
       {date?.getDate() || ''}
     </div>

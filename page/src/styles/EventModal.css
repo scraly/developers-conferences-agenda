@@ -12,35 +12,8 @@
   transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.3s ease;
   opacity: 0;
   z-index: 1000;
-  
-  /* Scrollbar for Firefox */
-  scrollbar-width: thin;
-  scrollbar-color: #888 #e0e0e0; /* Thumb and track colors for Firefox */
 }
 
-/* WebKit-based browsers (Chrome, Safari, Edge) */
-.modal-container::-webkit-scrollbar {
-  width: 8px; /* Width of the scrollbar */
-}
-
-.modal-container::-webkit-scrollbar-button {
-  display: none; /* Hide the scrollbar arrows */
-}
-
-.modal-container::-webkit-scrollbar-track {
-  background: #e0e0e0; /* Track color */
-  border-radius: 10px;
-}
-
-.modal-container::-webkit-scrollbar-thumb {
-  background-color: #888; /* Thumb color */
-  border-radius: 10px;
-  border: 2px solid transparent; /* Padding around the thumb for better appearance */
-}
-
-.modal-container::-webkit-scrollbar-thumb:hover {
-  background-color: #555; /* Thumb color on hover */
-}
 
 .scale-full {
   transform: translate(-50%, -50%) scale(1);
@@ -76,21 +49,21 @@
   cursor: pointer;
   display: flex;
   justify-content: center;
-  align-items: center; /* Ensure content is centered */
+  align-items: center;
 }
 
 .close-button:hover {
-  background-color: #f0f0f0; /* Add hover effect for a better UX */
+  background-color: #f0f0f0;
 }
 
 @media screen and (max-width: 600px) {
   .modal-body {
-    grid-template-columns: auto; /* Stack items in small screens */
+    grid-template-columns: repeat(1, auto);
   }
 }
 
 @media only screen and (min-width: 1200px) {
   .modal-body {
-    grid-template-columns: repeat(3, auto); /* Use 3 columns on larger screens */
+    grid-template-columns: repeat(3, auto);
   }
 }

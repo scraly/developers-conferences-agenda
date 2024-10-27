@@ -1,18 +1,12 @@
-import {useRef, useEffect, useState, useCallback} from 'react';
-import {useNavigate, useSearchParams, useParams} from 'react-router-dom';
+import {useDayEvents, useMonthEvents, useYearEvents} from 'app.hooks';
+import {useParams} from 'react-router-dom';
 import 'styles/SelectedEvents.css';
-import EventDisplay from '../EventDisplay/EventDisplay';
-import EventCount from '../EventCount/EventCount';
 import {formatDate, getMonthName} from '../../utils';
-import {useMonthEvents, useDayEvents, useYearEvents} from 'app.hooks';
-import {ArrowLeftCircle, ArrowRightCircle} from 'lucide-react';
+import EventCount from '../EventCount/EventCount';
+import EventDisplay from '../EventDisplay/EventDisplay';
 
 const SelectedEvents = ({onClose}) => {
-  const navigate = useNavigate();
-  const [searchParams] = useSearchParams();
-  const {year, month, date} = useParams();
-  const [page, setPage] = useState(1); // Pagination for infinite scroll
-  const [hasMore, setHasMore] = useState(true);
+  const {month, date} = useParams();
 
   let currentMonth = parseInt(month, 10);
   if (Number.isNaN(currentMonth)) {
@@ -31,36 +25,6 @@ const SelectedEvents = ({onClose}) => {
   );
   const dayEvents = useDayEvents(monthEvents, currentDate);
   const events = currentMonth !== -1 ? monthEvents : dayEvents;
-
-  // Infinite scroll handler
-  const observer = useRef();
-  const lastEventElementRef = useCallback(
-    node => {
-      if (observer.current) observer.current.disconnect();
-      observer.current = new IntersectionObserver(entries => {
-        if (entries[0].isIntersecting && hasMore) {
-          setPage(prevPage => prevPage + 1); // Load more events
-        }
-      });
-      if (node) observer.current.observe(node);
-    },
-    [hasMore]
-  );
-
-  // Fake loading more events
-  useEffect(() => {
-    // Assuming fetchMoreEvents would get the next set of events
-    if (page > 1) {
-      // Simulate API call for more events
-      const moreEvents = []; // Replace this with actual API call logic
-      if (moreEvents.length === 0) {
-        setHasMore(false);
-      } else {
-        // Append fetched events to the existing events
-        // setEvents([...events, ...moreEvents]);
-      }
-    }
-  }, [page]);
 
   return (
     <div className="modal-content">
