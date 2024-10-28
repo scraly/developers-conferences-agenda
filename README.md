@@ -461,6 +461,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27: [Conf42.com Python 2025](https://www.conf42.com/python2025) - Online <a href="https://www.papercall.io/conf42-python-2025"><img alt="CFP Conf42.com Python 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-January-2025&color=green"></a>
 * 27-28: [Devworld Conference 2025](https://devworldconference.com) - Amsterdam (Netherlands) <a href="https://sessionize.com/devworld-conference-2025"><img alt="CFP Devworld Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-September-2024&color=red"></a>
 * 28: [TECH ROCKS ASIA 2025](https://techrocks.asia/) - Ho Chi Minh (Vietnam) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEZTE6YAGWyG7ug8FZRYr-RQvs2HDo8MRVLgObopO_kdBHHQ/viewform"><img alt="CFP Devworld Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-October-2024&color=green"></a>
+* 28: [DevFest Stockholm 2025](https://www.devfest-stockholm.com/) - Stockholm (Sweden) <a href="https://sessionize.com/devfest-stockholm-2025/"><img alt="CFP DevFest Stockholm 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2024&color=green"></a>
 
 ### March
 
