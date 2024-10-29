@@ -563,6 +563,10 @@ All the data (past and coming) are available publicly in JSON:
 * 3-4: [Agile On The Beach 2025](https://www.agileonthebeach.com) - Falmouth (UK) <a href="https://sessionize.com/agile-on-the-beach-2025/"><img alt="CFP Agile On The Beach 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2024&color=green"></a>
 * 9-11: [WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin (Germany)
 
+### August
+
+* 25-27: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) - Amsterdam (Netherlands)
+
 ### September
 
 * 18-19: [API Platform Conference](https://api-platform.com/con/2025/) - Lille (France) & Online
@@ -570,12 +574,23 @@ All the data (past and coming) are available publicly in JSON:
 ### October
 
 * 9-10: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France)
+* 22-23: [PyTorch Conference 2025](https://events.linuxfoundation.org/pytorch-conference-2025/) - San Francisco, CA (USA)
 
 ### November
 
 * 10-13: [KubeCon + CloudNativeCon NA 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2025/) - Atlanta, GA (USA)
 
+### December
+
+* 8-10: [AI_dev: Open Source GenAI & ML Summit Japan 2025](https://events.linuxfoundation.org/ai-dev-japan-2025/) - Tokyo (Japan)
+* 8-10: [Open Source Summit Japan 2025](https://events.linuxfoundation.org/open-source-summit-japan-2025/) - Tokyo (Japan)
+* 11-12: [Open Compliance Summit 2025](https://events.linuxfoundation.org/open-compliance-summit-2025/) - Tokyo (Japan)
+
 ## 2026
+
+### February
+
+* 24-26: [The Linux Foundation Member Summit 2026](https://events.linuxfoundation.org/lf-member-summit-2026/) - Napa (USA)
 
 ### March
 
