@@ -347,6 +347,7 @@ All the data (past and coming) are available publicly in JSON:
 * 26: [Oh My H@ck](https://omhconf.pl/) - Warsaw (Poland) <a href="https://omhconf.pl/cfp-2024/"><img alt="CFP Oh My H@ck" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-September-2024&color=red"></a>
 * 27-28: [Cloud Expo Europe](https://www.cloudexpoeurope.fr/) - Paris (France)
 * 27-29: [WeyWeyWeb](https://weyweyweb.com) - Malaga (Spain) <a href="https://forms.gle/9PMZza735aVeDBaV7"><img alt="CFP WeyWeyWeb" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2024&color=red"></a>
+* 28: [OVHcloud Summit](https://summit.ovhcloud.com/) - Paris (France)
 * 28: [ESRM UK](https://whitehallmedia.co.uk/future-events/) - London (UK)
 * 28: [SREday 2024](https://www.sreday.com) - Amsterdam (Netherlands) <a href="https://www.papercall.io/sreday-2024-amsterdam"><img alt="CFP SREday 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-July-2024&color=red"></a>
 * 28: [Who Run The Tech ?](https://whorunthetech.com) - Rennes (France) <a href="https://conference-hall.io/public/event/bJDribf9r5Lf2VzBgbYQ"><img alt="CFP Who Run The Tech ? 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%204-June-2024&color=red"></a>
