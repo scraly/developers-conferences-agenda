@@ -511,6 +511,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4-5: [Commit Conf 2025](https://commit-conf.com/) - Madrid (Spain) <a href="https://koliseo.com/commit/commit-conf-2025/sessions"><img alt="CFP Commit Conf 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2024&color=green"></a>
 * 7-9: [QCon London](https://qconlondon.com/) - London (UK)
 * 8-10: [Analytics and Data Summit 2025](http://andouc.org) - Redwood Shores, CA (USA) <a href="https://sessionize.com/andsummit2025/"><img alt="CFP Analytics and Data Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-November-2024&color=green"></a>
+* 9-10: [Google Cloud Next](https://cloud.withgoogle.com/next) - Las Vegas, NV (USA)
 * 10: [Conf42.com Large Language Models (LLMs) 2025](https://www.conf42.com/llm2025) - Online <a href="https://www.papercall.io/conf42-large-language-models-llms-2025"><img alt="CFP Conf42.com Large Language Models (LLMs) 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-March-2025&color=green"></a>
 * 10-12: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece) <a href="https://dvgr24.cfp.dev/"><img alt="CFP Devoxx Greece 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2024&color=red"></a>
 * 14-17: [Explore DDD 2025](http://exploreddd.com) - Denver, CO (USA) <a href="https://sessionize.com/explore-ddd-2025"><img alt="CFP Explore DDD 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-August-2024&color=red"></a>
