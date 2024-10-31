@@ -397,6 +397,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-9: [Flutter Roadshow India 2024](https://flutterroadshow.com/) - Mumbai (India) <a href="https://sessionize.com/flutter-roadshow-2024/"><img alt="CFP Flutter Roadshow India 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=green"></a>
 * 10: [Dutch Cloud Native Day 2024](https://community.cncf.io/e/mjfygk/) - Amsterdam (Netherlands) <a href="https://sessionize.com/dutch-cloud-native-day-2024"><img alt="CFP Dutch Cloud Native Day 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=green"></a>
 * 10: [SOSS Community Day India](https://events.linuxfoundation.org/soss-community-day-india/) - Delhi (India)
+* 10-11: [GitKon](https://gitkon.com/) - Online
 * 10-11: [Open Source Software Stewards and Manufacturers Workshop](https://events.linuxfoundation.org/open-source-software-stewards-manufacturers-workshop/) - Amsterdam (Netherlands)
 * 11: [You Got This Winter 2024](https://yougotthis.io/events/winter-2024) - Online
 * 11: [AI Heroes](https://aiheroes.it/) - Torino (Italy)
@@ -470,6 +471,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-28: [Devworld Conference 2025](https://devworldconference.com) - Amsterdam (Netherlands) <a href="https://sessionize.com/devworld-conference-2025"><img alt="CFP Devworld Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-September-2024&color=red"></a>
 * 28: [TECH ROCKS ASIA 2025](https://techrocks.asia/) - Ho Chi Minh (Vietnam) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEZTE6YAGWyG7ug8FZRYr-RQvs2HDo8MRVLgObopO_kdBHHQ/viewform"><img alt="CFP Devworld Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-October-2024&color=red"></a>
 * 28: [DevFest Stockholm 2025](https://www.devfest-stockholm.com/) - Stockholm (Sweden) <a href="https://sessionize.com/devfest-stockholm-2025/"><img alt="CFP DevFest Stockholm 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2024&color=green"></a>
+* 28: [Paris TS La Conf](http://typescript.paris/) - Paris (France)
 
 ### March
 
