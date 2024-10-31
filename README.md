@@ -600,6 +600,7 @@ All the data (past and coming) are available publicly in JSON:
 ### October
 
 * 9-10: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France)
+* 12-14: [All Things Open](https://allthingsopen.org/save-the-date-now-for-ato-2025) - Raleigh, NC (USA)
 * 16-17: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France)
 * 22-23: [PyTorch Conference 2025](https://events.linuxfoundation.org/pytorch-conference-2025/) - San Francisco, CA (USA)
 
