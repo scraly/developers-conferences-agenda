@@ -407,6 +407,7 @@ All the data (past and coming) are available publicly in JSON:
 * 3: [APIdays Helsinki and North](https://www.apidays.global/helsinki_and_north/) - Helsinki (Finland) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Helsinki and North" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2025&color=green"></a>
 * 2-6: [DDD Europe - 2025](https://dddeurope.com/) - Antwerp (Belgium) <a href="https://sessionize.com/aardling2025"><img alt="CFP DDD Europe - 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2025&color=green"></a>
 * 11-13: [Render (RenderATL) 2025](https://www.renderatl.com) - Atlanta, GA (USA) <a href="https://sessionize.com/renderatl-2025/"><img alt="CFP Render (RenderATL) 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2024&color=green"></a>
+* 11-13: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 * 12-13: [DevLille](https://devlille.fr/) - Lille (France)
 * 16-19: [GopherCon Europe 2025: Summer Edition in Berlin](https://gophercon.eu) - Berlin (Germany)
 * 23-25: [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Denver, CO (USA) 
@@ -431,6 +432,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### October
 
+* 6-10: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
 * 9-10: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France)
 * 12-14: [All Things Open](https://allthingsopen.org/save-the-date-now-for-ato-2025) - Raleigh, NC (USA)
 * 16-17: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France)
@@ -455,6 +457,14 @@ All the data (past and coming) are available publicly in JSON:
 ### March
 
 * 23-26: [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) - Amsterdam (Netherlands)
+
+### April
+
+* 23-25: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece)
+
+### June
+
+* 17: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 
 ### October
 
