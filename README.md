@@ -383,7 +383,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 2: [Stir Trek 2025](https://stirtrek.com) - Columbus, OH (USA)
 * 5-6: [GopherCon Latam 2025](https://gopherconlatam.org) - Florianópolis (Brazil) <a href="https://www.papercall.io/gopherconlatam2025"><img alt="CFP GopherCon Latam 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-November-2024&color=green"></a>
-* 7-9: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
+* 7-9: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk25.cfp.dev/#/"><img alt="CFP devoxx uk 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2025&color=green"></a>
 * 9-11: [Evento de datos Valencia 2025](https://www.eventodedatos.com) - Valencia (Spain) <a href="https://sessionize.com/evento-de-datos-valencia-mayo-2025"><img alt="CFP Evento de datos Valencia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=green"></a>
 * 10: [Java Day Istanbul 2025](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2025"><img alt="CFP Java Day Istanbul 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=green"></a>
 * 13-14: [DevOps Days Geneva](https://devopsdays.org/events/2024-geneva/welcome/) - Geneva (Switzerland)
