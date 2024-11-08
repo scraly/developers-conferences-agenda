@@ -1159,6 +1159,10 @@
     "latitude": -12.0621065,
     "longitude": -77.0365256
   },
+  "Lincoln, NE (USA)": {
+    "latitude": 40.8136634,
+    "longitude": -96.7025764
+  },
   "Lingen (Germany)": {
     "latitude": 52.5224659,
     "longitude": 7.316584
@@ -2159,6 +2163,10 @@
     "latitude": 6.5781373,
     "longitude": 0.4502368
   },
+  "Warri (Nigeria)": {
+    "latitude": 5.549430399999999,
+    "longitude": 5.7668515
+  },
   "Warsaw (Poland)": {
     "latitude": 52.2337172,
     "longitude": 21.071432235636493
@@ -2266,5 +2274,9 @@
   "ibenik (Croatia)": {
     "latitude": 43.7350196,
     "longitude": 15.8952045
+  },
+  "Strigova (Croatia)": {
+    "latitude": 46.50011900000001,
+    "longitude": 16.2864315
   }
 }

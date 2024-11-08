@@ -171,6 +171,9 @@ All the data (past and coming) are available publicly in JSON:
 * 23: [DevFest Abuja](https://gdg.community.dev/events/details/google-gdg-abuja-presents-devfest-abuja-2024/) - Abuja (Nigeria)
 * 23: [DevFest Ibadan 2024](https://gdg.community.dev/e/mvgu5k/) - Ibadan (Nigeria) <a href="https://sessionize.com/devfest-ibadan-2024"><img alt="CFP DevFest Ibadan 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-October-2024&color=red"></a>
 * 23: [Devfest Bamenda x Bambili 2024](https://gdg.community.dev/events/details/google-gdg-bamenda-presents-devfest-bamenda-x-bambili-2024/) - Bamenda (Cameroon) <a href="https://sessionize.com/devfest-bamenda-x-bambili-2024"><img alt="CFP Devfest Bamenda x Bambili 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-October-2024&color=red"></a>
+* 23: [DevFest Warri 2024](https://gdg.community.dev/events/details/google-gdg-warri-presents-devfest-warri-2023/) - Warri (Nigeria) <a href="https://sessionize.com/devfest-warri-2024"><img alt="CFP DevFest Warri 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-November-2024&color=green"></a>
+* 24: [DevFest Udaipur 2024](https://gdg.community.dev/events/details/google-gdg-udaipur-presents-devfest-udaipur-2024/) - Udaipur (India) <a href="https://sessionize.com/devfest-udaipur-2024/"><img alt="CFP DevFest Udaipur 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=green"></a>
+* 24: [GDG Ahmedabad DevFest 2024](https://devfest.gdgahmedabad.com/) - Ahmedabad (India) <a href="https://sessionize.com/gdg-ahmedabad-devfest-2024/"><img alt="CFP GDG Ahmedabad DevFest 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2024&color=green"></a>
 * 24: [Devfest Sevilla 2024](https://devfest24.gdgsevilla.com/) - Sevilla (Spain) <a href="https://sessionize.com/devfest-sevilla-2024/"><img alt="CFP Devfest Sevilla 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=red"></a>
 * 24: [GDG Ahmedabad DevFest 2024](https://devfest.gdgahmedabad.com/) - Ahmedabad (India) <a href="https://sessionize.com/gdg-ahmedabad-devfest-2024/"><img alt="CFP GDG Ahmedabad DevFest 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=red"></a>
 * 25-26: [KCD Accra Ghana](https://community.cncf.io/kcd-ghana/) - Online <a href="https://sessionize.com/kcd-accra"><img alt="CFP Open Conf - 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2024&color=red"></a>
@@ -223,6 +226,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7: [Devfest Enugu 2024](https://gdg.community.dev/events/details/google-gdg-enugu-presents-devfest-enugu-2024/) - Enugu (Nigeria) <a href="https://sessionize.com/devfest-enugu-2024/"><img alt="CFP Devfest Enugu 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-October-2024&color=red"></a>
 * 7: [Posadev 2024](https://posadev.mx/) - Guadalajara (Mexico) <a href="https://sessionize.com/posadev-2024-cfp"><img alt="CFP Posadev 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-October-2024&color=red"></a>
 * 7: [DevFest Abomey-Calavi](https://gdg.community.dev/events/details/google-gdg-abomey-calavi-presents-devfest-abomey-calavi-2024/) - Abomey-Calavi (Benin)
+* 7: [Flutter Roadshow India 2024](https://flutterroadshow.com/) - Mumbai (India) <a href="https://sessionize.com/flutter-roadshow-2024/"><img alt="CFP Flutter Roadshow India 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=green"></a>
 * 7-8: [Winter of C++](https://winterofcpp.vercel.app/) - Amsterdam (Netherlands) <a href="https://forms.gle/ScdFFZQD6yPNFr9S8"><img alt="CFP Winter of C++" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2024&color=red"></a>
 * 7-9: [Flutter Roadshow India 2024](https://flutterroadshow.com/) - Mumbai (India) <a href="https://sessionize.com/flutter-roadshow-2024/"><img alt="CFP Flutter Roadshow India 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=red"></a>
 * 10: [Dutch Cloud Native Day 2024](https://community.cncf.io/e/mjfygk/) - Amsterdam (Netherlands) <a href="https://sessionize.com/dutch-cloud-native-day-2024"><img alt="CFP Dutch Cloud Native Day 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=red"></a>
@@ -291,8 +295,10 @@ All the data (past and coming) are available publicly in JSON:
 * 19-20: [Rust Nation UK 2025](https://www.papercall.io/rustnationuk25) - London (UK) <a href="https://www.papercall.io/rustnationuk25"><img alt="CFP Rust Nation UK 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2024&color=red"></a>
 * 20: [ServerlessDays Manchester](https://www.serverlessdaysmanchester.com/) - Manchester (UK) <a href="https://sessionize.com/serverlessdays-manchester/"><img alt="CFP ServerlessDays Manchester" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2024&color=green"></a>
 * 20-21: [RUHRSEC 2025](https://www.ruhrsec.de/2025/) - Bochum (Germany)  <a href="https://www.ruhrsec.de/2025/cfp.html"><img alt="CFP RUHRSEC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2024&color=green"></a>
+* 20-21: [HashiTalks 2025](https://hashi.co/hashitalks-2025) - Online <a href="https://sessionize.com/hashitalks-2025"><img alt="CFP HashiTalks 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2024&color=green"></a>
 * 22: [DDD Melbourne 2025](https://www.dddmelbourne.com/) - Melbourne (Australia) <a href="https://sessionize.com/ddd-melbourne-2025/"><img alt="CFP DDD Melbourne 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-November-2024&color=red"></a>
 * 24-26: [SQL Konferenz 2025](https://sqlkonferenz.de) - Hanau (Germany) <a href="https://sessionize.com/sql-konferenz-2025/"><img alt="CFP SQL Konferenz 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-November-2024&color=red"></a>
+* 25: [Ignite Summit 2025](https://ignite-summit.org) - Online <a href="https://sessionize.com/ignite-summit-2024"><img alt="CFP Ignite Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-January-2025&color=green"></a>
 * 26-27: [Tech Internals Conf](https://internals.tech/berlin/2025) - Berlin (Germany) <a href="https://cfp.internals.tech/berlin2025"><img alt="CFP Tech Internals Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-November-2024&color=red"></a>
 * 26-27: [Automotive Grade Linux All Member Meeting Spring](https://events.linuxfoundation.org/agl-amm/) - Tokyo (Japan)
 * 26-28: [nor(DEV): con 2025](https://nordevcon.com) - Norwich (UK) <a href="https://sessionize.com/norfolk-developers-conference-2025"><img alt="CFP Norfolk Developers Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-November-2024&color=green"></a>
@@ -306,6 +312,7 @@ All the data (past and coming) are available publicly in JSON:
 ### March
 
 * 1: [JSConf España](https://www.jsconf.es/) - Madrid (Spain) <a href="https://tally.so/r/3xyl4v"><img alt="CFP JSConf España" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-November-2024&color=green"></a>
+* 1: [HackGDL 2025](https://hackgdl.net/) - Guadalajara (Mexico) <a href="https://sessionize.com/hackgdl/"><img alt="CFP HackGDL 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-November-2024&color=green"></a>
 * 4: [SOSS Policy Summit DC](https://events.linuxfoundation.org/soss-policy-summit-dc/) - Washington D.C. (USA)
 * 4-6: [Devnexus 2025](https://devnexus.com/) - Atlanta, GA (USA) <a href="https://sessionize.com/devnexus-2025/"><img alt="CFP Devnexus 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2024&color=red"></a>
 * 6-7: [Code BEAM America 2025](https://codebeamamerica.com) - San Francisco, CA (USA) <a href="https://sessionize.com/code-beam-america-2025/"><img alt="CFP Code BEAM America 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2024&color=red"></a>
@@ -329,6 +336,7 @@ All the data (past and coming) are available publicly in JSON:
 * 25: [Voxxeddays Zurich 2025](https://zurich.voxxeddays.com/) - Zurich (Switzerland) <a href="https://vdz25.cfp.dev/#/login"><img alt="VoxxedDays Zürich 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%202-December-2024&color=green"></a>
 * 25: [ParisTestConf](https://paristestconf.com/) - Paris (France) <a href="https://sessionize.com/paristestconf-6/"><img alt="CFP ParisTestConf 6" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2024&color=green"></a>
 * 26: [Rustikon 2025](https://www.rustikon.dev) - Warsaw (Poland) <a href="https://sessionize.com/rustikon-2025"><img alt="CFP Rustikon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-October-2024&color=red"></a>
+* 26: [The DEVOPS Conference London 2025](https://www.thedevopsconference.com/london) - London (UK) <a href="https://sessionize.com/the-devops-conference-london-2025"><img alt="CFP The DEVOPS Conference London 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-November-2024&color=green"></a>
 * 26-27: [VoxxedDays Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2025/) - Bucharest (Romania) <a href="hhttps://vdbuh2025.cfp.dev/"><img alt="CFP VoxxedDays Bucharest 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=green"></a>
 * 26-28: [Booster Conference 2025](https://www.boosterconf.no/) - Bergen (Norway) <a href="https://sessionize.com/booster-conference-2025"><img alt="CFP Booster Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-October-2024&color=red"></a>
 * 26-28: [SeleniumConf & AppiumConf Valencia 2025](https://seleniumconf.com/) - Valencia (Spain) <a href="https://sessionize.com/seleniumconf-2025-valencia/"><img alt="CFP SeleniumConf & AppiumConf Valencia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2024&color=green"></a>
@@ -336,6 +344,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-28: [Scalar 2025](https://scalar-conf.com) - Warsaw (Poland) <a href="https://sessionize.com/scalar-2025"><img alt="CFP Scalar 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-October-2024&color=red"></a>
 * 27-28: [ScanAgile25](https://scan-agile.org/) - Helsinki (Finland) <a href="https://sessionize.com/scanagile25/"><img alt="CFP ScanAgile25" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2024&color=red"></a>
 * 28: [RustAsia 2025](https://www.rustasiaconf.com/) - Hong Kong (China) <a href="https://www.rustasiaconf.com/proposals"><img alt="CFP RustAsia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=green"></a>
+* 29: [BSides San Diego 2025](https://www.bsidessd.org/) - San Diego, CA (USA) <a href="https://sessionize.com/bsides-san-diego-2025/"><img alt="CFP BSides San Diego 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2024&color=green"></a>
 * 31-5/04: [SO-CON 2025](https://specterops.io/so-con/) - Arlington, VA (USA) <a href="https://sessionize.com/socon-2025"><img alt="CFP SO-CON 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=green"></a>
 
 ### April
@@ -368,6 +377,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-10: [Analytics and Data Summit 2025](http://andouc.org) - Redwood Shores, CA (USA) <a href="https://sessionize.com/andsummit2025/"><img alt="CFP Analytics and Data Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-November-2024&color=green"></a>
 * 9-10: [Google Cloud Next](https://cloud.withgoogle.com/next) - Las Vegas, NV (USA)
 * 10: [Conf42.com Large Language Models (LLMs) 2025](https://www.conf42.com/llm2025) - Online <a href="https://www.papercall.io/conf42-large-language-models-llms-2025"><img alt="CFP Conf42.com Large Language Models (LLMs) 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-March-2025&color=green"></a>
+* 10-11: [Android Makers](https://androidmakers.droidcon.com/) - Montrouge (France) <a href="https://sessionize.com/android-makers-by-droidcon-2025/"><img alt="CFP Android Makers by droidcon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2025&color=green"></a>
 * 10-12: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece) <a href="https://dvgr24.cfp.dev/"><img alt="CFP Devoxx Greece 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2024&color=green"></a>
 * 14-16: [Linux Storage, Filesystem, MM & BPF Summit](https://events.linuxfoundation.org/lsfmmbpf/) - Montreal (Canada)
 * 14-17: [Explore DDD 2025](http://exploreddd.com) - Denver, CO (USA) <a href="https://sessionize.com/explore-ddd-2025"><img alt="CFP Explore DDD 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-August-2024&color=red"></a>
@@ -382,13 +392,16 @@ All the data (past and coming) are available publicly in JSON:
 ### May
 
 * 2: [Stir Trek 2025](https://stirtrek.com) - Columbus, OH (USA)
+* 4-7: [Leaders In Tech 2025](https://www.leaders-in.tech/) - Tel Aviv (Israel) <a href="https://sessionize.com/leaders-in-tech25/"><img alt="CFP Leaders In Tech 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=green"></a>
 * 5-6: [GopherCon Latam 2025](https://gopherconlatam.org) - Florianópolis (Brazil) <a href="https://www.papercall.io/gopherconlatam2025"><img alt="CFP GopherCon Latam 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-November-2024&color=red"></a>
 * 7-9: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk25.cfp.dev/#/"><img alt="CFP devoxx uk 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2025&color=green"></a>
+* 9: [Weblica 2025](https://weblica.hr/) - Strigova (Croatia) <a href="https://sessionize.com/weblica-2025"><img alt="CFP Weblica 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-February-2025&color=green"></a>
 * 9-11: [Evento de datos Valencia 2025](https://www.eventodedatos.com) - Valencia (Spain) <a href="https://sessionize.com/evento-de-datos-valencia-mayo-2025"><img alt="CFP Evento de datos Valencia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=green"></a>
 * 10: [Java Day Istanbul 2025](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javaday-2025"><img alt="CFP Java Day Istanbul 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=green"></a>
 * 13-14: [DevOps Days Geneva](https://devopsdays.org/events/2024-geneva/welcome/) - Geneva (Switzerland)
 * 14-15: [APIdays New York](https://www.apidays.global/new-york/) - New York, NY (USA) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days New York" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2025&color=green"></a>
 * 15-16: [phpday 2025](https://2025.phpday.it) - Verona (Italy) <a href="https://sessionize.com/phpday-2025"><img alt="CFP phpday 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2025&color=green"></a>
+* 15-16: [ElixirConf EU 2025](https://www.elixirconf.eu/) - Krakow (Poland) <a href="https://sessionize.com/elixirconf-eu-2025"><img alt="CFP ElixirConf EU 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2024&color=green"></a>
 * 16: [AFUP Day 2025 Lille](https://event.afup.org/afup-day-2025/) - Lille (France) <a href="https://afup.org/event/afupday2025lille"><img alt="CFP AFUP Day Lille 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2024&color=green"></a>
 * 16: [AFUP Day 2025 Lyon](https://event.afup.org/afup-day-2025/) - Lyon (France) <a href="https://afup.org/event/afupday2025lyon"><img alt="CFP AFUP Day Lille 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2024&color=green"></a>
 * 16: [AFUP Day 2025 Poitiers](https://event.afup.org/afup-day-2025/) - Poitiers (France) <a href="https://afup.org/event/afupday2025poitiers"><img alt="CFP AFUP Day Lille 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2024&color=green"></a>
@@ -398,6 +411,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20-22: [Expo:QA](https://expoqa.eu) - Madrid (Spain) <a href="https://expoqa.eu/c4s/"><img alt="CFP Expo:QA" src="https://img.shields.io/static/v1?label=CFP&message=until%208-November-2024&color=green"></a>
 * 21-23: [Spring I/O](https://springio.net/) - Barcelona (Spain)
 * 21-23: [KotlinConf 2025](https://kotlinconf.com) - Copenhagen (Denmark) <a href="https://sessionize.com/kotlinconf-2025/"><img alt="CFP KotlinConf 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2024&color=green"></a>
+* 26-28: [OWASP Global AppSec EU 2025 - CFT](https://ccib.es/) - Barcelona (Spain) <a href="https://sessionize.com/owasp-global-appsec-eu-2025-cft/"><img alt="CFP OWASP Global AppSec EU 2025 - CFT" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-January-2025&color=green"></a>
 * 27-28: [JNation](http://jnation.pt) - Coimbra (Portugal) <a href="https://sessionize.com/jnation-2025/"><img alt="CFP JNation 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=green"></a>
 * 27-30: [Craft Conference 2025](https://craft-conf.com/2025) - Budapest (Hungary) <a href="https://www.papercall.io/craft2025"><img alt="CFP Craft Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=red"></a>
 * 28-30: [App.js 2025](https://appjs.co/) - Krakow (Poland)
@@ -410,7 +424,9 @@ All the data (past and coming) are available publicly in JSON:
 * 9-10: [DevBCN](http://www.devbcn.com) - Barcelona (Spain)
 * 11-13: [Render (RenderATL) 2025](https://www.renderatl.com) - Atlanta, GA (USA) <a href="https://sessionize.com/renderatl-2025/"><img alt="CFP Render (RenderATL) 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2024&color=green"></a>
 * 11-13: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
+* 12-13: [DevSum 2025](https://www.devsum.se) - Stockholm (Sweden) <a href="https://sessionize.com/devsum-2025"><img alt="CFP DevSum 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-December-2024&color=green"></a>
 * 12-13: [DevLille](https://devlille.fr/) - Lille (France)
+* 16-17: [Workplace Ninjas UK Edinburgh](https://wpninjas.uk) - Edinburgh (Scotland) <a href="https://sessionize.com/workplace-ninjas-uk-edinburgh"><img alt="CFP Workplace Ninjas UK Edinburgh" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
 * 16-19: [GopherCon Europe 2025: Summer Edition in Berlin](https://gophercon.eu) - Berlin (Germany)
 * 23-25: [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Denver, CO (USA) 
 * 24: [WAX 2025](https://www.waxconf.fr/) - Aix-en-Provence (France) <a href="https://conference-hall.io/wax2025"><img alt="CFP WAX 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-May-2025&color=green"></a>
@@ -423,8 +439,9 @@ All the data (past and coming) are available publicly in JSON:
 * 2-3: [APIdays Munich](https://www.apidays.global/munich/) - Munich (Germany) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Munich" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-June-2025&color=green"></a>
 * 3-4: [Agile On The Beach 2025](https://www.agileonthebeach.com) - Falmouth (UK) <a href="https://sessionize.com/agile-on-the-beach-2025/"><img alt="CFP Agile On The Beach 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2024&color=green"></a>
 * 9-10: [Automotive Grade Linux All Member Meeting Summer](https://events.linuxfoundation.org/agl-amm-summer/) - Berlin (Germany)
-* 9-11: [WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin (Germany)
+* 9-11: [WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin (Germany) <a href="https://sessionize.com/wearedevelopers-world-congress-2025"><img alt="CFP WeAreDevelopers World Congress 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2025&color=green"></a>
 * 17-20: [SoCraTes 2025](https://www.socrates-conference.de/) - Soltau (Germany)
+* 23-25: [Nebraska.Code() 2025](https://nebraskacode.amegala.com) - Lincoln, NE (USA) <a href="https://sessionize.com/nebraska-code-2025/"><img alt="CFP Nebraska.Code() 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-January-2025&color=green"></a>
 
 ### August
 
