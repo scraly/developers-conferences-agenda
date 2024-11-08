@@ -345,6 +345,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-28: [ScanAgile25](https://scan-agile.org/) - Helsinki (Finland) <a href="https://sessionize.com/scanagile25/"><img alt="CFP ScanAgile25" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2024&color=red"></a>
 * 28: [RustAsia 2025](https://www.rustasiaconf.com/) - Hong Kong (China) <a href="https://www.rustasiaconf.com/proposals"><img alt="CFP RustAsia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=green"></a>
 * 29: [BSides San Diego 2025](https://www.bsidessd.org/) - San Diego, CA (USA) <a href="https://sessionize.com/bsides-san-diego-2025/"><img alt="CFP BSides San Diego 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2024&color=green"></a>
+* 31-2/04: [Microsoft Fabric Community Conference](https://fabricconf.com/) - Las Vegas, NV (USA) <a href="https://sessionize.com/fabric-community-conference"><img alt="CFP FabCon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-December-2024&color=green"></a>
 * 31-5/04: [SO-CON 2025](https://specterops.io/so-con/) - Arlington, VA (USA) <a href="https://sessionize.com/socon-2025"><img alt="CFP SO-CON 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=green"></a>
 
 ### April
