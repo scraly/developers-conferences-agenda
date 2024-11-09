@@ -1943,6 +1943,10 @@
     "latitude": 48.584614,
     "longitude": 7.7507127
   },
+  "Strigova (Croatia)": {
+    "latitude": 46.50011900000001,
+    "longitude": 16.2864315
+  },
   "Stuttgart (Germany)": {
     "latitude": 48.7758459,
     "longitude": 9.1829321
@@ -2274,9 +2278,5 @@
   "ibenik (Croatia)": {
     "latitude": 43.7350196,
     "longitude": 15.8952045
-  },
-  "Strigova (Croatia)": {
-    "latitude": 46.50011900000001,
-    "longitude": 16.2864315
   }
 }
