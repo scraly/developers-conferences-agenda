@@ -318,6 +318,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-7: [Code BEAM America 2025](https://codebeamamerica.com) - San Francisco, CA (USA) <a href="https://sessionize.com/code-beam-america-2025/"><img alt="CFP Code BEAM America 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2024&color=red"></a>
 * 6-7: [Planet Nix](https://planetnix.com/) - Pasadena, CA (USA) <a href="https://sessionize.com/planet-nix-2025/"><img alt="CFP Planet Nix" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-December-2024&color=green"></a>
 * 6-9: [Southern California Linux Expo 22x](https://www.socallinuxexpo.org) - Pasadena, CA (USA)
+* 7: [DevOpsDays LA](https://devopsdays.org/events/2025-los-angeles/welcome/) - Pasadena, CA (USA)
 * 12-13: [DevOpsDays Zurich](https://www.devopsdays.ch) - Winterthur, Zurich (Switzerland) <a href="https://sessionize.com/devopsdays-zurich-2025/"><img alt="CFP DevOpsDays Zurich 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2024&color=green"></a>
 * 12-13: [Vue.js Amsterdam](https://vuejs.amsterdam/) - Amsterdam (Netherlands)
 * 13: [dxday 2025](https://2025.dxday.it) - Bologna (Italy) <a href="https://sessionize.com/dxday-2025"><img alt="CFP dxday 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=red"></a>
