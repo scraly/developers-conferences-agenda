@@ -408,7 +408,7 @@ All the data (past and coming) are available publicly in JSON:
 * 16: [AFUP Day 2025 Lille](https://event.afup.org/afup-day-2025/) - Lille (France) <a href="https://afup.org/event/afupday2025lille"><img alt="CFP AFUP Day Lille 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2024&color=red"></a>
 * 16: [AFUP Day 2025 Lyon](https://event.afup.org/afup-day-2025/) - Lyon (France) <a href="https://afup.org/event/afupday2025lyon"><img alt="CFP AFUP Day Lille 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2024&color=red"></a>
 * 16: [AFUP Day 2025 Poitiers](https://event.afup.org/afup-day-2025/) - Poitiers (France) <a href="https://afup.org/event/afupday2025poitiers"><img alt="CFP AFUP Day Lille 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2024&color=red"></a>
-* 19-22: [JCON EUROPE 2025](https://jcon.one/) - Cologne (Germany)
+* 19-22: [JCON EUROPE 2025](https://jcon.one/) - Cologne (Germany) <a href="https://sessionize.com/jcon-europe-2025"><img alt="CFP JCON EUROPE 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-November-2024&color=green"></a>
 * 19-23: [NDC Oslo 2025](https://ndcoslo.com/) - Oslo (Norway)
 * 20-22: [php tek 2025](https://phptek.io) - Chicago, IL (USA) <a href="https://sessionize.com/phptek-2025"><img alt="CFP php[tek] 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=green"></a>
 * 20-22: [Expo:QA](https://expoqa.eu) - Madrid (Spain) <a href="https://expoqa.eu/c4s/"><img alt="CFP Expo:QA" src="https://img.shields.io/static/v1?label=CFP&message=until%208-November-2024&color=green"></a>
