@@ -312,7 +312,7 @@ All the data (past and coming) are available publicly in JSON:
 ### March
 
 * 1: [JSConf España](https://www.jsconf.es/) - Madrid (Spain) <a href="https://tally.so/r/3xyl4v"><img alt="CFP JSConf España" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-November-2024&color=red"></a>
-* 1: [HackGDL 2025](https://hackgdl.net/) - Guadalajara (Mexico) <a href="https://sessionize.com/hackgdl/"><img alt="CFP HackGDL 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-November-2024&color=green"></a>
+* 1: [HackGDL 2025](https://hackgdl.net/) - Guadalajara (Mexico) <a href="https://sessionize.com/hackgdl/"><img alt="CFP HackGDL 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-November-2024&color=red"></a>
 * 4: [SOSS Policy Summit DC](https://events.linuxfoundation.org/soss-policy-summit-dc/) - Washington D.C. (USA)
 * 4-6: [Devnexus 2025](https://devnexus.com/) - Atlanta, GA (USA) <a href="https://sessionize.com/devnexus-2025/"><img alt="CFP Devnexus 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2024&color=red"></a>
 * 6-7: [Code BEAM America 2025](https://codebeamamerica.com) - San Francisco, CA (USA) <a href="https://sessionize.com/code-beam-america-2025/"><img alt="CFP Code BEAM America 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2024&color=red"></a>
@@ -414,7 +414,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19-22: [JCON EUROPE 2025](https://jcon.one/) - Cologne (Germany) <a href="https://sessionize.com/jcon-europe-2025"><img alt="CFP JCON EUROPE 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-November-2024&color=green"></a>
 * 19-23: [NDC Oslo 2025](https://ndcoslo.com/) - Oslo (Norway)
 * 20-22: [php tek 2025](https://phptek.io) - Chicago, IL (USA) <a href="https://sessionize.com/phptek-2025"><img alt="CFP php[tek] 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=red"></a>
-* 20-22: [Expo:QA](https://expoqa.eu) - Madrid (Spain) <a href="https://expoqa.eu/c4s/"><img alt="CFP Expo:QA" src="https://img.shields.io/static/v1?label=CFP&message=until%208-November-2024&color=green"></a>
+* 20-22: [Expo:QA](https://expoqa.eu) - Madrid (Spain) <a href="https://expoqa.eu/c4s/"><img alt="CFP Expo:QA" src="https://img.shields.io/static/v1?label=CFP&message=until%208-November-2024&color=red"></a>
 * 21-23: [Spring I/O](https://springio.net/) - Barcelona (Spain)
 * 21-23: [KotlinConf 2025](https://kotlinconf.com) - Copenhagen (Denmark) <a href="https://sessionize.com/kotlinconf-2025/"><img alt="CFP KotlinConf 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2024&color=green"></a>
 * 26-28: [OWASP Global AppSec EU 2025 - CFT](https://ccib.es/) - Barcelona (Spain) <a href="https://sessionize.com/owasp-global-appsec-eu-2025-cft/"><img alt="CFP OWASP Global AppSec EU 2025 - CFT" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-January-2025&color=green"></a>
