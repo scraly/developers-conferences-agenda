@@ -471,10 +471,6 @@
     "latitude": 13.0836939,
     "longitude": 80.270186
   },
-  "Cheverny in the Châteaux of the Loire Valley (France)": {
-    "latitude": 47.49973,
-    "longitude": 1.46013
-  },
   "Chicago, IL (USA)": {
     "latitude": 41.8755616,
     "longitude": -87.6244212
@@ -550,6 +546,10 @@
   "Coruna (Spain)": {
     "latitude": 43.3709703,
     "longitude": -8.3959425
+  },
+  "Cour-Cheverny (France)": {
+    "latitude": 47.512759,
+    "longitude": 1.4588243
   },
   "Craiova (Romania)": {
     "latitude": 44.3190159,
