@@ -491,6 +491,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-11: [WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin (Germany) <a href="https://sessionize.com/wearedevelopers-world-congress-2025"><img alt="CFP WeAreDevelopers World Congress 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2025&color=green"></a>
 * 15-17: [eduWeb Summit 2025](https://www.eduwebsummit.com) - Portland, ME (USA) <a href="https://sessionize.com/eduweb-summit-2025/"><img alt="CFP eduWeb Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-December-2024&color=green"></a>
 * 17-20: [SoCraTes 2025](https://www.socrates-conference.de/) - Soltau (Germany)
+* 21-22: [Cloud Native Summit Munich](https://cloudnativesummit.de/) - Munich (Germany)
 * 23-25: [Nebraska.Code() 2025](https://nebraskacode.amegala.com) - Lincoln, NE (USA) <a href="https://sessionize.com/nebraska-code-2025/"><img alt="CFP Nebraska.Code() 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-January-2025&color=green"></a>
 
 ### August
