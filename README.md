@@ -255,13 +255,12 @@ All the data (past and coming) are available publicly in JSON:
 
 ### January
 
-* 5: [PyConf Hyderabad 2025](https://2025.pyconfhyd.org) - Hyderabad (India) <a href="https://www.papercall.io/pyconfhyd2025"><img alt="CFP PyConf Hyderabad 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-January-0001&color=red"></a>
 * 14-17: [CodeMash 2025](https://www.codemash.org) - Sandusky, OH (USA) <a href="https://sessionize.com/codemash-2025"><img alt="CFP CodeMash 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2024&color=red"></a>
 * 15: [Voxxed Days CERN](https://cern.voxxeddays.com/) - Geneva (Switzerland) <a href="https://vdcern25.cfp.dev"><img alt="CFP Voxxed Days Cern" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-October-2024&color=red"></a>
 * 17: [Voxxed Days Ticino](https://ticino.voxxeddays.com/) - Lugano (Switzerland) <a href="https://vdt25.cfp.dev"><img alt="CFP Voxxed Days Ticino" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-October-2024&color=red"></a>
 * 15-17: [iOS Conf SG](https://iosconf.sg) - Singapore (Singapore) <a href="https://www.papercall.io/iosconfsg2025"><img alt="CFP iOS Conf SG" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-September-2024&color=red"></a>
 * 16: [HashiTalks: América Latina](https://hashi.co/hashitalks-america-latina) - Online <a href="https://sessionize.com/hashitalks-america-latina"><img alt="CFP HashiTalks: América Latina" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-December-2024&color=green"></a>
-* 18: [DevFest Philly](https://www.papercall.io/devfest-philly) - Philadelphia, PA (USA) <a href="https://www.papercall.io/devfest-philly"><img alt="CFP DevFest Philly" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-January-0001&color=red"></a>
+* 18: [DevFest Philly](https://www.papercall.io/devfest-philly) - Philadelphia, PA (USA) <a href="https://www.papercall.io/devfest-philly"><img alt="CFP DevFest Philly" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2024&color=red"></a>
 * 20-23: [NDC Security 2025](https://ndc-security.com/) - Oslo (Norway) <a href="https://sessionize.com/ndc-security-2025"><img alt="CFP NDC Security 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2024&color=red"></a>
 * 22-23: [Cybersec Asia 2025](http://www.cybersec-asia.net) - Bangkok (Thailand) <a href="https://www.papercall.io/cybersecasia25"><img alt="CFP Cybersec Asia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2024&color=green"></a>
 * 22-23: [Chaos Carnival 2025](https://chaoscarnival.io/) - Online <a href="https://www.papercall.io/chaoscarnival2025"><img alt="CFP Chaos Carnival 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-November-2024&color=red"></a>
