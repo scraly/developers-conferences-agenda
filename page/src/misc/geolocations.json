@@ -663,9 +663,17 @@
     "latitude": 51.4392648,
     "longitude": 5.478633
   },
+  "Eisenstadt (Austria)": {
+    "latitude": 47.8404525,
+    "longitude": 16.5252498
+  },
   "Eket (Nigeria)": {
     "latitude": 4.646736499999999,
     "longitude": 7.9429421
+  },
+  "Eldoret (Kenya)": {
+    "latitude": 0.5142774999999999,
+    "longitude": 35.2697802
   },
   "Enugu (Nigeria)": {
     "latitude": 6.448270099999999,
@@ -738,6 +746,10 @@
   "Gdansk (Poland)": {
     "latitude": 54.3706858,
     "longitude": 18.61298210330077
+  },
+  "Gdynia (Poland)": {
+    "latitude": 54.518352,
+    "longitude": 18.5291932
   },
   "Geldrop (Netherlands)": {
     "latitude": 51.4226684,
@@ -1639,9 +1651,9 @@
     "latitude": -20.1624522,
     "longitude": 57.5028044
   },
-  "Portland, Maine (USA)": {
-    "latitude": 43.6589742,
-    "longitude": -70.2569578
+  "Portland, ME (USA)": {
+    "latitude": 43.6590993,
+    "longitude": -70.2568189
   },
   "Portland, OR (USA)": {
     "latitude": 45.5202471,
@@ -1714,6 +1726,10 @@
   "Redwood Shores, CA (USA)": {
     "latitude": 37.5364134,
     "longitude": -122.2455364
+  },
+  "Regina (Canada)": {
+    "latitude": 50.4452112,
+    "longitude": -104.6188944
   },
   "Rennes (France)": {
     "latitude": 48.1113387,
