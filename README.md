@@ -422,6 +422,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17-18: [React Miami](https://www.reactmiami.com/) - Miami, FL (USA) <a href="https://forms.gle/icwjhV7qWjzEs3tJ8"><img alt="CFP React Miami" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-December-2024&color=green"></a>
 * 29: [NDC Melbourne 2025](https://ndcmelbourne.com) - Melbourne (Australia) <a href="https://sessionize.com/ndc-melbourne-2025"><img alt="CFP NDC Melbourne 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2024&color=red"></a>
 * 29-30: [DevOpsDays Aarhus](https://devopsdays.org/events/2025-aarhus) - Aarhus (Denmark)
+* 29-30: [MixIT](https://mixitconf.org/) - Lyon (France) <a href="https://sessionize.com/mixit-2025/"><img alt="CFP MixIT 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-January-2025&color=green"></a>
 * 29-1/5: [NDC Melbourne 2025](https://ndcmelbourne.com) - Melbourne (Australia) <a href="https://sessionize.com/ndc-melbourne-2025"><img alt="CFP NDC Melbourne 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2024&color=red"></a>
 
 ### May
