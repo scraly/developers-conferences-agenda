@@ -469,7 +469,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-11: [x33fcon training 2025](https://www.x33fcon.com/#!training.md) - Gdynia (Poland) <a href="https://www.papercall.io/x33fcon-training-2025"><img alt="CFP x33fcon training 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2025&color=green"></a>
 * 10-11: [KubeCon + CloudNativeCon China 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/) - Hong Kong (China)
 * 10-12: [POSETTE: An Event for Postgres 2025](https://posetteconf.com/2025/) - Online <a href="https://sessionize.com/posette2025"><img alt="CFP POSETTE: An Event for Postgres 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2025&color=green"></a>
-* 11-12: [Cloud Native Zurich](https://cloudnativezurich.ch/) - Zurich, Switzerland
+* 11-12: [Cloud Native Zurich](https://cloudnativezurich.ch/) - Zurich (Switzerland)
 * 11-13: [Render (RenderATL) 2025](https://www.renderatl.com) - Atlanta, GA (USA) <a href="https://sessionize.com/renderatl-2025/"><img alt="CFP Render (RenderATL) 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2024&color=green"></a>
 * 11-13: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 * 12-13: [DevSum 2025](https://www.devsum.se) - Stockholm (Sweden) <a href="https://sessionize.com/devsum-2025"><img alt="CFP DevSum 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-December-2024&color=green"></a>
@@ -511,7 +511,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 4: [Conf42.com Platform Engineering 2025](https://www.conf42.com/platform2024) - Online <a href="https://www.papercall.io/conf42-platform-engineering-2025"><img alt="CFP Conf42.com Platform Engineering 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2025&color=green"></a>
 * 18: [Conf42.com MLOps 2025](https://www.conf42.com/mlops2025) - Online <a href="https://www.papercall.io/conf42-mlops-2025"><img alt="CFP Conf42.com MLOps 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-August-2025&color=green"></a>
-* 18: [Swiss Cloud Native Day](https://cloudnativeday.ch/) - Bern, Switzerland <a href="https://sessionize.com/swiss-cloud-native-day-2025"><img alt="CFP Swiss Clodu Native Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2025&color=green"></a>
+* 18: [Swiss Cloud Native Day](https://cloudnativeday.ch/) - Bern (Switzerland) <a href="https://sessionize.com/swiss-cloud-native-day-2025"><img alt="CFP Swiss Clodu Native Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2025&color=green"></a>
 * 18-19: [API Platform Conference](https://api-platform.com/con/2025/) - Lille (France) & Online
 
 ### October
