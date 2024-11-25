@@ -468,6 +468,7 @@ All the data (past and coming) are available publicly in JSON:
 * 3: [APIdays Helsinki and North](https://www.apidays.global/helsinki_and_north/) - Helsinki (Finland) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Helsinki and North" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2025&color=green"></a>
 * 2-6: [DDD Europe - 2025](https://dddeurope.com/) - Antwerp (Belgium) <a href="https://sessionize.com/aardling2025"><img alt="CFP DDD Europe - 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2025&color=green"></a>
 * 5: [Conf42.com Observability 2025](https://www.conf42.com/obs2025) - Online <a href="https://www.papercall.io/conf42-observability-2025"><img alt="CFP Conf42.com Observability 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-May-2025&color=green"></a>
+* 9-10: [InfoQ Dev Summit Boston](https://devsummit.infoq.com/conference/boston2025) - Boston, MA (USA)
 * 9-10: [DevBCN](http://www.devbcn.com) - Barcelona (Spain)
 * 9-11: [x33fcon training 2025](https://www.x33fcon.com/#!training.md) - Gdynia (Poland) <a href="https://www.papercall.io/x33fcon-training-2025"><img alt="CFP x33fcon training 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2025&color=green"></a>
 * 10-11: [KubeCon + CloudNativeCon China 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/) - Hong Kong (China)
