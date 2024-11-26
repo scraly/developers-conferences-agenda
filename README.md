@@ -463,6 +463,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-28: [JNation](http://jnation.pt) - Coimbra (Portugal) <a href="https://sessionize.com/jnation-2025/"><img alt="CFP JNation 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=green"></a>
 * 27-30: [Craft Conference 2025](https://craft-conf.com/2025) - Budapest (Hungary) <a href="https://www.papercall.io/craft2025"><img alt="CFP Craft Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=red"></a>
 * 28-30: [App.js 2025](https://appjs.co/) - Krakow (Poland)
+* 28-30: [JCON OpenBlend Slovenia 2025](https://slovenia.jcon.one/) - Portorož (Slovenia) <a href="https://sessionize.com/makeit-2025-jcon-openblend-slovenia"><img alt="CFP JCON OpenBlend Slovenia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2025&color=green"></a>
 * 28-31: [PyCon Italia](https://2025.pycon.it/) - Bologna (Italy)
 
 ### June
