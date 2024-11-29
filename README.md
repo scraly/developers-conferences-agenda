@@ -519,6 +519,7 @@ All the data (past and coming) are available publicly in JSON:
 ### September
 
 * 4: [Conf42.com Platform Engineering 2025](https://www.conf42.com/platform2024) - Online <a href="https://www.papercall.io/conf42-platform-engineering-2025"><img alt="CFP Conf42.com Platform Engineering 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2025&color=green"></a>
+* 9-11: [Container Days Hamburg](https://www.containerdays.io/containerdays-conference-2025/) - Hamburg (Germany)
 * 18: [Conf42.com MLOps 2025](https://www.conf42.com/mlops2025) - Online <a href="https://www.papercall.io/conf42-mlops-2025"><img alt="CFP Conf42.com MLOps 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-August-2025&color=green"></a>
 * 18: [Swiss Cloud Native Day](https://cloudnativeday.ch/) - Bern (Switzerland) <a href="https://sessionize.com/swiss-cloud-native-day-2025"><img alt="CFP Swiss Clodu Native Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2025&color=green"></a>
 * 18-19: [API Platform Conference](https://api-platform.com/con/2025/) - Lille (France) & Online
