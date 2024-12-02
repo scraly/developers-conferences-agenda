@@ -474,7 +474,6 @@ All the data (past and coming) are available publicly in JSON:
 * 2-6: [DDD Europe - 2025](https://dddeurope.com/) - Antwerp (Belgium) <a href="https://sessionize.com/aardling2025"><img alt="CFP DDD Europe - 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2025&color=green"></a>
 * 5: [Conf42.com Observability 2025](https://www.conf42.com/obs2025) - Online <a href="https://www.papercall.io/conf42-observability-2025"><img alt="CFP Conf42.com Observability 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-May-2025&color=green"></a>
 * 9-10: [InfoQ Dev Summit Boston](https://devsummit.infoq.com/conference/boston2025) - Boston, MA (USA)
-* 9-10: [DevBCN](http://www.devbcn.com) - Barcelona (Spain)
 * 9-11: [x33fcon training 2025](https://www.x33fcon.com/#!training.md) - Gdynia (Poland) <a href="https://www.papercall.io/x33fcon-training-2025"><img alt="CFP x33fcon training 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2025&color=green"></a>
 * 10-11: [KubeCon + CloudNativeCon China 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/) - Hong Kong (China)
 * 10-12: [POSETTE: An Event for Postgres 2025](https://posetteconf.com/2025/) - Online <a href="https://sessionize.com/posette2025"><img alt="CFP POSETTE: An Event for Postgres 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2025&color=green"></a>
@@ -502,6 +501,7 @@ All the data (past and coming) are available publicly in JSON:
 * 2-3: [APIdays Munich](https://www.apidays.global/munich/) - Munich (Germany) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Munich" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-June-2025&color=green"></a>
 * 3: [KCD Utrecht](https://kcdutrecht.nl/) - Utrecht (Netherlands)
 * 3-4: [Agile On The Beach 2025](https://www.agileonthebeach.com) - Falmouth (UK) <a href="https://sessionize.com/agile-on-the-beach-2025/"><img alt="CFP Agile On The Beach 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2024&color=red"></a>
+* 9-10: [DevBCN](http://www.devbcn.com) - Barcelona (Spain)
 * 9-10: [Automotive Grade Linux All Member Meeting Summer](https://events.linuxfoundation.org/agl-amm-summer/) - Berlin (Germany)
 * 9-11: [WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin (Germany) <a href="https://sessionize.com/wearedevelopers-world-congress-2025"><img alt="CFP WeAreDevelopers World Congress 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2025&color=green"></a>
 * 15-17: [eduWeb Summit 2025](https://www.eduwebsummit.com) - Portland, ME (USA) <a href="https://sessionize.com/eduweb-summit-2025/"><img alt="CFP eduWeb Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-December-2024&color=green"></a>
