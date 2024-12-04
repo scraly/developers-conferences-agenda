@@ -101,6 +101,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22-25: [SnowCamp 2025](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/snow-camp-2025"><img alt="CFP SnowCamp 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2024&color=red"></a>
 * 23: [Conf42.com DevOps 2025](https://www.conf42.com/devops2025) - Online <a href="https://www.papercall.io/conf42-devops-2025"><img alt="CFP Conf42.com DevOps 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2024&color=green"></a>
 * 23: [HashiTalks: Israel](https://hashi.co/hashitalks-israel) - Online <a href="https://sessionize.com/hashitalks-israel"><img alt="CFP HashiTalks: Israel" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-December-2024&color=green"></a>
+* 23: [Cloud Native Day Oslo](https://cloudnativeday.no/) - Oslo (Norway) <a href="https://sessionize.com/cloud-native-day-oslo-2025/"><img alt="CFP Cloud Native Day Oslo" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=green"></a>
 * 23-24: [Coderful](https://coderful.io) - Catania (Italy)
 * 24: [GopherCon Singapore 2025](https://2025.gophercon.sg) - Singapore (Singapore) <a href="https://www.papercall.io/gopherconsg-2024"><img alt="CFP GopherCon Singapore 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2024&color=red"></a>
 * 24: [Cloud-Native AI Day Singapore](https://www.meetup.com/docker-singapore/events/304594268/) - Singapore (Singapore)
