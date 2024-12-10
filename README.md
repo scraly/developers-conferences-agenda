@@ -82,6 +82,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19: [Normandie.ai 2024](https://normandie.ai) - Rouen (France) <a href="https://conference-hall.io/normandie-ai"><img alt="Normandie.ai 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-November-2024&color=red"></a>
 * 20: [Call for Agile For Italy](https://sessionize.com/call-for-agile-for-italy/) - Milan (Italy) <a href="https://sessionize.com/call-for-agile-for-italy"><img alt="CFP Call for Agile For Italy" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-January-2025&color=green"></a>
 * 22: [Cloud @ Devfest by GDG Cloud Kolkata](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-clouddevfest-kolkata/) - Kolkata (India) <a href="https://sessionize.com/cloud-devfest-kolkata"><img alt="CFP Cloud @ Devfest by GDG Cloud Kolkata" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2024&color=red"></a>
+* 22: [DevFest Raipur 2024](https://www.townscript.com/e/devfest-raipur-2024-142240) - Raipur (India)
 * 27-29: [DevFest Uganda 2024](https://gdg.community.dev/events/details/google-gdg-luwero-presents-devfest-uganda-2024/) - Kampala (Uganda) <a href="https://sessionize.com/devfest-uganda-2024/"><img alt="CFP DevFest Uganda 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=red"></a>
 
 ## 2025
