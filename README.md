@@ -207,6 +207,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-28: [Scalar 2025](https://scalar-conf.com) - Warsaw (Poland) <a href="https://sessionize.com/scalar-2025"><img alt="CFP Scalar 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-October-2024&color=red"></a>
 * 27-28: [ScanAgile25](https://scan-agile.org/) - Helsinki (Finland) <a href="https://sessionize.com/scanagile25/"><img alt="CFP ScanAgile25" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2024&color=red"></a>
 * 28: [RustAsia 2025](https://www.rustasiaconf.com/) - Hong Kong (China) <a href="https://www.rustasiaconf.com/proposals"><img alt="CFP RustAsia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=green"></a>
+* 28: [DataDays](https://days.data-lille.fr/2025/) - Lille (France) <a href="https://conference-hall.io/data-days-lille-2025"><img alt="CFP DataDays 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2025&color=green"></a>
 * 28-29: [Agile Games France 2025](https://agilegamesfrance.fr/) - Lille (France)
 * 29: [BSides San Diego 2025](https://www.bsidessd.org/) - San Diego, CA (USA) <a href="https://sessionize.com/bsides-san-diego-2025/"><img alt="CFP BSides San Diego 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2024&color=red"></a>
 * 30-31: [Cloud Native Rejekts EU 2025](https://cloud-native.rejekts.io/) - London (UK)
