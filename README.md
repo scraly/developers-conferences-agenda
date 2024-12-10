@@ -319,6 +319,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-13: [DevSum 2025](https://www.devsum.se) - Stockholm (Sweden) <a href="https://sessionize.com/devsum-2025"><img alt="CFP DevSum 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-December-2024&color=red"></a>
 * 12-13: [x33fcon conference 2025](https://www.x33fcon.com) -  Gdynia (Poland) <a href="https://www.papercall.io/x33fcon-conference-2025"><img alt="CFP x33fcon conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2025&color=green"></a>
 * 12-13: [x33fcon workshops 2025](https://www.x33fcon.com) - Gdynia (Poland) <a href="https://www.papercall.io/x33fcon-workshops-2025"><img alt="CFP x33fcon workshops 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2025&color=green"></a>
+* 12-13: [Agile Tour Toulouse](https://tour.agiletoulouse.fr/) - Toulouse (France)
 * 12-14: [Baltic Ruby](https://balticruby.org) - Riga (Latvia) <a href="https://www.papercall.io/balticruby25"><img alt="CFP Baltic Ruby" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-January-2025&color=green"></a>
 * 12-13: [DevLille](https://devlille.fr/) - Lille (France)
 * 16-17: [Workplace Ninjas UK Edinburgh](https://wpninjas.uk) - Edinburgh (Scotland) <a href="https://sessionize.com/workplace-ninjas-uk-edinburgh"><img alt="CFP Workplace Ninjas UK Edinburgh" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
