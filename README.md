@@ -329,7 +329,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19: [Conf42.com Quantum Computing 2024](https://www.conf42.com/quantum2025) - Online <a href="https://www.papercall.io/conf42-quantum-computing-2025"><img alt="CFP Conf42.com Quantum Computing 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2025&color=green"></a>
 * 23-25: [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Denver, CO (USA) 
 * 24: [WAX 2025](https://www.waxconf.fr/) - Aix-en-Provence (France) <a href="https://conference-hall.io/wax2025"><img alt="CFP WAX 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-May-2025&color=green"></a>
-* 25: [ReactNext 2025]([https://www.react-next.com/](https://www.react-next.com/)) - Tel Aviv (Israel) <img alt="CFP Until 15 Feb 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2025&color=green"></a>
+* 25: [ReactNext 2025](https://www.react-next.com/) - Tel Aviv (Israel) <img alt="CFP ReactNext 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2025&color=green"></a>
 * 26: [NodeTLV 2025]([https://www.nodetlv.com/](https://www.nodetlv.com/)) - Tel Aviv (Israel) <img alt="CFP Until 15 Feb 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2025&color=green"></a>
 * 26-27: [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/sunny-tech-2025"><img alt="CFP SunnyTech 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-Feb-2025&color=green"></a>
 * 26-27: [Linux Security Summit North America](https://events.linuxfoundation.org/linux-security-summit-north-america/) - Denver, CO (USA)
