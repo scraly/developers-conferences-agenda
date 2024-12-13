@@ -739,6 +739,10 @@
     "latitude": 50.1106444,
     "longitude": 8.6820917
   },
+  "Fresno, CA (USA)": {
+    "latitude": 36.7377981,
+    "longitude": -119.7871247
+  },
   "Gabrovo (Bulgaria)": {
     "latitude": 42.9638895,
     "longitude": 25.211953846464205
@@ -838,6 +842,10 @@
   "Grenoble (France)": {
     "latitude": 45.1875602,
     "longitude": 5.7357819
+  },
+  "Groningen (Netherlands)": {
+    "latitude": 53.2193835,
+    "longitude": 6.566501799999999
   },
   "Guadalajara (Mexico)": {
     "latitude": 20.6720375,
@@ -1166,6 +1174,10 @@
   "Lille (France)": {
     "latitude": 50.6365654,
     "longitude": 3.0635282
+  },
+  "Lillehammer (Norway)": {
+    "latitude": 61.1152713,
+    "longitude": 10.4662306
   },
   "Lillestrøm (Norway)": {
     "latitude": 59.9559696,
@@ -1546,6 +1558,10 @@
   "Ottawa, ON (Canada)": {
     "latitude": 45.4208777,
     "longitude": -75.6901106
+  },
+  "Ouddorp (Netherlands)": {
+    "latitude": 51.8090723,
+    "longitude": 3.9352037
   },
   "Oviedo (Spain)": {
     "latitude": 43.3622522,
