@@ -114,7 +114,6 @@ All the data (past and coming) are available publicly in JSON:
 * 25: [Data Toboggan - Winter Edition 2025](https://www.datatoboggan.co.uk/) - Online <a href="https://sessionize.com/data-toboggan-winter-edition-2025/"><img alt="CFP Data Toboggan - Winter Edition 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-December-2024&color=green"></a>
 * 27-31: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://sessionize.com/ndc-london-2025/"><img alt="CFP NDC London 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2024&color=red"></a>
 * 28-29: [Cybersec Asia 2025](http://www.cybersec-asia.net) - Bangkok (Thailand) <a href="https://www.papercall.io/cybersecasia25"><img alt="CFP Cybersec Asia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2024&color=red"></a>
-* 30: [DevOps D-Day #9](https://www.devopsdday.com/) - Marseille (France) <a href="https://conference-hall.io/devops-dday-2025"><img alt="CFP DevOps D-Day #9" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-October-2024&color=red"></a>
 * 30-31: [Cloud Technology Townhall Tallinn 2025](https://cloudtechtallinn.com/) - Tallinn (Estonia) <a href="https://sessionize.com/cloud-technology-townhall-tallinn-2025/"><img alt="CFP Cloud Technology Townhall Tallinn 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2024&color=red"></a>
 * 31: [HalfStack Phoenix](https://halfstackconf.com/phoenix) - Gilbert, AZ (USA)
 
