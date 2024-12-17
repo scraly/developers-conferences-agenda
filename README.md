@@ -90,6 +90,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### January
 
+* 11: [DevFest Dakar 2025](https://gdg.community.dev/events/details/google-gdg-dakar-presents-devfest-dakar-24/) - Dakar (Senegal) <a href="https://sessionize.com/devfest-24-dakar/"><img alt="CFP DevFest Dakar 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-December-2024&color=green"></a>
 * 14-17: [CodeMash 2025](https://www.codemash.org) - Sandusky, OH (USA) <a href="https://sessionize.com/codemash-2025"><img alt="CFP CodeMash 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2024&color=red"></a>
 * 15: [Voxxed Days CERN](https://cern.voxxeddays.com/) - Geneva (Switzerland) <a href="https://vdcern25.cfp.dev"><img alt="CFP Voxxed Days Cern" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-October-2024&color=red"></a>
 * 17: [Voxxed Days Ticino](https://ticino.voxxeddays.com/) - Lugano (Switzerland) <a href="https://vdt25.cfp.dev"><img alt="CFP Voxxed Days Ticino" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-October-2024&color=red"></a>
