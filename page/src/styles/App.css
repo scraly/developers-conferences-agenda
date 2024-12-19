@@ -46,7 +46,7 @@ body * {
   cursor: pointer;
 }
 
-.downloadButton:hover{
+.downloadButton:hover {
   cursor: pointer;
   transition: transform 0.5s;
   transform: scale(1.07);
@@ -75,20 +75,67 @@ body > footer {
   background-color: #333;
 }
 
+body > footer {
+  background: #222;
+  color: #e6e6e6;
+  padding: 2rem 0;
+  display: grid;
+  grid-template-columns: 1fr minmax(300px, 90vw) 1fr;
+  font-size: small;
+}
+
 body > footer > .content {
   grid-column: 2;
+  text-align: center;
 }
 
-.footer {
-  color: inherit;
+.footer-link {
+  color: #ddd;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.3s ease;
 }
 
-input, select {
-  font-family: inherit;
-  border-radius: 3px;
-  border: 0;
+.footer-link:hover {
+  color: #fff;
+  border-bottom: 1px solid #fff;
 }
 
-input[type=text] {
-  border: solid 1px #aaa;
+.footer-links {
+  margin-top: 1rem;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links ul li {
+  margin: 0.5rem 0;
+}
+
+.footer-links ul li a {
+  color: #bbb;
+  
+  transition: color 0.3s ease;
+}
+
+.footer-links ul li a:hover {
+  color: #fff;
+}
+
+.footer-links p {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  body > footer {
+    padding: 1rem;
+  }
+
+  body > footer > .content {
+    grid-column: 1 / -1;
+  }
 }
