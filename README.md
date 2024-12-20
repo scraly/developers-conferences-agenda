@@ -300,6 +300,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 2: [Stir Trek 2025](https://stirtrek.com) - Columbus, OH (USA)
 * 2: [BSides Groningen](https://bsidesgrunn.org) - Groningen (Netherlands) <a href="https://sessionize.com/bsidesgrunn/"><img alt="CFP BSides Groningen" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
+* 3: [KCD Costa Rica](https://community.cncf.io/events/details/cncf-kcd-costa-rica-presents-kcd-costa-rica-2025/) - Heredia (Costa Rica) <a href="https://sessionize.com/kcd-costa-rica-2025/"><img alt="CFP KCD Costa Rica" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2025&color=green"></a>
 * 4-7: [Leaders In Tech 2025](https://www.leaders-in.tech/) - Tel Aviv (Israel) <a href="https://sessionize.com/leaders-in-tech25/"><img alt="CFP Leaders In Tech 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=green"></a>
 * 5-6: [GopherCon Latam 2025](https://gopherconlatam.org) - Florianópolis (Brazil) <a href="https://www.papercall.io/gopherconlatam2025"><img alt="CFP GopherCon Latam 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-November-2024&color=red"></a>
 * 5-6: [Cloud Native Days Romania](https://cloudnativedays.ro/) - Bucharest (Romania) <a href="https://sessionize.com/cloud-native-days-2025"><img alt="CFP Cloud Native Days Romania" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=green"></a>
