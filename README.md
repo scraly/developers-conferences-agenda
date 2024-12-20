@@ -227,6 +227,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28: [DataDays](https://days.data-lille.fr/2025/) - Lille (France) <a href="https://conference-hall.io/data-days-lille-2025"><img alt="CFP DataDays 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2025&color=green"></a>
 * 28-29: [Agile Games France 2025](https://agilegamesfrance.fr/) - Lille (France)
 * 29: [BSides San Diego 2025](https://www.bsidessd.org/) - San Diego, CA (USA) <a href="https://sessionize.com/bsides-san-diego-2025/"><img alt="CFP BSides San Diego 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2024&color=red"></a>
+* 29: [KCD Kubernetes Community Days Guadalajara](https://ccoss.org/) - Guadalajara (Mexico) <a href="https://sessionize.com/kcd-guadalajara-2025/"><img alt="CFP KCD Guadalajara 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2024&color=green"></a>
 * 30-31: [Cloud Native Rejekts EU 2025](https://cloud-native.rejekts.io/) - London (UK)
 * 31-2/04: [Microsoft Fabric Community Conference](https://fabricconf.com/) - Las Vegas, NV (USA) <a href="https://sessionize.com/fabric-community-conference"><img alt="CFP FabCon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-December-2024&color=red"></a>
 * 31-5/04: [SO-CON 2025](https://specterops.io/so-con/) - Arlington, VA (USA) <a href="https://sessionize.com/socon-2025"><img alt="CFP SO-CON 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=red"></a>
