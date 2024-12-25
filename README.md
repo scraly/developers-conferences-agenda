@@ -200,6 +200,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18-21: [Webdevcon 2025](https://webdevcon.nl) - Amsterdam (Netherlands) <a href="https://sessionize.com/webdevcon-2025/"><img alt="CFP Webdevcon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-December-2024&color=red"></a>
 * 19: [Current Bengaluru 2025](https://current.confluent.io/bengaluru) - Bangalore (India) <a href="https://sessionize.com/current-bengaluru-2025"><img alt="CFP Current Bengaluru 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-December-2024&color=red"></a>
 * 19: [RVATech Data & AI Summit 2025](https://rvatech.com/rvatech-events/2025-rvatech-data-summit/) - Richmond, VA (USA) <a href="https://www.papercall.io/rvatechdataai2025"><img alt="CFP RVATech Data & AI Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2024&color=red"></a>
+* 19-21: [React Paris](https://react.paris/) - Paris (France) <a href="https://forms.gle/KfsWGQH2Xn2N2Nua8"><img alt="CFP React Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-December-2024&color=green"></a>
 * 20: [PGDay Paris](https://2025.pgday.paris) - Paris (France)
 * 20: [BSides Regina 2025](https://bsidesregina.ca) - Regina (Canada) <a href="https://www.papercall.io/bsidesregina2025"><img alt="CFP BSides Regina 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-January-2025&color=green"></a>
 * 20-21: [Agile Niort](https://agileniort.fr/) - Niort (France) <a href="https://sessionize.com/agile-niort-2025"><img alt="CFP Agile Niort 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-January-2025&color=green"></a>
@@ -383,7 +384,7 @@ All the data (past and coming) are available publicly in JSON:
 * 16-19: [GopherCon Europe 2025: Summer Edition in Berlin](https://gophercon.eu) - Berlin (Germany)
 * 19: [Conf42.com Quantum Computing 2024](https://www.conf42.com/quantum2025) - Online <a href="https://www.papercall.io/conf42-quantum-computing-2025"><img alt="CFP Conf42.com Quantum Computing 2024" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-May-2025&color=green"></a>
 * 19-21: [State of the Map US 2025](https://2025.stateofthemap.us/) - Boston, MA (USA) <a href="https://sessionize.com/state-of-the-map-us-2025/"><img alt="CFP State of the Map US 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=green"></a>
-* 23-25: [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Denver, CO (USA) 
+* 23-25: [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Denver, CO (USA)
 * 24: [WAX 2025](https://www.waxconf.fr/) - Aix-en-Provence (France) <a href="https://conference-hall.io/wax2025"><img alt="CFP WAX 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-May-2025&color=green"></a>
 * 25: [ReactNext 2025](https://www.react-next.com/) - Tel Aviv (Israel) <a href="https://sessionize.com/reactnext-2025/"><img alt="CFP ReactNext 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2025&color=green"></a>
 * 25: [KCD New York](https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2025/) - New York, NY (USA) <a href="https://sessionize.com/reactnext-2025/"><img alt="CFP KCD New York 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
@@ -429,7 +430,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### October
 
-* 1-2: [TestBash Brighton 2025](https://www.ministryoftesting.com/events/testbash-brighton-2025) - Brighton (UK) <a href="https://www.ministryoftesting.com/contribute"><img alt="CFP TestBash Brighton 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-December-2025&color=green"></a> 
+* 1-2: [TestBash Brighton 2025](https://www.ministryoftesting.com/events/testbash-brighton-2025) - Brighton (UK) <a href="https://www.ministryoftesting.com/contribute"><img alt="CFP TestBash Brighton 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-December-2025&color=green"></a>
 * 2: [Conf42.com Incident Management 2025](https://www.conf42.com/im2025) - Online <a href="https://www.papercall.io/conf42-incident-management-2025"><img alt="CFP Conf42.com Incident Management 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2025&color=green"></a>
 * 2-3: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France)
 * 6-10: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
