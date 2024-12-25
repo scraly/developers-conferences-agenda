@@ -447,6 +447,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4-7: [NewCrafts 2025](https://ncrafts.io/) - Paris (France) <a href="https://sessionize.com/ncrafts/"><img alt="CFP NewCrafts 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2025&color=green"></a>
 * 6: [dotAI 2025](https://www.dotai.io/) - Paris (France) <a href="https://www.dotai.io/speak"><img alt="CFP dotAI 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=green"></a>
 * 6: [Conf42.com Prompt Engineering 2025](https://www.conf42.com/prompt2025) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2025"><img alt="CFP Conf42.com Prompt Engineering 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-October-2025&color=green"></a>
+* 7: [BDX I/O](https://bdxio.fr) - Bordeaux (France)
 * 10-13: [KubeCon + CloudNativeCon NA 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2025/) - Atlanta, GA (USA)
 * 12-14: [Devoxx Morocco](https://devoxx.ma/) - Marrakech (Morocco)
 * 13-14: [The Commit Your Code Conference 2025!](https://www.CommitYourCode.com) - Dallas, TX (USA) <a href="https://sessionize.com/the-commit-your-code-conference-2025/"><img alt="CFP The Commit Your Code Conference 2025!" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
