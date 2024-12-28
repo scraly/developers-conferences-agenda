@@ -199,6 +199,10 @@
     "latitude": 30.4514677,
     "longitude": -91.18714659999999
   },
+  "Beijing (China)": {
+    "latitude": 39.904211,
+    "longitude": 116.407395
+  },
   "Beirut (Lebanon)": {
     "latitude": 33.8959203,
     "longitude": 35.47843
@@ -1534,6 +1538,10 @@
   "Oakland, CA (USA)": {
     "latitude": 37.8044557,
     "longitude": -122.271356
+  },
+  "Odense (Denmark)": {
+    "latitude": 55.40375599999999,
+    "longitude": 10.40237
   },
   "Ogun (Nigeria)": {
     "latitude": 6.997974699999999,
