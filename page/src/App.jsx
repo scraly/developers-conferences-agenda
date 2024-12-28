@@ -8,7 +8,7 @@ import { DatePage } from 'routes/datepage';
 import { MapPage } from 'routes/mappage';
 import { ListPage } from 'routes/listpage';
 import { FilterContext } from 'contexts/FilterContext';
-import ScrollToTopButton from './components/ScrollToTopButton';
+import ScrollToTopButton from './components/ScrollToTopButton/ScrollToTopButton';
 
 const App = () => {
   // TODO: DRY
