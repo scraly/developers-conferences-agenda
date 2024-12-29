@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import 'styles/ScrollToTopButton.css';
 
-const ScrollToTopButton = () => {
+export const ScrollToTopButton = () => {
   const [isVisible, setIsVisible] = useState(false);
 
   const toggleVisibility = () => {
@@ -35,5 +35,3 @@ const ScrollToTopButton = () => {
     )
   );
 };
-
-export default ScrollToTopButton;
