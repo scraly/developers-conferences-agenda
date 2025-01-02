@@ -75,6 +75,7 @@ All the data (past and coming) are available publicly in JSON:
 * 3-5: [NANOG 93](https://nanog.org/events/nanog-93/) - Atlanta, GA (USA)
 * 3-5: [Jfokus 2025](https://www.jfokus.se/) - Stockholm (Sweden) <a href="https://sessionize.com/jfokus-2025"><img alt="CFP Jfokus 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2024&color=red"></a>
 * 3-7: [BlaBlaConf - 100% Moroccan Dialect](https://www.blablaconf.com/) - Online <a href="https://sessionize.com/blablaconf-2025"><img alt="CFP BlaBlaConf 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2024&color=red"></a>
+* 4-5: [State Of Open Con 2025](https://stateofopencon.com/) - London (UK)
 * 6: [CyberConVA 2025](https://rvatech.com/rvatech-events/cyberconva-2025/) - Richmond, VA (USA) <a href="https://www.papercall.io/cyberconva2025"><img alt="CFP CyberConVA 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-October-2024&color=red"></a>
 * 6: [DecompileD 2025](https://decompiled.de) - Dresden (Germany) <a href="https://sessionize.com/decompiled25"><img alt="CFP DecompileD 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2024&color=red"></a>
 * 6: [Conf42.com Chaos Engineering 2025](https://www.conf42.com/ce2025) - Online <a href="https://www.papercall.io/conf42-chaos-engineering-2025"><img alt="CFP Conf42.com Chaos Engineering 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-January-2025&color=green"></a>
