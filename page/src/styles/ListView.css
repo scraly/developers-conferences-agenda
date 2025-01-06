@@ -111,6 +111,12 @@
     padding: 0.5rem;
 }
 
+.event-list-entry .cfp-date {
+  color: #666;
+  font-style: italic;
+  margin-left: 10px;
+}
+
 @media screen and (max-width: 660px) {
     .dcaContent { /* TODO: Make this available to anywhere, not just this page. */
         width: 100%;

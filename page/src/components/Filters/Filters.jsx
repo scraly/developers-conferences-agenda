@@ -98,6 +98,14 @@ const Filters = () => {
             {countriesList.map((c) => (<option value={c} key={c}>{c}</option>))}
           </select>
         </div>}
+
+      <div className='filtersItem'>
+        <label htmlFor='filter-sort'>Sort (list view only):</label>
+        <select value={search.sort} id='filter-sort' onChange={(e) => onChange('sort', e.target.value)}>
+          <option value='date'>Event Start Date</option>
+          <option value='cfp'>CFP Close Date</option>
+        </select>
+      </div>
     </div>
   );
 };
