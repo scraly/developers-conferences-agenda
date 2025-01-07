@@ -4,6 +4,8 @@ import { Clock, Link, CalendarClock } from 'lucide-react';
 
 import {useYearEvents} from 'app.hooks';
 import {getMonthName, getMonthNames} from 'utils';
+import ShortDate from 'components/ShortDate/ShortDate';
+
 
 const CfpView = () => {
   let events = useYearEvents();
@@ -18,23 +20,25 @@ const CfpView = () => {
   events = events.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date());
 
   const eventsByMonth = events.reduce((acc, cur) => {
-    const currentMonth = getMonthName(new Date(cur.date[0]).getMonth());
-    if (!acc[currentMonth]) {
-      acc[currentMonth] = [];
+    let monthKey;
+      monthKey = getMonthName(new Date(cur.cfp.untilDate).getMonth());
+    if (!acc[monthKey]) {
+      acc[monthKey] = [];
     }
-    acc[currentMonth].push(cur);
-    if (cur.date.length > 1) {
-      const nextMonth = getMonthName(new Date(cur.date[1]).getMonth());
-      if (currentMonth !== nextMonth) {
-        if (!acc[nextMonth]) {
-          acc[nextMonth] = [];
-        }
-        acc[nextMonth].push(cur);
-      }
-    }
-    return acc;
-  }, {});
+    acc[monthKey].push(cur);
 
+        return acc;
+      }, {});
+
+  // Get the month names in the correct order based on sort type
+  const monthOrder = Object.keys(eventsByMonth).sort((a, b) => {
+    const monthA = getMonthNames().indexOf(a);
+    const monthB = getMonthNames().indexOf(b);
+    return monthA - monthB;
+  });
+
+
+  //TODO: Fix: Order in closing date for every months!
   return (
     <div className="cfpView">
       {getMonthNames()
@@ -49,8 +53,9 @@ const CfpView = () => {
                 
                 <div className="content">
                   <b>{e.name} {e.hyperlink ? <a href={e.hyperlink} target="_blank"><Link /></a> : ''}</b>
+                  <ShortDate dates={e.date} />
                   
-                <span><Clock color="green" /> Until {e.cfp.until} </span>
+                  <span><Clock color="green" /> Until {e.cfp.until} </span>
 
                 <span>{e.location}</span>
 
@@ -66,8 +71,11 @@ const CfpView = () => {
             </div>
           </React.Fragment>
         ))}
+     
+
     </div>
   );
+
 };
 
 export default CfpView;
