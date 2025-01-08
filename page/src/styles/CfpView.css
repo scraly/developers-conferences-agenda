@@ -154,6 +154,9 @@
     cursor: pointer;
     text-align: center;
     background-color: #4299e1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .content b {
@@ -169,4 +172,14 @@
     flex-grow: 1;
     display: flex;
     flex-direction: column;
+}
+
+.until {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin: 0.5rem auto;
+    svg{
+        margin-right: 0.5rem;
+    }
 }
