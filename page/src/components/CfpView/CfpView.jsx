@@ -6,18 +6,17 @@ import {useYearEvents} from 'app.hooks';
 import {getMonthName, getMonthNames} from 'utils';
 import ShortDate from 'components/ShortDate/ShortDate';
 
-
 const CfpView = () => {
   let events = useYearEvents();
+
+    // Display only opened callForPapers
+    events = events.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date());
 
    // Sort CFPs based on the closing date
    events = events.sort((a, b) => {
       if (!a.cfp?.untilDate || !b.cfp?.untilDate) return 0;
       return new Date(a.cfp.untilDate) - new Date(b.cfp.untilDate);
   });
-
-  // Display only opened callForPapers
-  events = events.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date());
 
   const eventsByMonth = events.reduce((acc, cur) => {
     let monthKey;
@@ -27,8 +26,8 @@ const CfpView = () => {
     }
     acc[monthKey].push(cur);
 
-        return acc;
-      }, {});
+    return acc;
+  }, {});
 
   // Get the month names in the correct order based on sort type
   const monthOrder = Object.keys(eventsByMonth).sort((a, b) => {
@@ -38,41 +37,36 @@ const CfpView = () => {
   });
 
 
-  //TODO: Fix: Order in closing date for every months!
   return (
     <div className="cfpView">
-      {getMonthNames()
-        .filter(m => eventsByMonth[m])
-        .map(month => (
-          <React.Fragment key={month}>
-            <h1>{month}</h1>
-            <div className="eventsGridDisplay">
-            {eventsByMonth[month].map((e, i) => (
+      {monthOrder.map(month => (
+        <React.Fragment key={month}>
+          <h1>{month} Opened CFPs:</h1>
+          <div className="eventsGridDisplay">
+          {eventsByMonth[month].map((e, i) => (
 
-              <div key={`${month}_ev_${i}`} className='eventCell'>
-                
-                <div className="content">
-                  <b>{e.name} {e.hyperlink ? <a href={e.hyperlink} target="_blank"><Link /></a> : ''}</b>
-                  <ShortDate dates={e.date} />
-                  
-                  <span><Clock color="green" /> Until {e.cfp.until} </span>
+          <div key={`${month}_ev_${i}`} className='eventCell'>
+  
+            <div className="content">
+              <b>{e.name} {e.hyperlink ? <a href={e.hyperlink} target="_blank"><Link /></a> : ''}</b>
+              <ShortDate dates={e.date} />
+              
+              <span><Clock color="green" /> Until {e.cfp.until} </span>
 
-                <span>{e.location}</span>
+              <span>{e.location}</span>
 
-                  {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}
+              {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}
 
-                  <a href={e.cfp.link} target="_blank" title="Submit to the CFP" className="downloadButton">
-                    <CalendarClock />
-                    Submit to the CFP
-                  </a>
-
-              </div></div>
-            ))}
+              <a href={e.cfp.link} target="_blank" title="Submit to the CFP" className="downloadButton">
+                <CalendarClock />
+                Submit to the CFP
+              </a>
             </div>
-          </React.Fragment>
-        ))}
-     
-
+          </div>
+          ))}
+          </div>
+        </React.Fragment>
+      ))}
     </div>
   );
 
