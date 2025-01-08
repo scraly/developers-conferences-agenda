@@ -55,8 +55,6 @@ const CfpView = () => {
                 <span><Clock color="green" /> Until {e.cfp.until} </span>
 
                 <span>{e.location}</span>
-
-                {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}
               </div>
               <a href={e.cfp.link} target="_blank" title="Submit to the CFP" className="submitButton">
                 <CalendarClock />
