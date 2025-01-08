@@ -92,3 +92,7 @@ input, select {
 input[type=text] {
   border: solid 1px #aaa;
 }
+
+.overflow-hidden {
+  overflow: hidden;
+}

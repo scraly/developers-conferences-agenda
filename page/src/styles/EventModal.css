@@ -1,0 +1,69 @@
+.modal-container {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  width: 60vw;
+  height: 70vh;
+  transform: translate(-50%, -50%) scale(0.8);
+  overflow-y: auto;
+  background-color: white;
+  border: 1px solid gray;
+  border-radius: 1rem;
+  transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.3s ease;
+  opacity: 0;
+  z-index: 1000;
+}
+
+
+.scale-full {
+  transform: translate(-50%, -50%) scale(1);
+  opacity: 1;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  left: 0;
+  background-color: white;
+  padding: 1rem;
+  z-index: 1001; /* Ensure header stays above content when scrolling */
+}
+
+.modal-body {
+  padding: 0 1rem;
+  display: grid;
+  grid-template-columns: repeat(2, auto); /* Better syntax for grid */
+  gap: 1rem;
+}
+
+.close-button {
+  background: none;
+  border: 1px solid black;
+  color: black;
+  height: 30px;
+  width: 30px;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.close-button:hover {
+  background-color: #f0f0f0;
+}
+
+@media screen and (max-width: 600px) {
+  .modal-body {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .modal-body {
+    grid-template-columns: repeat(3, auto);
+  }
+}

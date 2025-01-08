@@ -1,34 +1,34 @@
 import Day from 'components/Day/Day';
 import Week from 'components/Week/Week';
 import {useMemo} from 'react';
-import {useNavigate, useSearchParams, useParams} from 'react-router-dom';
+import {useParams} from 'react-router-dom';
 
+import {useMonthEvents, useYearEvents} from 'app.hooks';
 import 'styles/Calendar.css';
-import {daysToWeeks} from './Calendar.utils';
-import {useYearEvents, useMonthEvents} from 'app.hooks';
 import {getMonthName} from 'utils';
+import {daysToWeeks} from './Calendar.utils';
 
 const DaysName = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'];
 
-const Calendar = ({month, days}) => {
-  const yearEvents = useYearEvents()
-  const monthEvents = useMonthEvents(yearEvents, month)
-  const navigate = useNavigate();
+const Calendar = ({month, days, openModal}) => {
+  const yearEvents = useYearEvents();
+  const monthEvents = useMonthEvents(yearEvents, month);
   const {year} = useParams();
-  const [searchParams] = useSearchParams();
 
   const weeks = useMemo(() => daysToWeeks(days), [days]);
-  const weeksAndDays = useMemo(() => weeks.map((week, w) => {
-      return {id: w, days: week.map((day, d) => ({day: day, id: d}))}
-  }), [weeks]);
+  const weeksAndDays = useMemo(
+    () =>
+      weeks.map((week, w) => {
+        return {id: w, days: week.map((day, d) => ({day: day, id: d}))};
+      }),
+    [weeks]
+  );
 
   return (
     <div>
       <div
         className="header"
-        onClick={() =>
-          navigate(`/${year}/calendar/${month}/0?${searchParams.toString()}`)
-        }
+        onClick={() => openModal(getMonthName(month) + ' ' + year, monthEvents)}
       >
         <span>{getMonthName(month)}</span>
       </div>
@@ -38,10 +38,17 @@ const Calendar = ({month, days}) => {
         ))}
       </div>
       <div className="weeks">
-        {weeksAndDays.map((week) => (
-            <Week key={`week_${week.id}`}>
-                {week.days.map((day) => (<Day key={`day_${day.id}`} date={day.day} events={monthEvents}/>))}
-            </Week>
+        {weeksAndDays.map(week => (
+          <Week key={`week_${week.id}`}>
+            {week.days.map(day => (
+              <Day
+                key={`day_${day.id}`}
+                date={day.day}
+                events={monthEvents}
+                openModal={openModal}
+              />
+            ))}
+          </Week>
         ))}
       </div>
     </div>
