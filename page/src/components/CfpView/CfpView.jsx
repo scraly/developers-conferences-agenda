@@ -57,9 +57,9 @@ const CfpView = () => {
 
               {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}
 
-              <a href={e.cfp.link} target="_blank" title="Submit to the CFP" className="downloadButton">
+              <a href={e.cfp.link} target="_blank" title="Submit to the CFP" className="submitButton">
                 <CalendarClock />
-                Submit to the CFP
+                &nbsp; Submit to the CFP
               </a>
             </div>
           </div>

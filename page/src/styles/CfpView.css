@@ -145,4 +145,27 @@
     gap: 1rem;
     padding: 5rem;
     justify-content: center;
+}
+
+.submitButton {
+    text-decoration: none;
+    color: white !important;
+    margin: 1rem;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    text-align: center;
+    background-color: #4299e1;
   }
+
+.content b {
+    font-size: 1.10rem;
+    margin-left: 1rem;
+}
+
+.content span {
+    margin-left: 1rem;
+}
