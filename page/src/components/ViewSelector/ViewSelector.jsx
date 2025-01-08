@@ -14,21 +14,29 @@ const ViewSelector = ({selected}) => {
         className={selected === 'cfp' ? 'view-selector cfp-view selected' : 'view-selector cfp-view'}
         onClick={() => navigate(`/${year}/cfp?${createSearchParams(searchParams)}`)}
         size={'32px'}
+        aria-label="Opened CFPs"
+        title="Opened CFPs"
       />
       <Calendar
         className={selected === 'calendar' ? 'view-selector calendar-view selected' :  'view-selector calendar-view'}
         onClick={() => navigate(`/${year}/calendar?${createSearchParams(searchParams)}`)}
         size={'32px'}
+        aria-label="Calendar"
+        title="Calendar"
       />
       <List
         className={selected === 'list' ? 'view-selector list-view selected' : 'view-selector list-view'}
         onClick={() => navigate(`/${year}/list?${createSearchParams(searchParams)}`)}
         size={'32px'}
+        aria-label="List"
+        title="List"
       />
       <Map
         className={selected === 'map' ? 'view-selector map-view selected' : 'view-selector map-view'}
         onClick={() => navigate(`/${year}/map?${createSearchParams(searchParams)}`)}
         size={'32px'}
+        aria-label="Map"
+        title="Map"
       />
     </div>
   );

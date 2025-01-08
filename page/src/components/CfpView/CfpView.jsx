@@ -1,6 +1,6 @@
 import React from 'react';
 import 'styles/CfpView.css';
-import { Clock, Link, CalendarClock } from 'lucide-react';
+import { Clock, CalendarClock } from 'lucide-react';
 
 import {useYearEvents} from 'app.hooks';
 import {getMonthName, getMonthNames} from 'utils';
