@@ -48,15 +48,16 @@ const CfpView = () => {
           <div key={`${month}_ev_${i}`} className='eventCell'>
   
             <div className="content">
-              <b>{e.name} {e.hyperlink ? <a href={e.hyperlink} target="_blank"><Link /></a> : ''}</b>
-              <ShortDate dates={e.date} />
-              
-              <span><Clock color="green" /> Until {e.cfp.until} </span>
+              <div>
+                <b>{e.name} {e.hyperlink ? <a href={e.hyperlink} target="_blank"><Link /></a> : ''}</b>
+                <ShortDate dates={e.date} />
+                
+                <span><Clock color="green" /> Until {e.cfp.until} </span>
 
-              <span>{e.location}</span>
+                <span>{e.location}</span>
 
-              {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}
-
+                {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}
+              </div>
               <a href={e.cfp.link} target="_blank" title="Submit to the CFP" className="submitButton">
                 <CalendarClock />
                 &nbsp; Submit to the CFP

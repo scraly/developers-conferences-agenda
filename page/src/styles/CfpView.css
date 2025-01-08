@@ -36,11 +36,6 @@
   width: 100%;
 }
 
-.cfpView .eventsGridDisplay .eventCell {
-  /* background: white; */
-}
-
-
 .event-list-entry > header {
     display: flex;
     width: 100%;
@@ -159,7 +154,7 @@
     cursor: pointer;
     text-align: center;
     background-color: #4299e1;
-  }
+}
 
 .content b {
     font-size: 1.10rem;
@@ -168,4 +163,10 @@
 
 .content span {
     margin-left: 1rem;
+}
+
+.content > div {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
 }
