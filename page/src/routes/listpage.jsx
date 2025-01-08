@@ -1,6 +1,5 @@
 import Filters from "components/Filters/Filters";
 import ListView from "components/ListView/ListView";
-import ViewSelector from "components/ViewSelector/ViewSelector";
 import YearSelector from "components/YearSelector/YearSelector";
 import { createSearchParams, useNavigate, useParams, useSearchParams } from "react-router-dom";
 

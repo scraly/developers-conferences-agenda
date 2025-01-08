@@ -1,6 +1,5 @@
 import Filters from "components/Filters/Filters";
 import CfpView from "components/CfpView/CfpView";
-import ViewSelector from "components/ViewSelector/ViewSelector";
 import YearSelector from "components/YearSelector/YearSelector";
 import { createSearchParams, useNavigate, useParams, useSearchParams } from "react-router-dom";
 
@@ -11,7 +10,9 @@ export function CfpPage() {
 
     return (
         <div className="dcaGrid">
-          <Filters/>
+          <Filters
+            view="cfp"
+          />
           <div className="dcaContent">
             <YearSelector
               isMap={false}

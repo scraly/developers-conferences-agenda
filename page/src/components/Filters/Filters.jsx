@@ -8,7 +8,7 @@ import { useCountries, useRegions, useRegionsMap } from 'app.hooks';
 import 'styles/Filters.css';
 import { FilterContext } from 'contexts/FilterContext';
 
-const Filters = () => {
+const Filters = ({ view }) => {
   const context = useContext(FilterContext);
   const [searchParams, setSearchParams] = useSearchParams(context.searchParams);
   const [open, setOpen] = useState(context.open);
@@ -64,18 +64,26 @@ const Filters = () => {
       </div>
 
       <div className='filtersList'>
+
+
+        {view != "cfp" ? 
         <div className='filtersItem'>
           <input checked={search.callForPapers == 'true'} type='checkbox' id='filter-call-for-papers' onChange={(e) => onChange('callForPapers', e.target.checked)} />
           <label htmlFor='filter-call-for-papers'>Call For Papers Open</label>
-        </div>
+        </div> : ''}
+
+        {view != "cfp" ?
         <div className='filtersItem'>
           <input checked={search.closedCaptions == 'true'} type='checkbox' id='filter-closed-captions' onChange={(e) => onChange('closedCaptions', e.target.checked)} />
           <label htmlFor='filter-closed-captions'>Closed Captions</label>
-        </div>
+        </div> : ''}
+
+        {view != "cfp" ?
         <div className='filtersItem'>
           <input checked={search.scholarship == 'true'} type='checkbox' id='filter-scholarship' onChange={(e) => onChange('scholarship', e.target.checked)} />
           <label htmlFor='filter-scholarship'>Scholarship</label>
-        </div>
+        </div> : ''}
+
         <div className='filtersItem'>
           <input checked={search.online == 'true'} type='checkbox' id='filter-online' onChange={(e) => onChange('online', e.target.checked)} />
           <label htmlFor='filter-online'>Online</label>
