@@ -1,4 +1,6 @@
-# Developers Conferences Agenda/List
+# Developers Conferences & CFP Agenda/List/Map
+
+--> [developers.events](https://developers.events) <--
 
 This repository lists a maximum of conference dates to help conference organizers.
 
