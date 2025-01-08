@@ -328,7 +328,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5-6: [AlpesCraft](https://www.alpescraft.fr/) - Grenoble (France)
 * 9-10: [InfoQ Dev Summit Boston](https://devsummit.infoq.com/conference/boston2025) - Boston, MA (USA)
 * 9-11: [x33fcon training 2025](https://www.x33fcon.com/#!training.md) - Gdynia (Poland) <a href="https://www.papercall.io/x33fcon-training-2025"><img alt="CFP x33fcon training 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2025&color=green"></a>
-* 10-11: [KubeCon + CloudNativeCon China 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/) - Hong Kong (China)
+* 10-11: [KubeCon + CloudNativeCon China 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/) - Hong Kong (China) <a href="https://sessionize.com/kubecon-cloudnativecon-china-2025/"><img alt="CFP KubeCon + CloudNativeCon China 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2025&color=green"></a>
 * 10-12: [POSETTE: An Event for Postgres 2025](https://posetteconf.com/2025/) - Online <a href="https://sessionize.com/posette2025"><img alt="CFP POSETTE: An Event for Postgres 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2025&color=green"></a>
 * 11: [Cyber Civil Defense Summit 2025](https://cybercivildefensesummit.org) - Washington D.C. (USA) <a href="https://sessionize.com/public-interest-cybersecurity-CFP-2025/"><img alt="CFP Cyber Civil Defense Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2025&color=green"></a>
 * 11-12: [Cloud Native Zurich](https://cloudnativezurich.ch/) - Zurich (Switzerland)
@@ -346,7 +346,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-16: [JSNation](https://jsnation.com/) - Amsterdam (Netherlands) & Online <a href="https://www.papercall.io/jsnation"><img alt="CFP JSNation" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2025&color=green"></a>
 * 13-17: [React Summit](https://reactsummit.com/) - Amsterdam (Netherlands) & Online <a href="https://www.papercall.io/reactsummit"><img alt="CFP React Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2025&color=green"></a>
 * 16-17: [Workplace Ninjas UK Edinburgh](https://wpninjas.uk) - Edinburgh (Scotland) <a href="https://sessionize.com/workplace-ninjas-uk-edinburgh"><img alt="CFP Workplace Ninjas UK Edinburgh" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
-* 16-17: [KubeCon + CloudNativeCon Japan 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) - Tokyo (Japan)
+* 16-17: [KubeCon + CloudNativeCon Japan 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) - Tokyo (Japan) <a href="https://sessionize.com/kubecon-cloudnativecon-japan-2025/"><img alt="CFP KubeCon + CloudNativeCon Japan 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2025&color=green"></a>
 * 16-19: [GopherCon Europe 2025: Summer Edition in Berlin](https://gophercon.eu) - Berlin (Germany)
 * 16-20: [Codegarden 2025](https://codegarden.umbraco.com/) - Odense (Denmark) <a href="https://sessionize.com/codegarden-week-2025"><img alt="CFP Codegarden 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-February-2025&color=green"></a>
 * 18-21: [SQLBits 2025 - General Sessions](https://sqlbits.com/speak/) - London (UK) <a href="https://sessionize.com/sqlbits-2025-general-sessions"><img alt="CFP SQLBits 2025 - General Sessions" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-January-2025&color=green"></a>
@@ -452,5 +452,5 @@ All the data (past and coming) are available publicly in JSON:
 
 ### October
 
-* 26-29: [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - Los Angeles, CA (USA)
+* 26-29: [ + CloudNativeCon NA 2026](https://events.linuxfoundation.org/-cloudnativecon-north-america-2026/) - Los Angeles, CA (USA)
 
