@@ -183,3 +183,8 @@
         margin-right: 0.5rem;
     }
 }
+
+.title {
+    text-decoration: none;
+    color: black !important;
+}

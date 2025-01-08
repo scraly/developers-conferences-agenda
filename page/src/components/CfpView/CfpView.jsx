@@ -4,7 +4,7 @@ import { Clock, Link, CalendarClock } from 'lucide-react';
 
 import {useYearEvents} from 'app.hooks';
 import {getMonthName, getMonthNames} from 'utils';
-import ShortDate from 'components/ShortDate/ShortDate';
+import {formatEventDates} from 'components/EventDisplay/EventDisplay.utils';
 
 const CfpView = () => {
   let events = useYearEvents();
@@ -49,8 +49,7 @@ const CfpView = () => {
   
             <div className="content">
               <div>
-                <b>{e.name} {e.hyperlink ? <a href={e.hyperlink} target="_blank"><Link /></a> : ''}</b>
-                <ShortDate dates={e.date} />
+                <b>{e.hyperlink ? <a class="title" href={e.hyperlink} target="_blank">{e.name}</a> : ''} ({formatEventDates(e.date)})</b>
                 
                   <span class="until"><Clock color="green" />Until {e.cfp.until} </span>
                   <span>{e.location}</span>
