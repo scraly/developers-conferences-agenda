@@ -9,7 +9,11 @@ import EventCount from 'components/EventCount/EventCount';
 import ViewSelector from 'components/ViewSelector/ViewSelector';
 
 const YearSelector = ({ isMap, year, onChange, view }) => {
-  const yearEvents = useYearEvents()
+  let yearEvents = useYearEvents()
+  if (view == "cfp") {
+     // Display only opened callForPapers
+     yearEvents = yearEvents.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date());
+  }
   return (
     <div>
       <div className="yearNavigatorWrapper">

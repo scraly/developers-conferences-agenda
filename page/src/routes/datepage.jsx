@@ -3,7 +3,6 @@ import { useHasYearEvents } from "../app.hooks";
 import { createSearchParams, useNavigate, useParams, useSearchParams } from "react-router-dom";
 import YearSelector from "components/YearSelector/YearSelector";
 import { CalendarClock, CalendarDays } from "lucide-react";
-import ViewSelector from "components/ViewSelector/ViewSelector";
 import CalendarGrid from "components/CalendarGrid/CalendarGrid";
 import SelectedEvents from "components/SelectedEvents/SelectedEvents";
 

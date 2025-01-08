@@ -7,6 +7,7 @@ import { Year } from 'routes/year';
 import { DatePage } from 'routes/datepage';
 import { MapPage } from 'routes/mappage';
 import { ListPage } from 'routes/listpage';
+import { CfpPage } from 'routes/cfppage';
 import { FilterContext } from 'contexts/FilterContext';
 import { ScrollToTopButton } from './components/ScrollToTopButton/ScrollToTopButton';
 
@@ -27,6 +28,7 @@ const App = () => {
           <Route path=":year/calendar/:month?/:date?" Component={DatePage} />
           <Route path="/:year/map" Component={MapPage} />
           <Route path="/:year/list" Component={ListPage} />
+          <Route path="/:year/cfp" Component={CfpPage} />
         </Routes>
         <ScrollToTopButton />
       </Router>

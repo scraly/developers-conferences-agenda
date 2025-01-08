@@ -1,27 +1,29 @@
 import Filters from "components/Filters/Filters";
-import ListView from "components/ListView/ListView";
+import CfpView from "components/CfpView/CfpView";
 import YearSelector from "components/YearSelector/YearSelector";
 import { createSearchParams, useNavigate, useParams, useSearchParams } from "react-router-dom";
 
-export function ListPage() {
+export function CfpPage() {
     const {year} = useParams();
     const navigate = useNavigate();
     const [searchParams] = useSearchParams();
 
     return (
         <div className="dcaGrid">
-          <Filters/>
+          <Filters
+            view="cfp"
+          />
           <div className="dcaContent">
             <YearSelector
               isMap={false}
               year={parseInt(year, 10)}
               onChange={year => {
-                navigate(`/${year}/list?${createSearchParams(searchParams)}`);
+                navigate(`/${year}/cfp?${createSearchParams(searchParams)}`);
               }}
-              view="list"
+              view="cfp"
             />
 
-            <ListView year={year} />
+            <CfpView year={year} />
         </div>
       </div>
     );

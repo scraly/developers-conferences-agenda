@@ -1,0 +1,190 @@
+.cfpView {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.cfpView > * {
+  width: max-content;
+  display: flex;
+  flex-direction: column;
+  border-radius: 3px;
+  gap: 0.5rem;
+}
+
+.cfpView .event-list-entry {
+  width: inherit;
+  background-color: #f8f8f8;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: row;
+}
+
+.cfpView li span,
+.cfpView li b,
+.cfpView li a {
+  margin-right: 10px;
+}
+
+.cfpView .eventsGridDisplay {
+  border: 0px;
+  width: 100%;
+}
+
+.event-list-entry > header {
+    display: flex;
+    width: 100%;
+    gap: 1rem;
+    cursor: pointer;
+}
+
+.event-list-entry > header > * {
+    padding: 10px;
+}
+
+.event-list-entry > header > .shortDate {
+    min-width: 9rem;
+    border-right: 1px solid #ccc;
+    background: #eee;
+}
+
+.event-list-entry > header > .event-name-location {
+    flex: 2;
+}
+
+.event-list-entry > header > a {
+    flex: 1;
+    text-align: right;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.event-name-location > b {
+    margin-right: 1rem;
+}
+
+.event-name-location > span {
+    font-size: smaller;
+}
+
+.event-banners {
+    display: flex;
+    flex: 1;
+    justify-content: end;
+    gap: 10px;
+}
+
+.event-banners.hide {
+    visibility: hidden;
+}
+
+.event-banners * {
+    height: max-content;
+}
+
+.event-list-entry > .show {
+    display: flex;
+}
+
+.event-list-entry > article, .event-list-entry > footer {
+    display: none;
+}
+
+.event-list-entry > article {
+    border-top: 1px solid #ccc;
+    padding: 1rem;
+}
+
+.event-list-entry > footer {
+    border-top: 1px solid #ccc;
+    background-color: #eee;
+    padding: 0.5rem;
+}
+
+@media screen and (max-width: 660px) {
+    .dcaContent { /* TODO: Make this available to anywhere, not just this page. */
+        width: 100%;
+    }
+
+    .event-list-entry > header {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    .event-list-entry > header > .shortDate {
+        border: none;
+    }
+    
+    .event-list-entry > header > a {
+        text-align: left;
+    }
+
+    .event-banners {
+        justify-content: start;
+    }
+
+    .event-banners.hide {
+        display: none;
+    }
+    
+}
+
+.eventsGridDisplay {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 20rem);
+    gap: 1rem;
+    padding: 5rem;
+    justify-content: center;
+}
+
+.submitButton {
+    text-decoration: none;
+    color: white !important;
+    margin: 1rem;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    text-align: center;
+    background-color: #4299e1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content b {
+    font-size: 1.10rem;
+    margin-left: 1rem;
+}
+
+.content span {
+    margin-left: 1rem;
+}
+
+.content > div {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.until {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin: 0.5rem auto;
+    svg{
+        margin-right: 0.5rem;
+    }
+}
+
+.title {
+    text-decoration: none;
+    color: black !important;
+}
