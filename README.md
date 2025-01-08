@@ -452,5 +452,5 @@ All the data (past and coming) are available publicly in JSON:
 
 ### October
 
-* 26-29: [ + CloudNativeCon NA 2026](https://events.linuxfoundation.org/-cloudnativecon-north-america-2026/) - Los Angeles, CA (USA)
+* 26-29: [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - Los Angeles, CA (USA)
 
