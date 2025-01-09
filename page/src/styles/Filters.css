@@ -92,3 +92,7 @@
     border: 1px solid #aaa;
 }
 
+.react-datepicker-wrapper {
+    display: block !important;
+    margin-top: 10px;
+}

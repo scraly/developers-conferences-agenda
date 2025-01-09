@@ -2,6 +2,8 @@ import React, { useState, useCallback, useContext, useEffect, useMemo } from 're
 import { useSearchParams } from "react-router-dom";
 
 import { Filter, FilterX } from 'lucide-react';
+import DatePicker from "react-datepicker";
+import "react-datepicker/dist/react-datepicker.css";
 
 import { useCountries, useRegions, useRegionsMap } from 'app.hooks';
 
@@ -41,6 +43,8 @@ const Filters = ({ view }) => {
     return result
   }, [search.region, regionsMap, countries])
 
+  const [untilDate, setUntilDate] = useState(new Date());
+
   return (
     <div className={"filters " + (open ? 'open' : 'closed')}>
       <div
@@ -64,7 +68,6 @@ const Filters = ({ view }) => {
       </div>
 
       <div className='filtersList'>
-
 
         {view != "cfp" ? 
         <div className='filtersItem'>
@@ -106,8 +109,28 @@ const Filters = ({ view }) => {
             {countriesList.map((c) => (<option value={c} key={c}>{c}</option>))}
           </select>
         </div>}
+
+        TODO: Remplacer par seach.untilDate et ne pas utiliser le untilDate en local ...
+      <div className='filtersItem'>
+        <label htmlFor='filter-until'>Until:</label>
+          <DatePicker
+            selected={untilDate}
+            //onChange={(e) => onChange('untilDate', e.target.value)}
+            onChange={(untilDate) => setUntilDate(untilDate)}
+            //onChange={(untilDate) => setUntilDate(untilDate)} 
+            dateFormat="dd/MM/yyyy"
+          />
+      </div>
+
     </div>
   );
 };
+
+  // https://www.npmjs.com/package/react-calendar
+  // https://refine.dev/blog/react-date-picker/#conditionally-disable-dates
+  //TODO: propager la date sélectionnée dans les queryParam de l'URL
+  //TODO: Faire un hook pour filtrer par date (e.cfp.untilDate <= untilDate)
+  //TODO: Format de date selon ton browser/systeme ?
+  //TODO: Conditionally disable dates (until date tu peux pas dire sur une date deja passée ?)
 
 export default Filters;
