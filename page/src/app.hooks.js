@@ -79,14 +79,9 @@ export const useYearEvents = () => {
       result = result.filter(e => regionsMap[e.country] === search.region);
     }
 
-    //TODO: untilDate
     if (search.untilDate) {
-      //result = result.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date());
-
-      console.log(new Date(search.untilDate))
-
-      // TODO: Display only opened callForPapers < untilDate
-      result = result.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) <= new Date(search.untilDate));
+      // Display only opened callForPapers <= untilDate
+      result = result.filter(e => e.cfp && new Date(e.cfp.untilDate) <= new Date(search.untilDate));
     }
 
     if (search.query) {
