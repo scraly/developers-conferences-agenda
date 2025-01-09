@@ -279,7 +279,6 @@ All the data (past and coming) are available publicly in JSON:
 * 12-14: [Code Remix Summit](https://coderemix.ai) - Hollywood, FL (USA) <a href="https://sessionize.com/coderemixsummit"><img alt="CFP Code Remix Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2025&color=green"></a>
 * 12-15: [JCON EUROPE 2025](https://jcon.one/) - Cologne (Germany) <a href="https://sessionize.com/jcon-europe-2025"><img alt="CFP JCON EUROPE 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-November-2024&color=red"></a>
 * 12-15: [International Javascript Conference iJS London](https://javascript-conference.com/london/) - London (UK)
-* 13-14: [DevOps Days Geneva](https://devopsdays.org/events/2024-geneva/welcome/) - Geneva (Switzerland)
 * 13-14: [Rust Week 2025](https://rustweek.org) - Utrecht (Netherlands) <a href="https://www.papercall.io/rust-week"><img alt="CFP Rust Week 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2025&color=green"></a>
 * 13-15: [iOSKonf25](https://ioskonf.mk/) - Skopje (Macedonia) <a href="https://www.papercall.io/ioskonf25"><img alt="CFP iOSKonf25" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=green"></a>
 * 14: [Real-Time Analytics Summit 2025](https://startree.ai/rta-summit) - Online <a href="https://sessionize.com/real-time-analytics-summit-2025/"><img alt="CFP Real-Time Analytics Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-January-2025&color=red"></a>
