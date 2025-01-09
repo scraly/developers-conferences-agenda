@@ -76,9 +76,6 @@
 .filters .filtersItem input[type="date"] {
     padding: 0.5rem 1rem;
     width: 100%;
-}
-
-input[type="date"] {
     border: solid 1px #aaa;  
 }
 
