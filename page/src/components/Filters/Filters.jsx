@@ -60,11 +60,17 @@ const Filters = ({ view }) => {
       </div>
 
       <div className='filtersItem'>
+        <label htmlFor='filter-query'>Query:</label>
         <input id='filter-query' type='text' value={search.query} onChange={(e) => onChange('query', e.target.value)} placeholder="Search..." />
       </div>
 
+      {view === "cfp" ? 
+      <div className='filtersItem'>
+        <label htmlFor='filter-until'>Until:</label>
+        <input id="filter-until" type="date" value={search.untilDate} onChange={(e) => onChange('untilDate', e.target.value)} />
+      </div> : ''}
+      
       <div className='filtersList'>
-
 
         {view != "cfp" ? 
         <div className='filtersItem'>
@@ -106,6 +112,7 @@ const Filters = ({ view }) => {
             {countriesList.map((c) => (<option value={c} key={c}>{c}</option>))}
           </select>
         </div>}
+
     </div>
   );
 };

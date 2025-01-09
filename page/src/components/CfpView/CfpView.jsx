@@ -49,9 +49,9 @@ const CfpView = () => {
   
             <div className="content">
               <div>
-                <b>{e.hyperlink ? <a class="title" href={e.hyperlink} target="_blank">{e.name}</a> : ''} ({formatEventDates(e.date)})</b>
+                <b>{e.hyperlink ? <a className="title" href={e.hyperlink} target="_blank">{e.name}</a> : ''} ({formatEventDates(e.date)})</b>
                 
-                  <span class="until"><Clock color="green" />Until {e.cfp.until} </span>
+                  <span className="until"><Clock color="green" />Until {e.cfp.until} </span>
                   <span>{e.location}</span>
               </div>
               <a href={e.cfp.link} target="_blank" title="Submit to the CFP" className="submitButton">
