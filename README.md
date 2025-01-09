@@ -344,7 +344,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-13: [x33fcon workshops 2025](https://www.x33fcon.com) - Gdynia (Poland) <a href="https://www.papercall.io/x33fcon-workshops-2025"><img alt="CFP x33fcon workshops 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2025&color=green"></a>
 * 12-13: [Agile Tour Toulouse](https://tour.agiletoulouse.fr/) - Toulouse (France)
 * 12-14: [Baltic Ruby](https://balticruby.org) - Riga (Latvia) <a href="https://www.papercall.io/balticruby25"><img alt="CFP Baltic Ruby" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-January-2025&color=green"></a>
-* 12-13: [DevLille](https://devlille.fr/) - Lille (France)
+* 12-13: [DevLille](https://devlille.fr/) - Lille (France) <a href="https://conference-hall.io/devlille-2025"><img alt="CFP DevLille" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-03-2025&color=green"></a>
 * 12-16: [JSNation](https://jsnation.com/) - Amsterdam (Netherlands) & Online <a href="https://www.papercall.io/jsnation"><img alt="CFP JSNation" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2025&color=green"></a>
 * 13-17: [React Summit](https://reactsummit.com/) - Amsterdam (Netherlands) & Online <a href="https://www.papercall.io/reactsummit"><img alt="CFP React Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2025&color=green"></a>
 * 16-17: [Workplace Ninjas UK Edinburgh](https://wpninjas.uk) - Edinburgh (Scotland) <a href="https://sessionize.com/workplace-ninjas-uk-edinburgh"><img alt="CFP Workplace Ninjas UK Edinburgh" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
