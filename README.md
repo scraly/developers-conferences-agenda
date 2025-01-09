@@ -387,7 +387,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18-19: [JConf Dominicana 2025](https://jconfdominicana.org) -  Santo Domingo (Dominican Republic) <a href="https://www.papercall.io/jconf-dominicana-2025"><img alt="CFP JConf Dominicana 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-March-2025&color=green"></a>
 * 19: [CajuSEC 2025](https://www.cajusec.com.br/) - Aracaju (Brazil) <a href="https://www.papercall.io/cfpcajusec"><img alt="CFP CajuSEC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=green"></a>
 * 21-22: [Cloud Native Summit Munich](https://cloudnativesummit.de/) - Munich (Germany)
-* 23-25: [Nebraska.Code() 2025](https://nebraskacode.amegala.com) - Lincoln, NE (USA) <a href="https://sessionize.com/nebraska-code-2025/"><img alt="CFP Nebraska.Code() 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-January-2025&color=red"></a>
+* 23-25: [Nebraska.Code() 2025](https://nebraskacode.amegala.com) - Lincoln, NE (USA) <a href="https://sessionize.com/nebraska-code-2025/"><img alt="CFP Nebraska.Code() 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2025&color=green"></a>
 * 28-30: [Agile2025](https://www.agilealliance.org/event/agile2025/) - Denver, CO (USA) <a href="https://sessionize.com/agile-2025/"><img alt="CFP Agile2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=green"></a>
 
 ### August
