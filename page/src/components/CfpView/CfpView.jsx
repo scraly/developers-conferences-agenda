@@ -5,6 +5,7 @@ import { Clock, CalendarClock } from 'lucide-react';
 import {useYearEvents} from 'app.hooks';
 import {getMonthName, getMonthNames} from 'utils';
 import {formatEventDates} from 'components/EventDisplay/EventDisplay.utils';
+import { flag } from 'country-emoji';
 
 const CfpView = () => {
   let events = useYearEvents();
@@ -36,7 +37,6 @@ const CfpView = () => {
     return monthA - monthB;
   });
 
-
   return (
     <div className="cfpView">
       {monthOrder.map(month => (
@@ -52,7 +52,11 @@ const CfpView = () => {
                 <b>{e.hyperlink ? <a className="title" href={e.hyperlink} target="_blank">{e.name}</a> : ''} ({formatEventDates(e.date)})</b>
                 
                   <span className="until"><Clock color="green" />Until {e.cfp.until} </span>
-                  <span>{e.location}</span>
+
+                  <div className="country">
+                    <span className="countryFlag">{e.country != "Online" ? flag(e.country) : ''}</span>
+                    <span className="countryName">{e.location}</span>
+                  </div>
               </div>
               <a href={e.cfp.link} target="_blank" title="Submit to the CFP" className="submitButton">
                 <CalendarClock />
