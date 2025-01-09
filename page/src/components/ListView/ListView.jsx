@@ -6,7 +6,8 @@ import {getMonthName, getMonthNames} from 'utils';
 import ShortDate from 'components/ShortDate/ShortDate';
 
 const ListView = () => {
-  let events = useYearEvents();
+  const pageView = "list";
+  let events = useYearEvents(pageView);
 
   const eventsByMonth = events.reduce((acc, cur) => {
     const currentMonth = getMonthName(new Date(cur.date[0]).getMonth());

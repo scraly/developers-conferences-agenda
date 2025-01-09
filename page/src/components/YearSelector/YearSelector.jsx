@@ -9,7 +9,8 @@ import EventCount from 'components/EventCount/EventCount';
 import ViewSelector from 'components/ViewSelector/ViewSelector';
 
 const YearSelector = ({ isMap, year, onChange, view }) => {
-  let yearEvents = useYearEvents()
+  const pageView = "none";
+  let yearEvents = useYearEvents(pageView)
   if (view == "cfp") {
      // Display only opened callForPapers
      yearEvents = yearEvents.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date());

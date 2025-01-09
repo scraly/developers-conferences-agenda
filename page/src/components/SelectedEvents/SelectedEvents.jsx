@@ -25,7 +25,8 @@ const SelectedEvents = () => {
 
   const scrollToRef = useRef();
 
-  const yearEvents = useYearEvents()
+  const pageView = "none";
+  const yearEvents = useYearEvents(pageView)
   const monthEvents = useMonthEvents(yearEvents, currentMonth != -1 ? currentMonth : currentDate.getMonth())
   const dayEvents = useDayEvents(monthEvents, currentDate)
   const events = currentMonth != -1 ?  monthEvents : dayEvents;

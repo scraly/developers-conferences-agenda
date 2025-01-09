@@ -7,10 +7,15 @@ import {getMonthName, getMonthNames} from 'utils';
 import {formatEventDates} from 'components/EventDisplay/EventDisplay.utils';
 
 const CfpView = () => {
-  let events = useYearEvents();
+  const pageView = "cfp";
+  let events = useYearEvents(pageView);
 
-    // Display only opened callForPapers
-    events = events.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date());
+  //TODO: Forget the filter on dates
+  //TODO: year
+  //events = events.filter(e => e.date[0] && new Date(e.date[0]).getFullYear() === parseInt(year, 10)),
+  
+  // Display only opened callForPapers
+  events = events.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date());
 
    // Sort CFPs based on the closing date
    events = events.sort((a, b) => {

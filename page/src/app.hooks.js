@@ -42,7 +42,7 @@ export const useRegions = () => {
   }, []);
 };
 
-export const useYearEvents = () => {
+export const useYearEvents = (pageView) => {
   const { year } = useParams();
   const [searchParams] = useSearchParams();
   const search = Object.fromEntries(searchParams);
@@ -55,6 +55,19 @@ export const useYearEvents = () => {
 
   const filteredEvents = useMemo(() => {
     let result = yearEvents;
+
+    //TODO: Que pour List and Map! (et Calendar?)
+    // events filter with from and to
+    if (search.from) {
+      // Start Date >= From
+      result = result.filter(e => e.date[0] && new Date(e.date[1]) >= new Date(search.from));
+    }
+
+    if (search.to) {
+      // End Date <= To
+      result = result.filter(e => e.date[0] && new Date(e.date[0]) <= new Date(search.to)); 
+    }
+
     if (search.closedCaptions === 'true') {
       result = result.filter(e => e.closedCaptions);
     }
@@ -92,6 +105,7 @@ export const useYearEvents = () => {
           e.location.toLowerCase().includes(search.query.toLowerCase())
       );
     }
+
     return result;
   }, [yearEvents, searchParams]);
 

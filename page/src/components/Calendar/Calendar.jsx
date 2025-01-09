@@ -11,7 +11,8 @@ import {getMonthName} from 'utils';
 const DaysName = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'];
 
 const Calendar = ({month, days}) => {
-  const yearEvents = useYearEvents()
+  const pageView = "calendar";
+  const yearEvents = useYearEvents(pageView)
   const monthEvents = useMonthEvents(yearEvents, month)
   const navigate = useNavigate();
   const {year} = useParams();

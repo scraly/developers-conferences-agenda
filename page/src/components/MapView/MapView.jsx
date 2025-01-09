@@ -27,7 +27,8 @@ import {useYearEvents} from 'app.hooks';
 import ShortDate from 'components/ShortDate/ShortDate';
 
 const MapView = () => {
-  let events = useYearEvents()
+  const pageView = "map";
+  let events = useYearEvents(pageView)
 
   const eventsByLocation = useMemo(() => {
     return events.reduce((acc, cur) => {

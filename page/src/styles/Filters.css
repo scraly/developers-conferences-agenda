@@ -98,11 +98,16 @@
     border: 1px solid #aaa;
 }
 
-#filter-until{
+#filter-until, #filter-to {
     display: block !important;
     margin-top: 10px;
 }
 
+#filter-from {
+    display: block !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 #filter-query {
     display: block !important;
     margin-top: 10px;

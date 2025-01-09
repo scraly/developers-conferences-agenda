@@ -69,6 +69,17 @@ const Filters = ({ view }) => {
         <label htmlFor='filter-until'>Until:</label>
         <input id="filter-until" type="date" value={search.untilDate} onChange={(e) => onChange('untilDate', e.target.value)} />
       </div> : ''}
+
+
+      <div className='filtersItem'>
+        <label htmlFor='filter-from'>From:</label>
+        <input id="filter-from" type="date" value={search.from} onChange={(e) => onChange('from', e.target.value)} />
+      </div>
+
+      <div className='filtersItem'>
+        <label htmlFor='filter-to'>To:</label>
+        <input id="filter-to" type="date" value={search.to} onChange={(e) => onChange('to', e.target.value)} />
+      </div>
       
       <div className='filtersList'>
 

@@ -10,7 +10,9 @@ export function ListPage() {
 
     return (
         <div className="dcaGrid">
-          <Filters/>
+          <Filters
+            view="list"
+          />
           <div className="dcaContent">
             <YearSelector
               isMap={false}
