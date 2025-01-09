@@ -41,8 +41,6 @@ const Filters = ({ view }) => {
     return result
   }, [search.region, regionsMap, countries])
 
-  const [untilDate, setUntilDate] = useState(new Date());
-
   return (
     <div className={"filters " + (open ? 'open' : 'closed')}>
       <div
