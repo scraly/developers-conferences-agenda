@@ -117,6 +117,4 @@ const Filters = ({ view }) => {
   );
 };
 
-  //TODO: Conditionally disable dates (until date tu peux pas dire sur une date deja passée ?)
-
 export default Filters;
