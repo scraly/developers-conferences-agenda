@@ -155,7 +155,6 @@
     text-align: center;
     background-color: #4299e1;
     display: flex;
-    align-items: center;
     justify-content: center;
 }
 
@@ -187,4 +186,12 @@
 .title {
     text-decoration: none;
     color: black !important;
+}
+
+.countryFlag {
+    font-size: 1.6rem;
+}
+
+.countryName {
+    margin-left: 0.5rem !important;
 }
