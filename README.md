@@ -404,7 +404,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### September
 
-* 2-4: [Javazone 2025](https://2025.javazone.no/en) - Lillestrøm - Oslo (Norway)
+* 2-4: [Javazone 2025](https://2025.javazone.no/en) - Lillestrøm (Norway)
 * 4: [Conf42.com Platform Engineering 2025](https://www.conf42.com/platform2024) - Online <a href="https://www.papercall.io/conf42-platform-engineering-2025"><img alt="CFP Conf42.com Platform Engineering 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2025&color=green"></a>
 * 9-11: [Container Days Hamburg](https://www.containerdays.io/containerdays-conference-2025/) - Hamburg (Germany) <a href="https://sessionize.com/containerdays-conference-2025"><img alt="CFP ContainerDays Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=green"></a>
 * 14-16: [Infobip Shift 2025](https://shift.infobip.com/) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2025"><img alt="CFP Infobip Shift 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2025&color=green"></a>
