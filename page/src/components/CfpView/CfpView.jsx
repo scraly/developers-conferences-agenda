@@ -54,7 +54,7 @@ const CfpView = () => {
                   <span className="until"><Clock color="green" />Until {e.cfp.until} </span>
 
                   <div className="country">
-                    <span className="countryFlag">{e.country != "Online" ? flag(e.country) : ''}</span>
+                    <span className="countryFlag">{e.country != "Online" ? flag(e.country) : '🌎'}</span>
                     <span className="countryName">{e.location}</span>
                   </div>
               </div>
