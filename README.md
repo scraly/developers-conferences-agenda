@@ -311,6 +311,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22: [DevOpsDays Prague 2025](https://devopsdays.org/prague) - Prague (Czech Republic) <a href="https://www.papercall.io/dodprague"><img alt="CFP DevOpsDays Prague 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2025&color=green"></a>
 * 22: [DevOpsDays Medellin 2025](http://devopsdays.io) - Medellin (Colombia) <a href="https://www.papercall.io/dodmde2025"><img alt="CFP DevOpsDays Medellin 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2025&color=green"></a>
 * 22-23: [CFCamp 2025](https://www.cfcamp.org/) - Munich (Germany) <a href="https://www.papercall.io/cfcamp2025"><img alt="CFP CFCamp 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
+* 23-24: [KCD Istanbul](https://kcd.istanbul/) - Istanbul (Turkey) <a href="https://sessionize.com/kcd-istanbul-2025/"><img alt="KCD Istanbul 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2025&color=green"></a>
 * 24: [Polycloud](https://polycloud.fr/) - Montpellier (France) <a href="https://conference-hall.io/polycloud-2025"><img alt="Polycloud 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2025&color=green"></a>
 * 24: [Security BSides Dublin 2025](https://www.bsidesdub.ie) - Dublin (Ireland) <a href="https://sessionize.com/security-bsides-dublin-2025"><img alt="CFP Security BSides Dublin 2025 (in-person conference)" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2025&color=green"></a>
 * 26-28: [OWASP Global AppSec EU 2025 - CFT](https://ccib.es/) - Barcelona (Spain) <a href="https://sessionize.com/owasp-global-appsec-eu-2025-cft/"><img alt="CFP OWASP Global AppSec EU 2025 - CFT" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-January-2025&color=green"></a>
@@ -403,6 +404,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### September
 
+* 2-4: [Javazone 2025](https://2025.javazone.no/en) - Lillestrøm (Norway)
 * 4: [Conf42.com Platform Engineering 2025](https://www.conf42.com/platform2024) - Online <a href="https://www.papercall.io/conf42-platform-engineering-2025"><img alt="CFP Conf42.com Platform Engineering 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2025&color=green"></a>
 * 9-11: [Container Days Hamburg](https://www.containerdays.io/containerdays-conference-2025/) - Hamburg (Germany) <a href="https://sessionize.com/containerdays-conference-2025"><img alt="CFP ContainerDays Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=green"></a>
 * 14-16: [Infobip Shift 2025](https://shift.infobip.com/) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2025"><img alt="CFP Infobip Shift 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2025&color=green"></a>
