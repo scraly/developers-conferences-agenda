@@ -418,6 +418,7 @@ All the data (past and coming) are available publicly in JSON:
 * 2: [Conf42.com Incident Management 2025](https://www.conf42.com/im2025) - Online <a href="https://www.papercall.io/conf42-incident-management-2025"><img alt="CFP Conf42.com Incident Management 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2025&color=green"></a>
 * 2-3: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France)
 * 6-10: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
+* 9-10: [Forum PHP 2025](https://event.afup.org/) - Marne-la-Vallée (France)
 * 12-14: [All Things Open](https://allthingsopen.org/save-the-date-now-for-ato-2025) - Raleigh, NC (USA)
 * 14-16: [HUSTEF](https://hustef.hu) - Budapest (Hungary) <a href="https://hustef.hu/call-for-proposals-2025/"><img alt="CFP HUSTEF" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2025&color=green"></a>
 * 16: [Conf42.com Kube Native 2025](https://www.conf42.com/kubenative2025) - Online <a href="https://www.papercall.io/conf42-kube-native-2025"><img alt="CFP Conf42.com Kube Native 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2025&color=green"></a>
