@@ -18,4 +18,6 @@ node geoCodes.js
 node validateGeolocations.js
 
 cd ../page
+# npm run lint
+# npm run format
 npm start

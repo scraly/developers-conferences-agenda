@@ -36,5 +36,7 @@ Examples of rejected conferences:
 * Make sure the PR title is in the format of `Add Conference Name`
 * Check your spelling and grammar
 * Remove any trailing whitespace
+* Use Prettier to format the code: `npm run format`
+* Use ESLint for linters: `npm run lint`
 
 Thanks! ❤️
