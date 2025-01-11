@@ -64,6 +64,7 @@ All the data (past and coming) are available publicly in JSON:
 * 24-25: [PyCon+Web 2025](https://www.pyconweb.com/) - Berlin (Germany) <a href="https://www.papercall.io/pyconweb2025"><img alt="CFP PyCon+Web 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2024&color=red"></a>
 * 24-25: [Agile Games Île-de-France 2025](https://agilegamesfrance.fr/doku.php?id=evenement_agidf2025) - Paris (France)
 * 25: [Data Toboggan - Winter Edition 2025](https://www.datatoboggan.co.uk/) - Online <a href="https://sessionize.com/data-toboggan-winter-edition-2025/"><img alt="CFP Data Toboggan - Winter Edition 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-December-2024&color=red"></a>
+* 25: [Bilbo Stack](https://bilbostack.com/) - Bilbao (Spain)
 * 27-31: [NDC London](https://ndclondon.com/) - London (UK) <a href="https://sessionize.com/ndc-london-2025/"><img alt="CFP NDC London 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2024&color=red"></a>
 * 28-29: [Cybersec Asia 2025](http://www.cybersec-asia.net) - Bangkok (Thailand) <a href="https://www.papercall.io/cybersecasia25"><img alt="CFP Cybersec Asia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2024&color=red"></a>
 * 30-31: [Cloud Technology Townhall Tallinn 2025](https://cloudtechtallinn.com/) - Tallinn (Estonia) <a href="https://sessionize.com/cloud-technology-townhall-tallinn-2025/"><img alt="CFP Cloud Technology Townhall Tallinn 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2024&color=red"></a>
@@ -418,6 +419,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18: [DevOps Midwest 2025](http://www.devopsmidwest.com) - St. Louis, MO (USA) <a href="https://www.papercall.io/devopsmidwest2025"><img alt="CFP DevOps Midwest 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2025&color=green"></a>
 * 18-19: [API Platform Conference](https://api-platform.com/con/2025/) - Lille (France) & Online
 * 24-26: [Fluttercon Europe 2025](https://www.fluttercon.dev) - Berlin (Germany) <a href="https://sessionize.com/fluttercon-europe-2025/"><img alt="CFP Fluttercon Europe 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2025&color=green"></a>
+* 24-26: [droidcon Berlin 2025](https://berlin.droidcon.com/) - Berlin (Germany)
 * 29-2/10: [Jax New York](https://devm.io/jaxnewyork/) - New York, NY (USA)
 
 ### October
