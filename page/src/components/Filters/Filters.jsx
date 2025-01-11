@@ -45,7 +45,6 @@ const Filters = ({ view }) => {
     <div className={"filters " + (open ? 'open' : 'closed')}>
       <div
         className='filters-header'
-        title={open ? 'Close filters' : 'Open filters'}
         onClick={() => {
           if (open) {
             // setSearchParams({});
@@ -54,64 +53,64 @@ const Filters = ({ view }) => {
           }
           setOpen(true);
         }}
+        title={open ? 'Close filters' : 'Open filters'}
       >
-        <div className='filters-icon'>{open ? <FilterX size={'32px'} /> : <Filter size={'32px'} />}</div>
+        <div className='filters-icon'>{open ? <FilterX size="32px" /> : <Filter size="32px" />}</div>
         <span className='filters-title'>Filters</span>
       </div>
 
       <div className='filtersItem'>
         <label htmlFor='filter-query'>Query:</label>
-        <input id='filter-query' type='text' value={search.query} onChange={(e) => onChange('query', e.target.value)} placeholder="Search..." />
+        <input id='filter-query' onChange={(e) => onChange('query', e.target.value)} placeholder="Search..." type='text' value={search.query} />
       </div>
 
       {view === "cfp" ? 
       <div className='filtersItem'>
         <label htmlFor='filter-until'>Until:</label>
-        <input id="filter-until" type="date" value={search.untilDate} onChange={(e) => onChange('untilDate', e.target.value)} />
+        <input id="filter-until" onChange={(e) => onChange('untilDate', e.target.value)} type="date" value={search.untilDate} />
       </div> : ''}
       
       <div className='filtersList'>
 
         {view != "cfp" ? 
         <div className='filtersItem'>
-          <input checked={search.callForPapers == 'true'} type='checkbox' id='filter-call-for-papers' onChange={(e) => onChange('callForPapers', e.target.checked)} />
+          <input checked={search.callForPapers == 'true'} id='filter-call-for-papers' onChange={(e) => onChange('callForPapers', e.target.checked)} type='checkbox' />
           <label htmlFor='filter-call-for-papers'>Call For Papers Open</label>
         </div> : ''}
 
         {view != "cfp" ?
         <div className='filtersItem'>
-          <input checked={search.closedCaptions == 'true'} type='checkbox' id='filter-closed-captions' onChange={(e) => onChange('closedCaptions', e.target.checked)} />
+          <input checked={search.closedCaptions == 'true'} id='filter-closed-captions' onChange={(e) => onChange('closedCaptions', e.target.checked)} type='checkbox' />
           <label htmlFor='filter-closed-captions'>Closed Captions</label>
         </div> : ''}
 
         {view != "cfp" ?
         <div className='filtersItem'>
-          <input checked={search.scholarship == 'true'} type='checkbox' id='filter-scholarship' onChange={(e) => onChange('scholarship', e.target.checked)} />
+          <input checked={search.scholarship == 'true'} id='filter-scholarship' onChange={(e) => onChange('scholarship', e.target.checked)} type='checkbox' />
           <label htmlFor='filter-scholarship'>Scholarship</label>
         </div> : ''}
 
         <div className='filtersItem'>
-          <input checked={search.online == 'true'} type='checkbox' id='filter-online' onChange={(e) => onChange('online', e.target.checked)} />
+          <input checked={search.online == 'true'} id='filter-online' onChange={(e) => onChange('online', e.target.checked)} type='checkbox' />
           <label htmlFor='filter-online'>Online</label>
         </div>
       </div>
 
       <div className='filtersItem'>
         <label htmlFor='filter-region'>Region:</label>
-        <select value={search.region} id='filter-region' onChange={(e) => onChange('region', e.target.value)}>
+        <select id='filter-region' onChange={(e) => onChange('region', e.target.value)} value={search.region}>
           <option value=''>All</option>
-          {regions.map((c) => (<option value={c} key={c}>{c}</option>))}
+          {regions.map((c) => (<option key={c} value={c}>{c}</option>))}
         </select>
       </div>
 
-      {countriesList &&
-        <div className='filtersItem'>
+      {countriesList ? <div className='filtersItem'>
           <label htmlFor='filter-country'>Country:</label>
-          <select value={search.country} id='filter-country' onChange={(e) => onChange('country', e.target.value)}>
+          <select id='filter-country' onChange={(e) => onChange('country', e.target.value)} value={search.country}>
             <option value=''>All</option>
-            {countriesList.map((c) => (<option value={c} key={c}>{c}</option>))}
+            {countriesList.map((c) => (<option key={c} value={c}>{c}</option>))}
           </select>
-        </div>}
+        </div> : null}
 
     </div>
   );

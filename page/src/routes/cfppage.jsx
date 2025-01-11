@@ -3,7 +3,7 @@ import CfpView from "components/CfpView/CfpView";
 import YearSelector from "components/YearSelector/YearSelector";
 import { createSearchParams, useNavigate, useParams, useSearchParams } from "react-router-dom";
 
-export function CfpPage() {
+export const CfpPage = () => {
     const {year} = useParams();
     const navigate = useNavigate();
     const [searchParams] = useSearchParams();
@@ -16,11 +16,11 @@ export function CfpPage() {
           <div className="dcaContent">
             <YearSelector
               isMap={false}
-              year={parseInt(year, 10)}
               onChange={year => {
                 navigate(`/${year}/cfp?${createSearchParams(searchParams)}`);
               }}
               view="cfp"
+              year={parseInt(year, 10)}
             />
 
             <CfpView year={year} />

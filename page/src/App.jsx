@@ -1,4 +1,4 @@
-import {HashRouter as Router, Routes, Route, useParams, useNavigate, useSearchParams, createSearchParams} from "react-router-dom";
+import {HashRouter as Router, Routes, Route} from "react-router-dom";
 import 'misc/fonts/inter/inter.css';
 import 'styles/App.css';
 
@@ -23,12 +23,12 @@ const App = () => {
       <Router>
         <h1 className="dcaTitle">Developer Conferences Agenda</h1>
         <Routes>
-          <Route path="/" Component={Index} />
-          <Route path=":year" Component={Year} />
-          <Route path=":year/calendar/:month?/:date?" Component={DatePage} />
-          <Route path="/:year/map" Component={MapPage} />
-          <Route path="/:year/list" Component={ListPage} />
-          <Route path="/:year/cfp" Component={CfpPage} />
+          <Route Component={Index} path="/" />
+          <Route Component={Year} path=":year" />
+          <Route Component={DatePage} path=":year/calendar/:month?/:date?" />
+          <Route Component={MapPage} path="/:year/map" />
+          <Route Component={ListPage} path="/:year/list" />
+          <Route Component={CfpPage} path="/:year/cfp" />
         </Routes>
         <ScrollToTopButton />
       </Router>

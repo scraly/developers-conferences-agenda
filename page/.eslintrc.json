@@ -1,7 +1,8 @@
 {
     "env": {
       "browser": true,
-      "es2021": true
+      "es2021": true,
+      "node": true
     },
     "extends": ["eslint:recommended", "plugin:react/recommended", "plugin:react-hooks/recommended", "plugin:jsx-a11y/recommended"],
     "parserOptions": {
@@ -50,5 +51,8 @@
       "react/sort-comp": 1,
       "react/wrap-multilines": 1,
       "jsx-a11y/rule-name": 2
+    },
+    "globals": {
+        "__dirname": true
     }
 }

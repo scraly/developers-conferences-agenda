@@ -3,7 +3,7 @@ import MapView from "components/MapView/MapView";
 import YearSelector from "components/YearSelector/YearSelector";
 import { createSearchParams, useNavigate, useParams, useSearchParams } from "react-router-dom";
 
-export function MapPage() {
+export const MapPage = () => {
     const {year} = useParams();
     const navigate = useNavigate();
     const [searchParams] = useSearchParams();
@@ -14,12 +14,12 @@ export function MapPage() {
           <div className="dcaContent">
             <YearSelector
               isMap={true}
-              year={parseInt(year, 10)}
               onChange={year => {
                 navigate(`/${year}/map?${createSearchParams(searchParams)}`);
               }}
-
               view="map"
+
+              year={parseInt(year, 10)}
             />
 
             <MapView year={year} />

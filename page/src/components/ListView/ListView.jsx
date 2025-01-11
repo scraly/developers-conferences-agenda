@@ -34,13 +34,13 @@ const ListView = () => {
           <React.Fragment key={month}>
             <h1>{month}</h1>
             {eventsByMonth[month].map((e, i) => (
-              <div key={`${month}_ev_${i}`} className='event-list-entry'>
+              <div className='event-list-entry' key={`${month}_ev_${i}`}>
                 <ShortDate dates={e.date} />
                 <b>{e.name}</b>
                 {e.hyperlink ? <a href={e.hyperlink}>{new URL(e.hyperlink).hostname}</a> : ''}
                 <span>{e.location}</span>
-                <span dangerouslySetInnerHTML={{__html: e.misc}}></span>
-                {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}
+                <span dangerouslySetInnerHTML={{__html: e.misc}} />
+                {e.closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
               </div>
             ))}
           </React.Fragment>

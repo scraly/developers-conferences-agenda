@@ -46,7 +46,7 @@ const MapView = () => {
 
   return (
     <div className="mapView">
-      <MapContainer center={[0, 0]} zoom={3} scrollWheelZoom={true}>
+      <MapContainer center={[0, 0]} scrollWheelZoom={true} zoom={3}>
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -56,15 +56,15 @@ const MapView = () => {
             return null;
           }
           const marker = eventsByLocation[loc].map((e, i) => (
-            <div key={`ev_${i}`} className='event-map-entry'>
+            <div className='event-map-entry' key={`ev_${i}`}>
               <ShortDate dates={e.date} />
-              {e.hyperlink ? <a href={e.hyperlink} target='_blank'>{e.name}</a> : <b>{e.name}</b>}
-              <span dangerouslySetInnerHTML={{__html: e.misc}}></span>
-              {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}
+              {e.hyperlink ? <a href={e.hyperlink} rel="noreferrer" target='_blank'>{e.name}</a> : <b>{e.name}</b>}
+              <span dangerouslySetInnerHTML={{__html: e.misc}} />
+              {e.closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
             </div>
           ))
           return (
-            <Marker icon={myIcon} position={[geolocations[loc].latitude, geolocations[loc].longitude]} key={loc}>
+            <Marker icon={myIcon} key={loc} position={[geolocations[loc].latitude, geolocations[loc].longitude]}>
               <Popup maxWidth={600} minWidth={150}>{marker}</Popup>
               <Tooltip>{loc}</Tooltip>
             </Marker>

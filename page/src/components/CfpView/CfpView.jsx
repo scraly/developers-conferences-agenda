@@ -45,11 +45,11 @@ const CfpView = () => {
           <div className="eventsGridDisplay">
           {eventsByMonth[month].map((e, i) => (
 
-          <div key={`${month}_ev_${i}`} className='eventCell'>
+          <div className='eventCell' key={`${month}_ev_${i}`}>
   
             <div className="content">
               <div>
-                <b>{e.hyperlink ? <a className="title" href={e.hyperlink} target="_blank">{e.name}</a> : ''} ({formatEventDates(e.date)})</b>
+                <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''} ({formatEventDates(e.date)})</b>
                 
                   <span className="until"><Clock color="green" />Until {e.cfp.until} </span>
 
@@ -58,7 +58,7 @@ const CfpView = () => {
                     <span className="countryName">{e.location}</span>
                   </div>
               </div>
-              <a href={e.cfp.link} target="_blank" title="Submit to the CFP" className="submitButton">
+              <a className="submitButton" href={e.cfp.link} rel="noreferrer" target="_blank" title="Submit to the CFP">
                 <CalendarClock />
                 Submit to the CFP
               </a>

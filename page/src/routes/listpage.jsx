@@ -3,7 +3,7 @@ import ListView from "components/ListView/ListView";
 import YearSelector from "components/YearSelector/YearSelector";
 import { createSearchParams, useNavigate, useParams, useSearchParams } from "react-router-dom";
 
-export function ListPage() {
+export const ListPage = () => {
     const {year} = useParams();
     const navigate = useNavigate();
     const [searchParams] = useSearchParams();
@@ -14,11 +14,11 @@ export function ListPage() {
           <div className="dcaContent">
             <YearSelector
               isMap={false}
-              year={parseInt(year, 10)}
               onChange={year => {
                 navigate(`/${year}/list?${createSearchParams(searchParams)}`);
               }}
               view="list"
+              year={parseInt(year, 10)}
             />
 
             <ListView year={year} />
