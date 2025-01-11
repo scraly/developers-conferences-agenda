@@ -29,7 +29,7 @@ events.forEach((event, idx) => {
   // If event date[0] >= current year -1
   let eventYear = new Date(event.date[0]).getFullYear()
 
-  if (eventYear >= now.getFullYear()-1) {
+  if (eventYear >= now.getFullYear()) {
     now = new Date(now.getTime() + 1000)
     f.addItem({
       title: event.name,
