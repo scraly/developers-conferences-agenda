@@ -111,11 +111,27 @@ export const useDayEvents = (monthEvents, day = null) => {
   return useMemo(() => {
     let result = monthEvents
     if (filterDay) {
-      result = result.filter(
-        (e) =>
-          (e.date[0] && new Date(e.date[0]).getDate() === filterDay.getDate()) ||
-          (e.date[1] && new Date(e.date[1]).getDate() === filterDay.getDate())
-      )
+      result = result.filter((e) => {
+        let retval = false
+
+        if (e.date[0]) {
+          const startDate = new Date(e.date[0])
+          retval = startDate.getDate() === filterDay.getDate()
+        }
+
+        if (e.date[1]) {
+          const endDate = new Date(e.date[1])
+          retval = retval || endDate.getDate() === filterDay.getDate()
+        }
+
+        if (e.date[0] && e.date[1]) {
+          const startDate = new Date(e.date[0])
+          const endDate = new Date(e.date[1])
+          retval = retval || (filterDay >= startDate && endDate >= filterDay)
+        }
+
+        return retval
+      })
     }
     return result
   }, [filterDay, monthEvents])
