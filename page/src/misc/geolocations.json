@@ -1079,6 +1079,10 @@
     "latitude": -1.950851,
     "longitude": 30.061507
   },
+  "Kildare (Ireland)": {
+    "latitude": 53.1568465,
+    "longitude": -6.9117199
+  },
   "Kilkenny (Ireland)": {
     "latitude": 52.5687098,
     "longitude": -7.188983092181514
@@ -1586,6 +1590,10 @@
   "Ouddorp (Netherlands)": {
     "latitude": 51.8090723,
     "longitude": 3.9352037
+  },
+  "Oulu (Finland)": {
+    "latitude": 65.0118734,
+    "longitude": 25.4716809
   },
   "Oviedo (Spain)": {
     "latitude": 43.3622522,
