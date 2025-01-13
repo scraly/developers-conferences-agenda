@@ -456,6 +456,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21: [Conf42.com Rustlang 2025](https://www.conf42.com/rustlang-2024) - Online <a href="https://www.papercall.io/conf42-rustlang-2025"><img alt="CFP Conf42.com Rustlang 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-July-2025&color=green"></a>
 * 25-27: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) - Amsterdam (Netherlands)
 * 25-27: [Sikkerhetsfestivalen 2025](https://sikkerhetsfestivalen.no/) - Lillehammer (Norway) <a href="https://sessionize.com/sikkerhetsfestivalen-2025/"><img alt="CFP Sikkerhetsfestivalen 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2025&color=green"></a>
+* 26-28: [GopherCon 2025](https://gophercon.com/) - New York, NY (USA) <a href="https://sessionize.com/gophercon-2025/"><img alt="CFP GopherCon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2025&color=green"></a>
 
 ### September
 
