@@ -209,7 +209,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28-29: [TechWriter Days 2](https://techwriterdays.ru/en/index) - Saint Petersburg (Russia)
 * 29: [BSides San Diego 2025](https://www.bsidessd.org/) - San Diego, CA (USA) <a href="https://sessionize.com/bsides-san-diego-2025/"><img alt="CFP BSides San Diego 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2024&color=red"></a>
 * 29: [KCD Kubernetes Community Days Guadalajara](https://ccoss.org/) - Guadalajara (Mexico) <a href="https://sessionize.com/kcd-guadalajara-2025/"><img alt="CFP KCD Guadalajara 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2025&color=green></a>
-* 30-31: [Cloud Native Rejekts EU 2025](https://cloud-native.rejekts.io/) - London (UK)
+* 30-31: [Cloud Native Rejekts EU 2025](https://cloud-native.rejekts.io/) - London (UK) <a href="https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-europe-london-2025/cfp"><img alt="CFP Cloud Native Rejekts 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-January-2025&color=green></a>
 * 31-2/04: [Microsoft Fabric Community Conference](https://fabricconf.com/) - Las Vegas, NV (USA) <a href="https://sessionize.com/fabric-community-conference"><img alt="CFP FabCon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-December-2024&color=red"></a>
 * 31-5/04: [SO-CON 2025](https://specterops.io/so-con/) - Arlington, VA (USA) <a href="https://sessionize.com/socon-2025"><img alt="CFP SO-CON 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=red"></a>
 * 31-5/04: [STL TechWeek](https://techstl.com/techweek) - St. Louis, MO (USA) <a href="https://sessionize.com/stltechweek/"><img alt="CFP STL TechWeek" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2024&color=red"></a>
@@ -479,6 +479,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-16: [HUSTEF](https://hustef.hu) - Budapest (Hungary) <a href="https://hustef.hu/call-for-proposals-2025/"><img alt="CFP HUSTEF" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2025&color=green"></a>
 * 16: [Conf42.com Kube Native 2025](https://www.conf42.com/kubenative2025) - Online <a href="https://www.papercall.io/conf42-kube-native-2025"><img alt="CFP Conf42.com Kube Native 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2025&color=green"></a>
 * 16-17: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France)
+* 20: [TDC](https://2025.trondheimdc.no/) - Trondheim (Norway) <a href="https://sessionize.com/tdc2025/"><img alt="CFP TDC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2025&color=green"></a>
 * 22-23: [PyTorch Conference 2025](https://events.linuxfoundation.org/pytorch-conference-2025/) - San Francisco, CA (USA)
 * 27-29: [Techorama NL](https://www.techorama.nl/) - Utrecht (Netherlands)
 * 30: [Conf42.com JavaScript 2025](https://www.conf42.com/js2025) - Online <a href="https://www.papercall.io/conf42-javascript-2025"><img alt="CFP Conf42.com JavaScript 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2025&color=green"></a>

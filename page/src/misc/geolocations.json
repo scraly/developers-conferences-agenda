@@ -219,10 +219,6 @@
     "latitude": 54.596391,
     "longitude": -5.9301829
   },
-  "Belfast (UK)": {
-    "latitude": 54.596391,
-    "longitude": -5.9301829
-  },
   "Belgrade (Serbia)": {
     "latitude": 44.8178131,
     "longitude": 20.4568974
@@ -2150,6 +2146,10 @@
   "Trieste (Italy)": {
     "latitude": 45.6496485,
     "longitude": 13.7772781
+  },
+  "Trondheim (Norway)": {
+    "latitude": 63.4304475,
+    "longitude": 10.3952118
   },
   "Trujillo (Peru)": {
     "latitude": -8.1157846,
