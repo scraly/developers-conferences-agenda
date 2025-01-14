@@ -64,11 +64,10 @@ const Filters = ({ view }) => {
         <input id='filter-query' onChange={(e) => onChange('query', e.target.value)} placeholder="Search..." type='text' value={search.query} />
       </div>
 
-      {view === "cfp" ? 
       <div className='filtersItem'>
-        <label htmlFor='filter-until'>Until:</label>
+        <label htmlFor='filter-until'>CFP Until:</label>
         <input id="filter-until" onChange={(e) => onChange('untilDate', e.target.value)} type="date" value={search.untilDate} />
-      </div> : ''}
+      </div>
       
       <div className='filtersList'>
 
