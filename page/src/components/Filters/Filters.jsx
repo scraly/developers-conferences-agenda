@@ -99,6 +99,11 @@ const Filters = () => {
           </select>
         </div>}
 
+       <div
+        className='filters-header'>
+        <span className='filters-title'>Sorting</span>
+      </div>
+      
       <div className='filtersItem'>
         <label htmlFor='filter-sort'>Sort (list view only):</label>
         <select value={search.sort} id='filter-sort' onChange={(e) => onChange('sort', e.target.value)}>
