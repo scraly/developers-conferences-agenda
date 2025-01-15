@@ -73,6 +73,12 @@
     width: 100%;
 }
 
+.filters .filtersItem input[type="date"] {
+    padding: 0.5rem 1rem;
+    width: 100%;
+    border: solid 1px #aaa;  
+}
+
 .filters .filtersItem label {
     display: inline-block;
     width: 100%;
@@ -92,3 +98,13 @@
     border: 1px solid #aaa;
 }
 
+#filter-until{
+    display: block !important;
+    margin-top: 10px;
+}
+
+#filter-query {
+    display: block !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

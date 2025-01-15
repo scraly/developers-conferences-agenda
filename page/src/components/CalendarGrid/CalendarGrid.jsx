@@ -21,7 +21,7 @@ const CalendarGrid = ({year}) => {
 
   return (
     <div className="calendarGrid">
-      {months.map((m) => <Calendar key={`month_${m.month}`} month={m.month} days={m.days} />)}
+      {months.map((m) => <Calendar days={m.days} key={`month_${m.month}`} month={m.month} />)}
     </div>
   );
 };

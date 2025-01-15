@@ -66,8 +66,6 @@ const ListView = () => {
               <span>{e.location}</span>
               <span dangerouslySetInnerHTML={{__html: e.misc}}></span>
               {e.closedCaptions && <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span>}
-              {search.sort === 'cfp' && e.cfp?.untilDate && (
-              )}
             </div>
           ))}
         </React.Fragment>

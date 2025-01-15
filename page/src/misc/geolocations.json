@@ -215,7 +215,7 @@
     "latitude": -1.45056,
     "longitude": -48.4682453
   },
-  "Belfast (UK)": {
+  "Belfast (Northern Ireland)": {
     "latitude": 54.596391,
     "longitude": -5.9301829
   },
@@ -847,6 +847,10 @@
     "latitude": 42.9633599,
     "longitude": -85.6680863
   },
+  "Grapevine, TX (USA)": {
+    "latitude": 32.9337381,
+    "longitude": -97.0788754
+  },
   "Greenville, SC (USA)": {
     "latitude": 34.85261759999999,
     "longitude": -82.3940104
@@ -1078,6 +1082,10 @@
   "Kigali (Rwanda)": {
     "latitude": -1.950851,
     "longitude": 30.061507
+  },
+  "Kildare (Ireland)": {
+    "latitude": 53.1568465,
+    "longitude": -6.9117199
   },
   "Kilkenny (Ireland)": {
     "latitude": 52.5687098,
@@ -1587,6 +1595,10 @@
     "latitude": 51.8090723,
     "longitude": 3.9352037
   },
+  "Oulu (Finland)": {
+    "latitude": 65.0118734,
+    "longitude": 25.4716809
+  },
   "Oviedo (Spain)": {
     "latitude": 43.3622522,
     "longitude": -5.8485461
@@ -1834,6 +1846,10 @@
   "Saint Paul, MN (USA)": {
     "latitude": 44.9537029,
     "longitude": -93.0899578
+  },
+  "Saint Petersburg (Russia)": {
+    "latitude": 59.9606739,
+    "longitude": 30.1586551
   },
   "Salt Lake City, UT (USA)": {
     "latitude": 40.7596198,
@@ -2130,6 +2146,10 @@
   "Trieste (Italy)": {
     "latitude": 45.6496485,
     "longitude": 13.7772781
+  },
+  "Trondheim (Norway)": {
+    "latitude": 63.4304475,
+    "longitude": 10.3952118
   },
   "Trujillo (Peru)": {
     "latitude": -8.1157846,
