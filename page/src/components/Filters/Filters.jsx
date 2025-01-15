@@ -118,8 +118,8 @@ const Filters = ({ view }) => {
       
       {view == "list" ?
       <div className='filtersItem'>
-        <label htmlFor='filter-sort'>Sort (list view only):</label>
-        <select value={search.sort} id='filter-sort' onChange={(e) => onChange('sort', e.target.value)}>
+        <label htmlFor='filter-sort'>Sort:</label>
+        <select id='filter-sort' onChange={(e) => onChange('sort', e.target.value)} value={search.sort}>
           <option value='date'>Event Start Date</option>
           <option value='cfp'>CFP Close Date</option>
         </select>
