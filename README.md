@@ -296,6 +296,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### May
 
+* 1-2: [DevOpsDays Austin](https://devopsdays.org/events/2025-austin) - Austin, TX (USA) <a href="https://talks.devopsdays.org/devopsdays-austin-2025/cfp"><img alt="CFP DevOpsDays Austin 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2025&color=green"></a>
 * 2: [Stir Trek 2025](https://stirtrek.com) - Columbus, OH (USA)
 * 2: [BSides Groningen](https://bsidesgrunn.org) - Groningen (Netherlands) <a href="https://sessionize.com/bsidesgrunn/"><img alt="CFP BSides Groningen" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
 * 3: [KCD Costa Rica](https://community.cncf.io/events/details/cncf-kcd-costa-rica-presents-kcd-costa-rica-2025/) - Heredia (Costa Rica) <a href="https://sessionize.com/kcd-costa-rica-2025/"><img alt="CFP KCD Costa Rica" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2025&color=green"></a>
