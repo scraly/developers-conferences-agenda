@@ -296,6 +296,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### May
 
+* 1-2: [DevOpsDays Austin](https://devopsdays.org/events/2025-austin) - Austin, TX (USA) <a href="https://talks.devopsdays.org/devopsdays-austin-2025/cfp"><img alt="CFP DevOpsDays Austin 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2025&color=green"></a>
 * 2: [Stir Trek 2025](https://stirtrek.com) - Columbus, OH (USA)
 * 2: [BSides Groningen](https://bsidesgrunn.org) - Groningen (Netherlands) <a href="https://sessionize.com/bsidesgrunn/"><img alt="CFP BSides Groningen" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
 * 3: [KCD Costa Rica](https://community.cncf.io/events/details/cncf-kcd-costa-rica-presents-kcd-costa-rica-2025/) - Heredia (Costa Rica) <a href="https://sessionize.com/kcd-costa-rica-2025/"><img alt="CFP KCD Costa Rica" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2025&color=green"></a>
@@ -345,6 +346,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20: [Platmosphere | Chapter 2025: Unleash the Invisible](https://platmosphere.com) - Milan (Italy) <a href="https://sessionize.com/platmosphere-2025/"><img alt="CFP Platmosphere | Chapter 2025: Unleash the Invisible" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2025&color=green"></a>
 * 20-21: [Codemotion Madrid 2025](https://conferences.codemotion.com/madrid2025/en/home/) - Madrid (Spain) <a href="https://sessionize.com/codemotion-madrid-2025"><img alt="CFP Codemotion Madrid 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-February-2025&color=green"></a>
 * 20-21: [Current London 2025](https://current.confluent.io/london) - London (UK) <a href="https://sessionize.com/current-london-2025"><img alt="CFP Current London 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-February-2025&color=green"></a>
+* 20-21: [DevOpsDays Baltimore 2025](https://devopsdays.org/events/2025-baltimore/welcome/) - Baltimore, MD (USA) <a href="https://talks.devopsdays.org/devopsdays-baltimore-2025/cfp"><img alt="CFP DevOpsDays Baltimore 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=green"></a>
 * 20-22: [php tek 2025](https://phptek.io) - Chicago, IL (USA) <a href="https://sessionize.com/phptek-2025"><img alt="CFP php[tek] 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=red"></a>
 * 20-22: [Expo:QA](https://expoqa.eu) - Madrid (Spain) <a href="https://expoqa.eu/c4s/"><img alt="CFP Expo:QA" src="https://img.shields.io/static/v1?label=CFP&message=until%208-November-2024&color=red"></a>
 * 21-23: [Spring I/O](https://springio.net/) - Barcelona (Spain) <a href="https://2025.springio.net/"><img alt="CFP SPring IO 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-February-2025&color=green"></a>
@@ -459,6 +461,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4: [EUC World: Amplify](https://worldofeuc.org/EUCWorld2025) - Minneapolis, MN (USA) <a href="https://www.papercall.io/eucworld2025"><img alt="CFP EUC World: Amplify" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-February-2025&color=green"></a>
 * 6-7: [KubeCon + CloudNativeCon India 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/) - Hyderabad (India)
 * 13-15: [GopherCon UK](https://www.gophercon.co.uk/) - London (UK)
+* 13-15: [DevOpsDays KC 2025](http://www.devopsdayskc.org) - Kansas City, MO (USA) <a href="https://devopsdays.org/events/2025-kansas-city/propose"><img alt="CFP DevOpsDays KC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-February-2025&color=green"></a>
 * 13-15: [Kansas City Developer Conference KCDC 2025](http://www.kcdc.info) - Kansas City, MO (USA) <a href="https://sessionize.com/kcdc-2025/"><img alt="CFP KCDC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-February-2025&color=green"></a>
 * 19-21: [Testμ Conference 2025](https://www.lambdatest.com/testmuconf-2025) - Online <a href="https://www.papercall.io/testmuconf-2025"><img alt="CFP Testμ Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
 * 21: [Conf42.com Rustlang 2025](https://www.conf42.com/rustlang-2024) - Online <a href="https://www.papercall.io/conf42-rustlang-2025"><img alt="CFP Conf42.com Rustlang 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-July-2025&color=green"></a>
