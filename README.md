@@ -505,6 +505,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20: [TDC](https://2025.trondheimdc.no/) - Trondheim (Norway) <a href="https://sessionize.com/tdc2025/"><img alt="CFP TDC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2025&color=green"></a>
 * 22-23: [PyTorch Conference 2025](https://events.linuxfoundation.org/pytorch-conference-2025/) - San Francisco, CA (USA)
 * 22-24: [TestCon Europe](https://testcon.lt/) -  Vilnius (Lithuania) <a href="https://airtable.com/appLMKzG4KLtRRZKA/shruR2a0n1n9y3PfA"><img alt="CFP TestCon Europe 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-October-2025&color=green"></a>
+* 24: [DevFest Croatia 2025](https://gdg.community.dev/events/details/google-gdg-zagreb-presents-devfest-2025/) - Zagreb (Croatia) <a href="https://docs.google.com/forms/d/e/1FAIpQLScrrAm6aIN9C2WPPI3Ir1xQmtXz67SOE-qhE97YarNaPFiq9w/viewform"><img alt="CFP DevFest Croatia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-August-2025&color=green"></a>
 * 27-29: [Techorama NL](https://www.techorama.nl/) - Utrecht (Netherlands)
 * 30: [Conf42.com JavaScript 2025](https://www.conf42.com/js2025) - Online <a href="https://www.papercall.io/conf42-javascript-2025"><img alt="CFP Conf42.com JavaScript 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2025&color=green"></a>
 
