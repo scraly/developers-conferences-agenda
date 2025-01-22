@@ -1319,6 +1319,10 @@
     "latitude": 53.4807593,
     "longitude": -2.2426305
   },
+  "Mangalore (India)": {
+    "latitude": 12.9141417,
+    "longitude": 74.8559568
+  },
   "Manila (Philippines)": {
     "latitude": 14.5995124,
     "longitude": 120.9842195
@@ -1462,6 +1466,10 @@
   "Murten (Switzerland)": {
     "latitude": 46.9288643,
     "longitude": 7.1163909
+  },
+  "Móstoles (Spain)": {
+    "latitude": 40.3232129,
+    "longitude": -3.8676291
   },
   "Nairobi (Kenya)": {
     "latitude": -1.3026148499999999,
