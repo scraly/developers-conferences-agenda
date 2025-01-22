@@ -12,7 +12,7 @@ const CalendarGrid = ({year}) => {
       const days = [];
       const nbDays = new Date(year, m + 1, 0).getDate();
       for (let i = 1; i <= nbDays; i++) {
-        days.push(new Date(year, m, i));
+        days.push(new Date(Date.UTC(year, m, i)));
       }
       months.push({month: m, days});
     }

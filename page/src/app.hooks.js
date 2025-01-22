@@ -114,12 +114,12 @@ export const useDayEvents = (monthEvents, day = null) => {
       result = result.filter((e) => {
         let retval = false
 
-        if (e.date[0]) {
+        if (e.date[0] && e.date[1] == null) {
           const startDate = new Date(e.date[0])
           retval = startDate.getDate() === filterDay.getDate()
         }
 
-        if (e.date[1]) {
+        if (e.date[1] && e.date[0] == null) {
           const endDate = new Date(e.date[1])
           retval = retval || endDate.getDate() === filterDay.getDate()
         }
