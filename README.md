@@ -167,10 +167,10 @@ All the data (past and coming) are available publicly in JSON:
 * 14: [Rust In Paris 2025](https://www.rustinparis.com/) - Paris (France)
 * 15: [BSides Bratislava](https://bsidesba.sk) - Bratislava (Slovakia) <a href="https://www.papercall.io/bsidesba2025"><img alt="CFP BSides Bratislava" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=red"></a>
 * 15: [KCD Beijing 2025](https://community.cncf.io/events/details/cncf-kcd-beijing-presents-kcd-beijing-2025/) - Beijing (China) <a href="https://sessionize.com/kcd-beijing-2025/"><img alt="CFP KCD Beijing 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-February-2025&color=green"></a>
-* 17-20: [JavaOne 2025](https://inside.java/2024/03/19/announcing-javaone-2025/) - San Francisco, CA (USA)
 * 18: [DevOpsDays Chicago](https://devopsdays.org/events/2025-chicago/welcome/) - Chicago, IL (USA) <a href="https://talks.devopsdays.org/devopsdays-chicago-2025/cfp"><img alt="CFP DevOpsDays Chicago 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2024&color=red"></a>
 * 18: [NAVIGATE 2025](https://navigate-kongress.de/) - Online <a href="https://sessionize.com/navigate-2025"><img alt="CFP NAVIGATE 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2024&color=red"></a>
 * 18: [Nordic PGDay](https://2025.nordicpgday.org) - Copenhagen (Denmark) <a href="https://2025.nordicpgday.org/cfp/"><img alt="CFP Nordic PGDay 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2024&color=red"></a>
+* 18-20: [JavaOne 2025](https://www.oracle.com/javaone/) - Redwood Shores, CA (USA)
 * 18-20: [The Linux Foundation Member Summit 2025](https://events.linuxfoundation.org/lf-member-summit-2025/) - Napa (USA)
 * 18-21: [Appdevcon 2025](https://appdevcon.nl) - Amsterdam (Netherlands) <a href="https://sessionize.com/appdevcon-2025/"><img alt="CFP Appdevcon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-December-2024&color=red"></a>
 * 18-21: [Dutch PHP Conference 2025](https://phpconference.nl) - Amsterdam (Netherlands) <a href="https://sessionize.com/dpc-2025/"><img alt="CFP Dutch PHP Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-December-2024&color=red"></a>
