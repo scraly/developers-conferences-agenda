@@ -558,6 +558,10 @@ All the data (past and coming) are available publicly in JSON:
 
 ## 2026
 
+### Juanuary
+
+* 28-31: [SnowCamp 2026](https://snowcamp.io/) - Grenoble (France)
+
 ### February
 
 * 24-26: [The Linux Foundation Member Summit 2026](https://events.linuxfoundation.org/lf-member-summit-2026/) - Napa (USA)
