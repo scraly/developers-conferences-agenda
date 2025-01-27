@@ -74,7 +74,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### February
 
-* 1: [Mangaluru Tech Day](https://hackersmang.org/techmang25) - Mangalore (India) <a href="https://sessionize.com/techmang/"><img alt="CFP Mangaluru Tech Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-January-2025&color=green"></a>
+* 1: [Mangaluru Tech Day](https://hackersmang.org/techmang25) - Mangalore (India) <a href="https://sessionize.com/techmang/"><img alt="CFP Mangaluru Tech Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-January-2025&color=red"></a>
 * 1-2: [FOSDEM](https://fosdem.org/2025/) - Brussels (Belgium)
 * 3-4: [DNN Summit 2025](https://www.dnnsummit.org/) - Las Vegas, NV (USA)
 * 3-5: [ConfigManagementCamp 2025](https://cfgmgmtcamp.org/ghent2025/) - Ghent (Belgium) <a href="https://cfp.cfgmgmtcamp.org/ghent2025/cfp"><img alt="CFP CFGMgmtCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-November-2024&color=red"></a>
@@ -192,7 +192,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21: [Frontrunners Mar 21, 2025](https://frontrunners.tech/) - Washington D.C. (USA) <a href="https://www.papercall.io/frontrunners2025"><img alt="CFP Frontrunners Mar 21, 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=red"></a>
 * 21: [Open Source Day](https://osday.dev/) - Florence (Italy) <a href="https://sessionize.com/open-source-day-2025/"><img alt="CFP Open Source Day Mar 21, 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2025&color=red"></a>
 * 21-22: [HackConRD 2025](https://hackconrd.org/) - Santo Domingo (Dominican Republic) <a href="https://www.papercall.io/hackconrd-cfp"><img alt="CFP HackConRD 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=green"></a>
-* 22: [KCD Rio Janeiro 2025](https://community.cncf.io/kcd-brasil/) - Rio de Janeiro (Brazil) <a href="https://sessionize.com/kcd-rj-brasil-2025/"><img alt="CFP KCD Rio Janeiro Brasil 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-January-2025&color=green"></a>
+* 22: [KCD Rio Janeiro 2025](https://community.cncf.io/kcd-brasil/) - Rio de Janeiro (Brazil) <a href="https://sessionize.com/kcd-rj-brasil-2025/"><img alt="CFP KCD Rio Janeiro Brasil 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-January-2025&color=red"></a>
 * 24: [DataPopkorn - a bite-sized knowledge! (2025)](http://DataPopkorn.com) - Online <a href="https://sessionize.com/datapopkorn2025/"><img alt="CFP DataPopkorn - a bite-sized knowledge! (2025)" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-February-2025&color=green"></a>
 * 24-25: [Gartner Identity & Access Management Summit](https://www.gartner.com/en/conferences/emea/identity-access-management-uk) - London (UK)
 * 24-27: [DrupalCon Atlanta 2025](https://events.drupal.org/atlanta2025) - Atlanta, GA (USA) <a href="https://sessionize.com/drupalcon-atlanta-2025"><img alt="CFP DrupalCon Atlanta 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-October-2024&color=red"></a>
