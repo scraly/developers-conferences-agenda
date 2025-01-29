@@ -558,7 +558,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ## 2026
 
-### Juanuary
+### January
 
 * 28-31: [SnowCamp 2026](https://snowcamp.io/) - Grenoble (France)
 
