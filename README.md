@@ -464,7 +464,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 1-4: [Open edX Conference - 2025](https://con.openedx.org) - Palaiseau (France) <a href="https://sessionize.com/open-edx-conference-2025"><img alt="CFP Open edX Conference - 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-December-2024&color=red"></a>
 * 2-3: [APIdays Munich](https://www.apidays.global/munich/) - Munich (Germany) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Munich" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-June-2025&color=green"></a>
-* 3: [KCD Utrecht](https://kcdutrecht.nl/) - Utrecht (Netherlands)
+* 3: [KCD Utrecht](https://kcdutrecht.nl/) - Utrecht (Netherlands) <a href="https://sessionize.com/kcd-utrecht-2025/"><img alt="CFP KCD Utrecht 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Apr-2025&color=green"></a>
 * 3-4: [Agile On The Beach 2025](https://www.agileonthebeach.com) - Falmouth (UK) <a href="https://sessionize.com/agile-on-the-beach-2025/"><img alt="CFP Agile On The Beach 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2024&color=red"></a>
 * 3-5: [Web Summer Camp 2025](https://websummercamp.com/2025) - Opatija (Croatia) <a href="https://sessionize.com/web-summer-camp-2025/"><img alt="CFP Web Summer Camp 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2025&color=green"></a>
 * 7-9: [Riviera DEV 2025](https://rivieradev.fr/) - Sophia Antipolis (France) <a href="https://conference-hall.io/riviera-dev-2025/"><img alt="CFP Riviera DEV 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2025&color=green"></a>
