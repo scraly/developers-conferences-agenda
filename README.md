@@ -548,7 +548,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-14: [Update COnference Prague 2025](https://www.updateconference.net/) - Prague (Czech Republic)
 * 17-21: [QCon San Francisco](https://qconsf.com/) - San Francisco, CA (USA)
 * 20: [Conf42.com Robotics 2025](https://www.conf42.com/robotics2025) - Online <a href="https://www.papercall.io/conf42-robotics-2025"><img alt="CFP Conf42.com Robotics 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2025&color=green"></a>
-* 24-27: [Agile Testing Days](https://agiletestingdays.com/) - Potsdam (Germany)
+* 24-27: [Agile Testing Days](https://agiletestingdays.com/) - Potsdam (Germany) <a href="https://www.cfp.trendig.com/"><img alt="Agile Testing Days 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2025&color=green"></a>
 
 ### December
 
