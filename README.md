@@ -137,6 +137,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1: [HackGDL 2025](https://hackgdl.net/) - Guadalajara (Mexico) <a href="https://sessionize.com/hackgdl/"><img alt="CFP HackGDL 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-November-2024&color=red"></a>
 * 1: [Global AI Bootcamp 2025](https://globalai.es/) - Madrid (Spain) <a href="https://sessionize.com/globalai-madrid-2025"><img alt="CFP Global AI Bootcamp 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2025&color=green"></a>
 * 3-5: [Replay 2025](http://replay.temporal.io) - London (UK) <a href="https://www.papercall.io/replay-2025"><img alt="CFP Replay 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-December-2024&color=red"></a>
+* 3-7: [Azure Spring Clean 2025](https://www.azurespringclean.com/) - Online <a href="https://sessionize.com/azure-spring-clean-2025/"><img alt="CFP Azure Spring Clean 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2025&color=green"></a>
 * 4: [SOSS Policy Summit DC](https://events.linuxfoundation.org/soss-policy-summit-dc/) - Washington D.C. (USA)
 * 4-6: [Internet 2.0 Conference USA](https://www.internet2conf.com/) - Las Vegas, NV (USA)
 * 4-6: [Devnexus 2025](https://devnexus.com/) - Atlanta, GA (USA) <a href="https://sessionize.com/devnexus-2025/"><img alt="CFP Devnexus 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2024&color=red"></a>
