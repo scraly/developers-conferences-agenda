@@ -121,6 +121,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7: [DevOpsDays LA](https://devopsdays.org/events/2025-los-angeles/welcome/) - Pasadena, CA (USA)
 * 8: [SQL Saturday Atlanta 2025 - AI & BI](https://sqlsaturday.com/2025-03-08-sqlsaturday1102/) - Alpharetta, GA (USA) <a href="https://sessionize.com/sql-saturday-atlanta-2025-ai-and-bi/"><img alt="CFP SQL Saturday Atlanta 2025 - AI & BI" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-January-2025&color=red"></a>
 * 8: [Global AI Bootcamp Valencia 2025](https://globalai.community/bootcamp/spain-valencia/) - Valencia (Spain) <a href="https://sessionize.com/global-ai-bootcamp-valencia-2025"><img alt="CFP Global AI Bootcamp Valencia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
+* 8-9: [Laracon India 2025](https://laracon.in/) - Ahmedabad (India) <a href="https://bit.ly/laraconin2025-rfp"><img alt="CFP Laracon India 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
 * 10: [Global AI Bootcamp (Digital)](https://globalai.community/bootcamp) - Online <a href="https://sessionize.com/Global-AI-Bootcamp-Digital/"><img alt="CFP Global AI Bootcamp (Digital)" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-January-2025&color=red"></a>
 * 10-11: [CTO Craft Con London](https://conference.ctocraft.com/london-2025/) - London (UK)
 * 10-14: [Azure AI Connect](https://sessionize.com/azure-ai-connect/) - Pasadena, CA (USA) <a href="https://www.papercall.io/azure-ai-connect"><img alt="CFP Azure AI Connect" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=red"></a>
@@ -483,6 +484,7 @@ All the data (past and coming) are available publicly in JSON:
 * 23-25: [Nebraska.Code() 2025](https://nebraskacode.amegala.com) - Lincoln, NE (USA) <a href="https://sessionize.com/nebraska-code-2025/"><img alt="CFP Nebraska.Code() 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2025&color=red"></a>
 * 25-26: [SQL Saturday Baton Rouge 2025](http://www.sqlsatbr.com) - Baton Rouge, LA (USA) <a href="https://sessionize.com/sqlsatbr25/"><img alt="CFP SQL Saturday Baton Rouge 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-May-2025&color=green"></a>
 * 28-30: [Agile2025](https://www.agilealliance.org/event/agile2025/) - Denver, CO (USA) <a href="https://sessionize.com/agile-2025/"><img alt="CFP Agile2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=red"></a>
+* 29-30: [Laracon US 2025](https://laracon.us/) - Denver, CO (USA) <a href="https://frequent-pick-a8d.notion.site/1843f372b480802c9cf8ffb63a2c51f5"><img alt="CFP Agile2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=green"></a>
 
 ### August
 
