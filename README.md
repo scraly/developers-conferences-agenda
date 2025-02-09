@@ -52,6 +52,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4: [CISO Forum Canada](https://www.siberx.org/ciso/) - Toronto (Canada)
 * 4-5: [State Of Open Con 2025](https://stateofopencon.com/) - London (UK)
 * 4-5: [Update Days](https://updatedays.cz/en) - Prague (Czech Republic) & Online
+* 5-6: [Red Hat at AI Everything Global 2025](https://www.redhat.com/en/events/red-hat-ai-everything-global?sc_cid=RHCTE1250000437367) - Dubai (United Arab Emirates)
 * 5-7: [Fabric February 2025](https://www.fabricfebruary.com/) - Oslo (Norway)
 * 6: [CyberConVA 2025](https://rvatech.com/rvatech-events/cyberconva-2025/) - Richmond, VA (USA) <a href="https://www.papercall.io/cyberconva2025"><img alt="CFP CyberConVA 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-October-2024&color=red"></a>
 * 6: [DecompileD 2025](https://decompiled.de) - Dresden (Germany) <a href="https://sessionize.com/decompiled25"><img alt="CFP DecompileD 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2024&color=red"></a>
@@ -395,6 +396,7 @@ All the data (past and coming) are available publicly in JSON:
 * 2-3: [CONFidence 2025](https://confidence-conference.org/) - Krakow (Poland) <a href="https://confidence-conference.org/cfp-2025/"><img alt="CFP CONFidence 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-March-2025&color=green"></a>
 * 2-6: [DDD Europe - 2025](https://dddeurope.com/) - Antwerp (Belgium) <a href="https://sessionize.com/aardling2025"><img alt="CFP DDD Europe - 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2025&color=red"></a>
 * 3: [APIdays Helsinki and North](https://www.apidays.global/helsinki_and_north/) - Helsinki (Finland) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Helsinki and North" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2025&color=green"></a>
+* 4: [StrimziCon 2025](https://community.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-strimzicon-2025-virtual/) - Online <a href="https://sessionize.com/strimzicon-2025/"><img alt="CFP Strimzi" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-March-2025&color=green"></a>
 * 4-5: [DevTalks Romania](https://www.devtalks.ro/) -  Bucharest (Romania) <a href="https://www.papercall.io/devtalksromania-2025"><img alt="CFP DevTalks Romania" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-June-2025&color=green"></a>
 * 5: [Conf42.com Observability 2025](https://www.conf42.com/obs2025) - Online <a href="https://www.papercall.io/conf42-observability-2025"><img alt="CFP Conf42.com Observability 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-May-2025&color=green"></a>
 * 5: [J-Spring](https://jspring.nl/) - Utrecht (Netherlands) <a href="https://sessionize.com/jspring25"><img alt="CFP J-Spring" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2025&color=green"></a>
