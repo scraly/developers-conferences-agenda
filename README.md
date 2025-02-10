@@ -474,6 +474,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-10: [RailsConf 2025](http://railsconf.org) - Philadelphia, PA (USA) <a href="https://sessionize.com/railsconf-2025/"><img alt="CFP RailsConf 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
 * 9-10: [Automotive Grade Linux All Member Meeting Summer](https://events.linuxfoundation.org/agl-amm-summer/) - Berlin (Germany)
 * 9-11: [WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin (Germany) <a href="https://sessionize.com/wearedevelopers-world-congress-2025"><img alt="CFP WeAreDevelopers World Congress 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2025&color=red"></a>
+* 14-20: [EuroPython 2025](https://ep2025.europython.eu/) − Prague (Czech Republic)
 * 15-18: [UberConf 2025](https://dev.events/conferences/uber-conf-2025-oyhd6zi) - Denver, CO (USA)
 * 15-17: [eduWeb Summit 2025](https://www.eduwebsummit.com) - Portland, ME (USA) <a href="https://sessionize.com/eduweb-summit-2025/"><img alt="CFP eduWeb Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-December-2024&color=red"></a>
 * 17-18: [DevRel Con NYC](https://nyc.devrelcon.dev/) - New York, NY (USA) <a href="https://majorleaguehacking.typeform.com/to/WH7Xl9n7"><img alt="CFP DevRel Con 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-May-2025&color=green"></a>
