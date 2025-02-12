@@ -556,6 +556,7 @@ All the data (past and coming) are available publicly in JSON:
 ### November
 
 * 3-5: [DesignUp25](https://25.designup.io) - Bangalore (India) <a href="https://sessionize.com/designup25/"><img alt="CFP DesignUp25" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-May-2025&color=green"></a>
+* 4-5: [DevOps Barcelona](https://devops.barcelona) - Barcelona (Spain) <a href="https://devops.barcelona/call-for-papers"><img alt="CFP DevOps Barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2025&color=green"></a>
 * 4-7: [NewCrafts 2025](https://ncrafts.io/) - Paris (France) <a href="https://sessionize.com/ncrafts/"><img alt="CFP NewCrafts 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2025&color=green"></a>
 * 6: [dotAI 2025](https://www.dotai.io/) - Paris (France) <a href="https://www.dotai.io/speak"><img alt="CFP dotAI 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=green"></a>
 * 6: [Conf42.com Prompt Engineering 2025](https://www.conf42.com/prompt2025) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2025"><img alt="CFP Conf42.com Prompt Engineering 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-October-2025&color=green"></a>
