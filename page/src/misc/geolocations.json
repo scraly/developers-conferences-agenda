@@ -803,6 +803,10 @@
     "latitude": 43.5322493,
     "longitude": -5.660973299999999
   },
+  "Gilbert, AZ (USA)": {
+    "latitude": 33.3527632,
+    "longitude": -111.789037
+  },
   "Gladstone (Australia)": {
     "latitude": -23.8431724,
     "longitude": 151.256132
@@ -2226,6 +2230,10 @@
   "Vannes (France)": {
     "latitude": 47.6586772,
     "longitude": -2.7599079
+  },
+  "Veenendaal (Netherlands)": {
+    "latitude": 52.02320415,
+    "longitude": 5.551800233162295
   },
   "Verona (Italy)": {
     "latitude": 45.4384958,
