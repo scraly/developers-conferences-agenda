@@ -198,6 +198,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28: [Sem Servidor Conf 2025](https://semservidor.com.br/sem-servidor-conf/) - Florianópolis (Brazil) <a href="https://www.papercall.io/semservidorconf2025"><img alt="CFP Sem Servidor Conf 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2025&color=red"></a>
 * 28-29: [Agile Games France 2025](https://agilegamesfrance.fr/) - Lille (France)
 * 28-29: [TechWriter Days 2](https://techwriterdays.ru/en/index) - Saint Petersburg (Russia)
+* 28-30: [Shift](https://shift-hackathon.com/) - Nantes (France)
 * 29: [BSides San Diego 2025](https://www.bsidessd.org/) - San Diego, CA (USA) <a href="https://sessionize.com/bsides-san-diego-2025/"><img alt="CFP BSides San Diego 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2024&color=red"></a>
 * 29: [KCD Kubernetes Community Days Guadalajara](https://ccoss.org/) - Guadalajara (Mexico) <a href="https://sessionize.com/kcd-guadalajara-2025/"><img alt="CFP KCD Guadalajara 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2025&color=red></a>
 * 30-31: [Cloud Native Rejekts EU 2025](https://cloud-native.rejekts.io/) - London (UK) <a href="https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-europe-london-2025/cfp"><img alt="CFP Cloud Native Rejekts 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-January-2025&color=red></a>
