@@ -1,0 +1,7 @@
+.eventView {
+  border-bottom: 1px solid var(--pico-muted-color);
+
+  span {
+    margin: 0 0.25rem;
+  }
+}

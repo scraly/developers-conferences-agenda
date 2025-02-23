@@ -1,0 +1,15 @@
+#header {
+  z-index: 10000;
+  position: sticky;
+  top: 0;
+  background-color: var(--pico-background-color);
+  transition: border-top-color 0.4s ease-in-out, box-shadow 0.4s ease-in-out;
+  border-bottom-color: var(--pico-header-border-color);
+  box-shadow: var(--pico-card-box-shadow);
+
+  > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}

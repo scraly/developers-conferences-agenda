@@ -1,15 +1,14 @@
-import {HashRouter as Router, Routes, Route} from "react-router-dom";
-import 'misc/fonts/inter/inter.css';
-import 'styles/App.css';
+import {HashRouter as Router, Routes, Route} from 'react-router-dom';
 
-import { Index } from 'routes';
-import { Year } from 'routes/year';
-import { DatePage } from 'routes/datepage';
-import { MapPage } from 'routes/mappage';
-import { ListPage } from 'routes/listpage';
-import { CfpPage } from 'routes/cfppage';
-import { FilterContext } from 'contexts/FilterContext';
-import { ScrollToTopButton } from './components/ScrollToTopButton/ScrollToTopButton';
+import FilterContext from 'contexts/FilterContext';
+import Layout from './layout/Layout';
+import IndexPage from 'routes/IndexPage';
+import YearPage from 'routes/YearPage';
+import DatePage from 'routes/datepage';
+import MapPage from 'routes/mappage';
+import ListPage from 'routes/listpage';
+import CfpPage from 'routes/cfppage';
+import ScrollToTopButton from './components/ScrollToTopButton/ScrollToTopButton';
 
 const App = () => {
   // TODO: DRY
@@ -21,14 +20,15 @@ const App = () => {
   return (
     <FilterContext.Provider value={filtercontextdefaults}>
       <Router>
-        <h1 className="dcaTitle">Developer Conferences Agenda</h1>
         <Routes>
-          <Route Component={Index} path="/" />
-          <Route Component={Year} path=":year" />
-          <Route Component={DatePage} path=":year/calendar/:month?/:date?" />
-          <Route Component={MapPage} path="/:year/map" />
-          <Route Component={ListPage} path="/:year/list" />
-          <Route Component={CfpPage} path="/:year/cfp" />
+          <Route element={<IndexPage />} path="/" />
+          <Route path=":year" element={<Layout />}>
+            <Route index element={<YearPage />} />
+            <Route element={<CfpPage />} path="cfp" />
+            <Route element={<DatePage />} path="calendar/:month?/:date?" />
+            <Route element={<ListPage />} path="list" />
+            <Route element={<MapPage />} path="map" />
+          </Route>
         </Routes>
         <ScrollToTopButton />
       </Router>

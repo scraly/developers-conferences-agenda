@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from 'react';
-import 'styles/ScrollToTopButton.css';
+import React, {useState, useEffect} from 'react';
+import './ScrollToTopButton.css';
 
-export const ScrollToTopButton = () => {
+const ScrollToTopButton = () => {
   const [isVisible, setIsVisible] = useState(false);
 
   const toggleVisibility = () => {
@@ -19,19 +19,15 @@ export const ScrollToTopButton = () => {
     });
   };
 
-  useEffect(() => {
-    window.addEventListener('scroll', toggleVisibility);
-    return () => window.removeEventListener('scroll', toggleVisibility);
-  }, []);
+  window.addEventListener('scroll', toggleVisibility);
 
   return (
     isVisible && (
-      <button
-        className="scroll-to-top"
-        onClick={scrollToTop}
-      >
+      <button type="button" className="scroll-to-top" onClick={scrollToTop}>
         ↑ Top
       </button>
     )
   );
 };
+
+export default ScrollToTopButton;

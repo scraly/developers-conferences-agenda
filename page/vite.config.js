@@ -1,4 +1,4 @@
-import { join } from 'path'
+import { join } from 'node:path'
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react-swc'
 
@@ -6,21 +6,22 @@ import react from '@vitejs/plugin-react-swc'
 export default defineConfig({
 	server: { port: 8080 },
 	preview: { port: 9090 },
-  plugins: [react()],
-  resolve: {
+	plugins: [react()],
+	resolve: {
 		alias: {
 			utils: join(__dirname, 'src', 'utils'),
 			components: join(__dirname, 'src', 'components'),
 			contexts: join(__dirname, 'src', 'contexts'),
-            routes: join(__dirname, 'src', 'routes'),
+			routes: join(__dirname, 'src', 'routes'),
 			"app.context": join(__dirname, 'src', 'app.context'),
 			"app.hooks": join(__dirname, 'src', 'app.hooks'),
+			"app.utils": join(__dirname, 'src', 'app.utils'),
 			"app.reducer": join(__dirname, 'src', 'app.reducer'),
 			misc: join(__dirname, 'src', 'misc'),
 			styles: join(__dirname, 'src', 'styles')
 		}
-  },
-  build: {
+	},
+	build: {
 		emptyOutDir: true,
 		outDir: 'build'
 	}
