@@ -3,6 +3,7 @@ hgroup {
     display: flex;
     align-items: center;
     justify-content: center;
+    scroll-margin-top: 200px;
 
     span {
       margin: 0 1rem;

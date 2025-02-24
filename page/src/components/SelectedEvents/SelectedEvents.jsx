@@ -38,7 +38,7 @@ const SelectedEvents = () => {
     setTimeout(() => {
       scrollToRef.current?.scrollIntoView({behavior: 'smooth'});
     }, 100);
-  }, []);
+  });
 
   let previous = '';
   let next = '';

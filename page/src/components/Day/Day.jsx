@@ -21,6 +21,7 @@ const Day = ({date, events}) => {
   }
 
   return (
+    // biome-ignore lint/a11y/useKeyWithClickEvents: <explanation>
     <div
       className={`date${invisible}${intensity}`}
       onClick={() => navigate(`/${year}/calendar/-1/${date.getTime()}?${searchParams.toString()}`)}
