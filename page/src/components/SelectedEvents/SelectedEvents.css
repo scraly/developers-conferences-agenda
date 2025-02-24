@@ -1,27 +1,15 @@
-.eventsGridDisplay {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, 20rem);
-  gap: 1rem;
-  padding: 5rem;
-  justify-content: center;
-}
+hgroup {
+  h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
-.eventDateDisplay {
-  margin-top: 5rem;
-  text-align: center;
-}
+    span {
+      margin: 0 1rem;
+    }
+  }
 
-.eventDateDisplay {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.eventDateDisplay span {
-  padding: 0 1rem;
-}
-
-.eventCount {
-  text-align: center;
-  font-weight: normal;
+  p {
+    text-align: center;
+  }
 }

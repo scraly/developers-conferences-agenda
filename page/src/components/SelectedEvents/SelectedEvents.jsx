@@ -7,6 +7,8 @@ import {ArrowLeftCircle, ArrowRightCircle} from 'lucide-react';
 import EventView from 'components/EventView/EventView';
 import slugify from 'slugify';
 
+import './SelectedEvents.css';
+
 const SelectedEvents = () => {
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
@@ -86,21 +88,25 @@ const SelectedEvents = () => {
   return (
     <>
       {currentDate ? (
-        <>
-          <h3 className="eventDateDisplay" ref={scrollToRef}>
-            {previous}
-            <span>{getMonthName(currentMonth) || formatDate(currentDate)}</span>
-            {next}
-          </h3>
-          <EventCount events={events} />
-          <div className="eventsGridDisplay">
+        <section>
+          <hgroup>
+            <h3 ref={scrollToRef}>
+              {previous}
+              <span>{getMonthName(currentMonth) || formatDate(currentDate)}</span>
+              {next}
+            </h3>
+            <p>
+              <EventCount events={events} />
+            </p>
+          </hgroup>
+          <div>
             {events.length ? (
               events.map((e, i) => <EventView event={e} key={`ev_${slugify(JSON.stringify(e))}`} />)
             ) : (
               <p>No event found for that day</p>
             )}
           </div>
-        </>
+        </section>
       ) : (
         ''
       )}
