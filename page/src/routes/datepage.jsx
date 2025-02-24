@@ -16,7 +16,7 @@ const DatePage = () => {
       e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date()
     );
   }
-  //<Filters />
+  <Filters />;
   return (
     <section>
       <nav>
@@ -28,7 +28,7 @@ const DatePage = () => {
           </li>
         </ul>
         {hasYearEvents ? (
-          <ul>
+          <ul className="downloads">
             <li>
               <a
                 // biome-ignore lint/a11y/useSemanticElements: <explanation>

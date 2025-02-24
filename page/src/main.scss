@@ -33,3 +33,12 @@ body > footer {
     padding: var(--pico-nav-link-spacing-vertical) var(--pico-nav-link-spacing-horizontal);
   }
 }
+
+.downloads a {
+  display: flex;
+  align-items: center;
+
+  svg {
+    margin-right: 0.5rem;
+  }
+}
