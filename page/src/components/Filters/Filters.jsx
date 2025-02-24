@@ -1,7 +1,7 @@
-import React, {useState, useCallback, useContext, useEffect, useMemo} from 'react';
+import React, {useCallback, useContext, useEffect, useMemo} from 'react';
 import {useSearchParams} from 'react-router-dom';
 
-import {Filter, FilterX} from 'lucide-react';
+import {Filter} from 'lucide-react';
 
 import {useCountries, useRegions, useRegionsMap} from 'app.hooks';
 
@@ -10,12 +10,10 @@ import FilterContext from 'contexts/FilterContext';
 const Filters = ({view}) => {
   const context = useContext(FilterContext);
   const [searchParams, setSearchParams] = useSearchParams(context.searchParams);
-  const [open, setOpen] = useState(context.open);
 
   useEffect(() => {
     context.searchParams = searchParams;
-    context.open = open;
-  }, [searchParams, open, context]);
+  }, [searchParams, context]);
 
   const onChange = useCallback(
     (key, value) => {
@@ -44,158 +42,135 @@ const Filters = ({view}) => {
   }, [search.region, regionsMap, countries]);
 
   return (
-    <div className={`filters ${open ? 'open' : 'closed'}`} style={{display: 'none'}}>
-      <div
-        className="filters-header"
-        onClick={() => {
-          if (open) {
-            // setSearchParams({});
-            setOpen(false);
-            return;
-          }
-          setOpen(true);
-        }}
-        title={open ? 'Close filters' : 'Open filters'}
-      >
-        <div className="filters-icon">
-          {open ? <FilterX size="32px" /> : <Filter size="32px" />}
-        </div>
-        <span className="filters-title">Filters</span>
-      </div>
+    <details className="container">
+      <summary>
+        <Filter size="32px" />
+        <span>Filters</span>
+      </summary>
 
-      <div className="filtersItem">
-        <label htmlFor="filter-query">Query:</label>
-        <input
-          id="filter-query"
-          onChange={e => onChange('query', e.target.value)}
-          placeholder="Search..."
-          type="text"
-          value={search.query}
-        />
-      </div>
-
-      <div className="filtersItem">
-        <label htmlFor="filter-until">CFP Until:</label>
-        <input
-          id="filter-until"
-          onChange={e => onChange('untilDate', e.target.value)}
-          type="date"
-          value={search.untilDate}
-        />
-      </div>
-
-      <div className="filtersList">
-        {view !== 'cfp' ? (
-          <div className="filtersItem">
-            <input
-              checked={search.callForPapers === 'true'}
-              id="filter-call-for-papers"
-              onChange={e => onChange('callForPapers', e.target.checked)}
-              type="checkbox"
-            />
-            <label htmlFor="filter-call-for-papers">Call For Papers Open</label>
-          </div>
-        ) : (
-          ''
-        )}
-
-        {view !== 'cfp' ? (
-          <div className="filtersItem">
-            <input
-              checked={search.closedCaptions === 'true'}
-              id="filter-closed-captions"
-              onChange={e => onChange('closedCaptions', e.target.checked)}
-              type="checkbox"
-            />
-            <label htmlFor="filter-closed-captions">Closed Captions</label>
-          </div>
-        ) : (
-          ''
-        )}
-
-        {view !== 'cfp' ? (
-          <div className="filtersItem">
-            <input
-              checked={search.scholarship === 'true'}
-              id="filter-scholarship"
-              onChange={e => onChange('scholarship', e.target.checked)}
-              type="checkbox"
-            />
-            <label htmlFor="filter-scholarship">Scholarship</label>
-          </div>
-        ) : (
-          ''
-        )}
-
-        <div className="filtersItem">
+      <form>
+        <fieldset>
+          <label htmlFor="filter-query">Query:</label>
           <input
-            checked={search.online === 'true'}
-            id="filter-online"
-            onChange={e => onChange('online', e.target.checked)}
-            type="checkbox"
+            id="filter-query"
+            onChange={e => onChange('query', e.target.value)}
+            placeholder="Search..."
+            type="text"
+            value={search.query}
           />
-          <label htmlFor="filter-online">Online</label>
-        </div>
-      </div>
+        </fieldset>
+        <fieldset>
+          <label htmlFor="filter-until">CFP Until:</label>
+          <input
+            id="filter-until"
+            onChange={e => onChange('untilDate', e.target.value)}
+            type="date"
+            value={search.untilDate}
+          />
+        </fieldset>
 
-      <div className="filtersItem">
-        <label htmlFor="filter-region">Region:</label>
-        <select
-          id="filter-region"
-          onChange={e => onChange('region', e.target.value)}
-          value={search.region}
-        >
-          <option value="">All</option>
-          {regions.map(c => (
-            <option key={c} value={c}>
-              {c}
-            </option>
-          ))}
-        </select>
-      </div>
-
-      {countriesList ? (
-        <div className="filtersItem">
-          <label htmlFor="filter-country">Country:</label>
+        <fieldset>
+          {view !== 'cfp' ? (
+            <>
+              {' '}
+              <label>
+                <input
+                  checked={search.callForPapers === 'true'}
+                  id="filter-call-for-papers"
+                  onChange={e => onChange('callForPapers', e.target.checked)}
+                  type="checkbox"
+                  role="switch"
+                  aria-checked
+                />
+                Call For Papers Open
+              </label>
+              <label>
+                <input
+                  checked={search.closedCaptions === 'true'}
+                  id="filter-closed-captions"
+                  onChange={e => onChange('closedCaptions', e.target.checked)}
+                  type="checkbox"
+                  role="switch"
+                  aria-checked
+                />
+                Closed Captions
+              </label>
+              <label>
+                <input
+                  checked={search.scholarship === 'true'}
+                  id="filter-scholarship"
+                  onChange={e => onChange('scholarship', e.target.checked)}
+                  type="checkbox"
+                  role="switch"
+                  aria-checked
+                />
+                Scholarship
+              </label>
+            </>
+          ) : (
+            ''
+          )}
+          <label>
+            <input
+              checked={search.online === 'true'}
+              id="filter-online"
+              onChange={e => onChange('online', e.target.checked)}
+              type="checkbox"
+              role="switch"
+              aria-checked
+            />
+            Online
+          </label>
+        </fieldset>
+        <fieldset>
+          <label htmlFor="filter-region">Region:</label>
           <select
-            id="filter-country"
-            onChange={e => onChange('country', e.target.value)}
-            value={search.country}
+            id="filter-region"
+            onChange={e => onChange('region', e.target.value)}
+            value={search.region}
           >
             <option value="">All</option>
-            {countriesList.map(c => (
+            {regions.map(c => (
               <option key={c} value={c}>
                 {c}
               </option>
             ))}
           </select>
-        </div>
-      ) : null}
-
-      {view === 'list' ? (
-        <div className="filters-header">
-          <span className="filters-title">Sorting</span>
-        </div>
-      ) : (
-        ''
-      )}
-
-      {view === 'list' ? (
-        <div className="filtersItem">
-          <label htmlFor="filter-sort">Sort:</label>
-          <select
-            id="filter-sort"
-            onChange={e => onChange('sort', e.target.value)}
-            value={search.sort}
-          >
-            <option value="date">Event Start Date</option>
-            <option value="cfp">CFP Close Date</option>
-          </select>
-        </div>
-      ) : (
-        ''
-      )}
-    </div>
+        </fieldset>
+        {countriesList ? (
+          <fieldset>
+            <label htmlFor="filter-country">Country:</label>
+            <select
+              id="filter-country"
+              onChange={e => onChange('country', e.target.value)}
+              value={search.country}
+            >
+              <option value="">All</option>
+              {countriesList.map(c => (
+                <option key={c} value={c}>
+                  {c}
+                </option>
+              ))}
+            </select>
+          </fieldset>
+        ) : null}
+        {view === 'list' ? (
+          <fieldset>
+            <label htmlFor="filter-sort">Sort:</label>
+            <select
+              id="filter-sort"
+              onChange={e => onChange('sort', e.target.value)}
+              value={search.sort}
+            >
+              <option value="date">Event Start Date</option>
+              <option value="cfp">CFP Close Date</option>
+            </select>
+          </fieldset>
+        ) : (
+          ''
+        )}
+      </form>
+    </details>
   );
 };
 

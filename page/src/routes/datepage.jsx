@@ -16,47 +16,49 @@ const DatePage = () => {
       e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date()
     );
   }
-  <Filters />;
   return (
-    <section>
-      <nav className="container">
-        <ul>
-          <li>
-            <strong>
-              <EventCount events={yearEvents} isMap={false} />
-            </strong>
-          </li>
-        </ul>
-        {hasYearEvents ? (
-          <ul className="downloads">
+    <>
+      <Filters />
+      <section>
+        <nav className="container">
+          <ul>
             <li>
-              <a
-                // biome-ignore lint/a11y/useSemanticElements: <explanation>
-                role="button"
-                href={`/developer-conference-${year}.ics`}
-                title={`Download ${year} Calendar`}
-              >
-                <CalendarDays />
-                {year} Calendar
-              </a>
-            </li>
-            <li>
-              <a
-                // biome-ignore lint/a11y/useSemanticElements: <explanation>
-                role="button"
-                href="/developer-conference-opened-cfps.ics"
-                title="Download Opened CFP Calendar"
-              >
-                <CalendarClock />
-                Opened CFP Calendar
-              </a>
+              <strong>
+                <EventCount events={yearEvents} isMap={false} />
+              </strong>
             </li>
           </ul>
-        ) : null}
-      </nav>
-      <CalendarGrid year={year} />
-      <SelectedEvents date={date} month={month} />
-    </section>
+          {hasYearEvents ? (
+            <ul className="downloads">
+              <li>
+                <a
+                  // biome-ignore lint/a11y/useSemanticElements: <explanation>
+                  role="button"
+                  href={`/developer-conference-${year}.ics`}
+                  title={`Download ${year} Calendar`}
+                >
+                  <CalendarDays />
+                  {year} Calendar
+                </a>
+              </li>
+              <li>
+                <a
+                  // biome-ignore lint/a11y/useSemanticElements: <explanation>
+                  role="button"
+                  href="/developer-conference-opened-cfps.ics"
+                  title="Download Opened CFP Calendar"
+                >
+                  <CalendarClock />
+                  Opened CFP Calendar
+                </a>
+              </li>
+            </ul>
+          ) : null}
+        </nav>
+        <CalendarGrid year={year} />
+        <SelectedEvents date={date} month={month} />
+      </section>
+    </>
   );
 };
 
