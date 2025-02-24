@@ -13,3 +13,11 @@
     align-items: center;
   }
 }
+
+@media (max-width: 768px) {
+  #header {
+    > div {
+      flex-direction: column;
+    }
+  }
+}

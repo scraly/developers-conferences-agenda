@@ -14,3 +14,11 @@ hgroup {
     text-align: center;
   }
 }
+
+@media (max-width: 768px) {
+  hgroup {
+    h3 {
+      scroll-margin-top: 240px;
+    }
+  }
+}
