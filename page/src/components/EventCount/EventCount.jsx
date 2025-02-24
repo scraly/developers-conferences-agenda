@@ -15,8 +15,8 @@ const getCountText = (events, onlineOnlyEvents) => {
 const EventCount = ({events, isMap}) => {
   if (isMap) {
     const onlineOnlyEvents = events.filter(e => e.location === 'Online');
-    return <p className="eventCount">{getCountText(events, onlineOnlyEvents)}</p>;
+    return getCountText(events, onlineOnlyEvents);
   }
-  return <p className="eventCount">{getCountText(events, [])}</p>;
+  return getCountText(events, []);
 };
 export default EventCount;

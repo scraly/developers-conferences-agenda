@@ -2,7 +2,7 @@ import {useDayEvents} from 'app.hooks';
 import {useNavigate, useSearchParams, useParams} from 'react-router-dom';
 
 const Day = ({date, events}) => {
-  const dayEvents = useDayEvents(events, date)
+  const dayEvents = useDayEvents(events, date);
   const navigate = useNavigate();
   const {year} = useParams();
   const [searchParams] = useSearchParams();
@@ -12,10 +12,7 @@ const Day = ({date, events}) => {
 
   if (date) {
     if (dayEvents.length > 0) {
-      intensity = ` intensity-${Math.min(
-        dayEvents.length,
-        7
-      )}`;
+      intensity = ` intensity-${Math.min(dayEvents.length, 7)}`;
     }
     invisible = '';
   } else {
@@ -25,10 +22,8 @@ const Day = ({date, events}) => {
 
   return (
     <div
-      className={'date' + invisible + intensity}
-      onClick={() =>
-        navigate(`/${year}/calendar/-1/${date.getTime()}?${searchParams.toString()}`)
-      }
+      className={`date${invisible}${intensity}`}
+      onClick={() => navigate(`/${year}/calendar/-1/${date.getTime()}?${searchParams.toString()}`)}
     >
       {date?.getDate() || ''}
     </div>

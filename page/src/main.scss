@@ -4,10 +4,13 @@
     $theme-color: "zinc"
 );
 
+@import '@picocss/pico/scss/pico.colors.scss';
+
 body > footer {
   font-size: medium;
   border-top-color: var(--pico-header-border-color);
   box-shadow: var(--pico-card-box-shadow);
+  padding: 2rem 0;
 
   section {
     display: flex;

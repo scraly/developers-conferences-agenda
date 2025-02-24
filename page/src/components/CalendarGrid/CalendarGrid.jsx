@@ -1,6 +1,7 @@
 import {useMemo} from 'react';
-
 import Calendar from 'components/Calendar/Calendar';
+
+import './CalendarGrid.css';
 
 const CalendarGrid = ({year}) => {
   const months = useMemo(() => {

@@ -18,36 +18,45 @@ const DatePage = () => {
   }
   //<Filters />
   return (
-    <div>
-      <EventCount events={yearEvents} isMap={false} />
-      <div>
+    <section>
+      <nav>
+        <ul>
+          <li>
+            <strong>
+              <EventCount events={yearEvents} isMap={false} />
+            </strong>
+          </li>
+        </ul>
         {hasYearEvents ? (
-          <div className="downloadButtons">
-            <a
-              // biome-ignore lint/a11y/useSemanticElements: <explanation>
-              role="button"
-              href={`/developer-conference-${year}.ics`}
-              title={`Download ${year} Calendar`}
-            >
-              <CalendarDays />
-              {year} Calendar
-            </a>
-            <a
-              // biome-ignore lint/a11y/useSemanticElements: <explanation>
-              role="button"
-              href="/developer-conference-opened-cfps.ics"
-              title="Download Opened CFP Calendar"
-            >
-              <CalendarClock />
-              Opened CFP Calendar
-            </a>
-          </div>
+          <ul>
+            <li>
+              <a
+                // biome-ignore lint/a11y/useSemanticElements: <explanation>
+                role="button"
+                href={`/developer-conference-${year}.ics`}
+                title={`Download ${year} Calendar`}
+              >
+                <CalendarDays />
+                {year} Calendar
+              </a>
+            </li>
+            <li>
+              <a
+                // biome-ignore lint/a11y/useSemanticElements: <explanation>
+                role="button"
+                href="/developer-conference-opened-cfps.ics"
+                title="Download Opened CFP Calendar"
+              >
+                <CalendarClock />
+                Opened CFP Calendar
+              </a>
+            </li>
+          </ul>
         ) : null}
-
-        <CalendarGrid year={year} />
-        <SelectedEvents date={date} month={month} />
-      </div>
-    </div>
+      </nav>
+      <CalendarGrid year={year} />
+      <SelectedEvents date={date} month={month} />
+    </section>
   );
 };
 

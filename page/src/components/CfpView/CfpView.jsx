@@ -2,9 +2,8 @@ import React from 'react';
 import {Clock, CalendarClock} from 'lucide-react';
 
 import {useYearEvents} from 'app.hooks';
-import {formatEventDates} from 'app.utils';
 
-import {getMonthName, getMonthNames} from 'utils';
+import {formatEventDates, getMonthName, getMonthNames} from 'utils';
 import {flag} from 'country-emoji';
 import slugify from 'slugify';
 

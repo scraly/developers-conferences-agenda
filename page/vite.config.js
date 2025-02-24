@@ -15,7 +15,6 @@ export default defineConfig({
 			routes: join(__dirname, 'src', 'routes'),
 			"app.context": join(__dirname, 'src', 'app.context'),
 			"app.hooks": join(__dirname, 'src', 'app.hooks'),
-			"app.utils": join(__dirname, 'src', 'app.utils'),
 			"app.reducer": join(__dirname, 'src', 'app.reducer'),
 			misc: join(__dirname, 'src', 'misc'),
 			styles: join(__dirname, 'src', 'styles')

@@ -1,8 +1,10 @@
-.header {
+.calendar header {
   text-align: center;
-  cursor: pointer;
-  font-weight: bold;
-  text-decoration: underline;
+
+  button {
+    margin: 0;
+    padding: 0.25rem 1rem;
+  }
 }
 
 .dayList {
@@ -39,26 +41,30 @@
 }
 
 .date.intensity-1 {
-  background-color: rgb(241 245 249);
+  background-color: var(--pico-color-slate-150);
+  color: #000;
 }
 .date.intensity-2 {
-  background-color: rgb(226 232 240);
+  background-color: var(--pico-color-slate-250);
+  color: #000;
 }
 .date.intensity-3 {
-  background-color: rgb(226 232 240);
+  background-color: var(--pico-color-slate-350);
+  color: #000;
 }
 .date.intensity-4 {
-  background-color: rgb(148 163 184);
+  background-color: var(--pico-color-slate-450);
+  color: #000;
 }
 .date.intensity-5 {
-  background-color: rgb(100 116 139);
-  color: #fafafa;
+  background-color: var(--pico-color-slate-550);
+  color: #fff;
 }
 .date.intensity-6 {
-  background-color: rgb(71 85 105);
-  color: #fafafa;
+  background-color: var(--pico-color-slate-650);
+  color: #fff;
 }
 .date.intensity-7 {
-  background-color: rgb(51 65 85);
-  color: #fafafa;
+  background-color: var(--pico-color-slate-750);
+  color: #fff;
 }

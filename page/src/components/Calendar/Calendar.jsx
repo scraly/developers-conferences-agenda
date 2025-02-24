@@ -6,6 +6,8 @@ import {daysToWeeks} from './Calendar.utils';
 import {useYearEvents, useMonthEvents} from 'app.hooks';
 import {getMonthName} from 'utils';
 
+import './Calendar.css';
+
 const DaysName = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'];
 
 const Calendar = ({month, days}) => {
@@ -25,9 +27,10 @@ const Calendar = ({month, days}) => {
   );
 
   return (
-    <article>
+    <article className="calendar">
       <header>
         <button
+          className="outline"
           type="button"
           onClick={() => navigate(`/${year}/calendar/${month}/0?${searchParams.toString()}`)}
         >
