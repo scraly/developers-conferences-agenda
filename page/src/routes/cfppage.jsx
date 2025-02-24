@@ -6,7 +6,9 @@ const CfpPage = () => {
   return (
     <>
       <Filters view="cfp" />
-      <CfpView />
+      <div className="container">
+        <CfpView />
+      </div>
     </>
   );
 };

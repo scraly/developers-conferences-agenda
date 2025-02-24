@@ -88,7 +88,7 @@ const SelectedEvents = () => {
   return (
     <>
       {currentDate ? (
-        <section>
+        <section className="container">
           <hgroup>
             <h3 ref={scrollToRef}>
               {previous}

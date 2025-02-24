@@ -19,7 +19,7 @@ const DatePage = () => {
   <Filters />;
   return (
     <section>
-      <nav>
+      <nav className="container">
         <ul>
           <li>
             <strong>

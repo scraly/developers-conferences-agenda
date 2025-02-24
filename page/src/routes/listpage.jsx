@@ -5,7 +5,9 @@ const ListPage = () => {
   return (
     <>
       <Filters view="list" />
-      <ListView />
+      <div className="container">
+        <ListView />
+      </div>
     </>
   );
 };
