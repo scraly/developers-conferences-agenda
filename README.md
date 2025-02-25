@@ -251,6 +251,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-10: [Google Cloud Next](https://cloud.withgoogle.com/next) - Las Vegas, NV (USA)
 * 9-10: [Agile Tour Martinique](https://www.agiletourmartinique.org/) - Fort-De-France (Martinique)
 * 9-11: [try! Swift Tokyo 2025](https://tryswift.jp) - Tokyo (Japan) <a href="https://www.papercall.io/tryswift-tokyo-2025"><img alt="CFP try! Swift Tokyo 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2025&color=red"></a>
+* 9-11: [ShinyConf 2025: Shine On with Shiny!](https://www.shinyconf.com/) - Online 
 * 10: [Conf42.com Large Language Models (LLMs) 2025](https://www.conf42.com/llm2025) - Online <a href="https://www.papercall.io/conf42-large-language-models-llms-2025"><img alt="CFP Conf42.com Large Language Models (LLMs) 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-March-2025&color=green"></a>
 * 10-11: [Android Makers](https://androidmakers.droidcon.com/) - Montrouge (France) <a href="https://sessionize.com/android-makers-by-droidcon-2025/"><img alt="CFP Android Makers by droidcon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2025&color=red"></a>
 * 10-11: [BSidesSLC 2025](https://www.bsidesslc.org/) - Sandy, UT (USA) <a href="https://sessionize.com/bsidesslc-2025"><img alt="CFP BSidesSLC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2025&color=red"></a>
