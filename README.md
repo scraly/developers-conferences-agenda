@@ -313,6 +313,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-7: [AI Agent Conference](https://agentconference.com/) - New York, NY (USA)
 * 7: [Tech Tactics in Education: Thriving in the Age of AI](https://techtacticsineducation.com/) - Online <a href="https://sessionize.com/tech-tactics-in-education-may-2025/"><img alt="CFP Tech Tactics in Education: Thriving in the Age of AI" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-January-2025&color=red"></a>
 * 7-9: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk25.cfp.dev/#/"><img alt="CFP Devoxx UK 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2025&color=red"></a>
+* 7-9: [Directions ASIA 2025](https://www.directionsforpartners.com/asia2025) - Bangkok (Thailand) <a href="https://sessionize.com/asia2025"><img alt="CFP Directions ASIA 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=green"></a>
 * 8: [Conf42.com Machine Learning 2025](https://www.conf42.com/ml2025) - Online <a href="https://www.papercall.io/conf42-machine-learning-2025"><img alt="CFP Conf42.com Machine Learning 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-April-2025&color=green"></a>
 * 8: [KCD SF Bay Area](https://community.cncf.io/kcd-sf-bay-area/) - San Francisco, CA (USA) <a href="https://sessionize.com/kcd-sf-bay-area"><img alt="CFP KCD SF 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=green"></a>
 * 8: [German VMUG UserCon 2025](https://my.vmug.com/s/event/a4pVs000000NmqLIAS/german-usercon) - Frankfurt (Germany) <a href="https://www.papercall.io/usercon-de"><img alt="CFP German VMUG UserCon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-March-2025&color=green"></a>
@@ -399,8 +400,6 @@ All the data (past and coming) are available publicly in JSON:
 * 29-30: [FlutterNinjas Tokyo 2025](https://flutterninjas.dev) - Tokyo (Japan) <a href="https://sessionize.com/flutterninjas-2025"><img alt="CFP FlutterNinjas Tokyo 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2025&color=green"></a>
 * 30: [HACKÉN](https://hacken.es/) - Jaén (Spain) <a href="https://www.papercall.io/hack-en"><img alt="CFP HACKÉN" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2025&color=green"></a>
 * 31: [Tech Hub Conf 2025](https://techhubjf.org/conf) - Juiz De Fora, MG (Brazil) <a href="https://www.papercall.io/tech-hub-conf-2025"><img alt="CFP Tech Hub Conf 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-March-2025&color=green"></a>
-(2025-05-07T00:00:00Z) * 7-9: [Directions ASIA 2025](https://www.directionsforpartners.com/asia2025) - Bangkok (Thailand) <a href="https://sessionize.com/asia2025"><img alt="CFP Directions ASIA 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=green"></a>
-
 
 ### June
 
