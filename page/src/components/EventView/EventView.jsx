@@ -6,13 +6,13 @@ import './EventView.css';
 const EventView = ({event}) => {
   return (
     <p className="eventView">
-      <ShortDate dates={event.date} />: <b>{event.name}</b>
+      <ShortDate dates={event.date} />
+      :&nbsp;<b>{event.name}</b>
       <span>
         {event.hyperlink ? <a href={event.hyperlink}>{new URL(event.hyperlink).hostname}</a> : ''}
       </span>
       <span>{event.country !== 'Online' ? flag(event.country) : '🌎'}</span>
-      <span>{event.location}</span>
-      <span dangerouslySetInnerHTML={{__html: event.misc}} />
+      <span className="location">{event.location}</span>
       {event.closedCaptions ? (
         <span>
           <img
@@ -21,6 +21,7 @@ const EventView = ({event}) => {
           />
         </span>
       ) : null}
+      <span dangerouslySetInnerHTML={{__html: event.misc}} />
     </p>
   );
 };

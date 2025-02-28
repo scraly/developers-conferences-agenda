@@ -1,7 +1,22 @@
 .eventView {
   border-bottom: 1px solid var(--pico-muted-color);
+  display: flex;
+  align-items: center;
 
   span {
     margin: 0 0.25rem;
+
+    a {
+      font-size: 0.8em;
+    }
+  }
+
+  span.location {
+    font-size: 0.8em;
+  }
+
+  span:last-child {
+    flex-grow: 1;
+    text-align: right;
   }
 }
