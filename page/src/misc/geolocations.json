@@ -151,6 +151,10 @@
     "latitude": 47.6199988,
     "longitude": -2.9184744
   },
+  "Baden (Switzerland)": {
+    "latitude": 47.47288,
+    "longitude": 8.30809
+  },
   "Bali (Indonesia)": {
     "latitude": -8.456018100000001,
     "longitude": 115.27038551191185
@@ -1183,9 +1187,9 @@
     "latitude": 48.0073849,
     "longitude": 0.1967849
   },
-  "Lehi, UTAH (USA)": {
-    "latitude": 40.3881114,
-    "longitude": -111.8486019
+  "Lehi, UT (USA)": {
+    "latitude": 40.3916172,
+    "longitude": -111.8507662
   },
   "Leipzig (Germany)": {
     "latitude": 51.3406321,
@@ -1747,9 +1751,9 @@
     "latitude": 52.4082663,
     "longitude": 16.9335199
   },
-  "Pozuelo de Alarcon (Spain)": {
-    "latitude": 40.4475272,
-    "longitude": -3.8074152
+  "Pozuelo de Alarcón (Spain)": {
+    "latitude": 40.447343,
+    "longitude": -3.8073416
   },
   "Prague (Czech Republic)": {
     "latitude": 50.0874654,
