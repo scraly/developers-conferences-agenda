@@ -7,7 +7,7 @@ const EventView = ({event}) => {
   return (
     <p className="eventView">
       <ShortDate dates={event.date} />
-      :&nbsp;<b>{event.name}</b>
+      <b>{event.name}</b>
       <span>
         {event.hyperlink ? <a href={event.hyperlink}>{new URL(event.hyperlink).hostname}</a> : ''}
       </span>

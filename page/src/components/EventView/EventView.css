@@ -20,3 +20,18 @@
     text-align: right;
   }
 }
+
+@media (max-width: 767px) {
+  .eventView {
+    flex-direction: column;
+    padding-bottom: 1rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .eventView {
+    .shortDate::after {
+      content: ':';
+    }
+  }
+}
