@@ -561,6 +561,7 @@ All the data (past and coming) are available publicly in JSON:
 * 23-25: [Enterprise Technology Leadership Summit US 2025](https://itrevolution.com/events) - Las Vegas, NV (USA) <a href="https://sessionize.com/enterprise-technology-leadership-summit/"><img alt="CFP Enterprise Technology Leadership Summit US 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-March-2025&color=green"></a>
 * 24-26: [Fluttercon Europe 2025](https://www.fluttercon.dev) - Berlin (Germany) <a href="https://sessionize.com/fluttercon-europe-2025/"><img alt="CFP Fluttercon Europe 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2025&color=green"></a>
 * 24-26: [droidcon Berlin 2025](https://berlin.droidcon.com/) - Berlin (Germany)
+* 25-26: [Paris Web 2025](https://www.paris-web.fr) - Paris (France) <a href="https://appel.paris-web.fr/"><img alt="CFP Paris Web 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-March-2025&color=green"></a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 27-28: [Macoun 2025](https://macoun.de/index.php) - Frankfurt (Germany)
 * 28-2/10: [COSAC 2025](https://cosac.net/cosac/) - Kildare (Ireland) <a href="https://cosac.net/cosac/call-for-papers/"><img alt="CFP COSAC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-March-2025&color=green"></a>
 * 29-2/10: [Jax New York](https://devm.io/jaxnewyork/) - New York, NY (USA)
