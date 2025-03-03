@@ -42,3 +42,16 @@ body > footer {
     margin-right: 0.5rem;
   }
 }
+
+@media (max-width: 767px) {
+  body > footer {
+    section {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    aside li {
+      text-align: center;
+    }
+  }
+}
