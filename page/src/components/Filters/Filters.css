@@ -1,0 +1,17 @@
+#filters-button {
+  position: sticky;
+  top: 260px;
+  padding: 0.5rem;
+}
+
+#filters {
+  margin-top: 80px;
+
+  article {
+    max-height: 60vh;
+
+    header {
+      text-align: right;
+    }
+  }
+}
