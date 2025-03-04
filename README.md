@@ -436,7 +436,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10-12: [POSETTE: An Event for Postgres 2025](https://posetteconf.com/2025/) - Online <a href="https://sessionize.com/posette2025"><img alt="CFP POSETTE: An Event for Postgres 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2025&color=red"></a>
 * 10-13: [Agile Trends Nordeste 2025](https://agiletrendsbr.com/) - Recife (Brazil) <a href="https://sessionize.com/agile-trends-nordeste-2025"><img alt="CFP Agile Trends Nordeste 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-February-2025&color=red"></a>
 * 11: [Cyber Civil Defense Summit 2025](https://cybercivildefensesummit.org) - Washington D.C. (USA) <a href="https://sessionize.com/public-interest-cybersecurity-CFP-2025/"><img alt="CFP Cyber Civil Defense Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2025&color=red"></a>
-* 11-12: [Cloud Native Zurich](https://cloudnativezurich.ch/) - Zurich (Switzerland)
+* 11-12: [Cloud Native Zurich](https://cloudnativezurich.ch/) - Zurich (Switzerland) <a href="https://sessionize.com/cloud-native-zurich-2025"><img alt="CFP Cloud Native Zurich 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=green"></a>
 * 11-13: [Render (RenderATL) 2025](https://www.renderatl.com) - Atlanta, GA (USA) <a href="https://sessionize.com/renderatl-2025/"><img alt="CFP Render (RenderATL) 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2024&color=red"></a>
 * 11-13: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland) <a href="https://devoxxpl25.cfp.dev/#/login"><img alt="CFP Devoxx Poland 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=red"></a>
 * 11-14: [BSDCan 2025](https://www.bsdcan.org/2025/) - Ottawa, ON (Canada) <a href="https://www.bsdcan.org/2025/papers.html"><img alt="CFP BSDCan 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-February-2025&color=red"></a>
@@ -611,7 +611,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17-21: [QCon San Francisco](https://qconsf.com/) - San Francisco, CA (USA)
 * 20: [Conf42.com Robotics 2025](https://www.conf42.com/robotics2025) - Online <a href="https://www.papercall.io/conf42-robotics-2025"><img alt="CFP Conf42.com Robotics 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2025&color=green"></a>
 * 20-21: [BSides Ottawa 2025](https://bsidesottawa.ca) - Ottawa, ON (Canada) <a href="https://www.papercall.io/bsidesottawa2025"><img alt="CFP BSides Ottawa 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=green"></a>
-* 21: [DevFest Paris 2025](https://devfest.gdgparis.fr/) - Paris (France) <a href="https://conference-hall.io/devfest-paris-2025"><img alt="CFP Devest Paris 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-05-2025&color=green"></a>
+* 21: [DevFest Paris 2025](https://devfest.gdgparis.fr/) - Paris (France) <a href="https://conference-hall.io/devfest-paris-2025"><img alt="CFP Devest Paris 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-May-2025&color=green"></a>
 * 24-27: [Agile Testing Days](https://agiletestingdays.com/) - Potsdam (Germany) <a href="https://www.cfp.trendig.com/"><img alt="Agile Testing Days 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2025&color=green"></a>
 
 ### December
