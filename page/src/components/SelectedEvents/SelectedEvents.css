@@ -8,6 +8,10 @@ hgroup {
     span {
       margin: 0 1rem;
     }
+
+    svg {
+      cursor: pointer;
+    }
   }
 
   p {
