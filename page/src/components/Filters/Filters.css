@@ -12,6 +12,19 @@
 
     header {
       text-align: right;
+      padding: 0 0.5rem;
+
+      button {
+        padding: 0;
+        background-color: transparent;
+        border-color: transparent;
+        color: currentColor;
+        margin-bottom: 0;
+
+        &:hover {
+          cursor: pointer;
+        }
+      }
     }
   }
 }
