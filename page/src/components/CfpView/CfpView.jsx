@@ -1,27 +1,31 @@
 import React from 'react';
-import 'styles/CfpView.css';
-import { Clock, CalendarClock } from 'lucide-react';
+import {Clock, CalendarClock} from 'lucide-react';
 
 import {useYearEvents} from 'app.hooks';
-import {getMonthName, getMonthNames} from 'utils';
-import {formatEventDates} from 'components/EventDisplay/EventDisplay.utils';
-import { flag } from 'country-emoji';
+
+import {formatEventDates, getMonthName, getMonthNames} from 'utils';
+import {flag} from 'country-emoji';
+import slugify from 'slugify';
+
+import './CfpView.css';
 
 const CfpView = () => {
   let events = useYearEvents();
 
-    // Display only opened callForPapers
-    events = events.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date());
+  // Display only opened callForPapers
+  events = events.filter(
+    e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date()
+  );
 
-   // Sort CFPs based on the closing date
-   events = events.sort((a, b) => {
-      if (!a.cfp?.untilDate || !b.cfp?.untilDate) return 0;
-      return new Date(a.cfp.untilDate) - new Date(b.cfp.untilDate);
+  // Sort CFPs based on the closing date
+  events = events.sort((a, b) => {
+    if (!a.cfp?.untilDate || !b.cfp?.untilDate) return 0;
+    return new Date(a.cfp.untilDate) - new Date(b.cfp.untilDate);
   });
 
   const eventsByMonth = events.reduce((acc, cur) => {
     let monthKey;
-      monthKey = getMonthName(new Date(cur.cfp.untilDate).getMonth());
+    monthKey = getMonthName(new Date(cur.cfp.untilDate).getMonth());
     if (!acc[monthKey]) {
       acc[monthKey] = [];
     }
@@ -38,39 +42,54 @@ const CfpView = () => {
   });
 
   return (
-    <div className="cfpView">
+    <>
       {monthOrder.map(month => (
         <React.Fragment key={month}>
-          <h1>{month} Opened CFPs:</h1>
-          <div className="eventsGridDisplay">
-          {eventsByMonth[month].map((e, i) => (
-
-          <div className='eventCell' key={`${month}_ev_${i}`}>
-  
-            <div className="content">
-              <div>
-                <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''} ({formatEventDates(e.date)})</b>
-                
-                  <span className="until"><Clock color="green" />Until {e.cfp.until} </span>
-
-                  <div className="country">
-                    <span className="countryFlag">{e.country != "Online" ? flag(e.country) : '🌎'}</span>
-                    <span className="countryName">{e.location}</span>
-                  </div>
-              </div>
-              <a className="submitButton" href={e.cfp.link} rel="noreferrer" target="_blank" title="Submit to the CFP">
-                <CalendarClock />
-                Submit to the CFP
-              </a>
-            </div>
-          </div>
-          ))}
+          <h3>{month} Opened CFPs:</h3>
+          <div className="grid grid-cfp">
+            {eventsByMonth[month].map((e, _) => (
+              <article key={`${month}_ev_${slugify(e.name)}`}>
+                <header>
+                  <span>{e.country !== 'Online' ? flag(e.country) : '🌎'}</span>
+                  <span>{e.location}</span>
+                </header>
+                <section>
+                  <p>
+                    <b>
+                      {e.hyperlink ? (
+                        <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">
+                          {e.name}
+                        </a>
+                      ) : (
+                        ''
+                      )}
+                    </b>
+                    <br />({formatEventDates(e.date)})
+                  </p>
+                  <a
+                    // biome-ignore lint/a11y/useSemanticElements: <explanation>
+                    role="button"
+                    className="secondary"
+                    href={e.cfp.link}
+                    rel="noreferrer"
+                    target="_blank"
+                    title="Submit to the CFP"
+                  >
+                    <CalendarClock />
+                    Submit to the CFP
+                  </a>
+                </section>
+                <footer>
+                  <Clock color="green" />
+                  Until {e.cfp.until}
+                </footer>
+              </article>
+            ))}
           </div>
         </React.Fragment>
       ))}
-    </div>
+    </>
   );
-
 };
 
 export default CfpView;

@@ -1,0 +1,44 @@
+@media (min-width: 768px) {
+  .grid-cfp {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.grid-cfp {
+  article {
+    display: flex;
+    flex-direction: column;
+
+    section {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+
+      p {
+        flex-grow: 1;
+      }
+
+      a[role='button'] {
+        svg {
+          margin-right: 0.5rem;
+        }
+      }
+    }
+  }
+
+  header {
+    span:first-child {
+      margin-right: 0.5rem;
+    }
+  }
+
+  footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    svg {
+      margin-right: 0.5rem;
+    }
+  }
+}
