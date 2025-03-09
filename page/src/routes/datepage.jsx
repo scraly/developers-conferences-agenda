@@ -18,7 +18,6 @@ const DatePage = () => {
   }
   return (
     <>
-      <Filters />
       <section>
         <nav className="container">
           <ul>
@@ -58,6 +57,7 @@ const DatePage = () => {
         <CalendarGrid year={year} />
         <SelectedEvents date={date} month={month} />
       </section>
+      <Filters />
     </>
   );
 };

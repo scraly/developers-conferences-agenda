@@ -1,6 +1,7 @@
 import ViewSelector from 'components/ViewSelector/ViewSelector';
 import './Header.css';
 import YearSelector from 'components/YearSelector/YearSelector';
+import {Filter} from 'lucide-react';
 
 const Header = () => {
   return (
@@ -12,6 +13,15 @@ const Header = () => {
           <ViewSelector />
         </div>
       </div>
+      <button
+        type="button"
+        id="filters-button"
+        onClick={() => document.querySelector('#filters').setAttribute('open', true)}
+        data-tooltip="Filters"
+        data-placement="right"
+      >
+        <Filter size="24px" />
+      </button>
     </header>
   );
 };
