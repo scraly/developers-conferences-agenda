@@ -75,6 +75,10 @@
     "latitude": 52.3730796,
     "longitude": 4.8924534
   },
+  "Ancona (Italy)": {
+    "latitude": 43.6071395,
+    "longitude": 13.5101741
+  },
   "Anduze (France)": {
     "latitude": 44.0545668,
     "longitude": 3.9857082
@@ -234,6 +238,10 @@
   "Belo Horizonte (Brazil)": {
     "latitude": -19.919052,
     "longitude": -43.9386685
+  },
+  "Belém (Brazil)": {
+    "latitude": -1.4563432,
+    "longitude": -48.501299
   },
   "Bengaluru (India)": {
     "latitude": 12.98815675,
@@ -1402,6 +1410,10 @@
   "Milan (Italy)": {
     "latitude": 45.4641943,
     "longitude": 9.1896346
+  },
+  "Milwaukee, WI (USA)": {
+    "latitude": 43.0410344,
+    "longitude": -87.9096783
   },
   "Minneapolis, MN (USA)": {
     "latitude": 44.9772995,
