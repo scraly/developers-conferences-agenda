@@ -579,6 +579,8 @@ All the data (past and coming) are available publicly in JSON:
 * 20-21: [BSides Ottawa 2025](https://bsidesottawa.ca) - Ottawa, ON (Canada) <a href="https://www.papercall.io/bsidesottawa2025"><img alt="CFP BSides Ottawa 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=green"></a>
 * 21: [DevFest Paris 2025](https://devfest.gdgparis.fr/) - Paris (France) <a href="https://conference-hall.io/devfest-paris-2025"><img alt="CFP Devest Paris 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-May-2025&color=green"></a>
 * 24-27: [Agile Testing Days](https://agiletestingdays.com/) - Potsdam (Germany) <a href="https://www.cfp.trendig.com/"><img alt="Agile Testing Days 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2025&color=green"></a>
+* 28: [DevFest Lyon](https://devfest.gdglyon.com/) - Lyon (France)
+* 29: [DevFest Belgium 2025](https://gdg-mons.com/) - Mons (Belgium) <a href="https://conference-hall.io/devfest-belgium-2025"><img alt="DevFest Belgium 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2025&color=green"></a>
 
 ### December
 
