@@ -233,6 +233,7 @@ All the data (past and coming) are available publicly in JSON:
 * 26: [Atlanta Cloud Conference 2025](https://atlcloudconf.com/) - Marietta, GA (USA) <a href="https://sessionize.com/atlanta-cloud-conference-2025"><img alt="CFP Atlanta Cloud Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-March-2025&color=green"></a>
 * 28: [Merge](https://merge.softwaregr.org/) - Grand Rapids, MI (USA) <a href="https://www.papercall.io/merge2025"><img alt="CFP Merge" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-February-2025&color=red"></a>
 * 29: [NDC Melbourne 2025](https://ndcmelbourne.com) - Melbourne (Australia) <a href="https://sessionize.com/ndc-melbourne-2025"><img alt="CFP NDC Melbourne 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2024&color=red"></a>
+* 29: [LlamaCon](https://www.llama.com/events/llamacon/signup/) - Online
 * 29-30: [mesh conference](https://meshconference.com/) - Calgary (Canada)
 * 29-30: [Devopsdays Aarhus](https://devopsdays.org/events/2025-aarhus) - Aarhus (Denmark) <a href="https://sessionize.com/devopsdays-aarhus-2025"><img alt="CFP Devopsdays Aarhus 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2025&color=red"></a>
 * 29-30: [MixIT](https://mixitconf.org/) - Lyon (France) <a href="https://sessionize.com/mixit-2025/"><img alt="CFP MixIT 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-January-2025&color=red"></a>
@@ -474,6 +475,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-7: [KubeCon + CloudNativeCon India 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/) - Hyderabad (India)
 * 8-9: [Beer City Code](https://beercitycode.com/) - Grand Rapids, MI (USA) <a href="https://sessionize.com/beer-city-code-2025"><img alt="CFP Beer City Code" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2025&color=red"></a>
 * 11-15: [Microsoft TechCon 365 Atlanta 2025](https://www.techcon365.com/Atlanta) - Atlanta, GA (USA) <a href="https://sessionize.com/microsoft-techcon365-atlanta2025"><img alt="CFP Microsoft TechCon 365 Atlanta 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-February-2025&color=red"></a>
+* 12: [MozCon](https://moz.com/blog/mozcon-on-the-road-2025) - London (UK) <a href="https://moz.typeform.com/to/tZyfJ7rt"><img alt="CFP MozCon London 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-March-2025&color=green"></a>
 * 13-15: [GopherCon UK](https://www.gophercon.co.uk/) - London (UK) <a href="https://sessionize.com/gophercon-uk-2025/"><img alt="CFP GopherCon UK 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-May-2025&color=green"></a>
 * 13-15: [DevOpsDays KC 2025](http://www.devopsdayskc.org) - Kansas City, MO (USA) <a href="https://devopsdays.org/events/2025-kansas-city/propose"><img alt="CFP DevOpsDays KC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-February-2025&color=red"></a>
 * 13-15: [Kansas City Developer Conference KCDC 2025](http://www.kcdc.info) - Kansas City, MO (USA) <a href="https://sessionize.com/kcdc-2025/"><img alt="CFP KCDC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-February-2025&color=red"></a>
@@ -535,6 +537,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-10: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
 * 6-10: [Jax London](https://jaxlondon.com/) - London (UK)
 * 7-8: [Cloud Native Days Austria](https://cloudnativedays.at/) - Vienna (Austria) <a href="https://sessionize.com/cloud-native-days-austria"><img alt="CFP Cloud Native Days Austria" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=green"></a>
+* 8: [MozCon](https://moz.com/blog/mozcon-on-the-road-2025) - New York, NY (USA) <a href="https://moz.typeform.com/to/tZyfJ7rt"><img alt="CFP MozCon New York 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-March-2025&color=green"></a>
 * 9-10: [Forum PHP 2025](https://event.afup.org/) - Marne-la-Vallée (France)
 * 9-10: [EuroRust 2025](https://eurorust.eu) - Paris (France) <a href="https://www.papercall.io/eurorust-2025"><img alt="CFP EuroRust 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2025&color=green"></a>
 * 10-11: [INIT 2025 Dev Conference](https://initconf.org/) - Banja Luka (Bosnia and Herzegovina) <a href="https://sessionize.com/init-2025"><img alt="CFP INIT 2025 Dev Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=red"></a>
