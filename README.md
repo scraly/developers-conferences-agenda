@@ -492,6 +492,7 @@ All the data (past and coming) are available publicly in JSON:
 * 26-28: [GopherCon 2025](https://gophercon.com/) - New York, NY (USA) <a href="https://sessionize.com/gophercon-2025/"><img alt="CFP GopherCon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2025&color=red"></a>
 * 28: [OpenSSF Community Day Europe 2025](https://events.linuxfoundation.org/openssf-community-day-europe/) - Amsterdam (Netherlands) <a href="https://sessionize.com/openssf-community-day-europe-2025/"><img alt="CFP OpenSSF Community Day Europe 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2025&color=green"></a>
 * 29: [KCD Colombia Bogota 2025](https://bit.ly/4k4ATsX) - Bogotá (Colombia) <a href="https://sessionize.com/kcd-colombia-bogota-2025"><img alt="CFP KCD Colombia Bogota 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-May-2025&color=green"></a>
+* 29-30: [PyCon Greece](https://2025.pycon.gr/en/) - Athens (Greece)
 
 ### September
 
