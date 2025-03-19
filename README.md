@@ -576,6 +576,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7: [BDX I/O](https://bdxio.fr) - Bordeaux (France)
 * 10-13: [KubeCon + CloudNativeCon NA 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2025/) - Atlanta, GA (USA)
 * 12-14: [Devoxx Morocco](https://devoxx.ma/) - Marrakech (Morocco)
+* 13: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France)
 * 13-14: [The Commit Your Code Conference 2025!](https://www.CommitYourCode.com) - Dallas, TX (USA) <a href="https://sessionize.com/the-commit-your-code-conference-2025/"><img alt="CFP The Commit Your Code Conference 2025!" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2025&color=red"></a>
 * 13-14: [Update COnference Prague 2025](https://www.updateconference.net/) - Prague (Czech Republic)
 * 17-19: [AI by the Bay](https://ai.bythebay.io/) - Oakland, CA (USA) <a href="https://sessionize.com/by-the-bay"><img alt="CFP AI by the Bay" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-March-2025&color=red"></a>
