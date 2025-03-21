@@ -1,0 +1,28 @@
+hgroup {
+  h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    scroll-margin-top: 200px;
+
+    span {
+      margin: 0 1rem;
+    }
+
+    svg {
+      cursor: pointer;
+    }
+  }
+
+  p {
+    text-align: center;
+  }
+}
+
+@media (max-width: 768px) {
+  hgroup {
+    h3 {
+      scroll-margin-top: 240px;
+    }
+  }
+}
