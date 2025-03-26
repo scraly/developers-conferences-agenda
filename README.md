@@ -541,6 +541,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-10: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
 * 6-10: [Jax London](https://jaxlondon.com/) - London (UK)
 * 7-8: [Cloud Native Days Austria](https://cloudnativedays.at/) - Vienna (Austria) <a href="https://sessionize.com/cloud-native-days-austria"><img alt="CFP Cloud Native Days Austria" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=green"></a>
+* 7-8: [Cloud Native Denmark (CND)](https://cloudnativedenmark.dk/) - Aarhus (Denmark)
 * 8: [MozCon](https://moz.com/blog/mozcon-on-the-road-2025) - New York, NY (USA) <a href="https://moz.typeform.com/to/tZyfJ7rt"><img alt="CFP MozCon New York 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-March-2025&color=red"></a>
 * 9-10: [Forum PHP 2025](https://event.afup.org/) - Marne-la-Vallée (France)
 * 9-10: [EuroRust 2025](https://eurorust.eu) - Paris (France) <a href="https://www.papercall.io/eurorust-2025"><img alt="CFP EuroRust 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2025&color=green"></a>
