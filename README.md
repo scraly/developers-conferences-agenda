@@ -535,7 +535,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 1-2: [TestBash Brighton 2025](https://www.ministryoftesting.com/events/testbash-brighton-2025) - Brighton (UK) <a href="https://www.ministryoftesting.com/contribute"><img alt="CFP TestBash Brighton 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-December-2025&color=green"></a>
 * 2: [Conf42.com Incident Management 2025](https://www.conf42.com/im2025) - Online <a href="https://www.papercall.io/conf42-incident-management-2025"><img alt="CFP Conf42.com Incident Management 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2025&color=green"></a>
-* 2-3: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France)
+* 2-3: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France) <a href="https://conference-hall.io/volcamp-2025"><img alt="CFP Volcamp 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-May-2025&color=green"></a>
 * 3-4: [Texas Linux Festival 2025](https://2025.texaslinuxfest.org) - Austin, TX (USA) <a href="https://www.papercall.io/txlf2025"><img alt="CFP Texas Linux Festival 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-August-2025&color=green"></a>
 * 5-7: [GoLab](https://golab.io) - Florence (Italy) <a href="https://sessionize.com/golab-2025/"><img alt="CFP GoLab 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-April-2025&color=green"></a>
 * 6-10: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
