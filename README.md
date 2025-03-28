@@ -402,6 +402,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11-14: [BSDCan 2025](https://www.bsdcan.org/2025/) - Ottawa, ON (Canada) <a href="https://www.bsdcan.org/2025/papers.html"><img alt="CFP BSDCan 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-February-2025&color=red"></a>
 * 12: [SREday Cologne 2025 Q2](https://sreday.com/2025-cologne-q2/) - Cologne (Germany) <a href="https://www.papercall.io/sreday-2025-cologne-q2"><img alt="CFP SREday Cologne 2025 Q2" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-April-2025&color=green"></a>
 * 12: [Middlesbrough Front End Conference](https://www.middlesbroughfe.co.uk/) - Middlesbrough (UK) <a href="https://docs.google.com/forms/d/e/1FAIpQLScFz_UOT1p_MV-KjZDYLlShVZyMOVj9jZM4yK6F7gRaUy8t9Q/viewform"><img alt="CFP Middlesbrough Front End Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=red"></a>
+* 12: [Positive Design Days](https://positive-design-days.com) - Strasbourg (France) <a href="https://conference-hall.io/positive-design-days"><img alt="CFP Positive Design Days" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-APRIL-2025&color=green"></a>
 * 12-13: [Data Céilí 2025](https://www.dataceili.ie/) - Dublin (Ireland) <a href="https://sessionize.com/data-ceili-2025/"><img alt="CFP Data Céilí 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=red"></a>
 * 12-13: [DevSum 2025](https://www.devsum.se) - Stockholm (Sweden) <a href="https://sessionize.com/devsum-2025"><img alt="CFP DevSum 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-December-2024&color=red"></a>
 * 12-13: [x33fcon conference 2025](https://www.x33fcon.com) -  Gdynia (Poland) <a href="https://www.papercall.io/x33fcon-conference-2025"><img alt="CFP x33fcon conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2025&color=red"></a>
@@ -564,6 +565,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-8: [dataMinds Connect 2025](http://datamindsconnect.be) - Mechelen (Belgium) <a href="https://sessionize.com/dataminds-connect-2025"><img alt="CFP dataMinds Connect 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2025&color=green"></a>
 * 6-10: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
 * 6-10: [Jax London](https://jaxlondon.com/) - London (UK)
+* 7: [BSides Mulhouse](https://bsides-mulhouse.fr) - Mulhouse (France) <a href="https://conference-hall.io/bsides-mulhouse-2025"><img alt="CFP BSides Mulhouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-JUNE-2025&color=green"></a>
 * 7-8: [Cloud Native Days Austria](https://cloudnativedays.at/) - Vienna (Austria) <a href="https://sessionize.com/cloud-native-days-austria"><img alt="CFP Cloud Native Days Austria" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=green"></a>
 * 7-8: [Cloud Native Denmark (CND)](https://cloudnativedenmark.dk/) - Aarhus (Denmark)
 * 8: [MozCon](https://moz.com/blog/mozcon-on-the-road-2025) - New York, NY (USA) <a href="https://moz.typeform.com/to/tZyfJ7rt"><img alt="CFP MozCon New York 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-March-2025&color=red"></a>
@@ -618,6 +620,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20-22: [XOps Conference 2025](https://xopsconference.com/) - Madrid (Spain) <a href="https://sessionize.com/xops-conference-2025"><img alt="CFP XOps Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2025&color=green"></a>
 * 21: [DevFest Paris 2025](https://devfest.gdgparis.fr/) - Paris (France) <a href="https://conference-hall.io/devfest-paris-2025"><img alt="CFP Devest Paris 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-May-2025&color=green"></a>
 * 24-27: [Agile Testing Days](https://agiletestingdays.com/) - Potsdam (Germany) <a href="https://www.cfp.trendig.com/"><img alt="Agile Testing Days 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2025&color=green"></a>
+* 27: [Devfest Strasbourg 2025](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France)
 * 28: [DevFest Lyon](https://devfest.gdglyon.com/) - Lyon (France)
 * 29: [DevFest Belgium 2025](https://gdg-mons.com/) - Mons (Belgium) <a href="https://conference-hall.io/devfest-belgium-2025"><img alt="DevFest Belgium 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2025&color=green"></a>
 
