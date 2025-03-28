@@ -95,6 +95,10 @@
     "latitude": 36.8872942,
     "longitude": 30.7074549
   },
+  "Antigua Guatemala (Guatemala)": {
+    "latitude": 14.5572969,
+    "longitude": -90.73322329999999
+  },
   "Antwerp (Belgium)": {
     "latitude": 51.2211097,
     "longitude": 4.3997081
@@ -414,6 +418,10 @@
   "Cadiz (Spain)": {
     "latitude": 36.5262463,
     "longitude": -5.9008367301110844
+  },
+  "Cagliari (Italy)": {
+    "latitude": 39.2237323,
+    "longitude": 9.1217194
   },
   "Cairo (Egypt)": {
     "latitude": 30.0443879,
@@ -1023,6 +1031,10 @@
     "latitude": 52.865196,
     "longitude": -7.9794599
   },
+  "Irvine, CA (USA)": {
+    "latitude": 33.6845673,
+    "longitude": -117.8265049
+  },
   "Irving, TX (USA)": {
     "latitude": 32.8140177,
     "longitude": -96.9488945
@@ -1251,6 +1263,10 @@
     "latitude": 46.0500268,
     "longitude": 14.5069289
   },
+  "Logroño (Spain)": {
+    "latitude": 42.4627195,
+    "longitude": -2.4449852
+  },
   "Lokoja (Nigeria)": {
     "latitude": 7.802355,
     "longitude": 6.7430327
@@ -1378,6 +1394,10 @@
   "Mechelen (Belgium)": {
     "latitude": 51.0259143,
     "longitude": 4.4775553
+  },
+  "Medan (Indonesia)": {
+    "latitude": 3.5951956,
+    "longitude": 98.6722227
   },
   "Medellin (Colombia)": {
     "latitude": 6.2476376,
@@ -2270,6 +2290,10 @@
   "Verona (Italy)": {
     "latitude": 45.4384958,
     "longitude": 10.9924122
+  },
+  "Viana do Castelo (Portugal)": {
+    "latitude": 41.6918275,
+    "longitude": -8.8344101
   },
   "Vienna (Austria)": {
     "latitude": 48.2083537,
