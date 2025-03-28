@@ -1,6 +1,8 @@
-import { createContext } from "react";
+import {createContext} from 'react';
 
-export const FilterContext = createContext({
-	searchParams: {},
-	open: false
+const FilterContext = createContext({
+  searchParams: {},
+  open: false,
 });
+
+export default FilterContext;

@@ -1,0 +1,57 @@
+@use "@picocss/pico/scss/pico" with (
+    $semantic-root-element: "#root",
+    $enable-semantic-container: false,
+    $theme-color: "zinc"
+);
+
+@import '@picocss/pico/scss/pico.colors.scss';
+
+body > footer {
+  font-size: medium;
+  border-top-color: var(--pico-header-border-color);
+  box-shadow: var(--pico-card-box-shadow);
+  padding: 2rem 0;
+
+  section {
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+
+    p a {
+      margin: 0 0.3rem;
+    }
+  }
+
+  aside li {
+    padding: 0;
+    text-align: right;
+  }
+
+  aside li:has(strong) {
+    margin: calc(var(--pico-nav-link-spacing-vertical) * -1)
+      calc(var(--pico-nav-link-spacing-horizontal) * -1);
+    padding: var(--pico-nav-link-spacing-vertical) var(--pico-nav-link-spacing-horizontal);
+  }
+}
+
+.downloads a {
+  display: flex;
+  align-items: center;
+
+  svg {
+    margin-right: 0.5rem;
+  }
+}
+
+@media (max-width: 767px) {
+  body > footer {
+    section {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    aside li {
+      text-align: center;
+    }
+  }
+}
