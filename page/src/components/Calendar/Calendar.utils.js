@@ -1,5 +1,5 @@
 export function daysToWeeks(days) {
-  let weeks = [[]]
+  const weeks = [[]]
 
   let emptyFill = 0
   for (let i = 0; i < days.length; i++) {

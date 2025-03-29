@@ -2,6 +2,20 @@
 <html lang="en">
 
 <head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta name="description"
+        content="developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors & attendees. Contribute by adding new events." />
+    <meta name="author" content="Aurélie Vache" value="Aurélie Vache" />
+    <meta name="robots" content="index, follow" value="index, follow" />
+    <meta name="keywords"
+        content="conferences, talks, events, speaker, sponsor, organizer, attendee, tech, cfp, call for papers" />
+
+    <title>Developer Conferences Agenda</title>
+
+    <script type="module" src="/src/main.jsx"></script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-20CBRBVW37"></script>
     <script>
@@ -14,76 +28,80 @@
 
         gtag('config', 'G-20CBRBVW37');
     </script>
-
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-    <meta name="description"
-        content="developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors & attendees. Contribute by adding new events." />
-    <meta name="author" content="Aurélie Vache" value="Aurélie Vache" />
-    <meta name="robots" content="index, follow" value="index, follow" />
-    <meta name="keywords" content="conferences, talks, events, speaker, sponsor, organizer, attendee, tech, cfp, call for papers" />
-
-    <title>Developer Conferences Agenda</title>
 </head>
 
 <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-</body>
-<footer>
-    <div class="content">
-
-        <p>
-            Created by
-            <a
-                href="https://x.com/aurelievache"
-                target="_blank"
-                class="footer">
-                Aurélie Vache</a> & maintained by the
-            <a
-                href="https://github.com/scraly/developers-conferences-agenda/graphs/contributors"
-                target="_blank"
-                class="footer">
-                community</a> with ❤️
-        </p>
-        <p>
-            Contribute now: create a
-            <a
-                href="https://github.com/scraly/developers-conferences-agenda/pulls"
-                target="_blank"
-                class="footer">
-                Pull Request</a> or an
-            <a
-                href="https://github.com/scraly/developers-conferences-agenda/issues"
-                target="_blank"
-                class="footer">
-                issue</a> to add an event and/or a CFP.
-        </p>
-        <p class="sponsor">
-            <a href="https://github.com/sponsors/scraly" target="_blank" class="supportButton">❤️ Sponsor developers.events</a>
-        </p>
-
-        <div class="footer-links">
-            <p>
-                Links:
-            <ul>
-                <li>
-                    <a href="https://developers.events/all-events.json" target="_blank" class="footer-link">Full events list</a>
-                </li>
-                <li>
-                    <a href="https://developers.events/all-cfps.json" target="_blank" class="footer-link">Full CFPs list</a>
-                </li>
-                <li>
-                    <a href="https://developers.events/feed-events.xml" target="_blank" class="footer-link">ATOM feed</a>
-                </li>
-                <li>
-                    <a href="https://developers.events/feed-events.json" target="_blank" class="footer-link">JSON feed</a>
-                </li>
-            </ul>
-            </p>
-        </div>
+    <div id="root">
+        <h1>Developer Conferences Agenda</h1>
     </div>
-</footer>
+    <footer>
+        <div class="container">
+            <section>
+                <div>
+                    <p>
+                        Created by
+                        <a href="https://x.com/aurelievache" target="_blank" rel="noreferrer">
+                            Aurélie Vache
+                        </a>
+                        & maintained by the
+                        <a href="https://github.com/scraly/developers-conferences-agenda/graphs/contributors"
+                            target="_blank" rel="noreferrer">
+                            community
+                        </a>
+                        with ❤️
+                    </p>
+                    <p>
+                        Contribute now: create a
+                        <a href="https://github.com/scraly/developers-conferences-agenda/pulls" target="_blank"
+                            rel="noreferrer">
+                            Pull Request
+                        </a>
+                        or an
+                        <a href="https://github.com/scraly/developers-conferences-agenda/issues" target="_blank"
+                            rel="noreferrer">
+                            issue
+                        </a>
+                        to add an event and/or a CFP.
+                    </p>
+                    <p>
+                        <a href="https://github.com/sponsors/scraly" target="_blank" role="button" rel="noreferrer">
+                            ❤️ Sponsor developers.events
+                        </a>
+                    </p>
+                </div>
+
+                <aside>
+                    <nav>
+                        <ul>
+                            <li>
+                                <strong>Links</strong>
+                            </li>
+                            <li>
+                                <a href="https://developers.events/all-events.json" target="_blank" rel="noreferrer">
+                                    Full events list
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://developers.events/all-cfps.json" target="_blank" rel="noreferrer">
+                                    Full CFPs list
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://developers.events/feed-events.xml" target="_blank" rel="noreferrer">
+                                    ATOM feed
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://developers.events/feed-events.json" target="_blank" rel="noreferrer">
+                                    JSON feed
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+                </aside>
+            </section>
+        </div>
+    </footer>
+</body>
 
 </html>
