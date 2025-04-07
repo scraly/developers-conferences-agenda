@@ -619,6 +619,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17-19: [AI by the Bay](https://ai.bythebay.io/) - Oakland, CA (USA) <a href="https://sessionize.com/by-the-bay"><img alt="CFP AI by the Bay" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-March-2025&color=red"></a>
 * 17-21: [QCon San Francisco](https://qconsf.com/) - San Francisco, CA (USA)
 * 20: [Conf42.com Robotics 2025](https://www.conf42.com/robotics2025) - Online <a href="https://www.papercall.io/conf42-robotics-2025"><img alt="CFP Conf42.com Robotics 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2025&color=green"></a>
+* 20: [OVHcloud Summit](https://summit.ovhcloud.com/fr/) - Paris (France)
 * 20-21: [BSides Ottawa 2025](https://bsidesottawa.ca) - Ottawa, ON (Canada) <a href="https://www.papercall.io/bsidesottawa2025"><img alt="CFP BSides Ottawa 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=green"></a>
 * 20-22: [XOps Conference 2025](https://xopsconference.com/) - Madrid (Spain) <a href="https://sessionize.com/xops-conference-2025"><img alt="CFP XOps Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2025&color=green"></a>
 * 21: [DevFest Paris 2025](https://devfest.gdgparis.fr/) - Paris (France) <a href="https://conference-hall.io/devfest-paris-2025"><img alt="CFP Devest Paris 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-May-2025&color=green"></a>
