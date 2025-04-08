@@ -567,3 +567,11 @@ All the data (past and coming) are available publicly in JSON:
 
 * 15-18: [KubeCon + CloudNativeCon Europe 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/) - Barcelona (Spain)
 
+
+## Sponsorship
+
+❤️ This project is sponsored by:
+
+- [typesense](https://github.com/typesense)
+
+[![Github Sponsors](https://img.shields.io/badge/Sponsor%20developers.events%20!-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/scraly)
