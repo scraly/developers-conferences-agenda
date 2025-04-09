@@ -1,0 +1,70 @@
+.calendar header {
+  text-align: center;
+
+  button {
+    margin: 0;
+    padding: 0.25rem 1rem;
+  }
+}
+
+.dayList {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  text-align: center;
+}
+
+.dayList > span {
+  padding: 5px;
+}
+
+.weeks {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.week {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 2px;
+}
+
+.date {
+  padding: 10px;
+  text-align: center;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.date.invisible {
+  visibility: hidden;
+}
+
+.date.intensity-1 {
+  background-color: var(--pico-color-slate-150);
+  color: #000;
+}
+.date.intensity-2 {
+  background-color: var(--pico-color-slate-250);
+  color: #000;
+}
+.date.intensity-3 {
+  background-color: var(--pico-color-slate-350);
+  color: #000;
+}
+.date.intensity-4 {
+  background-color: var(--pico-color-slate-450);
+  color: #000;
+}
+.date.intensity-5 {
+  background-color: var(--pico-color-slate-550);
+  color: #fff;
+}
+.date.intensity-6 {
+  background-color: var(--pico-color-slate-650);
+  color: #fff;
+}
+.date.intensity-7 {
+  background-color: var(--pico-color-slate-750);
+  color: #fff;
+}

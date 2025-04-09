@@ -1,10 +1,10 @@
-import { useParams, useSearchParams } from 'react-router-dom'
+import { useLocation, useParams, useSearchParams } from 'react-router-dom'
 import allEvents from 'misc/all-events.json'
 import regions from 'misc/regions.json'
 import { useMemo } from 'react'
 
 export const useHasYearEvents = (year) => {
-  return useMemo(() => Boolean(allEvents.find((e) => new Date(e.date[0]).getFullYear() === parseInt(year, 10))), [year])
+  return useMemo(() => Boolean(allEvents.find((e) => new Date(e.date[0]).getFullYear() === Number.parseInt(year, 10))), [year])
 }
 
 export const useCountries = () => {
@@ -12,16 +12,16 @@ export const useCountries = () => {
     const countries = new Set(allEvents.map((e) => e.country))
 
     return Array.from(countries)
-      .filter((c) => c != 'Online' && c != '')
+      .filter((c) => c !== 'Online' && c !== '')
       .sort()
   }, [])
 }
 
 export const useCountryToRegionMap = () => {
   return useMemo(() => {
-    let results = {}
-    Object.keys(regions).forEach((region) => {
-      regions[region].forEach((country) => (results[country] = region))
+    const results = {}
+    Object.keys(regions).forEach((region, _) => {
+      regions[region].forEach((country, _) => { results[country] = region })
     })
     return results
   }, [])
@@ -44,7 +44,7 @@ export const useYearEvents = () => {
   const [searchParams] = useSearchParams()
   const search = Object.fromEntries(searchParams)
   const regionsMap = useCountryToRegionMap()
-  const yearEvents = useMemo(() => allEvents.filter((e) => e.date[0] && new Date(e.date[0]).getFullYear() === parseInt(year, 10)), [year])
+  const yearEvents = useMemo(() => allEvents.filter((e) => e.date[0] && new Date(e.date[0]).getFullYear() === Number.parseInt(year, 10)), [year])
 
   const filteredEvents = useMemo(() => {
     let result = yearEvents
@@ -86,7 +86,7 @@ export const useYearEvents = () => {
       )
     }
     return result
-  }, [yearEvents, searchParams])
+  }, [yearEvents, regionsMap, search])
 
   return filteredEvents
 }
@@ -136,3 +136,5 @@ export const useDayEvents = (monthEvents, day = null) => {
     return result
   }, [filterDay, monthEvents])
 }
+
+export const useView = () => useLocation().pathname.split('/')[2]?.split("?")[0];
