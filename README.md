@@ -185,6 +185,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-15: [iOSKonf25](https://ioskonf.mk/) - Skopje (Macedonia) <a href="https://www.papercall.io/ioskonf25"><img alt="CFP iOSKonf25" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=red"></a>
 * 13-17: [RustWeek 2025](https://rustweek.org) - Utrecht (Netherlands) <a href="https://www.papercall.io/rust-week"><img alt="CFP Rust Week 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2025&color=red"></a>
 * 13-17: [GOSIM Rust Spotlight](https://spotlight.gosim.org/rust2025) - Utrecht (Netherlands)
+* 14: [AuthCon](https://www.authcon.io/) - New York, NY (USA)
 * 14: [Civo Navigate Austin 2025](https://www.civo.com/navigate/austin/2025) - Austin, TX (USA)
 * 14: [Real-Time Analytics Summit 2025](https://startree.ai/rta-summit) - Online <a href="https://sessionize.com/real-time-analytics-summit-2025/"><img alt="CFP Real-Time Analytics Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-January-2025&color=red"></a>
 * 14-15: [Camunda Community Summit](https://www.camundacon.com/amsterdam/) - Amsterdam (Netherlands)
