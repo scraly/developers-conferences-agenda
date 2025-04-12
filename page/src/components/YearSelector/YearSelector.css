@@ -1,0 +1,28 @@
+.yearSelector {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  h2 {
+    margin: 0 2rem;
+    font-size: 3rem;
+  }
+}
+
+.arrowButton {
+  cursor: pointer;
+}
+
+.arrowButton:hover {
+  cursor: pointer;
+  transition: transform 0.5s;
+  transform: scale(1.15);
+  -webkit-transform: scale(1.15);
+  -moz-transform: scale(1.15);
+  -ms-transform: scale(1.15);
+  -o-transform: scale(1.15);
+  -webkit-transition: transform 0.5s;
+  -moz-transition: transform 0.5s;
+  -ms-transition: transform 0.5s;
+  -o-transition: transform 0.5s;
+}
