@@ -348,7 +348,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28: [2025 Data.SQL.Saturday.SD (SQLSatSD)](https://sqlsaturday.com/2025-06-28-sqlsaturday1113/) - San Diego, CA (USA) <a href="https://sessionize.com/2025-data-sql-saturday-sd-sqlsatsd-co"><img alt="CFP 2025 Data.SQL.Saturday.SD (SQLSatSD)" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-May-2025&color=green"></a>
 * 30-1/7: [Code Europe](https://www.codeeurope.pl/en/) -  Krakow (Poland) <a href="https://www.codeeurope.pl/en/become-a-speaker"><img alt="CFP Code Europe 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2025&color=red"></a>
 * 30-1/7: [Agile World 2025](https://www.agileworld.de) - Munich (Germany) <a href="https://sessionize.com/agile-world-2025/"><img alt="CFP Agile World 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-March-2025&color=red"></a>
-* 30-1/7: [fwd:cloudsec North America 2025](https://fwdcloudsec.org/conference/north-america/) - Denver, CO (USA) <a href="https://fwdcloudsec.org/conference/north-america/cfp.html"><img alt="CFP fwd cloudsec NA 25" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-April-2025&color=green"></a>
+* 30-1/7: [fwd:cloudsec North America 2025](https://fwdcloudsec.org/conference/north-america/) - Denver, CO (USA) <a href="https://fwdcloudsec.org/conference/north-america/cfp.html"><img alt="CFP fwd cloudsec NA 25" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-April-2025&color=red"></a>
 * 30-3/7: [DWX - Developer Week '25](https://www.developer-week.de) - Mannheim (Germany) <a href="https://sessionize.com/developer-week-25/"><img alt="CFP DWX - Developer Week '25" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2025&color=red"></a>
 
 ### July
@@ -454,7 +454,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-28: [Macoun 2025](https://macoun.de/index.php) - Frankfurt (Germany)
 * 28-2/10: [COSAC 2025](https://cosac.net/cosac/) - Kildare (Ireland) <a href="https://cosac.net/cosac/call-for-papers/"><img alt="CFP COSAC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-March-2025&color=red"></a>
 * 29-2/10: [Jax New York](https://devm.io/jaxnewyork/) - New York, NY (USA)
-* 29-2/10: [dev2next](https://www.dev2next.com/) - Colorado Springs, CO (USA) <a href="https://www.dev2next.com/cfp"><img alt="CFP dev2next 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-April-2025&color=green"></a>
+* 29-2/10: [dev2next](https://www.dev2next.com/) - Colorado Springs, CO (USA) <a href="https://www.dev2next.com/cfp"><img alt="CFP dev2next 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-April-2025&color=red"></a>
 
 ### October
 
@@ -469,7 +469,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-10: [Jax London](https://jaxlondon.com/) - London (UK)
 * 7: [BSides Mulhouse](https://bsides-mulhouse.fr) - Mulhouse (France) <a href="https://conference-hall.io/bsides-mulhouse-2025"><img alt="CFP BSides Mulhouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-June-2025&color=green"></a>
 * 7-8: [Cloud Native Days Austria](https://cloudnativedays.at/) - Vienna (Austria) <a href="https://sessionize.com/cloud-native-days-austria"><img alt="CFP Cloud Native Days Austria" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=green"></a>
-* 7-8: [Cloud Native Denmark (CND)](https://cloudnativedenmark.dk/) - Aarhus (Denmark)
+* 7-8: [Cloud Native Denmark (CND)](https://cloudnativedenmark.dk/) - Aarhus (Denmark) <a href="https://sessionize.com/cloud-native-denmark-2025/"><img alt="CFP Cloud Native Denmark 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=green"></a>
 * 8: [MozCon](https://moz.com/blog/mozcon-on-the-road-2025) - New York, NY (USA) <a href="https://moz.typeform.com/to/tZyfJ7rt"><img alt="CFP MozCon New York 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-March-2025&color=red"></a>
 * 9: [KCD Warsaw 2025](https://community.cncf.io/events/details/cncf-kcd-warsaw-presents-kcd-warsaw-2025/) - Warsaw (Poland) <a href="https://sessionize.com/kcd-warsaw-2025"><img alt="CFP KCD Warsaw 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=green"></a>
 * 9-10: [Forum PHP 2025](https://event.afup.org/) - Marne-la-Vallée (France)
