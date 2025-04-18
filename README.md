@@ -498,7 +498,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-31: [Africa's Talking Summit 2025](https://summit.africastalking.com/) - Johannesburg (South Africa) <a href="https://www.papercall.io/atsummit2025"><img alt="CFP Africa's Talking Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-June-2025&color=green"></a>
 * 30: [Conf42.com JavaScript 2025](https://www.conf42.com/js2025) - Online <a href="https://www.papercall.io/conf42-javascript-2025"><img alt="CFP Conf42.com JavaScript 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2025&color=green"></a>
 * 30-31: [Agile Tour Bordeaux 2025](https://agiletourbordeaux.fr/) - Bordeaux (France) <a href="https://sessionize.com/agile-tour-bordeaux-2025/"><img alt="CFP Agile Tour Bordeaux 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=green"></a>
-* 30-31: [Agile Tour Nantais 2025](https://agilenantes.org/) - Nantes (France) <a href="https://sessionize.com/agile-tour-nantais-2025/"><img alt="CFP Agile Tour Nantais 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=green"></a>
+* 30-31: [Agile Tour Nantais 2025](https://agilenantes.org/) - Nantes (France) <a href="https://sessionize.com/agile-tour-nantais-2025/"><img alt="CFP Agile Tour Nantais 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=green"></a>
 * 30-1/11: [HoneyCON25](https://honeycon.eu/) - Guadalajara (Spain) <a href="https://www.papercall.io/honeycon25"><img alt="CFP HoneyCON25" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-September-2025&color=green"></a>
 * 30-2/11: [PyConFR 2025](https://www.pycon.fr/2025/) - Lyon (France)
 
