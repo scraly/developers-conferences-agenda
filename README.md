@@ -216,6 +216,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20-21: [DevOpsDays Baltimore 2025](https://devopsdays.org/events/2025-baltimore/welcome/) - Baltimore, MD (USA) <a href="https://talks.devopsdays.org/devopsdays-baltimore-2025/cfp"><img alt="CFP DevOpsDays Baltimore 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=red"></a>
 * 20-22: [php tek 2025](https://phptek.io) - Chicago, IL (USA) <a href="https://sessionize.com/phptek-2025"><img alt="CFP php[tek] 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=red"></a>
 * 20-22: [Expo:QA](https://expoqa.eu) - Madrid (Spain) <a href="https://expoqa.eu/c4s/"><img alt="CFP Expo:QA" src="https://img.shields.io/static/v1?label=CFP&message=until%208-November-2024&color=red"></a>
+* 20-23: [Upper Bound AI Conference](https://www.upperbound.ai/) - Edmonton, AB (Canada)
 * 21-23: [Spring I/O](https://springio.net/) - Barcelona (Spain) <a href="https://2025.springio.net/"><img alt="CFP SPring IO 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-February-2025&color=red"></a>
 * 21-23: [KotlinConf 2025](https://kotlinconf.com) - Copenhagen (Denmark) <a href="https://sessionize.com/kotlinconf-2025/"><img alt="CFP KotlinConf 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2024&color=red"></a>
 * 21-23: [DevDays Europe](https://devdays.lt/) -  Vilnius (Lithuania) <a href="https://airtable.com/appxohB7p2Fk5gv92/shrKKg4aOrOJ0HBwB"><img alt="CFP DevDays Europe 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-May-2025&color=green"></a>
@@ -387,6 +388,7 @@ All the data (past and coming) are available publicly in JSON:
 ### August
 
 * 4: [EUC World: Amplify](https://worldofeuc.org/EUCWorld2025) - Minneapolis, MN (USA) <a href="https://www.papercall.io/eucworld2025"><img alt="CFP EUC World: Amplify" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-February-2025&color=red"></a>
+* 5-8: [The 2nd Reinforcement Learning Conference (RLC)](https://rl-conference.cc) - Edmonton, AB (Canada)
 * 6-7: [KubeCon + CloudNativeCon India 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/) - Hyderabad (India)
 * 8-9: [Beer City Code](https://beercitycode.com/) - Grand Rapids, MI (USA) <a href="https://sessionize.com/beer-city-code-2025"><img alt="CFP Beer City Code" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2025&color=red"></a>
 * 11-15: [Microsoft TechCon 365 Atlanta 2025](https://www.techcon365.com/Atlanta) - Atlanta, GA (USA) <a href="https://sessionize.com/microsoft-techcon365-atlanta2025"><img alt="CFP Microsoft TechCon 365 Atlanta 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-February-2025&color=red"></a>
