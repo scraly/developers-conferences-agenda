@@ -365,6 +365,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-10: [RailsConf 2025](http://railsconf.org) - Philadelphia, PA (USA) <a href="https://sessionize.com/railsconf-2025/"><img alt="CFP RailsConf 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=red"></a>
 * 9-10: [Automotive Grade Linux All Member Meeting Summer](https://events.linuxfoundation.org/agl-amm-summer/) - Berlin (Germany)
 * 9-11: [WeAreDevelopers World Congress 2025](https://www.wearedevelopers.com/world-congress) - Berlin (Germany) <a href="https://sessionize.com/wearedevelopers-world-congress-2025"><img alt="CFP WeAreDevelopers World Congress 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2025&color=red"></a>
+* 13-19: [The 42nd International Conference on Machine Learning (ICML)](https://icml.cc/) - Vancouver, BC (Canada)
 * 14-16: [droidcon Amman 2025](https://amman.droidcon.com) - Amman (Jordan) <a href="https://sessionize.com/droidcon-amman-2025"><img alt="CFP droidcon Amman 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2025&color=green"></a>
 * 14-20: [EuroPython 2025](https://ep2025.europython.eu/) - Prague (Czech Republic)
 * 15-18: [UberConf 2025](https://dev.events/conferences/uber-conf-2025-oyhd6zi) - Denver, CO (USA)
