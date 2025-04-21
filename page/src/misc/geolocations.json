@@ -7,6 +7,10 @@
     "latitude": 5.1215877,
     "longitude": 7.3732655
   },
+  "Abeokuta (Nigeria)": {
+    "latitude": 7.147502,
+    "longitude": 3.3619356
+  },
   "Abomey-Calavi (Benin)": {
     "latitude": 6.51096225,
     "longitude": 2.3303076367454025
@@ -30,6 +34,10 @@
   "Agadir (Morocco)": {
     "latitude": 30.4205162,
     "longitude": -9.5838532
+  },
+  "Aguascalientes (Mexico)": {
+    "latitude": 21.8852562,
+    "longitude": -102.2915677
   },
   "Ahmedabad (India)": {
     "latitude": 23.0216238,
@@ -210,6 +218,10 @@
   "Baton Rouge, LA (USA)": {
     "latitude": 30.4514677,
     "longitude": -91.18714659999999
+  },
+  "Batu Kawan (Malaysia)": {
+    "latitude": 5.270447,
+    "longitude": 100.4196629
   },
   "Beijing (China)": {
     "latitude": 39.904211,
@@ -1478,6 +1490,10 @@
   "Monterrey (Mexico)": {
     "latitude": 25.6802019,
     "longitude": -100.315258
+  },
+  "Montevideo (Uruguay)": {
+    "latitude": -34.9055016,
+    "longitude": -56.1851147
   },
   "Montpellier (France)": {
     "latitude": 43.6112422,
