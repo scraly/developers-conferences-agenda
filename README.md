@@ -540,6 +540,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 1-4: [ESPC25](https://www.sharepointeurope.com) - Dublin (Ireland) <a href="https://sessionize.com/espc25"><img alt="CFP ESPC25" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-March-2025&color=red"></a>
 * 4: [Conf42.com DevSecOps 2025](https://www.conf42.com/devsecops2024) - Online <a href="https://www.papercall.io/conf42-devsecops-2025"><img alt="CFP Conf42.com DevSecOps 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-November-2025&color=green"></a>
+* 5: [DevFest Dijon 2025](https://devfest.developers-group-dijon.fr/) - Dijon (France) <a href="https://conference-hall.io/devfest-dijon-2025"><img alt="CFP Devest Dijon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=green"></a>
 * 8-10: [AI_dev: Open Source GenAI & ML Summit Japan 2025](https://events.linuxfoundation.org/ai-dev-japan-2025/) - Tokyo (Japan)
 * 8-10: [Open Source Summit Japan 2025](https://events.linuxfoundation.org/open-source-summit-japan-2025/) - Tokyo (Japan)
 * 11: [DevOpsDays Tel Aviv 2025](https://devopsdays.org/tel-aviv) - Tel Aviv (Israel) <a href="https://sessionize.com/devopsdays-tel-aviv-2025"><img alt="CFP DevOpsDays Tel Aviv 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=green"></a>
