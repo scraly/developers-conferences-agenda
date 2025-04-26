@@ -582,6 +582,8 @@ All the data (past and coming) are available publicly in JSON:
 * 5: [DevFest Dijon 2025](https://devfest.developers-group-dijon.fr/) - Dijon (France) <a href="https://conference-hall.io/devfest-dijon-2025"><img alt="CFP Devest Dijon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=green"></a>
 * 8-10: [AI_dev: Open Source GenAI & ML Summit Japan 2025](https://events.linuxfoundation.org/ai-dev-japan-2025/) - Tokyo (Japan)
 * 8-10: [Open Source Summit Japan 2025](https://events.linuxfoundation.org/open-source-summit-japan-2025/) - Tokyo (Japan)
+* 10-11: [Devops REX](https://www.devopsrex.fr/) - Paris (France) <a href="https://talks.devopsdays.org/devops-rex-2025/cfp"><img alt="CFP Devops REX 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-June-2025&color=green"></a>
+* 10-11: [Open Source Experience](https://www.opensource-experience.com) - Paris (France)
 * 11: [DevOpsDays Tel Aviv 2025](https://devopsdays.org/tel-aviv) - Tel Aviv (Israel) <a href="https://sessionize.com/devopsdays-tel-aviv-2025"><img alt="CFP DevOpsDays Tel Aviv 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=green"></a>
 * 11-12: [Open Compliance Summit 2025](https://events.linuxfoundation.org/open-compliance-summit-2025/) - Tokyo (Japan)
 * 18: [Conf42.com Internet of Things (IoT) 2025](https://www.conf42.com/iot2025) - Online <a href="https://www.papercall.io/conf42-iot-2025"><img alt="CFP Conf42.com Internet of Things (IoT) 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2025&color=green"></a>
