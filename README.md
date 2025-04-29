@@ -538,7 +538,7 @@ All the data (past and coming) are available publicly in JSON:
 * 30-31: [Agile Tour Bordeaux 2025](https://agiletourbordeaux.fr/) - Bordeaux (France) <a href="https://sessionize.com/agile-tour-bordeaux-2025/"><img alt="CFP Agile Tour Bordeaux 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=green"></a>
 * 30-31: [Agile Tour Nantais 2025](https://agilenantes.org/) - Nantes (France) <a href="https://sessionize.com/agile-tour-nantais-2025/"><img alt="CFP Agile Tour Nantais 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=green"></a>
 * 30-1/11: [HoneyCON25](https://honeycon.eu/) - Guadalajara (Spain) <a href="https://www.papercall.io/honeycon25"><img alt="CFP HoneyCON25" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-September-2025&color=green"></a>
-* 30-2/11: [PyConFR 2025](https://www.pycon.fr/2025/) - Lyon (France)
+* 30-2/11: [PyConFR 2025](https://www.pycon.fr/2025/) - Lyon (France) <a href="https://cfp.pycon.fr/pyconfr-2025/cfp"><img alt="CFP PyConFR 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-July-2025&color=green"></a>
 
 ### November
 
