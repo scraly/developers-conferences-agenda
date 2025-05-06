@@ -217,6 +217,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20-21: [Codemotion Madrid 2025](https://conferences.codemotion.com/madrid2025/en/home/) - Madrid (Spain) <a href="https://sessionize.com/codemotion-madrid-2025"><img alt="CFP Codemotion Madrid 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-February-2025&color=red"></a>
 * 20-21: [Current London 2025](https://current.confluent.io/london) - London (UK) <a href="https://sessionize.com/current-london-2025"><img alt="CFP Current London 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-February-2025&color=red"></a>
 * 20-21: [DevOpsDays Baltimore 2025](https://devopsdays.org/events/2025-baltimore/welcome/) - Baltimore, MD (USA) <a href="https://talks.devopsdays.org/devopsdays-baltimore-2025/cfp"><img alt="CFP DevOpsDays Baltimore 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=red"></a>
+* 20-22: [Oracle Dev Days](https://www.oracle.com/fr/developer/events/dev-tour) - online
 * 20-22: [php tek 2025](https://phptek.io) - Chicago, IL (USA) <a href="https://sessionize.com/phptek-2025"><img alt="CFP php[tek] 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2024&color=red"></a>
 * 20-22: [Expo:QA](https://expoqa.eu) - Madrid (Spain) <a href="https://expoqa.eu/c4s/"><img alt="CFP Expo:QA" src="https://img.shields.io/static/v1?label=CFP&message=until%208-November-2024&color=red"></a>
 * 20-23: [Upper Bound AI Conference](https://www.upperbound.ai/) - Edmonton, AB (Canada)
