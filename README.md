@@ -570,7 +570,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20: [OVHcloud Summit](https://summit.ovhcloud.com/fr/) - Paris (France)
 * 20-21: [BSides Ottawa 2025](https://bsidesottawa.ca) - Ottawa, ON (Canada) <a href="https://www.papercall.io/bsidesottawa2025"><img alt="CFP BSides Ottawa 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=green"></a>
 * 20-22: [XOps Conference 2025](https://xopsconference.com/) - Madrid (Spain) <a href="https://sessionize.com/xops-conference-2025"><img alt="CFP XOps Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2025&color=green"></a>
-* 21: [DevFest Paris 2025](https://devfest.gdgparis.fr/) - Paris (France) <a href="https://conference-hall.io/devfest-paris-2025"><img alt="CFP Devest Paris 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-May-2025&color=green"></a>
+* 21: [DevFest Paris 2025](https://devfest.gdgparis.fr/) - Paris (France) <a href="https://conference-hall.io/devfest-paris-2025"><img alt="CFP Devest Paris 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-May-2025&color=green"></a>
 * 24-27: [Agile Testing Days](https://agiletestingdays.com/) - Potsdam (Germany) <a href="https://www.cfp.trendig.com/"><img alt="Agile Testing Days 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2025&color=red"></a>
 * 27: [Devfest Strasbourg 2025](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France)
 * 28: [DevFest Lyon](https://devfest.gdglyon.com/) - Lyon (France) <a href="https://conference-hall.io/devfest-lyon-2025"><img alt="DevFest Lyon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=green"></a>
