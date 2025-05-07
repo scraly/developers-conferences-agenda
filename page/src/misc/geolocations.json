@@ -299,6 +299,10 @@
     "latitude": 33.5206824,
     "longitude": -86.8024326
   },
+  "Bloomington, IN (USA)": {
+    "latitude": 39.169574,
+    "longitude": -86.5385549
+  },
   "Bochum (Germany)": {
     "latitude": 51.4818111,
     "longitude": 7.2196635
@@ -307,9 +311,9 @@
     "latitude": 4.710988599999999,
     "longitude": -74.072092
   },
-  "Boise (USA)": {
-    "latitude": 43.6166163,
-    "longitude": -116.200886
+  "Boise, ID (USA)": {
+    "latitude": 43.6150186,
+    "longitude": -116.2023137
   },
   "Bologna (Italy)": {
     "latitude": 44.4938203,
@@ -542,6 +546,10 @@
   "Cincinnati, OH (USA)": {
     "latitude": 39.1031182,
     "longitude": -84.5120196
+  },
+  "Ciudad de Neuquén (Argentina)": {
+    "latitude": -38.9516784,
+    "longitude": -68.0591888
   },
   "Clearwater, FL (USA)": {
     "latitude": 27.9658533,
@@ -1186,6 +1194,10 @@
   "Krakow (Poland)": {
     "latitude": 50.0619474,
     "longitude": 19.9368564
+  },
+  "Kuala Lumpur (Malaysia)": {
+    "latitude": 3.1319197,
+    "longitude": 101.6840589
   },
   "Kyiv (Ukraine)": {
     "latitude": 50.4500336,
@@ -1843,6 +1855,10 @@
     "latitude": 42.2130151,
     "longitude": 20.7363339
   },
+  "Provo, UT (USA)": {
+    "latitude": 40.2335349,
+    "longitude": -111.6669789
+  },
   "Pune (India)": {
     "latitude": 18.5204303,
     "longitude": 73.8567437
@@ -1974,6 +1990,10 @@
   "San Jose (USA)": {
     "latitude": 37.3361663,
     "longitude": -121.890591
+  },
+  "San José (Costa Rica)": {
+    "latitude": 9.9280694,
+    "longitude": -84.0907246
   },
   "San Miguel (El Salvador)": {
     "latitude": 13.4803899,
