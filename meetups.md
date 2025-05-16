@@ -36,4 +36,4 @@ The goal of this file is, in a first step, to list the meetups and user groups.
 * [Toulouse Java User Group](https://www.toulousejug.org/) <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Java&color=blue" /> <img alt="Category (JUG)" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
 * [Toulouse Tech Hub](toulouse-tech-hub.fr) <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />(java, IA, Ruby, GDG, FabLab, Agile)
 * [Web en Vert](https://webenvert.fr/) - Saint Etienne <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
-* [Meetup Toulouse-DataViz](https://www.meetup.com/meetup-visualisation-des-donnees-toulouse/) - Toulouse (France)
+* [Meetup Toulouse-DataViz](https://www.meetup.com/meetup-visualisation-des-donnees-toulouse/) - Toulouse (France) <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Dataviz&color=gray" />
