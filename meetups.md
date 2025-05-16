@@ -5,7 +5,7 @@ The goal of this file is, in a first step, to list the meetups and user groups.
 ## France
 * [AlpesJUG](http://alpesjug.org/) - Grenoble <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Java&color=blue" /> <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
 * [Bordeaux Java User Group](http://www.bordeauxjug.org/)<img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Java&color=blue" /> <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
-* * [BreizhJUG](https://www.breizhjug.org) - Rennes <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
+* [BreizhJUG](https://www.breizhjug.org) - Rennes <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
 * [Clermon'Tech](planet.clermontech.org) - Clermont Ferrand <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
 * [Cloud Native Aix-Marseille](https://community.cncf.io/cloud-native-aix-marseille/) <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=CloudNative&color=green" />
 * [Cloud Native Orléans](https://community.cncf.io/cloud-native-orleans/)<img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=CloudNative&color=green" />
