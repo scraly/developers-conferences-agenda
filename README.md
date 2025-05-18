@@ -404,7 +404,7 @@ All the data (past and coming) are available publicly in JSON:
 * 26: [BSides Bloomington](https://bsidesbloomington.org) - Bloomington, IN (USA) <a href="https://www.papercall.io/bsidesbloomington"><img alt="CFP BSides Bloomington" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=green"></a>
 * 26-27: [Voxxed Days Crete](https://crete.voxxeddays.com/) - Heraklion (Greece)
 * 27: [Extremadura Digital Day 2025](https://extremaduradigitalday.com) - Cáceres (Spain) <a href="https://www.papercall.io/extremadura-digital-day"><img alt="CFP Extremadura Digital Day 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2025&color=red"></a>
-* 27: [RomHack](https://romhack.io/) - Rome (Italy) <a href="https://cfp.romhack.io/romhack-2025/cfp"><img alt="CFP RomHack 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-May-2025&color=green"></a>
+* 27: [RomHack](https://romhack.io/) - Rome (Italy) <a href="https://cfp.romhack.io/romhack-2025/cfp"><img alt="CFP RomHack 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=green"></a>
 * 27: [TEDxGrandJunction 2025](http://tedxgj.com) - Grand Junction, CO (USA) <a href="https://www.papercall.io/tedxgj2025"><img alt="CFP TEDxGrandJunction 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-May-2025&color=red"></a>
 * 27-28: [Macoun 2025](https://macoun.de/index.php) - Frankfurt (Germany)
 * 28-2/10: [COSAC 2025](https://cosac.net/cosac/) - Kildare (Ireland) <a href="https://cosac.net/cosac/call-for-papers/"><img alt="CFP COSAC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-March-2025&color=red"></a>
