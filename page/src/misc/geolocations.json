@@ -343,6 +343,10 @@
     "latitude": 50.7201514,
     "longitude": -1.8799118
   },
+  "Boyacá (Colombia)": {
+    "latitude": 5.454511,
+    "longitude": -73.362003
+  },
   "Brabrand (Denmark)": {
     "latitude": 56.1565872,
     "longitude": 10.1056465
@@ -811,6 +815,10 @@
     "latitude": 36.7377981,
     "longitude": -119.7871247
   },
+  "Fulton, MO (USA)": {
+    "latitude": 38.84670819999999,
+    "longitude": -91.94795859999999
+  },
   "Gabrovo (Bulgaria)": {
     "latitude": 42.9638895,
     "longitude": 25.211953846464205
@@ -1110,6 +1118,10 @@
   "Jaén (Spain)": {
     "latitude": 37.7795941,
     "longitude": -3.784905699999999
+  },
+  "Jinan (China)": {
+    "latitude": 36.6518399,
+    "longitude": 117.12009
   },
   "Jinja (Uganda)": {
     "latitude": 0.57515665,
@@ -1747,6 +1759,10 @@
     "latitude": -31.7699736,
     "longitude": -52.3410161
   },
+  "Pereira (Colombia)": {
+    "latitude": 4.8087174,
+    "longitude": -75.690601
+  },
   "Pergamino (Argentina)": {
     "latitude": -33.897495,
     "longitude": -60.575046
@@ -2003,6 +2019,10 @@
     "latitude": 13.4803899,
     "longitude": -88.17722
   },
+  "San Salvador (El Salvador)": {
+    "latitude": 13.6929403,
+    "longitude": -89.2181911
+  },
   "Sandusky, OH (USA)": {
     "latitude": 41.2951563,
     "longitude": -83.1555438
@@ -2034,6 +2054,10 @@
   "Santiago (Chile)": {
     "latitude": -33.4377756,
     "longitude": -70.6504502
+  },
+  "Santiago (Dominican Republic)": {
+    "latitude": 19.4791963,
+    "longitude": -70.6930568
   },
   "Santiago de Compostela (Spain)": {
     "latitude": 42.8768606,
@@ -2239,6 +2263,10 @@
     "latitude": 35.6840574,
     "longitude": 139.7744912
   },
+  "Toluca (Mexico)": {
+    "latitude": 19.2826098,
+    "longitude": -99.6556653
+  },
   "Torino (Italy)": {
     "latitude": 45.0677551,
     "longitude": 7.6824892
@@ -2354,6 +2382,10 @@
   "Viana do Castelo (Portugal)": {
     "latitude": 41.6918275,
     "longitude": -8.8344101
+  },
+  "Vicenza (Italy)": {
+    "latitude": 45.5461815,
+    "longitude": 11.5413779
   },
   "Vienna (Austria)": {
     "latitude": 48.2083537,
