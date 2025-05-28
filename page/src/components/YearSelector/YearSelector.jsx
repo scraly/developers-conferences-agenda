@@ -18,9 +18,9 @@ const YearSelector = ({ isMap, year, onChange, view }) => {
     <div>
       <div className="yearNavigatorWrapper">
         <div className="yearNavigator">
-            <ArrowLeftCircle className="arrowButton" onClick={() => onChange(year - 1)} />
+            <ArrowLeftCircle size="42px" className="arrowButton" onClick={() => onChange(year - 1)} />
             <h2 className="bigYearLabel">{year}</h2>
-            <ArrowRightCircle className="arrowButton" onClick={() => onChange(year + 1)} />
+            <ArrowRightCircle size="42px" className="arrowButton" onClick={() => onChange(year + 1)} />
         </div>
         <ViewSelector selected={view}/>
       </div>

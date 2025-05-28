@@ -22,3 +22,11 @@
 .view-type-selector .view-selector:first-child {
   border-left: 0;
 }
+
+@media (max-width: 768px) {
+  .view-type-selector {
+    position: static; /* Remove absolute positioning */
+    right: auto; /* Reset right positioning */
+    margin-top: 0.5rem; /* Add some top margin for spacing */
+  }
+}
