@@ -55,7 +55,7 @@ const Filters = ({ view }) => {
         }}
         title={open ? 'Close filters' : 'Open filters'}
       >
-        <div className='filters-icon'>{open ? <FilterX size="32px" /> : <Filter size="32px" />}</div>
+        <div className='filters-icon'>{open ? <FilterX size="42px" /> : <Filter size="42px" />}</div>
         <span className='filters-title'>Filters</span>
       </div>
 
