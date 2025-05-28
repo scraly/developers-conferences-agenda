@@ -623,6 +623,7 @@ All the data (past and coming) are available publicly in JSON:
 ### April
 
 * 23-25: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece)
+* 24-26: [Great International Developer Summit 2026 (GIDS 2026)](https://developersummit.com/) - Bengaluru (India)
 
 ### June
 
