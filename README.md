@@ -363,6 +363,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28-29: [ElixirConf® US 2025](https://www.elixirconf.com/) - Orlando, FL (USA) <a href="https://sessionize.com/elixirconf-2025/"><img alt="CFP ElixirConf® US 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-April-2025&color=red"></a>
 * 29: [KCD Colombia Bogota 2025](https://bit.ly/4k4ATsX) - Bogotá (Colombia) <a href="https://sessionize.com/kcd-colombia-bogota-2025"><img alt="CFP KCD Colombia Bogota 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=red"></a>
 * 29-30: [PyCon Greece](https://2025.pycon.gr/en/) - Athens (Greece)
+* 30: [JVM Day](https://meetup.tbank.ru/conference/jvm-day/) - Moscow (Russia)
 
 ### September
 
