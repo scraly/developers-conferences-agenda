@@ -451,7 +451,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-7: [Swift Connection 2025](https://swiftconnection.io) - Paris (France) <a href="https://sessionize.com/swift-connection-2025/"><img alt="CFP Swift Connection 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-June-2025&color=green"></a>
 * 6-8: [dataMinds Connect 2025](http://datamindsconnect.be) - Mechelen (Belgium) <a href="https://sessionize.com/dataminds-connect-2025"><img alt="CFP dataMinds Connect 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2025&color=red"></a>
 * 6-9: [JCON USA 2025 @ IBM TechXchange](https://usa.jcon.one/) - Orlando, FL (USA)
-* 6-10: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
+* 6-10: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium) <a href="https://dvbe25.cfp.dev/"><img alt="CFP Devoxx Belgium 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-July-2025&color=green"></a>
 * 6-10: [Jax London](https://jaxlondon.com/) - London (UK)
 * 7: [AWS Community Day DACH 2025](https://aws-community-day.de/) - Munich (Germany) <a href="https://sessionize.com/aws-community-day-dach-2025"><img alt="CFP AWS Community Day DACH 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=green"></a>
 * 7: [Agile Tour Quebec](https://www.agilequebec.ca/fr/atqc25) - Québec (Canada) <a href="https://docs.google.com/forms/d/e/1FAIpQLScCUb2QxLsR6vyIVCO2o4kSvzr9yg46RrLB59VKRknmTzazbw/viewform"><img alt="CFP Agile Tour Quebec 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-June-2025&color=green"></a>
