@@ -448,6 +448,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10: [Platform Engineering Day North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/platform-engineering-day/) - Atlanta, GA (USA) <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cfp-colocated-events/#submit-your-talk"><img alt="CFP Platform Engineering Day NA 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=green"></a>
 * 10: [WasmCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/wasmcon/) - Atlanta, GA (USA) <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cfp-colocated-events/#submit-your-talk"><img alt="CFP WasmCon NA 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=green"></a>
 * 10-13: [KubeCon + CloudNativeCon NA 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2025/) - Atlanta, GA (USA) <a href="https://sessionize.com/kubecon-cloudnativecon-north-america-2025/"><img alt="CFP KubeCon NA 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-May-2025&color=red"></a>
+* 10-13: [Web Summit Lisbon](https://websummit.com/) - Lisbon (Portugal)
 * 12-13: [Do iOS 2025](https://do-ios.com) - Amsterdam (Netherlands) <a href="https://www.papercall.io/do-ios-2025"><img alt="CFP Do iOS 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=green"></a>
 * 12-14: [Devoxx Morocco](https://devoxx.ma/) - Marrakech (Morocco) <a href="https://dvma25.cfp.dev/"><img alt="CFP Devoxx Morocco 25" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-June-2025&color=green"></a>
 * 13: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France) <a href="https://sessionize.com/devfest-toulouse-2025"><img alt="CFP DevFest Toulouse 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2025&color=red"></a>
@@ -507,6 +508,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### February
 
+* 1-4: [Web Summit Qatar](https://qatar.websummit.com/) - Doha (Qatar)
 * 2-6: [Web Days Convention](https://webdays.events/) - Aix-en-Provence (France) <a href="https://conference-hall.io/web-days-convention"><img alt="CFP Web Days Convention" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2026&color=green"></a>
 * 24-26: [The Linux Foundation Member Summit 2026](https://events.linuxfoundation.org/lf-member-summit-2026/) - Napa (USA)
 * 26-27: [Apres-Cyber Slopes Summit 2026](http://aprescyber.com) - Park City, UT (USA) <a href="https://sessionize.com/apres-cyber-slopes-summit-2026/"><img alt="CFP Apres-Cyber Slopes Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-November-2025&color=green"></a>
@@ -521,8 +523,13 @@ All the data (past and coming) are available publicly in JSON:
 * 23-25: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece)
 * 24-26: [Great International Developer Summit 2026 (GIDS 2026)](https://developersummit.com/) - Bengaluru (India)
 
+### May
+
+* 11-14: [Web Summit Vancouver](https://vancouver.websummit.com/) - Vancouver, BC (Canada)
+
 ### June
 
+* 8-11: [Web Summit Rio](https://rio.websummit.com/) - Rio de Janeiro (Brazil) 
 * 17: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 
 ### October
