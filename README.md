@@ -424,6 +424,8 @@ All the data (past and coming) are available publicly in JSON:
 * 27-29: [Techorama NL](https://www.techorama.nl/) - Utrecht (Netherlands)
 * 27-31: [Africa's Talking Summit 2025](https://summit.africastalking.com/) - Johannesburg (South Africa) <a href="https://www.papercall.io/atsummit2025"><img alt="CFP Africa's Talking Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-June-2025&color=red"></a>
 * 28: [aMPKL 2025](https://2024.ampkl.com/amp-kl-2025-main-event) - Kuala Lumpur (Malaysia) <a href="https://sessionize.com/ampkl-2025/"><img alt="CFP aMPKL 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=red"></a>
+* Oct 28: [The Linux Foundation Europe Member Summit](https://events.linuxfoundation.org/lf-europe-member-summit/) - Ghent (Belgium)
+* Oct 29: [The Linux Foundation Europe Roadshow](https://events.linuxfoundation.org/lf-europe-roadshow-regulation/) - Ghent (Belgium)
 * 28-29: [GitHub Universe 2025](https://githubuniverse.com/) - San Francisco, CA (USA) & Online
 * 29-30: [Current New Orleans 2025](https://current.confluent.io/new-orleans) - New Orleans, LA (USA) <a href="https://sessionize.com/current-2025-new-orleans"><img alt="CFP Current New Orleans 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=green"></a>
 * 30: [Conf42.com JavaScript 2025](https://www.conf42.com/js2025) - Online <a href="https://www.papercall.io/conf42-javascript-2025"><img alt="CFP Conf42.com JavaScript 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2025&color=green"></a>
@@ -436,6 +438,7 @@ All the data (past and coming) are available publicly in JSON:
 ### November
 
 * 1: [DevOpsDays Istanbul 2025](https://devopsdays.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/devopsdays-istanbul-2025"><img alt="CFP DevOpsDays Istanbul 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=green"></a>
+* 3: [Open Science Workshop](https://events.linuxfoundation.org/open-science-workshop/) - San Diego (USA)
 * 3-4: [KCD Porto 2025](https://community.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2025/) - Porto (Portugal) <a href="https://sessionize.com/kcd-porto-2025/"><img alt="CFP KCD Porto 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=green"></a>
 * 3-4: [ConTech2025byRoOUG](https://contech2022.rooug.ro/) - Bucharest (Romania) <a href="https://www.papercall.io/contechbyrooug2025"><img alt="CFP ConTech2025byRoOUG" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=green"></a>
 * 3-5: [Ray Summit 2025](https://www.anyscale.com/ray-summit/2025) - San Francisco, CA (USA) <a href="https://raysummit.anyscale.com/flow/anyscale/raysummit2025/callforpapers/cfpHome"><img alt="CFP Ray Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2025&color=green"></a>
