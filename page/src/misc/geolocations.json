@@ -1,4 +1,8 @@
 {
+  "Aachen (Germany)": {
+    "latitude": 50.776351,
+    "longitude": 6.083862
+  },
   "Aarhus (Denmark)": {
     "latitude": 56.1496278,
     "longitude": 10.2134046
@@ -1447,6 +1451,10 @@
     "latitude": 43.2961743,
     "longitude": 5.3699525
   },
+  "Maryland (USA)": {
+    "latitude": 39.5162401,
+    "longitude": -76.9382069
+  },
   "Matsuyama, Ehime (Japan)": {
     "latitude": 33.8395188,
     "longitude": 132.7653521
@@ -2014,6 +2022,10 @@
   "San Diego, CA (USA)": {
     "latitude": 32.715738,
     "longitude": -117.1610838
+  },
+  "San Francisco (USA)": {
+    "latitude": 37.8097487,
+    "longitude": -122.4104493
   },
   "San Francisco, CA (USA)": {
     "latitude": 37.7790262,
