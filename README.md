@@ -438,7 +438,7 @@ All the data (past and coming) are available publicly in JSON:
 ### November
 
 * 1: [DevOpsDays Istanbul 2025](https://devopsdays.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/devopsdays-istanbul-2025"><img alt="CFP DevOpsDays Istanbul 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=green"></a>
-* 3: [Open Science Workshop](https://events.linuxfoundation.org/open-science-workshop/) - San Diego (USA)
+* 3: [Open Science Workshop](https://events.linuxfoundation.org/open-science-workshop/) - San Diego, CA (USA)
 * 3-4: [KCD Porto 2025](https://community.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2025/) - Porto (Portugal) <a href="https://sessionize.com/kcd-porto-2025/"><img alt="CFP KCD Porto 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=green"></a>
 * 3-4: [ConTech2025byRoOUG](https://contech2022.rooug.ro/) - Bucharest (Romania) <a href="https://www.papercall.io/contechbyrooug2025"><img alt="CFP ConTech2025byRoOUG" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=green"></a>
 * 3-5: [Ray Summit 2025](https://www.anyscale.com/ray-summit/2025) - San Francisco, CA (USA) <a href="https://raysummit.anyscale.com/flow/anyscale/raysummit2025/callforpapers/cfpHome"><img alt="CFP Ray Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2025&color=green"></a>
