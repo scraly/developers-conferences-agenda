@@ -152,6 +152,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-28: [5th Annual BELL Business & Government Contracting Summit](http://www.bellgroupsd.com) - San Diego, CA (USA) <a href="https://www.papercall.io/bellsummit2025"><img alt="CFP 5th Annual BELL Business & Government Contracting Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2025&color=red"></a>
 * 27-28: [HOW2025](https://ivorysql.io/) - Jinan (China) <a href="https://sessionize.com/how2025"><img alt="CFP HOW2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-June-2025&color=red"></a>
 * 27-29: [The Perl & Raku Conference in Greenville, SC 2025](https://tprc.us) - Greenville, SC (USA) <a href="https://www.papercall.io/tprcgsp2025"><img alt="CFP The Perl & Raku Conference in Greenville, SC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2025&color=red"></a>
+* 27-28: [VizChitra 2025](https://hasgeek.com/VizChitra/2025/) - Bengaluru (India) <a href="https://hasgeek.com/VizChitra/2025/sub"><img alt="CFP VizChitra 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2025&color=red"></a>
 * 28: [2025 Data.SQL.Saturday.SD (SQLSatSD)](https://sqlsaturday.com/2025-06-28-sqlsaturday1113/) - San Diego, CA (USA) <a href="https://sessionize.com/2025-data-sql-saturday-sd-sqlsatsd-co"><img alt="CFP 2025 Data.SQL.Saturday.SD (SQLSatSD)" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-May-2025&color=red"></a>
 * 28: [Azure Tour 2025 - Zaragoza](https://globalazure.es) - Zaragoza (Spain) <a href="https://sessionize.com/azure-tour-2025-zaragoza"><img alt="CFP Azure Tour 2025 - Zaragoza" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-June-2025&color=red"></a>
 * 30: [AgentCon 2025 - Soltau](https://globalai.community/chapters/munich/events/agentcon-2025-soltau/) - Soltau (Germany) <a href="https://sessionize.com/agentcon-2025-soltau/"><img alt="CFP AgentCon 2025 - Soltau" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-May-2025&color=red"></a>
@@ -159,6 +160,7 @@ All the data (past and coming) are available publicly in JSON:
 * 30-1/7: [Agile World 2025](https://www.agileworld.de) - Munich (Germany) <a href="https://sessionize.com/agile-world-2025/"><img alt="CFP Agile World 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-March-2025&color=red"></a>
 * 30-1/7: [fwd:cloudsec North America 2025](https://fwdcloudsec.org/conference/north-america/) - Denver, CO (USA) <a href="https://fwdcloudsec.org/conference/north-america/cfp.html"><img alt="CFP fwd cloudsec NA 25" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-April-2025&color=red"></a>
 * 30-3/7: [DWX - Developer Week '25](https://www.developer-week.de) - Mannheim (Germany) <a href="https://sessionize.com/developer-week-25/"><img alt="CFP DWX - Developer Week '25" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2025&color=red"></a>
+
 
 ### July
 
@@ -194,6 +196,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18: [AI in Production 2025](https://www.aiinproduction.com) - Asheville, NC (USA) <a href="https://www.papercall.io/ai-in-production-2025"><img alt="CFP AI in Production 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2025&color=red"></a>
 * 18-19: [JConf Dominicana 2025](https://jconfdominicana.org) -  Santo Domingo (Dominican Republic) <a href="https://www.papercall.io/jconf-dominicana-2025"><img alt="CFP JConf Dominicana 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-March-2025&color=red"></a>
 * 18-19: [Ruby Conf Africa 2025](https://rubyconf.africa/) - Nairobi (Kenya) <a href="https://www.papercall.io/rubyconfafrica2025"><img alt="CFP Ruby Conf Africa 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2025&color=red"></a>
+* 18-19: [The Fifth Elephant 2025 Annual Conference](https://hasgeek.com/fifthelephant/2025/) - Bengaluru (India) <a href="https://hasgeek.com/fifthelephant/fifthelephant-2025-cfp/"><img alt="CFP Fifth Elephant 2025 Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=red"></a>
 * 19: [CajuSEC 2025](https://www.cajusec.com.br/) - Aracaju (Brazil) <a href="https://www.papercall.io/cfpcajusec"><img alt="CFP CajuSEC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=red"></a>
 * 19: [Cloud Community Days Kolkata 2025](https://ccd2025.gdgcloudkol.org/) - Kolkata (India) <a href="https://sessionize.com/cloud-community-days/"><img alt="CFP CCD Kolkata 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-May-2025&color=red"></a>
 * [KCD Lima Perú 2025](https://community.cncf.io/kcd-lima-peru/) - Lima (Peru) <a href="https://sessionize.com/kcd-lima-peru-2025"><img alt="CFP KCD Lima Peru 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-May-2025&color=red"></a>
@@ -547,6 +550,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11-13: [Linux Plumbers Conference](https://lpc.events/event/19/) - Tokyo (Japan) & Online
 * 16-17: [QCon AI 2025](https://ai.qconferences.com/) - New York, NY (USA)
 * 18: [Conf42.com Internet of Things (IoT) 2025](https://www.conf42.com/iot2025) - Online <a href="https://www.papercall.io/conf42-iot-2025"><img alt="CFP Conf42.com Internet of Things (IoT) 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2025&color=green"></a>
+
 
 ## 2026
 
