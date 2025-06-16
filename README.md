@@ -526,7 +526,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### December
 
-* 1-2: [Tech Rocks Summit 2025](https://events.tech.rocks/tech-rocks-summit-2025) -
+* 1-2: [Tech Rocks Summit 2025](https://events.tech.rocks/tech-rocks-summit-2025) - Paris (France)
 * 1-4: [ESPC25](https://www.sharepointeurope.com) - Dublin (Ireland) <a href="https://sessionize.com/espc25"><img alt="CFP ESPC25" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-March-2025&color=red"></a>
 * 2-4: [WPC 2025](https://www.wpc.education/) - Milan (Italy) <a href="https://sessionize.com/wpc-2025"><img alt="CFP WPC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-July-2025&color=green"></a>
 * 3-5: [Build Stuff 2025 Lithuania](http://buildstuff.events) - Vilnius (Lithuania) <a href="https://sessionize.com/build-stuff-2025"><img alt="CFP Build Stuff 2025 Lithuania" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=green"></a>
