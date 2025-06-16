@@ -550,7 +550,6 @@ All the data (past and coming) are available publicly in JSON:
 * 16-17: [QCon AI 2025](https://ai.qconferences.com/) - New York, NY (USA)
 * 18: [Conf42.com Internet of Things (IoT) 2025](https://www.conf42.com/iot2025) - Online <a href="https://www.papercall.io/conf42-iot-2025"><img alt="CFP Conf42.com Internet of Things (IoT) 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2025&color=green"></a>
 
-
 ## 2026
 
 ### January
