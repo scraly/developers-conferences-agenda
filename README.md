@@ -183,6 +183,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-19: [The 42nd International Conference on Machine Learning (ICML)](https://icml.cc/) - Vancouver, BC (Canada)
 * 14-15: [GopherCon India 2025](https://gopherconindia.org/) - Jaipur (India) <a href="https://www.papercall.io/gophercon-india-2025"><img alt="CFP GopherCon India 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2025&color=green"></a>
 * 14-16: [droidcon Amman 2025](https://amman.droidcon.com) - Amman (Jordan) <a href="https://sessionize.com/droidcon-amman-2025"><img alt="CFP droidcon Amman 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2025&color=red"></a>
+* 14-19: [DebConf25](https://debconf25.debconf.org) - Brest (France)
 * 14-20: [EuroPython 2025](https://ep2025.europython.eu/) - Prague (Czech Republic)
 * 15-16: [Power Summit 15. + 16.07.2025](https://summit365.zohobackstage.eu/PowerSummit1516Juli2025#/) - Online <a href="https://sessionize.com/power-summit-15-16-07-2025/"><img alt="CFP Power Summit 15. + 16.07.2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2025&color=red"></a>
 * 15-18: [UberConf 2025](https://dev.events/conferences/uber-conf-2025-oyhd6zi) - Denver, CO (USA)
@@ -504,7 +505,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17-19: [AI by the Bay](https://ai.bythebay.io/) - Oakland, CA (USA) <a href="https://sessionize.com/by-the-bay"><img alt="CFP AI by the Bay" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2025&color=red"></a>
 * 17-21: [QCon San Francisco](https://qconsf.com/) - San Francisco, CA (USA)
 * 18: [Mid West Tech Conference](https://mwtc.io) - Fulton, MO (USA) <a href="https://sessionize.com/mwtc/"><img alt="CFP Mid West Tech Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-September-2025&color=green"></a>
-* 18-21: [JSNation US](https://gitnation.com/events/jsnation-us-2024) - New York, NY (USA) 
+* 18-21: [JSNation US](https://gitnation.com/events/jsnation-us-2024) - New York, NY (USA)
 * 19: [OWASP AppSec Training Days Uruguay 2025](https://owasp-uruguay.github.io/) - Montevideo (Uruguay) <a href="https://sessionize.com/owasp-appsec-training-days-uruguay-2025/"><img alt="CFP OWASP AppSec Training Days Uruguay 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2025&color=green"></a>
 * 19: [SREday Paris 2025 Q4](https://sreday.com/2025-paris-q4/) - Paris (France) <a href="https://www.papercall.io/sreday-paris-2025-q4"><img alt="CFP SREday Paris 2025 Q4" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-September-2025&color=green"></a>
 * 19-20: [Web Directions Developer Summit](https://webdirections.org/dev-summit) - Sydney (Australia)
@@ -525,7 +526,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### December
 
-* 1-2: [Tech Rocks Summit 2025](https://events.tech.rocks/tech-rocks-summit-2025) - 
+* 1-2: [Tech Rocks Summit 2025](https://events.tech.rocks/tech-rocks-summit-2025) - Paris (France)
 * 1-4: [ESPC25](https://www.sharepointeurope.com) - Dublin (Ireland) <a href="https://sessionize.com/espc25"><img alt="CFP ESPC25" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-March-2025&color=red"></a>
 * 2-4: [WPC 2025](https://www.wpc.education/) - Milan (Italy) <a href="https://sessionize.com/wpc-2025"><img alt="CFP WPC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-July-2025&color=green"></a>
 * 3-5: [Build Stuff 2025 Lithuania](http://buildstuff.events) - Vilnius (Lithuania) <a href="https://sessionize.com/build-stuff-2025"><img alt="CFP Build Stuff 2025 Lithuania" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=green"></a>
@@ -576,7 +577,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### June
 
-* 8-11: [Web Summit Rio](https://rio.websummit.com/) - Rio de Janeiro (Brazil) 
+* 8-11: [Web Summit Rio](https://rio.websummit.com/) - Rio de Janeiro (Brazil)
 * 17: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 
 ### October
