@@ -161,7 +161,6 @@ All the data (past and coming) are available publicly in JSON:
 * 30-1/7: [fwd:cloudsec North America 2025](https://fwdcloudsec.org/conference/north-america/) - Denver, CO (USA) <a href="https://fwdcloudsec.org/conference/north-america/cfp.html"><img alt="CFP fwd cloudsec NA 25" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-April-2025&color=red"></a>
 * 30-3/7: [DWX - Developer Week '25](https://www.developer-week.de) - Mannheim (Germany) <a href="https://sessionize.com/developer-week-25/"><img alt="CFP DWX - Developer Week '25" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2025&color=red"></a>
 
-
 ### July
 
 * 1-4: [Open edX Conference - 2025](https://con.openedx.org) - Palaiseau (France) <a href="https://sessionize.com/open-edx-conference-2025"><img alt="CFP Open edX Conference - 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-December-2024&color=red"></a>
