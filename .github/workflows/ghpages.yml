@@ -40,6 +40,7 @@ jobs:
           mv ../page/src/misc/all-cfps.json ../page/build/all-cfps.json
           mv ../page/src/misc/*.ics ../page/build/
           mv ../page/src/misc/feed-events.* ../page/build/
+          mv ../page/src/misc/og-preview.png ../page/build/
       - name: Deploy to GitHub Pages
         if: github.ref_name == 'main'
         uses: crazy-max/ghaction-github-pages@v2
