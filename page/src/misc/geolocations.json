@@ -515,6 +515,10 @@
     "latitude": 45.5662672,
     "longitude": 5.9203636
   },
+  "Charleston, SC (USA)": {
+    "latitude": 32.7884363,
+    "longitude": -79.9399309
+  },
   "Charlotte, NC (USA)": {
     "latitude": 35.2272086,
     "longitude": -80.8430827
@@ -2179,6 +2183,10 @@
     "latitude": 59.9310584,
     "longitude": 30.3609097
   },
+  "St. Petersburg, FL (USA)": {
+    "latitude": 27.7700475,
+    "longitude": -82.6359078
+  },
   "Stavanger (Norway)": {
     "latitude": 58.9699756,
     "longitude": 5.7331073
@@ -2539,12 +2547,12 @@
     "latitude": 47.3744489,
     "longitude": 8.5410422
   },
-  "dź (Poland)": {
-    "latitude": 51.919438,
-    "longitude": 19.145136
+  "Łódź (Poland)": {
+    "latitude": 51.7728245,
+    "longitude": 19.4784857
   },
-  "ibenik (Croatia)": {
-    "latitude": 43.7350196,
-    "longitude": 15.8952045
+  "Šibenik (Croatia)": {
+    "latitude": 43.7340647,
+    "longitude": 15.8944767
   }
 }
