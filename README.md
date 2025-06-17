@@ -570,6 +570,7 @@ All the data (past and coming) are available publicly in JSON:
 * 2-6: [Web Days Convention](https://webdays.events/) - Aix-en-Provence (France) <a href="https://conference-hall.io/web-days-convention"><img alt="CFP Web Days Convention" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2026&color=green"></a>
 * 3: [Cloud Native Days France 2026](https://www.cloudnativedays.fr/) - Paris (France)
 * 24-25: [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa (USA)
+* 25-27: [Confoo](https://confoo.ca/en/2026) - Montreal (Canada)
 * 26-27: [Apres-Cyber Slopes Summit 2026](http://aprescyber.com) - Park City, UT (USA) <a href="https://sessionize.com/apres-cyber-slopes-summit-2026/"><img alt="CFP Apres-Cyber Slopes Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-November-2025&color=green"></a>
 
 ### March
