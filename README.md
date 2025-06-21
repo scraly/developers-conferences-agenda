@@ -271,7 +271,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5-6: [DevOpsDays Graz 2025](https://www.devopsdays.at/) - Graz (Austria) <a href="https://pretalx.com/devopsdays-graz-2025/cfp"><img alt="CFP DevOpsDays Graz 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=red"></a>
 * 8-10: [GraphQLConf](https://graphql.org/conf/2025/) - Amsterdam (Netherlands)
 * 8-10: [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/) - San Jose (USA)
-* 9-10: [CloudCon (formerly KCD Sydney)](https://www.linkedin.com/company/cloudnativesydney) - Sydney (Australia)
+* 9-10: [CloudCon (formerly KCD Sydney)](https://cloudcon.au) - Sydney (Australia) <a href="https://www.papercall.io/cloudconsyd"><img alt="CFP CloudCon Sydney Call for Presentations" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-August-2025&color=green"></a>
 * 9-11: [Container Days Hamburg](https://www.containerdays.io/containerdays-conference-2025/) - Hamburg (Germany) <a href="https://sessionize.com/containerdays-conference-2025"><img alt="CFP ContainerDays Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
 * 9-11: [GDevCon#6](http://www.gdevcon.com) - Brighton (UK) <a href="https://www.papercall.io/gdevcon6"><img alt="CFP GDevCon#6" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-May-2025&color=red"></a>
 * 10: [AWS Community Day Baltic](https://awsbaltic.eu/) - Gdynia (Poland) <a href="https://sessionize.com/aws-community-day-baltic"><img alt="CFP AWS Community Day Baltic 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-May-2025&color=red"></a>
