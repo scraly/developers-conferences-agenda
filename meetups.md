@@ -2,6 +2,8 @@
 
 The goal of this file is, in a first step, to list the meetups and user groups.
 
+Map: https://umap.openstreetmap.fr/en/map/meetups-france_1231721#6/47.078/3.296
+
 ## France
 
 * [AFUP Toulouse](https://www.meetup.com/afup-toulouse/) - Toulouse <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
