@@ -208,6 +208,7 @@ All the data (past and coming) are available publicly in JSON:
 * 25-27: [CommunityOverCode Asia 2025](https://asia.communityovercode.org/) - Beijing (China) <a href="https://sessionize.com/communityovercode-asia-2025"><img alt="CFP CommunityOverCode Asia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-April-2025&color=red"></a>
 * 28-30: [Agile2025](https://www.agilealliance.org/event/agile2025/) - Denver, CO (USA) <a href="https://sessionize.com/agile-2025/"><img alt="CFP Agile2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2025&color=red"></a>
 * 29-30: [Laracon US 2025](https://laracon.us/) - Denver, CO (USA) <a href="https://frequent-pick-a8d.notion.site/1843f372b480802c9cf8ffb63a2c51f5"><img alt="CFP Agile2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=green"></a>
+* 31-1/8: [Quantum India Bengaluru Summit 2025](https://www.quantumindiabengaluru.com/) - Bengaluru (India)
 
 ### August
 
