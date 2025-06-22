@@ -3,7 +3,9 @@
 The goal of this file is, in a first step, to list the meetups and user groups.
 
 ## France
+
 * [AFUP Toulouse](https://www.meetup.com/afup-toulouse/) - Toulouse <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
+* [Aix Tech](https://www.meetup.com/aixtech-org/) - Aix en Provence <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
 * [AlpesJUG](http://alpesjug.org/) - Grenoble <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Java&color=blue" /> <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
 * [Bordeaux Java User Group](http://www.bordeauxjug.org/)<img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Java&color=blue" /> <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
 * [Bordeaux Python Meetup](https://www.meetup.com/py-bdx/) - Bordeaux <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=python&color=yellow" />
@@ -18,6 +20,8 @@ The goal of this file is, in a first step, to list the meetups and user groups.
 * [Code d'Armor](https://codedarmor.fr/a-propos) - Lannion <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
 * [Creative AI Paris](https://www.meetup.com/creativeai/) - Paris <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
 * [Data Science - Nice / Sophia](https://www.meetup.com/data-science-meetup-nice-sophia-antipolis/) - Sophia Antipolis <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
+* [Developer Community Paris (Devworld)](https://devworldconference.com/devworld-community) - Paris <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
+* [DevOps Lille by Cloud Nord](https://www.meetup.com/devops-lille-by-cloudnord/) - Lille <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
 * [Elsass JUG](https://www.meetup.com/fr-FR/ElsassJUG/) - Strasbourg <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" /> <img alt="Category (JUG)" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
 * [FinistDevs](https://finistdevs.org/) - Brest <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" /> <img alt="Category (JUG)" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
 * [GDG Bordeaux]() - Bordeaux <img alt="Category (GDG)" src="https://img.shields.io/static/v1?label=Category&message=GDG&color=purple" />
@@ -44,21 +48,27 @@ The goal of this file is, in a first step, to list the meetups and user groups.
 * [Lyon Java User Group](https://lyonjug.org/) <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Java&color=blue" /> <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
 * [Lyon JS](http://bit.ly/lyonjs-slack) - Lyon <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JavaScript&color=orange" />
 * [lyon.rb](http://lyon.rb/) - Lyon <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
+* [Lyon Tech Meetups](https://www.meetup.com/lyon-tech-meetups/) - Lyon <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
 * [Marseille Java User Group](https://marsjug.org/) - Gemenos <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Java&color=blue" /> <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
 * [Meetup Toulouse-DataViz](https://www.meetup.com/meetup-visualisation-des-donnees-toulouse/) - Toulouse <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Dataviz&color=gray" />
+* [Microsoft Tech Group Strasbourg](https://www.meetup.com/mtgstrasbourg/) - Strasbourg <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
 * [Montpellier Java User Group](https://www.jug-montpellier.org/) <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Java&color=blue" /> <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
+* [MTG Aix](https://www.meetup.com/aix-en-provence-new-technology-meetup-group/) - Aix en Provence  <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
 * [Nantes Java User Group](https://nantesjug.org/) <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Java&color=blue" /> <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
 * [Node.js Paris](http://nodejsparis.fr/) - Paris <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JavaScript&color=orange" />
 * [Normandy Java User Group](https://twitter.com/normandyjug?lang=en) - Rouen <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Java&color=blue" /> <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
 * [Orléans Java User Group](http://www.jugorleans.fr/) <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Java&color=blue" /> <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
 * [Paris AI (AICamp)](https://www.aicamp.ai) - Paris <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
+* [Paris Cyber Security for Control Systems (CS)²AI](https://www.meetup.com/paris-cyber-security-for-control-systems/) - Paris <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
 * [Paris Java User Group](https://parisjug.org/) - Paris <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Java&color=blue" /> <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
+* [Paris Pragmatic Software Development Meetup Group](https://www.meetup.com/paris-pragmatic-software-development-meetup-group/) - Paris <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
 * [Poitou Charentes JUG](http://www.poitoucharentesjug.org/) <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" /> <img alt="Category (JUG)" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
 * [PyClermont](https://www.meetup.com/pyclermont/) - Clermont Ferrand <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=python&color=yellow" />
 * [Python Creative AI Meetup (Lille)](https://www.meetup.com/pythoncreativeai/events/) - Lille <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
 * [Python Toulouse](https://www.meetup.com/python-toulouse/) - Toulouse <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=python&color=yellow" />
 * [RennesJS](https://rennesjs.org/) - <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JavaScript&color=orange" />
 * [Riviera Java User Group](http://www.rivierajug.org/) - Nice <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Java&color=blue" /> <img alt="Category (JUG)" src="https://img.shields.io/static/v1?label=Category&message=JUG&color=blue" />
+* [Strasbourg Deep Learning Meetup](https://www.meetup.com/strasbourg-deep-learning-meetup/) - Strasbourg <img alt="Category (miscellaneous)" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
 * [Svelte Paris](https://www.meetup.com/svelte-paris/) - Paris <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=JavaScript&color=orange" />
 * [TADx](https://www.tadx.fr) - Tours <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
 * [Toulouse Data Science](https://tlse-data-science.fr/) - Toulouse <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
@@ -68,4 +78,5 @@ The goal of this file is, in a first step, to list the meetups and user groups.
 * [Toulouse Tech Hub](toulouse-tech-hub.fr) <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />(java, IA, Ruby, GDG, FabLab, Agile)
 * [Web en Vert](https://webenvert.fr/) - Saint Etienne <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
 * [Women in Machine Learning & Data Science](https://www.meetup.com/paris-women-in-machine-learning-data-science/) - Paris <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
+* [Wordpress Aix-en-Provence](https://www.meetup.com/meetup-wordpress-aix-en-provence/) - Aix en Provence<img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Wordpress&color=purple" />
 * [Wordpress Toulouse](https://www.meetup.com/wptoulouse/) - Toulouse <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Wordpress&color=purple" />
