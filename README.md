@@ -558,7 +558,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10: [Linux Kernel Maintainer Summit](https://events.linuxfoundation.org/linux-kernel-maintainer-summit/) - Tokyo (Japan)
 * 10-11: [Devops REX](https://www.devopsrex.fr/) - Paris (France) <a href="https://talks.devopsdays.org/devops-rex-2025/cfp"><img alt="CFP Devops REX 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-June-2025&color=red"></a>
 * 10-11: [Open Source Experience](https://www.opensource-experience.com) - Paris (France)
-* 11: [DevOpsDays Tel Aviv 2025](https://devopsdays.org/tel-aviv) - Tel Aviv (Israel) <a href="https://sessionize.com/devopsdays-tel-aviv-2025"><img alt="CFP DevOpsDays Tel Aviv 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=red"></a>
+* 11: [DevOpsDays Tel Aviv 2025](https://devopsdays.org/tel-aviv) - Tel Aviv (Israel) <a href="https://sessionize.com/devopsdays-tel-aviv-2025"><img alt="CFP DevOpsDays Tel Aviv 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2025&color=green"></a>
 * Dec 11-12: [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/) - Tokyo (Japan) <a href="https://events.linuxfoundation.org/open-compliance-summit/program/cfp/"><img alt="CFP Open Compliance Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-August-2025&color=green"></a>
 * 11-13: [Linux Plumbers Conference](https://lpc.events/event/19/) - Tokyo (Japan) & Online
 * 16-17: [QCon AI 2025](https://ai.qconferences.com/) - New York, NY (USA)
