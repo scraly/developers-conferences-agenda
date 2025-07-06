@@ -635,6 +635,10 @@
     "latitude": 35.308495199999996,
     "longitude": 24.46334231842296
   },
+  "Curitiba (Brazil)": {
+    "latitude": -25.4268985,
+    "longitude": -49.2651984
+  },
   "Cáceres (Spain)": {
     "latitude": 39.4751126,
     "longitude": -6.371453
@@ -954,6 +958,10 @@
   "Guadalajara (Spain)": {
     "latitude": 40.632489,
     "longitude": -3.16017
+  },
+  "Guatemala City (Guatemala)": {
+    "latitude": 14.6349149,
+    "longitude": -90.5068824
   },
   "Gujarat (India)": {
     "latitude": 22.3850051,
@@ -1531,6 +1539,10 @@
     "latitude": 53.9024716,
     "longitude": 27.5618225
   },
+  "Mogadishu (Somalia)": {
+    "latitude": 2.037148,
+    "longitude": 45.3379067
+  },
   "Moka (Mauritius)": {
     "latitude": -20.2218738,
     "longitude": 57.50275
@@ -1694,6 +1706,10 @@
   "Oakland, CA (USA)": {
     "latitude": 37.8044557,
     "longitude": -122.271356
+  },
+  "Oceanside, CA (USA)": {
+    "latitude": 33.1976677,
+    "longitude": -117.3787563
   },
   "Odense (Denmark)": {
     "latitude": 55.40375599999999,
@@ -2498,6 +2514,10 @@
   "Wisła (Poland)": {
     "latitude": 52.380897,
     "longitude": 20.0867774
+  },
+  "Wollongong (Australia)": {
+    "latitude": -34.4248336,
+    "longitude": 150.8931132
   },
   "Wroclaw (Poland)": {
     "latitude": 51.1089776,
