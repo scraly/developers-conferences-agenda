@@ -293,6 +293,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-16: [JSConf](https://events.linuxfoundation.org/jsconf-north-america/) - Maryland (USA)
 * 15-16: [BaselOne 2025](https://baselone.ch) - Basel (Switzerland) <a href="https://sessionize.com/baselone25"><img alt="CFP BaselOne 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2025&color=red"></a>
 * 15-16: [InfoQ Dev Summit Munich 2025](https://devsummit.infoq.com/conference/munich2025) - Munich (Germany)
+* 15: [AI Summit Barcelona](https://aisummitbarcelona.com/) - Barcelona (Spain)
 * 16: [AWS Community Day CEE 2025](https://awscommunity.eu/) - Budapest (Hungary) <a href="https://docs.google.com/forms/d/e/1FAIpQLSe808sqsb4Cv-YP9iuGWuO8pFlJAhpMVLhHhqTfCXMBobm8HA/viewform"><img alt="CFP AWS Community Day CEE 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-June-2025&color=red"></a>
 * 16: [Conf42.com Kube Native 2025](https://www.conf42.com/kubenative2025) - Online <a href="https://www.papercall.io/conf42-kube-native-2025"><img alt="CFP Conf42.com Kube Native 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2025&color=green"></a>
 * 16: [PlatformCon25 Live Day Paris](https://platformconlive.fr/) - Paris (France) <a href="https://conference-hall.io/platformcon25-live-day-paris"><img alt="CFP PlatformCon25 Live Day Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=red"></a>
