@@ -209,6 +209,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22-24: [Kernel Recipes](https://kernel-recipes.org/en/2025/) - Paris (France)
 * 22-24: [APIdays London](https://www.apidays.global/london/) - London (UK) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days London" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-September-2025&color=green"></a>
 * 22-25: [Workplace Ninja Summit 2025](https://wpninjas.eu) - Baden (Switzerland) <a href="https://sessionize.com/workplace-ninja-summit-2025"><img alt="CFP Workplace Ninja Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-May-2025&color=red"></a>
+* 22-27: [La Mélée Numérique](https://www.meleenumerique.com/) - Toulouse (France)
 * 23: [OWASP AppSec France 2025](https://www.owaspappsecdays.fr/2025/) - Paris (France) <a href="https://sessionize.com/owasp-appsec-days-france-2025/"><img alt="CFP OWASP AppSec France" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2025&color=red"></a>
 * 23: [Swedish VMUG UserCon 2025](https://my.vmug.com/s/event/a4pVs000000SYLJIA4/swedish-usercon) - Stockholm (Sweden) <a href="https://www.papercall.io/usercon-se"><img alt="CFP Swedish VMUG UserCon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-August-2025&color=green"></a>
 * 23-24: [AI Engineer Paris](https://www.ai.engineer/paris) - Paris (France) <a href="https://sessionize.com/ai-engineer-paris/"><img alt="CFP AI Engineer Paris 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-August-2025&color=green"></a>
@@ -220,6 +221,7 @@ All the data (past and coming) are available publicly in JSON:
 * 25: [AWS Community Summit - Manchester 2025](https://www.comsum.co.uk) - Manchester (UK) <a href="https://sessionize.com/aws-community-summit-manchester-2025/"><img alt="CFP AWS Community Summit - Manchester 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2025&color=red"></a>
 * 25: [Tech Tactics in Education: Overcoming Roadblocks to Innovation](https://techtacticsineducation.com/) - Online <a href="https://sessionize.com/tech-tactics-in-education-overcoming-roadblocks"><img alt="CFP Tech Tactics in Education: Overcoming Roadblocks to Innovation" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-July-2025&color=green"></a>
 * 25: [DevTalks Cluj](https://www.devtalks.ro/cluj) - Cluj, Transylvania (Romania) <a href="https://www.papercall.io/devtalksclujnapoca-2025"><img alt="CFP DevTalks Cluj" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-September-2025&color=green"></a>
+* 25: [Agile Game Toulouse](https://www.billetweb.fr/agile-game-toulouse-2025) - Toulouse (France)
 * 25-26: [Paris Web 2025](https://www.paris-web.fr) - Paris (France) <a href="https://appel.paris-web.fr/"><img alt="CFP Paris Web 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-March-2025&color=red"></a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 25-26: [BADCamp 2025](https://badcamp.org) - Oakland, CA (USA) <a href="https://sessionize.com/badcamp-2025/"><img alt="CFP BADCamp 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
 * 26: [BSides Bloomington](https://bsidesbloomington.org) - Bloomington, IN (USA) <a href="https://www.papercall.io/bsidesbloomington"><img alt="CFP BSides Bloomington" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=red"></a>
@@ -508,6 +510,7 @@ All the data (past and coming) are available publicly in JSON:
 ### January
 
 * 28-31: [SnowCamp 2026](https://snowcamp.io/) - Grenoble (France)
+* 29-30: [Cloud Tech Tallinn](https://cloudtechtallinn.com/) - Tallinn (Estonia)
 
 ### February
 
