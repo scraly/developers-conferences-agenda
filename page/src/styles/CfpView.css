@@ -195,3 +195,12 @@
 .countryName {
     margin-left: 0.5rem !important;
 }
+
+.cfpView .eventCell.favorite-event {
+    border-left: 4px solid #FF7F50;
+    background: #fff8f6;
+}
+
+.cfpView .eventCell.favorite-event .content b {
+    color: #FF7F50;
+}

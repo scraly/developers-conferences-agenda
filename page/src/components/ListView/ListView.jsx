@@ -5,11 +5,14 @@ import 'styles/ListView.css';
 import {useYearEvents} from 'app.hooks';
 import {getMonthName, getMonthNames} from 'utils';
 import ShortDate from 'components/ShortDate/ShortDate';
+import FavoriteButton from 'components/FavoriteButton/FavoriteButton';
+import { useFavoritesContext } from '../../contexts/FavoritesContext';
 
 const ListView = () => {
   let events = useYearEvents();
   const [searchParams] = useSearchParams();
   const search = Object.fromEntries(searchParams);
+  const { isFavorite } = useFavoritesContext();
 
   // Sort events based on the selected sort option
   events = events.sort((a, b) => {
@@ -58,16 +61,24 @@ const ListView = () => {
       {monthOrder.map(month => (
         <React.Fragment key={month}>
           <h1>{month}{search.sort === 'cfp' ? ' CFP Deadlines' : ' Events'}:</h1>
-          {eventsByMonth[month].map((e, i) => (
-            <div className='event-list-entry' key={`${month}_ev_${i}`}>
-              <ShortDate dates={e.date} />
-              <b>{e.name}</b>
-              {e.hyperlink ? <a href={e.hyperlink}>{new URL(e.hyperlink).hostname}</a> : ''}
-              <span>{e.location}</span>
-              <span dangerouslySetInnerHTML={{__html: e.misc}} />
-              {e.closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
-            </div>
-          ))}
+          {eventsByMonth[month].map((e, i) => {
+            const eventId = `${e.name}-${e.date[0]}`;
+            const isFav = isFavorite(eventId);
+            
+            return (
+              <div className={`event-list-entry ${isFav ? 'favorite-event' : ''}`} key={`${month}_ev_${i}`}>
+                <ShortDate dates={e.date} />
+                <div className="event-list-header">
+                  <b>{e.name}</b>
+                  <FavoriteButton event={e} />
+                </div>
+                {e.hyperlink ? <a href={e.hyperlink}>{new URL(e.hyperlink).hostname}</a> : ''}
+                <span>{e.location}</span>
+                <span dangerouslySetInnerHTML={{__html: e.misc}} />
+                {e.closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
+              </div>
+            );
+          })}
         </React.Fragment>
       ))}
     </div>

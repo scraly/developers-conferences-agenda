@@ -93,6 +93,11 @@ const Filters = ({ view }) => {
           <input checked={search.online == 'true'} id='filter-online' onChange={(e) => onChange('online', e.target.checked)} type='checkbox' />
           <label htmlFor='filter-online'>Online</label>
         </div>
+
+        <div className='filtersItem'>
+          <input checked={search.favorites == 'true'} id='filter-favorites' onChange={(e) => onChange('favorites', e.target.checked)} type='checkbox' />
+          <label htmlFor='filter-favorites'>Favorites</label>
+        </div>
       </div>
 
       <div className='filtersItem'>

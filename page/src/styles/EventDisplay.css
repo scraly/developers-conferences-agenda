@@ -13,6 +13,34 @@
   flex-grow: 1;
 }
 
+.eventCell .event-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+}
+
+.eventsGridDisplay .eventCell .event-header {
+  align-items: flex-start;
+}
+
+.eventsGridDisplay .eventCell .event-header .favorite-button {
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  z-index: 1;
+}
+
+.eventCell.favorite-event {
+  border-left: 4px solid #FF7F50;
+  background: #fff8f6;
+}
+
+.eventCell.favorite-event .content b {
+  color: #FF7F50;
+}
+
 .eventCell a {
   color: blue;
 }

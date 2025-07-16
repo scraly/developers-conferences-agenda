@@ -25,6 +25,22 @@
   flex-direction: row;
 }
 
+.listView .event-list-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+
+.listView .event-list-entry.favorite-event {
+  border-left: 4px solid #FF7F50;
+  background-color: #fff8f6;
+}
+
+.listView .event-list-entry.favorite-event b {
+  color: #FF7F50;
+}
+
 .listView li span,
 .listView li b,
 .listView li a {
