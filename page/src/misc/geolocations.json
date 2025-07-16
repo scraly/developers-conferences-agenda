@@ -1307,6 +1307,10 @@
     "latitude": 48.0073849,
     "longitude": 0.1967849
   },
+  "Lecce (Italy)": {
+    "latitude": 40.1522173,
+    "longitude": 18.2260628
+  },
   "Lehi, UT (USA)": {
     "latitude": 40.3916172,
     "longitude": -111.8507662
@@ -1687,6 +1691,10 @@
     "latitude": 50.41549699999999,
     "longitude": -5.073719
   },
+  "Niamey (Niger)": {
+    "latitude": 13.524834,
+    "longitude": 2.109823
+  },
   "Nice (France)": {
     "latitude": 43.7009358,
     "longitude": 7.2683912
@@ -1918,6 +1926,10 @@
   "Portorož (Slovenia)": {
     "latitude": 45.5146489,
     "longitude": 13.5910112
+  },
+  "Potenza (Italy)": {
+    "latitude": 40.5173119,
+    "longitude": 15.8216088
   },
   "Potsdam (Germany)": {
     "latitude": 52.4009309,
