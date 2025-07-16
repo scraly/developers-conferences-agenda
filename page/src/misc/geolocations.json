@@ -495,6 +495,10 @@
     "latitude": -22.9050824,
     "longitude": -47.0613327
   },
+  "Campobasso (Italy)": {
+    "latitude": 41.7172648,
+    "longitude": 14.8262267
+  },
   "Canary Islands (Spain)": {
     "latitude": 28.286398900000002,
     "longitude": -16.796011808910734
@@ -1830,6 +1834,10 @@
   "Perros-Guirec (France)": {
     "latitude": 48.8151133,
     "longitude": -3.4394662
+  },
+  "Pescara (Italy)": {
+    "latitude": 42.3102619,
+    "longitude": 13.9575901
   },
   "Philadelphia, PA (USA)": {
     "latitude": 39.9527237,
