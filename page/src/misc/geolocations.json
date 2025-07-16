@@ -43,6 +43,10 @@
     "latitude": 21.8852562,
     "longitude": -102.2915677
   },
+  "Ahlen (Germany)": {
+    "latitude": 51.7627633,
+    "longitude": 7.8909086
+  },
   "Ahmedabad (India)": {
     "latitude": 23.0216238,
     "longitude": 72.5797068
@@ -306,6 +310,10 @@
   "Birmingham, AL (USA)": {
     "latitude": 33.5206824,
     "longitude": -86.8024326
+  },
+  "Bletchley (UK)": {
+    "latitude": 51.9943694,
+    "longitude": -0.7325655
   },
   "Bloomington, IN (USA)": {
     "latitude": 39.169574,
@@ -1342,6 +1350,10 @@
   "Ljubljana (Slovenia)": {
     "latitude": 46.0500268,
     "longitude": 14.5069289
+  },
+  "Lleida (Spain)": {
+    "latitude": 41.6147605,
+    "longitude": 0.6267842
   },
   "Logroño (Spain)": {
     "latitude": 42.4627195,
