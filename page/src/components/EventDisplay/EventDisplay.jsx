@@ -1,12 +1,22 @@
 import 'styles/EventDisplay.css';
 import {formatEventDates} from './EventDisplay.utils';
+import FavoriteButton from '../FavoriteButton/FavoriteButton';
+import { useFavoritesContext } from '../../contexts/FavoritesContext';
 
 const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, dateOnTop=false}) => {
+  const event = {name, hyperlink, location, misc, closedCaptions, date};
+  const eventId = `${name}-${date[0]}`;
+  const { isFavorite } = useFavoritesContext();
+  const isFav = isFavorite(eventId);
+  
   return (
-    <div className="eventCell">
+    <div className={`eventCell ${isFav ? 'favorite-event' : ''}`}>
       {dateOnTop ? <span className="when">{formatEventDates(date)}</span> : null}
       <div className="content">
-        <b>{name}</b>
+        <div className="event-header">
+          <b>{name}</b>
+          <FavoriteButton event={event} />
+        </div>
         {hyperlink ? <a href={hyperlink}>{new URL(hyperlink).hostname}</a> : ''}
         <span>{location}</span>
         <p dangerouslySetInnerHTML={{__html: misc}} />

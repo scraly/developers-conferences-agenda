@@ -9,6 +9,7 @@ import { MapPage } from 'routes/mappage';
 import { ListPage } from 'routes/listpage';
 import { CfpPage } from 'routes/cfppage';
 import { FilterContext } from 'contexts/FilterContext';
+import { FavoritesProvider } from 'contexts/FavoritesContext';
 import { ScrollToTopButton } from './components/ScrollToTopButton/ScrollToTopButton';
 
 const App = () => {
@@ -19,20 +20,22 @@ const App = () => {
   };
 
   return (
-    <FilterContext.Provider value={filtercontextdefaults}>
-      <Router>
-        <h1 className="dcaTitle">Developer Conferences Agenda</h1>
-        <Routes>
-          <Route Component={Index} path="/" />
-          <Route Component={Year} path=":year" />
-          <Route Component={DatePage} path=":year/calendar/:month?/:date?" />
-          <Route Component={MapPage} path="/:year/map" />
-          <Route Component={ListPage} path="/:year/list" />
-          <Route Component={CfpPage} path="/:year/cfp" />
-        </Routes>
-        <ScrollToTopButton />
-      </Router>
-    </FilterContext.Provider>
+    <FavoritesProvider>
+      <FilterContext.Provider value={filtercontextdefaults}>
+        <Router>
+          <h1 className="dcaTitle">Developer Conferences Agenda</h1>
+          <Routes>
+            <Route Component={Index} path="/" />
+            <Route Component={Year} path=":year" />
+            <Route Component={DatePage} path=":year/calendar/:month?/:date?" />
+            <Route Component={MapPage} path="/:year/map" />
+            <Route Component={ListPage} path="/:year/list" />
+            <Route Component={CfpPage} path="/:year/cfp" />
+          </Routes>
+          <ScrollToTopButton />
+        </Router>
+      </FilterContext.Provider>
+    </FavoritesProvider>
   );
 };
 

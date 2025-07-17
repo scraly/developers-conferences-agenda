@@ -2,6 +2,7 @@ import { useParams, useSearchParams } from 'react-router-dom'
 import allEvents from 'misc/all-events.json'
 import regions from 'misc/regions.json'
 import { useMemo } from 'react'
+import { isFavorite } from './utils/favorites'
 
 export const useHasYearEvents = (year) => {
   return useMemo(() => Boolean(allEvents.find((e) => new Date(e.date[0]).getFullYear() === parseInt(year, 10))), [year])
@@ -85,6 +86,14 @@ export const useYearEvents = () => {
           e.location.toLowerCase().includes(search.query.toLowerCase())
       )
     }
+
+    if (search.favorites === 'true') {
+      result = result.filter((e) => {
+        const eventId = `${e.name}-${e.date[0]}`;
+        return isFavorite(eventId);
+      });
+    }
+
     return result
   }, [yearEvents, searchParams])
 

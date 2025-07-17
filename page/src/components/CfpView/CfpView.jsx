@@ -6,9 +6,12 @@ import {useYearEvents} from 'app.hooks';
 import {getMonthName, getMonthNames} from 'utils';
 import {formatEventDates} from 'components/EventDisplay/EventDisplay.utils';
 import { flag } from 'country-emoji';
+import FavoriteButton from '../FavoriteButton/FavoriteButton';
+import { useFavoritesContext } from '../../contexts/FavoritesContext';
 
 const CfpView = () => {
   let events = useYearEvents();
+  const { isFavorite } = useFavoritesContext();
 
     // Display only opened callForPapers
     events = events.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date());
@@ -43,28 +46,35 @@ const CfpView = () => {
         <React.Fragment key={month}>
           <h1>{month} Opened CFPs:</h1>
           <div className="eventsGridDisplay">
-          {eventsByMonth[month].map((e, i) => (
+          {eventsByMonth[month].map((e, i) => {
+            const eventId = `${e.name}-${e.date[0]}`;
+            const isFav = isFavorite(eventId);
+            
+            return (
+              <div className={`eventCell ${isFav ? 'favorite-event' : ''}`} key={`${month}_ev_${i}`}>
+    
+                <div className="content">
+                  <div>
+                    <div className="event-header">
+                      <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''} ({formatEventDates(e.date)})</b>
+                      <FavoriteButton event={e} />
+                    </div>
+                    
+                      <span className="until"><Clock color="green" />Until {e.cfp.until} </span>
 
-          <div className='eventCell' key={`${month}_ev_${i}`}>
-  
-            <div className="content">
-              <div>
-                <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''} ({formatEventDates(e.date)})</b>
-                
-                  <span className="until"><Clock color="green" />Until {e.cfp.until} </span>
-
-                  <div className="country">
-                    <span className="countryFlag">{e.country != "Online" ? flag(e.country) : '🌎'}</span>
-                    <span className="countryName">{e.location}</span>
+                      <div className="country">
+                        <span className="countryFlag">{e.country != "Online" ? flag(e.country) : '🌎'}</span>
+                        <span className="countryName">{e.location}</span>
+                      </div>
                   </div>
+                  <a className="submitButton" href={e.cfp.link} rel="noreferrer" target="_blank" title="Submit to the CFP">
+                    <CalendarClock />
+                    Submit to the CFP
+                  </a>
+                </div>
               </div>
-              <a className="submitButton" href={e.cfp.link} rel="noreferrer" target="_blank" title="Submit to the CFP">
-                <CalendarClock />
-                Submit to the CFP
-              </a>
-            </div>
-          </div>
-          ))}
+            );
+          })}
           </div>
         </React.Fragment>
       ))}
