@@ -67,10 +67,10 @@ const ListView = () => {
             
             return (
               <div className={`event-list-entry ${isFav ? 'favorite-event' : ''}`} key={`${month}_ev_${i}`}>
+              <FavoriteButton event={e} />
                 <ShortDate dates={e.date} />
                 <div className="event-list-header">
                   <b>{e.name}</b>
-                  <FavoriteButton event={e} />
                 </div>
                 {e.hyperlink ? <a href={e.hyperlink}>{new URL(e.hyperlink).hostname}</a> : ''}
                 <span>{e.location}</span>
