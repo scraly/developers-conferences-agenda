@@ -137,6 +137,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29-30: [PyCon Greece](https://2025.pycon.gr/en/) - Athens (Greece)
 * 30: [JVM Day](https://meetup.tbank.ru/conference/jvm-day/) - Moscow (Russia)
 * 30: [DevOpsDays Curitiba](https://devopsdays.org/events/2025-curitiba/welcome/) - Curitiba (Brazil) <a href="https://www.papercall.io/devopsdays-curitiba"><img alt="CFP DevOpsDays Curitiba" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2025&color=red"></a>
+* 31-02/09: [Flutter & Friends](https://www.flutterfriends.dev/) - Stockholm (Sweden)
 
 ### September
 
