@@ -1227,6 +1227,10 @@
     "latitude": 35.9606384,
     "longitude": -83.9207392
   },
+  "Kobe (Japan)": {
+    "latitude": 38.9888851,
+    "longitude": -76.9893733
+  },
   "Kochi (India)": {
     "latitude": 9.9674277,
     "longitude": 76.2454436
@@ -1738,6 +1742,10 @@
   "Oceanside, CA (USA)": {
     "latitude": 33.1976677,
     "longitude": -117.3787563
+  },
+  "Odawara (Japan)": {
+    "latitude": 35.2645301,
+    "longitude": 139.152246
   },
   "Odense (Denmark)": {
     "latitude": 55.40375599999999,
