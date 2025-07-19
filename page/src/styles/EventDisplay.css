@@ -47,6 +47,7 @@
 
 .eventCell .when {
   font-size: 0.8em;
+  margin-left: 0rem;
 }
 
 .lucide-arrow-right-circle {
@@ -83,4 +84,12 @@
   -moz-transition: transform 0.5s;
   -ms-transition: transform 0.5s;
   -o-transition: transform 0.5s;
+}
+
+.country {
+  display: block !important;
+}
+
+.cfp {
+  margin-left: 1rem !important;
 }
