@@ -1187,6 +1187,10 @@
     "latitude": -21.7623932,
     "longitude": -43.3434669
   },
+  "Jyväskylä (Finland)": {
+    "latitude": 62.2417066,
+    "longitude": 25.7495727
+  },
   "Kampala (Uganda)": {
     "latitude": 0.3177137,
     "longitude": 32.5813539
@@ -2202,6 +2206,10 @@
   "Sherbrooke (Canada)": {
     "latitude": 45.4042669,
     "longitude": -71.89367399999999
+  },
+  "Shinagawa (Japan)": {
+    "latitude": 35.6092008,
+    "longitude": 139.7301982
   },
   "Sinaloa (Mexico)": {
     "latitude": 25.8226854,
