@@ -32,3 +32,7 @@
   background: #e0e0e0;
   border-color: #aaa;
 }
+
+.event-list-entry .tag-badges {
+  margin-top: 0;
+}
