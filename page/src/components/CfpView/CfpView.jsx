@@ -8,6 +8,7 @@ import {formatEventDates} from 'components/EventDisplay/EventDisplay.utils';
 import { flag } from 'country-emoji';
 import FavoriteButton from '../FavoriteButton/FavoriteButton';
 import { useFavoritesContext } from '../../contexts/FavoritesContext';
+import ShortDate from 'components/ShortDate/ShortDate';
 
 const CfpView = () => {
   let events = useYearEvents();
@@ -56,7 +57,7 @@ const CfpView = () => {
                 <div className="content">
                   <div>
                     <div className="event-header">
-                      <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''} ({formatEventDates(e.date)})</b>
+                      <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''} (<ShortDate dates={e.date} />)</b>
                       <FavoriteButton event={e} />
                     </div>
                     
