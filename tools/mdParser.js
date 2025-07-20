@@ -2,6 +2,7 @@ const fs = require("fs");
 
 const ROOT = "../";
 const MAIN_INPUT = ROOT + "README.md";
+const TAGS_INPUT = ROOT + "TAGS.csv";
 const MAIN_OUTPUT = ROOT + "page/src/misc/all-events.json";
 const CFP_OUTPUT = ROOT + "page/src/misc/all-cfps.json";
 const MONTHS_NAMES =
@@ -11,6 +12,42 @@ const MONTHS_NAMES =
 const MONTHS_SHORTNAMES = MONTHS_NAMES.map((m) => m.slice(0, 3));
 
 const getTimeStamp = (year,month,day) => new Date(Date.UTC(year,month,day,0,0,0)).getTime()
+
+const parseTags = () => {
+  try {
+    const tagsContent = fs.readFileSync(TAGS_INPUT, 'utf8');
+    const lines = tagsContent.split('\n').filter(line => line.trim() !== '');
+    const tagsMap = new Map();
+    
+    for (let i = 1; i < lines.length; i++) { // Skip header row
+      const line = lines[i].trim();
+      if (!line) continue;
+      
+      const [eventId, ...tagsParts] = line.split(',');
+      const tagsString = tagsParts.join(',');
+      const tags = tagsString.split(',')
+        .map(tag => tag.trim())
+        .filter(tag => tag !== '' && tag.includes(':'))
+        .map(tag => {
+          const [key, value] = tag.split(':');
+          return { key: key.trim(), value: value.trim() };
+        });
+      tagsMap.set(eventId, tags);
+    }
+    
+    return tagsMap;
+  } catch (error) {
+    console.warn('TAGS.csv not found or invalid, continuing without tags');
+    return new Map();
+  }
+}
+
+const generateEventId = (conf) => {
+  // Generate ISO date from the first date in the date array
+  const firstDate = new Date(conf.date[0]);
+  const isoDate = firstDate.toISOString().split('T')[0];
+  return `${isoDate}-${conf.name}`;
+}
 
 const extractArchiveFiles = (
   markdown //eg: " * [2017](archives/2017.md)"
@@ -157,8 +194,18 @@ const archiveConfs = archives.flatMap((archive) =>
   extractConfs(fs.readFileSync(archive).toString())
 );
 
-//aggregation
-const allConfs = archiveConfs.concat(currentConfs);
+//tags parsing
+const tagsMap = parseTags();
+
+//aggregation and tags integration
+const allConfs = archiveConfs.concat(currentConfs).map((conf) => {
+  const eventId = generateEventId(conf);
+  const tags = tagsMap.get(eventId) || [];
+  return {
+    ...conf,
+    tags: tags
+  };
+});
 fs.writeFileSync(MAIN_OUTPUT, JSON.stringify(allConfs));
 
 const allCFPs = allConfs
