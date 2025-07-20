@@ -283,3 +283,7 @@
         gap: 0.25rem;
     }
 }
+
+.event-list-entry a:hover {
+  text-decoration: underline;
+}

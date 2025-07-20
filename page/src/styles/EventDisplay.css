@@ -93,3 +93,7 @@
 .cfp {
   margin-left: 1rem !important;
 }
+
+.event-header a:hover {
+  text-decoration: underline;
+}
