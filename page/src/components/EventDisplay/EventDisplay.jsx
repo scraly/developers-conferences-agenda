@@ -35,7 +35,7 @@ const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, da
         </div>
         <p className="cfp" dangerouslySetInnerHTML={{__html: misc}} />
         {closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
-        <TagBadges tags={tags} onTagClick={handleTagClick} />
+        <TagBadges onTagClick={handleTagClick} tags={tags} />
       </div>
     </div>
   );

@@ -8,10 +8,10 @@ const TagsToggle = () => {
 
   return (
     <button 
+      aria-label={tagsVisible ? 'Hide tags' : 'Show tags'}
       className={`tags-toggle-button ${!tagsVisible ? 'strikethrough' : ''}`}
       onClick={toggleTagsVisibility}
       title={tagsVisible ? 'Hide tags' : 'Show tags'}
-      aria-label={tagsVisible ? 'Hide tags' : 'Show tags'}
     >
       <Tag size={20} />
     </button>

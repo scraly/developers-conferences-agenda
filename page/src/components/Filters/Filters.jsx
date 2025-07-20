@@ -5,6 +5,8 @@ import { Filter, FilterX } from 'lucide-react';
 
 import { useCountries, useRegions, useRegionsMap, useTags, useTagKeys } from 'app.hooks';
 import { useTagsVisibility } from 'contexts/TagsContext';
+import TagMultiSelect from 'components/TagMultiSelect/TagMultiSelect';
+import SelectedTags from 'components/SelectedTags/SelectedTags';
 
 import 'styles/Filters.css';
 import { FilterContext } from 'contexts/FilterContext';
@@ -35,6 +37,20 @@ const Filters = ({ view }) => {
   const tagKeys = useTagKeys()
 
   const search = Object.fromEntries(searchParams)
+
+  const selectedTags = useMemo(() => {
+    if (!search.tags) return [];
+    return Array.isArray(search.tags) ? search.tags : search.tags.split(',');
+  }, [search.tags]);
+
+  const handleTagsChange = useCallback((newTags) => {
+    onChange('tags', newTags.length > 0 ? newTags.join(',') : '');
+  }, [onChange]);
+
+  const handleRemoveTag = useCallback((tagToRemove) => {
+    const newTags = selectedTags.filter(tag => tag !== tagToRemove);
+    handleTagsChange(newTags);
+  }, [selectedTags, handleTagsChange]);
 
   const countriesList = useMemo(() => {
     let result = countries
@@ -68,15 +84,17 @@ const Filters = ({ view }) => {
         <input id='filter-query' onChange={(e) => onChange('query', e.target.value)} placeholder="Search..." type='text' value={search.query} />
       </div>
 
-{tagsVisible && tagKeys.map(key => (
-        <div key={key} className='filtersItem'>
-          <label htmlFor={`filter-${key}`}>{key.charAt(0).toUpperCase() + key.slice(1)}:</label>
-          <select id={`filter-${key}`} onChange={(e) => onChange(key, e.target.value)} value={search[key] || ''}>
-            <option value=''>All</option>
-            {tags[key]?.map((value) => (<option key={value} value={value}>{value}</option>))}
-          </select>
-        </div>
-      ))}
+{tagsVisible ? <div className='filtersItem tags-filter'>
+          <label>Tags:</label>
+          <TagMultiSelect
+            onChange={handleTagsChange}
+            selectedTags={selectedTags}
+          />
+          <SelectedTags
+            onRemoveTag={handleRemoveTag}
+            selectedTags={selectedTags}
+          />
+        </div> : null}
 
       <div className='filtersItem'>
         <label htmlFor='filter-until'>CFP Until:</label>

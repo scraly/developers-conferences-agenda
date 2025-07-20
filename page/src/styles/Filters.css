@@ -9,6 +9,8 @@
     z-index: 999999;
     background: white;
     height: 100%;
+    width: 300px;
+    box-sizing: border-box;
 }
 
 .filters-icon {
@@ -62,6 +64,11 @@
 .filters .filtersItem {
     overflow: hidden;
     white-space: nowrap;
+}
+
+.filters .filtersItem.tags-filter {
+    overflow: visible;
+    white-space: normal;
 }
 
 .filters .filtersItem input[type=checkbox] {

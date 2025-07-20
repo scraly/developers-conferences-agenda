@@ -1,0 +1,76 @@
+.selected-tags {
+  margin-bottom: 16px;
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  box-sizing: border-box;
+}
+
+.selected-tags-label {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+
+.selected-tags-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  max-width: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.selected-tag {
+  display: inline-flex;
+  align-items: center;
+  background-color: #e9ecef;
+  border: 1px solid #dee2e6;
+  border-radius: 16px;
+  padding: 4px 8px 4px 12px;
+  font-size: 0.875rem;
+  color: #495057;
+  max-width: calc(100% - 12px);
+  min-width: 0;
+  flex-shrink: 1;
+}
+
+.selected-tag:hover {
+  background-color: #dee2e6;
+  border-color: #ced4da;
+}
+
+.selected-tag-value {
+  margin-right: 6px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1;
+  min-width: 0;
+}
+
+.selected-tag-remove {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  color: #6c757d;
+  transition: all 0.15s ease-in-out;
+}
+
+.selected-tag-remove:hover {
+  background-color: #dc3545;
+  color: white;
+}
+
+.selected-tag-remove:focus {
+  outline: 2px solid #007bff;
+  outline-offset: 1px;
+}

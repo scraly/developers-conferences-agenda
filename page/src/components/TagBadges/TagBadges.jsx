@@ -22,8 +22,8 @@ const TagBadges = ({tags = [], onTagClick}) => {
     <div className="tag-badges">
       {tags.map((tag, index) => (
         <span 
-          key={index} 
-          className={`tag-badge ${onTagClick ? 'clickable' : ''}`}
+          className={`tag-badge ${onTagClick ? 'clickable' : ''}`} 
+          key={index}
           onClick={() => handleTagClick(tag)}
         >
           {typeof tag === 'object' ? `${tag.key}: ${tag.value}` : tag}

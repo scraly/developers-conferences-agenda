@@ -136,7 +136,23 @@ export const useYearEvents = () => {
       });
     }
 
-    // Handle multiple tag filters by key
+    // Handle multiselect tags filter (AND logic - all selected tags must match)
+    if (search.tags) {
+      const selectedTags = Array.isArray(search.tags) ? search.tags : search.tags.split(',');
+      if (selectedTags.length > 0 && selectedTags[0] !== '') {
+        result = result.filter((e) => {
+          if (!e.tags || !Array.isArray(e.tags)) return false
+          return selectedTags.every(selectedTag => {
+            const [key, value] = selectedTag.split(':');
+            return e.tags.some((tag) => {
+              return typeof tag === 'object' && tag.key === key && tag.value === value;
+            });
+          });
+        });
+      }
+    }
+
+    // Handle individual tag filters by key (legacy support)
     const tagKeys = ['tech', 'topic', 'type', 'language'] // Common tag keys
     tagKeys.forEach(key => {
       if (search[key]) {

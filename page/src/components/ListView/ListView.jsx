@@ -82,7 +82,7 @@ const ListView = () => {
                 <span>{e.location}</span>
                 <span dangerouslySetInnerHTML={{__html: e.misc}} />
                 {e.closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
-                <TagBadges tags={e.tags} onTagClick={handleTagClick} />
+                <TagBadges onTagClick={handleTagClick} tags={e.tags} />
               </div>
             );
           })}
