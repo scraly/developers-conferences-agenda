@@ -9,6 +9,22 @@
   height: 100%;
 }
 
+/* Centrage vertical des contenus HTML injectés dans MapView */
+
+.event-map-entry {
+  display: grid !important;
+  grid-template-columns: auto minmax(100px, 200px) 150px auto auto !important;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.event-map-misc {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: flex-start;
+}
+
 .mapView .leaflet-popup {
     width: content;
 }
