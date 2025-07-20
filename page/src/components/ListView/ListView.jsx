@@ -67,8 +67,10 @@ const ListView = () => {
             
             return (
               <div className={`event-list-entry ${isFav ? 'favorite-event' : ''}`} key={`${month}_ev_${i}`}>
-              <FavoriteButton event={e} />
-                <ShortDate dates={e.date} />
+                <div className="event-date-fav">
+                  <FavoriteButton event={e} />
+                  <ShortDate dates={e.date} />
+                </div>
                 <div className="event-list-header">
                   <b>{e.name}</b>
                 </div>
