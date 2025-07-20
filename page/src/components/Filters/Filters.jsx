@@ -4,12 +4,14 @@ import { useSearchParams } from "react-router-dom";
 import { Filter, FilterX } from 'lucide-react';
 
 import { useCountries, useRegions, useRegionsMap, useTags, useTagKeys } from 'app.hooks';
+import { useTagsVisibility } from 'contexts/TagsContext';
 
 import 'styles/Filters.css';
 import { FilterContext } from 'contexts/FilterContext';
 
 const Filters = ({ view }) => {
   const context = useContext(FilterContext);
+  const { tagsVisible } = useTagsVisibility();
   const [searchParams, setSearchParams] = useSearchParams(context.searchParams);
   const [open, setOpen] = useState(context.open);
 
@@ -66,7 +68,7 @@ const Filters = ({ view }) => {
         <input id='filter-query' onChange={(e) => onChange('query', e.target.value)} placeholder="Search..." type='text' value={search.query} />
       </div>
 
-{tagKeys.map(key => (
+{tagsVisible && tagKeys.map(key => (
         <div key={key} className='filtersItem'>
           <label htmlFor={`filter-${key}`}>{key.charAt(0).toUpperCase() + key.slice(1)}:</label>
           <select id={`filter-${key}`} onChange={(e) => onChange(key, e.target.value)} value={search[key] || ''}>

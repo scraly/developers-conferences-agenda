@@ -12,8 +12,18 @@ body * {
   outline: 0;
 }
 
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1rem 0.5rem 1rem;
+  position: relative;
+}
+
 .dcaTitle {
   text-align: center;
+  flex-grow: 1;
+  margin: 0;
 }
 
 .dcaGrid {

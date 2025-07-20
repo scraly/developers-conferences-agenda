@@ -1,7 +1,10 @@
+import { useTagsVisibility } from 'contexts/TagsContext';
 import 'styles/TagBadges.css';
 
 const TagBadges = ({tags = [], onTagClick}) => {
-  if (!tags || tags.length === 0) {
+  const { tagsVisible } = useTagsVisibility();
+  
+  if (!tagsVisible || !tags || tags.length === 0) {
     return null;
   }
 

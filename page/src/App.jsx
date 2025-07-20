@@ -10,7 +10,9 @@ import { ListPage } from 'routes/listpage';
 import { CfpPage } from 'routes/cfppage';
 import { FilterContext } from 'contexts/FilterContext';
 import { FavoritesProvider } from 'contexts/FavoritesContext';
+import { TagsProvider } from 'contexts/TagsContext';
 import { ScrollToTopButton } from './components/ScrollToTopButton/ScrollToTopButton';
+import TagsToggle from './components/TagsToggle/TagsToggle';
 
 const App = () => {
   // TODO: DRY
@@ -21,20 +23,25 @@ const App = () => {
 
   return (
     <FavoritesProvider>
-      <FilterContext.Provider value={filtercontextdefaults}>
-        <Router>
-          <h1 className="dcaTitle">Developer Conferences Agenda</h1>
-          <Routes>
-            <Route Component={Index} path="/" />
-            <Route Component={Year} path=":year" />
-            <Route Component={DatePage} path=":year/calendar/:month?/:date?" />
-            <Route Component={MapPage} path="/:year/map" />
-            <Route Component={ListPage} path="/:year/list" />
-            <Route Component={CfpPage} path="/:year/cfp" />
-          </Routes>
-          <ScrollToTopButton />
-        </Router>
-      </FilterContext.Provider>
+      <TagsProvider>
+        <FilterContext.Provider value={filtercontextdefaults}>
+          <Router>
+            <div className="app-header">
+              <h1 className="dcaTitle">Developer Conferences Agenda</h1>
+              <TagsToggle />
+            </div>
+            <Routes>
+              <Route Component={Index} path="/" />
+              <Route Component={Year} path=":year" />
+              <Route Component={DatePage} path=":year/calendar/:month?/:date?" />
+              <Route Component={MapPage} path="/:year/map" />
+              <Route Component={ListPage} path="/:year/list" />
+              <Route Component={CfpPage} path="/:year/cfp" />
+            </Routes>
+            <ScrollToTopButton />
+          </Router>
+        </FilterContext.Provider>
+      </TagsProvider>
     </FavoritesProvider>
   );
 };
