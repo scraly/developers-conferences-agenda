@@ -7,11 +7,19 @@ import {getMonthName, getMonthNames} from 'utils';
 import {formatEventDates} from 'components/EventDisplay/EventDisplay.utils';
 import { flag } from 'country-emoji';
 import FavoriteButton from '../FavoriteButton/FavoriteButton';
+import TagBadges from 'components/TagBadges/TagBadges';
 import { useFavoritesContext } from '../../contexts/FavoritesContext';
+import { useSearchParams } from 'react-router-dom';
 
 const CfpView = () => {
   let events = useYearEvents();
   const { isFavorite } = useFavoritesContext();
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  const handleTagClick = (key, value) => {
+    const currentSearch = Object.fromEntries(searchParams);
+    setSearchParams({ ...currentSearch, [key]: value });
+  };
 
     // Display only opened callForPapers
     events = events.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date());
@@ -66,6 +74,7 @@ const CfpView = () => {
                         <span className="countryFlag">{e.country != "Online" ? flag(e.country) : '🌎'}</span>
                         <span className="countryName">{e.location}</span>
                       </div>
+                      <TagBadges tags={e.tags} onTagClick={handleTagClick} />
                   </div>
                   <a className="submitButton" href={e.cfp.link} rel="noreferrer" target="_blank" title="Submit to the CFP">
                     <CalendarClock />

@@ -6,13 +6,19 @@ import {useYearEvents} from 'app.hooks';
 import {getMonthName, getMonthNames} from 'utils';
 import ShortDate from 'components/ShortDate/ShortDate';
 import FavoriteButton from 'components/FavoriteButton/FavoriteButton';
+import TagBadges from 'components/TagBadges/TagBadges';
 import { useFavoritesContext } from '../../contexts/FavoritesContext';
 
 const ListView = () => {
   let events = useYearEvents();
-  const [searchParams] = useSearchParams();
+  const [searchParams, setSearchParams] = useSearchParams();
   const search = Object.fromEntries(searchParams);
   const { isFavorite } = useFavoritesContext();
+
+  const handleTagClick = (key, value) => {
+    const currentSearch = Object.fromEntries(searchParams);
+    setSearchParams({ ...currentSearch, [key]: value });
+  };
 
   // Sort events based on the selected sort option
   events = events.sort((a, b) => {
@@ -76,6 +82,7 @@ const ListView = () => {
                 <span>{e.location}</span>
                 <span dangerouslySetInnerHTML={{__html: e.misc}} />
                 {e.closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
+                <TagBadges tags={e.tags} onTagClick={handleTagClick} />
               </div>
             );
           })}

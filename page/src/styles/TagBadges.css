@@ -1,0 +1,34 @@
+.tag-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 8px;
+}
+
+.tag-badge {
+  background: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  padding: 2px 8px;
+  font-size: 0.75em;
+  font-weight: 500;
+  color: #555;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.tag-badge.clickable {
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.tag-badge.clickable:hover {
+  background: #e0e0e0;
+  border-color: #aaa;
+  transform: translateY(-1px);
+}
+
+.tag-badge:hover {
+  background: #e0e0e0;
+  border-color: #aaa;
+}

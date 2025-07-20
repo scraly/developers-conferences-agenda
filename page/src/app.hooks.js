@@ -40,6 +40,48 @@ export const useRegions = () => {
   }, [])
 }
 
+export const useTags = () => {
+  return useMemo(() => {
+    const tagsByKey = {}
+    allEvents.forEach((e) => {
+      if (e.tags && Array.isArray(e.tags)) {
+        e.tags.forEach((tag) => {
+          if (typeof tag === 'object' && tag.key && tag.value) {
+            if (!tagsByKey[tag.key]) {
+              tagsByKey[tag.key] = new Set()
+            }
+            tagsByKey[tag.key].add(tag.value)
+          }
+        })
+      }
+    })
+    
+    // Convert sets to sorted arrays
+    const result = {}
+    Object.keys(tagsByKey).forEach(key => {
+      result[key] = Array.from(tagsByKey[key]).sort()
+    })
+    
+    return result
+  }, [])
+}
+
+export const useTagKeys = () => {
+  return useMemo(() => {
+    const keys = new Set()
+    allEvents.forEach((e) => {
+      if (e.tags && Array.isArray(e.tags)) {
+        e.tags.forEach((tag) => {
+          if (typeof tag === 'object' && tag.key) {
+            keys.add(tag.key)
+          }
+        })
+      }
+    })
+    return Array.from(keys).sort()
+  }, [])
+}
+
 export const useYearEvents = () => {
   const { year } = useParams()
   const [searchParams] = useSearchParams()
@@ -93,6 +135,19 @@ export const useYearEvents = () => {
         return isFavorite(eventId);
       });
     }
+
+    // Handle multiple tag filters by key
+    const tagKeys = ['tech', 'topic', 'type', 'language'] // Common tag keys
+    tagKeys.forEach(key => {
+      if (search[key]) {
+        result = result.filter((e) => {
+          if (!e.tags || !Array.isArray(e.tags)) return false
+          return e.tags.some((tag) => {
+            return typeof tag === 'object' && tag.key === key && tag.value === search[key]
+          })
+        })
+      }
+    })
 
     return result
   }, [yearEvents, searchParams])

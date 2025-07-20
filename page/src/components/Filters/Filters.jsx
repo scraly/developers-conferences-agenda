@@ -3,7 +3,7 @@ import { useSearchParams } from "react-router-dom";
 
 import { Filter, FilterX } from 'lucide-react';
 
-import { useCountries, useRegions, useRegionsMap } from 'app.hooks';
+import { useCountries, useRegions, useRegionsMap, useTags, useTagKeys } from 'app.hooks';
 
 import 'styles/Filters.css';
 import { FilterContext } from 'contexts/FilterContext';
@@ -29,6 +29,8 @@ const Filters = ({ view }) => {
   const countries = useCountries()
   const regions = useRegions()
   const regionsMap = useRegionsMap()
+  const tags = useTags()
+  const tagKeys = useTagKeys()
 
   const search = Object.fromEntries(searchParams)
 
@@ -63,6 +65,16 @@ const Filters = ({ view }) => {
         <label htmlFor='filter-query'>Query:</label>
         <input id='filter-query' onChange={(e) => onChange('query', e.target.value)} placeholder="Search..." type='text' value={search.query} />
       </div>
+
+{tagKeys.map(key => (
+        <div key={key} className='filtersItem'>
+          <label htmlFor={`filter-${key}`}>{key.charAt(0).toUpperCase() + key.slice(1)}:</label>
+          <select id={`filter-${key}`} onChange={(e) => onChange(key, e.target.value)} value={search[key] || ''}>
+            <option value=''>All</option>
+            {tags[key]?.map((value) => (<option key={value} value={value}>{value}</option>))}
+          </select>
+        </div>
+      ))}
 
       <div className='filtersItem'>
         <label htmlFor='filter-until'>CFP Until:</label>
