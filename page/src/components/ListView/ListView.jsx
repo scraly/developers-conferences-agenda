@@ -72,9 +72,8 @@ const ListView = () => {
                   <ShortDate dates={e.date} />
                 </div>
                 <div className="event-list-header">
-                  <b>{e.name}</b>
+                  <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''}</b>
                 </div>
-                {e.hyperlink ? <a href={e.hyperlink}>{new URL(e.hyperlink).hostname}</a> : ''}
                 <span>{e.location}</span>
                 <span dangerouslySetInnerHTML={{__html: e.misc}} />
                 {e.closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
