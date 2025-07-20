@@ -112,7 +112,7 @@ const TagMultiSelect = ({ selectedTags, onChange }) => {
   };
 
   return (
-    <div style={{ marginTop: '12px', marginBottom: '12px' }}>
+    <div className="tag-multiselect-wrapper">
       <Select
         isMulti
         options={options}
