@@ -11,18 +11,14 @@
 
 /* Centrage vertical des contenus HTML injectés dans MapView */
 
-.event-map-entry {
-  display: grid !important;
-  grid-template-columns: auto minmax(100px, 200px) 150px auto auto !important;
-  align-items: center;
-  gap: 0.75rem;
-}
-
 .event-map-misc {
   display: flex;
   align-items: center;
-  width: 100%;
+  width: 200px;
   justify-content: flex-start;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .mapView .leaflet-popup {
@@ -31,11 +27,15 @@
 
 .mapView .leaflet-popup-content-wrapper {
     max-height: 400px;
+    min-width: 600px;
+    max-width: 800px;
     overflow: hidden;
 }
 
 .mapView .leaflet-popup-content {
     max-height: 350px;
+    min-width: 580px;  /* un peu moins que le wrapper pour les marges */
+    max-width: 780px;
     overflow-y: auto;
     overflow-x: hidden;
     padding-right: 8px;
@@ -60,14 +60,15 @@
 }
 
 .mapView .map-popup-container {
-    min-width: 200px;
-    max-width: 500px;
+    min-width: 580px;
+    max-width: 780px;
+    width: 100%;
 }
 
 .mapView .event-map-entry {
-  width: inherit;
-  display: flex;
-  flex-direction: row;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 100px 200px 200px auto auto;
   align-items: center;
   gap: 0.75rem;
   padding: 0.5rem;
@@ -76,8 +77,8 @@
   background: #f9f9f9;
   border: 1px solid #e0e0e0;
   min-height: 32px;
-  max-width: 480px;
-  flex-shrink: 0;
+  min-width: 560px;
+  max-width: 760px;
 }
 
 .mapView .event-map-entry:last-child {
