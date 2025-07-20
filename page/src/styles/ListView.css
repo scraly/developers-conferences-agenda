@@ -23,6 +23,7 @@
   border-radius: 3px;
   display: flex;
   flex-direction: row;
+  align-items: center; /* Ajout pour centrer verticalement */
 }
 
 .listView .event-list-header {
@@ -65,10 +66,11 @@
 
 
 .event-list-entry > header {
-    display: flex;
-    width: 100%;
-    gap: 1rem;
-    cursor: pointer;
+  display: flex;
+  width: 100%;
+  gap: 1rem;
+  cursor: pointer;
+  align-items: center; /* Ajout pour centrer verticalement */
 }
 
 .event-list-entry > header > * {
@@ -83,6 +85,12 @@
 
 .event-list-entry > header > .event-name-location {
     flex: 2;
+}
+
+.event-name-location {
+  display: flex;
+  align-items: center; /* Ajout pour centrer verticalement */
+  gap: 0.5rem;
 }
 
 .event-list-entry > header > a {
@@ -101,10 +109,11 @@
 }
 
 .event-banners {
-    display: flex;
-    flex: 1;
-    justify-content: end;
-    gap: 10px;
+  display: flex;
+  flex: 1;
+  justify-content: end;
+  gap: 10px;
+  align-items: center; /* Ajout pour centrer verticalement */
 }
 
 .event-banners.hide {
