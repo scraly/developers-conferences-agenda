@@ -10,12 +10,15 @@
 }
 
 .mapView .leaflet-popup {
-    width: content;
+    width: auto;
+    min-width: 300px;
 }
 
 .mapView .leaflet-popup-content-wrapper {
     max-height: 400px;
     overflow: hidden;
+    min-width: 300px;
+    width: auto;
 }
 
 .mapView .leaflet-popup-content {
@@ -23,6 +26,8 @@
     overflow-y: auto;
     overflow-x: hidden;
     padding-right: 8px;
+    min-width: 280px;
+    width: auto;
 }
 
 .mapView .leaflet-popup-content::-webkit-scrollbar {
@@ -44,8 +49,8 @@
 }
 
 .mapView .map-popup-container {
-    min-width: 200px;
-    max-width: 500px;
+    min-width: 280px;
+    max-width: 600px;
 }
 
 .mapView .event-map-entry {
@@ -53,14 +58,15 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 0.75rem;
+  justify-content: flex-start;
+  gap: 1rem;
   padding: 0.5rem;
   border-radius: 4px;
   margin-bottom: 0.5rem;
   background: #f9f9f9;
   border: 1px solid #e0e0e0;
   min-height: 32px;
-  max-width: 480px;
+  max-width: 580px;
   flex-shrink: 0;
 }
 
@@ -82,10 +88,9 @@
 .mapView .event-map-entry a {
   text-decoration: none;
   color: inherit;
-  white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 200px;
+  max-width: 300px;
 }
 
 .mapView .event-map-entry a:hover {
