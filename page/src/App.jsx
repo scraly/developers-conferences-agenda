@@ -12,7 +12,6 @@ import { FilterContext } from 'contexts/FilterContext';
 import { FavoritesProvider } from 'contexts/FavoritesContext';
 import { TagsProvider } from 'contexts/TagsContext';
 import { ScrollToTopButton } from './components/ScrollToTopButton/ScrollToTopButton';
-import TagsToggle from './components/TagsToggle/TagsToggle';
 
 const App = () => {
   // TODO: DRY
@@ -28,7 +27,6 @@ const App = () => {
           <Router>
             <div className="app-header">
               <h1 className="dcaTitle">Developer Conferences Agenda</h1>
-              <TagsToggle />
             </div>
             <Routes>
               <Route Component={Index} path="/" />

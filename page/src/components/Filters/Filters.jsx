@@ -7,6 +7,7 @@ import { useCountries, useRegions, useRegionsMap, useTags, useTagKeys } from 'ap
 import { useTagsVisibility } from 'contexts/TagsContext';
 import TagMultiSelect from 'components/TagMultiSelect/TagMultiSelect';
 import SelectedTags from 'components/SelectedTags/SelectedTags';
+import TagsToggle from 'components/TagsToggle/TagsToggle';
 
 import 'styles/Filters.css';
 import { FilterContext } from 'contexts/FilterContext';
@@ -77,6 +78,10 @@ const Filters = ({ view }) => {
       >
         <div className='filters-icon'>{open ? <FilterX size="42px" /> : <Filter size="42px" />}</div>
         <span className='filters-title'>Filters</span>
+      </div>
+      
+      <div className='tags-toggle-container'>
+        <TagsToggle />
       </div>
 
       <div className='filters-content'>
