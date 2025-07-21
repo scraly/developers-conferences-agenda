@@ -9,16 +9,15 @@ import { flag } from 'country-emoji';
 import FavoriteButton from '../FavoriteButton/FavoriteButton';
 import TagBadges from 'components/TagBadges/TagBadges';
 import { useFavoritesContext } from '../../contexts/FavoritesContext';
-import { useSearchParams } from 'react-router-dom';
+import { useFilters } from 'app.hooks';
 
 const CfpView = () => {
   let events = useYearEvents();
   const { isFavorite } = useFavoritesContext();
-  const [searchParams, setSearchParams] = useSearchParams();
+  const { toggleTag } = useFilters();
 
   const handleTagClick = (key, value) => {
-    const currentSearch = Object.fromEntries(searchParams);
-    setSearchParams({ ...currentSearch, [key]: value });
+    toggleTag(key, value);
   };
 
     // Display only opened callForPapers

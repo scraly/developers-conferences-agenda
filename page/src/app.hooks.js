@@ -1,7 +1,7 @@
 import { useParams, useSearchParams } from 'react-router-dom'
 import allEvents from 'misc/all-events.json'
 import regions from 'misc/regions.json'
-import { useMemo } from 'react'
+import { useMemo, useCallback } from 'react'
 import { isFavorite } from './utils/favorites'
 
 export const useHasYearEvents = (year) => {
@@ -216,3 +216,72 @@ export const useDayEvents = (monthEvents, day = null) => {
     return result
   }, [filterDay, monthEvents])
 }
+
+export const useFilters = () => {
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  const filters = useMemo(() => {
+    const search = Object.fromEntries(searchParams);
+    return {
+      ...search,
+      tags: search.tags ? (Array.isArray(search.tags) ? search.tags : search.tags.split(',')) : []
+    };
+  }, [searchParams]);
+
+  const updateFilter = useCallback((key, value) => {
+    const currentSearch = Object.fromEntries(searchParams);
+    if (value === '' || value === null || value === undefined) {
+      delete currentSearch[key];
+    } else {
+      currentSearch[key] = value;
+    }
+    setSearchParams(currentSearch);
+  }, [searchParams, setSearchParams]);
+
+  const addTag = useCallback((key, value) => {
+    const tagString = `${key}:${value}`;
+    const currentTags = filters.tags;
+    
+    if (!currentTags.includes(tagString)) {
+      const newTags = [...currentTags, tagString];
+      updateFilter('tags', newTags.join(','));
+    }
+  }, [filters.tags, updateFilter]);
+
+  const removeTag = useCallback((key, value) => {
+    const tagString = `${key}:${value}`;
+    const currentTags = filters.tags;
+    const newTags = currentTags.filter(tag => tag !== tagString);
+    
+    if (newTags.length === 0) {
+      updateFilter('tags', '');
+    } else {
+      updateFilter('tags', newTags.join(','));
+    }
+  }, [filters.tags, updateFilter]);
+
+  const toggleTag = useCallback((key, value) => {
+    const tagString = `${key}:${value}`;
+    const currentTags = filters.tags;
+    
+    if (currentTags.includes(tagString)) {
+      removeTag(key, value);
+    } else {
+      addTag(key, value);
+    }
+  }, [filters.tags, addTag, removeTag]);
+
+  const isTagSelected = useCallback((key, value) => {
+    const tagString = `${key}:${value}`;
+    return filters.tags.includes(tagString);
+  }, [filters.tags]);
+
+  return {
+    filters,
+    updateFilter,
+    addTag,
+    removeTag,
+    toggleTag,
+    isTagSelected
+  };
+};

@@ -5,18 +5,17 @@ import { useFavoritesContext } from '../../contexts/FavoritesContext';
 import { flag } from 'country-emoji';
 import ShortDate from 'components/ShortDate/ShortDate';
 import TagBadges from 'components/TagBadges/TagBadges';
-import { useSearchParams } from 'react-router-dom';
+import { useFilters } from 'app.hooks';
 
 const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, dateOnTop=false, country, tags}) => {
   const event = {name, hyperlink, location, misc, closedCaptions, date, country, tags};
   const eventId = `${name}-${date[0]}`;
   const { isFavorite } = useFavoritesContext();
   const isFav = isFavorite(eventId);
-  const [searchParams, setSearchParams] = useSearchParams();
+  const { toggleTag } = useFilters();
 
   const handleTagClick = (key, value) => {
-    const currentSearch = Object.fromEntries(searchParams);
-    setSearchParams({ ...currentSearch, [key]: value });
+    toggleTag(key, value);
   };
   
   return (

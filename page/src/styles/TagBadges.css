@@ -28,6 +28,18 @@
   transform: translateY(-1px);
 }
 
+.tag-badge.selected {
+  background: #e3f2fd;
+  border-color: #90caf9;
+  color: #1565c0;
+  font-weight: 500;
+}
+
+.tag-badge.selected.clickable:hover {
+  background: #bbdefb;
+  border-color: #64b5f6;
+}
+
 .tag-badge:hover {
   background: #e0e0e0;
   border-color: #aaa;

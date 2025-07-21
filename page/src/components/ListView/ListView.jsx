@@ -1,8 +1,8 @@
 import React from 'react';
-import { useSearchParams } from "react-router-dom";
 import 'styles/ListView.css';
 
 import {useYearEvents} from 'app.hooks';
+import { useFilters } from 'app.hooks';
 import {getMonthName, getMonthNames} from 'utils';
 import ShortDate from 'components/ShortDate/ShortDate';
 import FavoriteButton from 'components/FavoriteButton/FavoriteButton';
@@ -11,18 +11,16 @@ import { useFavoritesContext } from '../../contexts/FavoritesContext';
 
 const ListView = () => {
   let events = useYearEvents();
-  const [searchParams, setSearchParams] = useSearchParams();
-  const search = Object.fromEntries(searchParams);
+  const { filters, toggleTag } = useFilters();
   const { isFavorite } = useFavoritesContext();
 
   const handleTagClick = (key, value) => {
-    const currentSearch = Object.fromEntries(searchParams);
-    setSearchParams({ ...currentSearch, [key]: value });
+    toggleTag(key, value);
   };
 
   // Sort events based on the selected sort option
   events = events.sort((a, b) => {
-    if (search.sort === 'cfp') {
+    if (filters.sort === 'cfp') {
       if (!a.cfp?.untilDate || !b.cfp?.untilDate) return 0;
       return new Date(a.cfp.untilDate) - new Date(b.cfp.untilDate);
     }
@@ -31,7 +29,7 @@ const ListView = () => {
 
   const eventsByMonth = events.reduce((acc, cur) => {
     let monthKey;
-    if (search.sort === 'cfp' && cur.cfp?.untilDate) {
+    if (filters.sort === 'cfp' && cur.cfp?.untilDate) {
       monthKey = getMonthName(new Date(cur.cfp.untilDate).getMonth());
     } else {
       monthKey = getMonthName(new Date(cur.date[0]).getMonth());
@@ -43,7 +41,7 @@ const ListView = () => {
     acc[monthKey].push(cur);
 
     // Only add to next month if it's not CFP sort and has multiple dates
-    if (search.sort !== 'cfp' && cur.date.length > 1) {
+    if (filters.sort !== 'cfp' && cur.date.length > 1) {
       const nextMonth = getMonthName(new Date(cur.date[1]).getMonth());
       if (monthKey !== nextMonth) {
         if (!acc[nextMonth]) {
@@ -66,7 +64,7 @@ const ListView = () => {
     <div className="listView">
       {monthOrder.map(month => (
         <React.Fragment key={month}>
-          <h1>{month}{search.sort === 'cfp' ? ' CFP Deadlines' : ' Events'}:</h1>
+          <h1>{month}{filters.sort === 'cfp' ? ' CFP Deadlines' : ' Events'}:</h1>
           {eventsByMonth[month].map((e, i) => {
             const eventId = `${e.name}-${e.date[0]}`;
             const isFav = isFavorite(eventId);
