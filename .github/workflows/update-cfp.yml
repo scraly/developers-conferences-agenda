@@ -16,7 +16,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 22
           cache: npm
           cache-dependency-path: '**/package-lock.json'
       - working-directory: page
@@ -47,3 +47,10 @@ jobs:
             - Updates CFP status color green to red
             - Generates geo locations
           draft: false
+      - name: Enable Pull Request Automerge
+        if: steps.cpr.outputs.pull-request-operation == 'created'
+        uses: peter-evans/enable-pull-request-automerge@v3
+        with:
+          token: ${{ secrets.PAT }}
+          pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
+          merge-method: squash

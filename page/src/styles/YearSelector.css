@@ -34,3 +34,19 @@
   -ms-transition: transform 0.5s;
   -o-transition: transform 0.5s;
 }
+
+@media (max-width: 768px) {
+  .yearNavigatorWrapper {
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+  }
+
+  .yearNavigator {
+    gap: 0.5rem; /* Reduce gap for smaller screens */
+    margin-bottom: 1rem; /* Add space below yearNavigator */
+  }
+
+  .bigYearLabel {
+    font-size: 3rem; /* Reduce font size for smaller screens */
+  }
+}

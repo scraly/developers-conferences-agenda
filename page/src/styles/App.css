@@ -77,10 +77,40 @@ body > footer {
 
 body > footer > .content {
   grid-column: 2;
+  text-align: center;
 }
 
 .footer {
   color: inherit;
+}
+
+.supportButton {
+  text-decoration: none;
+  color: black;
+  margin: 1rem;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: #eee;
+  cursor: pointer;
+}
+
+.supportButton:hover {
+  cursor: pointer;
+  transition: transform 0.5s;
+  transform: scale(1.07);
+  -webkit-transform: scale(1.07);
+  -moz-transform: scale(1.07);
+  -ms-transform: scale(1.07);
+  -o-transform: scale(1.07);
+  -webkit-transition: transform 0.5s;
+  -moz-transition: transform 0.5s;
+  -ms-transition: transform 0.5s;
+  -o-transition: transform 0.5s;
+}
+
+.sponsor {
+  margin-top: 2rem;
 }
 
 input, select {
@@ -91,4 +121,55 @@ input, select {
 
 input[type=text] {
   border: solid 1px #aaa;
+}
+
+.footer-link {
+  color: #ddd;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.footer-link:hover {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
+
+.footer-links {
+  margin-top: 1rem;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links ul li {
+  margin: 0.5rem 0;
+}
+
+.footer-links ul li a {
+  color: #bbb;
+
+  transition: color 0.3s ease;
+}
+
+.footer-links ul li a:hover {
+  color: #fff;
+}
+
+.footer-links p {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  body > footer {
+    padding: 1rem;
+  }
+
+  body > footer > .content {
+    grid-column: 1 / -1;
+  }
 }

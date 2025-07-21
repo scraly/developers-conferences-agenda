@@ -13,12 +13,41 @@
   flex-grow: 1;
 }
 
+.eventCell .event-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+}
+
+.eventsGridDisplay .eventCell .event-header {
+  align-items: flex-start;
+}
+
+.eventsGridDisplay .eventCell .event-header .favorite-button {
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  z-index: 1;
+}
+
+.eventCell.favorite-event {
+  border-left: 4px solid #FF7F50;
+  background: #fff8f6;
+}
+
+.eventCell.favorite-event .content b {
+  color: #FF7F50;
+}
+
 .eventCell a {
   color: blue;
 }
 
 .eventCell .when {
   font-size: 0.8em;
+  margin-left: 0rem;
 }
 
 .lucide-arrow-right-circle {
@@ -55,4 +84,16 @@
   -moz-transition: transform 0.5s;
   -ms-transition: transform 0.5s;
   -o-transition: transform 0.5s;
+}
+
+.country {
+  display: block !important;
+}
+
+.cfp {
+  margin-left: 1rem !important;
+}
+
+.event-header a:hover {
+  text-decoration: underline;
 }

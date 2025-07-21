@@ -40,7 +40,7 @@ const Calendar = ({month, days}) => {
       <div className="weeks">
         {weeksAndDays.map((week) => (
             <Week key={`week_${week.id}`}>
-                {week.days.map((day) => (<Day key={`day_${day.id}`} date={day.day} events={monthEvents}/>))}
+                {week.days.map((day) => (<Day date={day.day} events={monthEvents} key={`day_${day.id}`}/>))}
             </Week>
         ))}
       </div>
