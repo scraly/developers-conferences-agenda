@@ -23,6 +23,7 @@
   border-radius: 3px;
   display: flex;
   flex-direction: row;
+  align-items: center; /* Ajout pour centrer verticalement */
 }
 
 .listView .event-list-header {
@@ -41,9 +42,9 @@
   color: #FF7F50;
 }
 
-.listView li span,
-.listView li b,
-.listView li a {
+.listView .event-list-entry span,
+.listView .event-list-entry b,
+.listView .event-list-entry a {
   margin-right: 10px;
 }
 
@@ -56,12 +57,20 @@
   /* background: white; */
 }
 
+.event-date-fav {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
 
 .event-list-entry > header {
-    display: flex;
-    width: 100%;
-    gap: 1rem;
-    cursor: pointer;
+  display: flex;
+  width: 100%;
+  gap: 1rem;
+  cursor: pointer;
+  align-items: center; /* Ajout pour centrer verticalement */
 }
 
 .event-list-entry > header > * {
@@ -76,6 +85,12 @@
 
 .event-list-entry > header > .event-name-location {
     flex: 2;
+}
+
+.event-name-location {
+  display: flex;
+  align-items: center; /* Ajout pour centrer verticalement */
+  gap: 0.5rem;
 }
 
 .event-list-entry > header > a {
@@ -94,10 +109,11 @@
 }
 
 .event-banners {
-    display: flex;
-    flex: 1;
-    justify-content: end;
-    gap: 10px;
+  display: flex;
+  flex: 1;
+  justify-content: end;
+  gap: 10px;
+  align-items: center; /* Ajout pour centrer verticalement */
 }
 
 .event-banners.hide {
@@ -133,8 +149,78 @@
   margin-left: 10px;
 }
 
+/* ========================================
+   RESPONSIVE DESIGN - TABLET & MOBILE
+   ======================================== */
+
+/* Large tablets and small desktops */
+@media screen and (max-width: 1024px) {
+    .listView {
+        padding: 0.75rem;
+    }
+    
+    .event-list-entry {
+        padding: 0.75rem;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    
+    .event-list-entry span,
+    .event-list-entry b,
+    .event-list-entry a {
+        margin-right: 0;
+        margin-bottom: 0.25rem;
+        display: block;
+    }
+}
+
+/* ---------------------------------------- */
+
+/* Tablets and large phones */
+@media screen and (max-width: 768px) {
+    .listView {
+        padding: 0.5rem;
+        gap: 0.25rem;
+    }
+    
+    .listView h1 {
+        font-size: 1.25rem;
+        margin-bottom: 0.5rem;
+    }
+    
+    .event-list-entry {
+        padding: 0.75rem;
+        flex-direction: column;
+        gap: 0.5rem;
+        align-items: flex-start;
+    }
+    
+    .event-list-entry span,
+    .event-list-entry b,
+    .event-list-entry a {
+        margin-right: 0;
+        margin-bottom: 0.25rem;
+        display: block;
+        width: 100%;
+    }
+    
+    .event-list-entry a {
+        word-break: break-all;
+    }
+    
+    .event-list-header {
+        width: 100%;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.25rem;
+    }
+}
+
+/* ---------------------------------------- */
+
+/* Standard mobile phones */
 @media screen and (max-width: 660px) {
-    .dcaContent { /* TODO: Make this available to anywhere, not just this page. */
+    .dcaContent {
         width: 100%;
     }
 
@@ -158,5 +244,55 @@
     .event-banners.hide {
         display: none;
     }
+}
+
+/* ---------------------------------------- */
+
+/* Small mobile phones */
+@media screen and (max-width: 480px) {
+    .listView {
+        padding: 0.25rem;
+    }
     
+    .listView h1 {
+        font-size: 1.1rem;
+        text-align: center;
+    }
+    
+    .listView .event-list-entry {
+        padding: 0.5rem !important;
+        border-radius: 2px;
+        flex-direction: column !important;
+        gap: 0.5rem;
+        align-items: flex-start !important;
+    }
+    
+    .listView .event-list-entry > .event-list-header,
+    .listView .event-list-entry > a,
+    .listView .event-list-entry > span {
+        display: block !important;
+        width: 100%;
+        margin-right: 0 !important;
+        margin-bottom: 0.25rem;
+    }
+    
+    .listView .event-list-entry a {
+        word-break: break-all;
+    }
+    
+    .listView .event-list-entry img {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    .listView .event-list-header {
+        width: 100%;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.25rem;
+    }
+}
+
+.event-list-entry a:hover {
+  text-decoration: underline;
 }

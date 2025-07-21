@@ -71,12 +71,13 @@ const ListView = () => {
             
             return (
               <div className={`event-list-entry ${isFav ? 'favorite-event' : ''}`} key={`${month}_ev_${i}`}>
-              <FavoriteButton event={e} />
-                <ShortDate dates={e.date} />
-                <div className="event-list-header">
-                  <b>{e.name}</b>
+                <div className="event-date-fav">
+                  <FavoriteButton event={e} />
+                  <ShortDate dates={e.date} />
                 </div>
-                {e.hyperlink ? <a href={e.hyperlink}>{new URL(e.hyperlink).hostname}</a> : ''}
+                <div className="event-list-header">
+                  <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''}</b>
+                </div>
                 <span>{e.location}</span>
                 <span dangerouslySetInnerHTML={{__html: e.misc}} />
                 {e.closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}

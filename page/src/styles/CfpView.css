@@ -204,3 +204,7 @@
 .cfpView .eventCell.favorite-event .content b {
     color: #FF7F50;
 }
+
+.cfpView .shortDate {
+    margin-left: 0rem;
+}
