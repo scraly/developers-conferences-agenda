@@ -569,9 +569,24 @@ All the data (past and coming) are available publicly in JSON:
 
 ## 2026
 
-### March
+### January
 
+* 22-27: [jChampions](https://jchampionsconf.com) - Online
+### February
+
+* 2-4: [Jfokus](https://www.jfokus.se/) - Stockholm (Sweden)
+* 6: [Voxxed Days Ticino](https://ticino.voxxeddays.com/) - Lugano (Switzerland) <a href="https://vdt26.cfp.dev/"><img alt="CFP Voxxed Days Ticino 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2025&color=green"></a>
+* 10: [Voxxed Days CERN](https://cern.voxxeddays.com/) - Geneva (Switzerland) <a href="https://vdcern26.cfp.dev/"><img alt="CFP Voxxed Days CERN 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2025&color=green"></a>
+
+### March
+* 10-12: [JavaLand](https://www.javaland.eu/) - Europa Park Rust (Germany)
+* 24: [Voxxed Days Zurich](https://zurich.voxxeddays.com/) Zurich (Switzerland) <a href="https://vdz26.cfp.dev/"><img alt="CFP Voxxed Days Zurich 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%201-December-2025&color=green"></a>
 * 23-26: [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) - Amsterdam (Netherlands)
+
+### April
+
+* 13-15: [Spring I/O](https://2025.springio.net/) - Barcelona (Spain)
+* 20-23: [JCON EUROPE](https://2026.europe.jcon.one/) - Cologne (Germany)
 
 ### October
 
