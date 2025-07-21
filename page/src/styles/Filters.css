@@ -68,6 +68,10 @@
     color: inherit !important;
 }
 
+.filters-content .filters-header {
+    padding: 0;
+}
+
 .filters .filters-title {
     font-weight: 600;
     font-size: 24px;
