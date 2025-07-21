@@ -56,8 +56,9 @@ const CfpView = () => {
     
                 <div className="content">
                   <div>
+                    <span className="when"><ShortDate dates={e.date} /></span>
                     <div className="event-header">
-                      <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''} (<ShortDate dates={e.date} />)</b>
+                      <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''}</b>
                       <FavoriteButton event={e} />
                     </div>
                     
