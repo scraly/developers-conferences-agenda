@@ -13,8 +13,11 @@
   font-size: 0.75em;
   font-weight: 500;
   color: #555;
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
   white-space: nowrap;
+  height: 24px;
+  box-sizing: border-box;
 }
 
 .tag-badge.clickable {
@@ -25,7 +28,6 @@
 .tag-badge.clickable:hover {
   background: #e0e0e0;
   border-color: #aaa;
-  transform: translateY(-1px);
 }
 
 .tag-badge.selected {
@@ -47,4 +49,8 @@
 
 .event-list-entry .tag-badges {
   margin-top: 0;
+}
+
+.content .tag-badges {
+  flex-direction: row;
 }
