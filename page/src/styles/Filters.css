@@ -1,9 +1,7 @@
 .filters {
     border-right: 1px solid #ccc;
-    padding: 1rem 2rem;
     transition: 1s;
     position: fixed;
-    padding-top: 7rem;
     top: 0;
     left: 0;
     z-index: 999999;
@@ -25,6 +23,7 @@
     align-items: center;
     cursor: pointer;
     margin-bottom: 1rem;
+    padding: 7rem 2rem 0 2rem;
 }
 
 .filters .lucide-filter, .filters .lucide-filter-x {
@@ -52,6 +51,12 @@
 .filters.closed {
     transform: translateX(-100%);
     border-color: #cccccc00;
+}
+
+.filters-content {
+    overflow-y: auto;
+    height: calc(100% - 160px);
+    padding: 0 2rem 1rem 2rem;
 }
 
 .filtersList {
