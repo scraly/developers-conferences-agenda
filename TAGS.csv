@@ -1055,8 +1055,8 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-07-29-KubeCon + CloudNativeCon Japan 2026,tech:kubernetes,topic:cloud,language:english
 2026-10-26-KubeCon + CloudNativeCon NA 2026,tech:kubernetes,topic:cloud,language:english
 2027-03-15-KubeCon + CloudNativeCon Europe 2027,tech:kubernetes,topic:cloud,language:english
-2025-03-21-Frontrunners Mar 21, 2025,type:conference,topic:tech,topic:emerging-tech,language:english
-2025-04-14-Linux Storage, Filesystem, MM & BPF Summit,type:summit,tech:linux,topic:storage,topic:systems,language:english,language:french
-2025-06-27-The Perl & Raku Conference in Greenville, SC 2025,type:conference,tech:perl,tech:raku,topic:programming,language:english
-2025-07-03-Perl Community Conference, Summer 2025,type:conference,tech:perl,topic:programming,language:english
-2025-11-05-DevCon 2025 | Bucharest, Romania,type:conference,topic:software-development,topic:tech,language:english,language:romanian
+2025-03-21-Frontrunners Mar 21, 2025,topic:tech,topic:emerging-tech,language:english
+2025-04-14-Linux Storage, Filesystem, MM & BPF Summit,tech:linux,topic:storage,topic:systems,language:english,language:french
+2025-06-27-The Perl & Raku Conference in Greenville, SC 2025,tech:perl,tech:raku,topic:programming,language:english
+2025-07-03-Perl Community Conference, Summer 2025,tech:perl,topic:programming,language:english
+2025-11-05-DevCon 2025 | Bucharest, Romania,topic:software-development,topic:tech,language:english,language:romanian
