@@ -731,6 +731,10 @@
     "latitude": 25.2856329,
     "longitude": 51.5264162
   },
+  "Dosso (Niger)": {
+    "latitude": 13.0496369,
+    "longitude": 3.1944647
+  },
   "Douala (Cameroon)": {
     "latitude": 4.0429408,
     "longitude": 9.706203
@@ -1051,6 +1055,10 @@
     "latitude": 52.2241375,
     "longitude": 5.1719396
   },
+  "Hiroshima (Japan)": {
+    "latitude": 34.3917241,
+    "longitude": 132.4517589
+  },
   "Ho (Ghana)": {
     "latitude": 6.6126598,
     "longitude": 0.4688932
@@ -1211,6 +1219,10 @@
     "latitude": 0.3177137,
     "longitude": 32.5813539
   },
+  "Kano (Nigeria)": {
+    "latitude": 11.9939978,
+    "longitude": 8.5219738
+  },
   "Kansas City, MO (USA)": {
     "latitude": 39.100105,
     "longitude": -94.5781416
@@ -1370,6 +1382,10 @@
   "Lima (Peru)": {
     "latitude": -12.0621065,
     "longitude": -77.0365256
+  },
+  "Limbe (Cameroon)": {
+    "latitude": 4.010289,
+    "longitude": 9.207058
   },
   "Lincoln, NE (USA)": {
     "latitude": 40.8136634,
@@ -2014,6 +2030,10 @@
   "Raleigh, NC (USA)": {
     "latitude": 35.7803977,
     "longitude": -78.6390989
+  },
+  "Ramat Hasharon (Israel)": {
+    "latitude": 32.1431276,
+    "longitude": 34.8380853
   },
   "Ranchi (India)": {
     "latitude": 23.3700501,
