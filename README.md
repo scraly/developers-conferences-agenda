@@ -520,7 +520,10 @@ All the data (past and coming) are available publicly in JSON:
 * 17-19: [AI by the Bay](https://ai.bythebay.io/) - Oakland, CA (USA) <a href="https://sessionize.com/by-the-bay"><img alt="CFP AI by the Bay" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2025&color=red"></a>
 * 17-21: [QCon San Francisco](https://qconsf.com/) - San Francisco, CA (USA)
 * 18: [Mid West Tech Conference](https://mwtc.io) - Fulton, MO (USA) <a href="https://sessionize.com/mwtc/"><img alt="CFP Mid West Tech Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-September-2025&color=green"></a>
+* 18: [React Summit](https://reactsummit.com/) - New York, NY (USA)
 * 18: [XtremePython 2025](https://xtremepython.dev/2025/) - Online <a href="https://docs.google.com/forms/d/e/1FAIpQLScsO9iu7J6Pb-1iSGAufoUJGTE2rsXyA5xFVDAh-kDE6kLi_w/viewform"><img alt="CFP XtremePython 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-September-2025&color=green"></a>
+
+* 18-19: [Open Forum Academy](https://symposium.openforumeurope.org/) - Rio de Janeiro (Brazil)
 * 18-21: [JSNation US](https://gitnation.com/events/jsnation-us-2024) - New York, NY (USA)
 * 19: [gRPConf India](https://events.linuxfoundation.org/grpconf-india/) - Bengaluru (India) <a href="https://events.linuxfoundation.org/grpconf-india/program/cfp/"><img alt="CFP gRPConf India" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2025&color=green"></a>
 * 19: [OWASP AppSec Training Days Uruguay 2025](https://owasp-uruguay.github.io/) - Montevideo (Uruguay) <a href="https://sessionize.com/owasp-appsec-training-days-uruguay-2025/"><img alt="CFP OWASP AppSec Training Days Uruguay 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2025&color=red"></a>
