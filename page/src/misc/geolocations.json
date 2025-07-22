@@ -923,6 +923,10 @@
     "latitude": 55.861155,
     "longitude": -4.2501687
   },
+  "Gliwice (Poland)": {
+    "latitude": 50.294113,
+    "longitude": 18.6657306
+  },
   "Goa (India)": {
     "latitude": 15.3004543,
     "longitude": 74.0855134
@@ -1018,6 +1022,10 @@
   "Harare (Zimbabwe)": {
     "latitude": -17.8567035,
     "longitude": 31.0601584
+  },
+  "Haringhata (India)": {
+    "latitude": 22.96077,
+    "longitude": 88.5674629
   },
   "Hawai (USA)": {
     "latitude": 19.593801499999998,

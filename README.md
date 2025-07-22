@@ -124,6 +124,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15-16: [Carolina Code Conference 2025](https://carolina.codes) - Greenville, SC (USA) <a href="https://sessionize.com/carolina-code-conference-2025"><img alt="CFP Carolina Code Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
 * 15-17: [PyCon Korea 2025](https://2025.pycon.kr/) - Seoul (South Korea)
 * 16: [DevOpsDays Rio de Janeiro 2025](https://devopsdays.org/events/2025-rio-de-janeiro/welcome/) - Rio de Janeiro (Brazil) <a href="https://www.papercall.io/devopsdaysrio2025"><img alt="CFP DevOpsDays Rio de Janeiro 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2025&color=red"></a>
+* 18-22: [EuroSciPy 2025](https://euroscipy.org/) - Krakow (Poland)
 * 19-20: [AI Risk Summit 2025](https://www.airisksummit.com/) - Half Moon Bay, CA (USA) <a href="https://sessionize.com/ai-risk-summit-ciso-forum-2025"><img alt="CFP AI Risk Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-May-2025&color=red"></a>
 * 19-21: [Testμ Conference 2025](https://www.lambdatest.com/testmuconf-2025) - Online <a href="https://www.papercall.io/testmuconf-2025"><img alt="CFP Testμ Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2025&color=red"></a>
 * 19-21: [Scala Days 2025](http://www.scaladays.org) - Lausanne (Switzerland) <a href="https://www.papercall.io/scaladays"><img alt="CFP Scala Days 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-April-2025&color=red"></a>
@@ -135,6 +136,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22-24: [Global Data & AI Virtual Tech Conference 2025](https://dataglobalhub.org) - Online <a href="https://sessionize.com/dataglobalhub-gdai-2025"><img alt="CFP Global Data & AI Virtual Tech Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-April-2025&color=red"></a>
 * 23: [HackElValle](https://hackelvalle.org) - Ciudad de Neuquén (Argentina) <a href="https://www.papercall.io/hackelvalle"><img alt="CFP HackElValle" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-July-2025&color=red"></a>
 * 23: [PyCon Togo 2025](https://pycontg.pytogo.org/) - Lomé (Togo) <a href="https://pycontg.pytogo.org/proposal"><img alt="CFP PyCon Togo" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
+* 23-24: [StatusCode 2 Hackathon](https://hackathon.iiitkalyani.ac.in/) - Haringhata (India)
 * 25-27: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) - Amsterdam (Netherlands)
 * 25-27: [Sikkerhetsfestivalen 2025](https://sikkerhetsfestivalen.no/) - Lillehammer (Norway) <a href="https://sessionize.com/sikkerhetsfestivalen-2025/"><img alt="CFP Sikkerhetsfestivalen 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2025&color=red"></a>
 * 25-27: [CAST 2025: Leading the Quality (R)Evolution](https://associationforsoftwaretesting.org/81898-2/) - Salt Lake City, UT (USA) <a href="https://www.papercall.io/cast2025"><img alt="CFP CAST 2025: Leading the Quality (R)Evolution" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
@@ -146,6 +148,8 @@ All the data (past and coming) are available publicly in JSON:
 * 28-29: [ElixirConf® US 2025](https://www.elixirconf.com/) - Orlando, FL (USA) <a href="https://sessionize.com/elixirconf-2025/"><img alt="CFP ElixirConf® US 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-April-2025&color=red"></a>
 * 28-29: [AI_dev: Open Source GenAI & ML Summit Europe](https://events.linuxfoundation.org/ai-dev-europe/) - Amsterdam (Netherlands)
 * 28-29: [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) - Amsterdam (Netherlands)
+* 28-30: [PyCon Kenya 2025](https://www.pycon.ke/) - Nairobi (Kenya)
+* 28-31: [PyCon Poland 2025](https://pl.pycon.org/2025/) - Gliwice (Poland)
 * 29: [KCD Colombia Bogota 2025](https://bit.ly/4k4ATsX) - Bogotá (Colombia) <a href="https://sessionize.com/kcd-colombia-bogota-2025"><img alt="CFP KCD Colombia Bogota 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=red"></a>
 * 29-30: [PyCon Greece](https://2025.pycon.gr/en/) - Athens (Greece)
 * 30: [JVM Day](https://meetup.tbank.ru/conference/jvm-day/) - Moscow (Russia)
@@ -154,6 +158,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### September
 
+* 1-3: [PyData Berlin 2025](https://pydata.org/berlin2025) - Berlin (Germany)
 * 2-5: [OWASP New Zealand Day](https://appsec.org.nz/conference/) - Auckland (New Zealand) <a href="https://www.papercall.io/owaspnz25-training"><img alt="CFP OWASP New Zealand Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2025&color=red"></a>
 * 3-4: [Javazone 2025](https://2025.javazone.no/en) - Lillestrøm (Norway) <a href="https://talks.javazone.no/"><img alt="CFP Javazone 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-April-2025&color=red"></a>
 * 3-5: [seL4 Summit](https://events.linuxfoundation.org/sel4-summit/) - Prague (Czech Republic)
