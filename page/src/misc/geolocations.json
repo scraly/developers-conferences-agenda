@@ -135,6 +135,10 @@
     "latitude": 38.8769326,
     "longitude": -77.0893094
   },
+  "Arusha (Tanzania)": {
+    "latitude": -3.3696827,
+    "longitude": 36.6880794
+  },
   "Asahikawa (Japan)": {
     "latitude": 43.7627501,
     "longitude": 142.3579263
@@ -795,10 +799,6 @@
     "latitude": 31.5118281,
     "longitude": -9.7620903
   },
-  "Europa Park Rust (Germany)": {
-    "latitude": 48.2649865,
-    "longitude": 7.720728
-  },
   "Exeter (UK)": {
     "latitude": 50.72603669999999,
     "longitude": -3.5274889
@@ -866,6 +866,10 @@
   "Gardanne (France)": {
     "latitude": 43.455613,
     "longitude": 5.4710661
+  },
+  "Garoua (Cameroon)": {
+    "latitude": 9.3070698,
+    "longitude": 13.3934527
   },
   "Gdansk (Poland)": {
     "latitude": 54.3706858,
@@ -1531,6 +1535,10 @@
     "latitude": 6.2476376,
     "longitude": -75.56581530000001
   },
+  "Medellín (Colombia)": {
+    "latitude": 6.2697324,
+    "longitude": -75.6025597
+  },
   "Melbourne (Australia)": {
     "latitude": -37.8142454,
     "longitude": 144.9631732
@@ -2074,6 +2082,10 @@
   "Russia": {
     "latitude": 40.2338211,
     "longitude": -84.4096729
+  },
+  "Rust (Germany)": {
+    "latitude": 48.2659347,
+    "longitude": 7.7263213
   },
   "Saint Paul, MN (USA)": {
     "latitude": 44.9537029,
