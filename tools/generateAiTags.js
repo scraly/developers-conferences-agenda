@@ -52,7 +52,7 @@ function readExistingEvents(tagsFile) {
 function readConferences() {
   const allEventsPath = path.join(__dirname, '../page/src/misc/all-events.json');
   const allEvents = JSON.parse(fs.readFileSync(allEventsPath, 'utf-8'));
-  
+
   // Filter for future events and create conference objects
   const now = Date.now();
   const conferences = [];
@@ -72,7 +72,7 @@ function readConferences() {
       }
     }
   }
-  
+
   return conferences.sort((a, b) => a.date.localeCompare(b.date));
 }
 
@@ -85,7 +85,7 @@ async function inferTagsBatchWithAI(confBatch) {
 Based on the TAGS.csv format from our earlier conversation, infer appropriate tags for each of these conferences:
 
 `;
-  
+
   confBatch.forEach((conf, i) => {
     prompt += `
 ${i + 1}. Name: ${conf.name}
@@ -93,38 +93,37 @@ ${i + 1}. Name: ${conf.name}
    URL: ${conf.url}
 `;
   });
-  
+
   prompt += `
 Use the same tag categories from TAGS.csv:
 - tech: (javascript, python, java, rust, go, php, ruby, docker, kubernetes, aws, azure, gcp, etc.)
 - topic: (security, web-development, devops, mobile, ai, data, cloud, open-source, testing, etc.)  
-- type: (conference, summit, camp, bootcamp, hackathon, meetup)
 - language: (english, french, spanish, german, dutch, italian, portuguese, etc.)
 
 Return the results in this exact format, one line per conference:
-1. type:conference,tech:javascript,language:english
-2. type:summit,topic:security,language:french
-3. type:conference,tech:python,language:english
+1. tech:javascript,language:english
+2. topic:security,language:french
+3. tech:python,language:english
 etc.
 
 Multiple tags of the same type should be repeated, for example:
 
-3. type:conference,tech:python,topic:web-development,topic:ai,language:english
+3. tech:python,topic:web-development,topic:ai,language:english
 
 Only return the numbered list with tags, nothing else.
 `;
-  
+
   try {
     const response = await client.messages.create({
       model: "claude-3-5-sonnet-20241022",
       max_tokens: 1000,
       messages: [{ role: "user", content: prompt }]
     });
-    
+
     // Parse the response
     const lines = response.content[0].text.trim().split('\n');
     const results = [];
-    
+
     for (const line of lines) {
       if (line.trim() && line.includes('. ')) {
         // Extract tags after the number
@@ -134,15 +133,14 @@ Only return the numbered list with tags, nothing else.
         }
       }
     }
-    
+
     return results;
-    
+
   } catch (error) {
     console.error(`# Error processing batch: ${error.message}`, { file: process.stderr });
     // Fallback to basic inference for the batch
     const fallbackResults = [];
     for (const conf of confBatch) {
-      const tags = ["type:conference"];
       const locationLower = conf.location.toLowerCase();
       if (['usa', 'uk', 'canada'].some(country => locationLower.includes(country))) {
         tags.push('language:english');
@@ -171,15 +169,15 @@ function sleep(ms) {
  */
 async function main() {
   const tagsFile = 'TAGS.csv';
-  
+
   // Read existing events
   const existingEvents = readExistingEvents(tagsFile);
   console.error(`# Found ${existingEvents.size} existing events`);
-  
+
   // Read all conferences
   const allConferences = readConferences();
   console.error(`# Found ${allConferences.length} total future conferences`);
-  
+
   // Find conferences that need processing
   const conferencesToProcess = [];
   for (const conf of allConferences) {
@@ -188,45 +186,45 @@ async function main() {
       conferencesToProcess.push(conf);
     }
   }
-  
+
   console.error(`# Need to process ${conferencesToProcess.length} new conferences`);
-  
+
   // Limit to first 300 missing events
   const limitedConferences = conferencesToProcess.slice(0, 300);
   console.error(`# Processing first ${limitedConferences.length} missing conferences`);
-  
+
   // Prepare output - collect all new entries
   const newEntries = [];
-  
+
   // Process conferences in batches of 30
   const batchSize = 30;
-  
+
   for (let i = 0; i < limitedConferences.length; i += batchSize) {
     const batch = limitedConferences.slice(i, i + batchSize);
     const batchNum = Math.floor(i / batchSize) + 1;
     console.error(`# Processing batch ${batchNum}: conferences ${i + 1} to ${Math.min(i + batchSize, limitedConferences.length)}`);
-    
+
     const tagsResults = await inferTagsBatchWithAI(batch);
-    
+
     // Collect results for this batch
     for (let j = 0; j < batch.length; j++) {
       const conf = batch[j];
       const eventId = `${conf.date}-${conf.name}`;
-      const tags = j < tagsResults.length ? tagsResults[j] : "type:conference,language:english";
-      
+      const tags = j < tagsResults.length ? tagsResults[j] : "language:english";
+
       newEntries.push(`${eventId},${tags}`);
     }
-    
+
     // Rate limiting - wait between batches
     if (i + batchSize < limitedConferences.length) {
       await sleep(2000);
     }
-    
+
     // Progress indicator
     const completed = Math.min(i + batchSize, limitedConferences.length);
     console.error(`# Completed ${completed}/${limitedConferences.length} conferences`);
   }
-  
+
   // Append new entries to TAGS.csv
   if (newEntries.length > 0) {
     const appendData = newEntries.join('\n') + '\n';
