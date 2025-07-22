@@ -249,6 +249,7 @@ All the data (past and coming) are available publicly in JSON:
 * 23-27: [Nerdearla 2025](https://nerdear.la) - Buenos Aires (Argentina) <a href="https://sessionize.com/n25ar"><img alt="CFP Nerdearla 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-June-2025&color=red"></a>
 * 24-26: [Fluttercon Europe 2025](https://www.fluttercon.dev) - Berlin (Germany) <a href="https://sessionize.com/fluttercon-europe-2025/"><img alt="CFP Fluttercon Europe 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2025&color=red"></a>
 * 24-26: [droidcon Berlin 2025](https://berlin.droidcon.com/) - Berlin (Germany)
+* 24-26: [PyData Amsterdam 2025](https://amsterdam.pydata.org/) - Amsterdam (Netherlands)
 * 25: [AWS Community Summit - Manchester 2025](https://www.comsum.co.uk) - Manchester (UK) <a href="https://sessionize.com/aws-community-summit-manchester-2025/"><img alt="CFP AWS Community Summit - Manchester 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2025&color=red"></a>
 * 25: [Tech Tactics in Education: Overcoming Roadblocks to Innovation](https://techtacticsineducation.com/) - Online <a href="https://sessionize.com/tech-tactics-in-education-overcoming-roadblocks"><img alt="CFP Tech Tactics in Education: Overcoming Roadblocks to Innovation" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-July-2025&color=red"></a>
 * 25: [DevTalks Cluj](https://www.devtalks.ro/cluj) - Cluj, Transylvania (Romania) <a href="https://www.papercall.io/devtalksclujnapoca-2025"><img alt="CFP DevTalks Cluj" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-September-2025&color=green"></a>
@@ -450,6 +451,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4-5: [🛰️ NASA Space Apps Challenge Ahlen 2025 | 🌟 DevFest 2025](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-nasa-space-apps-challenge-ahlen-2025-devfest-2025/) - Ahlen (Germany)
 * 4-7: [NewCrafts 2025](https://ncrafts.io/) - Paris (France) <a href="https://sessionize.com/ncrafts/"><img alt="CFP NewCrafts 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2025&color=red"></a>
 * 4-7: [TechBash 2025](https://techbash.com/) - Pocono Manor, PA (USA) <a href="https://sessionize.com/techbash2025/"><img alt="CFP TechBash 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
+* 5: [PyData Tel Aviv 2025](https://pydata.org/telaviv2025) - Tel Aviv (Israel)
 * 5-6: [Tech Show Paris](https://www.techshowparis.fr/) - Paris (France)
 * 5-6: [DevCon 2025 | Bucharest, Romania](https://www.dev-con.ro/) - Bucharest (Romania) <a href="https://www.papercall.io/devcon2025"><img alt="CFP DevCon 2025 | Bucharest, Romania" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2025&color=green"></a>
 * 5-7: [Øredev 2025](http://oredev.org) - Malmo (Sweden) <a href="https://sessionize.com/oredev-2025"><img alt="CFP Øredev 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
