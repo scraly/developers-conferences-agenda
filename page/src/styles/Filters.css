@@ -1,14 +1,14 @@
 .filters {
     border-right: 1px solid #ccc;
-    padding: 1rem 2rem;
     transition: 1s;
     position: fixed;
-    padding-top: 7rem;
     top: 0;
     left: 0;
     z-index: 999999;
     background: white;
     height: 100%;
+    width: 300px;
+    box-sizing: border-box;
 }
 
 .filters-icon {
@@ -23,6 +23,8 @@
     align-items: center;
     cursor: pointer;
     margin-bottom: 1rem;
+    padding: 7rem 2rem 0 2rem;
+    position: relative;
 }
 
 .filters .lucide-filter, .filters .lucide-filter-x {
@@ -31,6 +33,43 @@
     padding: 5px;
     border-radius: 0 3px 3px 0;
     border: 1px solid #ccc;
+}
+
+.tags-toggle-container {
+    position: fixed;
+    left: 100%;
+    top: calc(7rem + 50px);
+}
+
+.filters .tags-toggle-container .tags-toggle-button {
+    background: #eee;
+    border: 1px solid #ccc;
+    border-radius: 0 3px 3px 0;
+    padding: 9px;
+    cursor: pointer;
+    width: 42px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: none;
+    transition: all 0.2s ease;
+}
+
+.filters .tags-toggle-container .tags-toggle-button:hover {
+    background: #ddd;
+    border-color: #999;
+    transform: none;
+    box-shadow: none;
+}
+
+.filters .tags-toggle-container .tags-toggle-button svg {
+    stroke-width: 2.5px;
+    color: inherit !important;
+}
+
+.filters-content .filters-header {
+    padding: 0;
 }
 
 .filters .filters-title {
@@ -52,6 +91,12 @@
     border-color: #cccccc00;
 }
 
+.filters-content {
+    overflow-y: auto;
+    height: calc(100% - 160px);
+    padding: 0 2rem 1rem 2rem;
+}
+
 .filtersList {
     display: flex;
     flex-direction: column;
@@ -62,6 +107,11 @@
 .filters .filtersItem {
     overflow: hidden;
     white-space: nowrap;
+}
+
+.filters .filtersItem.tags-filter {
+    overflow: visible;
+    white-space: normal;
 }
 
 .filters .filtersItem input[type=checkbox] {

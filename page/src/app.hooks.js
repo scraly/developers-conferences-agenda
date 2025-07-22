@@ -1,7 +1,7 @@
 import { useParams, useSearchParams } from 'react-router-dom'
 import allEvents from 'misc/all-events.json'
 import regions from 'misc/regions.json'
-import { useMemo } from 'react'
+import { useMemo, useCallback } from 'react'
 import { isFavorite } from './utils/favorites'
 
 export const useHasYearEvents = (year) => {
@@ -37,6 +37,48 @@ export const useRegionsMap = () => {
 export const useRegions = () => {
   return useMemo(() => {
     return Object.keys(regions)
+  }, [])
+}
+
+export const useTags = () => {
+  return useMemo(() => {
+    const tagsByKey = {}
+    allEvents.forEach((e) => {
+      if (e.tags && Array.isArray(e.tags)) {
+        e.tags.forEach((tag) => {
+          if (typeof tag === 'object' && tag.key && tag.value) {
+            if (!tagsByKey[tag.key]) {
+              tagsByKey[tag.key] = new Set()
+            }
+            tagsByKey[tag.key].add(tag.value)
+          }
+        })
+      }
+    })
+    
+    // Convert sets to sorted arrays
+    const result = {}
+    Object.keys(tagsByKey).forEach(key => {
+      result[key] = Array.from(tagsByKey[key]).sort()
+    })
+    
+    return result
+  }, [])
+}
+
+export const useTagKeys = () => {
+  return useMemo(() => {
+    const keys = new Set()
+    allEvents.forEach((e) => {
+      if (e.tags && Array.isArray(e.tags)) {
+        e.tags.forEach((tag) => {
+          if (typeof tag === 'object' && tag.key) {
+            keys.add(tag.key)
+          }
+        })
+      }
+    })
+    return Array.from(keys).sort()
   }, [])
 }
 
@@ -94,6 +136,35 @@ export const useYearEvents = () => {
       });
     }
 
+    // Handle multiselect tags filter (AND logic - all selected tags must match)
+    if (search.tags) {
+      const selectedTags = Array.isArray(search.tags) ? search.tags : search.tags.split(',');
+      if (selectedTags.length > 0 && selectedTags[0] !== '') {
+        result = result.filter((e) => {
+          if (!e.tags || !Array.isArray(e.tags)) return false
+          return selectedTags.every(selectedTag => {
+            const [key, value] = selectedTag.split(':');
+            return e.tags.some((tag) => {
+              return typeof tag === 'object' && tag.key === key && tag.value === value;
+            });
+          });
+        });
+      }
+    }
+
+    // Handle individual tag filters by key (legacy support)
+    const tagKeys = ['tech', 'topic', 'type', 'language'] // Common tag keys
+    tagKeys.forEach(key => {
+      if (search[key]) {
+        result = result.filter((e) => {
+          if (!e.tags || !Array.isArray(e.tags)) return false
+          return e.tags.some((tag) => {
+            return typeof tag === 'object' && tag.key === key && tag.value === search[key]
+          })
+        })
+      }
+    })
+
     return result
   }, [yearEvents, searchParams])
 
@@ -145,3 +216,72 @@ export const useDayEvents = (monthEvents, day = null) => {
     return result
   }, [filterDay, monthEvents])
 }
+
+export const useFilters = () => {
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  const filters = useMemo(() => {
+    const search = Object.fromEntries(searchParams);
+    return {
+      ...search,
+      tags: search.tags ? (Array.isArray(search.tags) ? search.tags : search.tags.split(',')) : []
+    };
+  }, [searchParams]);
+
+  const updateFilter = useCallback((key, value) => {
+    const currentSearch = Object.fromEntries(searchParams);
+    if (value === '' || value === null || value === undefined) {
+      delete currentSearch[key];
+    } else {
+      currentSearch[key] = value;
+    }
+    setSearchParams(currentSearch);
+  }, [searchParams, setSearchParams]);
+
+  const addTag = useCallback((key, value) => {
+    const tagString = `${key}:${value}`;
+    const currentTags = filters.tags;
+    
+    if (!currentTags.includes(tagString)) {
+      const newTags = [...currentTags, tagString];
+      updateFilter('tags', newTags.join(','));
+    }
+  }, [filters.tags, updateFilter]);
+
+  const removeTag = useCallback((key, value) => {
+    const tagString = `${key}:${value}`;
+    const currentTags = filters.tags;
+    const newTags = currentTags.filter(tag => tag !== tagString);
+    
+    if (newTags.length === 0) {
+      updateFilter('tags', '');
+    } else {
+      updateFilter('tags', newTags.join(','));
+    }
+  }, [filters.tags, updateFilter]);
+
+  const toggleTag = useCallback((key, value) => {
+    const tagString = `${key}:${value}`;
+    const currentTags = filters.tags;
+    
+    if (currentTags.includes(tagString)) {
+      removeTag(key, value);
+    } else {
+      addTag(key, value);
+    }
+  }, [filters.tags, addTag, removeTag]);
+
+  const isTagSelected = useCallback((key, value) => {
+    const tagString = `${key}:${value}`;
+    return filters.tags.includes(tagString);
+  }, [filters.tags]);
+
+  return {
+    filters,
+    updateFilter,
+    addTag,
+    removeTag,
+    toggleTag,
+    isTagSelected
+  };
+};
