@@ -53,13 +53,14 @@ function readConferences() {
   const allEventsPath = path.join(__dirname, '../page/src/misc/all-events.json');
   const allEvents = JSON.parse(fs.readFileSync(allEventsPath, 'utf-8'));
   
-  // Filter for 2025-2027 and create conference objects
+  // Filter for future events and create conference objects
+  const now = Date.now();
   const conferences = [];
   for (const event of allEvents) {
     if (event.date && event.date.length > 0) {
       const timestamp = event.date[0];
-      // 2025-01-01 = 1735689600000, 2028-01-01 = 1893456000000
-      if (timestamp >= 1735689600000 && timestamp < 1893456000000) {
+      // Only include future events
+      if (timestamp >= now) {
         const dateStr = new Date(timestamp).toISOString().split('T')[0];
         const conf = {
           date: dateStr,
@@ -177,7 +178,7 @@ async function main() {
   
   // Read all conferences
   const allConferences = readConferences();
-  console.error(`# Found ${allConferences.length} total conferences for 2025-2027`);
+  console.error(`# Found ${allConferences.length} total future conferences`);
   
   // Find conferences that need processing
   const conferencesToProcess = [];
