@@ -17,7 +17,7 @@ try {
 const client = new Anthropic();
 
 /**
- * Read existing events from TAGS2.csv
+ * Read existing events from TAGS.csv
  */
 function readExistingEvents(tagsFile) {
   const existingEvents = new Set();
@@ -28,10 +28,15 @@ function readExistingEvents(tagsFile) {
     for (let i = 1; i < lines.length; i++) {
       const line = lines[i].trim();
       if (line) {
-        // Parse CSV - handle quoted fields
-        const match = line.match(/^"([^"]+)"/);
-        if (match) {
-          existingEvents.add(match[1]);
+        // Parse CSV - handle quoted fields and regular fields
+        const firstComma = line.indexOf(',');
+        if (firstComma > 0) {
+          let eventId = line.substring(0, firstComma);
+          // Remove quotes if present
+          if (eventId.startsWith('"') && eventId.endsWith('"')) {
+            eventId = eventId.slice(1, -1);
+          }
+          existingEvents.add(eventId);
         }
       }
     }
@@ -164,7 +169,7 @@ function sleep(ms) {
  * Main function
  */
 async function main() {
-  const tagsFile = 'TAGS2.csv';
+  const tagsFile = 'TAGS.csv';
   
   // Read existing events
   const existingEvents = readExistingEvents(tagsFile);
@@ -189,10 +194,8 @@ async function main() {
   const limitedConferences = conferencesToProcess.slice(0, 300);
   console.error(`# Processing first ${limitedConferences.length} missing conferences`);
   
-  // If TAGS2.csv is empty or doesn't exist, write header
-  if (existingEvents.size === 0) {
-    console.log("event_id,tags");
-  }
+  // Prepare output - collect all new entries
+  const newEntries = [];
   
   // Process conferences in batches of 30
   const batchSize = 30;
@@ -204,13 +207,13 @@ async function main() {
     
     const tagsResults = await inferTagsBatchWithAI(batch);
     
-    // Output results
+    // Collect results for this batch
     for (let j = 0; j < batch.length; j++) {
       const conf = batch[j];
       const eventId = `${conf.date}-${conf.name}`;
       const tags = j < tagsResults.length ? tagsResults[j] : "type:conference,language:english";
       
-      console.log(`"${eventId}",${tags}`);
+      newEntries.push(`${eventId},${tags}`);
     }
     
     // Rate limiting - wait between batches
@@ -221,6 +224,15 @@ async function main() {
     // Progress indicator
     const completed = Math.min(i + batchSize, limitedConferences.length);
     console.error(`# Completed ${completed}/${limitedConferences.length} conferences`);
+  }
+  
+  // Append new entries to TAGS.csv
+  if (newEntries.length > 0) {
+    const appendData = newEntries.join('\n') + '\n';
+    fs.appendFileSync(tagsFile, appendData);
+    console.error(`# Appended ${newEntries.length} new events to ${tagsFile}`);
+  } else {
+    console.error(`# No new events to add`);
   }
 }
 
