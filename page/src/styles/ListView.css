@@ -31,6 +31,7 @@
   justify-content: space-between;
   align-items: center;
   gap: 8px;
+  max-width: 400px;
 }
 
 .listView .event-list-entry.favorite-event {
