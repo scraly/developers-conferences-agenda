@@ -87,21 +87,23 @@ Multiple tags of the same type should be repeated, for example:
 Only return the numbered list with tags, nothing else.
 `;
 
-try {
-    const res = await fetch(process.env.OVH_API_URL, {
-  method: 'POST',
-  headers: {
-    'Authorization': `Bearer ${process.env.OVH_API_KEY}`,
-    'Content-Type': 'application/json'
-  },
-  body: JSON.stringify({
-    model: process.env.OVH_MODEL,
-    messages: [{ role: 'user', content: prompt }],
-    max_tokens: 1000
-  })
-});
+  try {
+      const res = await fetch(process.env.OVH_API_URL, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${process.env.OVH_API_KEY}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          model: process.env.OVH_MODEL,
+          messages: [{ role: 'user', content: prompt }],
+          max_tokens: 1000
+        })
+    });
 
     if (!res.ok) throw new Error(`API Error ${res.status}: ${await res.text()}`);
+
+    // Parse the response
     const json = await res.json();
     const text = json.choices[0]?.message?.content || '';
     return text.trim().split('\n').map(line => {
@@ -159,7 +161,9 @@ async function main() {
 
   console.error(`# Need to process ${conferencesToProcess.length} conferences`);
 
+  // Process conferences in batches of 30
   const batchSize = 30;
+
   const newEntries = [];
 
   for (let i = 0; i < conferencesToProcess.length; i += batchSize) {
@@ -174,9 +178,11 @@ async function main() {
       newEntries.push(`${id},${tags[j]}`);
     }
 
+    // Rate limiting - wait between batches
     if (i + batchSize < conferencesToProcess.length) await sleep(2000);
   }
 
+  // Append new entries to TAGS.csv
   if (newEntries.length > 0) {
     const header = fs.existsSync(tagsFile) ? '' : 'event_id,tags\n';
     fs.appendFileSync(tagsFile, header + newEntries.join('\n') + '\n');
@@ -186,7 +192,7 @@ async function main() {
   }
 }
 
-// 🟢 Lancer le script
+// Run the script
 if (require.main === module) {
   main().catch(err => {
     console.error('# Fatal error:', err);
