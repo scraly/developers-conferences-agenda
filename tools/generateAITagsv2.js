@@ -2,8 +2,8 @@
 
 /* Prerequisites:
   export OVH_AI_ENDPOINTS_ACCESS_TOKEN=xxxxx
-  export OVH_AI_ENDPOINTS_MODEL_URL="https://qwen-2-5-coder-32b-instruct.endpoints.kepler.ai.cloud.ovh.net/api/openai_compat/v1/chat/completions"
-  export OVH_AI_ENDPOINTS_MODEL_NAME=Qwen2.5-Coder-32B-Instruct API
+  export OVH_AI_ENDPOINTS_MODEL_URL="https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions"
+  export OVH_AI_ENDPOINTS_MODEL_NAME=Qwen2.5-Coder-32B-Instruct
 */
 
 const fs = require('fs');
@@ -96,6 +96,8 @@ Only return the numbered list with tags, nothing else.
         },
         body: JSON.stringify({
           model: process.env.OVH_AI_ENDPOINTS_MODEL_NAME,
+          temperature: 0.0,
+          top_P: 1.0,
           messages: [{ role: 'user', content: prompt }],
           max_tokens: 1000
         })
