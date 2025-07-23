@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
 /* Prerequisites:
-  export OVH_API_KEY=xxxxx
-  export OVH_API_URL="https://qwen-2-5-coder-32b-instruct.endpoints.kepler.ai.cloud.ovh.net/api/openai_compat/v1/chat/completions"
-  export OVH_MODEL=Qwen2.5-Coder-32B-Instruct API
+  export OVH_AI_ENDPOINTS_ACCESS_TOKEN=xxxxx
+  export OVH_AI_ENDPOINTS_MODEL_URL="https://qwen-2-5-coder-32b-instruct.endpoints.kepler.ai.cloud.ovh.net/api/openai_compat/v1/chat/completions"
+  export OVH_AI_ENDPOINTS_MODEL_NAME=Qwen2.5-Coder-32B-Instruct API
 */
 
 const fs = require('fs');
@@ -11,9 +11,9 @@ const path = require('path');
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
 
 /*
- * Check the existence of mandatory OVH_* environment variables to connect and use OVHcloud AI Endpoints
+ * Check the existence of mandatory OVH_AI_ENDPOINTS_* environment variables to connect and use OVHcloud AI Endpoints
  */
-['OVH_API_KEY', 'OVH_API_URL', 'OVH_MODEL'].forEach((key) => {
+['OVH_AI_ENDPOINTS_ACCESS_TOKEN', 'OVH_AI_ENDPOINTS_MODEL_URL', 'OVH_AI_ENDPOINTS_MODEL_NAME'].forEach((key) => {
   if (!process.env[key]) {
     console.error(`# Missing required environment variable: ${key}`);
     process.exit(1);
@@ -42,8 +42,8 @@ function readExistingEvents(tagsFile) {
 /**
  * Read all conferences and sort by date
  */
-function readConferences() {
-  const filePath = path.join(__dirname, '../page/src/misc/all-events.json');
+function readConferences(allEventsFile) {
+  const filePath = path.join(__dirname, allEventsFile);
   const json = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
   const now = Date.now();
 
@@ -88,14 +88,14 @@ Only return the numbered list with tags, nothing else.
 `;
 
   try {
-      const res = await fetch(process.env.OVH_API_URL, {
+      const res = await fetch(process.env.OVH_AI_ENDPOINTS_MODEL_URL, {
         method: 'POST',
         headers: {
-          'Authorization': `Bearer ${process.env.OVH_API_KEY}`,
+          'Authorization': `Bearer ${process.env.OVH_AI_ENDPOINTS_ACCESS_TOKEN}`,
           'Content-Type': 'application/json'
         },
         body: JSON.stringify({
-          model: process.env.OVH_MODEL,
+          model: process.env.OVH_AI_ENDPOINTS_MODEL_NAME,
           messages: [{ role: 'user', content: prompt }],
           max_tokens: 1000
         })
@@ -134,13 +134,14 @@ function sleep(ms) {
  */
 async function main() {
   const tagsFile = '../TAGS.csv';
+  const allEventsFile = '../page/src/misc/all-events.json'
 
   // Read existing events
   const existingEvents = readExistingEvents(tagsFile);
   console.error(`# Found ${existingEvents.size} existing events`);
 
   // Read all conferences
-  const allConfs = readConferences();
+  const allConfs = readConferences(allEventsFile);
   console.error(`# Found ${allConfs.length} future conferences`);
 
   // Find conferences that need processing
@@ -153,7 +154,7 @@ async function main() {
     }
   }
 
-  // Don't call OVHcloud AIENDPOINT if there is no new conference to process
+  // Don't call API if there is no new conference to process
   if (conferencesToProcess.length === 0) {
     console.error('# No new conferences to process. Exiting.');
     return;
@@ -161,7 +162,7 @@ async function main() {
 
   console.error(`# Need to process ${conferencesToProcess.length} conferences`);
 
-  // Process conferences in batches of 30
+  // Process conferences in batches
   const batchSize = 30;
 
   const newEntries = [];
