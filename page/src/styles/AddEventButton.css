@@ -1,8 +1,8 @@
 .add-event-button {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
-  padding: 0.5rem 1rem;
+  gap: 0;
+  padding: 0;
   background-color: #28a745;
   color: white;
   border: none;
@@ -10,26 +10,48 @@
   cursor: pointer;
   font-size: 0.9rem;
   font-weight: 500;
-  transition: background-color 0.2s, transform 0.1s;
+  transition: background-color 0.2s, width 0.3s ease, padding 0.3s ease, gap 0.3s ease;
   height: 42px;
+  width: 42px;
   box-sizing: border-box;
   position: absolute;
   right: 1rem;
   top: 50%;
   transform: translateY(-50%);
+  justify-content: center;
+  overflow: hidden;
 }
 
 .add-event-button:hover {
   background-color: #218838;
-  transform: translateY(calc(-50% - 1px));
+  transform: translateY(-50%);
+  width: auto;
+  padding: 0.5rem 1rem;
+  gap: 0.5rem;
+  justify-content: flex-start;
 }
 
 .add-event-button:active {
   transform: translateY(-50%);
 }
 
+.add-event-button svg {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+}
+
 .add-event-text {
   white-space: nowrap;
+  opacity: 0;
+  width: 0;
+  overflow: hidden;
+  transition: opacity 0.3s ease 0.1s, width 0.3s ease;
+}
+
+.add-event-button:hover .add-event-text {
+  opacity: 1;
+  width: auto;
 }
 
 /* Mobile responsive */
@@ -50,7 +72,9 @@
   }
   
   .add-event-button:hover {
-    transform: translateY(calc(-50% - 1px));
+    transform: translateY(-50%);
+    width: 42px;
+    padding: 0.5rem;
   }
   
   .add-event-button:active {
