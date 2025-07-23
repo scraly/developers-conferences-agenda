@@ -899,7 +899,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-04-NewCrafts 2025,topic:software,language:french
 2025-11-04-TechBash 2025,topic:tech,language:english
 2025-11-05-Tech Show Paris,topic:tech,language:french
-"2025-11-05-DevCon 2025 | Bucharest, Romania",tech:general,language:english
+2025-11-05-DevCon 2025,tech:general,language:english
 2025-11-05-Øredev 2025,tech:general,language:english
 2025-11-06-dotAI 2025,topic:ai,language:english
 2025-11-06-Conf42.com Prompt Engineering 2025,topic:ai,language:english
@@ -1059,7 +1059,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-04-14-Linux Storage, Filesystem, MM & BPF Summit,tech:linux,topic:storage,topic:systems,language:english,language:french
 2025-06-27-The Perl & Raku Conference in Greenville, SC 2025,tech:perl,tech:raku,topic:programming,language:english
 2025-07-03-Perl Community Conference, Summer 2025,tech:perl,topic:programming,language:english
-2025-11-05-DevCon 2025 | Bucharest, Romania,topic:software-development,topic:tech,language:english,language:romanian
 2025-07-25-PyCon Russia 2025,tech:python,topic:data,topic:open-source,language:english
 2025-07-26-PyOhio 2025,tech:python,topic:data,topic:open-source,language:english
 2025-08-08-Buea - Creating Python Communities and outreach,tech:python,topic:community-building,language:english
@@ -1097,7 +1096,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-01-PyCon Malaysia 2025,tech:python,topic:data,language:malay
 2025-11-03-JupyterCon 2025,tech:jupyter,topic:data,language:english
 2025-11-05-PyData Tel Aviv 2025,tech:python,topic:data,language:hebrew
-2025-11-05-DevCon 2025 | Bucharest, Romania,topic:devops,language:romanian
 2025-11-15-PyCon Ireland 2025,tech:python,topic:data,language:english
 2025-11-18-React Summit,tech:javascript,topic:web-development,language:english
 2025-11-18-XtremePython 2025,tech:python,topic:data,language:english
@@ -1118,4 +1116,3 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-04-13-Spring I/O,tech:spring,topic:data,topic:web-development,topic:cloud,language:spanish
 2026-04-13-PyCon DE & PyData 2026,tech:python,tech:jupyter,topic:data,topic:web-development,language:german
 2026-04-17-PyTexas Conference ,tech:python,topic:data,topic:web-development,language:english
-2025-11-05-DevCon 2025 | Bucharest, Romania,tech:javascript,tech:python,tech:java,tech:golang,topic:web-development,topic:devops,topic:data,language:english

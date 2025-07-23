@@ -454,7 +454,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4-7: [TechBash 2025](https://techbash.com/) - Pocono Manor, PA (USA) <a href="https://sessionize.com/techbash2025/"><img alt="CFP TechBash 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
 * 5: [PyData Tel Aviv 2025](https://pydata.org/telaviv2025) - Tel Aviv (Israel)
 * 5-6: [Tech Show Paris](https://www.techshowparis.fr/) - Paris (France)
-* 5-6: [DevCon 2025 | Bucharest, Romania](https://www.dev-con.ro/) - Bucharest (Romania) <a href="https://www.papercall.io/devcon2025"><img alt="CFP DevCon 2025 | Bucharest, Romania" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2025&color=green"></a>
+* 5-6: [DevCon 2025](https://www.dev-con.ro/) - Bucharest (Romania) <a href="https://www.papercall.io/devcon2025"><img alt="CFP DevCon 2025 | Bucharest, Romania" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2025&color=green"></a>
 * 5-7: [Øredev 2025](http://oredev.org) - Malmo (Sweden) <a href="https://sessionize.com/oredev-2025"><img alt="CFP Øredev 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
 * 6: [dotAI 2025](https://www.dotai.io/) - Paris (France) <a href="https://www.dotai.io/speak"><img alt="CFP dotAI 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
 * 6: [Conf42.com Prompt Engineering 2025](https://www.conf42.com/prompt2025) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2025"><img alt="CFP Conf42.com Prompt Engineering 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-October-2025&color=green"></a>

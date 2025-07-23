@@ -136,18 +136,27 @@ async function main() {
   console.error(`# Found ${allConfs.length} future conferences`);
 
   // Find conferences that need processing
-  const toProcess = allConfs.filter(conf => {
-    const id = `${conf.date}-${conf.name}`;
-    return !existingEvents.has(id);
-  });
+  const conferencesToProcess = [];
+  for (const conf of allConfs) {
+    const eventId = `${conf.date}-${conf.name}`;
+    if (!existingEvents.has(eventId)) {
+      conferencesToProcess.push(conf);
+    }
+  }
 
-  console.error(`# Need to process ${toProcess.length} conferences`);
+  // Don't call OVHcloud AIENDPOINT if there is no new conference to process
+  if (conferencesToProcess.length === 0) {
+    console.error('# No new conferences to process. Exiting.');
+    return;
+  }
+
+  console.error(`# Need to process ${conferencesToProcess.length} conferences`);
 
   const batchSize = 30;
   const newEntries = [];
 
-  for (let i = 0; i < toProcess.length; i += batchSize) {
-    const batch = toProcess.slice(i, i + batchSize);
+  for (let i = 0; i < conferencesToProcess.length; i += batchSize) {
+    const batch = conferencesToProcess.slice(i, i + batchSize);
     console.error(`# Batch ${i / batchSize + 1}: ${batch.length} conferences`);
 
     const tags = await inferTagsBatchWithAI(batch);
@@ -158,7 +167,7 @@ async function main() {
       newEntries.push(`${id},${tags[j]}`);
     }
 
-    if (i + batchSize < toProcess.length) await sleep(2000);
+    if (i + batchSize < conferencesToProcess.length) await sleep(2000);
   }
 
   if (newEntries.length > 0) {
