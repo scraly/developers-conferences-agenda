@@ -23,7 +23,7 @@
     align-items: center;
     cursor: pointer;
     margin-bottom: 1rem;
-    padding: 7rem 2rem 0 2rem;
+    padding: 4rem 2rem 0 2rem;
     position: relative;
 }
 
@@ -38,7 +38,7 @@
 .tags-toggle-container {
     position: fixed;
     left: 100%;
-    top: calc(7rem + 50px);
+    top: calc(4rem + 50px);
 }
 
 .filters .tags-toggle-container .tags-toggle-button {
