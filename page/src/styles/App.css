@@ -14,7 +14,7 @@ body * {
 
 .app-header {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   padding: 1rem 1rem 0.5rem 1rem;
   position: relative;
@@ -22,7 +22,6 @@ body * {
 
 .dcaTitle {
   text-align: center;
-  flex-grow: 1;
   margin: 0;
 }
 
