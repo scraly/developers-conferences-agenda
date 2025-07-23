@@ -1,5 +1,11 @@
 #!/usr/bin/env node
 
+/* Prerequisites:
+  export OVH_API_KEY=xxxxx
+  export OVH_API_URL="https://qwen-2-5-coder-32b-instruct.endpoints.kepler.ai.cloud.ovh.net/api/openai_compat/v1/chat/completions"
+  export OVH_MODEL=Qwen2.5-Coder-32B-Instruct API
+*/
+
 const fs = require('fs');
 const path = require('path');
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
@@ -138,6 +144,7 @@ async function main() {
   // Find conferences that need processing
   const conferencesToProcess = [];
   for (const conf of allConfs) {
+    //TODO: fix an error in event's name containing comma, accents, quote, or spaces
     const eventId = `${conf.date}-${conf.name}`;
     if (!existingEvents.has(eventId)) {
       conferencesToProcess.push(conf);
