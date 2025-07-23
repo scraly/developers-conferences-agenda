@@ -257,7 +257,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-04-15-APIdays Singapore,tech:api,topic:web-development,language:english
 2025-04-15-DevOpsDays Tokyo 2025,topic:devops,language:japanese
 2025-04-15-CYBERSEC 2025,topic:security,language:chinese
-2025-04-16-Devoxx France,tech:java,language:french
+2025-04-16-Devoxx France,topic:development,tech:java,language:french
 2025-04-16-RubyKaigi 2025,tech:ruby,language:japanese
 2025-04-17-Conf42.com Site Reliability Engineering (SRE) 2025,topic:devops,language:english
 2025-04-17-TORNOG,tech:networking,language:english
@@ -270,7 +270,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-04-22-Great International Developer Summit,topic:web-development,language:english
 2025-04-23-datadaX Summit 2025,topic:data,language:spanish
 2025-04-23-MODERN ENDPOINT MANAGEMENT EMEA SUMMIT 2025,topic:devops,language:english
-2025-04-23-PyCon DE & PyData 2025,tech:python,topic:data,language:german
+2025-04-23-PyCon DE & PyData 2025,tech:python,topic:open-source,topic:data,language:english
 2025-04-23-CityJS London,tech:javascript,language:english
 2025-04-24-IA Data Day - Strasbourg 2025,topic:data,topic:ai,language:french
 2025-04-24-KCD Budapest,tech:kubernetes,topic:cloud,language:english
@@ -459,7 +459,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-06-11-Cloud Native Zürich,topic:cloud,tech:kubernetes,language:german
 2025-06-11-AbracaData Summit,topic:data,language:english
 2025-06-11-Render (RenderATL) 2025,tech:javascript,topic:web-development,language:english
-2025-06-11-Devoxx Poland,tech:java,language:english
+2025-06-11-Devoxx Poland,tech:java,topic:development,language:english
 2025-06-11-BSDCan 2025,tech:bsd,topic:open-source,language:english
 2025-06-12-SREday Cologne 2025 Q2,topic:devops,language:german
 2025-06-12-8.8 Gobierno 2025,topic:security,language:spanish
@@ -763,7 +763,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-10-06-Swift Connection 2025,tech:swift,topic:mobile,language:english
 2025-10-06-dataMinds Connect 2025,topic:data,language:english
 2025-10-06-JCON USA 2025 @ IBM TechXchange,tech:java,language:english
-2025-10-06-Devoxx Belgium,tech:java,topic:web-development,language:english
+2025-10-06-Devoxx Belgium,tech:java,topic:development,language:english
 2025-10-06-Jax London,tech:java,language:english
 2025-10-07-AWS Community Day DACH 2025,tech:aws,topic:cloud,language:german
 2025-10-07-Agile Tour Quebec,topic:agile,language:french
@@ -942,7 +942,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-10-Web Summit Lisbon,topic:startups,language:english
 2025-11-10-STL Startup Week 2025,topic:startups,language:english
 2025-11-12-Do iOS 2025,tech:ios,topic:mobile,language:english
-2025-11-12-Devoxx Morocco,topic:web-development,language:french
+2025-11-12-Devoxx Morocco,topic:development,language:french
 2025-11-13-DevFest Toulouse,tech:google,topic:web-development,language:french
 2025-11-13-DevDay 2025,topic:web-development,language:french
 2025-11-13-The Commit Your Code Conference 2025!,topic:software-development,language:english
@@ -1044,7 +1044,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-04-01-CypherCon 9 (2026),topic:security,language:english
 2026-04-14-Green IO Singapore,topic:sustainability,language:english
 2026-04-20-JCON EUROPE 2026,tech:java,language:english,language:german
-2026-04-22-Devoxx France 2026,tech:java,language:french
+2026-04-22-Devoxx France 2026,topic:development,tech:java,language:french
 2026-04-23-Devoxx Greece,tech:java,language:english,language:greek
 2026-04-24-Great International Developer Summit 2026 (GIDS 2026),topic:development,language:english
 2026-05-09-Java Day Istanbul 2026,tech:java,language:english,language:turkish
@@ -1069,17 +1069,17 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-08-28-PyCon Kenya 2025,tech:python,topic:data,topic:open-source,language:english
 2025-08-28-PyCon Poland 2025,tech:python,topic:data,topic:open-source,language:polish
 2025-09-01-Limbe - Creating Python Communities and outreach,tech:python,topic:community-building,language:english
-2025-09-01-PyData Berlin 2025,tech:python,topic:data,topic:statistics,language:english
+2025-09-01-PyData Berlin 2025,tech:python,topic:data,topic:open-source,topic:statistics,language:english
 2025-09-06-PyCon Taiwan,tech:python,topic:data,topic:open-source,language:chinese-mandarin
 2025-09-09-PyCon Israel 2025,tech:python,topic:data,topic:open-source,language:hebrew
 2025-09-12-PyCon AU 2025,tech:python,topic:data,topic:open-source,language:english
 2025-09-13-PyCon Niger 2025,tech:python,topic:data,topic:open-source,language:french
 2025-09-19-PyCon UK 2025,tech:python,topic:data,topic:open-source,language:english
-2025-09-24-PyData Amsterdam 2025,tech:python,topic:data,topic:statistics,language:dutch
+2025-09-24-PyData Amsterdam 2025,tech:python,topic:data,topic:statistics,topic:open-source,language:dutch
 2025-09-25-PyCon Ghana 2025,tech:python,topic:data,topic:open-source,language:english
 2025-09-26-PyCon JP 2025,tech:python,topic:data,topic:open-source,language:japanese
 2025-09-27-Building Python Community in Northern Nigeria,tech:python,topic:community-building,language:english
-2025-09-30-PyData Paris 2025,tech:python,topic:data,topic:statistics,language:french
+2025-09-30-PyData Paris 2025,tech:python,topic:data,topic:statistics,topic:open-source,language:french
 2025-10-01-Yaounde - Creating Python Communities and outreach,tech:python,topic:community-building,language:english
 2025-10-02-PyCon Estonia 2025,tech:python,topic:data,topic:open-source,language:estonian
 2025-10-02-PyCon Nigeria 2025,tech:python,topic:data,topic:open-source,language:english
@@ -1090,12 +1090,12 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-10-16-PyCon NL,tech:python,topic:data,topic:open-source,language:dutch
 2025-10-17-PyCon Thailand 2025,tech:python,topic:data,topic:open-source,language:thai
 2025-10-17-OpenInfra Summit Europe,tech:open-source,topic:devops,language:french
-2025-10-21-PyData Vermont 2025,tech:python,topic:data,language:english
+2025-10-21-PyData Vermont 2025,tech:python,topic:data,topic:open-source,language:english
 2025-10-21-Python Brasil 2025,tech:python,topic:data,language:portuguese
 2025-10-30-PyCon Sweden,tech:python,topic:data,language:english
 2025-11-01-PyCon Malaysia 2025,tech:python,topic:data,language:english
 2025-11-03-JupyterCon 2025,tech:jupyter,topic:data,language:english
-2025-11-05-PyData Tel Aviv 2025,tech:python,topic:data,language:hebrew
+2025-11-05-PyData Tel Aviv 2025,tech:python,topic:data,topic:open-source,language:hebrew
 2025-11-15-PyCon Ireland 2025,tech:python,topic:data,language:english
 2025-11-18-React Summit,tech:javascript,topic:web-development,language:english
 2025-11-18-XtremePython 2025,tech:python,topic:data,language:english
@@ -1104,8 +1104,8 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-21-Kiwi PyCon 2025,tech:python,topic:data,language:english
 2025-11-29-DevFest Bari 2025,tech:android,tech:web,topic:data,tech:ioutil,topic:mobile,topic:cloud,technology:gcp,language:italian
 2025-12-05-PyLadiesCon 2025,tech:python,topic:community,language:english
-2025-12-09-PyData Eindhoven 2025,tech:python,topic:data,language:dutch
-2025-12-09-PyData Global 2025,tech:python,topic:data,language:english
+2025-12-09-PyData Eindhoven 2025,tech:python,topic:data,topic:open-source,language:dutch
+2025-12-09-PyData Global 2025,tech:python,topic:data,topic:open-source,language:english
 2026-01-22-jChampions,tech:jira,topic:productivity,language:english
 2026-02-02-Jfokus,tech:java,topic:web-development,topic:devops,language:english
 2026-02-06-Voxxed Days Ticino,tech:java,topic:web-development,topic:ai,topic:data,language:english
@@ -1115,4 +1115,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-03-24-Voxxed Days Zurich,tech:java,topic:web-development,topic:ai,topic:data,language:english
 2026-04-13-Spring I/O,tech:java,tech:spring,topic:cloud,topic:devops,language:spanish
 2026-04-17-PyTexas Conference,tech:python,topic:software-development,topic:data,topic:open-source,language:english
-2026-04-13-PyCon DE & PyData 2026,tech:python,topic:data-science,topic:machine-learning,language:english
+2026-04-13-PyCon DE & PyData 2026,tech:python,topic:open-source,topic:data,language:english

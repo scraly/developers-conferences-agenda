@@ -62,7 +62,7 @@ function readConferences(allEventsFile) {
  * Build system prompt with history
  */
 //TODO: optimize the number of tags history
-function buildSystemPrompt(tagsFile, maxOldTags = 1000) {
+function buildSystemPrompt(tagsFile, maxOldTags = 1500) {
     let prompt = `You are an assistant that classifies tech conferences using tags.
 
     Use the same tag categories from TAGS.csv:
@@ -88,6 +88,8 @@ date-conference name,tags
 
 Example of your history:
 1. 2026-04-17-PyTexas Conference,tech:python,topic:software-development,topic:data,topic:open-source,language:english
+2. 2025-04-23-PyCon DE & PyData 2025,tech:python,topic:open-source,topic:data,language:english
+
 
 `
 
