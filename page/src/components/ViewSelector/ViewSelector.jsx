@@ -2,7 +2,6 @@ import React from 'react';
 import {useNavigate, useSearchParams, createSearchParams, useParams} from "react-router-dom";
 import 'styles/ViewSelector.css';
 import {Calendar, List, Map, Megaphone} from 'lucide-react';
-import AddEventButton from 'components/AddEventButton/AddEventButton';
 
 const ViewSelector = ({selected}) => {
   const navigate = useNavigate();
@@ -11,7 +10,6 @@ const ViewSelector = ({selected}) => {
 
   return (
     <div className="view-type-selector">
-      <AddEventButton />
       <Megaphone
         aria-label="Opened CFPs"
         className={selected === 'cfp' ? 'view-selector cfp-view selected' : 'view-selector cfp-view'}

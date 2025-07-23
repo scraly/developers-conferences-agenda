@@ -23,7 +23,7 @@ const AddEventButton = () => {
         aria-label="Add New Event"
       >
         <Plus size={20} />
-        <span className="add-event-text">Add Event</span>
+        <span className="add-event-text">Add event/CFP</span>
       </button>
       
       <AddEventForm 

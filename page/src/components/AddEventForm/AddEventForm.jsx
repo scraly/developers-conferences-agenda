@@ -12,6 +12,7 @@ const AddEventForm = ({ isOpen, onClose }) => {
     country: '',
     cfpUrl: '',
     cfpEndDate: '',
+    hasCfp: false,
     closedCaptions: false,
     onlineEvent: false,
     tags: []
@@ -59,11 +60,20 @@ const AddEventForm = ({ isOpen, onClose }) => {
       }
     }
 
-    if (formData.cfpUrl.trim()) {
-      try {
-        new URL(formData.cfpUrl);
-      } catch {
-        newErrors.cfpUrl = 'Please enter a valid CFP URL';
+    // CFP validation - only if CFP checkbox is checked
+    if (formData.hasCfp) {
+      if (!formData.cfpUrl.trim()) {
+        newErrors.cfpUrl = 'CFP URL is required when CFP is selected';
+      } else {
+        try {
+          new URL(formData.cfpUrl);
+        } catch {
+          newErrors.cfpUrl = 'Please enter a valid CFP URL';
+        }
+      }
+      
+      if (!formData.cfpEndDate) {
+        newErrors.cfpEndDate = 'CFP End Date is required when CFP is selected';
       }
     }
 
@@ -129,9 +139,9 @@ const AddEventForm = ({ isOpen, onClose }) => {
     const endDay = endDate.getDate();
     const dateRange = startDay === endDay ? `${startDay}` : `${startDay}-${endDay}`;
     
-    // Build the CFP section if present
+    // Build the CFP section if CFP checkbox is selected and URL is present
     let cfpSection = '';
-    if (formData.cfpUrl) {
+    if (formData.hasCfp && formData.cfpUrl) {
       const cfpEndFormatted = formData.cfpEndDate ? formatDateForReadme(formData.cfpEndDate) : 'TBD';
       
       // Determine color based on CFP end date
@@ -190,8 +200,9 @@ const AddEventForm = ({ isOpen, onClose }) => {
 - **End Date:** ${formData.endDate}
 - **Event URL:** ${formData.eventUrl}
 - **Location:** ${locationDisplay}
+- **Has CFP:** ${formData.hasCfp ? 'Yes' : 'No'}${formData.hasCfp ? `
 - **CFP URL:** ${formData.cfpUrl || 'N/A'}
-- **CFP End Date:** ${formData.cfpEndDate || 'N/A'}
+- **CFP End Date:** ${formData.cfpEndDate || 'N/A'}` : ''}
 - **Closed Captions:** ${formData.closedCaptions ? 'Yes' : 'No'}
 - **Online Event:** ${formData.onlineEvent ? 'Yes' : 'No'}
 - **Tags:** ${formData.tags.length > 0 ? formData.tags.join(', ') : 'None'}
@@ -220,7 +231,7 @@ ${generateTagsCsvLines()}
     const title = encodeURIComponent(`Add new event: ${formData.name}`);
     const body = generateIssueBody();
     
-    const githubUrl = `https://github.com/scraly/developers-conferences-agenda/issues/new?title=${title}&body=${body}`;
+    const githubUrl = `https://github.com/scraly/developers-conferences-agenda/issues/new?title=${title}&body=${body}&labels=new-event`;
     
     window.open(githubUrl, '_blank');
     
@@ -234,6 +245,7 @@ ${generateTagsCsvLines()}
       country: '',
       cfpUrl: '',
       cfpEndDate: '',
+      hasCfp: false,
       closedCaptions: false,
       onlineEvent: false,
       tags: []
@@ -349,31 +361,6 @@ ${generateTagsCsvLines()}
           </div>
 
           <div className="form-group">
-            <label htmlFor="cfpUrl">CFP URL</label>
-            <input
-              type="url"
-              id="cfpUrl"
-              value={formData.cfpUrl}
-              onChange={(e) => handleInputChange('cfpUrl', e.target.value)}
-              placeholder="https://example.com/cfp"
-              className={errors.cfpUrl ? 'error' : ''}
-            />
-            {errors.cfpUrl && <span className="error-message">{errors.cfpUrl}</span>}
-          </div>
-
-          <div className="form-group">
-            <label htmlFor="cfpEndDate">CFP End Date</label>
-            <input
-              type="date"
-              id="cfpEndDate"
-              value={formData.cfpEndDate}
-              onChange={(e) => handleInputChange('cfpEndDate', e.target.value)}
-              className={errors.cfpEndDate ? 'error' : ''}
-            />
-            {errors.cfpEndDate && <span className="error-message">{errors.cfpEndDate}</span>}
-          </div>
-
-          <div className="form-group">
             <label className="checkbox-label">
               <input
                 type="checkbox"
@@ -383,6 +370,46 @@ ${generateTagsCsvLines()}
               Closed Captions Available
             </label>
           </div>
+
+          <div className="form-group">
+            <label className="checkbox-label">
+              <input
+                type="checkbox"
+                checked={formData.hasCfp}
+                onChange={(e) => handleInputChange('hasCfp', e.target.checked)}
+              />
+              CFP (Call for Papers)
+            </label>
+          </div>
+
+          {formData.hasCfp && (
+            <>
+              <div className="form-group">
+                <label htmlFor="cfpUrl">CFP URL *</label>
+                <input
+                  type="url"
+                  id="cfpUrl"
+                  value={formData.cfpUrl}
+                  onChange={(e) => handleInputChange('cfpUrl', e.target.value)}
+                  placeholder="https://example.com/cfp"
+                  className={errors.cfpUrl ? 'error' : ''}
+                />
+                {errors.cfpUrl && <span className="error-message">{errors.cfpUrl}</span>}
+              </div>
+
+              <div className="form-group">
+                <label htmlFor="cfpEndDate">CFP End Date *</label>
+                <input
+                  type="date"
+                  id="cfpEndDate"
+                  value={formData.cfpEndDate}
+                  onChange={(e) => handleInputChange('cfpEndDate', e.target.value)}
+                  className={errors.cfpEndDate ? 'error' : ''}
+                />
+                {errors.cfpEndDate && <span className="error-message">{errors.cfpEndDate}</span>}
+              </div>
+            </>
+          )}
 
           <div className="form-group">
             <label>Tags</label>
