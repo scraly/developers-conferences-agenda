@@ -93,7 +93,7 @@
 
 .filters-content {
     overflow-y: auto;
-    height: calc(100% - 160px);
+    height: calc(100% - 140px);
     padding: 0 2rem 1rem 2rem;
 }
 
