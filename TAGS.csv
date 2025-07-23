@@ -543,7 +543,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-07-03-KCD Utrecht,tech:kubernetes,language:dutch
 2025-07-03-Women in Tech Montreal - OutGeekWomen,topic:diversity,language:english
 2025-07-03-Agile On The Beach 2025,topic:agile,language:english
-"2025-07-03-Perl Community Conference, Summer 2025",tech:perl,language:english
+2025-07-03-Perl Community Conference Summer 2025,tech:perl,language:english
 2025-07-03-Web Summer Camp 2025,topic:web-development,language:english
 2025-07-04-re:connect conference 2025,topic:web-development,language:english
 2025-07-04-JavaDay Lviv 2025 Online,tech:java,language:ukrainian
@@ -801,7 +801,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-10-14-CATMA 2025 Transportation Summit,topic:transportation,language:english
 2025-10-14-DevOpsDays Bogotá 2025,topic:devops,language:spanish
 2025-10-14-Fast Flow Conf UK 2025 (Platform Engineering Edition),topic:platform-engineering,language:english
-2025-10-14-Codemotion Milan,topic:software-development,language:english
+2025-10-14-Codemotion Milan,topic:software-development,language:english,language:italian
 2025-10-14-HUSTEF,topic:testing,language:english
 2025-10-14-JSConf,tech:javascript,language:english
 2025-10-15-BaselOne 2025,topic:software-development,language:english
@@ -986,7 +986,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-24-Agile Testing Days,topic:testing,language:german
 2025-11-26-AgentCon Ponferrada,topic:ai,language:spanish
 2025-11-27-DevFest Strasbourg 2025,topic:technology,language:french
-2025-11-27-Agile Tour Montreal,topic:agile,language:french
+2025-11-27-Agile Tour Montreal,topic:agile,language:french,language:english
 2025-11-27-DevOpsDays Wollongong 2025,topic:devops,language:english
 2025-11-28-DevFest Lyon,topic:technology,language:french
 2025-11-28-DevFest Granada 2025,topic:google,language:spanish
@@ -1015,7 +1015,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-12-09-Green IO Paris,topic:sustainability,language:english,language:french
 2025-12-10-Linux Kernel Maintainer Summit,tech:linux,topic:open-source,language:english,language:japanese
 2025-12-10-Devops REX,topic:devops,language:french
-2025-12-10-Open Source Experience,topic:open-source,language:french
+2025-12-10-Open Source Experience,topic:open-source,language:french,language:english
 2025-12-11-OpenSearchCon Japan,topic:open-source,language:english,language:japanese
 2025-12-11-DevOpsDays Tel Aviv 2025,topic:devops,language:english
 2025-12-11-Open Compliance Summit,topic:open-source,language:english,language:japanese
@@ -1055,7 +1055,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-07-29-KubeCon + CloudNativeCon Japan 2026,tech:kubernetes,topic:cloud,language:english
 2026-10-26-KubeCon + CloudNativeCon NA 2026,tech:kubernetes,topic:cloud,language:english
 2027-03-15-KubeCon + CloudNativeCon Europe 2027,tech:kubernetes,topic:cloud,language:english
-2025-03-21-Frontrunners Mar 21, 2025,topic:tech,topic:emerging-tech,language:english
+2025-03-21-Frontrunners,topic:tech,topic:emerging-tech,language:english
 2025-04-14-Linux Storage, Filesystem, MM & BPF Summit,tech:linux,topic:storage,topic:systems,language:english,language:french
 2025-06-27-The Perl & Raku Conference in Greenville, SC 2025,tech:perl,tech:raku,topic:programming,language:english
 2025-07-03-Perl Community Conference, Summer 2025,tech:perl,topic:programming,language:english
@@ -1092,8 +1092,8 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-10-17-OpenInfra Summit Europe,tech:open-source,topic:devops,language:french
 2025-10-21-PyData Vermont 2025,tech:python,topic:data,language:english
 2025-10-21-Python Brasil 2025,tech:python,topic:data,language:portuguese
-2025-10-30-PyCon Sweden,tech:python,topic:data,language:swedish
-2025-11-01-PyCon Malaysia 2025,tech:python,topic:data,language:malay
+2025-10-30-PyCon Sweden,tech:python,topic:data,language:english
+2025-11-01-PyCon Malaysia 2025,tech:python,topic:data,language:english
 2025-11-03-JupyterCon 2025,tech:jupyter,topic:data,language:english
 2025-11-05-PyData Tel Aviv 2025,tech:python,topic:data,language:hebrew
 2025-11-15-PyCon Ireland 2025,tech:python,topic:data,language:english
@@ -1107,12 +1107,12 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-12-09-PyData Eindhoven 2025,tech:python,topic:data,language:dutch
 2025-12-09-PyData Global 2025,tech:python,topic:data,language:english
 2026-01-22-jChampions,tech:jira,topic:productivity,language:english
-2026-02-02-Jfokus,tech:java,tech:kotlin,topic:data,technology:aws,topic:devops,topic:ai,topic:security,topic:web-development,topic:testing,language:english
-2026-02-06-Voxxed Days Ticino,tech:java,topic:devops,topic:open-source,language:english
-2026-02-10-Voxxed Days CERN,tech:java,topic:devops,topic:open-source,language:english
+2026-02-02-Jfokus,tech:java,topic:web-development,topic:devops,language:english
+2026-02-06-Voxxed Days Ticino,tech:java,topic:web-development,topic:ai,topic:data,language:english
+2026-02-10-Voxxed Days CERN,tech:java,topic:web-development,topic:ai,topic:data,language:english
 2026-03-10-JavaLand,tech:java,topic:web-development,topic:devops,language:german
-2026-03-20-PyCascades 2026,tech:python,topic:data,topic:ai,language:english
-2026-03-24-Voxxed Days Zurich,tech:java,topic:devops,topic:open-source,language:english
-2026-04-13-Spring I/O,tech:java,topic:cloud,topic:devops,language:spanish
-2026-04-13-PyCon DE & PyData 2026,tech:python,tech:data,topic:data,topic:ai,language:german
-2026-04-17-PyTexas Conference,tech:python,topic:data,topic:ai,language:english
+2026-03-20-PyCascades 2026,tech:python,topic:web-development,topic:data,topic:ai,language:english
+2026-03-24-Voxxed Days Zurich,tech:java,topic:web-development,topic:ai,topic:data,language:english
+2026-04-13-Spring I/O,tech:java,tech:spring,topic:cloud,topic:devops,language:spanish
+2026-04-17-PyTexas Conference,tech:python,topic:software-development,topic:data,topic:open-source,language:english
+2026-04-13-PyCon DE & PyData 2026,tech:python,topic:data-science,topic:machine-learning,language:english

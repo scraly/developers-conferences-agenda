@@ -58,18 +58,14 @@ function readConferences(allEventsFile) {
     .sort((a, b) => a.date.localeCompare(b.date));
 }
 
-/**
- * Use OVHcloud AI Endpoint with qwen-2-5-coder-32b-instruct LLM to infer tags for a batch of conferences
+/*
+ * Build system prompt with history
  */
-async function inferTagsBatchWithAI(confBatch) {
-  // Create the batch prompt
-  const prompt = `
-Based on the TAGS.csv format, infer appropriate tags for each conference:
-${confBatch.map((c, i) => `
-${i + 1}. Name: ${c.name}
-   Location: ${c.location}
-   URL: ${c.url}`).join('')}
-Use the same tag categories from TAGS.csv:
+//TODO: optimize the number of tags history
+function buildSystemPrompt(tagsFile, maxOldTags = 1000) {
+    let prompt = `You are an assistant that classifies tech conferences using tags.
+
+    Use the same tag categories from TAGS.csv:
 - tech: (javascript, python, java, rust, go, php, ruby, docker, kubernetes, aws, azure, gcp, etc.)
 - topic: (security, web-development, devops, mobile, ai, data, cloud, open-source, testing, etc.)  
 - language: (english, french, spanish, german, dutch, italian, portuguese, etc.)
@@ -85,9 +81,68 @@ Multiple tags of the same type should be repeated, for example:
 3. tech:python,topic:web-development,topic:ai,language:english
 
 Only return the numbered list with tags, nothing else.
+
+You already generated tags for a lof of existing conferences in your history.
+The format of your history is:
+date-conference name,tags
+
+Example of your history:
+1. 2026-04-17-PyTexas Conference,tech:python,topic:software-development,topic:data,topic:open-source,language:english
+
+`
+
+  if (fs.existsSync(tagsFile)) {
+    const data = fs.readFileSync(tagsFile, 'utf-8').split('\n').slice(1).filter(Boolean);
+
+    const oldTags = data.slice(-maxOldTags);
+
+    if (oldTags.length > 0) {
+      prompt += `\n\nHere are some past oldTags:\n`;
+      oldTags.forEach((line, i) => {
+        prompt += `${i + 1}. ${line}\n`
+      });
+    }
+
+    prompt += `\n\nUse consistent logic based on past oldTags.\n`;
+  }
+
+  return prompt;
+}
+
+/**
+ * Use OVHcloud AI Endpoint with qwen-2-5-coder-32b-instruct LLM to infer tags for a batch of conferences
+ */
+async function inferTagsBatchWithAI(confBatch, tagsFile) {
+
+//console.log(confBatch)
+
+  // Create the system prompt
+const systemPrompt = buildSystemPrompt(tagsFile);
+
+  // Create the user prompt
+  const userPrompt = `
+Based on the tags format, infer appropriate tags for each conference:
+${confBatch.map((c, i) => `
+${i + 1}. Name: ${c.name}
+   Location: ${c.location}
+   URL: ${c.url}`).join('')}
+
+Return the results in this exact format, one line per conference:
+1. tech:javascript,language:english
+2. topic:security,language:french
+3. tech:python,language:english
+etc.
+
+Multiple tags of the same type should be repeated, for example:
+
+3. tech:python,topic:web-development,topic:ai,language:english
+
+Only return the numbered list with tags, nothing else.
 `;
 
-  try {
+//console.log(userPrompt)
+
+try {
       const res = await fetch(process.env.OVH_AI_ENDPOINTS_MODEL_URL, {
         method: 'POST',
         headers: {
@@ -98,8 +153,14 @@ Only return the numbered list with tags, nothing else.
           model: process.env.OVH_AI_ENDPOINTS_MODEL_NAME,
           temperature: 0.0,
           top_P: 1.0,
-          messages: [{ role: 'user', content: prompt }],
-          max_tokens: 1000
+          messages: [
+            {
+              //System prompt adds more stability to the inferences
+              role: 'system', content: systemPrompt,
+              role: 'user', content: userPrompt 
+            }
+          ],
+          max_tokens: 32000
         })
     });
 
@@ -173,7 +234,7 @@ async function main() {
     const batch = conferencesToProcess.slice(i, i + batchSize);
     console.error(`# Batch ${i / batchSize + 1}: ${batch.length} conferences`);
 
-    const tags = await inferTagsBatchWithAI(batch);
+    const tags = await inferTagsBatchWithAI(batch, tagsFile);
 
     for (let j = 0; j < batch.length; j++) {
       const conf = batch[j];
