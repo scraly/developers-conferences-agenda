@@ -228,7 +228,7 @@ ${generateTagsCsvLines()}
       return;
     }
 
-    const title = encodeURIComponent(`Add new event: ${formData.name}`);
+    const title = encodeURIComponent(`[New event] ${formData.startDate}: ${formData.name}`);
     const body = generateIssueBody();
     
     const githubUrl = `https://github.com/scraly/developers-conferences-agenda/issues/new?title=${title}&body=${body}&labels=new-event`;
