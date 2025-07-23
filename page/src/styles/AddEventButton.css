@@ -13,15 +13,19 @@
   transition: background-color 0.2s, transform 0.1s;
   height: 42px;
   box-sizing: border-box;
+  position: absolute;
+  right: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .add-event-button:hover {
   background-color: #218838;
-  transform: translateY(-1px);
+  transform: translateY(calc(-50% - 1px));
 }
 
 .add-event-button:active {
-  transform: translateY(0);
+  transform: translateY(-50%);
 }
 
 .add-event-text {
@@ -39,5 +43,17 @@
     height: 42px;
     padding: 0;
     justify-content: center;
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .add-event-button:hover {
+    transform: translateY(calc(-50% - 1px));
+  }
+  
+  .add-event-button:active {
+    transform: translateY(-50%);
   }
 }
