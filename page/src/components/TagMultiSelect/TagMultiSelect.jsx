@@ -3,7 +3,7 @@ import Select from 'react-select';
 import { useTags } from 'app.hooks';
 import 'styles/TagMultiSelect.css';
 
-const TagMultiSelect = ({ selectedTags, onChange }) => {
+const TagMultiSelect = ({ selectedTags, onChange, showSelectedTags = true }) => {
   const tags = useTags();
 
   const options = useMemo(() => {
@@ -91,14 +91,17 @@ const TagMultiSelect = ({ selectedTags, onChange }) => {
       ...provided,
       zIndex: 9999999
     }),
-    multiValue: () => ({
-      display: 'none'
+    multiValue: (provided) => ({
+      ...provided,
+      display: showSelectedTags ? 'flex' : 'none'
     }),
-    multiValueLabel: () => ({
-      display: 'none'
+    multiValueLabel: (provided) => ({
+      ...provided,
+      display: showSelectedTags ? 'block' : 'none'
     }),
-    multiValueRemove: () => ({
-      display: 'none'
+    multiValueRemove: (provided) => ({
+      ...provided,
+      display: showSelectedTags ? 'flex' : 'none'
     }),
     groupHeading: (provided) => ({
       ...provided,
@@ -123,7 +126,7 @@ const TagMultiSelect = ({ selectedTags, onChange }) => {
         classNamePrefix="tag-multiselect"
         styles={customStyles}
         closeMenuOnSelect={false}
-        hideSelectedOptions={false}
+        hideSelectedOptions={true}
         menuPortalTarget={typeof document !== 'undefined' ? document.body : null}
         menuPosition="fixed"
       />

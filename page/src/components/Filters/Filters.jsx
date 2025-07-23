@@ -95,6 +95,7 @@ const Filters = ({ view }) => {
             <TagMultiSelect
               onChange={handleTagsChange}
               selectedTags={selectedTags}
+              showSelectedTags={false}
             />
             <SelectedTags
               onRemoveTag={handleRemoveTag}

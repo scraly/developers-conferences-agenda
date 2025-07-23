@@ -1,0 +1,43 @@
+.add-event-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: background-color 0.2s, transform 0.1s;
+  height: 42px;
+  box-sizing: border-box;
+}
+
+.add-event-button:hover {
+  background-color: #218838;
+  transform: translateY(-1px);
+}
+
+.add-event-button:active {
+  transform: translateY(0);
+}
+
+.add-event-text {
+  white-space: nowrap;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .add-event-text {
+    display: none;
+  }
+  
+  .add-event-button {
+    width: 42px;
+    height: 42px;
+    padding: 0;
+    justify-content: center;
+  }
+}
