@@ -1060,3 +1060,62 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-06-27-The Perl & Raku Conference in Greenville, SC 2025,tech:perl,tech:raku,topic:programming,language:english
 2025-07-03-Perl Community Conference, Summer 2025,tech:perl,topic:programming,language:english
 2025-11-05-DevCon 2025 | Bucharest, Romania,topic:software-development,topic:tech,language:english,language:romanian
+2025-07-25-PyCon Russia 2025,tech:python,topic:data,topic:open-source,language:english
+2025-07-26-PyOhio 2025,tech:python,topic:data,topic:open-source,language:english
+2025-08-08-Buea - Creating Python Communities and outreach,tech:python,topic:community-building,language:english
+2025-08-11-DjangoCon Africa 2025,tech:python,topic:web-development,topic:data,language:english
+2025-08-15-PyCon Korea 2025,tech:python,topic:data,topic:open-source,language:korean
+2025-08-18-EuroSciPy 2025,tech:python,tech:scipy,topic:data-science,topic:scientific-computing,language:english
+2025-08-23-StatusCode 2 Hackathon,topic:hackathon,topic:community-building,language:english
+2025-08-28-PyCon Kenya 2025,tech:python,topic:data,topic:open-source,language:english
+2025-08-28-PyCon Poland 2025,tech:python,topic:data,topic:open-source,language:polish
+2025-09-01-Limbe - Creating Python Communities and outreach,tech:python,topic:community-building,language:english
+2025-09-01-PyData Berlin 2025,tech:python,topic:data,topic:statistics,language:english
+2025-09-06-PyCon Taiwan,tech:python,topic:data,topic:open-source,language:chinese-mandarin
+2025-09-09-PyCon Israel 2025,tech:python,topic:data,topic:open-source,language:hebrew
+2025-09-12-PyCon AU 2025,tech:python,topic:data,topic:open-source,language:english
+2025-09-13-PyCon Niger 2025,tech:python,topic:data,topic:open-source,language:french
+2025-09-19-PyCon UK 2025,tech:python,topic:data,topic:open-source,language:english
+2025-09-24-PyData Amsterdam 2025,tech:python,topic:data,topic:statistics,language:dutch
+2025-09-25-PyCon Ghana 2025,tech:python,topic:data,topic:open-source,language:english
+2025-09-26-PyCon JP 2025,tech:python,topic:data,topic:open-source,language:japanese
+2025-09-27-Building Python Community in Northern Nigeria,tech:python,topic:community-building,language:english
+2025-09-30-PyData Paris 2025,tech:python,topic:data,topic:statistics,language:french
+2025-10-01-Yaounde - Creating Python Communities and outreach,tech:python,topic:community-building,language:english
+2025-10-02-PyCon Estonia 2025,tech:python,topic:data,topic:open-source,language:estonian
+2025-10-02-PyCon Nigeria 2025,tech:python,topic:data,topic:open-source,language:english
+2025-10-04-Django Girls Aba,tech:python,topic:teaching,topic:open-source,language:english
+2025-10-06-Python-Driven E-Commerce Forum 2025,tech:python,topic:e-commerce,topic:web-development,language:english
+2025-10-11-PyCon Hong Kong 2025,tech:python,topic:data,topic:open-source,language:cantonese
+2025-10-14-EARL 2025,tech:ruby,topic:rails,topic:web-development,language:english
+2025-10-16-PyCon NL,tech:python,topic:data,topic:open-source,language:dutch
+2025-10-17-PyCon Thailand 2025,tech:python,topic:data,topic:open-source,language:thai
+2025-10-17-OpenInfra Summit Europe,tech:open-source,topic:devops,language:french
+2025-10-21-PyData Vermont 2025,tech:python,topic:data,language:english
+2025-10-21-Python Brasil 2025,tech:python,topic:data,language:portuguese
+2025-10-30-PyCon Sweden,tech:python,topic:data,language:swedish
+2025-11-01-PyCon Malaysia 2025,tech:python,topic:data,language:malay
+2025-11-03-JupyterCon 2025,tech:jupyter,topic:data,language:english
+2025-11-05-PyData Tel Aviv 2025,tech:python,topic:data,language:hebrew
+2025-11-05-DevCon 2025 | Bucharest, Romania,topic:devops,language:romanian
+2025-11-15-PyCon Ireland 2025,tech:python,topic:data,language:english
+2025-11-18-React Summit,tech:javascript,topic:web-development,language:english
+2025-11-18-XtremePython 2025,tech:python,topic:data,language:english
+2025-11-18-Open Forum Academy,topic:data,language:portuguese
+2025-11-21-Python Sul 2025,topic:devops,language:portuguese
+2025-11-21-Kiwi PyCon 2025,tech:python,topic:data,language:english
+2025-11-29-DevFest Bari 2025,tech:android,tech:web,topic:data,tech:ioutil,topic:mobile,topic:cloud,technology:gcp,language:italian
+2025-12-05-PyLadiesCon 2025,tech:python,topic:community,language:english
+2025-12-09-PyData Eindhoven 2025,tech:python,topic:data,language:dutch
+2025-12-09-PyData Global 2025,tech:python,topic:data,language:english
+2026-01-22-jChampions,tech:jira,topic:productivity,language:english
+2026-02-02-Jfokus,tech:java,tech:kotlin,topic:data,technology:aws,topic:devops,topic:ai,topic:security,topic:web-development,topic:testing,language:english
+2026-02-06-Voxxed Days Ticino,tech:java,topic:big-data,topic:testing,topic:cloud,topic:agile,topic:devops,language:italian
+2026-02-10-Voxxed Days CERN,tech:java,topic:cloud,topic:web,topic:database,topic:devops,topic:testing,topic:data,language:english
+2026-03-10-JavaLand,tech:java,topic:web-development,topic:data,topic:mobile,topic:agile,topic:devops,language:german
+2026-03-20-PyCascades 2026,tech:python,topic:data,language:english
+2026-03-24-Voxxed Days Zurich,tech:java,topic:cloud,topic:web,topic:database,topic:devops,topic:testing,topic:data,language:english
+2026-04-13-Spring I/O,tech:spring,topic:data,topic:web-development,topic:cloud,language:spanish
+2026-04-13-PyCon DE & PyData 2026,tech:python,tech:jupyter,topic:data,topic:web-development,language:german
+2026-04-17-PyTexas Conference ,tech:python,topic:data,topic:web-development,language:english
+2025-11-05-DevCon 2025 | Bucharest, Romania,tech:javascript,tech:python,tech:java,tech:golang,topic:web-development,topic:devops,topic:data,language:english
