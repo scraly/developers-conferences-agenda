@@ -109,11 +109,13 @@ const AddEventForm = ({ isOpen, onClose }) => {
   };
 
   const formatDateForReadme = (dateString) => {
+    const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
+    ];
     const date = new Date(dateString);
     const day = String(date.getDate()).padStart(2, '0');
-    const month = String(date.getMonth() + 1).padStart(2, '0');
+    const monthName = monthNames[date.getMonth()]
     const year = date.getFullYear();
-    return `${day}-${month}-${year}`;
+    return `${day}-${monthName}-${year}`;
   };
 
   const generateReadmeLine = () => {
