@@ -1110,9 +1110,9 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-02-02-Jfokus,tech:java,topic:web-development,topic:devops,language:english
 2026-02-06-Voxxed Days Ticino,tech:java,topic:web-development,topic:ai,topic:data,language:english
 2026-02-10-Voxxed Days CERN,tech:java,topic:web-development,topic:ai,topic:data,language:english
-2026-03-10-JavaLand,tech:java,topic:web-development,topic:devops,language:german
-2026-03-20-PyCascades 2026,tech:python,topic:web-development,topic:data,topic:ai,language:english
-2026-03-24-Voxxed Days Zurich,tech:java,topic:web-development,topic:ai,topic:data,language:english
-2026-04-13-Spring I/O,tech:java,tech:spring,topic:cloud,topic:devops,language:spanish
-2026-04-17-PyTexas Conference,tech:python,topic:software-development,topic:data,topic:open-source,language:english
+2026-03-10-JavaLand,tech:java,language:german
+2026-03-20-PyCascades 2026,tech:python,topic:data,topic:open-source,language:english
+2026-03-24-Voxxed Days Zurich,tech:java,tech:kotlin,tech:scala,topic:cloud,topic:devops,language:english
+2026-04-13-Spring I/O,tech:spring,topic:microservices,topic:cloud-native,language:english
 2026-04-13-PyCon DE & PyData 2026,tech:python,topic:data,topic:open-source,language:english
+2026-04-17-PyTexas Conference,tech:python,topic:data,topic:open-source,language:english

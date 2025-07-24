@@ -99,7 +99,13 @@ Forbidden tags:
 
 
     prompt += `
-    
+
+Historical consistency rules:
+- If a conference already exists in the history (e.g., same name in a previous year), REUSE the same tags when still relevant.
+- Pay special attention to \`language:\` — it should remain consistent between editions unless a language switch is explicitly clear.
+- Example: If "PyCon DE & PyData 2025" had \`language:english\`, then "PyCon DE & PyData 2026" should also have \`language:english\`, unless evidence proves otherwise.
+- Prioritize consistency with historical data over assumptions based on city or country.
+
 Guidelines:
 - Use conference name and URL to infer likely topics or technologies (e.g. “PyCon” implies "tech:python").
 - Use location to infer language (e.g. Germany → likely \`language:english\` or \`language:german\`, but check consistency with past editions).
@@ -139,8 +145,12 @@ ${i + 1}. Name: ${c.name}
    Location: ${c.location}
    URL: ${c.url}`).join('')}
 
+If these conferences already existed in previous years. Use tags from previous editions if consistent.
+
 Return only the tag line in this exact format:
 1. tech:python,topic:data,topic:open-source,language:english
+
+Ignore the location field when generating tags. It is only used to help guess the language.
 
 Only return the numbered list with comma-separated tags. No extra explanation or formatting.
 `;
