@@ -63,34 +63,26 @@ function readConferences(allEventsFile) {
  */
 //TODO: optimize the number of tags history
 function buildSystemPrompt(tagsFile, maxOldTags = 1500) {
-    let prompt = `You are an assistant that classifies tech conferences using tags.
+    let prompt = `You are a tagging assistant specialized in classifying technical conferences using structured tags.
 
-    Use the same tag categories from TAGS.csv:
-- tech: (javascript, python, java, rust, go, php, ruby, docker, kubernetes, aws, azure, gcp, etc.)
-- topic: (security, web-development, devops, mobile, ai, data, cloud, open-source, testing, etc.)  
-- language: (english, french, spanish, german, dutch, italian, portuguese, etc.)
+Your goal is to assign relevant tags to each conference using the format and tag vocabulary defined below. You also have access to a history of previously tagged conferences — use it to infer consistent tagging patterns and avoid hallucinations.
 
-Return the results in this exact format, one line per conference:
-1. tech:javascript,language:english
-2. topic:security,language:french
-3. tech:python,language:english
-etc.
+Tag format rules:
+- Use comma-separated key:value tags.
+- Always include at least:
+  - 1+ \`tech\`: tags (technology stack or tools)
+  - 1+ \`topic\`: tags (themes, content areas, or focus)
+  - 1 \`language\`: tag (main conference language)
 
-Multiple tags of the same type should be repeated, for example:
+Only use these tag categories (strictly):
+- tech: (python, java, javascript, rust, go, php, ruby, docker, kubernetes, aws, azure, gcp, etc.)
+- topic: (web-development, devops, security, testing, ai, cloud, data, open-source, software-development, mobile, etc.)
+- language: (english, french, german, spanish, dutch, italian, portuguese, etc.)
 
-3. tech:python,topic:web-development,topic:ai,language:english
-
-Only return the numbered list with tags, nothing else.
-
-You already generated tags for a lof of existing conferences in your history.
-The format of your history is:
-date-conference name,tags
-
-Example of your history:
-1. 2026-04-17-PyTexas Conference,tech:python,topic:software-development,topic:data,topic:open-source,language:english
-2. 2025-04-23-PyCon DE & PyData 2025,tech:python,topic:open-source,topic:data,language:english
-
-
+Forbidden tags:
+- Never generate: location:*, country:*, region:*, city:*, continent:*, place:*
+- The location field of a conference is **never** a tag. It is only used to guess the \`language:\` tag.
+- If unsure about location-based language, choose the most likely default (e.g. Germany → english or german).
 `
 
   if (fs.existsSync(tagsFile)) {
@@ -99,13 +91,29 @@ Example of your history:
     const oldTags = data.slice(-maxOldTags);
 
     if (oldTags.length > 0) {
-      prompt += `\n\nHere are some past oldTags:\n`;
+      prompt += `\n\nHistory of past conference tags (use this for consistency):\n`;
       oldTags.forEach((line, i) => {
         prompt += `${i + 1}. ${line}\n`
       });
     }
 
-    prompt += `\n\nUse consistent logic based on past oldTags.\n`;
+
+    prompt += `
+    
+Guidelines:
+- Use conference name and URL to infer likely topics or technologies (e.g. “PyCon” implies "tech:python").
+- Use location to infer language (e.g. Germany → likely \`language:english\` or \`language:german\`, but check consistency with past editions).
+- If a conference exists in history (even previous editions), reuse or extend existing tags with similar logic.
+- When in doubt, prefer **precision over creativity**. Don't invent tags that weren't seen before unless obviously relevant.
+
+Output format:
+Only return a numbered list like this:
+1. tech:python,topic:data,topic:open-source,language:english  
+2. tech:java,topic:cloud,language:english
+
+No comments, no explanations, no extra whitespace — just the list.`
+
+    //prompt += `\n\nUse consistent logic based on past oldTags.\n`;
   }
 
   return prompt;
@@ -120,26 +128,21 @@ async function inferTagsBatchWithAI(confBatch, tagsFile) {
 
   // Create the system prompt
 const systemPrompt = buildSystemPrompt(tagsFile);
+//console.log(systemPrompt)
 
   // Create the user prompt
   const userPrompt = `
-Based on the tags format, infer appropriate tags for each conference:
+Based on the information below, generate tags in the format described.
+
 ${confBatch.map((c, i) => `
 ${i + 1}. Name: ${c.name}
    Location: ${c.location}
    URL: ${c.url}`).join('')}
 
-Return the results in this exact format, one line per conference:
-1. tech:javascript,language:english
-2. topic:security,language:french
-3. tech:python,language:english
-etc.
+Return only the tag line in this exact format:
+1. tech:python,topic:data,topic:open-source,language:english
 
-Multiple tags of the same type should be repeated, for example:
-
-3. tech:python,topic:web-development,topic:ai,language:english
-
-Only return the numbered list with tags, nothing else.
+Only return the numbered list with comma-separated tags. No extra explanation or formatting.
 `;
 
 //console.log(userPrompt)
