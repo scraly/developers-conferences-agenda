@@ -1112,3 +1112,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-26-KubeCon + CloudNativeCon NA 2026,tech:kubecon,cloud-native,topic:containers,language:english
 2027-03-15-KubeCon + CloudNativeCon Europe 2027,tech:kubecon,cloud-native,topic:containers,language:spanish
 2026-04-13-PyCon DE & PyData 2026,tech:python,topic:data,topic:open-source,language:english
+2025-09-18-GDG Alicante Devfest 2025,tech:web-development,topic:devops,topic:cloud,language:spanish
+2025-09-19-AI4Devs Amsterdam,tech:artificial-intelligence,topic:machine-learning,topic:deep-learning,language:dutch
+2025-11-05-Droidcon & Fluttercon Kenya 2025,tech:android,tech:flutter,topic:mobile-development,topic:ui-ux,language:english
