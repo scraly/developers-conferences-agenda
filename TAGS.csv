@@ -692,7 +692,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-09-18-Swiss Cloud Native Day,topic:cloud,language:german
 2025-09-18-DevOps Midwest 2025,topic:devops,language:english
 2025-09-18-SREday London 2025 Q3,topic:devops,language:english
-2025-09-18-GGD Alicante Devfest 2025,topic:web-development,language:spanish
 2025-09-18-EmberFest 2025,tech:javascript,language:english
 2025-09-18-API Platform Conference,tech:api,language:french
 2025-09-18-EuRuKo 2025,tech:ruby,language:english
@@ -1105,7 +1104,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-04-24-Great International Developer Summit 2026 (GIDS 2026),tech:developer-summit,topic:technology,language:english
 2026-05-09-Java Day Istanbul 2026,tech:java,topic:software-development,language:turkish
 2026-05-11-Web Summit Vancouver,tech:web-summit,topic:technology,language:english
-2026-05-21-DataGrillen 2026,tech:datagrillen,topic:data-management,language:german
+2026-05-21-DataGrillen 2026,tech:data,topic:data-management,language:german
 2026-06-08-Web Summit Rio,tech:web-summit,topic:technology,language:portuguese
 2026-06-17-Devoxx Poland,tech:java,topic:software-development,language:polish
 2026-07-29-KubeCon + CloudNativeCon Japan 2026,tech:kubecon,cloud-native,topic:containers,language:english
