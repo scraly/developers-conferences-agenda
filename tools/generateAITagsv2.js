@@ -175,7 +175,7 @@ try {
               role: 'user', content: userPrompt 
             }
           ],
-          max_tokens: 32000
+          max_tokens: 30000
         })
     });
 
