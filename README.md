@@ -45,7 +45,7 @@ All the data (past and coming) are available publicly in JSON:
 * 3: [KCD Utrecht](https://kcdutrecht.nl/) - Utrecht (Netherlands) <a href="https://sessionize.com/kcd-utrecht-2025/"><img alt="CFP KCD Utrecht 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Apr-2025&color=red"></a>
 * 3: [Women in Tech Montreal - OutGeekWomen](https://www.eventbrite.fr/e/women-in-tech-montreal-outgeekwomen-tickets-1146225113169?aff=ebdssbdestsearch&keep_tld=1) - Montreal (Canada)
 * 3-4: [Agile On The Beach 2025](https://www.agileonthebeach.com) - Falmouth (UK) <a href="https://sessionize.com/agile-on-the-beach-2025/"><img alt="CFP Agile On The Beach 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2024&color=red"></a>
-* 3-4: [Perl Community Conference, Summer 2025](https://perlcommunity.org) - Austin, TX (USA) <a href="https://www.papercall.io/perlcommunity"><img alt="CFP Perl Community Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2025&color=red"></a>
+* 3-4: [Perl Community Conference Summer 2025](https://perlcommunity.org) - Austin, TX (USA) <a href="https://www.papercall.io/perlcommunity"><img alt="CFP Perl Community Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2025&color=red"></a>
 * 3-5: [Web Summer Camp 2025](https://websummercamp.com/2025) - Opatija (Croatia) <a href="https://sessionize.com/web-summer-camp-2025/"><img alt="CFP Web Summer Camp 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2025&color=red"></a>
 * 4: [re:connect conference 2025](https://reconnectconference.co.uk/) - Bournemouth (UK) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeWAzEEZaIneoWltLyC3izHYXaRT2qoVyFXcbLkl9aS_okp7Q/closedform"><img alt="re:connect conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-February-2025&color=red"></a>
 * 4: [JavaDay Lviv 2025 Online](https://www.javaday.org.ua/) - Lviv (Ukraine) <a href="https://www.papercall.io/javaday-lviv-2025"><img alt="CFP JavaDay Lviv 2025 Online" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-June-2025&color=red"></a>
@@ -454,7 +454,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4-7: [TechBash 2025](https://techbash.com/) - Pocono Manor, PA (USA) <a href="https://sessionize.com/techbash2025/"><img alt="CFP TechBash 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
 * 5: [PyData Tel Aviv 2025](https://pydata.org/telaviv2025) - Tel Aviv (Israel)
 * 5-6: [Tech Show Paris](https://www.techshowparis.fr/) - Paris (France)
-* 5-6: [DevCon 2025 | Bucharest, Romania](https://www.dev-con.ro/) - Bucharest (Romania) <a href="https://www.papercall.io/devcon2025"><img alt="CFP DevCon 2025 | Bucharest, Romania" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2025&color=green"></a>
+* 5-6: [DevCon 2025](https://www.dev-con.ro/) - Bucharest (Romania) <a href="https://www.papercall.io/devcon2025"><img alt="CFP DevCon 2025 | Bucharest, Romania" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2025&color=green"></a>
 * 5-7: [Øredev 2025](http://oredev.org) - Malmo (Sweden) <a href="https://sessionize.com/oredev-2025"><img alt="CFP Øredev 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
 * 6: [dotAI 2025](https://www.dotai.io/) - Paris (France) <a href="https://www.dotai.io/speak"><img alt="CFP dotAI 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
 * 6: [Conf42.com Prompt Engineering 2025](https://www.conf42.com/prompt2025) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2025"><img alt="CFP Conf42.com Prompt Engineering 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-October-2025&color=green"></a>
@@ -634,7 +634,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-15: [Spring I/O](https://2025.springio.net/) - Barcelona (Spain)
 * 13-17: [PyCon DE & PyData 2026](https://2026.pycon.de/) - Darmstadt (Germany)
 * 14-15: [Green IO Singapore](https://greenio.tech/conference/18/singapore-2026-april-green-it) - Singapore (Singapore) <a href="https://apidays.typeform.com/to/SMHd2wFE?=green-io-conference%3Dcall-for-speakers&typeform-source=greenio.tech"><img alt="CFP Green IO Singapore 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2026&color=green"></a>
-* 17-19: [PyTexas Conference ](https://www.pytexas.org/2026/) - Austin, TX (USA)
+* 17-19: [PyTexas Conference](https://www.pytexas.org/2026/) - Austin, TX (USA)
 * 20-23: [JCON EUROPE 2026](https://2026.europe.jcon.one/) - Cologne (Germany)
 * 22-24: [Devoxx France 2026](https://www.devoxx.fr) - Paris (France)
 * 23-25: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece)
