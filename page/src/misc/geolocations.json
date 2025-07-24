@@ -823,6 +823,10 @@
     "latitude": 37.0162727,
     "longitude": -7.9351771
   },
+  "Feira de Santana (Brazil)": {
+    "latitude": -12.2578934,
+    "longitude": -38.9598047
+  },
   "Florence (Italy)": {
     "latitude": 43.7698712,
     "longitude": 11.2555757
@@ -866,6 +870,10 @@
   "Gabrovo (Bulgaria)": {
     "latitude": 42.9638895,
     "longitude": 25.211953846464205
+  },
+  "Garanhuns (Brazil)": {
+    "latitude": -8.8905889,
+    "longitude": -36.4930896
   },
   "Gardanne (France)": {
     "latitude": 43.455613,
@@ -2602,6 +2610,10 @@
   "Winnipeg, MB (Canada)": {
     "latitude": 49.8954221,
     "longitude": -97.1385145
+  },
+  "Winterthur (Switzerland)": {
+    "latitude": 47.5126019,
+    "longitude": 8.7624853
   },
   "Winterthur, Zurich (Switzerland)": {
     "latitude": 47.4988196,
