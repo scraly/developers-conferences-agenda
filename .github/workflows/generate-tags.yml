@@ -26,7 +26,7 @@ jobs:
         env:
           OVH_AI_ENDPOINTS_ACCESS_TOKEN: ${{ secrets.OVH_AI_ENDPOINTS_ACCESS_TOKEN }}
           OVH_AI_ENDPOINTS_MODEL_URL: ${{ vars.OVH_AI_ENDPOINTS_MODEL_URL }}
-          OVH_AI_ENDPOINTS_MODEL_NAME: ${{.vars.OVH_AI_ENDPOINTS_MODEL_NAME }}
+          OVH_AI_ENDPOINTS_MODEL_NAME: ${{ vars.OVH_AI_ENDPOINTS_MODEL_NAME }}
         run: |
           npm install -D
           node mdValidator.js
