@@ -287,6 +287,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29-2/10: [Jax New York](https://devm.io/jaxnewyork/) - New York, NY (USA)
 * 29-2/10: [dev2next](https://www.dev2next.com/) - Colorado Springs, CO (USA) <a href="https://www.dev2next.com/cfp"><img alt="CFP dev2next 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-April-2025&color=red"></a>
 * 29-3/10: [Platform Engineering Summit – DevOpsCon 2025](https://devopscon.io/platform-engineering-summit/) - New York, NY (USA)
+* 30: [Civo Navigate London](https://www.civo.com/navigate/london/2025) - London (UK)
 * 30-1/10: [PyData Paris 2025](https://pydata.org/paris2025) - Paris (France)
 * 30-1/10: [devopsdays Philadelphia](https://devopsdays.org/events/2025-philadelphia/welcome/) - Philadelphia, PA (USA)
 
