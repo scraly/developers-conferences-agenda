@@ -1114,30 +1114,30 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-09-18-GDG Alicante Devfest 2025,tech:web-development,topic:devops,topic:cloud,language:spanish
 2025-09-19-AI4Devs Amsterdam,tech:artificial-intelligence,topic:machine-learning,topic:deep-learning,language:dutch
 2025-11-05-Droidcon & Fluttercon Kenya 2025,tech:android,tech:flutter,topic:mobile-development,topic:ui-ux,language:english
-2025-08-13-DevOpsDays Kansas City 2025,tech:devops,topic:automation,topic:cloud,language:english
-2025-08-21-devopsdays Lima,tech:devops,topic:automation,topic:cloud,language:spanish
-2025-08-26-devopsdays Halifax,tech:devops,topic:automation,topic:cloud,language:english
-2025-09-03-devopsdays Ukraine,tech:devops,topic:automation,topic:cloud,language:ukrainian
-2025-09-09-devopsdays seattle,tech:devops,topic:automation,topic:cloud,language:english
-2025-09-10-devopsdays Vilnius,tech:devops,topic:automation,topic:cloud,language:lithuanian
-2025-09-13-devopsdays Ljubljana,tech:devops,topic:automation,topic:cloud,language:slovenian
-2025-09-17-devopsdays Washington, DC,tech:devops,topic:automation,topic:cloud,language:english
-2025-09-20-devopsdays Brasília,tech:devops,topic:automation,topic:cloud,language:portuguese
-2025-09-23-DevOpsDays London 2025,tech:devops,topic:automation,topic:cloud,language:english
-2025-09-27-devopsdays Cairo,tech:devops,topic:automation,topic:cloud,language:arabic
-2025-09-27-devopsdays Juiz de Fora,tech:devops,topic:automation,topic:cloud,language:portuguese
-2025-09-30-devopsdays Philadelphia,tech:devops,topic:automation,topic:cloud,language:english
-2025-10-02-devopsdays Des Moines,tech:devops,topic:automation,topic:cloud,language:english
-2025-10-11-devopsdays Fortaleza,tech:devops,topic:automation,topic:cloud,language:portuguese
-2025-10-14-devopsdays Montréal,tech:devops,topic:automation,topic:cloud,language:french
-2025-10-18-devopsdays Campinas,tech:devops,topic:automation,topic:cloud,language:portuguese
-2025-10-20-devopsdays Garanhuns,tech:devops,topic:automation,topic:cloud,language:portuguese
-2025-11-04-devopsdays Warsaw,tech:devops,topic:automation,topic:cloud,language:polish
-2025-11-13-DevOps Talks Conference 2025,tech:devops,topic:automation,topic:cloud,language:english
-2025-11-22-devopsdays São Paulo,tech:devops,topic:automation,topic:cloud,language:portuguese
-2025-11-29-devopsdays Porto Alegre,tech:devops,topic:automation,topic:cloud,language:portuguese
+2025-08-13-DevOpsDays Kansas City 2025,tech:devops,language:english
+2025-08-21-devopsdays Lima,tech:devops,language:spanish
+2025-08-26-devopsdays Halifax,tech:devops,language:english
+2025-09-03-devopsdays Ukraine,tech:devops,language:ukrainian
+2025-09-09-devopsdays seattle,tech:devops,language:english
+2025-09-10-devopsdays Vilnius,tech:devops,language:lithuanian
+2025-09-13-devopsdays Ljubljana,tech:devops,language:slovenian
+2025-09-17-devopsdays Washington, DC,tech:devops,language:english
+2025-09-20-devopsdays Brasília,tech:devops,language:portuguese
+2025-09-23-DevOpsDays London 2025,tech:devops,language:english
+2025-09-27-devopsdays Cairo,tech:devops,language:arabic
+2025-09-27-devopsdays Juiz de Fora,tech:devops,language:portuguese
+2025-09-30-devopsdays Philadelphia,tech:devops,language:english
+2025-10-02-devopsdays Des Moines,tech:devops,language:english
+2025-10-11-devopsdays Fortaleza,tech:devops,language:portuguese
+2025-10-14-devopsdays Montréal,tech:devops,language:french
+2025-10-18-devopsdays Campinas,tech:devops,language:portuguese
+2025-10-20-devopsdays Garanhuns,tech:devops,language:portuguese
+2025-11-04-devopsdays Warsaw,tech:devops,language:polish
+2025-11-13-DevOps Talks Conference 2025,tech:devops,language:english
+2025-11-22-devopsdays São Paulo,tech:devops,language:portuguese
+2025-11-29-devopsdays Porto Alegre,tech:devops,language:portuguese
 2025-12-01-AWS re:Invent 2025,tech:aws,topic:cloud,topic:serverless,language:english
-2025-12-06-devopsdays Florianópolis,tech:devops,topic:automation,topic:cloud,language:portuguese
-2026-05-06-devopsdays Zurich,tech:devops,topic:automation,topic:cloud,language:german
-2026-05-21-devopsdays Geneva,tech:devops,topic:automation,topic:cloud,language:french,language:english
-2026-06-06-devopsdays Feira de Santana,tech:devops,topic:automation,topic:cloud,language:portuguese
+2025-12-06-devopsdays Florianópolis,tech:devops,language:portuguese
+2026-05-06-devopsdays Zurich,tech:devops,language:german
+2026-05-21-devopsdays Geneva,tech:devops,language:french,language:english
+2026-06-06-devopsdays Feira de Santana,tech:devops,language:portuguese
