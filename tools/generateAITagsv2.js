@@ -81,6 +81,7 @@ Only use these tag categories (strictly):
 
 Forbidden tags:
 - Never generate: location:*, country:*, region:*, city:*, continent:*, place:*
+- The \`topic\` tag can't have \`conference\` in value.
 - The location field of a conference is **never** a tag. It is only used to guess the \`language:\` tag.
 - If unsure about location-based language, choose the most likely default (e.g. Germany → english or german).
 `
