@@ -141,6 +141,7 @@ All the data (past and coming) are available publicly in JSON:
 * 25-27: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) - Amsterdam (Netherlands)
 * 25-27: [Sikkerhetsfestivalen 2025](https://sikkerhetsfestivalen.no/) - Lillehammer (Norway) <a href="https://sessionize.com/sikkerhetsfestivalen-2025/"><img alt="CFP Sikkerhetsfestivalen 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2025&color=red"></a>
 * 25-27: [CAST 2025: Leading the Quality (R)Evolution](https://associationforsoftwaretesting.org/81898-2/) - Salt Lake City, UT (USA) <a href="https://www.papercall.io/cast2025"><img alt="CFP CAST 2025: Leading the Quality (R)Evolution" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
+* 25-27: [SHAKA Biarritz](https://shaka.events) - Biarritz (France)
 * 26: [.NET Day Switzerland 2025](https://dotnetday.ch/) - Zurich (Switzerland) <a href="https://sessionize.com/net-day-switzerland-2025"><img alt="CFP .NET Day Switzerland 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
 * 26: [gRPConf 2025](https://events.linuxfoundation.org/grpconf/) - Sunnyvale, CA (USA) <a href="https://sessionize.com/grpconf-2025"><img alt="CFP gRPConf 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-May-2025&color=red"></a>
 * 26-27: [devopsdays Halifax](https://devopsdays.org/events/2025-halifax/welcome/) - Halifax, NS (Canada)
