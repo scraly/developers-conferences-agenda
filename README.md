@@ -292,6 +292,7 @@ All the data (past and coming) are available publicly in JSON:
 * 30: [Civo Navigate London](https://www.civo.com/navigate/london/2025) - London (UK)
 * 30-1/10: [PyData Paris 2025](https://pydata.org/paris2025) - Paris (France)
 * 30-1/10: [devopsdays Philadelphia](https://devopsdays.org/events/2025-philadelphia/welcome/) - Philadelphia, PA (USA)
+* 30-02/10: [SecTor 2025](https://www.blackhat.com/sector/2025/) - Toronto (Canada)
 
 ### October
 
@@ -597,6 +598,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1-4: [ESPC25](https://www.sharepointeurope.com) - Dublin (Ireland) <a href="https://sessionize.com/espc25"><img alt="CFP ESPC25" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-March-2025&color=red"></a>
 * 1-5: [AWS re:Invent 2025](https://reinvent.awsevents.com/) - Las Vegas, NV (USA)
 * 2: [JakartaOne Livestream 2025](https://jakartaone.org/2025/) - Online <a href="https://sessionize.com/jakartaone-livestream-2025/"><img alt="CFP JakartaOne Livestream" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2025&color=green"></a>
+* 2-4: [Black hat Middle east and Africa](https://blackhatmea.com/) -  Malham (Saudi Arabia)
 * 2-4: [WPC 2025](https://www.wpc.education/) - Milan (Italy) <a href="https://sessionize.com/wpc-2025"><img alt="CFP WPC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-July-2025&color=red"></a>
 * 3-4: [Power Conference 2025](https://www.powerconference.cz/) - Prague (Czech Republic) <a href="https://sessionize.com/power-conference-2025"><img alt="CFP Power Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=red"></a>
 * 3-5: [Build Stuff 2025 Lithuania](http://buildstuff.events) - Vilnius (Lithuania) <a href="https://sessionize.com/build-stuff-2025"><img alt="CFP Build Stuff 2025 Lithuania" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
@@ -611,6 +613,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-10: [AI_dev: Open Source GenAI & ML Summit Japan](https://events.linuxfoundation.org/ai-dev-japan/) - Tokyo (Japan) <a href="https://events.linuxfoundation.org/ai-dev-japan/program/cfp/"><img alt="CFP AI_dev: Open Source GenAI & ML Summit Japan" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2025&color=green"></a>
 * 8-10: [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) - Tokyo (Japan) <a href="https://events.linuxfoundation.org/open-source-summit-japan/program/cfp/"><img alt="CFP Open Source Summit Japan" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2025&color=green"></a>
 * 8-10: [Automotive Linux Summit](https://events.linuxfoundation.org/automotive-linux-summit/) - Tokyo (Japan) <a href="https://events.linuxfoundation.org/automotive-linux-summit/program/cfp/"><img alt="CFP Automotive Linux Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2025&color=green"></a>
+* 8-11: [Black Hat Europe 2025](https://www.blackhat.com/eu-25/) - London (UK) <a href="https://europe-briefings-cfp.blackhat.com/"><img alt="CFP Black hat Europe 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-August-2025&color=green"></a>
 * 9: [PyData Eindhoven 2025](https://pydata.org/eindhoven2025) - Eindhoven (Netherlands) <a href="https://cfp.pydata.org/pydata-eindhoven-2025/cfp"><img alt="CFP PyData Eindhoven 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-October-2025&color=green"></a>
 * 9-11: [APIdays Paris](https://www.apidays.global/paris/) - Paris (France) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-December-2025&color=green"></a>
 * 9-11: [PyData Global 2025](https://pydata.org/global2025/) - Online <a href="https://cfp.pydata.org/pydataglobal2025/cfp"><img alt="CFP PyData Global 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-July-2025&color=red"></a>
