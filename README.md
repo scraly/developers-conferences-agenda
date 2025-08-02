@@ -101,6 +101,7 @@ All the data (past and coming) are available publicly in JSON:
 ### August
 
 * 1: [pgDay México 2025](https://2025.pgday.com.mx/) - Toluca (Mexico) <a href="https://sessionize.com/pgday-mexico-2025"><img alt="CFP pgDay México 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=red"></a>
+* 2-7: [Black Hat USA 2025](https://www.blackhat.com/us-25/) - Las Vegas, NV (USA)
 * 4: [EUC World: Amplify](https://worldofeuc.org/EUCWorld2025) - Minneapolis, MN (USA) <a href="https://www.papercall.io/eucworld2025"><img alt="CFP EUC World: Amplify" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-February-2025&color=red"></a>
 * 4: [OpenSSF Community Day India](https://events.linuxfoundation.org/openssf-community-day-india/) - Hyderabad (India)
 * 5: [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/) - Hyderabad (India)
