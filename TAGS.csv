@@ -1121,7 +1121,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-09-09-devopsdays seattle,tech:devops,language:english
 2025-09-10-devopsdays Vilnius,tech:devops,language:lithuanian
 2025-09-13-devopsdays Ljubljana,tech:devops,language:slovenian
-2025-09-17-devopsdays Washington, DC,tech:devops,language:english
+2025-09-17-devopsdays Washington DC,tech:devops,language:english
 2025-09-20-devopsdays Brasília,tech:devops,language:portuguese
 2025-09-23-DevOpsDays London 2025,tech:devops,language:english
 2025-09-27-devopsdays Cairo,tech:devops,language:arabic
@@ -1143,7 +1143,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-06-devopsdays Feira de Santana,tech:devops,language:portuguese
 2025-09-03-CloudX,tech:cloud,topic:devops,language:english
 2025-09-10-CloudX,tech:cloud,topic:devops,language:english
-2025-09-17-devopsdays Washington, DC,tech:devops,language:english
 2025-09-29-Platform Engineering Summit – DevOpsCon 2025,tech:platform-engineering,topic:devops,language:english
 2025-09-30-Civo Navigate London,tech:cloud,language:english
 2025-10-07-SREcon25 Europe/Middle East/Africa,tech:sre,language:english
@@ -1151,7 +1150,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-10-22-Platform Engineering Summit,tech:platform-engineering,language:english
 2025-11-13-DevOps Talks Conference 2025 in Melbourne,tech:devops,language:english
 2025-11-18-DevOps Talks Conference 2025 in Auckland,tech:devops,language:english
-2025-09-17-devopsdays Washington, DC,tech:devops,topic:automation,topic:cloud,topic:infrastructure,language:english
 2026-04-17-GEN AI Summit,tech:ai,topic:artificial-intelligence,topic:software-development,language:english,language:spanish
 2025-12-11-Normandie.ai 2025,tech:ai,language:french
 2025-11-08-Cloud Native Rejekts NA,tech:kubernetes,topic:cloud,topic:open-source,language:english
