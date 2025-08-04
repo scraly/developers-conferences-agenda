@@ -1154,3 +1154,34 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-12-11-Normandie.ai 2025,tech:ai,language:french
 2025-11-08-Cloud Native Rejekts NA,tech:kubernetes,topic:cloud,topic:open-source,language:english
 2025-08-25-SHAKA Biarritz,topic:web3,topic:ai,language:french
+2025-09-26-Swift Bharat,tech:swift,language:english
+2025-09-30-SecTor 2025,topic:security,language:english
+2025-10-04-DevFest Yaoundé 2025,tech:google,language:english,language:french
+2025-10-04-Atlanta Developers' Conference 2025,topic:development,language:english
+2025-10-11-SREday Chennai 2025 Q4,topic:devops,language:english
+2025-10-18-Northern VA CodeCamp Fall 2025,topic:development,language:english
+2025-10-22-CFP Mobile Hacking Space,topic:security,language:spanish
+2025-10-25-Devfest Brisbane 2025,tech:google,language:english
+2025-10-25-Cloud Native Day - São Paulo 2025,tech:kubernetes,topic:cloud,language:portuguese
+2025-10-27-Observability Conference Tokyo 2025,topic:devops,language:japanese
+2025-10-31-Africa DevOps Summit 2.0,topic:devops,language:english
+2025-11-02-AWS Community Day Hong Kong 2025,tech:aws,topic:cloud,language:english,language:chinese
+2025-11-04-JCUN 2025,tech:java,language:spanish
+2025-11-08-DevFest Mbarara 2025,tech:google,language:english
+2025-11-11-.NET Conf 2025,tech:dotnet,language:english
+2025-11-14-Security BSides Barcelona 2025,topic:security,language:english,language:spanish
+2025-11-18-Empower Tech 2025,topic:development,language:english,language:romanian
+2025-11-22-DevFest Port Harcourt 2025,tech:google,language:english
+2025-11-27-CloudNative LATAM Summit,tech:kubernetes,topic:cloud,language:spanish,language:portuguese
+2025-12-02-Black hat Middle east and Africa,topic:security,language:english,language:arabic
+2025-12-04-Agile Tour Genève 2025,topic:development,language:french
+2025-12-06-PyCon Indonesia 2025,tech:python,language:indonesian,language:english
+2025-12-08-Black Hat Europe 2025,topic:security,language:english
+2026-01-15-Data Left Unattended - Amsterdam,topic:data,language:english,language:dutch
+2026-03-12-DecompileD 2026,topic:development,language:german
+2026-03-17-North American M365 Summit,tech:microsoft,topic:cloud,language:english
+2026-03-24-React Advanced Canada,tech:javascript,topic:web-development,language:english
+2026-03-27-Frontrunners AI/Data Mar 27, 2026,topic:ai,topic:data,language:english
+2026-03-27-Frontrunners JS/Web Mar 27, 2026,tech:javascript,topic:web-development,language:english
+2026-04-28-M365 Summit April 2026,tech:microsoft,topic:cloud,language:english
+2026-05-29-RubyConf Austria 2026,tech:ruby,topic:web-development,language:english,language:german
