@@ -1091,6 +1091,10 @@
     "latitude": 22.2793278,
     "longitude": 114.1628131
   },
+  "Hong Kong (Hong Kong)": {
+    "latitude": 22.3193039,
+    "longitude": 114.1693611
+  },
   "Honolulu, Hawai (USA)": {
     "latitude": 21.2891309,
     "longitude": -157.7173915
@@ -1711,6 +1715,10 @@
     "latitude": -1.3026148499999999,
     "longitude": 36.82884201813725
   },
+  "Nakano (Japan)": {
+    "latitude": 35.7075331,
+    "longitude": 139.6637591
+  },
   "Nancy (France)": {
     "latitude": 48.6937223,
     "longitude": 6.1834097
@@ -2078,6 +2086,10 @@
   "Rennes (France)": {
     "latitude": 48.1113387,
     "longitude": -1.6800198
+  },
+  "Reston, VA (USA)": {
+    "latitude": 38.9586307,
+    "longitude": -77.35700279999999
   },
   "Richmond (Australia)": {
     "latitude": -37.8238936,
