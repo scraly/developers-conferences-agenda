@@ -71,6 +71,10 @@
     "latitude": 38.3459963,
     "longitude": -0.4906855
   },
+  "Almaty (Kazakhstan)": {
+    "latitude": 43.2363924,
+    "longitude": 76.9457275
+  },
   "Alpharetta, GA (USA)": {
     "latitude": 34.0753762,
     "longitude": -84.2940899
@@ -1855,6 +1859,10 @@
     "latitude": 45.4208777,
     "longitude": -75.6901106
   },
+  "Ouagadougou (Burkina Faso)": {
+    "latitude": 12.3681873,
+    "longitude": -1.5270944
+  },
   "Ouddorp (Netherlands)": {
     "latitude": 51.8090723,
     "longitude": 3.9352037
@@ -1994,6 +2002,10 @@
   "Portland, OR (USA)": {
     "latitude": 45.5202471,
     "longitude": -122.674194
+  },
+  "Portlaoise (Ireland)": {
+    "latitude": 53.0340093,
+    "longitude": -7.3000591
   },
   "Porto (Portugal)": {
     "latitude": 41.1494512,
