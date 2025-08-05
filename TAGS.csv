@@ -1181,7 +1181,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-03-12-DecompileD 2026,topic:development,language:german
 2026-03-17-North American M365 Summit,tech:microsoft,topic:cloud,language:english
 2026-03-24-React Advanced Canada,tech:javascript,topic:web-development,language:english
-2026-03-27-Frontrunners AI/Data Mar 27, 2026,topic:ai,topic:data,language:english
-2026-03-27-Frontrunners JS/Web Mar 27, 2026,tech:javascript,topic:web-development,language:english
+2026-03-27-Frontrunners AI/Data,topic:ai,topic:data,language:english
+2026-03-27-Frontrunners JS/Web,tech:javascript,topic:web-development,language:english
 2026-04-28-M365 Summit April 2026,tech:microsoft,topic:cloud,language:english
 2026-05-29-RubyConf Austria 2026,tech:ruby,topic:web-development,language:english,language:german
