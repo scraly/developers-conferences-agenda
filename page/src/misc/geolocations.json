@@ -3,6 +3,10 @@
     "latitude": 50.776351,
     "longitude": 6.083862
   },
+  "Aalborg (Denmark)": {
+    "latitude": 57.0462626,
+    "longitude": 9.9215263
+  },
   "Aarhus (Denmark)": {
     "latitude": 56.1496278,
     "longitude": 10.2134046
@@ -1182,6 +1186,10 @@
   "Istanbul (Turkey)": {
     "latitude": 41.0091982,
     "longitude": 28.9662187
+  },
+  "Jackson, MS (USA)": {
+    "latitude": 32.2998686,
+    "longitude": -90.1830408
   },
   "Jacksonville, FL (USA)": {
     "latitude": 30.3321838,
