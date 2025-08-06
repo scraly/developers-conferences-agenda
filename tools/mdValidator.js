@@ -114,5 +114,8 @@ const duplicateTags = duplicateValidator()
 console.warn(`${duplicateTags?.length || 0} duplicate tags found`)
 
 if(duplicateTags?.length > 0) {
+    for(const tag of duplicateTags) {
+        console.warn(`duplicate tag: ${tag}`)
+    }
     process.exit(1)
 }
