@@ -2,6 +2,7 @@ const fs=require('fs');
 
 const ROOT= "../"
 const MAIN_INPUT = ROOT+"README.md"
+const TAGS_CSV = ROOT + "TAGS.csv";
 const confIdentifierPattern = /^ *\* ?(\[.*\]\s?)?[0-9?x\/-]+/
 
 //complex example : "* [Virtualized] 31/05-04/06: [event : stuff](http://link.io) - chambéry (France) <a ... ><img ...label=CFP.../></a> <img ...Closed%20Captions... />" 
@@ -83,5 +84,35 @@ console.warn(`${warnings.length} conferences with wrong format entries found`)
 console.warn(warnings)
 
 if(warnings.length > 1) {
+    process.exit(1)
+}
+
+const duplicateValidator = () => {
+    if (!fs.existsSync(TAGS_CSV)) {
+        return console.error("CSV not found");
+    }
+
+    const readFile = fs.readFileSync(TAGS_CSV, "utf-8").split("\n").map((line) => line.trim()).filter((line) => line.length > 0 && !line.startsWith("#"))
+    const uniqueTags = new Set();
+    const duplicates = []
+
+    for (const tag of readFile) {
+        if (uniqueTags.has(tag)) {
+            duplicates.push(tag);
+        }
+
+        uniqueTags.add(tag);
+    }
+    
+    if(duplicates.length > 0) {
+        return duplicates
+    }
+    return []
+};
+
+const duplicateTags = duplicateValidator()
+console.warn(`${duplicateTags?.length || 0} duplicate tags found`)
+
+if(duplicateTags?.length > 0) {
     process.exit(1)
 }
