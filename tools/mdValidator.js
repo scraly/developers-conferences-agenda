@@ -80,8 +80,11 @@ const warnings = confLines.filter(line => !line.content.match(confValidationPatt
                           .map(addHints)
 
 
-console.warn(`${warnings.length} conferences with wrong format entries found`)
-console.warn(warnings)
+console.warn(`found ${warnings.length} conferences with wrong format entries`)
+
+if(warnings.length > 0) {
+    console.warn(warnings)
+}
 
 if(warnings.length > 1) {
     process.exit(1)
@@ -111,11 +114,11 @@ const duplicateValidator = () => {
 };
 
 const duplicateTags = duplicateValidator()
-console.warn(`${duplicateTags?.length || 0} duplicate tags found`)
+console.warn(`found ${duplicateTags?.length || 0} duplicate tags`)
 
 if(duplicateTags?.length > 0) {
     for(const tag of duplicateTags) {
-        console.warn(`duplicate tag: ${tag}`)
+        console.warn(`${tag}`)
     }
     process.exit(1)
 }
