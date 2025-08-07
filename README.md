@@ -671,6 +671,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22-24: [Devoxx France 2026](https://www.devoxx.fr) - Paris (France)
 * 23-25: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece)
 * 24-26: [Great International Developer Summit 2026 (GIDS 2026)](https://developersummit.com/) - Bengaluru (India)
+* 28-29: [stackconf 2026](https://stackconf.eu/) - Munich (Germany) - <a href="https://stackconf.eu/propose/"><img alt="CFP stackconf" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=green"></a>
 * 28-30: [M365 Summit April 2026](https://events.m365-summits.de/M365Summit2830April2026#/) - Online <a href="https://sessionize.com/m365-summit-28-30-april-2026/"><img alt="CFP M365 Summit ﻿28. - 30. April 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2025&color=green"></a>
 
 ### May
