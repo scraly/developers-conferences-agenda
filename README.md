@@ -557,6 +557,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22: [devopsdays São Paulo](https://devopsdays.org/events/2025-sao-paulo/welcome/) - Sao Paulo (Brazil) <a href="https://talks.devopsdays.org/devopsdays-sao-paulo-2025/cfp"><img alt="CFP devopsdays São Paulo 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-July-2025&color=red"></a>
 * 22: [Indonesia Software Developer Conference](https://idsw.dev/) - Jakarta (Indonesia) & Online <a href="https://talks.devopsdays.org/devopsdays-sao-paulo-2025/cfp"><img alt="CFP ISDC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-August-2025&color=green"></a>
 * 22: [DDD Adelaide](https://dddadelaide.com/) - Adelaide (Australia) <a href="https://sessionize.com/dddadelaide2025"><img alt="CFP DDD Adelaide 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-September-2025&color=green"></a>
+* 22: [DevFest London 2025](https://devfestlondon.com/) - London (UK) <a href="https://sessionize.com/devfest-london-2025/"><img alt="CFP DevFest London 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-October-2025&color=green"></a>
 * 22-29: [DevFest Port Harcourt 2025](https://gdg.community.dev/events/details/google-gdg-cloud-port-harcourt-presents-devfest-port-harcourt-2025/cohost-gdg-cloud-port-harcourt) - Port Harcourt (Nigeria) <a href="https://sessionize.com/devfest-port-harcourt-2025/"><img alt="CFP DevFest Port Harcourt 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2025&color=green"></a>
 * 24-27: [Agile Testing Days](https://agiletestingdays.com/) - Potsdam (Germany) <a href="https://www.cfp.trendig.com/"><img alt="Agile Testing Days 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-March-2025&color=red"></a>
 * 26: [AgentCon Ponferrada](https://globalai.community/chapters/ponferrada/events/agentcon-ponferrada/) - Ponferrada (Spain) <a href="https://sessionize.com/agentcon-ponferrada"><img alt="CFP AgentCon Ponferrada" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-September-2025&color=green"></a>
@@ -647,6 +648,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### March
 
+* 3-5: [Devnexus](https://devnexus.com/) - Atlanta, GA (USA) <a href="https://devnexus.com/posts/the-cfp-for-devnexus-2026-is-open"><img alt="CFP Devnexus" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2025&color=green"></a>
 * 5-7: [Power BI Gebruikersdagen 2026](https://www.pbig.nl/) - Utrecht (Netherlands) <a href="https://sessionize.com/power-bi-gebruikersdag-2026/"><img alt="CFP Power BI Gebruikersdagen 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-October-2025&color=green"></a>
 * 10-12: [JavaLand](https://www.javaland.eu/) - Rust (Germany)
 * 12: [DecompileD 2026](https://decompiled.de) - Dresden (Germany) <a href="https://sessionize.com/decompiled-2026/"><img alt="CFP DecompileD 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-November-2025&color=green"></a>
