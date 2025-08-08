@@ -1204,5 +1204,15 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-06-OWASP 2025 Global AppSec USA,tech:owasp,topic:appsec,language:english
 2025-11-14-FFConf,tech:javascript,topic:frontend,language:english
 2025-11-22-Indonesia Software Developer Conference,tech:software,topic:developer,language:indonesian
+2025-10-02-Nordic.JS,tech:javascript,topic:frontend,topic:backend,language:english
+2025-10-08-SIG 2025,tech:sig,topic:technology,topic:innovation,language:french
+2025-11-16-JSConf JP 2025,tech:javascript,topic:frontend,topic:backend,language:english
+2025-11-18-NG Poland,tech:angular,topic:frontend,topic:backend,language:polish
+2025-11-19-JS Poland,tech:javascript,topic:frontend,topic:backend,language:polish
+2025-11-20-AI Poland,tech:artificial-intelligence,topic:machine-learning,topic:data-science,language:polish
+2025-11-21-Open Conf,tech:various,topic:open-source,topic:community,language:greek
+2025-11-22-DDD Adelaide,tech:domain-driven-design,topic:software-architecture,topic:agile,language:english
+2025-11-27-PyCon Senegambia,tech:python,topic:data-science,topic:open-source,language:french
+2026-04-28-stackconf 2026,tech:various,topic:cloud-computing,topic:devops,language:german
 2025-11-22-DevFest London 2025,topic:ai,topic:cloud,topic:cloud-native,tech:android,topic:mobile,topic:mobile-development,topic:security,tech:flutter,topic:data,topic:web-development,language:english
 2026-03-03-Devnexus,topic:java,topic:ai,topic:security,topic:artificial-intelligence,topic:cloud-native,topic:developer-tools,topic:leadership,topic:open-source,topic:software-architecture,topic:software-development,topic:software-engineering,language:english
