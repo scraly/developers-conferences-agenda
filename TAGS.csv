@@ -1205,7 +1205,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-14-FFConf,tech:javascript,topic:frontend,language:english
 2025-11-22-Indonesia Software Developer Conference,tech:software,topic:developer,language:indonesian
 2025-10-02-Nordic.JS,tech:javascript,topic:frontend,topic:backend,language:english
-2025-10-08-SIG 2025,tech:various,topic:technology,topic:innovation,language:french
+2025-10-08-SIG 2025,tech:sig,topic:technology,topic:innovation,language:french
 2025-11-16-JSConf JP 2025,tech:javascript,topic:frontend,topic:backend,language:english
 2025-11-18-NG Poland,tech:angular,topic:frontend,topic:backend,language:polish
 2025-11-19-JS Poland,tech:javascript,topic:frontend,topic:backend,language:polish
