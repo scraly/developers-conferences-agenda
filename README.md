@@ -150,7 +150,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13: [DevFest Lecce 2025](https://gdg.community.dev/events/details/google-gdg-lecce-presents-devfest-lecce-2025/) - Lecce (Italy)
 * 13: [Developers Festival 2025](https://gdg.community.dev/events/details/google-gdg-jos-presents-developers-festival-2025/) - Jos (Nigeria)
 * 13: [devopsdays Ljubljana](https://devopsdays.org/events/2025-ljubljana/welcome/) - Ljubljana (Slovenia)
-* 13: [XO Ruby ATLANTA](https://www.xoruby.com/event/atlanta/) - Atlanta, GA (USA) <a href="https://www.xoruby.com/speak/"><img alt="CFP XO Ruby ATLANTA 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-August-2025&color=green"></a>
+* 13: [XO Ruby ATLANTA](https://www.xoruby.com/event/atlanta/) - Atlanta, GA (USA) <a href="https://www.xoruby.com/speak/"><img alt="CFP XO Ruby ATLANTA 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-August-2025&color=red"></a>
 * 13-15: [PyCon Niger 2025](https://ne.pycon.org/) - Dosso (Niger)
 * 14-16: [Infobip Shift 2025](https://shift.infobip.com/) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2025"><img alt="CFP Infobip Shift 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2025&color=red"></a>
 * 15: [Agile Tour Montpellier](https://agiletourmontpellier.fr/) - Montpellier (France)
