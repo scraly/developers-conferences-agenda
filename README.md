@@ -122,8 +122,9 @@ All the data (past and coming) are available publicly in JSON:
 * 8-12: [DjangoCon US](https://2025.djangocon.us/) - Chicago, IL (USA)
 * 9: [PyCon Israel 2025](https://pycon.org.il/2025/) - Ramat Hasharon (Israel)
 * 9: [Tech Passion Day Aalborg](https://techpassionday.com/) - Aalborg (Denmark) <a href="https://sessionize.com/tech-passion-day-tour-2025/"><img alt="CFP Tech Passion Day 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-August-2025&color=red"></a>
-* 9-10: [CloudCon (formerly KCD Sydney)](https://cloudcon.au) - Sydney (Australia) <a href="https://www.papercall.io/cloudconsyd"><img alt="CFP CloudCon Sydney Call for Presentations" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-August-2025&color=red"></a>
-* 9-10: [devopsdays seattle](https://devopsdays.org/events/2025-seattle/welcome/) - Seattle, WA (USA)
+* 9-10: [CloudCon (formerly KCD Sydney)](https://cloudcon.au) - Sydney (Australia) <a href="https://www.papercall.io/cloudconsyd"><img alt="CFP CloudCon Sydney" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-August-2025&color=red"></a>
+* 9-10: [Devopsdays Seattle](https://devopsdays.org/events/2025-seattle/welcome/) - Seattle, WA (USA)
+* 9-10: [KCD San Francisco Bay Area](https://community.cncf.io/events/details/cncf-kcd-sf-bay-area-presents-kcd-san-francisco-bay-area/) - Mountain View, CA (USA)
 * 9-11: [Container Days Hamburg](https://www.containerdays.io/containerdays-conference-2025/) - Hamburg (Germany) <a href="https://sessionize.com/containerdays-conference-2025"><img alt="CFP ContainerDays Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
 * 9-11: [GDevCon#6](http://www.gdevcon.com) - Brighton (UK) <a href="https://www.papercall.io/gdevcon6"><img alt="CFP GDevCon#6" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-May-2025&color=red"></a>
 * 10: [Tech Passion Day Aarhus](https://techpassionday.com/) - Aarhus (Denmark) <a href="https://sessionize.com/tech-passion-day-tour-2025/"><img alt="CFP Tech Passion Day 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-August-2025&color=red"></a>
@@ -667,6 +668,7 @@ All the data (past and coming) are available publicly in JSON:
 ### April
 
 * 1-2: [CypherCon 9 (2026)](https://cyphercon.com) - Milwaukee, WI (USA) <a href="https://sessionize.com/cyphercon-9-2026/"><img alt="CFP CypherCon 9 (2026)" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2026&color=green"></a>
+* 11-12: [Gen AI Summit 2026](https://genaisummit.eu/en/home/) - Valencia (Spain)
 * 13-15: [Spring I/O](https://2025.springio.net/) - Barcelona (Spain)
 * 13-17: [PyCon DE & PyData 2026](https://2026.pycon.de/) - Darmstadt (Germany)
 * 14-15: [Green IO Singapore](https://greenio.tech/conference/18/singapore-2026-april-green-it) - Singapore (Singapore) <a href="https://apidays.typeform.com/to/SMHd2wFE?=green-io-conference%3Dcall-for-speakers&typeform-source=greenio.tech"><img alt="CFP Green IO Singapore 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2026&color=green"></a>
