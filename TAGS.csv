@@ -1084,7 +1084,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-02-10-Voxxed Days CERN,tech:voxxed,topic:developer,topic:technology,language:french
 2026-02-12-Touraine Tech #26,tech:tech-conference,topic:technology,topic:innovation,language:french
 2026-02-24-The Linux Foundation Member Summit,tech:linux-foundation,topic:technology,topic:open-source,language:english
-2026-02-25-Confoo,tech:confoo,topic:developer,topic:technology,language:french
 2026-02-26-TEDxOslo2026,tech:tedx,topic:technology,topic:innovation,language:norwegian
 2026-02-26-Apres-Cyber Slopes Summit 2026,tech:cybersecurity,topic:technology,topic:security,language:english
 2026-03-05-Power BI Gebruikersdagen 2026,tech:power-bi,topic:business-intelligence,topic:technology,language:dutch
@@ -1117,7 +1116,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-08-21-devopsdays Lima,tech:devops,language:spanish
 2025-08-26-devopsdays Halifax,tech:devops,language:english
 2025-09-03-devopsdays Ukraine,tech:devops,language:ukrainian
-2025-09-09-devopsdays seattle,tech:devops,language:english
 2025-09-10-devopsdays Vilnius,tech:devops,language:lithuanian
 2025-09-13-devopsdays Ljubljana,tech:devops,language:slovenian
 2025-09-17-devopsdays Washington DC,tech:devops,language:english
@@ -1227,3 +1225,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-15-Devfest Lusaka 2025,tech:google,topic:developer,topic:android,language:english
 2025-11-15-DevFest Raipur 2025,tech:google,topic:developer,topic:android,language:hindi
 2026-04-11-Gen AI Summit 2026,tech:ai,topic:machine-learning,topic:deep-learning,language:spanish
+2026-06-08-Domain-Driven Design Europe,topic:software,tech:domain-driven-design,topic:architecture,topic:software-architecture,topic:ai
+2026-06-11-DataMeshLive,topic:data,topic:data-management,topic:data-science,topic:architecture,topic:software-architecture,topic:product-management
+2026-02-25-ConFoo,topic:community,topic:developer,topic:software-development,language:english,language:french

@@ -650,7 +650,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10: [Voxxed Days CERN](https://cern.voxxeddays.com/) - Geneva (Switzerland) <a href="https://vdcern26.cfp.dev/"><img alt="CFP Voxxed Days CERN 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2025&color=green"></a>
 * 12-13: [Touraine Tech #26](https://touraine.tech/) - Tours (France)
 * 24-25: [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa (USA)
-* 25-27: [Confoo](https://confoo.ca/en/2026) - Montreal (Canada)
+* 25-27: [ConFoo](https://confoo.ca/en/2026) - Montreal (Canada) <a href="https://confoo.ca/fr/2026/call-for-papers"><img alt="CFP ConFoo" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-September-2025&color=green"></a>
 * 26: [TEDxOslo2026](https://tedxoslo.com) - Oslo (Norway) <a href="https://sessionize.com/tedxoslo2026/"><img alt="CFP TEDxOslo2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2025&color=green"></a>
 * 26-27: [Apres-Cyber Slopes Summit 2026](http://aprescyber.com) - Park City, UT (USA) <a href="https://sessionize.com/apres-cyber-slopes-summit-2026/"><img alt="CFP Apres-Cyber Slopes Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-November-2025&color=green"></a>
 
@@ -698,6 +698,8 @@ All the data (past and coming) are available publicly in JSON:
 
 * 6: [devopsdays Feira de Santana](https://devopsdays.org/events/2026-feira-de-santana/welcome/) - Feira de Santana (Brazil)
 * 8-11: [Web Summit Rio](https://rio.websummit.com/) - Rio de Janeiro (Brazil)
+* 8-12: [Domain-Driven Design Europe](https://2026.dddeurope.com/) - Antwerp (Belgium) <a href="https://2026.dddeurope.com/cfp/"><img alt="CFP Domain-Driven Design Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
+* 11-12: [DataMeshLive](https://2026.datameshlive.com/) - Antwerp (Belgium) <a href="https://2026.datameshlive.com/cfp"><img alt="CFP DataMeshLive" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
 * 17: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 
 ### July
