@@ -243,6 +243,7 @@ All the data (past and coming) are available publicly in JSON:
 ### October
 
 * 1: [Yaounde - Creating Python Communities and outreach](https://nokidbehind.org/yaounde) - Yaoundé (Cameroon)
+* 1-2: [Algolia DevCon 2025](https://www.algolia.com/devcon) - Online
 * 1-2: [TestBash Brighton 2025](https://www.ministryoftesting.com/events/testbash-brighton-2025) - Brighton (UK) <a href="https://www.ministryoftesting.com/contribute"><img alt="CFP TestBash Brighton 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-December-2025&color=green"></a>
 * 1-3: [Deep Dive: Data Governance](https://opensource.org/datagovernanceconf) - Online <a href="https://www.papercall.io/deepdive-datagovernance"><img alt="CFP Deep Dive: Data Governance" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-June-2025&color=red"></a>
 * 2: [Conf42.com Incident Management 2025](https://www.conf42.com/im2025) - Online <a href="https://www.papercall.io/conf42-incident-management-2025"><img alt="CFP Conf42.com Incident Management 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2025&color=green"></a>
