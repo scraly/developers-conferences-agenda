@@ -666,6 +666,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20-21: [PyCascades 2026](https://2026.pycascades.com/) - Vancouver, BC (Canada)
 * 23-26: [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) - Amsterdam (Netherlands) <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/"><img alt="CFP KubeCon + CloudNativeCon Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-October-2025&color=green"></a>
 * 24: [Voxxed Days Zurich](https://zurich.voxxeddays.com/) - Zurich (Switzerland) <a href="https://vdz26.cfp.dev/"><img alt="CFP Voxxed Days Zurich 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%201-December-2025&color=green"></a>
+* 24-26: [SRECon Americas](https://www.usenix.org/conference/srecon26americas) - Seattle, WA (USA)
 * 24-26: [React Advanced Canada](https://reactadvanced.com/canada/) - Toronto (Canada) <a href="https://www.papercall.io/reactadvancedcanada"><img alt="CFP React Advanced Canada" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2025&color=green"></a>
 * 27: [Frontrunners AI/Data](https://frontrunners.tech/) - Washington D.C. (USA) <a href="https://www.papercall.io/frontrunnersai2026"><img alt="CFP Frontrunners AI/Data Mar 27, 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=green"></a>
 * 27: [Frontrunners JS/Web](https://frontrunners.tech/) - Washington D.C. (USA) <a href="https://www.papercall.io/frontrunners2026"><img alt="CFP Frontrunners JS/Web Mar 27, 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=green"></a>
@@ -709,6 +710,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### October
 
+* 13-16: [SRECon EMEA](https://www.usenix.org/conference/srecon26emea) - Dublin (Ireland)
 * 26-29: [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - Los Angeles, CA (USA)
 
 ## 2027
