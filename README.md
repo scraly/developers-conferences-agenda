@@ -537,6 +537,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18-19: [Open Forum Academy](https://symposium.openforumeurope.org/) - Rio de Janeiro (Brazil)
 * 18-19: [DevOps Talks Conference 2025 in Auckland](https://devops.talksplus.com/nz/devops) - Auckland (New Zealand)
 * 18-21: [JSNation US](https://gitnation.com/events/jsnation-us-2024) - New York, NY (USA)
+* 18-21: [Microsoft Ignite 2025](https://ignite.microsoft.com/) - San Francisco, CA (USA) & Online
 * 19: [gRPConf India](https://events.linuxfoundation.org/grpconf-india/) - Bengaluru (India) <a href="https://events.linuxfoundation.org/grpconf-india/program/cfp/"><img alt="CFP gRPConf India" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2025&color=red"></a>
 * 19: [OWASP AppSec Training Days Uruguay 2025](https://owasp-uruguay.github.io/) - Montevideo (Uruguay) <a href="https://sessionize.com/owasp-appsec-training-days-uruguay-2025/"><img alt="CFP OWASP AppSec Training Days Uruguay 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2025&color=red"></a>
 * 19: [SREday Paris 2025 Q4](https://sreday.com/2025-paris-q4/) - Paris (France) <a href="https://www.papercall.io/sreday-paris-2025-q4"><img alt="CFP SREday Paris 2025 Q4" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-September-2025&color=green"></a>
