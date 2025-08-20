@@ -502,7 +502,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-06-20-Denver Dev Day | Developer's Conference | June 2025,topic:development,language:english
 2025-06-20-Open South Code 2025,topic:open-source,language:spanish
 2025-06-20-Play Secure 2025,topic:security,language:english
-2025-06-20-Play Secure 2025,topic:security,language:english
 2025-06-23-Cloud Native Days Italy 2025,topic:cloud,tech:kubernetes,language:italian
 2025-06-23-Open Source Summit North America,topic:open-source,language:english
 2025-06-23-MLCon,topic:ai,language:german
@@ -1085,7 +1084,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-02-10-Voxxed Days CERN,tech:voxxed,topic:developer,topic:technology,language:french
 2026-02-12-Touraine Tech #26,tech:tech-conference,topic:technology,topic:innovation,language:french
 2026-02-24-The Linux Foundation Member Summit,tech:linux-foundation,topic:technology,topic:open-source,language:english
-2026-02-25-Confoo,tech:confoo,topic:developer,topic:technology,language:french
 2026-02-26-TEDxOslo2026,tech:tedx,topic:technology,topic:innovation,language:norwegian
 2026-02-26-Apres-Cyber Slopes Summit 2026,tech:cybersecurity,topic:technology,topic:security,language:english
 2026-03-05-Power BI Gebruikersdagen 2026,tech:power-bi,topic:business-intelligence,topic:technology,language:dutch
@@ -1118,10 +1116,9 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-08-21-devopsdays Lima,tech:devops,language:spanish
 2025-08-26-devopsdays Halifax,tech:devops,language:english
 2025-09-03-devopsdays Ukraine,tech:devops,language:ukrainian
-2025-09-09-devopsdays seattle,tech:devops,language:english
 2025-09-10-devopsdays Vilnius,tech:devops,language:lithuanian
 2025-09-13-devopsdays Ljubljana,tech:devops,language:slovenian
-2025-09-17-devopsdays Washington, DC,tech:devops,language:english
+2025-09-17-devopsdays Washington DC,tech:devops,language:english
 2025-09-20-devopsdays Brasília,tech:devops,language:portuguese
 2025-09-23-DevOpsDays London 2025,tech:devops,language:english
 2025-09-27-devopsdays Cairo,tech:devops,language:arabic
@@ -1143,7 +1140,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-06-devopsdays Feira de Santana,tech:devops,language:portuguese
 2025-09-03-CloudX,tech:cloud,topic:devops,language:english
 2025-09-10-CloudX,tech:cloud,topic:devops,language:english
-2025-09-17-devopsdays Washington, DC,tech:devops,language:english
 2025-09-29-Platform Engineering Summit – DevOpsCon 2025,tech:platform-engineering,topic:devops,language:english
 2025-09-30-Civo Navigate London,tech:cloud,language:english
 2025-10-07-SREcon25 Europe/Middle East/Africa,tech:sre,language:english
@@ -1151,3 +1147,84 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-10-22-Platform Engineering Summit,tech:platform-engineering,language:english
 2025-11-13-DevOps Talks Conference 2025 in Melbourne,tech:devops,language:english
 2025-11-18-DevOps Talks Conference 2025 in Auckland,tech:devops,language:english
+2026-04-17-GEN AI Summit,tech:ai,topic:artificial-intelligence,topic:software-development,language:english,language:spanish
+2025-12-11-Normandie.ai 2025,tech:ai,language:french
+2025-11-08-Cloud Native Rejekts NA,tech:kubernetes,topic:cloud,topic:open-source,language:english
+2025-08-25-SHAKA Biarritz,topic:web3,topic:ai,language:french
+2025-09-26-Swift Bharat,tech:swift,language:english
+2025-09-30-SecTor 2025,topic:security,language:english
+2025-10-04-DevFest Yaoundé 2025,tech:google,language:english,language:french
+2025-10-04-Atlanta Developers' Conference 2025,topic:development,language:english
+2025-10-11-SREday Chennai 2025 Q4,topic:devops,language:english
+2025-10-18-Northern VA CodeCamp Fall 2025,topic:development,language:english
+2025-10-22-CFP Mobile Hacking Space,topic:security,language:spanish
+2025-10-25-Devfest Brisbane 2025,tech:google,language:english
+2025-10-25-Cloud Native Day - São Paulo 2025,tech:kubernetes,topic:cloud,language:portuguese
+2025-10-27-Observability Conference Tokyo 2025,topic:devops,language:japanese
+2025-10-31-Africa DevOps Summit 2.0,topic:devops,language:english
+2025-11-02-AWS Community Day Hong Kong 2025,tech:aws,topic:cloud,language:english,language:chinese
+2025-11-04-JCUN 2025,tech:java,language:spanish
+2025-11-08-DevFest Mbarara 2025,tech:google,language:english
+2025-11-11-.NET Conf 2025,tech:dotnet,language:english
+2025-11-14-Security BSides Barcelona 2025,topic:security,language:english,language:spanish
+2025-11-18-Empower Tech 2025,topic:development,language:english,language:romanian
+2025-11-22-DevFest Port Harcourt 2025,tech:google,language:english
+2025-11-27-CloudNative LATAM Summit,tech:kubernetes,topic:cloud,language:spanish,language:portuguese
+2025-12-02-Black hat Middle east and Africa,topic:security,language:english,language:arabic
+2025-12-04-Agile Tour Genève 2025,topic:development,language:french
+2025-12-06-PyCon Indonesia 2025,tech:python,language:indonesian,language:english
+2025-12-08-Black Hat Europe 2025,topic:security,language:english
+2026-01-15-Data Left Unattended - Amsterdam,topic:data,language:english,language:dutch
+2026-03-12-DecompileD 2026,topic:development,language:german
+2026-03-17-North American M365 Summit,tech:microsoft,topic:cloud,language:english
+2026-03-24-React Advanced Canada,tech:javascript,topic:web-development,language:english
+2026-03-27-Frontrunners AI/Data,topic:ai,topic:data,language:english
+2026-03-27-Frontrunners JS/Web,tech:javascript,topic:web-development,language:english
+2026-04-28-M365 Summit April 2026,tech:microsoft,topic:cloud,language:english
+2026-05-29-RubyConf Austria 2026,tech:ruby,topic:web-development,language:english,language:german
+2025-09-06-Ng Conf Perú 2025,tech:angular,topic:web-development,topic:frontend,language:spanish
+2025-10-11-unKonf,tech:javascript,topic:web-development,topic:innovation,language:english
+2025-10-25-DevFest Kampala 2025,tech:android,tech:web,topic:developer-tools,language:english
+2025-11-01-DevFest Athens,tech:android,tech:web,topic:developer-tools,language:greek
+2025-11-21-DevFest Almaty 2025,tech:android,tech:web,topic:developer-tools,language:russian
+2025-11-22-DevFest Ouagadougou 2025,tech:android,tech:web,topic:developer-tools,language:french
+2025-12-06-DevFest Ireland 2025,tech:android,tech:web,topic:developer-tools,language:english
+2025-09-09-Tech Passion Day Aalborg,tech:technology,topic:innovation,language:danish
+2025-09-10-Tech Passion Day Aarhus,tech:technology,topic:innovation,language:danish
+2025-09-11-Tech Passion Day Odense,tech:technology,topic:innovation,language:danish
+2025-09-13-XO Ruby ATLANTA,tech:ruby,topic:programming,language:english
+2025-09-20-XO Ruby NEW ORLEANS,tech:ruby,topic:programming,language:english
+2025-10-03-DevFest DC,tech:google,topic:developer,language:english
+2025-10-19-Core C++,tech:c++,topic:programming,language:hebrew
+2025-10-21-Magnolia Conf,tech:magnolia,topic:cms,language:english
+2025-10-25-Fork It! Malaysia,tech:software,topic:development,language:malay
+2025-10-25-Tech Mids,tech:devops,topic:development,language:english
+2025-11-06-OWASP 2025 Global AppSec USA,tech:owasp,topic:appsec,language:english
+2025-11-14-FFConf,tech:javascript,topic:frontend,language:english
+2025-11-22-Indonesia Software Developer Conference,tech:software,topic:developer,language:indonesian
+2025-10-02-Nordic.JS,tech:javascript,topic:frontend,topic:backend,language:english
+2025-10-08-SIG 2025,tech:sig,topic:technology,topic:innovation,language:french
+2025-11-16-JSConf JP 2025,tech:javascript,topic:frontend,topic:backend,language:english
+2025-11-18-NG Poland,tech:angular,topic:frontend,topic:backend,language:polish
+2025-11-19-JS Poland,tech:javascript,topic:frontend,topic:backend,language:polish
+2025-11-20-AI Poland,tech:artificial-intelligence,topic:machine-learning,topic:data-science,language:polish
+2025-11-21-Open Conf,tech:various,topic:open-source,topic:community,language:greek
+2025-11-22-DDD Adelaide,tech:domain-driven-design,topic:software-architecture,topic:agile,language:english
+2025-11-27-PyCon Senegambia,tech:python,topic:data-science,topic:open-source,language:french
+2026-04-28-stackconf 2026,tech:various,topic:cloud-computing,topic:devops,language:german
+2025-11-22-DevFest London 2025,topic:ai,topic:cloud,topic:cloud-native,tech:android,topic:mobile,topic:mobile-development,topic:security,tech:flutter,topic:data,topic:web-development,language:english
+2026-03-03-Devnexus,topic:java,topic:ai,topic:security,topic:artificial-intelligence,topic:cloud-native,topic:developer-tools,topic:leadership,topic:open-source,topic:software-architecture,topic:software-development,topic:software-engineering,language:english
+2025-11-04-XtremeJ 2025 Online Conference,tech:java,language:english
+2025-11-11-XtremeJS 2025 Online Conference,tech:javascript,topic:web-development,topic:frontend,language:english
+2025-11-18-XtremePython 2025 Online Conference,tech:python,topic:data,topic:open-source,language:english
+2025-10-07-Wagtail Space 2025,topic:business,topic:cms,topic:open-source,topic:web-development,tech:python,topic:django,topic:ai,topic:backend,language:english
+2025-10-08-Wagtail Space 2025,tech:python,topic:django,language:english
+2025-09-09-Devopsdays Seattle,tech:devops,topic:automation,topic:cloud,language:english
+2025-09-09-KCD San Francisco Bay Area,tech:kubernetes,topic:cloud-native,topic:containers,language:english
+2025-10-24-Pittsburgh TechFest 2025,tech:technology,topic:innovation,topic:software-development,language:english
+2025-11-15-Devfest Lusaka 2025,tech:google,topic:developer,topic:android,language:english
+2025-11-15-DevFest Raipur 2025,tech:google,topic:developer,topic:android,language:hindi
+2026-04-11-Gen AI Summit 2026,tech:ai,topic:machine-learning,topic:deep-learning,language:spanish
+2026-06-08-Domain-Driven Design Europe,topic:software,tech:domain-driven-design,topic:architecture,topic:software-architecture,topic:ai
+2026-06-11-DataMeshLive,topic:data,topic:data-management,topic:data-science,topic:architecture,topic:software-architecture,topic:product-management
+2026-02-25-ConFoo,topic:community,topic:developer,topic:software-development,language:english,language:french

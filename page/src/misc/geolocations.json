@@ -3,6 +3,10 @@
     "latitude": 50.776351,
     "longitude": 6.083862
   },
+  "Aalborg (Denmark)": {
+    "latitude": 57.0462626,
+    "longitude": 9.9215263
+  },
   "Aarhus (Denmark)": {
     "latitude": 56.1496278,
     "longitude": 10.2134046
@@ -70,6 +74,10 @@
   "Alicante (Spain)": {
     "latitude": 38.3459963,
     "longitude": -0.4906855
+  },
+  "Almaty (Kazakhstan)": {
+    "latitude": 43.2363924,
+    "longitude": 76.9457275
   },
   "Alpharetta, GA (USA)": {
     "latitude": 34.0753762,
@@ -294,6 +302,10 @@
   "Bern (Switzerland)": {
     "latitude": 46.9484742,
     "longitude": 7.4521749
+  },
+  "Biarritz (France)": {
+    "latitude": 43.4832523,
+    "longitude": -1.5592776
   },
   "Bidart (France)": {
     "latitude": 43.439236,
@@ -1087,6 +1099,10 @@
     "latitude": 22.2793278,
     "longitude": 114.1628131
   },
+  "Hong Kong (Hong Kong)": {
+    "latitude": 22.3193039,
+    "longitude": 114.1693611
+  },
   "Honolulu, Hawai (USA)": {
     "latitude": 21.2891309,
     "longitude": -157.7173915
@@ -1170,6 +1186,10 @@
   "Istanbul (Turkey)": {
     "latitude": 41.0091982,
     "longitude": 28.9662187
+  },
+  "Jackson, MS (USA)": {
+    "latitude": 32.2998686,
+    "longitude": -90.1830408
   },
   "Jacksonville, FL (USA)": {
     "latitude": 30.3321838,
@@ -1463,6 +1483,10 @@
     "latitude": 46.0050102,
     "longitude": 8.9520281
   },
+  "Lusaka (Zambia)": {
+    "latitude": -15.4163395,
+    "longitude": 28.2818414
+  },
   "Luxembourg": {
     "latitude": 49.6112768,
     "longitude": 6.129799
@@ -1502,6 +1526,10 @@
   "Malaga (Spain)": {
     "latitude": 36.7213028,
     "longitude": -4.4216366
+  },
+  "Malham (Saudi Arabia)": {
+    "latitude": 24.7798563,
+    "longitude": 46.7230677
   },
   "Malmo (Sweden)": {
     "latitude": 55.6052931,
@@ -1703,6 +1731,10 @@
     "latitude": -1.3026148499999999,
     "longitude": 36.82884201813725
   },
+  "Nakano (Japan)": {
+    "latitude": 35.7075331,
+    "longitude": 139.6637591
+  },
   "Nancy (France)": {
     "latitude": 48.6937223,
     "longitude": 6.1834097
@@ -1838,6 +1870,10 @@
   "Ottawa, ON (Canada)": {
     "latitude": 45.4208777,
     "longitude": -75.6901106
+  },
+  "Ouagadougou (Burkina Faso)": {
+    "latitude": 12.3681873,
+    "longitude": -1.5270944
   },
   "Ouddorp (Netherlands)": {
     "latitude": 51.8090723,
@@ -1979,6 +2015,10 @@
     "latitude": 45.5202471,
     "longitude": -122.674194
   },
+  "Portlaoise (Ireland)": {
+    "latitude": 53.0340093,
+    "longitude": -7.3000591
+  },
   "Porto (Portugal)": {
     "latitude": 41.1494512,
     "longitude": -8.6107884
@@ -2070,6 +2110,10 @@
   "Rennes (France)": {
     "latitude": 48.1113387,
     "longitude": -1.6800198
+  },
+  "Reston, VA (USA)": {
+    "latitude": 38.9586307,
+    "longitude": -77.35700279999999
   },
   "Richmond (Australia)": {
     "latitude": -37.8238936,
