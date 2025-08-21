@@ -1230,5 +1230,5 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-02-25-ConFoo,topic:community,topic:developer,topic:software-development,language:english,language:french
 2025-10-01-Algolia DevCon 2025,tech:search,topic:devcon,language:english
 2025-11-18-Microsoft Ignite 2025,tech:microsoft,language:english
-2026-03-24-SRECon Americas,tech:sre,topic:conference,language:english
+2026-03-24-SRECon Americas,tech:sre,language:english
 2026-10-13-SRECon EMEA,tech:sre,topic:conference,language:english
