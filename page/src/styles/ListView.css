@@ -23,7 +23,17 @@
   border-radius: 3px;
   display: flex;
   flex-direction: row;
-  align-items: center; /* Ajout pour centrer verticalement */
+  justify-content: space-between;
+  align-items: center;
+}
+
+.event-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 5px;
+  flex-grow: 1;
 }
 
 .listView .event-list-header {
