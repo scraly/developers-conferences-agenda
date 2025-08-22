@@ -8,7 +8,7 @@
 }
 
 .listView > * {
-  width: max-content;
+  width: 100%;
   display: flex;
   flex-direction: column;
   border-radius: 3px;
@@ -23,15 +23,23 @@
   border-radius: 3px;
   display: flex;
   flex-direction: row;
-  align-items: center; /* Ajout pour centrer verticalement */
+  justify-content: space-between;
+  align-items: center;
+}
+
+.event-details {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+  flex-grow: 1;
 }
 
 .listView .event-list-header {
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  gap: 8px;
-  max-width: 400px;
+  gap: 1rem;
+  flex-wrap: wrap;
 }
 
 .listView .event-list-entry.favorite-event {

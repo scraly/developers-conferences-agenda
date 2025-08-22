@@ -71,16 +71,18 @@ const ListView = () => {
             
             return (
               <div className={`event-list-entry ${isFav ? 'favorite-event' : ''}`} key={`${month}_ev_${i}`}>
-                <div className="event-date-fav">
-                  <FavoriteButton event={e} />
-                  <ShortDate dates={e.date} />
+                <div className="event-details">
+                  <div className="event-date-fav">
+                    <FavoriteButton event={e} />
+                    <ShortDate dates={e.date} />
+                  </div>
+                  <div className="event-list-header">
+                    <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''}</b>
+                    <span>{e.location}</span>
+                    <span dangerouslySetInnerHTML={{__html: e.misc}} />
+                    {e.closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
+                  </div>
                 </div>
-                <div className="event-list-header">
-                  <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''}</b>
-                </div>
-                <span>{e.location}</span>
-                <span dangerouslySetInnerHTML={{__html: e.misc}} />
-                {e.closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
                 <TagBadges onTagClick={handleTagClick} tags={e.tags} />
               </div>
             );
