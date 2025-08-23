@@ -1232,3 +1232,5 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-18-Microsoft Ignite 2025,tech:microsoft,language:english
 2026-03-24-SRECon Americas,tech:sre,language:english
 2026-10-13-SRECon EMEA,tech:sre,language:english
+2025-11-19-Devfest Sevilla 2025,tech:python,topic:data,topic:open-source,language:spanish
+2025-11-22-DevFest Berlin,tech:javascript,topic:web-development,topic:cloud,language:german
