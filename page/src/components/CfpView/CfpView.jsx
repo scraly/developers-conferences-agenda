@@ -4,7 +4,6 @@ import { Clock, CalendarClock } from 'lucide-react';
 
 import { useYearEvents } from 'app.hooks';
 import { getMonthName, getMonthNames } from 'utils';
-import { formatEventDates } from 'components/EventDisplay/EventDisplay.utils';
 import { flag } from 'country-emoji';
 import FavoriteButton from '../FavoriteButton/FavoriteButton';
 import TagBadges from 'components/TagBadges/TagBadges';

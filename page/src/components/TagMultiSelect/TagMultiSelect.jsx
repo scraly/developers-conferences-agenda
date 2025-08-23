@@ -117,18 +117,18 @@ const TagMultiSelect = ({ selectedTags, onChange, showSelectedTags = true }) => 
   return (
     <div className="tag-multiselect-wrapper">
       <Select
-        isMulti
-        options={options}
-        value={selectedValues}
-        onChange={handleChange}
-        placeholder="Select tags..."
         className="tag-multiselect"
         classNamePrefix="tag-multiselect"
-        styles={customStyles}
         closeMenuOnSelect={false}
         hideSelectedOptions={true}
+        isMulti
         menuPortalTarget={typeof document !== 'undefined' ? document.body : null}
         menuPosition="fixed"
+        onChange={handleChange}
+        options={options}
+        placeholder="Select tags..."
+        styles={customStyles}
+        value={selectedValues}
       />
     </div>
   );

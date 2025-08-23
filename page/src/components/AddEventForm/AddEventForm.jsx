@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useMemo } from 'react';
+import React, { useState, useCallback } from 'react';
 import TagMultiSelect from 'components/TagMultiSelect/TagMultiSelect';
 import 'styles/AddEventForm.css';
 
@@ -264,10 +264,10 @@ ${generateTagsCsvLines()}
         <div className="add-event-header">
           <h2>Add New Event</h2>
           <button 
-            type="button" 
+            aria-label="Close" 
             className="close-button"
             onClick={onClose}
-            aria-label="Close"
+            type="button"
           >
             ×
           </button>
@@ -277,60 +277,60 @@ ${generateTagsCsvLines()}
           <div className="form-group">
             <label htmlFor="name">Event Name *</label>
             <input
-              type="text"
-              id="name"
-              value={formData.name}
-              onChange={(e) => handleInputChange('name', e.target.value)}
               className={errors.name ? 'error' : ''}
+              id="name"
+              onChange={(e) => handleInputChange('name', e.target.value)}
+              type="text"
+              value={formData.name}
             />
-            {errors.name && <span className="error-message">{errors.name}</span>}
+            {errors.name ? <span className="error-message">{errors.name}</span> : null}
           </div>
 
           <div className="form-row">
             <div className="form-group">
               <label htmlFor="startDate">Start Date *</label>
               <input
-                type="date"
-                id="startDate"
-                value={formData.startDate}
-                onChange={(e) => handleInputChange('startDate', e.target.value)}
                 className={errors.startDate ? 'error' : ''}
+                id="startDate"
+                onChange={(e) => handleInputChange('startDate', e.target.value)}
+                type="date"
+                value={formData.startDate}
               />
-              {errors.startDate && <span className="error-message">{errors.startDate}</span>}
+              {errors.startDate ? <span className="error-message">{errors.startDate}</span> : null}
             </div>
 
             <div className="form-group">
               <label htmlFor="endDate">End Date *</label>
               <input
-                type="date"
-                id="endDate"
-                value={formData.endDate}
-                onChange={(e) => handleInputChange('endDate', e.target.value)}
                 className={errors.endDate ? 'error' : ''}
+                id="endDate"
+                onChange={(e) => handleInputChange('endDate', e.target.value)}
+                type="date"
+                value={formData.endDate}
               />
-              {errors.endDate && <span className="error-message">{errors.endDate}</span>}
+              {errors.endDate ? <span className="error-message">{errors.endDate}</span> : null}
             </div>
           </div>
 
           <div className="form-group">
             <label htmlFor="eventUrl">Event URL *</label>
             <input
-              type="url"
+              className={errors.eventUrl ? 'error' : ''}
               id="eventUrl"
-              value={formData.eventUrl}
               onChange={(e) => handleInputChange('eventUrl', e.target.value)}
               placeholder="https://example.com"
-              className={errors.eventUrl ? 'error' : ''}
+              type="url"
+              value={formData.eventUrl}
             />
-            {errors.eventUrl && <span className="error-message">{errors.eventUrl}</span>}
+            {errors.eventUrl ? <span className="error-message">{errors.eventUrl}</span> : null}
           </div>
 
           <div className="form-group">
             <label className="checkbox-label">
               <input
-                type="checkbox"
                 checked={formData.onlineEvent}
                 onChange={(e) => handleInputChange('onlineEvent', e.target.checked)}
+                type="checkbox"
               />
               Online Event
             </label>
@@ -340,34 +340,34 @@ ${generateTagsCsvLines()}
             <div className="form-group">
               <label htmlFor="city">City{!formData.onlineEvent ? ' *' : ''}</label>
               <input
-                type="text"
-                id="city"
-                value={formData.city}
-                onChange={(e) => handleInputChange('city', e.target.value)}
                 className={errors.city ? 'error' : ''}
+                id="city"
+                onChange={(e) => handleInputChange('city', e.target.value)}
+                type="text"
+                value={formData.city}
               />
-              {errors.city && <span className="error-message">{errors.city}</span>}
+              {errors.city ? <span className="error-message">{errors.city}</span> : null}
             </div>
 
             <div className="form-group">
               <label htmlFor="country">Country{!formData.onlineEvent ? ' *' : ''}</label>
               <input
-                type="text"
-                id="country"
-                value={formData.country}
-                onChange={(e) => handleInputChange('country', e.target.value)}
                 className={errors.country ? 'error' : ''}
+                id="country"
+                onChange={(e) => handleInputChange('country', e.target.value)}
+                type="text"
+                value={formData.country}
               />
-              {errors.country && <span className="error-message">{errors.country}</span>}
+              {errors.country ? <span className="error-message">{errors.country}</span> : null}
             </div>
           </div>
 
           <div className="form-group">
             <label className="checkbox-label">
               <input
-                type="checkbox"
                 checked={formData.closedCaptions}
                 onChange={(e) => handleInputChange('closedCaptions', e.target.checked)}
+                type="checkbox"
               />
               Closed Captions Available
             </label>
@@ -376,56 +376,54 @@ ${generateTagsCsvLines()}
           <div className="form-group">
             <label className="checkbox-label">
               <input
-                type="checkbox"
                 checked={formData.hasCfp}
                 onChange={(e) => handleInputChange('hasCfp', e.target.checked)}
+                type="checkbox"
               />
               CFP (Call for Papers)
             </label>
           </div>
 
-          {formData.hasCfp && (
-            <>
+          {formData.hasCfp ? <>
               <div className="form-group">
                 <label htmlFor="cfpUrl">CFP URL *</label>
                 <input
-                  type="url"
+                  className={errors.cfpUrl ? 'error' : ''}
                   id="cfpUrl"
-                  value={formData.cfpUrl}
                   onChange={(e) => handleInputChange('cfpUrl', e.target.value)}
                   placeholder="https://example.com/cfp"
-                  className={errors.cfpUrl ? 'error' : ''}
+                  type="url"
+                  value={formData.cfpUrl}
                 />
-                {errors.cfpUrl && <span className="error-message">{errors.cfpUrl}</span>}
+                {errors.cfpUrl ? <span className="error-message">{errors.cfpUrl}</span> : null}
               </div>
 
               <div className="form-group">
                 <label htmlFor="cfpEndDate">CFP End Date *</label>
                 <input
-                  type="date"
-                  id="cfpEndDate"
-                  value={formData.cfpEndDate}
-                  onChange={(e) => handleInputChange('cfpEndDate', e.target.value)}
                   className={errors.cfpEndDate ? 'error' : ''}
+                  id="cfpEndDate"
+                  onChange={(e) => handleInputChange('cfpEndDate', e.target.value)}
+                  type="date"
+                  value={formData.cfpEndDate}
                 />
-                {errors.cfpEndDate && <span className="error-message">{errors.cfpEndDate}</span>}
+                {errors.cfpEndDate ? <span className="error-message">{errors.cfpEndDate}</span> : null}
               </div>
-            </>
-          )}
+            </> : null}
 
           <div className="form-group">
             <label>Tags</label>
             <TagMultiSelect
-              selectedTags={formData.tags}
               onChange={handleTagsChange}
+              selectedTags={formData.tags}
             />
           </div>
 
           <div className="form-actions">
-            <button type="button" onClick={onClose} className="cancel-button">
+            <button className="cancel-button" onClick={onClose} type="button">
               Cancel
             </button>
-            <button type="submit" className="submit-button">
+            <button className="submit-button" type="submit">
               Create GitHub Issue
             </button>
           </div>

@@ -35,8 +35,6 @@ const Filters = ({ view }) => {
   const countries = useCountries()
   const regions = useRegions()
   const regionsMap = useRegionsMap()
-  const tags = useTags()
-  const tagKeys = useTagKeys()
 
   const search = Object.fromEntries(searchParams)
 

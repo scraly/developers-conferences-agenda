@@ -17,10 +17,10 @@ const AddEventButton = () => {
   return (
     <>
       <button
-        onClick={handleOpenForm}
-        className="add-event-button"
-        title="Add New Event"
         aria-label="Add New Event"
+        className="add-event-button"
+        onClick={handleOpenForm}
+        title="Add New Event"
       >
         <Plus size={20} />
         <span className="add-event-text">Add event/CFP</span>
