@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tag, EyeOff } from 'lucide-react';
+import { Tag } from 'lucide-react';
 import { useTagsVisibility } from 'contexts/TagsContext';
 import 'styles/TagsToggle.css';
 
