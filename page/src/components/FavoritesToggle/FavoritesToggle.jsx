@@ -20,7 +20,7 @@ const FavoritesToggle = () => {
   return (
     <button
       aria-label={favorites ? 'Hide favorites' : 'Show only favorites'}
-      className={`favorites-toggle-button ${favorites ? 'strikethrough' : ''}`}
+      className={`favorites-toggle-button ${favorites ? '' : 'strikethrough'}`}
       onClick={toggleFavorites}
       title={favorites ? 'Hide favorites' : 'Show only favorites'}
     >
