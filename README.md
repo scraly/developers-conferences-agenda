@@ -731,5 +731,6 @@ The content & the data are licensed under the [CC-BY-NC license](./LICENSE-CONTE
 
 - [typesense](https://github.com/typesense)
 - [djerfy](https://github.com/djerfy)
+- [hanzceo](https://github.com/hanzceo)
 
 [![Github Sponsors](https://img.shields.io/badge/Sponsor%20developers.events%20!-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/scraly)
