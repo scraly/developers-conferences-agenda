@@ -8,6 +8,7 @@ import { useTagsVisibility } from 'contexts/TagsContext';
 import TagMultiSelect from 'components/TagMultiSelect/TagMultiSelect';
 import SelectedTags from 'components/SelectedTags/SelectedTags';
 import TagsToggle from 'components/TagsToggle/TagsToggle';
+import FavoritesToggle from 'components/FavoritesToggle/FavoritesToggle';
 
 import 'styles/Filters.css';
 import { FilterContext } from 'contexts/FilterContext';
@@ -82,6 +83,10 @@ const Filters = ({ view }) => {
       
       <div className='tags-toggle-container'>
         <TagsToggle />
+      </div>
+
+      <div className='favorites-toggle-container'>
+        <FavoritesToggle />
       </div>
 
       <div className='filters-content'>

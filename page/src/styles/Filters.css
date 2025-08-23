@@ -158,3 +158,36 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+.favorites-toggle-container {
+    position: fixed;
+    left: 100%;
+    top: calc(4rem + 108px);
+}
+
+.filters .favorites-toggle-container .favorites-toggle-button {
+    background: #eee;
+    border: 1px solid #ccc;
+    border-radius: 0 3px 3px 0;
+    padding: 9px;
+    cursor: pointer;
+    width: 42px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: none;
+    transition: all 0.2s ease;
+}
+
+.filters .favorites-toggle-container .favorites-toggle-button:hover {
+    background: #ddd;
+    border-color: #999;
+    transform: none;
+    box-shadow: none;
+}
+
+.filters .favorites-toggle-container .favorites-toggle-button svg {
+    stroke-width: 2.5px;
+    color: inherit !important;
+}
