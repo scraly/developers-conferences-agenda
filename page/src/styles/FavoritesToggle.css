@@ -1,0 +1,56 @@
+.favorites-toggle-button {
+    background: white;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+}
+
+.favorites-toggle-button:hover {
+    background: #f8f8f8;
+    border-color: #999;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transform: translateY(-1px);
+}
+
+.favorites-toggle-button:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.favorites-toggle-button svg {
+    color: #555;
+    transition: color 0.2s ease;
+}
+
+.favorites-toggle-button:hover svg {
+    color: #333;
+}
+
+.favorites-toggle-button.strikethrough {
+    position: relative;
+}
+
+.favorites-toggle-button.strikethrough::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    right: 15%;
+    height: 2px;
+    background: #999;
+    transform: translateY(-50%) rotate(-15deg);
+    pointer-events: none;
+}
+
+.favorites-toggle-button.strikethrough svg {
+    opacity: 0.6;
+    color: #999;
+}
