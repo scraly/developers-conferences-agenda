@@ -53,6 +53,9 @@
       "jsx-a11y/rule-name": 2
     },
     "globals": {
-        "__dirname": true
+        "__dirname": true,
+        "localStorage": true,
+        "window": true,
+        "document": true
     }
 }

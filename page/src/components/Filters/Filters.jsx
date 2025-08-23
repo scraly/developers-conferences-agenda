@@ -3,7 +3,7 @@ import { useSearchParams } from "react-router-dom";
 
 import { Filter, FilterX } from 'lucide-react';
 
-import { useCountries, useRegions, useRegionsMap, useTags, useTagKeys } from 'app.hooks';
+import { useCountries, useRegions, useRegionsMap } from 'app.hooks';
 import { useTagsVisibility } from 'contexts/TagsContext';
 import TagMultiSelect from 'components/TagMultiSelect/TagMultiSelect';
 import SelectedTags from 'components/SelectedTags/SelectedTags';

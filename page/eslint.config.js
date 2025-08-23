@@ -5,7 +5,7 @@ import pluginReact from "eslint-plugin-react";
 /** @type {import('eslint').Linter.Config[]} */
 export default [
   {files: ["**/*.{js,mjs,cjs,jsx}"]},
-  {languageOptions: { globals: globals.node}},
+  {languageOptions: { globals: globals.browser}},
   pluginJs.configs.recommended,
   pluginReact.configs.flat.recommended,
   {
@@ -60,12 +60,10 @@ export default [
 {
   rules: {
       "react/prefer-stateless-function": "error",
-      "react/button-has-type": "error",
       "react/no-unused-prop-types": "error",
       "react/jsx-pascal-case": "error",
       "react/jsx-no-script-url": "error",
       "react/no-children-prop": "error",
-      "react/no-danger": "error",
       "react/no-danger-with-children": "error",
       "react/no-unstable-nested-components": ["error", { allowAsProps: true }],
       "react/jsx-fragments": "error",
