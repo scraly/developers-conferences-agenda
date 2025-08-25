@@ -428,6 +428,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### November
 
+* 1: [DevFest Montreal](https://devfest.gdgmontreal.com/) - Montreal (Canada) <a href="https://www.papercall.io/df-mtl-2025"><img alt="CFP DevFest Montreal 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-October-2025&color=green"></a>
 * 1: [DevOpsDays Istanbul 2025](https://devopsdays.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/devopsdays-istanbul-2025"><img alt="CFP DevOpsDays Istanbul 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=red"></a>
 * 1: [DevFest Athens](https://gdg.community.dev/events/details/google-gdg-athens-presents-devfest-2025/) - Athens (Greece) <a href="https://app.advocu.com/events/68850b4fbb2f366f3aae30d8"><img alt="CFP DevFest Athens 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-August-2025&color=red"></a>
 * 1-2: [PyCon Malaysia 2025](https://www.pycon.my/) - Kuala Lumpur (Malaysia) <a href="https://cfp.pycon.my/pyconmy-2025/cfp"><img alt="CFP PyCon Malaysia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2025&color=green"></a>
