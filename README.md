@@ -584,6 +584,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28-2/12: [React Advanced London](https://reactadvanced.com/) - London (UK) <a href="https://www.papercall.io/reactadvancedlondon"><img alt="CFP React Advanced London" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-July-2025&color=red"></a>
 * 29: [DevFest Belgium 2025](https://gdg-mons.com/) - Mons (Belgium) <a href="https://conference-hall.io/devfest-belgium-2025"><img alt="DevFest Belgium 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2025&color=red"></a>
 * 29: [DevFest Bari 2025](https://bari.devfest.it/) - Bari (Italy) <a href="https://sessionize.com/devfest-bari-2025/"><img alt="CFP DevFest Bari 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-August-2025&color=red"></a>
+* 29: [JSDC 2025](https://2025.jsdc.tw/) - Taipei (Taiwan)
 * 29: [DevFest Ica 2025](https://gdg.community.dev/events/details/google-gdg-ica-presents-devfest-ica-2025/) - Ica (Peru) 
 * 29: [devopsdays Porto Alegre](https://devopsdays.org/events/2025-porto-alegre/welcome/) - Porto Alegre (Brazil) <a href="https://www.papercall.io/devopsdayspoa2025"><img alt="CFP devopsdays Porto Alegre 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-October-2025&color=green"></a>
 
