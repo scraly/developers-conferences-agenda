@@ -101,11 +101,24 @@ const extractMonthBlocks = (yearMarkdown) => {
   return months;
 };
 
-const extractEvents = (monthMarkdown, year, month) =>
+const extractEvents = (monthMarkdown, year, month) => {
   // '* 31-03/02: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)\n'
-  monthMarkdown
+  const eventLines = monthMarkdown
     .match(/^\s*\*\s*(\[[^\]]*\])?\s*[0-9\/-]+:?.*$/gm)
-    .map((eventLine) => ({
+  if (!eventLines) return [];
+  return eventLines.map((eventLine) => {
+      const links = eventLine.match(/<a[^>]*>.*?<\/a>/g) || [];
+      const sponsoringLink = links.find(link => link.includes('alt="Sponsoring"')) || "";
+      const sponsoringUrl = sponsoringLink.match(/href="([^"]+)"/)?.[1];
+
+      const cfpLink = links.find(link => link.includes('alt="CFP"')) || "";
+
+      const miscContent = eventLine.includes("</a>")
+        ? eventLine.trim().replaceAll(/^.*?(<a.*a>.*)$/g, "$1")
+        : "";
+      const misc = miscContent.replace(sponsoringLink, "").replace(cfpLink, "").trim();
+
+      const event = {
       name: eventLine.trim().replaceAll(/^.*[?0-9\/-]+.*\[(.*)\].*$/g, "$1"),
       date: getTimeSpan(
         year,
@@ -131,16 +144,19 @@ const extractEvents = (monthMarkdown, year, month) =>
         .replaceAll(/ \& Online/g, "")
         .replaceAll(/^[^(]*\(([^)]*)\)$/g, "$1")
         .trim(),
-      misc: eventLine.includes("</a>")
-        ? eventLine.trim().replaceAll(/^.*(<a.*a>).*$/g, "$1")
-        : "",
-      cfp: extractCfp(eventLine.trim().replaceAll(/^.*(<a.*a>).*$/g, "$1")),
+      misc: misc,
+      cfp: extractCfp(misc),
+      sponsoring: sponsoringUrl,
       closedCaptions: eventLine.trim().match(/^.*(<img alt=.Closed Captions.).*$/) !== null,
       scholarship: eventLine.trim().match(/^.*(<img alt=.Scholarship.).*$/) !== null,
       status: eventLine.trim().startsWith("* [")
         ? eventLine.trim().replaceAll(/^[^[]*\[([\w\s]*)\].*$/g, "$1")
-        : "open",
-    }));
+                : "open",
+    };
+    return event;
+  });
+}
+
 const getTimeSpan = (year, month, datespan) => {
   const [startDay, endDay] = datespan.split("-").map((d) => d.trim());
   if (!endDay) {
@@ -206,7 +222,11 @@ const allConfs = archiveConfs.concat(currentConfs).map((conf) => {
     tags: tags
   };
 });
-fs.writeFileSync(MAIN_OUTPUT, JSON.stringify(allConfs));
+try {
+    fs.writeFileSync(MAIN_OUTPUT, JSON.stringify(allConfs));
+} catch (error) {
+    console.error("Error writing to file:", error);
+}
 
 const allCFPs = allConfs
   .filter((conf) => conf.cfp.untilDate)
