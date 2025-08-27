@@ -339,7 +339,7 @@ All the data (past and coming) are available publicly in JSON:
 * 16-17: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/devfest-nantes-2025"><img alt="CFP DevFest Nantes 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-June-2025&color=red"></a>
 * 16-17: [DevOps Talks Conference 2025 in Sydney](https://devops.talksplus.com/sydney/devops) - Sydney (Australia)
 * 17: [Sylius Con 2025](https://sylius.com/conference-2025/) - Lyon (France) <a href="https://sylius.com/conference-2025/#speakers"><img alt="CFP Sylius Con 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-June-2025&color=red"></a>
-* 17: [ScalaIO 2025](https://scala.io) - Paris (France) <a href="https://www.papercall.io/scala-io-2025"><img alt="CFP ScalaIO 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-August-2025&color=green"></a>
+* 17: [ScalaIO 2025](https://scala.io) - Paris (France) <a href="https://www.papercall.io/scala-io-2025"><img alt="CFP ScalaIO 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-August-2025&color=red"></a>
 * 17-18: [PyCon Thailand 2025](https://th.pycon.org/) - Bangkok (Thailand)
 * 17-19: [OpenInfra Summit Europe](https://summit2025.openinfra.org/) - Paris (France)
 * 18: [2025 OWASP AppSec Days Bangalore](https://bangalore.appsecdays.org/#) - Bengaluru (India) <a href="https://sessionize.com/owasp-appsec-days-bangalore-2025-cfp-co4791"><img alt="CFP 2025 OWASP AppSec Days" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=red"></a>
