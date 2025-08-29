@@ -457,6 +457,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5: [PyData Tel Aviv 2025](https://pydata.org/telaviv2025) - Tel Aviv (Israel)
 * 5-6: [Tech Show Paris](https://www.techshowparis.fr/) - Paris (France)
 * 5-6: [DevCon 2025](https://www.dev-con.ro/) - Bucharest (Romania) <a href="https://www.papercall.io/devcon2025"><img alt="CFP DevCon 2025 | Bucharest, Romania" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2025&color=green"></a>
+* 5-6: [Red Hat Summit: Connect Paris 2025](https://www.redhat.com/fr/summit/connect/emea/paris-2025) - Paris (France)
 * 5-7: [Øredev 2025](http://oredev.org) - Malmo (Sweden) <a href="https://sessionize.com/oredev-2025"><img alt="CFP Øredev 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
 * 5-7: [Droidcon & Fluttercon Kenya 2025](https://droidcon.co.ke/) - Nairobi (Kenya) <a href="https://sessionize.com/droidcon-fluttercon-kenya-2025"><img alt="CFP Droidcon & Fluttercon Kenya 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-August-2025&color=red"></a>
 * 6: [dotAI 2025](https://www.dotai.io/) - Paris (France) <a href="https://www.dotai.io/speak"><img alt="CFP dotAI 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
