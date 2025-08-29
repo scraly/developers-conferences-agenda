@@ -1755,6 +1755,10 @@
     "latitude": 36.1622767,
     "longitude": -86.7742984
   },
+  "Natal (Brazil)": {
+    "latitude": -5.805398,
+    "longitude": -35.2080905
+  },
   "National Harbor, Maryland (USA)": {
     "latitude": 38.7831238,
     "longitude": -77.0128237
@@ -2051,6 +2055,10 @@
     "latitude": 50.0874654,
     "longitude": 14.4212535
   },
+  "Pretoria (South Africa)": {
+    "latitude": -25.7459277,
+    "longitude": 28.1879101
+  },
   "Prizren (Kosovo)": {
     "latitude": 42.2130151,
     "longitude": 20.7363339
@@ -2066,6 +2074,10 @@
   "Quebec, QC (Canada)": {
     "latitude": 46.8130816,
     "longitude": -71.20745959999999
+  },
+  "Quito (Ecuador)": {
+    "latitude": -0.2201641,
+    "longitude": -78.5123274
   },
   "Québec (Canada)": {
     "latitude": 52.4760892,
@@ -2198,6 +2210,10 @@
   "San Francisco (USA)": {
     "latitude": 37.8097487,
     "longitude": -122.4104493
+  },
+  "San Francisco de Campeche (Mexico)": {
+    "latitude": 19.8436755,
+    "longitude": -90.5367454
   },
   "San Francisco, CA (USA)": {
     "latitude": 37.7790262,
