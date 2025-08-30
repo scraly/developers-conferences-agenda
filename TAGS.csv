@@ -1071,7 +1071,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-12-16-QCon AI 2025,tech:ai,topic:machine-learning,topic:artificial-intelligence,language:english
 2025-12-18-Conf42.com Internet of Things (IoT) 2025,tech:iot,topic:internet-of-things,topic:technology,language:english
 2026-01-22-jChampions,tech:java,topic:developer,topic:technology,language:english
-2026-01-28-SnowCamp 2026,tech:snowflake,topic:data,topic:cloud,language:french
 2026-01-29-Cloud Tech Tallinn,tech:cloud,topic:technology,topic:infrastructure,language:estonian
 2026-02-01-Web Summit Qatar,tech:web,topic:technology,topic:innovation,language:arabic
 2026-02-02-Jfokus,tech:java,topic:developer,topic:technology,language:swedish
@@ -1243,3 +1242,5 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-15-DevFest Campeche 2025,tech:google-cloud,topic:developer-tools,topic:web-development,language:spanish
 2025-11-29-DevFest Ecuador,tech:google-cloud,topic:developer-tools,topic:web-development,language:spanish
 2025-11-29-DevFest Pwani 2025,tech:google-cloud,topic:developer-tools,topic:web-development,language:english
+2026-01-14-SnowCamp 2026,topic:software-development,language:french
+

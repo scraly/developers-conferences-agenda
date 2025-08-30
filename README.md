@@ -646,9 +646,9 @@ All the data (past and coming) are available publicly in JSON:
 
 ### January
 
+* 14-17: [SnowCamp 2026](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/snowcamp-2026"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-October-2025&color=green"></a>
 * 15: [Data Left Unattended - Amsterdam](http://unattended-data.io/) - Amsterdam (Netherlands) <a href="https://sessionize.com/data-left-unattended-amsterdam/"><img alt="CFP Data Left Unattended - Amsterdam" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-September-2025&color=green"></a>
 * 22-27: [jChampions](https://jchampionsconf.com) - Online
-* 28-31: [SnowCamp 2026](https://snowcamp.io/) - Grenoble (France)
 * 29-30: [Cloud Tech Tallinn](https://cloudtechtallinn.com/) - Tallinn (Estonia)
 
 ### February
