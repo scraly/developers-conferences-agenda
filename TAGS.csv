@@ -951,7 +951,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-14-TechMids Conf 2025,topic:technology,language:english
 2025-11-14-AsturCONTech25,topic:technology,language:spanish
 2025-11-14-DevFest Hamburg 2025,tech:google,topic:web-development,language:german
-2025-11-15-Devfest Sevilla 2025,tech:google,topic:web-development,language:spanish
 2025-11-15-Barcamp RD 2025,topic:technology,language:spanish
 2025-11-15-SQL Saturday Oregon/SW Washington 2025,tech:sql,topic:data,language:english
 2025-11-15-JConf Guatemala 2025,tech:java,language:spanish
@@ -1232,7 +1231,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-18-Microsoft Ignite 2025,tech:microsoft,language:english
 2026-03-24-SRECon Americas,tech:sre,language:english
 2026-10-13-SRECon EMEA,tech:sre,language:english
-2025-11-19-Devfest Sevilla 2025,tech:python,topic:data,topic:open-source,language:spanish
 2025-11-22-DevFest Berlin,tech:javascript,topic:web-development,topic:cloud,language:german
 2025-11-29-JSDC 2025,tech:javascript,tech:react,tech:vuejs,language:chinese
 2025-11-01-DevFest Montreal,tech:python,topic:data,topic:open-source,language:english
