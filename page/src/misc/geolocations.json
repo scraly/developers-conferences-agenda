@@ -1187,6 +1187,10 @@
     "latitude": 41.0091982,
     "longitude": 28.9662187
   },
+  "Izmit (Turkey)": {
+    "latitude": 40.7721138,
+    "longitude": 29.9505623
+  },
   "Jackson, MS (USA)": {
     "latitude": 32.2998686,
     "longitude": -90.1830408
@@ -1915,6 +1919,10 @@
     "latitude": 42.812526,
     "longitude": -1.6457745
   },
+  "Panaji (India)": {
+    "latitude": 15.4989946,
+    "longitude": 73.8282141
+  },
   "Paris (France)": {
     "latitude": 48.8588897,
     "longitude": 2.3200410217200766
@@ -2299,6 +2307,10 @@
     "latitude": 43.8562586,
     "longitude": 18.4130763
   },
+  "Saskatoon (Canada)": {
+    "latitude": 52.131802,
+    "longitude": -106.660767
+  },
   "Saskatoon, SK (Canada)": {
     "latitude": 52.157902,
     "longitude": -106.6701577
@@ -2462,6 +2474,10 @@
   "Tartu (Estonia)": {
     "latitude": 58.3801207,
     "longitude": 26.72245
+  },
+  "Tashkent (Uzbekistan)": {
+    "latitude": 41.3123363,
+    "longitude": 69.2787079
   },
   "Tbilisi (Georgia)": {
     "latitude": 41.6934591,
