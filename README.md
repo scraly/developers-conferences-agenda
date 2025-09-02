@@ -568,6 +568,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21-22: [Open Conf](https://www.open-conf.gr/) - Athens (Greece) <a href="https://sessionize.com/open-conf-2025/"><img alt="CFP Open Conf 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2025&color=red"></a>
 * 21-23: [Python Sul 2025](https://sul.python.org.br/) - Porto Alegre (Brazil)
 * 21-23: [Kiwi PyCon 2025](https://kiwipycon.nz/) - Wellington (New Zealand) <a href="https://kiwipycon.nz/present/submitting-a-talk"><img alt="CFP Kiwi PyCon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-August-2025&color=red"></a>
+* 21-23: [Odoo Hackathon- #5 Edition](https://www.odoo.com/event/hackathon-5-edition-8842) - Ramillies (Belgium)
 * 22: [DevFest Ouagadougou 2025](https://gdg.community.dev/events/details/google-gdg-ouaga-presents-devfest-2025/) - Ouagadougou (Burkina Faso)
 * 22: [DevFest Karlsruhe 2025](https://www.devfestka.de/home) - Karlsruhe (Germany)
 * 22: [devopsdays São Paulo](https://devopsdays.org/events/2025-sao-paulo/welcome/) - Sao Paulo (Brazil) <a href="https://talks.devopsdays.org/devopsdays-sao-paulo-2025/cfp"><img alt="CFP devopsdays São Paulo 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-July-2025&color=red"></a>
