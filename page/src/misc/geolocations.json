@@ -1299,6 +1299,10 @@
     "latitude": 9.9674277,
     "longitude": 76.2454436
   },
+  "Koerich (Luxembourg)": {
+    "latitude": 49.6697542,
+    "longitude": 5.949443
+  },
   "Kolkata (India)": {
     "latitude": 22.5726459,
     "longitude": 88.3638953
@@ -2094,6 +2098,10 @@
   "Ramat Hasharon (Israel)": {
     "latitude": 32.1431276,
     "longitude": 34.8380853
+  },
+  "Ramillies (Belgium)": {
+    "latitude": 50.6366892,
+    "longitude": 4.9148994
   },
   "Ranchi (India)": {
     "latitude": 23.3700501,
