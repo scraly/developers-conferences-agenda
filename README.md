@@ -642,7 +642,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-17: [PyCon DE & PyData 2026](https://2026.pycon.de/) - Darmstadt (Germany)
 * 14-15: [Green IO Singapore](https://greenio.tech/conference/18/singapore-2026-april-green-it) - Singapore (Singapore) <a href="https://apidays.typeform.com/to/SMHd2wFE?=green-io-conference%3Dcall-for-speakers&typeform-source=greenio.tech"><img alt="CFP Green IO Singapore 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2026&color=green"></a>
 * 17-19: [PyTexas Conference](https://www.pytexas.org/2026/) - Austin, TX (USA)
-* 20-23: [JCON EUROPE 2026](https://2026.europe.jcon.one/) - Cologne (Germany)
+* 20-23: [JCON EUROPE 2026](https://2026.europe.jcon.one/) - Cologne (Germany) <a href="https://sessionize.com/jcon-europe-2026"><img alt="CFP JCON EUROPE 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=green"></a>
 * 22-24: [Devoxx France 2026](https://www.devoxx.fr) - Paris (France)
 * 23-25: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece)
 * 24-26: [Great International Developer Summit 2026 (GIDS 2026)](https://developersummit.com/) - Bengaluru (India)
