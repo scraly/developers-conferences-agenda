@@ -652,6 +652,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### May
 
+* 6-7: [Devox UK](https://www.devoxx.co.uk/) - London (UK)
 * 6-7: [devopsdays Zurich](https://devopsdays.org/events/2026-zurich/welcome/) - Winterthur (Switzerland)
 * 9: [Java Day Istanbul 2026](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javadayistanbul2026"><img alt="CFP Java Day Istanbul 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=green"></a>
 * 11-14: [Web Summit Vancouver](https://vancouver.websummit.com/) - Vancouver, BC (Canada)
