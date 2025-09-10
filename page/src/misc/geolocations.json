@@ -139,6 +139,10 @@
     "latitude": -9.754866,
     "longitude": -36.661471
   },
+  "Arequipa (Peru)": {
+    "latitude": -16.3988667,
+    "longitude": -71.5369607
+  },
   "Arlington, VA (USA)": {
     "latitude": 38.8769326,
     "longitude": -77.0893094
@@ -2250,6 +2254,10 @@
   "San Miguel (El Salvador)": {
     "latitude": 13.4803899,
     "longitude": -88.17722
+  },
+  "San Pedro Sula (Honduras)": {
+    "latitude": 15.5062156,
+    "longitude": -88.0248937
   },
   "San Salvador (El Salvador)": {
     "latitude": 13.6929403,
