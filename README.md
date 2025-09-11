@@ -677,6 +677,10 @@ All the data (past and coming) are available publicly in JSON:
 
 * 29-30: [KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) - Yokohama (Japan)
 
+### September
+
+* 4: [JUG SUmmer Camp 2026](https://www.jugsummercamp.org/) - La Rochelle (France)
+
 ### October
 
 * 13-16: [SRECon EMEA](https://www.usenix.org/conference/srecon26emea) - Dublin (Ireland)
