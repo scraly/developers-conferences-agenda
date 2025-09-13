@@ -308,6 +308,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21-24: [SAINTCON 2025](https://www.saintcon.org) - Provo, UT (USA) <a href="https://sessionize.com/saintcon2025/"><img alt="CFP SAINTCON 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2025&color=red"></a>
 * 21-27: [Python Brasil 2025](https://2025.pythonbrasil.org.br/) - Sao Paulo (Brazil)
 * 22: [Umbracokalaset](https://www.umbracokalaset.se/) - Stockholm (Sweden) <a href="https://sessionize.com/umbracokalaset-2025/"><img alt="Umbracokalaset 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2025&color=red"></a>
+* 22: [API Addicts Days](https://www.apiaddicts.org/apiaddictsdays/) - Madrid (Spain)
 * 22-23: [P99 CONF 2025](https://www.p99conf.io/) - Online <a href="https://sessionize.com/p99-conf-2025"><img alt="CFP P99 CONF 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-May-2025&color=red"></a>
 * 22-23: [PyTorch Conference](https://events.linuxfoundation.org/pytorch-conference/) - San Francisco (USA) <a href="https://events.linuxfoundation.org/pytorch-conference/program/cfp/"><img alt="CFP PyTorch Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2025&color=red"></a>
 * 22-23: [RISC-V Summit 2025](https://events.linuxfoundation.org/riscv-summit/) - Santa Clara, CA (USA) <a href="https://sessionize.com/risc-v-summit-2025/"><img alt="CFP RISC-V Summit 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-July-2025&color=red"></a>
@@ -679,7 +680,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### September
 
-* 4: [JUG SUmmer Camp 2026](https://www.jugsummercamp.org/) - La Rochelle (France)
+* 4: [JUG Summer Camp 2026](https://www.jugsummercamp.org/) - La Rochelle (France)
 
 ### October
 
