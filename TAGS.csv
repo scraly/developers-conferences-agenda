@@ -1265,3 +1265,16 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-22-DevFest 2025 Guadalajara,tech:android,tech:web,topic:developer-tools,language:spanish
 2025-10-22-API Addicts Days,tech:api,topic:development,topic:software,language:spanish
 2026-09-04-JUG Summer Camp 2026,tech:java,topic:programming,topic:community,language:french
+2026-03-23-ArgoCon,tech:argo,topic:cloud-native,language:english
+2026-03-23-BackstageCon,tech:backstage,topic:devops,language:english
+2026-03-23-CiliumCon,tech:cilium,topic:networking,language:english
+2026-03-23-Cloud Native Telco Day,tech:telco,topic:cloud-native,language:english
+2026-03-23-FluxCon,tech:flux,topic:cd,language:english
+2026-03-23-KeycloackCon,tech:keycloak,topic:identity,language:english
+2026-03-23-Kubernetes AI Summit with Kubeflow,tech:kubernetes,topic:ai,topic:kubeflow,language:english
+2026-03-23-Kubernetes on Edge Day,tech:kubernetes,topic:edge,language:english
+2026-03-23-KyvernoCon,tech:kyverno,topic:policies,language:english
+2026-03-23-Observability Day,tech:observability,topic:monitoring,language:english
+2026-03-23-Open Source SecurityCon,tech:security,topic:open-source,language:english
+2026-03-23-Platform Engineering Day,tech:platform-engineering,topic:devops,language:english
+2026-03-23-WasmCon,tech:wasm,topic:webassembly,language:english
