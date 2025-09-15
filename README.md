@@ -619,7 +619,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4-6: [Fabric February 2026](https://www.fabricfebruary.com/) - Oslo (Norway) <a href="https://sessionize.com/fabric-february-2026"><img alt="CFP Fabric February 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2025&color=red"></a>
 * 6: [Voxxed Days Ticino](https://ticino.voxxeddays.com/) - Lugano (Switzerland) <a href="https://vdt26.cfp.dev/"><img alt="CFP Voxxed Days Ticino 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2025&color=green"></a>
 * 10: [Voxxed Days CERN](https://cern.voxxeddays.com/) - Geneva (Switzerland) <a href="https://vdcern26.cfp.dev/"><img alt="CFP Voxxed Days CERN 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2025&color=green"></a>
-* 12-13: [Touraine Tech #26](https://touraine.tech/) - Tours (France)
+* 12-13: [Touraine Tech #26](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/touraine-tech-2026"><img alt="CFP TnT 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-November-2025&color=green"></a>
 * 24-25: [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa (USA)
 * 25-27: [ConFoo](https://confoo.ca/en/2026) - Montreal (Canada) <a href="https://confoo.ca/fr/2026/call-for-papers"><img alt="CFP ConFoo" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-September-2025&color=green"></a>
 * 26: [TEDxOslo2026](https://tedxoslo.com) - Oslo (Norway) <a href="https://sessionize.com/tedxoslo2026/"><img alt="CFP TEDxOslo2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2025&color=green"></a>
