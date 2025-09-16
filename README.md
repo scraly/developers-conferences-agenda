@@ -614,6 +614,7 @@ All the data (past and coming) are available publicly in JSON:
 ### February
 
 * 1-4: [Web Summit Qatar](https://qatar.websummit.com/) - Doha (Qatar)
+* 2-4: [CfgMgmtCamp 2026 Ghent](https://cfgmgmtcamp.org/ghent2026/) - Ghent (Belgium) <a href="https://cfp.cfgmgmtcamp.org/ghent2026/cfp"><img alt="CFP CfgMgmtCamp 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2026&color=green"></a>
 * 2-4: [Jfokus](https://www.jfokus.se/) - Stockholm (Sweden)
 * 2-6: [Web Days Convention](https://webdays.events/) - Aix-en-Provence (France) <a href="https://conference-hall.io/web-days-convention"><img alt="CFP Web Days Convention" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2026&color=green"></a>
 * 3: [Cloud Native Days France 2026](https://www.cloudnativedays.fr/) - Paris (France) <a href="https://cfp.cloudnativedays.fr/2026/"><img alt="CFP Cloud Native Days France 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-October-2025&color=green"></a>
