@@ -270,7 +270,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15-16: [InfoQ Dev Summit Munich 2025](https://devsummit.infoq.com/conference/munich2025) - Munich (Germany)
 * 15: [AI Summit Barcelona](https://aisummitbarcelona.com/) - Barcelona (Spain)
 * 16: [AWS Community Day CEE 2025](https://awscommunity.eu/) - Budapest (Hungary) <a href="https://docs.google.com/forms/d/e/1FAIpQLSe808sqsb4Cv-YP9iuGWuO8pFlJAhpMVLhHhqTfCXMBobm8HA/viewform"><img alt="CFP AWS Community Day CEE 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-June-2025&color=red"></a>
-* 16: [Conf42.com Kube Native 2025](https://www.conf42.com/kubenative2025) - Online <a href="https://www.papercall.io/conf42-kube-native-2025"><img alt="CFP Conf42.com Kube Native 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2025&color=green"></a>
+* 16: [Conf42.com Kube Native 2025](https://www.conf42.com/kubenative2025) - Online <a href="https://www.papercall.io/conf42-kube-native-2025"><img alt="CFP Conf42.com Kube Native 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2025&color=red"></a>
 * 16: [PlatformCon25 Live Day Paris](https://platformconlive.fr/) - Paris (France) <a href="https://conference-hall.io/platformcon25-live-day-paris"><img alt="CFP PlatformCon25 Live Day Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=red"></a>
 * 16: [Momentum 2025](https://momentumdevcon.com) - Cincinnati, OH (USA) <a href="https://sessionize.com/momentum-2025"><img alt="CFP Momentum 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2025&color=red"></a>
 * 16: [Power 365 - 2025](https://www.power365.fr) - Lille (France) <a href="https://sessionize.com/power-365-2025/"><img alt="CFP Power 365 - 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
@@ -560,7 +560,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1-2: [Tech Rocks Summit 2025](https://events.tech.rocks/tech-rocks-summit-2025) - Paris (France)
 * 1-4: [ESPC25](https://www.sharepointeurope.com) - Dublin (Ireland) <a href="https://sessionize.com/espc25"><img alt="CFP ESPC25" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-March-2025&color=red"></a>
 * 1-5: [AWS re:Invent 2025](https://reinvent.awsevents.com/) - Las Vegas, NV (USA)
-* 2: [JakartaOne Livestream 2025](https://jakartaone.org/2025/) - Online <a href="https://sessionize.com/jakartaone-livestream-2025/"><img alt="CFP JakartaOne Livestream" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2025&color=green"></a>
+* 2: [JakartaOne Livestream 2025](https://jakartaone.org/2025/) - Online <a href="https://sessionize.com/jakartaone-livestream-2025/"><img alt="CFP JakartaOne Livestream" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2025&color=red"></a>
 * 2-4: [Black hat Middle east and Africa](https://blackhatmea.com/) -  Malham (Saudi Arabia)
 * 2-4: [WPC 2025](https://www.wpc.education/) - Milan (Italy) <a href="https://sessionize.com/wpc-2025"><img alt="CFP WPC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-July-2025&color=red"></a>
 * 3-4: [Power Conference 2025](https://www.powerconference.cz/) - Prague (Czech Republic) <a href="https://sessionize.com/power-conference-2025"><img alt="CFP Power Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=red"></a>
