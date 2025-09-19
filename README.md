@@ -385,6 +385,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1: [DevFest Athens](https://gdg.community.dev/events/details/google-gdg-athens-presents-devfest-2025/) - Athens (Greece) <a href="https://app.advocu.com/events/68850b4fbb2f366f3aae30d8"><img alt="CFP DevFest Athens 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-August-2025&color=red"></a>
 * 1-2: [PyCon Malaysia 2025](https://www.pycon.my/) - Kuala Lumpur (Malaysia) <a href="https://cfp.pycon.my/pyconmy-2025/cfp"><img alt="CFP PyCon Malaysia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2025&color=red"></a>
 * 2: [AWS Community Day Hong Kong 2025](https://awscommunity.hk) - Hong Kong (Hong Kong) <a href="https://sessionize.com/aws-community-day-hong-kong/"><img alt="CFP AWS Community Day Hong Kong 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-September-2025&color=red"></a>
+* 2-4: [RustLab 2025](https://rustlab.it/) - Florence (Italy)
 * 3: [Open Science Workshop](https://events.linuxfoundation.org/open-science-workshop/) - San Diego, CA (USA)
 * 3-4: [KCD Porto 2025](https://community.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2025/) - Porto (Portugal) <a href="https://sessionize.com/kcd-porto-2025/"><img alt="CFP KCD Porto 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
 * 3-4: [ConTech2025byRoOUG](https://contech2022.rooug.ro/) - Bucharest (Romania) <a href="https://www.papercall.io/contechbyrooug2025"><img alt="CFP ConTech2025byRoOUG" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=red"></a>
@@ -679,6 +680,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-7: [devopsdays Zurich](https://devopsdays.org/events/2026-zurich/welcome/) - Winterthur (Switzerland)
 * 9: [Java Day Istanbul 2026](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javadayistanbul2026"><img alt="CFP Java Day Istanbul 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=green"></a>
 * 11-14: [Web Summit Vancouver](https://vancouver.websummit.com/) - Vancouver, BC (Canada)
+* 18-23: [RustWeek 2026](https://2026.rustweek.org/) - Eindhoven (Netherlands)
 * 21-22: [DataGrillen 2026](https://datagrillen.com) - Lingen (Germany) <a href="https://sessionize.com/datagrillen-2026/"><img alt="CFP DataGrillen 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-December-2025&color=green"></a>
 * 21-22: [devopsdays Geneva](https://devopsdays.org/events/2026-geneva/welcome/) - Geneva (Switzerland)
 * 29-31: [RubyConf Austria 2026](https://rubyconf.at) - Vienna (Austria) <a href="https://www.papercall.io/rubyconfaustria2026"><img alt="CFP RubyConf Austria 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2025&color=green"></a>
@@ -698,6 +700,7 @@ All the data (past and coming) are available publicly in JSON:
 ### September
 
 * 4: [JUG Summer Camp 2026](https://www.jugsummercamp.org/) - La Rochelle (France)
+* 8-11: [RustConf 2026](https://rustconf.com/) - Montreal (Canada)
 
 ### October
 
