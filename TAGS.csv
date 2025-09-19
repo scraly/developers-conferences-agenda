@@ -1278,3 +1278,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-03-23-Open Source SecurityCon,tech:security,topic:open-source,language:english
 2026-03-23-Platform Engineering Day,tech:platform-engineering,topic:devops,language:english
 2026-03-23-WasmCon,tech:wasm,topic:webassembly,language:english
+2025-10-13-Nordic APIs Platform Summit 2025,tech:api,topic:platform,topic:developer,language:english
+2025-10-22-Next.js Conf 2025,tech:javascript,topic:frontend,topic:react,language:english
+2026-02-02-CfgMgmtCamp 2026 Ghent,tech:configuration-management,topic:automation,topic:devops,language:english
