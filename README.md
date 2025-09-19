@@ -701,6 +701,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 4: [JUG Summer Camp 2026](https://www.jugsummercamp.org/) - La Rochelle (France)
 * 8-11: [RustConf 2026](https://rustconf.com/) - Montreal (Canada)
+* 17-18: [API Platform Conference 2026](https://api-platform.com/fr/con/) - Lille (France)
 
 ### October
 
