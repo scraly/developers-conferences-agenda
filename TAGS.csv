@@ -1282,3 +1282,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-10-22-Next.js Conf 2025,tech:javascript,topic:frontend,topic:react,language:english
 2026-02-02-CfgMgmtCamp 2026 Ghent,tech:configuration-management,topic:automation,topic:devops,language:english
 2026-09-17-API Platform Conference 2026,tech:php,topic:api,language:english,language:french
+2025-11-02-RustLab 2025,tech:rust,topic:programming,topic:open-source,language:english
+2026-03-13-Digital Crafts Day 2026,tech:digital-crafts,topic:technology,topic:innovation,language:german
+2026-05-18-RustWeek 2026,tech:rust,topic:programming,topic:open-source,language:dutch
+2026-09-08-RustConf 2026,tech:rust,topic:programming,topic:open-source,language:french
