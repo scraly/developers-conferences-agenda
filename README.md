@@ -297,6 +297,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20: [devopsdays Garanhuns](https://devopsdays.org/events/2025-garanhuns/welcome/) - Garanhuns (Brazil)
 * 20-21: [The Linux Foundation Legal Summit](https://events.linuxfoundation.org/lf-legal-summit/) - San Francisco (USA)
 * 20-24: [NDC Porto 2025](https://ndcporto.com/) - Porto (Portugal) <a href="https://ndcporto.com/call-for-papers"><img alt="CFP NDC Porto 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-May-2025&color=red"></a>
+* 21: [JetBrains GameDev Day 2025](https://lp.jetbrains.com/gamedev-day-2025/) - Online
 * 21: [The Future of Software conference Copenhagen](https://www.thefutureofsoftware.com) - Copenhagen (Denmark) & Online <a href="https://sessionize.com/the-future-of-software-conference-cph-stlm"><img alt="CFP The Future of Software conference Copenhagen 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-June-2025&color=red"></a>
 * 21: [ServerlessDays Milano 2025](http://milan.serverlessdays.io) - Milan (Italy) <a href="https://www.papercall.io/serverlessdays-milano-2025"><img alt="CFP ServerlessDays Milano 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-August-2025&color=red"></a>
 * 21-22: [KCD UK Edinburgh 2025](https://kcduk.io) - Edinburgh (Scotland) <a href="https://sessionize.com/kcd-uk-edinburgh-2025-copy"><img alt="CFP KCD UK Edinburgh 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-June-2025&color=red"></a>
@@ -678,7 +679,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### May
 
-* 6-7: [Devoxx UK 2026](https://www.devoxx.co.uk/) - London (UK) <a href="https://www.devoxx.co.uk/sponsorships/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
+* 6-7: [Devoxx UK 2026](https://www.devoxx.co.uk/) - London (UK)
 * 6-7: [devopsdays Zurich](https://devopsdays.org/events/2026-zurich/welcome/) - Winterthur (Switzerland)
 * 9: [Java Day Istanbul 2026](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javadayistanbul2026"><img alt="CFP Java Day Istanbul 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=green"></a>
 * 11-14: [Web Summit Vancouver](https://vancouver.websummit.com/) - Vancouver, BC (Canada)
