@@ -139,6 +139,10 @@
     "latitude": -9.754866,
     "longitude": -36.661471
   },
+  "Arequipa (Peru)": {
+    "latitude": -16.3988667,
+    "longitude": -71.5369607
+  },
   "Arlington, VA (USA)": {
     "latitude": 38.8769326,
     "longitude": -77.0893094
@@ -154,6 +158,10 @@
   "Asheville, NC (USA)": {
     "latitude": 35.5950581,
     "longitude": -82.5514869
+  },
+  "Ashgabat (Turkmenistan)": {
+    "latitude": 37.9378321,
+    "longitude": 58.2359467
   },
   "Athens (Greece)": {
     "latitude": 37.9755648,
@@ -1187,6 +1195,10 @@
     "latitude": 41.0091982,
     "longitude": 28.9662187
   },
+  "Izmit (Turkey)": {
+    "latitude": 40.7721138,
+    "longitude": 29.9505623
+  },
   "Jackson, MS (USA)": {
     "latitude": 32.2998686,
     "longitude": -90.1830408
@@ -1298,6 +1310,10 @@
   "Kochi (India)": {
     "latitude": 9.9674277,
     "longitude": 76.2454436
+  },
+  "Koerich (Luxembourg)": {
+    "latitude": 49.6697542,
+    "longitude": 5.949443
   },
   "Kolkata (India)": {
     "latitude": 22.5726459,
@@ -1755,6 +1771,10 @@
     "latitude": 36.1622767,
     "longitude": -86.7742984
   },
+  "Natal (Brazil)": {
+    "latitude": -5.805398,
+    "longitude": -35.2080905
+  },
   "National Harbor, Maryland (USA)": {
     "latitude": 38.7831238,
     "longitude": -77.0128237
@@ -1907,6 +1927,10 @@
     "latitude": 42.812526,
     "longitude": -1.6457745
   },
+  "Panaji (India)": {
+    "latitude": 15.4989946,
+    "longitude": 73.8282141
+  },
   "Paris (France)": {
     "latitude": 48.8588897,
     "longitude": 2.3200410217200766
@@ -2051,6 +2075,10 @@
     "latitude": 50.0874654,
     "longitude": 14.4212535
   },
+  "Pretoria (South Africa)": {
+    "latitude": -25.7459277,
+    "longitude": 28.1879101
+  },
   "Prizren (Kosovo)": {
     "latitude": 42.2130151,
     "longitude": 20.7363339
@@ -2067,6 +2095,10 @@
     "latitude": 46.8130816,
     "longitude": -71.20745959999999
   },
+  "Quito (Ecuador)": {
+    "latitude": -0.2201641,
+    "longitude": -78.5123274
+  },
   "Québec (Canada)": {
     "latitude": 52.4760892,
     "longitude": -71.8258668
@@ -2082,6 +2114,10 @@
   "Ramat Hasharon (Israel)": {
     "latitude": 32.1431276,
     "longitude": 34.8380853
+  },
+  "Ramillies (Belgium)": {
+    "latitude": 50.6366892,
+    "longitude": 4.9148994
   },
   "Ranchi (India)": {
     "latitude": 23.3700501,
@@ -2199,6 +2235,10 @@
     "latitude": 37.8097487,
     "longitude": -122.4104493
   },
+  "San Francisco de Campeche (Mexico)": {
+    "latitude": 19.8436755,
+    "longitude": -90.5367454
+  },
   "San Francisco, CA (USA)": {
     "latitude": 37.7790262,
     "longitude": -122.419906
@@ -2214,6 +2254,10 @@
   "San Miguel (El Salvador)": {
     "latitude": 13.4803899,
     "longitude": -88.17722
+  },
+  "San Pedro Sula (Honduras)": {
+    "latitude": 15.5062156,
+    "longitude": -88.0248937
   },
   "San Salvador (El Salvador)": {
     "latitude": 13.6929403,
@@ -2274,6 +2318,10 @@
   "Sarajevo (Bosnia and Herzegovina)": {
     "latitude": 43.8562586,
     "longitude": 18.4130763
+  },
+  "Saskatoon (Canada)": {
+    "latitude": 52.131802,
+    "longitude": -106.660767
   },
   "Saskatoon, SK (Canada)": {
     "latitude": 52.157902,
@@ -2438,6 +2486,10 @@
   "Tartu (Estonia)": {
     "latitude": 58.3801207,
     "longitude": 26.72245
+  },
+  "Tashkent (Uzbekistan)": {
+    "latitude": 41.3123363,
+    "longitude": 69.2787079
   },
   "Tbilisi (Georgia)": {
     "latitude": 41.6934591,
@@ -2634,6 +2686,10 @@
   "Weiden (Germany)": {
     "latitude": 49.8068258,
     "longitude": 7.3007004
+  },
+  "Weiden in der Oberpfalz (Germany)": {
+    "latitude": 49.6752749,
+    "longitude": 12.1631636
   },
   "Wellington (New Zealand)": {
     "latitude": -41.2887953,

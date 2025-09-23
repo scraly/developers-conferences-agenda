@@ -951,7 +951,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-14-TechMids Conf 2025,topic:technology,language:english
 2025-11-14-AsturCONTech25,topic:technology,language:spanish
 2025-11-14-DevFest Hamburg 2025,tech:google,topic:web-development,language:german
-2025-11-15-Devfest Sevilla 2025,tech:google,topic:web-development,language:spanish
 2025-11-15-Barcamp RD 2025,topic:technology,language:spanish
 2025-11-15-SQL Saturday Oregon/SW Washington 2025,tech:sql,topic:data,language:english
 2025-11-15-JConf Guatemala 2025,tech:java,language:spanish
@@ -1072,7 +1071,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-12-16-QCon AI 2025,tech:ai,topic:machine-learning,topic:artificial-intelligence,language:english
 2025-12-18-Conf42.com Internet of Things (IoT) 2025,tech:iot,topic:internet-of-things,topic:technology,language:english
 2026-01-22-jChampions,tech:java,topic:developer,topic:technology,language:english
-2026-01-28-SnowCamp 2026,tech:snowflake,topic:data,topic:cloud,language:french
 2026-01-29-Cloud Tech Tallinn,tech:cloud,topic:technology,topic:infrastructure,language:estonian
 2026-02-01-Web Summit Qatar,tech:web,topic:technology,topic:innovation,language:arabic
 2026-02-02-Jfokus,tech:java,topic:developer,topic:technology,language:swedish
@@ -1232,6 +1230,60 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-18-Microsoft Ignite 2025,tech:microsoft,language:english
 2026-03-24-SRECon Americas,tech:sre,language:english
 2026-10-13-SRECon EMEA,tech:sre,language:english
-2025-11-19-Devfest Sevilla 2025,tech:python,topic:data,topic:open-source,language:spanish
 2025-11-22-DevFest Berlin,tech:javascript,topic:web-development,topic:cloud,language:german
 2025-11-29-JSDC 2025,tech:javascript,tech:react,tech:vuejs,language:chinese
+2025-11-01-DevFest Montreal,tech:python,topic:data,topic:open-source,language:english
+2025-10-31-DevFest Nairobi 2025,tech:google-cloud,topic:developer-tools,topic:web-development,language:english
+2025-11-01-DevFest Johannesburg 2025,tech:google-cloud,topic:developer-tools,topic:web-development,language:english
+2025-11-05-Red Hat Summit: Connect Paris 2025,tech:red-hat,topic:open-source,topic:cloud-computing,language:french
+2025-11-07-GO!RN 2025,tech:open-source,topic:devops,topic:containers,language:portuguese
+2025-11-09-Devfest Sevilla 2025,tech:google-cloud,topic:developer-tools,topic:web-development,language:spanish
+2025-11-15-DevFest Pretoria 2025,tech:google-cloud,topic:developer-tools,topic:web-development,language:english
+2025-11-15-DevFest Campeche 2025,tech:google-cloud,topic:developer-tools,topic:web-development,language:spanish
+2025-11-29-DevFest Ecuador,tech:google-cloud,topic:developer-tools,topic:web-development,language:spanish
+2025-11-29-DevFest Pwani 2025,tech:google-cloud,topic:developer-tools,topic:web-development,language:english
+2026-01-14-SnowCamp 2026,topic:software-development,language:french
+2025-10-08-Mini-hackathon - #1 Edition,topic:beginners,tech:open-source
+2025-10-11-Devfest Goa 2025,tech:google-cloud,tech:android,topic:web-development,language:english
+2025-10-25-DevFest Saskatoon 2025,tech:google-cloud,tech:android,topic:web-development,language:english
+2025-10-25-Google Developer Groups Harare DevFest 2025,tech:google-cloud,tech:android,topic:web-development,language:english
+2025-10-25-DevFest'25 Ashgabat,tech:google-cloud,tech:android,topic:web-development,language:english
+2025-10-25-DevFest Guatemala City 2025,tech:google-cloud,tech:android,topic:web-development,language:spanish
+2025-11-04-DevFest Wroclaw 2025,tech:google-cloud,tech:android,topic:web-development,language:polish
+2025-11-15-Google DevFest 2025 - Tashkent,tech:google-cloud,tech:android,topic:web-development,language:english
+2025-11-21-Odoo Hackathon- #5 Edition,tech:odoo,topic:erp,topic:open-source,language:french
+2025-11-29-DevFest 2025 GDG Campinas,tech:google-cloud,tech:android,topic:web-development,language:portuguese
+2025-11-29-DevFest'25: Build a New Era of Innovation,tech:google-cloud,tech:android,topic:web-development,language:portuguese
+2025-12-06-DevFest'25 Kocaeli,tech:google-cloud,tech:android,topic:web-development,language:turkish
+2025-10-22-Umbracokalaset,tech:umbraco,topic:kalaset,language:swedish
+2025-11-06-TypeScriptAI,tech:typescript,topic:ai,language:english
+2026-05-06-Devox UK,topic:developer,topic:java,language:english,topic:cloud-computing
+2025-09-12-UtahJS Conference,tech:javascript,topic:web-development,topic:frontend,language:english
+2025-11-01-DevFest San Pedro Sula 2025,tech:android,tech:web,topic:developer-tools,language:spanish
+2025-11-15-Devfest La Paz 2025,tech:android,tech:web,topic:developer-tools,language:spanish
+2025-11-15-DevFest Arequipa 2025,tech:android,tech:web,topic:developer-tools,language:spanish
+2025-11-22-DevFest 2025 Guadalajara,tech:android,tech:web,topic:developer-tools,language:spanish
+2025-10-22-API Addicts Days,tech:api,topic:development,topic:software,language:spanish
+2026-09-04-JUG Summer Camp 2026,tech:java,topic:programming,topic:community,language:french
+2026-03-23-ArgoCon,tech:argo,topic:cloud-native,language:english
+2026-03-23-BackstageCon,tech:backstage,topic:devops,language:english
+2026-03-23-CiliumCon,tech:cilium,topic:networking,language:english
+2026-03-23-Cloud Native Telco Day,tech:telco,topic:cloud-native,language:english
+2026-03-23-FluxCon,tech:flux,topic:cd,language:english
+2026-03-23-KeycloackCon,tech:keycloak,topic:identity,language:english
+2026-03-23-Kubernetes AI Summit with Kubeflow,tech:kubernetes,topic:ai,topic:kubeflow,language:english
+2026-03-23-Kubernetes on Edge Day,tech:kubernetes,topic:edge,language:english
+2026-03-23-KyvernoCon,tech:kyverno,topic:policies,language:english
+2026-03-23-Observability Day,tech:observability,topic:monitoring,language:english
+2026-03-23-Open Source SecurityCon,tech:security,topic:open-source,language:english
+2026-03-23-Platform Engineering Day,tech:platform-engineering,topic:devops,language:english
+2026-03-23-WasmCon,tech:wasm,topic:webassembly,language:english
+2025-10-13-Nordic APIs Platform Summit 2025,tech:api,topic:platform,topic:developer,language:english
+2025-10-22-Next.js Conf 2025,tech:javascript,topic:frontend,topic:react,language:english
+2026-02-02-CfgMgmtCamp 2026 Ghent,tech:configuration-management,topic:automation,topic:devops,language:english
+2026-09-17-API Platform Conference 2026,tech:php,topic:api,language:english,language:french
+2025-11-02-RustLab 2025,tech:rust,topic:programming,topic:open-source,language:english
+2026-03-13-Digital Crafts Day 2026,tech:digital-crafts,topic:technology,topic:innovation,language:german
+2026-05-18-RustWeek 2026,tech:rust,topic:programming,topic:open-source,language:dutch
+2026-09-08-RustConf 2026,tech:rust,topic:programming,topic:open-source,language:french
+2025-11-24-Forward Data & AI Conference,tech:ai,tech:data-science,topic:machine-learning,topic:data-analysis,language:english

@@ -55,7 +55,9 @@
     "Malaysia",
     "Qatar",
     "Saudi Arabia",
-    "Kazakhstan"
+    "Kazakhstan",
+    "Uzbekistan",
+    "Turkmenistan"
   ],
   "Central America": [
     "Costa Rica",
@@ -126,6 +128,7 @@
     "Colombia",
     "Bolivia",
     "Guatemala",
-    "Uruguay"
+    "Uruguay",
+    "Ecuador"
   ]
 }
