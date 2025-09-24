@@ -1288,6 +1288,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-08-RustConf 2026,tech:rust,topic:programming,topic:open-source,language:french
 2025-11-24-Forward Data & AI Conference,tech:ai,tech:data-science,topic:machine-learning,topic:data-analysis,language:english
 2025-10-07-Redis Released Paris,tech:redis,topic:database,topic:open-source,language:french
-2025-10-21-JetBrains GameDev Day 2025,tech:gamedev,topic:programming,topic:game-development,language:english
+2025-10-21-JetBrains GameDev Day 2025,tech:gamedev,topic:game-development,language:english
 2026-04-28-Stripe Sessions 2026,tech:stripe,topic:finance,topic:technology,language:english
 2026-05-06-Devoxx UK 2026,tech:java,topic:software-development,language:english
