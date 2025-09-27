@@ -80,6 +80,7 @@ const ListView = () => {
                     <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''}</b>
                     <span>{e.location}</span>
                     <span dangerouslySetInnerHTML={{__html: e.misc}} />
+                    {e.sponsoring ? <span><a class="sponsoring" href={e.sponsoring} rel="noreferrer" target="_blank">💰</a></span> : null}
                     {e.closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
                   </div>
                 </div>

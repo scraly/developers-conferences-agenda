@@ -74,6 +74,7 @@ const CfpView = () => {
                         <span className="countryFlag">{e.country != "Online" ? flag(e.country) : '🌎'}</span>
                         <span className="countryName">{e.location}</span>
                       </div>
+                      {e.sponsoring ? <a href={e.sponsoring} rel="noreferrer" target="_blank">💰</a> : null}
                       <TagBadges onTagClick={handleTagClick} tags={e.tags} />
                     </div>
                     <a className="submitButton" href={e.cfp.link} rel="noreferrer" target="_blank" title="Submit to the CFP">
