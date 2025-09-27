@@ -1,9 +1,9 @@
-import React, { useState, useCallback } from 'react';
+import React, { useState, useCallback, useEffect } from 'react';
 import TagMultiSelect from 'components/TagMultiSelect/TagMultiSelect';
 import 'styles/AddEventForm.css';
 
-const AddEventForm = ({ isOpen, onClose }) => {
-  const [formData, setFormData] = useState({
+const AddEventForm = ({ isOpen, onClose, allEvents }) => {
+  const initialFormState = {
     name: '',
     startDate: '',
     endDate: '',
@@ -16,11 +16,57 @@ const AddEventForm = ({ isOpen, onClose }) => {
     closedCaptions: false,
     onlineEvent: false,
     tags: []
-  });
-
+  };
+  const [formData, setFormData] = useState(initialFormState);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [filteredEvents, setFilteredEvents] = useState([]);
+  const [isEditing, setIsEditing] = useState(false);
+  const [originalEvent, setOriginalEvent] = useState(null);
   const [errors, setErrors] = useState({});
 
+  const handleEventSelect = (event) => {
+    setSearchQuery(event.name);
+    setFilteredEvents([]);
+    setIsEditing(true);
+
+    const normalizedEvent = {
+      name: event.name || '',
+      startDate: event.startDate ? new Date(event.startDate).toISOString().split('T')[0] : '',
+      endDate: event.endDate ? new Date(event.endDate).toISOString().split('T')[0] : '',
+      eventUrl: event.url || '',
+      city: event.city || '',
+      country: event.country || '',
+      cfpUrl: event.cfpUrl || '',
+      cfpEndDate: event.cfpEndDate ? new Date(event.cfpEndDate).toISOString().split('T')[0] : '',
+      hasCfp: !!event.cfpUrl,
+      closedCaptions: event.closedCaptions || false,
+      onlineEvent: event.online || false,
+      tags: event.tags || []
+    };
+
+    setOriginalEvent(normalizedEvent);
+    setFormData(normalizedEvent);
+  };
+
   const handleInputChange = (field, value) => {
+    if (field === 'name') {
+      setSearchQuery(value);
+      if (value.trim() === '') {
+        setFilteredEvents([]);
+        if (isEditing) {
+          setFormData(initialFormState);
+          setIsEditing(false);
+          setOriginalEvent(null);
+        }
+      } else if (!isEditing) {
+        const query = value.toLowerCase();
+        const filtered = allEvents.filter(event =>
+          event.name.toLowerCase().includes(query)
+        );
+        setFilteredEvents(filtered);
+      }
+    }
+
     setFormData(prev => ({
       ...prev,
       [field]: value
@@ -183,6 +229,42 @@ const AddEventForm = ({ isOpen, onClose }) => {
   };
 
   const generateIssueBody = () => {
+    if (isEditing) {
+      const changes = [];
+      Object.keys(formData).forEach(key => {
+        const originalValue = originalEvent[key];
+        const newValue = formData[key];
+
+        const originalValueString = Array.isArray(originalValue) ? originalValue.join(', ') : String(originalValue || '');
+        const newValueString = Array.isArray(newValue) ? newValue.join(', ') : String(newValue || '');
+
+        if (originalValueString !== newValueString) {
+          changes.push(`- **${key}:** ~~\`${originalValueString || 'N/A'}\`~~ -> \`${newValueString || 'N/A'}\``);
+        }
+      });
+
+      const humanReadableInfo = `
+**Event Update:**
+- **Name:** ${formData.name}
+- **URL:** ${formData.eventUrl}
+
+**Proposed Changes:**
+${changes.join('\n')}
+
+**New README.md line:**
+\`\`\`
+${generateReadmeLine()}
+\`\`\`
+
+**New TAGS.csv lines:**
+${formData.tags.length > 0 ? `\`\`\`
+${generateTagsCsvLines()}
+\`\`\`` : 'No tags to add'}
+`;
+      return encodeURIComponent(humanReadableInfo.trim());
+    }
+
+
     // Generate human-readable location
     let locationDisplay;
     if (formData.onlineEvent) {
@@ -230,28 +312,18 @@ ${generateTagsCsvLines()}
       return;
     }
 
-    const title = encodeURIComponent(`[New event] ${formData.startDate}: ${formData.name}`);
+    const title = encodeURIComponent(isEditing ? `[Event Update] ${formData.name}` : `[New event] ${formData.startDate}: ${formData.name}`);
     const body = generateIssueBody();
     
-    const githubUrl = `https://github.com/scraly/developers-conferences-agenda/issues/new?title=${title}&body=${body}&labels=new-event`;
+    const githubUrl = `https://github.com/scraly/developers-conferences-agenda/issues/new?title=${title}&body=${body}&labels=${isEditing ? 'update-event' : 'new-event'}`;
     
     window.open(githubUrl, '_blank');
     
     // Reset form and close
-    setFormData({
-      name: '',
-      startDate: '',
-      endDate: '',
-      eventUrl: '',
-      city: '',
-      country: '',
-      cfpUrl: '',
-      cfpEndDate: '',
-      hasCfp: false,
-      closedCaptions: false,
-      onlineEvent: false,
-      tags: []
-    });
+    setSearchQuery('');
+    setIsEditing(false);
+    setOriginalEvent(null);
+    setFormData(initialFormState);
     setErrors({});
     onClose();
   };
@@ -260,9 +332,9 @@ ${generateTagsCsvLines()}
 
   return (
     <div className="add-event-overlay">
-      <div className="add-event-form">
+      <div className={`add-event-form ${isEditing ? 'editing' : ''}`}>
         <div className="add-event-header">
-          <h2>Add New Event</h2>
+          <h2>{isEditing ? 'Edit Event' : 'Add New Event'}</h2>
           <button 
             aria-label="Close" 
             className="close-button"
@@ -281,8 +353,18 @@ ${generateTagsCsvLines()}
               id="name"
               onChange={(e) => handleInputChange('name', e.target.value)}
               type="text"
-              value={formData.name}
+              value={searchQuery}
+              autoComplete="off"
             />
+            {filteredEvents.length > 0 && (
+              <ul className="event-suggestions">
+                {filteredEvents.map((event, index) => (
+                  <li key={`${event.name}-${index}`} onClick={() => handleEventSelect(event)}>
+                    {event.name} ({new Date(event.startDate).getFullYear()})
+                  </li>
+                ))}
+              </ul>
+            )}
             {errors.name ? <span className="error-message">{errors.name}</span> : null}
           </div>
 
@@ -424,7 +506,7 @@ ${generateTagsCsvLines()}
               Cancel
             </button>
             <button className="submit-button" type="submit">
-              Create GitHub Issue
+              {isEditing ? 'Create Update Issue' : 'Create GitHub Issue'}
             </button>
           </div>
         </form>
