@@ -3,11 +3,20 @@ VERSION:2.0
 PRODID:DCA
 BEGIN:VEVENT
 UID:KubeCon + CloudNativeCon Europe 2027@dca-2027
-DTSTAMP:20250928T102214
+DTSTAMP:20250928T102927
 DTSTART:20270315
 DTEND:20270319
 LOCATION:Barcelona (Spain)
 SUMMARY:KubeCon + CloudNativeCon Europe 2027
 URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:PyTorch Conference 2027@dca-2027
+DTSTAMP:20250928T102927
+DTSTART:20271006
+DTEND:20271008
+LOCATION:San Jose (USA)
+SUMMARY:PyTorch Conference 2027
+URL:https://events.linuxfoundation.org/pytorch-conference-2027/
 END:VEVENT
 END:VCALENDAR
