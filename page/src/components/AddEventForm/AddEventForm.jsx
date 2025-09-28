@@ -1,8 +1,9 @@
 import React, { useState, useCallback, useEffect } from 'react';
 import TagMultiSelect from 'components/TagMultiSelect/TagMultiSelect';
+import allEvents from 'misc/all-events.json';
 import 'styles/AddEventForm.css';
 
-const AddEventForm = ({ isOpen, onClose, allEvents }) => {
+const AddEventForm = ({ isOpen, onClose }) => {
   const initialFormState = {
     name: '',
     startDate: '',
@@ -61,7 +62,7 @@ const AddEventForm = ({ isOpen, onClose, allEvents }) => {
       } else if (!isEditing) {
         const query = value.toLowerCase();
         const filtered = allEvents.filter(event =>
-          event.name.toLowerCase().includes(query)
+          event.name && event.name.toLowerCase().includes(query)
         );
         setFilteredEvents(filtered);
       }

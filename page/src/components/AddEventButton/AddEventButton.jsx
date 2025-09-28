@@ -3,7 +3,7 @@ import { Plus } from 'lucide-react';
 import AddEventForm from 'components/AddEventForm/AddEventForm';
 import 'styles/AddEventButton.css';
 
-const AddEventButton = ({ allEvents }) => {
+const AddEventButton = () => {
   const [isFormOpen, setIsFormOpen] = useState(false);
 
   const handleOpenForm = () => {
@@ -29,7 +29,6 @@ const AddEventButton = ({ allEvents }) => {
       <AddEventForm 
         isOpen={isFormOpen} 
         onClose={handleCloseForm}
-        allEvents={allEvents}
       />
     </>
   );
