@@ -618,6 +618,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-17: [SnowCamp 2026](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/snowcamp-2026"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-October-2025&color=green"></a>
 * 15: [Data Left Unattended - Amsterdam](http://unattended-data.io/) - Amsterdam (Netherlands) <a href="https://sessionize.com/data-left-unattended-amsterdam/"><img alt="CFP Data Left Unattended - Amsterdam" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-September-2025&color=red"></a>
 * 22-27: [jChampions](https://jchampionsconf.com) - Online
+* 28-29: [LF Decentralized Trust Member Summit](https://www.lfdecentralizedtrust.org/member-summit-10th-anniversary) - Jersey City (USA)
 * 29-30: [Cloud Tech Tallinn](https://cloudtechtallinn.com/) - Tallinn (Estonia)
 
 ### February
@@ -652,12 +653,13 @@ All the data (past and coming) are available publicly in JSON:
 * 23: [CiliumCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/ciliumcon/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=green"></a>
 * 23: [Cloud Native Telco Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cloud-native-telco-day/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=green"></a>
 * 23: [FluxCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/fluxcon/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=green"></a>
-* 23: [KeycloackCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/keycloackcon/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=green"></a>
-* 23: [Kubernetes AI Summit with Kubeflow](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/kubernetes-ai-summit-with-kubeflow/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=green"></a>
+* 23: [KeycloakCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/keycloackcon/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=green"></a>
+* 23: [Cloud Native AI + Kubeflow Day Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cloud-native-ai-kubeflow-day/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=green"></a>
 * 23: [Kubernetes on Edge Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/kubernetes-on-edge-day/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=green"></a>
 * 23: [KyvernoCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/kyvernocon/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=green"></a>
 * 23: [Observability Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/observability-day/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=green"></a>
 * 23: [Open Source SecurityCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/open-source-securitycon/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=green"></a>
+* 23: [OpenTofu Day Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/opentofu-day/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=green"></a>
 * 23: [Platform Engineering Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/platform-engineering-day/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=green"></a>
 * 23: [WasmCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=green"></a>
 * 23-26: [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) - Amsterdam (Netherlands) <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/"><img alt="CFP KubeCon + CloudNativeCon Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-October-2025&color=green"></a>
@@ -685,10 +687,12 @@ All the data (past and coming) are available publicly in JSON:
 
 ### May
 
+* May 4-6: [Linux Storage, Filesystem, MM & BPF Summit](https://events.linuxfoundation.org/lsfmmbpf/) - Zagreb (Croatia)
 * 6-7: [Devoxx UK 2026](https://www.devoxx.co.uk/) - London (UK)
 * 6-7: [devopsdays Zurich](https://devopsdays.org/events/2026-zurich/welcome/) - Winterthur (Switzerland)
 * 9: [Java Day Istanbul 2026](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javadayistanbul2026"><img alt="CFP Java Day Istanbul 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=green"></a>
 * 11-14: [Web Summit Vancouver](https://vancouver.websummit.com/) - Vancouver, BC (Canada)
+* 18-20: [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Minneapolis, MN (USA)
 * 18-23: [RustWeek 2026](https://2026.rustweek.org/) - Eindhoven (Netherlands)
 * 21-22: [DataGrillen 2026](https://datagrillen.com) - Lingen (Germany) <a href="https://sessionize.com/datagrillen-2026/"><img alt="CFP DataGrillen 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-December-2025&color=green"></a>
 * 21-22: [devopsdays Geneva](https://devopsdays.org/events/2026-geneva/welcome/) - Geneva (Switzerland)
@@ -701,6 +705,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-12: [Domain-Driven Design Europe](https://2026.dddeurope.com/) - Antwerp (Belgium) <a href="https://2026.dddeurope.com/cfp/"><img alt="CFP Domain-Driven Design Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
 * 11-12: [DataMeshLive](https://2026.datameshlive.com/) - Antwerp (Belgium) <a href="https://2026.datameshlive.com/cfp"><img alt="CFP DataMeshLive" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
 * 17: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
+* 18-19: [KubeCon + CloudNativeCon India 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - Mumbai (India)
 
 ### July
 
@@ -714,14 +719,24 @@ All the data (past and coming) are available publicly in JSON:
 
 ### October
 
+* 7-9: [Open Source Summit Europe 2026](https://events.linuxfoundation.org/open-source-summit-europe-2026/) - Prague (Czech Republic)
 * 13-16: [SRECon EMEA](https://www.usenix.org/conference/srecon26emea) - Dublin (Ireland)
+* 20-21: [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/) - San Jose (USA)
 * 26-29: [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - Los Angeles, CA (USA)
+
+### December
+
+* 7-9: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan-2026/) - Tokyo (Japan)
 
 ## 2027
 
 ### March
 
 * 15-18: [KubeCon + CloudNativeCon Europe 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/) - Barcelona (Spain)
+
+### October
+
+* 6-7: [PyTorch Conference 2027](https://events.linuxfoundation.org/pytorch-conference-2027/) - San Jose (USA)
 
 ## License
 
