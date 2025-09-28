@@ -707,6 +707,8 @@ All the data (past and coming) are available publicly in JSON:
 * 8-11: [Web Summit Rio](https://rio.websummit.com/) - Rio de Janeiro (Brazil)
 * 8-12: [Domain-Driven Design Europe](https://2026.dddeurope.com/) - Antwerp (Belgium) <a href="https://2026.dddeurope.com/cfp/"><img alt="CFP Domain-Driven Design Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
 * 11-12: [DataMeshLive](https://2026.datameshlive.com/) - Antwerp (Belgium) <a href="https://2026.datameshlive.com/cfp"><img alt="CFP DataMeshLive" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
+* 11-12: [Blastoff Rails](https://blastoffrails.com) -  Albuquerque, NM (USA) <a href="https://www.papercall.io/blastoff"><img alt="CFP Blastoff Rails" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2026&color=green"></a>
+* 12-13: [Baltic Ruby 2026](https://balticruby.org) -  Hamburg (Germany) <a href="https://www.papercall.io/balticruby2026"><img alt="CFP Baltic Ruby 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2025&color=green"></a>
 * 17: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 * 18-19: [KubeCon + CloudNativeCon India 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - Mumbai (India)
 
