@@ -268,6 +268,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-16: [HUSTEF](https://hustef.hu) - Budapest (Hungary) <a href="https://hustef.hu/call-for-proposals-2025/"><img alt="CFP HUSTEF" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2025&color=red"></a>
 * 14-16: [JSConf](https://events.linuxfoundation.org/jsconf-north-america/) - Maryland (USA)
 * 14-16: [EARL 2025](https://earl-conference.com/) - Brighton (UK)
+* 15: [EnvoyCon Virtual](https://community.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-virtual-envoycon-2025/) - Online
 * 15-16: [BaselOne 2025](https://baselone.ch) - Basel (Switzerland) <a href="https://sessionize.com/baselone25"><img alt="CFP BaselOne 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2025&color=red"></a>
 * 15-16: [InfoQ Dev Summit Munich 2025](https://devsummit.infoq.com/conference/munich2025) - Munich (Germany)
 * 15: [AI Summit Barcelona](https://aisummitbarcelona.com/) - Barcelona (Spain)
@@ -283,6 +284,7 @@ All the data (past and coming) are available publicly in JSON:
 * 16-17: [DevOps Talks Conference 2025 in Sydney](https://devops.talksplus.com/sydney/devops) - Sydney (Australia)
 * 17: [Sylius Con 2025](https://sylius.com/conference-2025/) - Lyon (France) <a href="https://sylius.com/conference-2025/#speakers"><img alt="CFP Sylius Con 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-June-2025&color=red"></a>
 * 17: [ScalaIO 2025](https://scala.io) - Paris (France) <a href="https://www.papercall.io/scala-io-2025"><img alt="CFP ScalaIO 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-August-2025&color=red"></a>
+* 17: [OPI Summit on DPU/IPUs](https://opiproject.org/event/opi-summit-on-dpu-ipus/) - San Jose (USA)
 * 17-18: [PyCon Thailand 2025](https://th.pycon.org/) - Bangkok (Thailand)
 * 17-19: [OpenInfra Summit Europe](https://summit2025.openinfra.org/) - Paris (France)
 * 18: [2025 OWASP AppSec Days Bangalore](https://bangalore.appsecdays.org/#) - Bengaluru (India) <a href="https://sessionize.com/owasp-appsec-days-bangalore-2025-cfp-co4791"><img alt="CFP 2025 OWASP AppSec Days" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=red"></a>
@@ -368,6 +370,7 @@ All the data (past and coming) are available publicly in JSON:
 * 30: [Conf42.com JavaScript 2025](https://www.conf42.com/js2025) - Online <a href="https://www.papercall.io/conf42-javascript-2025"><img alt="CFP Conf42.com JavaScript 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2025&color=green"></a>
 * 30: [rvatech/ Women In Tech Conference 2025](https://rvatech.com/rvatech-events/2024-rvatech-women-in-technology-conference/) - Richmond, VA (USA) <a href="https://www.papercall.io/rvatechwit25"><img alt="CFP rvatech/ Women In Tech Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-May-2025&color=red"></a>
 * 30: [HashiTalks: India](https://hashi.co/hashitalks-india) - Online <a href="https://sessionize.com/hashitalks-india"><img alt="CFP HashiTalks: India" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=red"></a>
+* 30: [European Open Source Security Forum](https://events.linuxfoundation.org/european-open-source-security-forum/) - Brussels (Belgium)
 * 30-31: [droidcon London 2025](https://london.droidcon.com) - London (UK) <a href="https://sessionize.com/droidcon-london-2025"><img alt="CFP droidcon London 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2025&color=red"></a>
 * 30-31: [Agile Tour Bordeaux 2025](https://agiletourbordeaux.fr/) - Bordeaux (France) <a href="https://sessionize.com/agile-tour-bordeaux-2025/"><img alt="CFP Agile Tour Bordeaux 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
 * 30-31: [Agile Tour Nantais 2025](https://agilenantes.org/) - Nantes (France) <a href="https://sessionize.com/agile-tour-nantais-2025/"><img alt="CFP Agile Tour Nantais 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-June-2025&color=red"></a>
@@ -569,10 +572,12 @@ All the data (past and coming) are available publicly in JSON:
 * 2: [JakartaOne Livestream 2025](https://jakartaone.org/2025/) - Online <a href="https://sessionize.com/jakartaone-livestream-2025/"><img alt="CFP JakartaOne Livestream" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2025&color=red"></a>
 * 2-4: [Black hat Middle east and Africa](https://blackhatmea.com/) -  Malham (Saudi Arabia)
 * 2-4: [WPC 2025](https://www.wpc.education/) - Milan (Italy) <a href="https://sessionize.com/wpc-2025"><img alt="CFP WPC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-July-2025&color=red"></a>
+* 3: [CozySummit Virtual](https://community.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-cozysummit-virtual-2025/) - Online
 * 3-4: [Power Conference 2025](https://www.powerconference.cz/) - Prague (Czech Republic) <a href="https://sessionize.com/power-conference-2025"><img alt="CFP Power Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=red"></a>
 * 3-5: [Build Stuff 2025 Lithuania](http://buildstuff.events) - Vilnius (Lithuania) <a href="https://sessionize.com/build-stuff-2025"><img alt="CFP Build Stuff 2025 Lithuania" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
 * 4: [Conf42.com DevSecOps 2025](https://www.conf42.com/devsecops2024) - Online <a href="https://www.papercall.io/conf42-devsecops-2025"><img alt="CFP Conf42.com DevSecOps 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-November-2025&color=green"></a>
 * 4: [Agile Tour Genève 2025](https://www.agilesuisse.ch) - Geneva (Switzerland) <a href="https://sessionize.com/agile-tour-geneve-2025/"><img alt="CFP Agile Tour Genève 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-September-2025&color=red"></a>
+* 4: [GitOpsCon North America Virtual](https://community.cncf.io/j/5kxcr7yhx435b/) - Online
 * 4-5: [KCD Suisse Romande 2025](https://community.cncf.io/events/details/cncf-kcd-suisse-romande-presents-kcd-suisse-romande/) - Meyrin (Switzerland) <a href="https://sessionize.com/kcd-suisse-romande-2025"><img alt="CFP KCD Suisse Romande 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2025&color=red"></a>
 * 4-5: [Agile Tour Rennes](https://agiletour.agilerennes.org/) - Rennes (France)
 * 5: [DevFest Dijon 2025](https://devfest.developers-group-dijon.fr/) - Dijon (France) <a href="https://conference-hall.io/devfest-dijon-2025"><img alt="CFP Devest Dijon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
