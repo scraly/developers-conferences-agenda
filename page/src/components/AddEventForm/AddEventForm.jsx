@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useEffect } from 'react';
+import React, { useState, useCallback } from 'react';
 import TagMultiSelect from 'components/TagMultiSelect/TagMultiSelect';
 import allEvents from 'misc/all-events.json';
 import 'styles/AddEventForm.css';
@@ -30,18 +30,21 @@ const AddEventForm = ({ isOpen, onClose }) => {
     setFilteredEvents([]);
     setIsEditing(true);
 
+    // If no end date is provided, it defaults to the start date.
+    const endDate = event.date && event.date.length > 1 ? new Date(event.date[1]) : (event.date && event.date.length > 0 ? new Date(event.date[0]) : null);
+
     const normalizedEvent = {
       name: event.name || '',
-      startDate: event.startDate ? new Date(event.startDate).toISOString().split('T')[0] : '',
-      endDate: event.endDate ? new Date(event.endDate).toISOString().split('T')[0] : '',
-      eventUrl: event.url || '',
+      startDate: event.date && event.date[0] && !isNaN(new Date(event.date[0]).getTime()) ? new Date(event.date[0]).toISOString().split('T')[0] : '',
+      endDate: endDate && !isNaN(endDate.getTime()) ? endDate.toISOString().split('T')[0] : '',
+      eventUrl: event.hyperlink || '',
       city: event.city || '',
       country: event.country || '',
-      cfpUrl: event.cfpUrl || '',
-      cfpEndDate: event.cfpEndDate ? new Date(event.cfpEndDate).toISOString().split('T')[0] : '',
-      hasCfp: !!event.cfpUrl,
+      cfpUrl: event.cfp && event.cfp.link ? event.cfp.link : '',
+      cfpEndDate: event.cfp && event.cfp.untilDate && !isNaN(new Date(event.cfp.untilDate).getTime()) ? new Date(event.cfp.untilDate).toISOString().split('T')[0] : '',
+      hasCfp: !!(event.cfp && event.cfp.link),
       closedCaptions: event.closedCaptions || false,
-      onlineEvent: event.online || false,
+      onlineEvent: event.location ? event.location.includes('Online') : false,
       tags: event.tags || []
     };
 
@@ -58,12 +61,19 @@ const AddEventForm = ({ isOpen, onClose }) => {
           setFormData(initialFormState);
           setIsEditing(false);
           setOriginalEvent(null);
+          return;
         }
       } else if (!isEditing) {
         const query = value.toLowerCase();
-        const filtered = allEvents.filter(event =>
-          event.name && event.name.toLowerCase().includes(query)
-        );
+        const filtered = allEvents.filter((event) => {
+          if (!event.name || !event.date || !event.date[0] || isNaN(new Date(event.date[0]).getTime())) {
+            return false;
+          }
+          const eventName = event.name.toLowerCase();
+          const eventYear = new Date(event.date[0]).getFullYear().toString();
+
+          return eventName.includes(query) || `${eventName} ${eventYear}`.includes(query);
+        });
         setFilteredEvents(filtered);
       }
     }
@@ -359,11 +369,17 @@ ${generateTagsCsvLines()}
             />
             {filteredEvents.length > 0 && (
               <ul className="event-suggestions">
-                {filteredEvents.map((event, index) => (
-                  <li key={`${event.name}-${index}`} onClick={() => handleEventSelect(event)}>
-                    {event.name} ({new Date(event.startDate).getFullYear()})
-                  </li>
-                ))}
+                {filteredEvents.map((event, index) => {
+                  const startDate = new Date(event.date[0]);
+                  if (isNaN(startDate.getTime())) {
+                    return null;
+                  }
+                  return (
+                    <li key={`${event.name}-${index}`} onClick={() => handleEventSelect(event)}>
+                      {event.name} ({startDate.toLocaleDateString()})
+                    </li>
+                  );
+                })}
               </ul>
             )}
             {errors.name ? <span className="error-message">{errors.name}</span> : null}
