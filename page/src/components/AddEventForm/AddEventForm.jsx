@@ -26,25 +26,39 @@ const AddEventForm = ({ isOpen, onClose }) => {
   const [errors, setErrors] = useState({});
 
   const handleEventSelect = (event) => {
-    setSearchQuery(event.name);
+    if (!event) return;
+
+    setSearchQuery(event.name || '');
     setFilteredEvents([]);
     setIsEditing(true);
 
-    // If no end date is provided, it defaults to the start date.
-    const endDate = event.date && event.date.length > 1 ? new Date(event.date[1]) : (event.date && event.date.length > 0 ? new Date(event.date[0]) : null);
+    // Safely determine start and end dates
+    const startDateRaw = (Array.isArray(event.date) && event.date.length > 0) ? event.date[0] : null;
+    const startDate = startDateRaw ? new Date(startDateRaw) : null;
+    const isValidStartDate = startDate && !isNaN(startDate.getTime());
+
+    const endDateRaw = (Array.isArray(event.date) && event.date.length > 1) ? event.date[1] : startDateRaw;
+    const endDate = endDateRaw ? new Date(endDateRaw) : null;
+    const isValidEndDate = endDate && !isNaN(endDate.getTime());
+
+    // Safely determine CFP properties
+    const cfpUrl = (event.cfp && typeof event.cfp === 'object') ? event.cfp.link : '';
+    const cfpEndDateRaw = (event.cfp && typeof event.cfp === 'object') ? event.cfp.untilDate : null;
+    const cfpEndDate = cfpEndDateRaw ? new Date(cfpEndDateRaw) : null;
+    const isValidCfpEndDate = cfpEndDate && !isNaN(cfpEndDate.getTime());
 
     const normalizedEvent = {
       name: event.name || '',
-      startDate: event.date && event.date[0] && !isNaN(new Date(event.date[0]).getTime()) ? new Date(event.date[0]).toISOString().split('T')[0] : '',
-      endDate: endDate && !isNaN(endDate.getTime()) ? endDate.toISOString().split('T')[0] : '',
+      startDate: isValidStartDate ? startDate.toISOString().split('T')[0] : '',
+      endDate: isValidEndDate ? endDate.toISOString().split('T')[0] : (isValidStartDate ? startDate.toISOString().split('T')[0] : ''),
       eventUrl: event.hyperlink || '',
       city: event.city || '',
       country: event.country || '',
-      cfpUrl: event.cfp && event.cfp.link ? event.cfp.link : '',
-      cfpEndDate: event.cfp && event.cfp.untilDate && !isNaN(new Date(event.cfp.untilDate).getTime()) ? new Date(event.cfp.untilDate).toISOString().split('T')[0] : '',
-      hasCfp: !!(event.cfp && event.cfp.link),
-      closedCaptions: event.closedCaptions || false,
-      onlineEvent: event.location ? event.location.includes('Online') : false,
+      cfpUrl: cfpUrl || '',
+      cfpEndDate: isValidCfpEndDate ? cfpEndDate.toISOString().split('T')[0] : '',
+      hasCfp: !!cfpUrl,
+      closedCaptions: !!event.closedCaptions,
+      onlineEvent: (typeof event.location === 'string') && event.location.includes('Online'),
       tags: event.tags || []
     };
 
@@ -369,14 +383,17 @@ ${generateTagsCsvLines()}
             />
             {filteredEvents.length > 0 && (
               <ul className="event-suggestions">
-                {filteredEvents.map((event, index) => {
-                  const startDate = new Date(event.date[0]);
+            {filteredEvents.map((eventItem, index) => {
+              if (!eventItem || !eventItem.date || !Array.isArray(eventItem.date) || eventItem.date.length === 0) {
+                return null;
+              }
+              const startDate = new Date(eventItem.date[0]);
                   if (isNaN(startDate.getTime())) {
                     return null;
                   }
                   return (
-                    <li key={`${event.name}-${index}`} onClick={() => handleEventSelect(event)}>
-                      {event.name} ({startDate.toLocaleDateString()})
+                <li key={`${eventItem.name}-${index}`} onClick={() => handleEventSelect(eventItem)}>
+                  {eventItem.name} ({startDate.toLocaleDateString()})
                     </li>
                   );
                 })}
