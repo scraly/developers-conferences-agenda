@@ -1291,3 +1291,23 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-10-21-JetBrains GameDev Day 2025,tech:gamedev,topic:game-development,language:english
 2026-04-28-Stripe Sessions 2026,tech:stripe,topic:finance,topic:technology,language:english
 2026-05-06-Devoxx UK 2026,tech:java,topic:software-development,language:english
+2025-10-15-EnvoyCon Virtual,tech:envoy,topic:networking,topic:open-source,language:english
+2025-10-17-OPI Summit on DPU/IPUs,tech:opi,topic:dpu,topic:ipu,language:english
+2025-10-18-Portera Day,tech:portera,topic:open-source,language:portuguese
+2025-10-25-PyDay SDQ,tech:python,topic:programming,language:spanish
+2025-10-30-European Open Source Security Forum,tech:security,topic:open-source,language:english
+2025-12-03-CozySummit Virtual,tech:cozy,topic:open-source,language:english
+2025-12-04-GitOpsCon North America Virtual,tech:gitops,topic:devops,language:english
+2025-12-07-DevFest Istanbul,tech:devfest,topic:google,language:turkish
+2026-01-28-LF Decentralized Trust Member Summit,tech:decentralized-trust,topic:open-source,language:english
+2026-03-23-KeycloakCon Europe,tech:keycloak,topic:identity,language:english
+2026-03-23-Cloud Native AI + Kubeflow Day Europe,tech:ai,tech:kubeflow,topic:cloud-native,language:english
+2026-03-23-OpenTofu Day Europe,tech:terraform,topic:open-source,language:english
+2026-05-18-Open Source Summit North America,tech:open-source,topic:summit,language:english
+2026-06-11-Blastoff Rails,tech:rails,topic:web-development,language:english
+2026-06-12-Baltic Ruby 2026,tech:ruby,topic:programming,language:german
+2026-06-18-KubeCon + CloudNativeCon India 2026,tech:kubernetes,topic:cloud-native,language:hindi
+2026-10-07-Open Source Summit Europe 2026,tech:open-source,topic:summit,language:czech
+2026-10-20-PyTorch Conference 2026,tech:pytorch,topic:machine-learning,language:english
+2026-12-07-Open Source Summit Japan 2026,tech:open-source,topic:summit,language:japanese
+2027-10-06-PyTorch Conference 2027,tech:pytorch,topic:machine-learning,language:english
