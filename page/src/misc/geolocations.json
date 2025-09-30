@@ -1879,6 +1879,10 @@
     "latitude": 45.3376197,
     "longitude": 14.305196
   },
+  "Oral (Kazakhstan)": {
+    "latitude": 51.2040697,
+    "longitude": 51.3707863
+  },
   "Orange (France)": {
     "latitude": 44.1371311,
     "longitude": 4.8078783
@@ -2002,6 +2006,10 @@
   "Pittsburgh, PA (USA)": {
     "latitude": 40.4416941,
     "longitude": -79.9900861
+  },
+  "Piura (Peru)": {
+    "latitude": -5,
+    "longitude": -80.333333
   },
   "Plymouth (UK)": {
     "latitude": 50.3712659,
