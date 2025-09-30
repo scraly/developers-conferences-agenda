@@ -236,6 +236,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-12: [PyCon Africa 2025 ](https://za.pycon.org/) - Johannesburg (South Africa) <a href="https://za.pycon.org/pages/speaking/how_to_apply/"><img alt="CFP PyCon Africa 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-June-2025&color=red"></a>
 * 9: [KCD Warsaw 2025](https://community.cncf.io/events/details/cncf-kcd-warsaw-presents-kcd-warsaw-2025/) - Warsaw (Poland) <a href="https://sessionize.com/kcd-warsaw-2025"><img alt="CFP KCD Warsaw 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=red"></a>
 * 9: [DevCon #25 : informatique quantique](https://www.programmez.com/page-devcon/devcon-25-informatique-quantique) - Paris (France) <a href="https://forms.gle/2Szh1rpTMQtH44Hk8"><img alt="CFP DevCon 25 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
+* 9: [Testing Talks](https://www.testingtalks.com.au/) - Melbourne (Australia)
 * 9-10: [Forum PHP 2025](https://event.afup.org/) - Marne-la-Vallée (France) <a href="https://afup.org/event/forumphp2025"><img alt="CFP Forum PHP 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-June-2025&color=red"></a>
 * 9-10: [CakeFest 2025 Madrid](https://cakefest.org/) - Madrid (Spain)
 * 9-10: [EuroRust 2025](https://eurorust.eu) - Paris (France) <a href="https://www.papercall.io/eurorust-2025"><img alt="CFP EuroRust 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2025&color=red"></a>
@@ -532,6 +533,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21: [Web Directions Next ](https://webdirections.org/next/) - Sydney (Australia)
 * 21: [tiny ruby #{conf}](https://helsinkiruby.fi/tinyruby) - Helsinki (Finland) <a href="https://www.papercall.io/tinyruby"><img alt="CFP tiny ruby #{conf}" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=red"></a>
 * 21: [DevFest Almaty 2025](https://gdg.community.dev/events/details/google-gdg-almaty-presents-google-devfest-almaty-2025/) - Almaty (Kazakhstan) <a href="https://app.advocu.com/events/68847016bb2f366f3aae2af1"><img alt="CFP DevFest Almaty" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2025&color=red"></a>
+* 21: [LAST Conference](https://clubhouse.lastconference.com/lastmel25/) - Melbourne (Australia)
 * 21-22: [Women in Tech Summit Kenya 2025](https://www.linkedin.com/company/women-in-tech-shoutouts/posts/) - Nairobi (Kenya) <a href="https://docs.google.com/forms/d/e/1FAIpQLSffR6X1nHRRfZnV-eWzLOG2OntYRwNoFeqACMWMU52gkkWzzg/viewform"><img alt="CFP Women in tech summit kenya 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2025&color=red"></a>
 * 21-22: [Open Conf](https://www.open-conf.gr/) - Athens (Greece) <a href="https://sessionize.com/open-conf-2025/"><img alt="CFP Open Conf 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2025&color=red"></a>
 * 21-23: [Python Sul 2025](https://sul.python.org.br/) - Porto Alegre (Brazil)
@@ -592,6 +594,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4: [GitOpsCon North America Virtual](https://community.cncf.io/j/5kxcr7yhx435b/) - Online
 * 4-5: [KCD Suisse Romande 2025](https://community.cncf.io/events/details/cncf-kcd-suisse-romande-presents-kcd-suisse-romande/) - Meyrin (Switzerland) <a href="https://sessionize.com/kcd-suisse-romande-2025"><img alt="CFP KCD Suisse Romande 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2025&color=red"></a>
 * 4-5: [Agile Tour Rennes](https://agiletour.agilerennes.org/) - Rennes (France)
+* 4-5: [YOW! Melbourne](https://yowcon.com/melbourne-2025) - Melbourne (Australia)
 * 5: [DevFest Dijon 2025](https://devfest.developers-group-dijon.fr/) - Dijon (France) <a href="https://conference-hall.io/devfest-dijon-2025"><img alt="CFP Devest Dijon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
 * 5-7: [PyLadiesCon 2025](https://2025.conference.pyladies.com/en/) - Online <a href="https://pretalx.com/pyladiescon-2025/cfp"><img alt="CFP PyLadiesCon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-August-2025&color=red"></a>
 * 6: [HTMD Community Conference 2025](https://htmdcommunity.org) - Bengaluru (India) <a href="https://sessionize.com/htmd-community-conference-2025/"><img alt="CFP HTMD Community Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-May-2025&color=red"></a>
@@ -603,6 +606,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-7: [PyCon Indonesia 2025](https://pycon.id) - Jakarta (Indonesia) <a href="https://www.papercall.io/pyconid2025"><img alt="CFP PyCon Indonesia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2025&color=red"></a>
 * 7: [DevFest Istanbul](https://devfest.istanbul/) - Istanbul (Turkey) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMg_60vdHddJWSWIhG91ObX1eb0XpkgkxODBxHll87eg_Jeg/viewform"><img alt="CFP DevFest Istanbul 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-November-2025&color=green"></a>
 * 7: [Devfest Belém 2025](https://gdg.community.dev/events/details/google-gdg-belem-presents-devfest-belem-2025-a-jornada-do-futuro/) - Belém (Brazil)
+* 8-9: [YOW! Brisbane](https://yowcon.com/brisbane-2025) - Brisbane (Australia)
 * 8-10: [AI_dev: Open Source GenAI & ML Summit Japan](https://events.linuxfoundation.org/ai-dev-japan/) - Tokyo (Japan) <a href="https://events.linuxfoundation.org/ai-dev-japan/program/cfp/"><img alt="CFP AI_dev: Open Source GenAI & ML Summit Japan" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2025&color=red"></a>
 * 8-10: [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) - Tokyo (Japan) <a href="https://events.linuxfoundation.org/open-source-summit-japan/program/cfp/"><img alt="CFP Open Source Summit Japan" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2025&color=red"></a>
 * 8-10: [Automotive Linux Summit](https://events.linuxfoundation.org/automotive-linux-summit/) - Tokyo (Japan) <a href="https://events.linuxfoundation.org/automotive-linux-summit/program/cfp/"><img alt="CFP Automotive Linux Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2025&color=red"></a>
@@ -618,6 +622,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11: [DevOpsDays Tel Aviv 2025](https://devopsdays.org/tel-aviv) - Tel Aviv (Israel) <a href="https://sessionize.com/devopsdays-tel-aviv-2025"><img alt="CFP DevOpsDays Tel Aviv 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2025&color=red"></a>
 * 11: [Normandie.ai 2025](https://normandie.ai/) - Rouen (France) <a href="https://conference-hall.io/normandie-ai-2025"><img alt="CFP Normandie.ai 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-October-2025&color=green"></a>
 * 11-12: [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/) - Tokyo (Japan) <a href="https://events.linuxfoundation.org/open-compliance-summit/program/cfp/"><img alt="CFP Open Compliance Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-August-2025&color=red"></a>
+* 11-12: [YOW! Sydney](https://yowcon.com/sydney-2025) - Sydney (Australia)
 * 11-13: [Linux Plumbers Conference](https://lpc.events/event/19/) - Tokyo (Japan) & Online
 * 12: [XmasDev 2025](https://xmasdev.net/) - Rome (Italy) <a href="https://sessionize.com/xmasdev-2025/"><img alt="CFP XmasDev 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-November-2025&color=green"></a>
 * 13: [DevFest Cairo 2025](https://gdg.community.dev/events/details/google-gdg-cairo-presents-devfest-cairo-2025/) - Cairo (Egypt) 
@@ -651,6 +656,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6: [Voxxed Days Ticino](https://ticino.voxxeddays.com/) - Lugano (Switzerland) <a href="https://vdt26.cfp.dev/"><img alt="CFP Voxxed Days Ticino 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-October-2025&color=green"></a>
 * 10: [Voxxed Days CERN](https://cern.voxxeddays.com/) - Geneva (Switzerland) <a href="https://vdcern26.cfp.dev/"><img alt="CFP Voxxed Days CERN 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-October-2025&color=green"></a>
 * 12-13: [Touraine Tech #26](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/touraine-tech-2026"><img alt="CFP TnT 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-November-2025&color=green"></a>
+* 21: [DDD Melbourne 2026](https://www.dddmelbourne.com/) - Melbourne (Australia)
 * 24-25: [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa (USA)
 * 25-27: [ConFoo](https://confoo.ca/en/2026) - Montreal (Canada) <a href="https://confoo.ca/fr/2026/call-for-papers"><img alt="CFP ConFoo" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-September-2025&color=red"></a>
 * 26: [TEDxOslo2026](https://tedxoslo.com) - Oslo (Norway) <a href="https://sessionize.com/tedxoslo2026/"><img alt="CFP TEDxOslo2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2025&color=green"></a>
