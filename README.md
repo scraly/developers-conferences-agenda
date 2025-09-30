@@ -711,6 +711,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18-23: [RustWeek 2026](https://2026.rustweek.org/) - Eindhoven (Netherlands)
 * 21-22: [DataGrillen 2026](https://datagrillen.com) - Lingen (Germany) <a href="https://sessionize.com/datagrillen-2026/"><img alt="CFP DataGrillen 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-December-2025&color=green"></a>
 * 21-22: [devopsdays Geneva](https://devopsdays.org/events/2026-geneva/welcome/) - Geneva (Switzerland)
+* 25-29: [Toronto Tech Week](https://www.torontotechweek.com/) - Toronto (Canada)
 * 29-31: [RubyConf Austria 2026](https://rubyconf.at) - Vienna (Austria) <a href="https://www.papercall.io/rubyconfaustria2026"><img alt="CFP RubyConf Austria 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2025&color=green"></a>
 
 ### June
