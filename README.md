@@ -738,6 +738,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### July
 
+* 18: [KCD Lima 2026](https://community.cncf.io/kcd-lima-peru/) - Lima (Peru)
 * 29-30: [KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) - Yokohama (Japan)
 
 ### September
