@@ -823,6 +823,10 @@
     "latitude": 4.646736499999999,
     "longitude": 7.9429421
   },
+  "El Alto (Bolivia)": {
+    "latitude": -16.5048228,
+    "longitude": -68.1624337
+  },
   "Eldoret (Kenya)": {
     "latitude": 0.5142774999999999,
     "longitude": 35.2697802
@@ -942,6 +946,10 @@
   "George Town (Cayman Islands)": {
     "latitude": 19.2965778,
     "longitude": -81.3819158
+  },
+  "George Town (Malaysia)": {
+    "latitude": 5.4141619,
+    "longitude": 100.3287352
   },
   "Germany": {
     "latitude": 34.895926,
