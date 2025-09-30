@@ -266,6 +266,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14: [DevOpsDays Bogotá 2025](https://devopsdaysbogota.org/) - Bogotá (Colombia) <a href="https://www.papercall.io/devopsdaysbogota2025"><img alt="CFP DevOpsDays Bogotá 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2025&color=green"></a>
 * 14-15: [Fast Flow Conf UK 2025 (Platform Engineering Edition)](https://www.fastflowconf.com/) - London (UK) <a href="https://sessionize.com/fast-flow-conf-uk-25/"><img alt="CFP Fast Flow Conf UK 2025 (Platform Engineering Edition)" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
 * 14-15: [Codemotion Milan](https://conferences.codemotion.com/milan2025/) - Milan (Italy) <a href="https://sessionize.com/codemotion-2025"><img alt="CFP Codemotion Milan 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
+* 14-15: [API Summit](https://konghq.com/events/conferences/api-summit) - New York, NY (USA)
 * 14-15: [devopsdays Montréal](https://devopsdays.org/events/2025-montreal/welcome/) - Montreal (Canada)
 * 14-16: [HUSTEF](https://hustef.hu) - Budapest (Hungary) <a href="https://hustef.hu/call-for-proposals-2025/"><img alt="CFP HUSTEF" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2025&color=red"></a>
 * 14-16: [JSConf](https://events.linuxfoundation.org/jsconf-north-america/) - Maryland (USA)
