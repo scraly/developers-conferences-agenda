@@ -208,6 +208,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4: [Django Girls Aba](https://djangogirls.org/fr/aba/) - Aba (Nigeria)
 * 4: [DevFest Yaoundé 2025](https://gdg.community.dev/e/mp8k7d/) - Yaoundé (Cameroon) <a href="https://sessionize.com/devfest-yaounde-2025/"><img alt="CFP DevFest Yaoundé 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-September-2025&color=red"></a>
 * 4: [Atlanta Developers' Conference 2025](https://www.atldevcon.com/) - Alpharetta, GA (USA) <a href="https://sessionize.com/atlanta-developers-conference-2025/"><img alt="CFP Atlanta Developers' Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2025&color=red"></a>
+* 4-5: [Xpand Conference 2025](http://www.xpandconf.com) - Amman (Jordan)
 * 5-7: [GoLab](https://golab.io) - Florence (Italy) <a href="https://sessionize.com/golab-2025/"><img alt="CFP GoLab 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-April-2025&color=red"></a>
 * 5-8: [Offensive AI Con](https://www.offensiveaicon.com) - Oceanside, CA (USA) & Online <a href="https://sessionize.com/offensive-ai-con"><img alt="CFP Offensive AI Con" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-July-2025&color=red"></a>
 * 6-7: [Swift Connection 2025](https://swiftconnection.io) - Paris (France) <a href="https://sessionize.com/swift-connection-2025/"><img alt="CFP Swift Connection 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-June-2025&color=red"></a>
