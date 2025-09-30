@@ -191,6 +191,10 @@
     "latitude": 43.5511103,
     "longitude": -5.9304039
   },
+  "Bacolod (Philippines)": {
+    "latitude": 10.6762836,
+    "longitude": 122.9513786
+  },
   "Baden (France)": {
     "latitude": 47.6199988,
     "longitude": -2.9184744
@@ -483,6 +487,10 @@
     "latitude": 36.5262463,
     "longitude": -5.9008367301110844
   },
+  "Cagayan De Oro City (Philippines)": {
+    "latitude": 8.4860705,
+    "longitude": 124.656805
+  },
   "Cagliari (Italy)": {
     "latitude": 39.2237323,
     "longitude": 9.1217194
@@ -674,6 +682,10 @@
   "Crete (Greece)": {
     "latitude": 35.308495199999996,
     "longitude": 24.46334231842296
+  },
+  "Cuenca (Ecuador)": {
+    "latitude": -2.8974072,
+    "longitude": -79.0041726
   },
   "Curitiba (Brazil)": {
     "latitude": -25.4268985,
@@ -1222,6 +1234,10 @@
   "Jalingo (Nigeria)": {
     "latitude": 8.8945377,
     "longitude": 11.3644261
+  },
+  "Jamundí (Colombia)": {
+    "latitude": 3.2618357,
+    "longitude": -76.5407975
   },
   "Japan": {
     "latitude": 40.9921996,
@@ -2098,6 +2114,10 @@
   "Prizren (Kosovo)": {
     "latitude": 42.2130151,
     "longitude": 20.7363339
+  },
+  "Providencia (Chile)": {
+    "latitude": -33.4288379,
+    "longitude": -70.6113373
   },
   "Provo, UT (USA)": {
     "latitude": 40.2335349,
