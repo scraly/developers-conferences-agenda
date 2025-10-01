@@ -372,6 +372,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28-29: [Cephalocon](https://events.linuxfoundation.org/cephalocon/) - Vancouver, BC (Canada) <a href="https://events.linuxfoundation.org/cephalocon/program/cfp/"><img alt="CFP Cephalocon" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-July-2025&color=red"></a>
 * 29: [The Linux Foundation Europe Roadshow](https://events.linuxfoundation.org/lf-europe-roadshow-regulation/) - Ghent (Belgium)
 * 28-29: [GitHub Universe 2025](https://githubuniverse.com/) - San Francisco, CA (USA) & Online
+* 28-30: [National Infrastructure Conference (NIC)](https://www.nicconf.com/) - Oslo (Norway)
 * 29-30: [Current New Orleans 2025](https://current.confluent.io/new-orleans) - New Orleans, LA (USA) <a href="https://sessionize.com/current-2025-new-orleans"><img alt="CFP Current New Orleans 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=red"></a>
 * 29-30: [APIdays Australia](https://www.apidays.global/australia/) - Melbourne (Australia) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Australia" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-Octobre-2025&color=green"></a>
 * 30: [Conf42.com JavaScript 2025](https://www.conf42.com/js2025) - Online <a href="https://www.papercall.io/conf42-javascript-2025"><img alt="CFP Conf42.com JavaScript 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-September-2025&color=red"></a>
