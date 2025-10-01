@@ -1311,3 +1311,28 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-20-PyTorch Conference 2026,tech:pytorch,topic:machine-learning,language:english
 2026-12-07-Open Source Summit Japan 2026,tech:open-source,topic:summit,language:japanese
 2027-10-06-PyTorch Conference 2027,tech:pytorch,topic:machine-learning,language:english
+2025-10-04-Xpand Conference 2025,tech:java,tech:javascript,topic:cloud,topic:devops,language:english
+2025-10-09-Testing Talks,tech:testing,topic:software-quality,topic:automation,language:english
+2025-10-14-API Summit,tech:api,topic:security,topic:performance,language:english
+2025-10-18-Road to DevFest Ecuador: Cuenca Edition,tech:android,tech:web,topic:google-cloud,topic:firebase,language:spanish
+2025-10-25-CodeOn 2025,tech:java,tech:python,topic:cloud,topic:devops,language:spanish
+2025-11-07-Data Dev Fest 2025,tech:data-science,tech:big-data,topic:google-cloud,topic:ai,language:spanish
+2025-11-15-DevFest Oral 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:kazakh
+2025-11-18-DevFest Seattle 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:english
+2025-11-21-LAST Conference,tech:javascript,tech:python,topic:cloud,topic:devops,language:english
+2025-11-22-DevFest Bacolod 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:tagalog
+2025-11-22-DevFest Medan 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:bahasa-indonesia
+2025-11-22-DevFest El Alto 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:spanish
+2025-11-29-DevFest Brasília 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:portuguese
+2025-11-29-DevFest Santiago de Chile 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:spanish
+2025-12-04-YOW! Melbourne,tech:java,tech:javascript,topic:cloud,topic:devops,language:english
+2025-12-06-Devfest 2025 Cagayan De Oro,tech:android,tech:web,topic:google-cloud,topic:firebase,language:tagalog
+2025-12-07-Devfest Belém 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:portuguese
+2025-12-08-YOW! Brisbane,tech:java,tech:javascript,topic:cloud,topic:devops,language:english
+2025-12-11-YOW! Sydney,tech:java,tech:javascript,topic:cloud,topic:devops,language:english
+2025-12-13-DevFest Piura 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:spanish
+2025-12-13-DevFest George Town 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:bahasa-melayu
+2025-12-19-Devfest Kigali 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:kinyarwanda
+2026-02-21-DDD Melbourne 2026,tech:dotnet,topic:ddd,topic:architecture,language:english
+2026-05-25-Toronto Tech Week,tech:javascript,tech:python,topic:cloud,topic:devops,language:english
+2026-07-18-KCD Lima 2026,tech:kubernetes,topic:cloud-native,topic:open-source,language:spanish
