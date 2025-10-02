@@ -56,7 +56,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-7: [Ng Conf Perú 2025](https://gdg.community.dev/events/details/google-gdg-callao-presents-ng-conf-peru-2025/) - Lima (Peru)
 * 6-7: [PyCon Taiwan](https://tw.pycon.org/2025/en-us) - Taipei (Taiwan)
 * 8-10: [GraphQLConf](https://graphql.org/conf/2025/) - Amsterdam (Netherlands)
-* 8-10: [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/) - San Jose (USA)
+* 8-10: [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/) - San Jose, CA (USA)
 * 8-12: [DjangoCon US](https://2025.djangocon.us/) - Chicago, IL (USA)
 * 9: [PyCon Israel 2025](https://pycon.org.il/2025/) - Ramat Hasharon (Israel)
 * 9: [Tech Passion Day Aalborg](https://techpassionday.com/) - Aalborg (Denmark) <a href="https://sessionize.com/tech-passion-day-tour-2025/"><img alt="CFP Tech Passion Day 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-August-2025&color=red"></a>
@@ -95,7 +95,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-16: [Infobip Shift 2025](https://shift.infobip.com/) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2025"><img alt="CFP Infobip Shift 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2025&color=red"></a>
 * 15: [Agile Tour Montpellier](https://agiletourmontpellier.fr/) - Montpellier (France)
 * 15-16: [DevOps Days Rockies Denver](https://devopsdays.org/events/2025-denver/welcome/) - Denver, CO (USA) <a href="https://talks.devopsdays.org/dodrox-2025/cfp"><img alt="CFP DevOps Days Rockies 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-May-2025&color=red"></a>
-* 15-17: [Xen Project Summit](https://xenproject.org/resources/xen-summit/) - San Jose (USA)
+* 15-17: [Xen Project Summit](https://xenproject.org/resources/xen-summit/) - San Jose, CA (USA)
 * 15-18: [European Microsoft Fabric Community Conference 2025](http://bit.ly/4jMRTE8) - Vienna (Austria) <a href="https://sessionize.com/european-microsoft-fabric-community-conf4410"><img alt="CFP European Microsoft Fabric Community Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-April-2025&color=red"></a>
 * 16: [KCD Washington DC 2025](https://community.cncf.io/events/details/cncf-kcd-washington-dc-presents-kcd-washington-dc-2025/) - Washington D.C. (USA) <a href="https://sessionize.com/kcd-washington-dc-2025/"><img alt="CFP KCD Washington 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-May-2025&color=red"></a>
 * 16: [Java Forum Nord 2025](https://javaforumnord.de/) - Hannover (Germany) <a href="https://sessionize.com/java-forum-nord-2025/"><img alt="CFP Java Forum Nord 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-May-2025&color=red"></a>
@@ -287,7 +287,7 @@ All the data (past and coming) are available publicly in JSON:
 * 16-17: [DevOps Talks Conference 2025 in Sydney](https://devops.talksplus.com/sydney/devops) - Sydney (Australia)
 * 17: [Sylius Con 2025](https://sylius.com/conference-2025/) - Lyon (France) <a href="https://sylius.com/conference-2025/#speakers"><img alt="CFP Sylius Con 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-June-2025&color=red"></a>
 * 17: [ScalaIO 2025](https://scala.io) - Paris (France) <a href="https://www.papercall.io/scala-io-2025"><img alt="CFP ScalaIO 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-August-2025&color=red"></a>
-* 17: [OPI Summit on DPU/IPUs](https://opiproject.org/event/opi-summit-on-dpu-ipus/) - San Jose (USA)
+* 17: [OPI Summit on DPU/IPUs](https://opiproject.org/event/opi-summit-on-dpu-ipus/) - San Jose, CA (USA)
 * 17-18: [PyCon Thailand 2025](https://th.pycon.org/) - Bangkok (Thailand)
 * 17-19: [OpenInfra Summit Europe](https://summit2025.openinfra.org/) - Paris (France)
 * 18: [2025 OWASP AppSec Days Bangalore](https://bangalore.appsecdays.org/#) - Bengaluru (India) <a href="https://sessionize.com/owasp-appsec-days-bangalore-2025-cfp-co4791"><img alt="CFP 2025 OWASP AppSec Days" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=red"></a>
@@ -739,6 +739,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### July
 
+* 8-10: [WeAreDevelopers World Congress 2026 - Europe](https://www.wearedevelopers.com/world-congress) - Berlin (Germany) <a href="https://sessionize.com/wearedevelopers-world-congress-2026-europe"><img alt="CFP WeAreDevelopers World Congress 2026 Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
 * 18: [KCD Lima 2026](https://community.cncf.io/kcd-lima-peru/) - Lima (Peru)
 * 29-30: [KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) - Yokohama (Japan)
 
@@ -747,12 +748,13 @@ All the data (past and coming) are available publicly in JSON:
 * 4: [JUG Summer Camp 2026](https://www.jugsummercamp.org/) - La Rochelle (France)
 * 8-11: [RustConf 2026](https://rustconf.com/) - Montreal (Canada)
 * 17-18: [API Platform Conference 2026](https://api-platform.com/fr/con/) - Lille (France)
+* 23-25: [WeAreDevelopers World Congress 2026 - North America](https://www.wearedevelopers.com/world-congress-us) - San Jose, CA (USA) <a href="https://sessionize.com/wearedevelopers-world-congress-2026-us"><img alt="CFP WeAreDevelopers World Congress 2026 Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 
 ### October
 
 * 7-9: [Open Source Summit Europe 2026](https://events.linuxfoundation.org/open-source-summit-europe-2026/) - Prague (Czech Republic)
 * 13-16: [SRECon EMEA](https://www.usenix.org/conference/srecon26emea) - Dublin (Ireland)
-* 20-21: [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/) - San Jose (USA)
+* 20-21: [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/) - San Jose, CA (USA)
 * 26-29: [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - Los Angeles, CA (USA)
 
 ### December
@@ -767,7 +769,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### October
 
-* 6-7: [PyTorch Conference 2027](https://events.linuxfoundation.org/pytorch-conference-2027/) - San Jose (USA)
+* 6-7: [PyTorch Conference 2027](https://events.linuxfoundation.org/pytorch-conference-2027/) - San Jose, CA (USA)
 
 ## License
 
