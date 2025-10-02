@@ -1336,3 +1336,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-02-21-DDD Melbourne 2026,tech:dotnet,topic:ddd,topic:architecture,language:english
 2026-05-25-Toronto Tech Week,tech:javascript,tech:python,topic:cloud,topic:devops,language:english
 2026-07-18-KCD Lima 2026,tech:kubernetes,topic:cloud-native,topic:open-source,language:spanish
+2025-10-28-National Infrastructure Conference (NIC),topic:infrastructure,topic:national,topic:conference,language:english
