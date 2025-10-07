@@ -289,6 +289,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17: [ScalaIO 2025](https://scala.io) - Paris (France) <a href="https://www.papercall.io/scala-io-2025"><img alt="CFP ScalaIO 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-August-2025&color=red"></a>
 * 17: [OPI Summit on DPU/IPUs](https://opiproject.org/event/opi-summit-on-dpu-ipus/) - San Jose, CA (USA)
 * 17-18: [PyCon Thailand 2025](https://th.pycon.org/) - Bangkok (Thailand)
+* 17-18: [Sreyas Developer Conference](https://sreyasdevconf.in) - Hyderabad (India)
 * 17-19: [OpenInfra Summit Europe](https://summit2025.openinfra.org/) - Paris (France)
 * 18: [2025 OWASP AppSec Days Bangalore](https://bangalore.appsecdays.org/#) - Bengaluru (India) <a href="https://sessionize.com/owasp-appsec-days-bangalore-2025-cfp-co4791"><img alt="CFP 2025 OWASP AppSec Days" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=red"></a>
 * 18: [DevFest Ahlen 2025](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-devfest-ahlen-2025/) - Ahlen (Germany)
@@ -426,7 +427,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5-7: [Øredev 2025](http://oredev.org) - Malmo (Sweden) <a href="https://sessionize.com/oredev-2025"><img alt="CFP Øredev 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
 * 5-7: [Droidcon & Fluttercon Kenya 2025](https://droidcon.co.ke/) - Nairobi (Kenya) <a href="https://sessionize.com/droidcon-fluttercon-kenya-2025"><img alt="CFP Droidcon & Fluttercon Kenya 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-August-2025&color=red"></a>
 * 6: [dotAI 2025](https://www.dotai.io/) - Paris (France) <a href="https://www.dotai.io/speak"><img alt="CFP dotAI 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
-* 6: [Conf42.com Prompt Engineering 2025](https://www.conf42.com/prompt2025) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2025"><img alt="CFP Conf42.com Prompt Engineering 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-October-2025&color=green"></a>
+* 6: [Conf42.com Prompt Engineering 2025](https://www.conf42.com/prompt2025) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2025"><img alt="CFP Conf42.com Prompt Engineering 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-October-2025&color=red"></a>
 * 6: [NODES 2025](https://neo4j.registration.goldcast.io/events/6bdf92b5-70e3-4b5a-b0b5-1ea484c17ff1) - Online <a href="https://sessionize.com/nodes-2025"><img alt="CFP NODES 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=red"></a>
 * 6: [APIdays Amsterdam](https://www.apidays.global/amsterdam/) - Amsterdam (Netherlands) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP API Days Amsterdam" src="https://img.shields.io/static/v1?label=CFP&message=until%206-November-2025&color=green"></a>
 * 6: [J-Fall](https://jfall.nl/) - Ede (Netherlands) <a href="https://sessionize.com/jfall25/"><img alt="CFP J-Fall" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2025&color=red"></a>
@@ -653,7 +654,7 @@ All the data (past and coming) are available publicly in JSON:
 * 2-4: [CfgMgmtCamp 2026 Ghent](https://cfgmgmtcamp.org/ghent2026/) - Ghent (Belgium) <a href="https://cfp.cfgmgmtcamp.org/ghent2026/cfp"><img alt="CFP CfgMgmtCamp 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2026&color=green"></a>
 * 2-4: [Jfokus](https://www.jfokus.se/) - Stockholm (Sweden)
 * 2-6: [Web Days Convention](https://webdays.events/) - Aix-en-Provence (France) <a href="https://conference-hall.io/web-days-convention"><img alt="CFP Web Days Convention" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2026&color=green"></a>
-* 3: [Cloud Native Days France 2026](https://www.cloudnativedays.fr/) - Paris (France) <a href="https://cfp.cloudnativedays.fr/2026/"><img alt="CFP Cloud Native Days France 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-October-2025&color=green"></a>
+* 3: [Cloud Native Days France 2026](https://www.cloudnativedays.fr/) - Paris (France) <a href="https://cfp.cloudnativedays.fr/2026/"><img alt="CFP Cloud Native Days France 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-October-2025&color=green"></a>
 * 4-5: [Cybersec Asia x Thailand International Cyber Week 2026 (powered by NCSA)](http://www.cybersec-asia.net) - Bangkok (Thailand) <a href="https://www.papercall.io/cybersecasia26"><img alt="CFP Cybersec Asia x Thailand International Cyber Week 2026 (powered by NCSA)" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=green"></a>
 * 4-6: [Fabric February 2026](https://www.fabricfebruary.com/) - Oslo (Norway) <a href="https://sessionize.com/fabric-february-2026"><img alt="CFP Fabric February 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2025&color=red"></a>
 * 6: [Voxxed Days Ticino](https://ticino.voxxeddays.com/) - Lugano (Switzerland) <a href="https://vdt26.cfp.dev/"><img alt="CFP Voxxed Days Ticino 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-October-2025&color=green"></a>
@@ -719,6 +720,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6-7: [devopsdays Zurich](https://devopsdays.org/events/2026-zurich/welcome/) - Winterthur (Switzerland)
 * 9: [Java Day Istanbul 2026](https://www.javaday.istanbul/) - Istanbul (Turkey) <a href="https://www.papercall.io/javadayistanbul2026"><img alt="CFP Java Day Istanbul 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=green"></a>
 * 11-14: [Web Summit Vancouver](https://vancouver.websummit.com/) - Vancouver, BC (Canada)
+* 18-19: [Cloud Native Days Romania](https://cloudnativedays.ro/) - Bucharest (Romania)
 * 18-20: [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Minneapolis, MN (USA)
 * 18-23: [RustWeek 2026](https://2026.rustweek.org/) - Eindhoven (Netherlands)
 * 21-22: [DataGrillen 2026](https://datagrillen.com) - Lingen (Germany) <a href="https://sessionize.com/datagrillen-2026/"><img alt="CFP DataGrillen 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-December-2025&color=green"></a>
