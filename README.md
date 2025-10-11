@@ -52,6 +52,7 @@ All the data (past and coming) are available publicly in JSON:
 * 2-3: [PyCon Estonia 2025](https://pycon.ee/) - Tallinn (Estonia)
 * 2-3: [devopsdays Des Moines](https://devopsdays.org/events/2025-des-moines/welcome/) - Des Moines, IA (USA)
 * 2-4: [PyCon Nigeria 2025](https://ng.pycon.org/) - Lagos (Nigeria) <a href="https://ng.pycon.org/speaking/propose-talk/"><img alt="CFP PyCon Nigeria 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-August-2025&color=red"></a>
+* 2-4: [React Alicante](https://reactalicante.es/) - Alicante (Spain)
 * 3: [DevFest Perros-Guirec 2025](https://devfest.codedarmor.fr/) - Perros-Guirec (France) <a href="https://conference-hall.io/devfest-perros-guirec-2025"><img alt="CFP DevFest Perros Guirec 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-June-2025&color=red"></a>
 * 3: [Cosmobash](https://cosmobash.com) - Singapore (Singapore) <a href="https://sessionize.com/cosmobash/"><img alt="CFP Cosmobash" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-June-2025&color=red"></a>
 * 3: [LF Energy Summit North America](https://events.linuxfoundation.org/lfenergysummit-north-america/) - Montreal (Canada)
@@ -562,7 +563,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-15: [Spring I/O](https://2025.springio.net/) - Barcelona (Spain)
 * 13-17: [PyCon DE & PyData 2026](https://2026.pycon.de/) - Darmstadt (Germany)
 * 14-15: [Green IO Singapore](https://greenio.tech/conference/18/singapore-2026-april-green-it) - Singapore (Singapore) <a href="https://apidays.typeform.com/to/SMHd2wFE?=green-io-conference%3Dcall-for-speakers&typeform-source=greenio.tech"><img alt="CFP Green IO Singapore 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2026&color=green"></a>
-* 17-19: [PyTexas Conference](https://www.pytexas.org/2026/) - Austin, TX (USA)
+* 17-19: [PyTexas 2026](https://www.pytexas.org/2026/) - Austin, TX (USA) <a href="https://pretalx.com/pytexas-2026/cfp"><img alt="CFP Pytexas 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2025&color=green"></a>
 * 20-23: [JCON EUROPE 2026](https://2026.europe.jcon.one/) - Cologne (Germany) <a href="https://sessionize.com/jcon-europe-2026"><img alt="CFP JCON EUROPE 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=green"></a>
 * 22-24: [Devoxx France 2026](https://www.devoxx.fr) - Paris (France)
 * 23-25: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece)
