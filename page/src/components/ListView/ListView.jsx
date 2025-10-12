@@ -8,6 +8,8 @@ import ShortDate from 'components/ShortDate/ShortDate';
 import FavoriteButton from 'components/FavoriteButton/FavoriteButton';
 import TagBadges from 'components/TagBadges/TagBadges';
 import { useFavoritesContext } from '../../contexts/FavoritesContext';
+import { Edit } from 'lucide-react';
+import EditEventInlineForm from 'components/EditEventForm/EditEventInlineForm';
 
 const ListView = () => {
   let events = useYearEvents();
@@ -60,6 +62,8 @@ const ListView = () => {
     return monthA - monthB;
   });
 
+  const [editEvent, setEditEvent] = React.useState(null);
+
   return (
     <div className="listView">
       {monthOrder.map(month => (
@@ -68,7 +72,6 @@ const ListView = () => {
           {eventsByMonth[month].map((e, i) => {
             const eventId = `${e.name}-${e.date[0]}`;
             const isFav = isFavorite(eventId);
-            
             return (
               <div className={`event-list-entry ${isFav ? 'favorite-event' : ''}`} key={`${month}_ev_${i}`}>
                 <div className="event-details">
@@ -85,11 +88,23 @@ const ListView = () => {
                   </div>
                 </div>
                 <TagBadges onTagClick={handleTagClick} tags={e.tags} />
+                <button
+                  className="edit-inline-btn"
+                  title="Edit this event"
+                  aria-label="Edit this event"
+                  onClick={() => setEditEvent(e)}
+                  style={{ marginLeft: '1em', background: 'none', border: 'none', cursor: 'pointer' }}
+                >
+                  <Edit size={18} />
+                </button>
               </div>
             );
           })}
         </React.Fragment>
       ))}
+      {editEvent && (
+        <EditEventInlineForm event={editEvent} onClose={() => setEditEvent(null)} />
+      )}
     </div>
   );
 };
