@@ -136,6 +136,10 @@ export const useYearEvents = () => {
       });
     }
 
+    if (search.sponsoring === 'true') {
+      result = result.filter((e) => e.sponsoring);
+    }
+
     // Handle multiselect tags filter (AND logic - all selected tags must match)
     if (search.tags) {
       const selectedTags = Array.isArray(search.tags) ? search.tags : search.tags.split(',');
