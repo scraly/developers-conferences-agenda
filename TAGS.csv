@@ -1211,7 +1211,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-27-PyCon Senegambia,tech:python,topic:data-science,topic:open-source,language:french
 2026-04-28-stackconf 2026,tech:various,topic:cloud-computing,topic:devops,language:german
 2025-11-22-DevFest London 2025,topic:ai,topic:cloud,topic:cloud-native,tech:android,topic:mobile,topic:mobile-development,topic:security,tech:flutter,topic:data,topic:web-development,language:english
-2026-03-03-Devnexus,topic:java,topic:ai,topic:security,topic:artificial-intelligence,topic:cloud-native,topic:developer-tools,topic:leadership,topic:open-source,topic:software-architecture,topic:software-development,topic:software-engineering,language:english
+2026-03-03-Devnexus,topic:java,topic:ai,topic:security,topic:cloud-native,topic:developer-tools,topic:open-source,topic:software-architecture,topic:software-development,language:english
 2025-11-04-XtremeJ 2025 Online Conference,tech:java,language:english
 2025-11-11-XtremeJS 2025 Online Conference,tech:javascript,topic:web-development,topic:frontend,language:english
 2025-11-18-XtremePython 2025 Online Conference,tech:python,topic:data,topic:open-source,language:english
@@ -1224,8 +1224,8 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-15-DevFest Raipur 2025,tech:google,topic:developer,topic:android,language:hindi
 2026-04-11-Gen AI Summit 2026,tech:ai,topic:machine-learning,topic:deep-learning,language:spanish
 2026-06-08-Domain-Driven Design Europe,topic:software,tech:domain-driven-design,topic:architecture,topic:software-architecture,topic:ai
-2026-06-11-DataMeshLive,topic:data,topic:data-management,topic:data-science,topic:architecture,topic:software-architecture,topic:product-management
-2026-02-25-ConFoo,topic:community,topic:developer,topic:software-development,language:english,language:french
+2026-06-11-DataMeshLive,topic:data,topic:data-management,topic:data-science,topic:architecture,topic:software-architecture
+2026-02-25-ConFoo,topic:community,topic:software-development,language:english,language:french
 2025-10-01-Algolia DevCon 2025,tech:search,topic:devcon,language:english
 2025-11-18-Microsoft Ignite 2025,tech:microsoft,language:english
 2026-03-24-SRECon Americas,tech:sre,language:english
@@ -1341,7 +1341,8 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-23-WeAreDevelopers World Congress 2026 - North America,tech:python,topic:data,topic:open-source,language:english
 2025-10-17-Sreyas Developer Conference,topic:conference,topic:devcon,topic:tech
 2026-05-18-Cloud Native Days Romania,topic:cloud-native,tech:kubernetes,topic:open-source,language:english
-2026-03-23-SRECon 26 Americas,tech:sre,topic:backend,topic:devops,language:english2025-11-07-Italian Agile Days 2025,tech:agile,language:italian
+2026-03-23-SRECon 26 Americas,tech:sre,topic:backend,topic:devops,language:english
+2025-11-07-Italian Agile Days 2025,tech:agile,language:italian
 2026-04-17-PyTexas 2026,tech:python,language:english
 2026-04-28-Voxxed Days Bucharest,tech:java,tech:kotlin,tech:scala,language:romanian
 2026-05-22-AFUP Day 2026 Lille,tech:php,language:french

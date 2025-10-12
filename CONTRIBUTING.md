@@ -29,6 +29,10 @@ Examples of rejected conferences:
 ```
 <a href="https://example.com/"><img alt="CFP conference-name" src="https://img.shields.io/static/v1?label=CFP&message=until%20DD-MONTH-YYYY&color=green"></a>
 ```
+* If the conference has a sponsoring deck, please specify it at the end of the line:
+```
+<a href="https://www.linkofthesponsoring.deck"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
+```
 * If the conference will be subtitles with closed captions, please specify it at the end of the line:
 ```
 <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />

@@ -5,8 +5,11 @@ const MAIN_INPUT = ROOT+"README.md"
 const TAGS_CSV = ROOT + "TAGS.csv";
 const confIdentifierPattern = /^ *\* ?(\[.*\]\s?)?[0-9?x\/-]+/
 
-//complex example : "* [Virtualized] 31/05-04/06: [event : stuff](http://link.io) - chambéry (France) <a ... ><img ...label=CFP.../></a> <img ...Closed%20Captions... />" 
-const confValidationPattern = /^\*( \[(?<status>[\w ]+)\])? (?<date>\d{1,2}(\/\d{1,2})?(-\d{1,2})?(\/\d{1,2})?)\s?: \[(?<name>[^\]]*)\]\((?<link>https?:\S*)\)( - (?<place>[^<\n]*))?(?<cfp><a.*label=CFP.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>)?\s*(?<sco><a.*label=Scholarship.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>)?\s*(?<cc><img.*Closed%20Captions.*\/>)?\s*(?<other><img.*color=purple.*\/>)?\s*$/
+// Structure générale (date, nom, lien, lieu)
+const confValidationPattern = /^\*( \[(?<status>[\w ]+)\])? (?<date>\d{1,2}(\/\d{1,2})?(-\d{1,2})?(\/\d{1,2})?)\s?: \[(?<name>[^\]]*)\]\((?<link>https?:\S*)\)( - (?<place>[^<\n]*))?/;
+
+// Permettre aussi les dates sans année (ex : 6-7: ...)
+const confValidationPatternLoose = /^\*( \[(?<status>[\w ]+)\])? (?<date>\d{1,2}(-\d{1,2})?)\s?: \[(?<name>[^\]]*)\]\((?<link>https?:\S*)\)( - (?<place>[^<\n]*))?/;
 
 const extractArchiveFiles = markdown => //eg: " * [2017](archives/2017.md)"
     [...markdown.matchAll(/^\s*\*\s*\[.*\]\(archives\/.*\.md\)\s*$/gm)].map( match => match[0])
@@ -43,8 +46,8 @@ const addHints = confLine => {
         hints.push("CFP shields should have a link")
     }
     if(confLine.content.includes("img.shields.io") && !(
-        confLine.content.includes("label=CFP") || confLine.content.includes("Closed%20Captions") || confLine.content.includes("Scholarship") || confLine.content.includes("label=Meetup"))){
-        hints.push("shields are for 'CFP' or 'Closed Content' or 'Scholarship' or 'Meetup' with provided format only")
+        confLine.content.includes("label=CFP") || confLine.content.includes("Closed%20Captions") || confLine.content.includes("Scholarship") || confLine.content.includes("label=Meetup") || confLine.content.includes("Sponsoring") )){
+        hints.push("shields are for 'CFP' or 'Closed Content' or 'Scholarship' or 'Sponsoring' or 'Meetup' with provided format only")
     }
     if(confLine.content.includes("label=CFP") && 
         confLine.content.includes("Closed%20Captions") &&
@@ -56,13 +59,30 @@ const addHints = confLine => {
     confLine.content.indexOf("Scholarship") < confLine.content.indexOf("label=CFP")){
     hints.push("please order your shields : CFP, Scholarship")
 }
+    if(confLine.content.includes("label=CFP") && 
+    confLine.content.includes("Sponsoring") &&
+    confLine.content.indexOf("Sponsoring") < confLine.content.indexOf("label=CFP")){
+    hints.push("please order your shields : CFP, Sponsoring")
+}
     if(confLine.content.includes("img.shields.io") && !confLine.content.match(/>\s*$/) ){
         hints.push("please place your shields at the end of the line")
     }
     if(confLine.content.includes("label=CFP") && !confLine.content.match(/<a.*label=CFP.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>/) ){
         hints.push("please use a conform CFP date format (DD-MMM-YYYY, MMM-DD-YYYY, YYYY-MMM-DD) eg: 04-Jan-2023")
     }
-
+    if(confLine.content.includes("label=Sponsoring") && !confLine.content.match(/<a.*label=Sponsoring.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>/) ){
+        hints.push("please use a conform Sponsoring date format (DD-MMM-YYYY, MMM-DD-YYYY, YYYY-MMM-DD) eg: 04-Jan-2023")
+    }
+    // Vérification de la présence des badges Sponsoring, Scholarship, Closed Captions
+    if (/alt=["']Sponsoring["']/.test(confLine.content) && !/<a[^>]*><img[^>]*alt=["']Sponsoring["'][^>]*><\/a>/.test(confLine.content)) {
+        hints.push("Sponsoring badge should be inside a <a> tag");
+    }
+    if (/alt=["']Scholarship["']/.test(confLine.content) && !/<a[^>]*><img[^>]*alt=["']Scholarship["'][^>]*><\/a>/.test(confLine.content)) {
+        hints.push("Scholarship badge should be inside a <a> tag");
+    }
+    if (/alt=["']Closed Captions["']/.test(confLine.content) && !/<img[^>]*alt=["']Closed Captions["'][^>]*>/.test(confLine.content)) {
+        hints.push("Closed Captions badge should be a <img> tag");
+    }
     return {...confLine, hints:hints}
 }
 
@@ -76,8 +96,11 @@ const confLines = mainLines.concat( archives.flatMap( archive => findConfLines(f
 
 console.info(`found ${confLines.length} conferences`)
 
-const warnings = confLines.filter(line => !line.content.match(confValidationPattern))
-                          .map(addHints)
+const warnings = confLines.filter(line => {
+    if (line.content.match(confValidationPattern)) return false;
+    if (line.content.match(confValidationPatternLoose)) return false;
+    return true;
+}).map(addHints)
 
 
 console.warn(`found ${warnings.length} conferences with wrong format entries`)
