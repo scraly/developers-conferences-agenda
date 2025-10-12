@@ -119,40 +119,41 @@ const extractEvents = (monthMarkdown, year, month) => {
       const misc = miscContent.replace(sponsoringLink, "").replace(cfpLink, "").trim();
 
       const event = {
-      name: eventLine.trim().replaceAll(/^.*[?0-9\/-]+.*\[(.*)\].*$/g, "$1"),
-      date: getTimeSpan(
-        year,
-        month,
-        eventLine.trim().replaceAll(/^\s*\*\s*([0-9\/-]*).*$/g, "$1")
-      ),
-      hyperlink: eventLine.trim().replaceAll(/^.*\]\(([^)]*)\).*$/g, "$1"),
-      location: eventLine
-        .trim()
-        .replaceAll(/^[^\]]*[^)]*[\P{Letter}]*([^<]*).*$/ug, "$1")
-        .trim(),
-      city: eventLine
-        .trim()
-        .replaceAll(/^[^\]]*[^)]*[\P{Letter}]*([^<]*).*$/ug, "$1")
-        .trim()
-        .replaceAll(/ \& Online/g, "")
-        .replaceAll(/^([^(]*)\(.*$/g, "$1")
-        .trim(),
-      country: eventLine 
-        .trim()
-        .replaceAll(/^[^\]]*[^)]*[\P{Letter}]*([^<]*).*$/ug, "$1")
-        .trim()
-        .replaceAll(/ \& Online/g, "")
-        .replaceAll(/^[^(]*\(([^)]*)\)$/g, "$1")
-        .trim(),
-      misc: misc,
-      cfp: extractCfp(misc),
-      sponsoring: sponsoringUrl,
-      closedCaptions: eventLine.trim().match(/^.*(<img alt=.Closed Captions.).*$/) !== null,
-      scholarship: eventLine.trim().match(/^.*(<img alt=.Scholarship.).*$/) !== null,
-      status: eventLine.trim().startsWith("* [")
-        ? eventLine.trim().replaceAll(/^[^[]*\[([\w\s]*)\].*$/g, "$1")
-                : "open",
-    };
+        name: eventLine.trim().replaceAll(/^.*[?0-9\/\-]+.*\[(.*)\].*$/g, "$1"),
+        date: getTimeSpan(
+          year,
+          month,
+          eventLine.trim().replaceAll(/^\s*\*\s*([0-9\/-]*).*$/g, "$1")
+        ),
+        hyperlink: eventLine.trim().replaceAll(/^.*\]\(([^)]*)\).*$/g, "$1"),
+        location: eventLine
+          .trim()
+          .replaceAll(/^[^\]]*[^)]*[\P{Letter}]*([^<]*).*$/ug, "$1")
+          .trim(),
+        city: eventLine
+          .trim()
+          .replaceAll(/^[^\]]*[^)]*[\P{Letter}]*([^<]*).*$/ug, "$1")
+          .trim()
+          .replaceAll(/ \& Online/g, "")
+          .replaceAll(/^([^(]*)\(.*$/g, "$1")
+          .trim(),
+        country: eventLine 
+          .trim()
+          .replaceAll(/^[^\]]*[^)]*[\P{Letter}]*([^<]*).*$/ug, "$1")
+          .trim()
+          .replaceAll(/ \& Online/g, "")
+          .replaceAll(/^[^(]*\(([^)]*)\)$/g, "$1")
+          .trim(),
+        misc: misc,
+        cfp: extractCfp(misc),
+  sponsoring: sponsoringUrl,
+  closedCaptions: eventLine.trim().match(/^.*(<img alt=.Closed Captions.).*$/) !== null,
+  scholarship: eventLine.trim().match(/^.*(<img alt=.Scholarship.).*$/) !== null,
+  sponsoringBadge: eventLine.trim().match(/^.*(<img alt=.Sponsoring.).*$/) !== null,
+        status: eventLine.trim().startsWith("* [")
+          ? eventLine.trim().replaceAll(/^[^[]*\[([\w\s]*)\].*$/g, "$1")
+          : "open",
+      };
     return event;
   });
 }
