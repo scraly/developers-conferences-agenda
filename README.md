@@ -421,6 +421,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27: [PyCon Senegambia](https://www.pyconsenegambia.org/fr) - Banjul (Gambia) <a href="https://sessionize.com/pycon-senegambia/"><img alt="CFP PyCon Senegambia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-September-2025&color=red"></a>
 * 27: [Agile Tour Montreal](https://www.agiletourmontreal.com/) - Montreal (Canada) <a href="https://sessionize.com/agile-tour-montreal-2025"><img alt="CFP Agile Tour Montreal 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=red"></a>
 * 27-28: [DevOpsDays Wollongong 2025](https://devopsdays.org/events/2025-wollongong/) - Wollongong (Australia) <a href="https://www.papercall.io/devopsdays-wollongong"><img alt="CFP DevOpsDays Wollongong 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-October-2025&color=red"></a>
+* 27-28: [SymfonyCon Amsterdam 2025](https://live.symfony.com/2025-amsterdam-con/) - Amsterdam (Netherlands)
 * 27-29: [CloudNative LATAM Summit](https://community.cncf.io/cloud-native-latam/) - Online <a href="https://sessionize.com/cloudnative-latam-summit/"><img alt="CFP CloudNative LATAM Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-August-2025&color=red"></a>
 * 28: [DevFest Lyon](https://devfest.gdglyon.com/) - Lyon (France) <a href="https://conference-hall.io/devfest-lyon-2025"><img alt="DevFest Lyon 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2025&color=red"></a>
 * 28: [DevFest Granada 2025](https://gdg.community.dev/events/details/google-gdg-granada-presents-devfest-granada-2025/) -  Granada (Spain) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCpdDquKaDntZqafK6OxCmtiSJoJxaoPZMTzVvvEe8q4azaw/viewform"><img alt="DevFest Granada 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2025&color=red"></a>
@@ -503,6 +504,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 14-17: [SnowCamp 2026](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/snowcamp-2026"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-October-2025&color=green"></a>
 * 15: [Data Left Unattended - Amsterdam](http://unattended-data.io/) - Amsterdam (Netherlands) <a href="https://sessionize.com/data-left-unattended-amsterdam/"><img alt="CFP Data Left Unattended - Amsterdam" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-September-2025&color=red"></a>
+* 22-23: [SymfonyOnline January 2026](https://live.symfony.com/2026-paris/) - Online
 * 22-27: [jChampions](https://jchampionsconf.com) - Online
 * 28-29: [LF Decentralized Trust Member Summit](https://www.lfdecentralizedtrust.org/member-summit-10th-anniversary) - Jersey City (USA)
 * 29-30: [Cloud Tech Tallinn](https://cloudtechtallinn.com/) - Tallinn (Estonia)
@@ -554,6 +556,7 @@ All the data (past and coming) are available publicly in JSON:
 * 24: [Voxxed Days Zurich](https://zurich.voxxeddays.com/) - Zurich (Switzerland) <a href="https://vdz26.cfp.dev/"><img alt="CFP Voxxed Days Zurich 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%201-December-2025&color=green"></a>
 * 24-26: [SRECon Americas](https://www.usenix.org/conference/srecon26americas) - Seattle, WA (USA)
 * 24-26: [React Advanced Canada](https://reactadvanced.com/canada/) - Toronto (Canada) <a href="https://www.papercall.io/reactadvancedcanada"><img alt="CFP React Advanced Canada" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2025&color=red"></a>
+* 26-27: [SymfonyLive Paris 2026](https://live.symfony.com/2026-paris/) - Paris (France)
 * 27: [Frontrunners AI/Data](https://frontrunners.tech/) - Washington D.C. (USA) <a href="https://www.papercall.io/frontrunnersai2026"><img alt="CFP Frontrunners AI/Data Mar 27, 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=green"></a>
 * 27: [Frontrunners JS/Web](https://frontrunners.tech/) - Washington D.C. (USA) <a href="https://www.papercall.io/frontrunners2026"><img alt="CFP Frontrunners JS/Web Mar 27, 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=green"></a>
 
@@ -567,6 +570,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17-19: [PyTexas 2026](https://www.pytexas.org/2026/) - Austin, TX (USA) <a href="https://pretalx.com/pytexas-2026/cfp"><img alt="CFP Pytexas 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2025&color=green"></a>
 * 20-23: [JCON EUROPE 2026](https://2026.europe.jcon.one/) - Cologne (Germany) <a href="https://sessionize.com/jcon-europe-2026"><img alt="CFP JCON EUROPE 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=green"></a>
 * 22-24: [Devoxx France 2026](https://www.devoxx.fr) - Paris (France)
+* 23-24: [SymfonyLive Berlin 2026](https://live.symfony.com/2026-berlin/) - Berlin (Germany)
 * 23-25: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece)
 * 24-26: [Great International Developer Summit 2026 (GIDS 2026)](https://developersummit.com/) - Bengaluru (India)
 * 28-29: [stackconf 2026](https://stackconf.eu/) - Munich (Germany) <a href="https://stackconf.eu/propose/"><img alt="CFP stackconf" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=green"></a>
@@ -596,6 +600,7 @@ All the data (past and coming) are available publicly in JSON:
 ### June
 
 * 2-3: [Cyber Security for Critical Assets Canada](https://canada.cs4ca.com/) - Calgary (Canada) <a href="https://canada.cs4ca.com/submit-speaking-proposal/"><img alt="CFP Cyber Security for Critical Assets Canada" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2026&color=green"></a>
+* 4: [SymfonyDay Montreal 2026](https://live.symfony.com/2026-montreal/) - Montreal (Canada)
 * 6: [devopsdays Feira de Santana](https://devopsdays.org/events/2026-feira-de-santana/welcome/) - Feira de Santana (Brazil)
 * 8-11: [Web Summit Rio](https://rio.websummit.com/) - Rio de Janeiro (Brazil)
 * 8-12: [Domain-Driven Design Europe](https://2026.dddeurope.com/) - Antwerp (Belgium) <a href="https://2026.dddeurope.com/cfp/"><img alt="CFP Domain-Driven Design Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
