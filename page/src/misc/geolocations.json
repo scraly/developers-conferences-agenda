@@ -67,9 +67,9 @@
     "latitude": 55.001251,
     "longitude": -115.002136
   },
-  "Albuquerque (USA)": {
-    "latitude": 35.0843859,
-    "longitude": -106.650422
+  "Albuquerque, NM (USA)": {
+    "latitude": 35.0841034,
+    "longitude": -106.650985
   },
   "Alicante (Spain)": {
     "latitude": 38.3459963,
@@ -190,6 +190,10 @@
   "Avilés (Spain)": {
     "latitude": 43.5511103,
     "longitude": -5.9304039
+  },
+  "Bacolod (Philippines)": {
+    "latitude": 10.6762836,
+    "longitude": 122.9513786
   },
   "Baden (France)": {
     "latitude": 47.6199988,
@@ -483,6 +487,10 @@
     "latitude": 36.5262463,
     "longitude": -5.9008367301110844
   },
+  "Cagayan De Oro City (Philippines)": {
+    "latitude": 8.4860705,
+    "longitude": 124.656805
+  },
   "Cagliari (Italy)": {
     "latitude": 39.2237323,
     "longitude": 9.1217194
@@ -675,6 +683,10 @@
     "latitude": 35.308495199999996,
     "longitude": 24.46334231842296
   },
+  "Cuenca (Ecuador)": {
+    "latitude": -2.8974072,
+    "longitude": -79.0041726
+  },
   "Curitiba (Brazil)": {
     "latitude": -25.4268985,
     "longitude": -49.2651984
@@ -811,6 +823,10 @@
     "latitude": 4.646736499999999,
     "longitude": 7.9429421
   },
+  "El Alto (Bolivia)": {
+    "latitude": -16.5048228,
+    "longitude": -68.1624337
+  },
   "Eldoret (Kenya)": {
     "latitude": 0.5142774999999999,
     "longitude": 35.2697802
@@ -931,6 +947,10 @@
     "latitude": 19.2965778,
     "longitude": -81.3819158
   },
+  "George Town (Malaysia)": {
+    "latitude": 5.4141619,
+    "longitude": 100.3287352
+  },
   "Germany": {
     "latitude": 34.895926,
     "longitude": -83.4665496
@@ -970,6 +990,10 @@
   "Goinia (Brazil)": {
     "latitude": -16.6868491,
     "longitude": -49.2707899
+  },
+  "Goiânia (Brazil)": {
+    "latitude": -16.680882,
+    "longitude": -49.2532691
   },
   "Golfe du morbihan (France)": {
     "latitude": 47.5976972,
@@ -1219,6 +1243,10 @@
     "latitude": 8.8945377,
     "longitude": 11.3644261
   },
+  "Jamundí (Colombia)": {
+    "latitude": 3.2618357,
+    "longitude": -76.5407975
+  },
   "Japan": {
     "latitude": 40.9921996,
     "longitude": -75.9078749
@@ -1226,6 +1254,10 @@
   "Jaén (Spain)": {
     "latitude": 37.7795941,
     "longitude": -3.784905699999999
+  },
+  "Jersey City (USA)": {
+    "latitude": 40.7215682,
+    "longitude": -74.047455
   },
   "Jinan (China)": {
     "latitude": 36.6518399,
@@ -1871,6 +1903,10 @@
     "latitude": 45.3376197,
     "longitude": 14.305196
   },
+  "Oral (Kazakhstan)": {
+    "latitude": 51.2040697,
+    "longitude": 51.3707863
+  },
   "Orange (France)": {
     "latitude": 44.1371311,
     "longitude": 4.8078783
@@ -1995,6 +2031,10 @@
     "latitude": 40.4416941,
     "longitude": -79.9900861
   },
+  "Piura (Peru)": {
+    "latitude": -5,
+    "longitude": -80.333333
+  },
   "Plymouth (UK)": {
     "latitude": 50.3712659,
     "longitude": -4.1425658
@@ -2082,6 +2122,10 @@
   "Prizren (Kosovo)": {
     "latitude": 42.2130151,
     "longitude": 20.7363339
+  },
+  "Providencia (Chile)": {
+    "latitude": -33.4288379,
+    "longitude": -70.6113373
   },
   "Provo, UT (USA)": {
     "latitude": 40.2335349,
@@ -2243,7 +2287,7 @@
     "latitude": 37.7790262,
     "longitude": -122.419906
   },
-  "San Jose (USA)": {
+  "San Jose, CA (USA)": {
     "latitude": 37.3361663,
     "longitude": -121.890591
   },

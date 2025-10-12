@@ -1287,3 +1287,66 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-05-18-RustWeek 2026,tech:rust,topic:programming,topic:open-source,language:dutch
 2026-09-08-RustConf 2026,tech:rust,topic:programming,topic:open-source,language:french
 2025-11-24-Forward Data & AI Conference,tech:ai,tech:data-science,topic:machine-learning,topic:data-analysis,language:english
+2025-10-07-Redis Released Paris,tech:redis,topic:database,topic:open-source,language:french
+2025-10-21-JetBrains GameDev Day 2025,tech:gamedev,topic:game-development,language:english
+2026-04-28-Stripe Sessions 2026,tech:stripe,topic:finance,topic:technology,language:english
+2026-05-06-Devoxx UK 2026,tech:java,topic:software-development,language:english
+2025-10-15-EnvoyCon Virtual,tech:envoy,topic:networking,topic:open-source,language:english
+2025-10-17-OPI Summit on DPU/IPUs,tech:opi,topic:dpu,topic:ipu,language:english
+2025-10-18-Portera Day,tech:portera,topic:open-source,language:portuguese
+2025-10-25-PyDay SDQ,tech:python,topic:programming,language:spanish
+2025-10-30-European Open Source Security Forum,tech:security,topic:open-source,language:english
+2025-12-03-CozySummit Virtual,tech:cozy,topic:open-source,language:english
+2025-12-04-GitOpsCon North America Virtual,tech:gitops,topic:devops,language:english
+2025-12-07-DevFest Istanbul,tech:devfest,topic:google,language:turkish
+2026-01-28-LF Decentralized Trust Member Summit,tech:decentralized-trust,topic:open-source,language:english
+2026-03-23-KeycloakCon Europe,tech:keycloak,topic:identity,language:english
+2026-03-23-Cloud Native AI + Kubeflow Day Europe,tech:ai,tech:kubeflow,topic:cloud-native,language:english
+2026-03-23-OpenTofu Day Europe,tech:terraform,topic:open-source,language:english
+2026-05-18-Open Source Summit North America,tech:open-source,topic:summit,language:english
+2026-06-11-Blastoff Rails,tech:rails,topic:web-development,language:english
+2026-06-12-Baltic Ruby 2026,tech:ruby,topic:programming,language:german
+2026-06-18-KubeCon + CloudNativeCon India 2026,tech:kubernetes,topic:cloud-native,language:hindi
+2026-10-07-Open Source Summit Europe 2026,tech:open-source,topic:summit,language:czech
+2026-10-20-PyTorch Conference 2026,tech:pytorch,topic:machine-learning,language:english
+2026-12-07-Open Source Summit Japan 2026,tech:open-source,topic:summit,language:japanese
+2027-10-06-PyTorch Conference 2027,tech:pytorch,topic:machine-learning,language:english
+2025-10-04-Xpand Conference 2025,tech:java,tech:javascript,topic:cloud,topic:devops,language:english
+2025-10-09-Testing Talks,tech:testing,topic:software-quality,topic:automation,language:english
+2025-10-14-API Summit,tech:api,topic:security,topic:performance,language:english
+2025-10-18-Road to DevFest Ecuador: Cuenca Edition,tech:android,tech:web,topic:google-cloud,topic:firebase,language:spanish
+2025-10-25-CodeOn 2025,tech:java,tech:python,topic:cloud,topic:devops,language:spanish
+2025-11-07-Data Dev Fest 2025,tech:data-science,tech:big-data,topic:google-cloud,topic:ai,language:spanish
+2025-11-15-DevFest Oral 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:kazakh
+2025-11-18-DevFest Seattle 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:english
+2025-11-21-LAST Conference,tech:javascript,tech:python,topic:cloud,topic:devops,language:english
+2025-11-22-DevFest Bacolod 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:tagalog
+2025-11-22-DevFest Medan 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:bahasa-indonesia
+2025-11-22-DevFest El Alto 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:spanish
+2025-11-29-DevFest Brasília 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:portuguese
+2025-11-29-DevFest Santiago de Chile 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:spanish
+2025-12-04-YOW! Melbourne,tech:java,tech:javascript,topic:cloud,topic:devops,language:english
+2025-12-06-Devfest 2025 Cagayan De Oro,tech:android,tech:web,topic:google-cloud,topic:firebase,language:tagalog
+2025-12-07-Devfest Belém 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:portuguese
+2025-12-08-YOW! Brisbane,tech:java,tech:javascript,topic:cloud,topic:devops,language:english
+2025-12-11-YOW! Sydney,tech:java,tech:javascript,topic:cloud,topic:devops,language:english
+2025-12-13-DevFest Piura 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:spanish
+2025-12-13-DevFest George Town 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:bahasa-melayu
+2025-12-19-Devfest Kigali 2025,tech:android,tech:web,topic:google-cloud,topic:firebase,language:kinyarwanda
+2026-02-21-DDD Melbourne 2026,tech:dotnet,topic:ddd,topic:architecture,language:english
+2026-05-25-Toronto Tech Week,tech:javascript,tech:python,topic:cloud,topic:devops,language:english
+2026-07-18-KCD Lima 2026,tech:kubernetes,topic:cloud-native,topic:open-source,language:spanish
+2025-10-28-National Infrastructure Conference (NIC),topic:infrastructure,topic:national,topic:conference,language:english
+2026-07-08-WeAreDevelopers World Congress 2026 - Europe,tech:python,topic:data,topic:open-source,language:english
+2026-09-23-WeAreDevelopers World Congress 2026 - North America,tech:python,topic:data,topic:open-source,language:english
+2025-10-17-Sreyas Developer Conference,topic:conference,topic:devcon,topic:tech
+2026-05-18-Cloud Native Days Romania,topic:cloud-native,tech:kubernetes,topic:open-source,language:english
+2026-03-23-SRECon 26 Americas,tech:sre,topic:backend,topic:devops,language:english2025-11-07-Italian Agile Days 2025,tech:agile,language:italian
+2026-04-17-PyTexas 2026,tech:python,language:english
+2026-04-28-Voxxed Days Bucharest,tech:java,tech:kotlin,tech:scala,language:romanian
+2026-05-22-AFUP Day 2026 Lille,tech:php,language:french
+2026-05-22-AFUP Day 2026 Paris,tech:php,language:french
+2026-05-22-AFUP Day 2026 Bordeaux,tech:php,language:french
+2026-05-22-AFUP Day 2026 Lyon,tech:php,language:french
+2026-06-02-Cyber Security for Critical Assets Canada,tech:cybersecurity,language:english
+2026-10-05-Devoxx Belgium,tech:java,tech:kotlin,tech:scala,language:english

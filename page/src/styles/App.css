@@ -75,7 +75,7 @@ body * {
 
 body > footer {
   background: #333;
-  color: #e6e6e6;
+  color: #fff;
   display: grid;
   grid-template-rows: auto;
   grid-template-columns: 1fr minmax(300px, min(90vw, 1024px)) 1fr;
@@ -173,7 +173,25 @@ input[type=text] {
   margin-bottom: 0.5rem;
 }
 
+
+.footer-links-title {
+  font-size: 1.1rem;
+  border-bottom: 1px solid #555;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.footer-link-lists {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+}
+
 @media (max-width: 768px) {
+  .footer-link-lists {
+    flex-direction: column;
+  }
+
   body > footer {
     padding: 1rem;
   }
