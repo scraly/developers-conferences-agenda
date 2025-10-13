@@ -126,6 +126,30 @@ const EditEventInlineForm = ({ event, onClose }) => {
   };
 
   const generateIssueBody = () => {
+    // Détection des champs modifiés
+    const changes = [];
+    const compare = (label, oldVal, newVal, format = v => v) => {
+      if (Array.isArray(oldVal) && Array.isArray(newVal)) {
+        if (oldVal.join(',') !== newVal.join(',')) changes.push(`* **${label}:** ${format(oldVal)} → ${format(newVal)}`);
+      } else if (typeof oldVal === 'boolean' || typeof newVal === 'boolean') {
+        if (!!oldVal !== !!newVal) changes.push(`* **${label}:** ${format(oldVal)} → ${format(newVal)}`);
+      } else if ((oldVal || '') !== (newVal || '')) {
+        changes.push(`* **${label}:** ${format(oldVal)} → ${format(newVal)}`);
+      }
+    };
+    compare('Name', event.name, formData.name);
+    compare('Start Date', event.date && event.date[0] ? new Date(event.date[0]).toISOString().slice(0,10) : '', formData.startDate);
+    compare('End Date', event.date && event.date[1] ? new Date(event.date[1]).toISOString().slice(0,10) : (event.date && event.date[0] ? new Date(event.date[0]).toISOString().slice(0,10) : ''), formData.endDate);
+    compare('Event URL', event.hyperlink, formData.eventUrl);
+    compare('City', event.city, formData.city);
+    compare('Country', event.country, formData.country);
+    compare('Has CFP', !!(event.cfp && event.cfp.link), formData.hasCfp, v => v ? 'Yes' : 'No');
+    compare('CFP URL', event.cfp?.link, formData.cfpUrl);
+    compare('CFP End Date', event.cfp?.untilDate ? new Date(event.cfp.untilDate).toISOString().slice(0,10) : '', formData.cfpEndDate);
+    compare('Closed Captions', !!event.closedCaptions, formData.closedCaptions, v => v ? 'Yes' : 'No');
+    compare('Online Event', event.location && event.location.toLowerCase().includes('online'), formData.onlineEvent, v => v ? 'Yes' : 'No');
+    compare('Tags', event.tags ? event.tags.map(t => `${t.key}:${t.value}`) : [], formData.tags, v => Array.isArray(v) ? v.join(', ') : v);
+
     let locationDisplay;
     if (formData.onlineEvent) {
       if (formData.city.trim() && formData.country.trim()) {
@@ -136,7 +160,7 @@ const EditEventInlineForm = ({ event, onClose }) => {
     } else {
       locationDisplay = `${formData.city}, ${formData.country}`;
     }
-    const humanReadableInfo = `\n**Event Details (EDIT):**\n- **Name:** ${formData.name}\n- **Start Date:** ${formData.startDate}\n- **End Date:** ${formData.endDate}\n- **Event URL:** ${formData.eventUrl}\n- **Location:** ${locationDisplay}\n- **Has CFP:** ${formData.hasCfp ? 'Yes' : 'No'}${formData.hasCfp ? `\n- **CFP URL:** ${formData.cfpUrl || 'N/A'}\n- **CFP End Date:** ${formData.cfpEndDate || 'N/A'}` : ''}\n- **Closed Captions:** ${formData.closedCaptions ? 'Yes' : 'No'}\n- **Online Event:** ${formData.onlineEvent ? 'Yes' : 'No'}\n- **Tags:** ${formData.tags.length > 0 ? formData.tags.join(', ') : 'None'}\n\n**README.md line to update:**\n\`\`\`\n${generateReadmeLine()}\n\`\`\`\n\n**TAGS.csv lines to update:**\n${formData.tags.length > 0 ? `\`\`\`\n${generateTagsCsvLines()}\n\`\`\`` : 'No tags to update'}\n`;
+    const humanReadableInfo = `\n**Event Details (EDIT):**\n- **Name:** ${formData.name}\n- **Start Date:** ${formData.startDate}\n- **End Date:** ${formData.endDate}\n- **Event URL:** ${formData.eventUrl}\n- **Location:** ${locationDisplay}\n- **Has CFP:** ${formData.hasCfp ? 'Yes' : 'No'}${formData.hasCfp ? `\n- **CFP URL:** ${formData.cfpUrl || 'N/A'}\n- **CFP End Date:** ${formData.cfpEndDate || 'N/A'}` : ''}\n- **Closed Captions:** ${formData.closedCaptions ? 'Yes' : 'No'}\n- **Online Event:** ${formData.onlineEvent ? 'Yes' : 'No'}\n- **Tags:** ${formData.tags.length > 0 ? formData.tags.join(', ') : 'None'}\n\n**Champs modifiés :**\n${changes.length ? changes.join('\n') : 'Aucun'}\n\n**README.md line to update:**\n\`\`\`\n${generateReadmeLine()}\n\`\`\`\n\n**TAGS.csv lines to update:**\n${formData.tags.length > 0 ? `\`\`\`\n${generateTagsCsvLines()}\n\`\`\`` : 'No tags to update'}\n`;
     return encodeURIComponent(humanReadableInfo.trim());
   };
 
