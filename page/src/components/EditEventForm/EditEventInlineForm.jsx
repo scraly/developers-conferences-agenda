@@ -15,7 +15,9 @@ const EditEventInlineForm = ({ event, onClose }) => {
     cfpEndDate: event.cfp?.untilDate ? new Date(event.cfp.untilDate).toISOString().slice(0,10) : '',
     closedCaptions: !!event.closedCaptions,
     onlineEvent: event.location && event.location.toLowerCase().includes('online'),
-    tags: event.tags ? event.tags.map(t => `${t.key}:${t.value}`) : []
+    tags: event.tags ? event.tags.map(t => `${t.key}:${t.value}`) : [],
+    hasSponsoring: !!event.sponsoring,
+    sponsoringUrl: event.sponsoring || ''
   });
   const [errors, setErrors] = useState({});
 
@@ -39,6 +41,10 @@ const EditEventInlineForm = ({ event, onClose }) => {
       if (!formData.cfpUrl.trim()) newErrors.cfpUrl = 'CFP URL is required when CFP is selected';
       else { try { new URL(formData.cfpUrl); } catch { newErrors.cfpUrl = 'Please enter a valid CFP URL'; } }
       if (!formData.cfpEndDate) newErrors.cfpEndDate = 'CFP End Date is required when CFP is selected';
+    }
+    if (formData.hasSponsoring) {
+      if (!formData.sponsoringUrl.trim()) newErrors.sponsoringUrl = 'Sponsoring URL is required when Sponsoring is selected';
+      else { try { new URL(formData.sponsoringUrl); } catch { newErrors.sponsoringUrl = 'Please enter a valid Sponsoring URL'; } }
     }
     if (formData.startDate && formData.endDate) {
       if (new Date(formData.startDate) > new Date(formData.endDate)) newErrors.endDate = 'End date must be after start date';
@@ -107,11 +113,15 @@ const EditEventInlineForm = ({ event, onClose }) => {
       }
       cfpSection = ` <a href="${formData.cfpUrl}"><img alt="CFP ${formData.name}" src="https://img.shields.io/static/v1?label=CFP&message=until%20${cfpEndFormatted}&color=${cfpColor}"></a>`;
     }
+    let sponsoringSection = '';
+    if (formData.hasSponsoring && formData.sponsoringUrl) {
+      sponsoringSection = ` <a href="${formData.sponsoringUrl}"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>`;
+    }
     let closedCaptionsSection = '';
     if (formData.closedCaptions) {
       closedCaptionsSection = ` <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />`;
     }
-    return `* ${dateRange}: [${formData.name}](${formData.eventUrl}) - ${location}${cfpSection}${closedCaptionsSection}`;
+    return `* ${dateRange}: [${formData.name}](${formData.eventUrl}) - ${location}${cfpSection}${sponsoringSection}${closedCaptionsSection}`;
   };
 
   const generateTagsCsvLines = () => {
@@ -143,9 +153,24 @@ const EditEventInlineForm = ({ event, onClose }) => {
     compare('Event URL', event.hyperlink, formData.eventUrl);
     compare('City', event.city, formData.city);
     compare('Country', event.country, formData.country);
-    compare('Has CFP', !!(event.cfp && event.cfp.link), formData.hasCfp, v => v ? 'Yes' : 'No');
-    compare('CFP URL', event.cfp?.link, formData.cfpUrl);
-    compare('CFP End Date', event.cfp?.untilDate ? new Date(event.cfp.untilDate).toISOString().slice(0,10) : '', formData.cfpEndDate);
+    const oldHasCfp = !!(event.cfp && event.cfp.link);
+    if (!oldHasCfp && formData.hasCfp) {
+      if (formData.cfpUrl) changes.push(`* **CFP URL ajouté :** ${formData.cfpUrl}`);
+      if (formData.cfpEndDate) changes.push(`* **CFP End Date ajouté :** ${formData.cfpEndDate}`);
+    } else {
+      compare('Has CFP', oldHasCfp, formData.hasCfp, v => v ? 'Yes' : 'No');
+      compare('CFP URL', event.cfp?.link, formData.cfpUrl);
+      compare('CFP End Date', event.cfp?.untilDate ? new Date(event.cfp.untilDate).toISOString().slice(0,10) : '', formData.cfpEndDate);
+    }
+
+    const oldHasSponsoring = !!event.sponsoring;
+    if (!oldHasSponsoring && formData.hasSponsoring) {
+      if (formData.sponsoringUrl) changes.push(`* **Sponsoring URL ajouté :** ${formData.sponsoringUrl}`);
+    } else {
+      compare('Sponsoring', oldHasSponsoring, formData.hasSponsoring, v => v ? 'Oui' : 'Non');
+      compare('Sponsoring URL', event.sponsoring, formData.sponsoringUrl);
+    }
+
     compare('Closed Captions', !!event.closedCaptions, formData.closedCaptions, v => v ? 'Yes' : 'No');
     compare('Online Event', event.location && event.location.toLowerCase().includes('online'), formData.onlineEvent, v => v ? 'Yes' : 'No');
     compare('Tags', event.tags ? event.tags.map(t => `${t.key}:${t.value}`) : [], formData.tags, v => Array.isArray(v) ? v.join(', ') : v);
@@ -188,7 +213,8 @@ const EditEventInlineForm = ({ event, onClose }) => {
             ×
           </button>
         </div>
-        <form onSubmit={handleSubmit}>
+  <form onSubmit={handleSubmit}>
+
           <div className="form-group">
             <label htmlFor="name">Event Name *</label>
             <input
@@ -325,6 +351,31 @@ const EditEventInlineForm = ({ event, onClose }) => {
                 {errors.cfpEndDate ? <span className="error-message">{errors.cfpEndDate}</span> : null}
               </div>
             </> : null}
+
+          <div className="form-group">
+            <label className="checkbox-label">
+              <input
+                checked={formData.hasSponsoring}
+                onChange={e => handleInputChange('hasSponsoring', e.target.checked)}
+                type="checkbox"
+              />
+              Sponsoring
+            </label>
+          </div>
+          {formData.hasSponsoring ? (
+            <div className="form-group">
+              <label htmlFor="sponsoringUrl">Sponsoring URL *</label>
+              <input
+                className={errors.sponsoringUrl ? 'error' : ''}
+                id="sponsoringUrl"
+                onChange={e => handleInputChange('sponsoringUrl', e.target.value)}
+                placeholder="https://example.com/sponsoring"
+                type="url"
+                value={formData.sponsoringUrl}
+              />
+              {errors.sponsoringUrl ? <span className="error-message">{errors.sponsoringUrl}</span> : null}
+            </div>
+          ) : null}
 
           <div className="form-group">
             <label>Tags</label>
