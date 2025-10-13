@@ -1,0 +1,39 @@
+/* Réutilise le style du bouton d'ajout pour le bouton d'édition */
+.edit-event-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  background: #f5f5f5;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  padding: 0.5em 1em;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background 0.2s, border 0.2s;
+}
+.edit-event-button:hover {
+  background: #e0eaff;
+  border-color: #b3c6ff;
+}
+.add-event-text {
+  font-weight: 500;
+}
+.event-search-list {
+  margin: 0.5em 0 0 0;
+  padding: 0;
+  list-style: none;
+  max-height: 200px;
+  overflow-y: auto;
+}
+.event-search-list li button {
+  background: none;
+  border: none;
+  color: #0070f3;
+  cursor: pointer;
+  padding: 0.25em 0.5em;
+  text-align: left;
+  width: 100%;
+}
+.event-search-list li button:hover {
+  background: #e0eaff;
+}

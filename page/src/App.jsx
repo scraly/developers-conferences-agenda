@@ -28,7 +28,9 @@ const App = () => {
           <Router>
             <div className="app-header">
               <h1 className="dcaTitle">Developer Conferences Agenda</h1>
-              <AddEventButton />
+              <div style={{ display: 'flex', gap: '0.5rem' }}>
+                <AddEventButton />
+              </div>
             </div>
             <Routes>
               <Route Component={Index} path="/" />

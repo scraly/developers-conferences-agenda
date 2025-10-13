@@ -1,132 +1,72 @@
-import React, { useState, useCallback } from 'react';
+import React, { useState } from 'react';
 import TagMultiSelect from 'components/TagMultiSelect/TagMultiSelect';
 import 'styles/AddEventForm.css';
 
-const AddEventForm = ({ isOpen, onClose }) => {
+const EditEventInlineForm = ({ event, onClose }) => {
   const [formData, setFormData] = useState({
-    name: '',
-    startDate: '',
-    endDate: '',
-    eventUrl: '',
-    city: '',
-    country: '',
-    cfpUrl: '',
-    cfpEndDate: '',
-    hasCfp: false,
-    hasSponsoring: false,
-    sponsoringUrl: '',
-    closedCaptions: false,
-    onlineEvent: false,
-    tags: []
+    name: event.name || '',
+    startDate: event.date && event.date[0] ? new Date(event.date[0]).toISOString().slice(0,10) : '',
+    endDate: event.date && event.date[1] ? new Date(event.date[1]).toISOString().slice(0,10) : (event.date && event.date[0] ? new Date(event.date[0]).toISOString().slice(0,10) : ''),
+    eventUrl: event.hyperlink || '',
+    city: event.city || '',
+    country: event.country || '',
+    hasCfp: !!(event.cfp && event.cfp.link),
+    cfpUrl: event.cfp?.link || '',
+    cfpEndDate: event.cfp?.untilDate ? new Date(event.cfp.untilDate).toISOString().slice(0,10) : '',
+    closedCaptions: !!event.closedCaptions,
+    onlineEvent: event.location && event.location.toLowerCase().includes('online'),
+    tags: event.tags ? event.tags.map(t => `${t.key}:${t.value}`) : [],
+    hasSponsoring: !!event.sponsoring,
+    sponsoringUrl: event.sponsoring || ''
   });
-
   const [errors, setErrors] = useState({});
 
   const handleInputChange = (field, value) => {
-    setFormData(prev => ({
-      ...prev,
-      [field]: value
-    }));
-    
-    // Clear error when user starts typing
-    if (errors[field]) {
-      setErrors(prev => ({
-        ...prev,
-        [field]: ''
-      }));
-    }
+    setFormData(prev => ({ ...prev, [field]: value }));
+    if (errors[field]) setErrors(prev => ({ ...prev, [field]: '' }));
   };
 
-  const handleTagsChange = useCallback((newTags) => {
-    setFormData(prev => ({
-      ...prev,
-      tags: newTags
-    }));
-  }, []);
+  const handleTagsChange = (newTags) => {
+    setFormData(prev => ({ ...prev, tags: newTags }));
+  };
 
   const validateForm = () => {
     const newErrors = {};
-
-    // Required fields
     if (!formData.name.trim()) newErrors.name = 'Event name is required';
     if (!formData.startDate) newErrors.startDate = 'Start date is required';
     if (!formData.endDate) newErrors.endDate = 'End date is required';
     if (!formData.eventUrl.trim()) newErrors.eventUrl = 'Event URL is required';
-
-    // URL validation
-    try {
-      new URL(formData.eventUrl);
-    } catch {
-      if (formData.eventUrl.trim()) {
-        newErrors.eventUrl = 'Please enter a valid URL';
-      }
-    }
-
-    // CFP validation - only if CFP checkbox is checked
+    try { new URL(formData.eventUrl); } catch { if (formData.eventUrl.trim()) newErrors.eventUrl = 'Please enter a valid URL'; }
     if (formData.hasCfp) {
-      if (!formData.cfpUrl.trim()) {
-        newErrors.cfpUrl = 'CFP URL is required when CFP is selected';
-      } else {
-        try {
-          new URL(formData.cfpUrl);
-        } catch {
-          newErrors.cfpUrl = 'Please enter a valid CFP URL';
-        }
-      }
-      if (!formData.cfpEndDate) {
-        newErrors.cfpEndDate = 'CFP End Date is required when CFP is selected';
-      }
+      if (!formData.cfpUrl.trim()) newErrors.cfpUrl = 'CFP URL is required when CFP is selected';
+      else { try { new URL(formData.cfpUrl); } catch { newErrors.cfpUrl = 'Please enter a valid CFP URL'; } }
+      if (!formData.cfpEndDate) newErrors.cfpEndDate = 'CFP End Date is required when CFP is selected';
     }
-    // Sponsoring validation (comme dans edit)
     if (formData.hasSponsoring) {
-      if (!formData.sponsoringUrl || !formData.sponsoringUrl.trim()) {
-        newErrors.sponsoringUrl = 'Sponsoring URL is required when Sponsoring is selected';
-      } else {
-        try {
-          new URL(formData.sponsoringUrl);
-        } catch {
-          newErrors.sponsoringUrl = 'Please enter a valid Sponsoring URL';
-        }
-      }
+      if (!formData.sponsoringUrl.trim()) newErrors.sponsoringUrl = 'Sponsoring URL is required when Sponsoring is selected';
+      else { try { new URL(formData.sponsoringUrl); } catch { newErrors.sponsoringUrl = 'Please enter a valid Sponsoring URL'; } }
     }
-
-    // Date validation
     if (formData.startDate && formData.endDate) {
-      if (new Date(formData.startDate) > new Date(formData.endDate)) {
-        newErrors.endDate = 'End date must be after start date';
-      }
+      if (new Date(formData.startDate) > new Date(formData.endDate)) newErrors.endDate = 'End date must be after start date';
     }
-
     if (formData.cfpEndDate && formData.startDate) {
-      if (new Date(formData.cfpEndDate) > new Date(formData.startDate)) {
-        newErrors.cfpEndDate = 'CFP end date should be before event start date';
-      }
+      if (new Date(formData.cfpEndDate) > new Date(formData.startDate)) newErrors.cfpEndDate = 'CFP end date should be before event start date';
     }
-
-    // Conditional validation for city/country
     if (!formData.onlineEvent) {
       if (!formData.city.trim()) newErrors.city = 'City is required for non-online events';
       if (!formData.country.trim()) newErrors.country = 'Country is required for non-online events';
     }
-
-    // If city is provided, country must also be provided (and vice versa)
-    if (formData.city.trim() && !formData.country.trim()) {
-      newErrors.country = 'Country is required when city is provided';
-    }
-    if (formData.country.trim() && !formData.city.trim()) {
-      newErrors.city = 'City is required when country is provided';
-    }
-
+    if (formData.city.trim() && !formData.country.trim()) newErrors.country = 'Country is required when city is provided';
+    if (formData.country.trim() && !formData.city.trim()) newErrors.city = 'City is required when country is provided';
     setErrors(newErrors);
     return Object.keys(newErrors).length === 0;
   };
 
   const formatDateForReadme = (dateString) => {
-    const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
-    ];
+    const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
     const date = new Date(dateString);
     const day = String(date.getDate()).padStart(2, '0');
-    const monthName = monthNames[date.getMonth()]
+    const monthName = monthNames[date.getMonth()];
     const year = date.getFullYear();
     return `${day}-${monthName}-${year}`;
   };
@@ -134,16 +74,29 @@ const AddEventForm = ({ isOpen, onClose }) => {
   const generateReadmeLine = () => {
     const startDate = new Date(formData.startDate);
     const endDate = new Date(formData.endDate);
-    // Generate location string
     let location;
     if (formData.onlineEvent) {
-      if (formData.city.trim() && formData.country.trim()) {
-        location = `${formData.city} (${formData.country}) & Online`;
+      // Si city/country contient déjà "Online", ne pas le dupliquer
+      const city = formData.city.trim();
+      const country = formData.country.trim();
+      const cityCountry = [city, country].filter(Boolean).join(' ');
+      if (cityCountry && !/online/i.test(cityCountry)) {
+        location = `${cityCountry} & Online`;
       } else {
         location = 'Online';
       }
     } else {
-      location = `${formData.city} (${formData.country})`;
+      const city = formData.city.trim();
+      const country = formData.country.trim();
+      if (city && country) {
+        location = `${city} (${country})`;
+      } else if (city) {
+        location = city;
+      } else if (country) {
+        location = country;
+      } else {
+        location = '';
+      }
     }
     const startDay = startDate.getDate();
     const endDay = endDate.getDate();
@@ -172,22 +125,56 @@ const AddEventForm = ({ isOpen, onClose }) => {
   };
 
   const generateTagsCsvLines = () => {
-    if (formData.tags.length === 0) return '';
-    
-    // Generate event ID in format: YYYY-MM-DD-EventName
+    if (!formData.tags.length) return '';
     const startDate = new Date(formData.startDate);
     const year = startDate.getFullYear();
     const month = String(startDate.getMonth() + 1).padStart(2, '0');
     const day = String(startDate.getDate()).padStart(2, '0');
     const eventId = `${year}-${month}-${day}-${formData.name}`;
-    
-    // Create single line with event_id followed by all tags
     const tagsString = formData.tags.join(',');
     return `${eventId},${tagsString}`;
   };
 
   const generateIssueBody = () => {
-    // Generate human-readable location
+    // Détection des champs modifiés
+    const changes = [];
+    const compare = (label, oldVal, newVal, format = v => v) => {
+      if (Array.isArray(oldVal) && Array.isArray(newVal)) {
+        if (oldVal.join(',') !== newVal.join(',')) changes.push(`* **${label}:** ${format(oldVal)} → ${format(newVal)}`);
+      } else if (typeof oldVal === 'boolean' || typeof newVal === 'boolean') {
+        if (!!oldVal !== !!newVal) changes.push(`* **${label}:** ${format(oldVal)} → ${format(newVal)}`);
+      } else if ((oldVal || '') !== (newVal || '')) {
+        changes.push(`* **${label}:** ${format(oldVal)} → ${format(newVal)}`);
+      }
+    };
+    compare('Name', event.name, formData.name);
+    compare('Start Date', event.date && event.date[0] ? new Date(event.date[0]).toISOString().slice(0,10) : '', formData.startDate);
+    compare('End Date', event.date && event.date[1] ? new Date(event.date[1]).toISOString().slice(0,10) : (event.date && event.date[0] ? new Date(event.date[0]).toISOString().slice(0,10) : ''), formData.endDate);
+    compare('Event URL', event.hyperlink, formData.eventUrl);
+    compare('City', event.city, formData.city);
+    compare('Country', event.country, formData.country);
+    const oldHasCfp = !!(event.cfp && event.cfp.link);
+    if (!oldHasCfp && formData.hasCfp) {
+      if (formData.cfpUrl) changes.push(`* **CFP URL ajouté :** ${formData.cfpUrl}`);
+      if (formData.cfpEndDate) changes.push(`* **CFP End Date ajouté :** ${formData.cfpEndDate}`);
+    } else {
+      compare('Has CFP', oldHasCfp, formData.hasCfp, v => v ? 'Yes' : 'No');
+      compare('CFP URL', event.cfp?.link, formData.cfpUrl);
+      compare('CFP End Date', event.cfp?.untilDate ? new Date(event.cfp.untilDate).toISOString().slice(0,10) : '', formData.cfpEndDate);
+    }
+
+    const oldHasSponsoring = !!event.sponsoring;
+    if (!oldHasSponsoring && formData.hasSponsoring) {
+      if (formData.sponsoringUrl) changes.push(`* **Sponsoring URL ajouté :** ${formData.sponsoringUrl}`);
+    } else {
+      compare('Sponsoring', oldHasSponsoring, formData.hasSponsoring, v => v ? 'Oui' : 'Non');
+      compare('Sponsoring URL', event.sponsoring, formData.sponsoringUrl);
+    }
+
+    compare('Closed Captions', !!event.closedCaptions, formData.closedCaptions, v => v ? 'Yes' : 'No');
+    compare('Online Event', event.location && event.location.toLowerCase().includes('online'), formData.onlineEvent, v => v ? 'Yes' : 'No');
+    compare('Tags', event.tags ? event.tags.map(t => `${t.key}:${t.value}`) : [], formData.tags, v => Array.isArray(v) ? v.join(', ') : v);
+
     let locationDisplay;
     if (formData.onlineEvent) {
       if (formData.city.trim() && formData.country.trim()) {
@@ -198,75 +185,25 @@ const AddEventForm = ({ isOpen, onClose }) => {
     } else {
       locationDisplay = `${formData.city}, ${formData.country}`;
     }
-
-    const humanReadableInfo = `
-**Event Details:**
-- **Name:** ${formData.name}
-- **Start Date:** ${formData.startDate}
-- **End Date:** ${formData.endDate}
-- **Event URL:** ${formData.eventUrl}
-- **Location:** ${locationDisplay}
-- **Has CFP:** ${formData.hasCfp ? 'Yes' : 'No'}${formData.hasCfp ? `
-- **CFP URL:** ${formData.cfpUrl || 'N/A'}
-- **CFP End Date:** ${formData.cfpEndDate || 'N/A'}` : ''}
-- **Closed Captions:** ${formData.closedCaptions ? 'Yes' : 'No'}
-- **Online Event:** ${formData.onlineEvent ? 'Yes' : 'No'}
-- **Tags:** ${formData.tags.length > 0 ? formData.tags.join(', ') : 'None'}
-
-**README.md line to add:**
-\`\`\`
-${generateReadmeLine()}
-\`\`\`
-
-**TAGS.csv lines to add:**
-${formData.tags.length > 0 ? `\`\`\`
-${generateTagsCsvLines()}
-\`\`\`` : 'No tags to add'}
-`;
-    
+    const humanReadableInfo = `\n**Event Details (EDIT):**\n- **Name:** ${formData.name}\n- **Start Date:** ${formData.startDate}\n- **End Date:** ${formData.endDate}\n- **Event URL:** ${formData.eventUrl}\n- **Location:** ${locationDisplay}\n- **Has CFP:** ${formData.hasCfp ? 'Yes' : 'No'}${formData.hasCfp ? `\n- **CFP URL:** ${formData.cfpUrl || 'N/A'}\n- **CFP End Date:** ${formData.cfpEndDate || 'N/A'}` : ''}\n- **Closed Captions:** ${formData.closedCaptions ? 'Yes' : 'No'}\n- **Online Event:** ${formData.onlineEvent ? 'Yes' : 'No'}\n- **Tags:** ${formData.tags.length > 0 ? formData.tags.join(', ') : 'None'}\n\n**Edited fields:**\n${changes.length ? changes.join('\n') : 'Aucun'}\n\n**README.md line to update:**\n\`\`\`\n${generateReadmeLine()}\n\`\`\`\n\n**TAGS.csv lines to update:**\n${formData.tags.length > 0 ? `\`\`\`\n${generateTagsCsvLines()}\n\`\`\`` : 'No tags to update'}\n`;
     return encodeURIComponent(humanReadableInfo.trim());
   };
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    
-    if (!validateForm()) {
-      return;
-    }
-
-    const title = encodeURIComponent(`[New event] ${formData.startDate}: ${formData.name}`);
+    if (!validateForm()) return;
+    const title = encodeURIComponent(`[Edit event] ${formData.startDate}: ${formData.name}`);
     const body = generateIssueBody();
-    
-    const githubUrl = `https://github.com/scraly/developers-conferences-agenda/issues/new?title=${title}&body=${body}&labels=new-event`;
-    
+    const githubUrl = `https://github.com/scraly/developers-conferences-agenda/issues/new?title=${title}&body=${body}&labels=edit-event`;
     window.open(githubUrl, '_blank');
-    
-    // Reset form and close
-    setFormData({
-      name: '',
-      startDate: '',
-      endDate: '',
-      eventUrl: '',
-      city: '',
-      country: '',
-      cfpUrl: '',
-      cfpEndDate: '',
-      hasCfp: false,
-      closedCaptions: false,
-      onlineEvent: false,
-      tags: []
-    });
-    setErrors({});
     onClose();
   };
-
-  if (!isOpen) return null;
 
   return (
     <div className="add-event-overlay">
       <div className="add-event-form">
         <div className="add-event-header">
-          <h2>Add New Event</h2>
+          <h2>Edit Event</h2>
           <button 
             aria-label="Close" 
             className="close-button"
@@ -276,8 +213,7 @@ ${generateTagsCsvLines()}
             ×
           </button>
         </div>
-
-        <form onSubmit={handleSubmit}>
+  <form onSubmit={handleSubmit}>
 
           <div className="form-group">
             <label htmlFor="name">Event Name *</label>
@@ -416,7 +352,6 @@ ${generateTagsCsvLines()}
               </div>
             </> : null}
 
-
           <div className="form-group">
             <label className="checkbox-label">
               <input
@@ -464,4 +399,4 @@ ${generateTagsCsvLines()}
   );
 };
 
-export default AddEventForm;
+export default EditEventInlineForm;
