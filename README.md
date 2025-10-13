@@ -559,7 +559,7 @@ All the data (past and coming) are available publicly in JSON:
 * 26-27: [SymfonyLive Paris 2026](https://live.symfony.com/2026-paris/) - Paris (France)
 * 27: [Frontrunners AI/Data](https://frontrunners.tech/) - Washington D.C. (USA) <a href="https://www.papercall.io/frontrunnersai2026"><img alt="CFP Frontrunners AI/Data Mar 27, 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=green"></a>
 * 27: [Frontrunners JS/Web](https://frontrunners.tech/) - Washington D.C. (USA) <a href="https://www.papercall.io/frontrunners2026"><img alt="CFP Frontrunners JS/Web Mar 27, 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=green"></a>
-* 31: [ParisTestConf](https://paristestconf.com/) - Paris (France) <a href="https://sessionize.com/paristestconf-7/"><img alt="CFP ParisTestConf Mar 31, 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=green"></a>
+* 31: [ParisTestConf](https://paristestconf.com/) - Paris (France) <a href="https://sessionize.com/paristestconf-7/"><img alt="CFP ParisTestConf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=green"></a>
 
 ### April
 
