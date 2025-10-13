@@ -13,6 +13,8 @@ const AddEventForm = ({ isOpen, onClose }) => {
     cfpUrl: '',
     cfpEndDate: '',
     hasCfp: false,
+    hasSponsoring: false,
+    sponsoringUrl: '',
     closedCaptions: false,
     onlineEvent: false,
     tags: []
@@ -71,9 +73,20 @@ const AddEventForm = ({ isOpen, onClose }) => {
           newErrors.cfpUrl = 'Please enter a valid CFP URL';
         }
       }
-      
       if (!formData.cfpEndDate) {
         newErrors.cfpEndDate = 'CFP End Date is required when CFP is selected';
+      }
+    }
+    // Sponsoring validation (comme dans edit)
+    if (formData.hasSponsoring) {
+      if (!formData.sponsoringUrl || !formData.sponsoringUrl.trim()) {
+        newErrors.sponsoringUrl = 'Sponsoring URL is required when Sponsoring is selected';
+      } else {
+        try {
+          new URL(formData.sponsoringUrl);
+        } catch {
+          newErrors.sponsoringUrl = 'Please enter a valid Sponsoring URL';
+        }
       }
     }
 
@@ -121,50 +134,41 @@ const AddEventForm = ({ isOpen, onClose }) => {
   const generateReadmeLine = () => {
     const startDate = new Date(formData.startDate);
     const endDate = new Date(formData.endDate);
-    
     // Generate location string
     let location;
     if (formData.onlineEvent) {
-      // For online events, include city/country if provided, otherwise just "Online"
       if (formData.city.trim() && formData.country.trim()) {
         location = `${formData.city} (${formData.country}) & Online`;
       } else {
         location = 'Online';
       }
     } else {
-      // For non-online events, use city/country (should be provided)
       location = `${formData.city} (${formData.country})`;
     }
-    
-    // Format the date range for README
     const startDay = startDate.getDate();
     const endDay = endDate.getDate();
     const dateRange = startDay === endDay ? `${startDay}` : `${startDay}-${endDay}`;
-    
-    // Build the CFP section if CFP checkbox is selected and URL is present
     let cfpSection = '';
     if (formData.hasCfp && formData.cfpUrl) {
       const cfpEndFormatted = formData.cfpEndDate ? formatDateForReadme(formData.cfpEndDate) : 'TBD';
-      
-      // Determine color based on CFP end date
-      let cfpColor = 'red'; // default to red
+      let cfpColor = 'red';
       if (formData.cfpEndDate) {
         const cfpEndDate = new Date(formData.cfpEndDate);
         const today = new Date();
-        today.setHours(0, 0, 0, 0); // reset time to start of day for accurate comparison
+        today.setHours(0, 0, 0, 0);
         cfpColor = cfpEndDate >= today ? 'green' : 'red';
       }
-      
       cfpSection = ` <a href="${formData.cfpUrl}"><img alt="CFP ${formData.name}" src="https://img.shields.io/static/v1?label=CFP&message=until%20${cfpEndFormatted}&color=${cfpColor}"></a>`;
     }
-    
-    // Build the closed captions section if present
+    let sponsoringSection = '';
+    if (formData.hasSponsoring && formData.sponsoringUrl) {
+      sponsoringSection = ` <a href="${formData.sponsoringUrl}"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>`;
+    }
     let closedCaptionsSection = '';
     if (formData.closedCaptions) {
       closedCaptionsSection = ` <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />`;
     }
-    
-    return `* ${dateRange}: [${formData.name}](${formData.eventUrl}) - ${location}${cfpSection}${closedCaptionsSection}`;
+    return `* ${dateRange}: [${formData.name}](${formData.eventUrl}) - ${location}${cfpSection}${sponsoringSection}${closedCaptionsSection}`;
   };
 
   const generateTagsCsvLines = () => {
@@ -274,6 +278,7 @@ ${generateTagsCsvLines()}
         </div>
 
         <form onSubmit={handleSubmit}>
+
           <div className="form-group">
             <label htmlFor="name">Event Name *</label>
             <input
@@ -410,6 +415,32 @@ ${generateTagsCsvLines()}
                 {errors.cfpEndDate ? <span className="error-message">{errors.cfpEndDate}</span> : null}
               </div>
             </> : null}
+
+
+          <div className="form-group">
+            <label className="checkbox-label">
+              <input
+                checked={formData.hasSponsoring}
+                onChange={e => handleInputChange('hasSponsoring', e.target.checked)}
+                type="checkbox"
+              />
+              Sponsoring
+            </label>
+          </div>
+          {formData.hasSponsoring ? (
+            <div className="form-group">
+              <label htmlFor="sponsoringUrl">Sponsoring URL *</label>
+              <input
+                className={errors.sponsoringUrl ? 'error' : ''}
+                id="sponsoringUrl"
+                onChange={e => handleInputChange('sponsoringUrl', e.target.value)}
+                placeholder="https://example.com/sponsoring"
+                type="url"
+                value={formData.sponsoringUrl}
+              />
+              {errors.sponsoringUrl ? <span className="error-message">{errors.sponsoringUrl}</span> : null}
+            </div>
+          ) : null}
 
           <div className="form-group">
             <label>Tags</label>
