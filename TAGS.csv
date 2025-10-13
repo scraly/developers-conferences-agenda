@@ -1351,3 +1351,8 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-05-22-AFUP Day 2026 Lyon,tech:php,language:french
 2026-06-02-Cyber Security for Critical Assets Canada,tech:cybersecurity,language:english
 2026-10-05-Devoxx Belgium,tech:java,tech:kotlin,tech:scala,language:english
+2025-11-27-SymfonyCon Amsterdam 2025,tech:symfony,topic:php,topic:web-development,language:english
+2026-01-22-SymfonyOnline January 2026,tech:symfony,topic:php,topic:web-development,language:english
+2026-03-26-SymfonyLive Paris 2026,tech:symfony,topic:php,topic:web-development,language:english
+2026-04-23-SymfonyLive Berlin 2026,tech:symfony,topic:php,topic:web-development,language:english
+2026-06-04-SymfonyDay Montreal 2026,tech:symfony,topic:php,topic:web-development,language:english
