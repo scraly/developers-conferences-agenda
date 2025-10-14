@@ -571,7 +571,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-15: [Green IO Singapore](https://greenio.tech/conference/18/singapore-2026-april-green-it) - Singapore (Singapore) <a href="https://apidays.typeform.com/to/SMHd2wFE?=green-io-conference%3Dcall-for-speakers&typeform-source=greenio.tech"><img alt="CFP Green IO Singapore 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2026&color=green"></a>
 * 17-19: [PyTexas 2026](https://www.pytexas.org/2026/) - Austin, TX (USA) <a href="https://pretalx.com/pytexas-2026/cfp"><img alt="CFP Pytexas 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2025&color=green"></a>
 * 20-23: [JCON EUROPE 2026](https://2026.europe.jcon.one/) - Cologne (Germany) <a href="https://sessionize.com/jcon-europe-2026"><img alt="CFP JCON EUROPE 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=green"></a>
-* 22-24: [Devoxx France 2026](https://www.devoxx.fr) - Paris (France)
+* 22-24: [Devoxx France 2026](https://www.devoxx.fr) - Paris (France) <a href="https://www.devoxx.fr/wp-content/uploads/2025/10/devoxxfr-avwiayshr16t.pdf"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 23-24: [SymfonyLive Berlin 2026](https://live.symfony.com/2026-berlin/) - Berlin (Germany)
 * 23-25: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece)
 * 24-26: [Great International Developer Summit 2026 (GIDS 2026)](https://developersummit.com/) - Bengaluru (India)
