@@ -23,6 +23,10 @@
     "latitude": 6.51096225,
     "longitude": 2.3303076367454025
   },
+  "Abu Dhabi (United Arab Emirates)": {
+    "latitude": 24.453884,
+    "longitude": 54.3773438
+  },
   "Abuja (Nigeria)": {
     "latitude": 9.0643305,
     "longitude": 7.4892974
@@ -1867,6 +1871,10 @@
     "latitude": 49.453872,
     "longitude": 11.077298
   },
+  "Nyeri (Kenya)": {
+    "latitude": -0.437099,
+    "longitude": 36.9580104
+  },
   "Nürburg (Germany)": {
     "latitude": 50.3413391,
     "longitude": 6.9519229
@@ -1950,6 +1958,10 @@
   "Palaiseau (France)": {
     "latitude": 48.714509,
     "longitude": 2.245748
+  },
+  "Palatine, IL (USA)": {
+    "latitude": 42.1103041,
+    "longitude": -88.03424000000001
   },
   "Palo Alto (USA)": {
     "latitude": 37.4443293,
