@@ -1358,3 +1358,53 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-04-SymfonyDay Montreal 2026,tech:symfony,topic:php,topic:web-development,language:english
 2025-11-28-Women In Tech Summit Kenya 2025,tech:tech-summit,topic:gender-diversity,topic:technology,language:english
 2026-03-31-ParisTestConf,tech:testing,topic:software-quality,topic:automation,language:french
+2025-11-08-DevFest Mt. Kenya 2025,tech:google,topic:web-development,language:english
+2025-11-14-NetCoreConf Madrid 2025,tech:dotnet,language:spanish
+2025-11-15-AWS Community Day Spain 2025,tech:aws,topic:cloud,language:spanish
+2025-11-22-Michigan DevFest 2025,tech:google,topic:web-development,language:english
+2025-12-04-SREday Campinas 2025 Q4,topic:devops,language:portuguese
+2025-12-06-DevFest Kathmandu 2025,tech:google,topic:web-development,language:english
+2025-12-13-DevFest Calabar 2025,tech:google,topic:web-development,language:english
+2025-12-13-Mobile Developers Week Abu Dhabi 2025,topic:mobile,language:english
+2025-12-17-Perl Community Conference, Winter 2025,tech:perl,language:english
+2025-12-21-DevFest Kolkata 2025,tech:google,topic:web-development,language:english
+2026-01-10-wwktm: AI Conf 2026,topic:ai,language:english
+2026-02-03-Swetugg Stockholm 2026,tech:dotnet,language:swedish
+2026-02-06-IntelliC0N Austin 2026,topic:security,language:english
+2026-02-11-Container Days London,tech:docker,tech:kubernetes,topic:devops,language:english
+2026-02-12-CyberConVA 2026,topic:security,language:english
+2026-02-18-DeveloperWeek 2026,topic:web-development,language:english
+2026-02-25-Norfolk Developers Conference 2026,topic:web-development,language:english
+2026-03-10-ADC, WDC, DPC 2026,topic:web-development,language:dutch
+2026-03-11-Future Tech 2026,topic:web-development,language:dutch
+2026-03-12-AzureDay Poland 2026,tech:azure,topic:cloud,language:polish
+2026-03-12-SREday London 2026 Q1,topic:devops,language:english
+2026-03-14-Data Saturday Chicago 2026,topic:data,language:english
+2026-03-16-Microsoft Fabric Community Conference - FABCON 2026 - SESSIONS,tech:microsoft,topic:data,language:english
+2026-03-17-Programmable 2026 - Melbourne,topic:web-development,language:english
+2026-03-17-NAVIGATE 2026,topic:web-development,language:german
+2026-03-19-Programmable 2026 - Sydney,topic:web-development,language:english
+2026-03-19-Monkigras 2026,topic:web-development,language:english
+2026-03-23-DrupalCon Chicago 2026,tech:php,topic:web-development,language:english
+2026-03-26-Swiss Testing Day 2026,topic:testing,language:german
+2026-03-27-HackConRD 2026,topic:security,language:spanish
+2026-04-15-ColorCloud Hamburg 2026,topic:design,topic:cloud,language:english,language:german
+2026-04-17-wroclove.rb 2026,tech:ruby,language:english,language:polish
+2026-04-20-NDC Sydney 2026,tech:dotnet,topic:software-development,language:english
+2026-04-20-DevOpsCon & MLCon 2026,topic:devops,topic:ai,topic:machine-learning,language:english
+2026-04-23-Security BSides Prague 2026, CZ,topic:security,language:english,language:czech
+2026-04-25-Securing AI in the Real World: Call for Practitioner Stories – AI Security Conference,topic:security,topic:ai,language:english
+2026-04-29-DevopsDay Prague 2026,topic:devops,language:english,language:czech
+2026-05-04-Linux Storage, Filesystem, MM & BPF Summit,tech:linux,topic:open-source,language:english
+2026-05-05-Data Makers Fest 2026,topic:data,language:english,language:portuguese
+2026-05-06-DevOpsDays Zurich 2026,topic:devops,language:english,language:german
+2026-05-06-SeleniumConf & AppiumConf Valencia 2026,topic:testing,tech:selenium,language:english,language:spanish
+2026-05-08-Weblica 2026,topic:web-development,language:english,language:croatian
+2026-05-11-SQLDay 2026,tech:sql,topic:data,language:english,language:polish
+2026-05-11-Code Remix Summit 2026,topic:software-development,topic:ai,language:english
+2026-05-19-PHP Tek 2026,tech:php,language:english
+2026-05-20-KotlinConf 2026,tech:kotlin,language:english,language:german
+2026-06-02-Craft Conference 2026,topic:software-development,language:english,language:hungarian
+2026-06-18-CFCamp 2026,tech:coldfusion,language:english,language:german
+2026-07-02-Agile On The Beach 2026,topic:agile,language:english
+2026-07-27-Visual Studio Live! @ Microsoft HQ 2026,tech:dotnet,tech:microsoft,language:english
