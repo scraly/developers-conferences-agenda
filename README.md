@@ -445,6 +445,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29: [DevFest'25: Build a New Era of Innovation](https://gdg.community.dev/events/details/google-gdg-arapiraca-presents-devfest25-build-a-new-era-of-innovation/) -  Arapiraca (Brazil) <a href="https://app.advocu.com/events/68b30f1975318f7a82a136a4"><img alt="DevFest 25: Build a New Era of Innovation" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-September-2025&color=red"></a>
 * 29: [DevFest Brasília 2025](https://gdg.community.dev/events/details/google-gdg-brasilia-presents-devfest-brasilia-1/) -  Brasília (Brazil) <a href="https://app.advocu.com/events/68d58a0160beacd45e782d87"><img alt="DevFest Brasilia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2025&color=green"></a>
 * 29: [DevFest Santiago de Chile 2025](https://gdg.community.dev/events/details/google-gdg-santiago-de-chile-presents-devfest-santiago-2025/) -  Providencia (Chile) <a href="https://app.advocu.com/events/68d350b9be9820a862b5fd60"><img alt="DevFest Santiago de Chile 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-October-2025&color=red"></a>
+* 29: [DevFest Scotland 2025](https://gdg.community.dev/events/details/google-gdg-edinburgh-presents-devfest-scotland-2025/) - Edinburgh (Scotland) <a href="https://sessionize.com/devfest-scotland-2025"><img alt="DevFest Scotland 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2025&color=green"></a>
 
 ### December
 
