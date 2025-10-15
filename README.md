@@ -669,6 +669,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### September
 
+* 2-4: [Container Days Hamburg 2026](https://www.containerdays.io/containerdays-hamburg-2026/) - Hamburg (Germany) <a href="https://sessionize.com/containerdays-hamburg-2026"><img alt="CFP Container Days Hamburg" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=green"></a>
 * 4: [JUG Summer Camp 2026](https://www.jugsummercamp.org/) - La Rochelle (France)
 * 8-11: [RustConf 2026](https://rustconf.com/) - Montreal (Canada)
 * 17-18: [API Platform Conference 2026](https://api-platform.com/fr/con/) - Lille (France)
