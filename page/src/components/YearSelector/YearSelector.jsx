@@ -4,16 +4,12 @@ import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
 
 
 import 'styles/YearSelector.css';
-import {useYearEvents} from 'app.hooks';
+import { useYearEvents, useCfpEvents } from 'app.hooks';
 import EventCount from 'components/EventCount/EventCount';
 import ViewSelector from 'components/ViewSelector/ViewSelector';
 
 const YearSelector = ({ isMap, year, onChange, view }) => {
-  let yearEvents = useYearEvents()
-  if (view == "cfp") {
-     // Display only opened callForPapers
-     yearEvents = yearEvents.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date());
-  }
+  const yearEvents = view === "cfp" ? useCfpEvents() : useYearEvents();
   return (
     <div>
       <div className="yearNavigatorWrapper">

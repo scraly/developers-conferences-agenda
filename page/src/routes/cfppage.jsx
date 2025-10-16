@@ -23,7 +23,7 @@ export const CfpPage = () => {
               year={parseInt(year, 10)}
             />
 
-            <CfpView year={year} />
+            <CfpView />
         </div>
       </div>
     );
