@@ -2,26 +2,22 @@ import React from 'react';
 import 'styles/CfpView.css';
 import { Clock, CalendarClock } from 'lucide-react';
 
-import { useYearEvents } from 'app.hooks';
+import { useCfpEvents, useFilters } from 'app.hooks';
 import { getMonthName, getMonthNames } from 'utils';
 import { flag } from 'country-emoji';
 import FavoriteButton from '../FavoriteButton/FavoriteButton';
 import TagBadges from 'components/TagBadges/TagBadges';
 import { useFavoritesContext } from '../../contexts/FavoritesContext';
-import { useFilters } from 'app.hooks';
 import ShortDate from 'components/ShortDate/ShortDate';
 
 const CfpView = () => {
-  let events = useYearEvents();
+  let events = useCfpEvents();
   const { isFavorite } = useFavoritesContext();
   const { toggleTag } = useFilters();
 
   const handleTagClick = (key, value) => {
     toggleTag(key, value);
   };
-
-  // Display only opened callForPapers
-  events = events.filter(e => e.cfp && new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000) > new Date());
 
   // Sort CFPs based on the closing date
   events = events.sort((a, b) => {

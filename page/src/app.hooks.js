@@ -175,6 +175,106 @@ export const useYearEvents = () => {
   return filteredEvents
 }
 
+export const useCfpEvents = () => {
+  const { year } = useParams()
+  const [searchParams] = useSearchParams()
+  const search = Object.fromEntries(searchParams)
+  const regionsMap = useCountryToRegionMap()
+
+  const filteredEvents = useMemo(() => {
+    let result = allEvents
+    const currentYear = parseInt(year, 10)
+
+    // Filter for events with open CFPs (CFP deadline in the future) AND closing in the current year
+    result = result.filter(e => {
+      if (!e.cfp || !e.cfp.untilDate) return false
+      const cfpDeadlineOriginal = new Date(e.cfp.untilDate)
+      const cfpDeadlineWithBuffer = new Date(e.cfp.untilDate + 24 * 60 * 60 * 1000)
+      const cfpYear = cfpDeadlineOriginal.getFullYear()
+      return cfpDeadlineWithBuffer > new Date() && cfpYear === currentYear
+    })
+
+    // Apply other filters from search params
+    if (search.closedCaptions === 'true') {
+      result = result.filter((e) => e.closedCaptions)
+    }
+
+    if (search.scholarship === 'true') {
+      result = result.filter((e) => e.scholarship)
+    }
+
+    if (search.online === 'true') {
+      result = result.filter((e) => e.location.indexOf('Online') !== -1)
+    }
+
+    if (search.country) {
+      result = result.filter((e) => e.country === search.country)
+    }
+
+    if (search.region) {
+      result = result.filter((e) => regionsMap[e.country] === search.region)
+    }
+
+    if (search.untilDate) {
+      // Display only opened callForPapers <= untilDate
+      result = result.filter((e) => e.cfp && new Date(e.cfp.untilDate) <= new Date(search.untilDate))
+    }
+
+    if (search.query) {
+      result = result.filter(
+        (e) =>
+          e.name.toLowerCase().includes(search.query.toLowerCase()) ||
+          e.hyperlink.toLowerCase().includes(search.query.toLowerCase()) ||
+          e.location.toLowerCase().includes(search.query.toLowerCase())
+      )
+    }
+
+    if (search.favorites === 'true') {
+      result = result.filter((e) => {
+        const eventId = `${e.name}-${e.date[0]}`
+        return isFavorite(eventId)
+      })
+    }
+
+    if (search.sponsoring === 'true') {
+      result = result.filter((e) => e.sponsoring)
+    }
+
+    // Handle multiselect tags filter (AND logic - all selected tags must match)
+    if (search.tags) {
+      const selectedTags = Array.isArray(search.tags) ? search.tags : search.tags.split(',')
+      if (selectedTags.length > 0 && selectedTags[0] !== '') {
+        result = result.filter((e) => {
+          if (!e.tags || !Array.isArray(e.tags)) return false
+          return selectedTags.every(selectedTag => {
+            const [key, value] = selectedTag.split(':')
+            return e.tags.some((tag) => {
+              return typeof tag === 'object' && tag.key === key && tag.value === value
+            })
+          })
+        })
+      }
+    }
+
+    // Handle individual tag filters by key (legacy support)
+    const tagKeys = ['tech', 'topic', 'type', 'language']
+    tagKeys.forEach(key => {
+      if (search[key]) {
+        result = result.filter((e) => {
+          if (!e.tags || !Array.isArray(e.tags)) return false
+          return e.tags.some((tag) => {
+            return typeof tag === 'object' && tag.key === key && tag.value === search[key]
+          })
+        })
+      }
+    })
+
+    return result
+  }, [year, searchParams, regionsMap])
+
+  return filteredEvents
+}
+
 export const useMonthEvents = (yearEvents, month = null) => {
   const filterMonth = month
   return useMemo(() => {
