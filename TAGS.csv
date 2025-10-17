@@ -1420,13 +1420,5 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-02-Container Days Hamburg 2026,tech:container-days,topic:containers,topic:open-source,language:english
 2026-10-07-Open Source Summit Europe,tech:open-source-summit,topic:open-source,topic:technology,language:english
 2026-10-07-Embedded Linux Conference Europe,tech:embedded-linux,topic:conference,topic:open-source,language:english
-2025-12-17-Perl Community Conference, Winter 2025,tech:perl,topic:open-source,language:english
-2026-03-10-ADC, WDC, DPC 2026,tech:php,topic:web-development,language:dutch,language:english
-2026-04-23-Security BSides Prague 2026, CZ,topic:security,topic:open-source,language:english,language:czech
-2026-05-04-Linux Storage, Filesystem, MM & BPF Summit,tech:linux,topic:open-source,topic:devops,language:english
-2025-12-17-Perl Community Conference, Winter 2025,tech:perl,topic:open-source,language:english
-2026-03-10-ADC, WDC, DPC 2026,tech:php,topic:web-development,topic:devops,language:dutch,language:english
 2026-03-12-T3chfest,tech:javascript,tech:python,topic:web-development,language:spanish,language:english
-2026-04-23-Security BSides Prague 2026, CZ,topic:security,language:english,language:czech
-2026-05-04-Linux Storage, Filesystem, MM & BPF Summit,tech:linux,topic:open-source,topic:devops,language:english
 2026-05-20-Codemotion Madrid,tech:javascript,tech:python,topic:web-development,topic:devops,language:spanish,language:english
