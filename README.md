@@ -275,6 +275,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4-5: [devopsdays Warsaw](https://devopsdays.org/events/2025-warsaw/welcome/) - Warsaw (Poland)
 * 4-5: [JupyterCon](https://events.linuxfoundation.org/jupytercon/) - San Diego, CA (USA) <a href="https://events.linuxfoundation.org/jupytercon/program/cfp/"><img alt="CFP JupyterCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-July-2025&color=red"></a>
 * 4-5: [🛰️ NASA Space Apps Challenge Ahlen 2025 | 🌟 DevFest 2025](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-nasa-space-apps-challenge-ahlen-2025-devfest-2025/) - Ahlen (Germany)
+* 4-5: [Open Source Analytics Conference (OSA CON)](https://osacon.io/) - Online
 * 4-7: [NewCrafts 2025](https://ncrafts.io/) - Paris (France) <a href="https://sessionize.com/ncrafts/"><img alt="CFP NewCrafts 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2025&color=red"></a>
 * 4-7: [TechBash 2025](https://techbash.com/) - Pocono Manor, PA (USA) <a href="https://sessionize.com/techbash2025/"><img alt="CFP TechBash 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=red"></a>
 * 4-7: [JCUN 2025](https://jcunal.com) - Bogotá (Colombia) <a href="https://www.papercall.io/jcun2025"><img alt="CFP JCUN 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2025&color=red"></a>

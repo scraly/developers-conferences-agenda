@@ -1426,3 +1426,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-03-10-ADC, WDC, DPC 2026,tech:adc,tech:wdc,tech:dpc,topic:technology,language:dutch
 2026-04-23-Security BSides Prague 2026, CZ,tech:security,topic:bsides,language:czech
 2026-05-04-Linux Storage, Filesystem, MM & BPF Summit,tech:linux,topic:storage,topic:filesystem,topic:mm,topic:bpf,language:croatian
+2025-11-04-Open Source Analytics Conference (OSA CON),topic:open-source,topic:data-management,topic:data-analysis,topic:ai,topic:cloud-native,topic:data-visualization,topic:database,topic:developer-tools,topic:machine-learning,topic:observability,tech:artificial-intelligence,tech:developer-summit,tech:platform-engineering,tech:cloud,language:english
