@@ -1375,7 +1375,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-02-12-CyberConVA 2026,topic:security,language:english
 2026-02-18-DeveloperWeek 2026,topic:web-development,language:english
 2026-02-25-Norfolk Developers Conference 2026,topic:web-development,language:english
-2026-03-10-ADC, WDC, DPC 2026,topic:web-development,language:dutch
+"2026-03-10-ADC, WDC, DPC 2026",topic:web-development,language:dutch
 2026-03-11-Future Tech 2026,topic:web-development,language:dutch
 2026-03-12-AzureDay Poland 2026,tech:azure,topic:cloud,language:polish
 2026-03-12-SREday London 2026 Q1,topic:devops,language:english
@@ -1392,10 +1392,9 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-04-17-wroclove.rb 2026,tech:ruby,language:english,language:polish
 2026-04-20-NDC Sydney 2026,tech:dotnet,topic:software-development,language:english
 2026-04-20-DevOpsCon & MLCon 2026,topic:devops,topic:ai,topic:machine-learning,language:english
-2026-04-23-Security BSides Prague 2026, CZ,topic:security,language:english,language:czech
+2026-04-23-Security BSides Prague 2026,topic:security,language:english,language:czech
 2026-04-25-Securing AI in the Real World: Call for Practitioner Stories – AI Security Conference,topic:security,topic:ai,language:english
 2026-04-29-DevopsDay Prague 2026,topic:devops,language:english,language:czech
-2026-05-04-Linux Storage, Filesystem, MM & BPF Summit,tech:linux,topic:open-source,language:english
 2026-05-05-Data Makers Fest 2026,topic:data,language:english,language:portuguese
 2026-05-06-DevOpsDays Zurich 2026,topic:devops,language:english,language:german
 2026-05-06-SeleniumConf & AppiumConf Valencia 2026,topic:testing,tech:selenium,language:english,language:spanish
@@ -1412,8 +1411,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-12-02-Yocto Project Virtual Summit 2025.12,tech:yocto-project,topic:embedded-systems,topic:open-source,language:english
 2025-12-17-Perl Community Conference, Winter 2025,tech:perl,topic:programming,topic:open-source,language:english
 2026-03-16-HPSF Conference,tech:hpsf,topic:hardware,topic:open-source,language:english
-2026-04-23-Security BSides Prague 2026, CZ,tech:security-bsides,topic:cybersecurity,topic:open-source,language:english
-2026-05-04-Linux Storage, Filesystem, MM & BPF Summit,tech:linux-storage,topic:filesystem,topic:open-source,language:english
+"2026-05-04-Linux Storage, Filesystem, MM & BPF Summit",tech:linux-storage,topic:filesystem,topic:open-source,language:english
 2026-05-13-AGL All Member Meeting Japan,tech:agl,topic:automotive,topic:open-source,language:english
 2026-05-18-Embedded Linux Conference North America,tech:embedded-linux,topic:conference,topic:open-source,language:english
 2026-09-02-Container Days Hamburg 2026,tech:container-days,topic:containers,topic:open-source,language:english
@@ -1422,6 +1420,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-03-12-T3chfest,tech:javascript,tech:python,topic:web-development,language:spanish,language:english
 2026-05-20-Codemotion Madrid,tech:javascript,tech:python,topic:web-development,topic:devops,language:spanish,language:english
 2025-12-17-Perl Community Conference, Winter 2025,tech:perl,topic:community,language:english
-2026-04-23-Security BSides Prague 2026, CZ,tech:security,topic:bsides,language:czech
-2026-05-04-Linux Storage, Filesystem, MM & BPF Summit,tech:linux,topic:storage,topic:filesystem,topic:mm,topic:bpf,language:croatian
 2025-11-04-Open Source Analytics Conference (OSA CON),topic:open-source,topic:data-management,topic:data-analysis,topic:ai,topic:cloud-native,topic:data-visualization,topic:database,topic:developer-tools,topic:machine-learning,topic:observability,tech:artificial-intelligence,tech:developer-summit,tech:platform-engineering,tech:cloud,language:english
