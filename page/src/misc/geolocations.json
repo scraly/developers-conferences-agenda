@@ -1751,6 +1751,10 @@
     "latitude": 55.7505412,
     "longitude": 37.6174782
   },
+  "Moulins (France)": {
+    "latitude": 46.5660526,
+    "longitude": 3.3331703
+  },
   "Mount Pocono, PA (USA)": {
     "latitude": 41.1220337,
     "longitude": -75.3646282
@@ -2266,6 +2270,10 @@
   "Saint Petersburg (Russia)": {
     "latitude": 59.9606739,
     "longitude": 30.1586551
+  },
+  "Saint-André (La Réunion)": {
+    "latitude": -20.9606333,
+    "longitude": 55.6492731
   },
   "Salt Lake City, UT (USA)": {
     "latitude": 40.7596198,
