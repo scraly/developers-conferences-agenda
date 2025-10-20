@@ -1419,3 +1419,10 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-03-12-T3chfest,tech:javascript,tech:python,topic:web-development,language:spanish,language:english
 2026-05-20-Codemotion Madrid,tech:javascript,tech:python,topic:web-development,topic:devops,language:spanish,language:english
 2025-11-04-Open Source Analytics Conference (OSA CON),topic:open-source,topic:data-management,topic:data-analysis,topic:ai,topic:cloud-native,topic:data-visualization,topic:database,topic:developer-tools,topic:machine-learning,topic:observability,tech:artificial-intelligence,tech:developer-summit,tech:platform-engineering,tech:cloud,language:english
+2025-10-28-Techorama 2025,tech:software,topic:technology,topic:innovation,language:english
+2025-12-17-Perl Community Conference, Winter 2025,tech:perl,topic:programming,topic:community,language:english
+2026-03-10-Dutch PHP Conference 2026,tech:php,topic:web-development,topic:programming,language:english
+2026-03-10-Appdevcon Conference 2026,tech:app-development,topic:software-engineering,topic:technology,language:english
+2026-03-10-Webdevcon Conference 2026,tech:web-development,topic:frontend,topic:backend,language:english
+2026-05-04-Linux Storage, Filesystem, MM & BPF Summit,tech:linux,topic:storage,topic:filesystems,language:english
+2026-05-21-DevOpsDays Geneva 2026,tech:devops,topic:automation,topic:infrastructure,language:english
