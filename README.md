@@ -439,7 +439,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29: [DevFest Belgium 2025](https://gdg-mons.com/) - Mons (Belgium) <a href="https://conference-hall.io/devfest-belgium-2025"><img alt="DevFest Belgium 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2025&color=red"></a>
 * 29: [DevFest Bari 2025](https://bari.devfest.it/) - Bari (Italy) <a href="https://sessionize.com/devfest-bari-2025/"><img alt="CFP DevFest Bari 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-August-2025&color=red"></a>
 * 29: [JSDC 2025](https://2025.jsdc.tw/) - Taipei (Taiwan)
-* 29: [DevFest Ica 2025](https://gdg.community.dev/events/details/google-gdg-ica-presents-devfest-ica-2025/) - Ica (Peru) 
+* 29: [DevFest Ica 2025](https://gdg.community.dev/events/details/google-gdg-ica-presents-devfest-ica-2025/) - Ica (Peru)
 * 29: [devopsdays Porto Alegre](https://devopsdays.org/events/2025-porto-alegre/welcome/) - Porto Alegre (Brazil) <a href="https://www.papercall.io/devopsdayspoa2025"><img alt="CFP devopsdays Porto Alegre 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-October-2025&color=green"></a>
 * 29: [DevFest Ecuador](https://gdg.community.dev/events/details/google-gdg-quito-presents-devfest-ecuador-2025/) - Quito (Ecuador) <a href="https://app.advocu.com/events/68a812d0a8a700bbffec5b05"><img alt="CFP DevFest Ecuador 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2025&color=green"></a>
 * 29: [DevFest Pwani 2025](https://gdg.community.dev/events/details/google-gdg-pwani-presents-devfest-pwani-2025/) - Mombasa (Kenya) <a href="https://app.advocu.com/events/68a57aa2e693a82e4dc3f9f1"><img alt="CFP DevFest Mombasa 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2025&color=red"></a>
@@ -500,7 +500,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11-12: [YOW! Sydney](https://yowcon.com/sydney-2025) - Sydney (Australia)
 * 11-13: [Linux Plumbers Conference](https://lpc.events/event/19/) - Tokyo (Japan) & Online
 * 12: [XmasDev 2025](https://xmasdev.net/) - Rome (Italy) <a href="https://sessionize.com/xmasdev-2025/"><img alt="CFP XmasDev 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-November-2025&color=green"></a>
-* 13: [DevFest Cairo 2025](https://gdg.community.dev/events/details/google-gdg-cairo-presents-devfest-cairo-2025/) - Cairo (Egypt) 
+* 13: [DevFest Cairo 2025](https://gdg.community.dev/events/details/google-gdg-cairo-presents-devfest-cairo-2025/) - Cairo (Egypt)
 * 13: [DevOpsDays Recife 2025](https://devopsdays.org/recife) - Recife (Brazil) <a href="https://www.papercall.io/dodrec25"><img alt="CFP DevOpsDays Recife 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2025&color=red"></a>
 * 13: [DevFest Piura 2025](https://gdg.community.dev/events/details/google-gdg-piura-presents-devfest-piura-2025/) - Piura (Peru) <a href="https://app.advocu.com/events/68d799f6d5b7f52455fc90c3"><img alt="CFP DevFest Piura 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2025&color=green"></a>
 * 13: [DevFest George Town 2025](https://gdg.community.dev/events/details/google-gdg-george-town-presents-devfest-george-town-2025-1/) - George Town (Malaysia)
@@ -624,6 +624,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-17: [PyCon DE & PyData 2026](https://2026.pycon.de/) - Darmstadt (Germany)
 * 14-15: [Green IO Singapore](https://greenio.tech/conference/18/singapore-2026-april-green-it) - Singapore (Singapore) <a href="https://apidays.typeform.com/to/SMHd2wFE?=green-io-conference%3Dcall-for-speakers&typeform-source=greenio.tech"><img alt="CFP Green IO Singapore 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2026&color=green"></a>
 * 15-17: [ColorCloud Hamburg 2026](https://color.cloud) - Hamburg (Germany) <a href="https://sessionize.com/colorcloud-hamburg-2026"><img alt="CFP ColorCloud Hamburg 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-October-2025&color=red"></a>
+* 16-17: [MiXiT 2026](https://mixitconf.org) - Lyon (France)
 * 17-19: [PyTexas 2026](https://www.pytexas.org/2026/) - Austin, TX (USA) <a href="https://pretalx.com/pytexas-2026/cfp"><img alt="CFP Pytexas 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2025&color=green"></a>
 * 17-19: [wroclove.rb 2026](https://wrocloverb.com) - Wroclaw (Poland) <a href="https://www.papercall.io/wrocloverb2026"><img alt="CFP wroclove.rb 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-January-2026&color=green"></a>
 * 20-21: [Codemotion Madrid](https://conferences.codemotion.com/madrid/) - Madrid (Spain) <a href="https://sessionize.com/codemotion-madrid-2026/"><img alt="CFP Codemotion Madrid" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=green"></a>
