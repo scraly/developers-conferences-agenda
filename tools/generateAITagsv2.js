@@ -32,8 +32,12 @@ function readExistingEvents(tagsFile) {
     for (let i = 1; i < lines.length; i++) {
       const line = lines[i].trim();
       if (!line) continue;
-      const [eventId] = line.split(',');
-      existing.add(eventId.replace(/^"|"$/g, ''));
+      // Extract event_id by finding the first occurrence of ',tech:' or ',topic:' or ',language:'
+      const tagStart = line.match(/,(tech:|topic:|language:)/);
+      if (tagStart) {
+        const eventId = line.substring(0, tagStart.index);
+        existing.add(eventId);
+      }
     }
   } catch {}
   return existing;
