@@ -1,6 +1,6 @@
 import React from 'react';
 import 'styles/CfpView.css';
-import { Clock, CalendarClock } from 'lucide-react';
+import { CalendarClock } from 'lucide-react';
 
 import { useCfpEvents, useFilters } from 'app.hooks';
 import { getMonthName, getMonthNames } from 'utils';
@@ -9,6 +9,7 @@ import FavoriteButton from '../FavoriteButton/FavoriteButton';
 import TagBadges from 'components/TagBadges/TagBadges';
 import { useFavoritesContext } from '../../contexts/FavoritesContext';
 import ShortDate from 'components/ShortDate/ShortDate';
+import CfpDeadline from 'components/CfpDeadline/CfpDeadline';
 
 const CfpView = () => {
   let events = useCfpEvents();
@@ -64,7 +65,7 @@ const CfpView = () => {
                         <FavoriteButton event={e} />
                       </div>
 
-                      <span className="until"><Clock color="green" />Until {e.cfp.until} </span>
+                      <CfpDeadline until={e.cfp.until} untilDate={e.cfp.untilDate} />
 
                       <div className="country">
                         <span className="countryFlag">{e.country != "Online" ? flag(e.country) : '🌎'}</span>
