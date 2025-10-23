@@ -35,6 +35,10 @@
     "latitude": 5.5571096,
     "longitude": -0.2012376
   },
+  "Addis Ababa (Ethiopia)": {
+    "latitude": 9.0358287,
+    "longitude": 38.7524127
+  },
   "Adelaide (Australia)": {
     "latitude": -34.9284989,
     "longitude": 138.6007456
@@ -1055,6 +1059,10 @@
     "latitude": 22.3850051,
     "longitude": 71.745261
   },
+  "Gwalior (India)": {
+    "latitude": 26.2037247,
+    "longitude": 78.1573628
+  },
   "Half Moon Bay, CA (USA)": {
     "latitude": 37.4635519,
     "longitude": -122.428586
@@ -1574,6 +1582,10 @@
   "Mainz (Germany)": {
     "latitude": 50.0012314,
     "longitude": 8.2762513
+  },
+  "Makassar (Indonesia)": {
+    "latitude": -5.1342962,
+    "longitude": 119.4124282
   },
   "Malaga (Spain)": {
     "latitude": 36.7213028,
@@ -2366,6 +2378,10 @@
   "Santiago de Compostela (Spain)": {
     "latitude": 42.8768606,
     "longitude": -8.5441729
+  },
+  "Santiago de Querétaro (Mexico)": {
+    "latitude": 20.6121194,
+    "longitude": -100.3850891
   },
   "Santiago de los Caballeros (Dominican Republic)": {
     "latitude": 19.4503932,
