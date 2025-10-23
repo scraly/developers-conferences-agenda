@@ -1,12 +1,19 @@
 import React from 'react';
 import { Clock, AlertCircle } from 'lucide-react';
-import { isToday, isTomorrow } from 'date-fns';
+import { isToday, isTomorrow, addDays } from 'date-fns';
 import 'styles/CfpDeadline.css';
+
+const isInTwoDays = (date) => {
+  const twoDaysFromNow = addDays(new Date(), 2);
+  return date.getDate() === twoDaysFromNow.getDate() &&
+         date.getMonth() === twoDaysFromNow.getMonth() &&
+         date.getFullYear() === twoDaysFromNow.getFullYear();
+};
 
 const CfpDeadline = ({ until, untilDate }) => {
   const date = new Date(untilDate);
   const isUrgent = isToday(date);
-  const isClosingSoon = isTomorrow(date);
+  const isClosingSoon = isTomorrow(date) || isInTwoDays(date);
 
   return (
     <div className={`cfp-deadline ${isUrgent ? 'cfp-urgent' : ''} ${isClosingSoon ? 'cfp-closing-soon' : ''}`}>
