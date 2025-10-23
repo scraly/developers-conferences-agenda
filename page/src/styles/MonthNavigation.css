@@ -1,38 +1,52 @@
 .month-navigation {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-  padding: 1rem;
-  background: transparent;
-  position: fixed;
-  right: 1rem;
-  top: 50%;
-  transform: translateY(-50%);
-  z-index: 10;
+  display: none; /* Caché par défaut sur mobile */
 }
 
-.month-button {
-  padding: 0.25rem 0;
-  border: none;
-  background: transparent;
-  cursor: pointer;
-  font-size: 0.875rem;
-  color: #6b7280;
-  transition: all 0.2s;
-  text-align: right;
-  position: relative;
+/* Afficher la navigation uniquement sur les écrans larges (> 768px) */
+@media (min-width: 768px) {
+  .month-navigation {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 1rem;
+    background: transparent;
+    position: fixed;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+  }
+
+  .month-button {
+    padding: 0.25rem 0;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-size: 0.875rem;
+    color: #6b7280;
+    transition: all 0.2s;
+    text-align: right;
+    position: relative;
+  }
+
+  .month-button:hover {
+    color: #111827;
+  }
+
+  .month-button.active {
+    color: #3b82f6;
+    font-weight: 500;
+  }
+
+  /* Ajuster la largeur du contenu principal pour laisser de la place pour la navigation */
+  .listView {
+    padding-right: 8rem;
+  }
 }
 
-.month-button:hover {
-  color: #111827;
-}
-
-.month-button.active {
-  color: #3b82f6;
-  font-weight: 500;
-}
-
-/* Ajuster la largeur du contenu principal pour laisser de la place pour la navigation */
-.listView {
-  padding-right: 8rem;
+/* Réinitialiser le padding sur mobile */
+@media (max-width: 767px) {
+  .listView {
+    padding-right: 1rem;
+  }
 }
