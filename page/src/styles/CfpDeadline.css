@@ -1,0 +1,38 @@
+.cfp-deadline {
+  display: flex;
+  align-items: center;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.cfp-deadline span {
+    margin-left: 0.5rem !important;
+}
+
+.cfp-deadline.cfp-urgent {
+  color: #dc2626;
+  font-weight: 600;
+}
+
+.cfp-deadline.cfp-closing-soon {
+  color: #f59e0b;
+  font-weight: 600;
+}
+
+.cfp-deadline.cfp-urgent span,
+.cfp-deadline.cfp-closing-soon span {
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.6;
+  }
+  100% {
+    opacity: 1;
+  }
+}
