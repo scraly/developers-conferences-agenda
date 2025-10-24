@@ -1444,3 +1444,15 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-04-16-MiXiT 2026,tech:devops,topic:agile,language:french
 2026-04-20-Codemotion Madrid,tech:software-development,topic:agile,language:spanish
 2026-05-04-Linux Storage, Filesystem, MM & BPF Summit,tech:linux,topic:storage,language:croatian
+2025-11-21-DevFest Budapest 2025,tech:devops,topic:ai,topic:cloud,language:hungarian
+2025-11-22-DevFest Querétaro 2025,tech:devops,topic:ai,topic:cloud,language:spanish
+2025-12-06-CLOUD DEVFEST BANDUNG 2025,tech:devops,topic:cloud,topic:open-source,language:indonesian
+2025-12-13-DevFest Sri Lanka 2025,tech:devops,topic:ai,topic:cloud,language:sinhala
+2025-12-13-DevFest Addis 2025,tech:devops,topic:ai,topic:cloud,language:amharic
+2025-12-20-DevFest Gwalior 2025,tech:devops,topic:ai,topic:cloud,language:hindi
+2025-12-20-DevFest Makassar 2025,tech:devops,topic:cloud,topic:open-source,language:indonesian
+2025-12-20-DevFest Armenia 2025,tech:devops,topic:ai,topic:cloud,language:armenian
+2026-03-10-RISC-V at embedded world,tech:risc-v,topic:embedded-systems,topic:hardware,language:german
+2026-03-17-OpenSearchCon China,tech:opensearch,topic:search-engine,topic:open-source,language:chinese
+2026-04-16-OpenSearchCon Europe,tech:opensearch,topic:search-engine,topic:open-source,language:czech
+2026-04-22-Google Cloud Next,tech:google-cloud,topic:cloud,topic:developer-tools,language:english
