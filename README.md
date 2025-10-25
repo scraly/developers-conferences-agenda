@@ -528,6 +528,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10-11: [wwktm: AI Conf 2026](https://ai.wwktm.com/2026/) - Kathmandu (Nepal) <a href="https://www.papercall.io/ai-conf-2025"><img alt="CFP wwktm: AI Conf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2025&color=green"></a>
 * 14-17: [SnowCamp 2026](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/snowcamp-2026"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2025&color=red"></a>
 * 15: [Data Left Unattended - Amsterdam](http://unattended-data.io/) - Amsterdam (Netherlands) <a href="https://sessionize.com/data-left-unattended-amsterdam/"><img alt="CFP Data Left Unattended - Amsterdam" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-September-2025&color=red"></a>
+* 22: [DevCon #26 : sécurité / post-quantique / hacking](https://www.programmez.com/page-devcons) - Paris (France) <a href="https://docs.google.com/forms/d/e/1FAIpQLScAkKRuLpmUYUyxBP7uVCpWLxShOUxvDD7rKbAiz_4njAyMRQ/viewform?usp=header"><img alt="CFP DevCon #26 : sécurité / post-quantique / hacking" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2025&color=green"></a>
 * 22-23: [SymfonyOnline January 2026](https://live.symfony.com/2026-paris/) - Online
 * 22-27: [jChampions](https://jchampionsconf.com) - Online
 * 28-29: [LF Decentralized Trust Member Summit](https://www.lfdecentralizedtrust.org/member-summit-10th-anniversary) - Jersey City (USA)
