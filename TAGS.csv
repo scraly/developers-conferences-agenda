@@ -746,7 +746,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-10-02-MCP Dev Summit,topic:ai,language:english
 2025-10-02-Nantes Craft,topic:software-development,language:french
 2025-10-02-ServerSide.swift 2025,tech:swift,language:english
-2025-10-02-Volcamp,topic:technology,language:french
+2025-10-02-Volcamp,topic:developer,language:french
 2025-10-03-DevFest Perros-Guirec 2025,tech:android,topic:web-development,language:french
 2025-10-03-Cosmobash,topic:cloud,language:english
 2025-10-03-LF Energy Summit North America,topic:open-source,topic:energy,language:english
@@ -1462,3 +1462,5 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-11-08-FOSS for All Conference 2025,tech:open-source,topic:software-development,language:korean
 2026-06-15-OpenSearchCon India,tech:opensearch,topic:search-engine,language:english
 2026-06-18-KubeCon + CloudNativeCon India,tech:kubernetes,topic:cloud-native,language:english
+2025-11-26-Odoo Tech Evening - #3 Edition,topic:tech,language:english
+2026-09-29-Cloud Native Days Austria,topic:cloud-native,topic:platform-engineering,tech:gitops,tech:kubernetes,topic:cloud,topic:conference,topic:devops,topic:platform,language:english
