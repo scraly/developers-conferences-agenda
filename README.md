@@ -446,7 +446,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29: [DevFest Bari 2025](https://bari.devfest.it/) - Bari (Italy) <a href="https://sessionize.com/devfest-bari-2025/"><img alt="CFP DevFest Bari 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-August-2025&color=red"></a>
 * 29: [JSDC 2025](https://2025.jsdc.tw/) - Taipei (Taiwan)
 * 29: [DevFest Ica 2025](https://gdg.community.dev/events/details/google-gdg-ica-presents-devfest-ica-2025/) - Ica (Peru)
-* 29: [devopsdays Porto Alegre](https://devopsdays.org/events/2025-porto-alegre/welcome/) - Porto Alegre (Brazil) <a href="https://www.papercall.io/devopsdayspoa2025"><img alt="CFP devopsdays Porto Alegre 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-October-2025&color=green"></a>
+* 29: [devopsdays Porto Alegre](https://devopsdays.org/events/2025-porto-alegre/welcome/) - Porto Alegre (Brazil) <a href="https://www.papercall.io/devopsdayspoa2025"><img alt="CFP devopsdays Porto Alegre 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-October-2025&color=red"></a>
 * 29: [DevFest Ecuador](https://gdg.community.dev/events/details/google-gdg-quito-presents-devfest-ecuador-2025/) - Quito (Ecuador) <a href="https://app.advocu.com/events/68a812d0a8a700bbffec5b05"><img alt="CFP DevFest Ecuador 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2025&color=green"></a>
 * 29: [DevFest Pwani 2025](https://gdg.community.dev/events/details/google-gdg-pwani-presents-devfest-pwani-2025/) - Mombasa (Kenya) <a href="https://app.advocu.com/events/68a57aa2e693a82e4dc3f9f1"><img alt="CFP DevFest Mombasa 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2025&color=red"></a>
 * 29: [DevFest 2025 GDG Campinas](https://app.advocu.com/events/68b1fb50118dc09bab3d98ae) -  Campinas (Brazil) <a href="https://app.advocu.com/events/68b1fb50118dc09bab3d98ae"><img alt="DevFest 2025 GDG Campinas" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-November-2025&color=green"></a>
@@ -665,7 +665,7 @@ All the data (past and coming) are available publicly in JSON:
 ### May
 
 * 4-6: [Linux Storage, Filesystem, MM & BPF Summit](https://events.linuxfoundation.org/lsfmmbpf/) - Zagreb (Croatia)
-* 5-6: [Data Makers Fest 2026](https://www.datamakersfest.com) - Porto (Portugal) <a href="https://sessionize.com/data-makers-fest-2026"><img alt="CFP Data Makers Fest 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-October-2025&color=green"></a>
+* 5-6: [Data Makers Fest 2026](https://www.datamakersfest.com) - Porto (Portugal) <a href="https://sessionize.com/data-makers-fest-2026"><img alt="CFP Data Makers Fest 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-October-2025&color=red"></a>
 * 6-7: [Devoxx UK 2026](https://www.devoxx.co.uk/) - London (UK) <a href="https://www.devoxx.co.uk/sponsorships/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 6-7: [devopsdays Zurich](https://devopsdays.org/events/2026-zurich/welcome/) - Winterthur (Switzerland)
 * 6-7: [DevOpsDays Zurich 2026](https://www.devopsdays.ch) - Winterthur (Switzerland) <a href="https://sessionize.com/devopsdays-zurich-2026"><img alt="CFP DevOpsDays Zurich 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=green"></a>
