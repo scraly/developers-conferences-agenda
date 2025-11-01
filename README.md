@@ -675,11 +675,13 @@ All the data (past and coming) are available publicly in JSON:
 * 11-13: [SQLDay 2026](https://sqlday.pl) - Wroclaw (Poland) <a href="https://sessionize.com/sqlday-2026/"><img alt="CFP SQLDay 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=green"></a>
 * 11-13: [Code Remix Summit 2026](https://coderemix.ai/) - Hollywood, FL (USA) <a href="https://sessionize.com/code-remix-summit-2026"><img alt="CFP Code Remix Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=red"></a>
 * 11-14: [Web Summit Vancouver](https://vancouver.websummit.com/) - Vancouver, BC (Canada)
+* 12: [XtremeJ 2026](https://xtremej.dev) - Online <a href="https://forms.gle/UoGXzvoNi8C2vHkRA"><img alt="CFP XtremeJ 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-February-2026&color=green"></a> <a href="https://xtremej.dev/2025/sponsors/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 13-14: [AGL All Member Meeting Japan](https://events.linuxfoundation.org/agl-amm/) - Tokyo (Japan)
 * 18-19: [Cloud Native Days Romania](https://cloudnativedays.ro/) - Bucharest (Romania)
 * 18-20: [Embedded Linux Conference North America](https://events.linuxfoundation.org/embedded-linux-conference-north-america/) - Minneapolis, MN (USA)
 * 18-20: [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Minneapolis, MN (USA)
 * 18-23: [RustWeek 2026](https://2026.rustweek.org/) - Eindhoven (Netherlands)
+* 19: [XtremeJS 2026](https://xtremejs.dev) - Online <a href="https://forms.gle/UoGXzvoNi8C2vHkRA"><img alt="CFP XtremeJS 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-February-2026&color=green"></a> <a href="https://xtremejs.dev/2025/sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 19-21: [PHP Tek 2026](https://phptek.io) - Chicago, IL (USA) <a href="https://sessionize.com/php-tek-2026"><img alt="CFP PHP Tek 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=red"></a>
 * 20-22: [KotlinConf 2026](https://kotlinconf.com) - Munich (Germany) <a href="https://sessionize.com/kotlinconf-2026"><img alt="CFP KotlinConf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=green"></a>
 * 21-22: [DataGrillen 2026](https://datagrillen.com) - Lingen (Germany) <a href="https://sessionize.com/datagrillen-2026/"><img alt="CFP DataGrillen 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-December-2025&color=green"></a>
@@ -689,10 +691,12 @@ All the data (past and coming) are available publicly in JSON:
 * 22: [AFUP Day 2026 Bordeaux](https://event.afup.org/afup-day-2026/) - Bordeaux (France) <a href="https://afup.org/event/afupday2026bordeaux/cfp"><img alt="CFP AFUP Day Bordeaux 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2025&color=green"></a>
 * 22: [AFUP Day 2026 Lyon](https://event.afup.org/afup-day-2026/) - Lyon (France) <a href="https://afup.org/event/afupday2026lyon/cfp"><img alt="CFP AFUP Day Lyon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2025&color=green"></a>
 * 25-29: [Toronto Tech Week](https://www.torontotechweek.com/) - Toronto (Canada)
+* 26: [XtremePython 2026](https://xtremepython.dev) - Online <a href="https://forms.gle/UoGXzvoNi8C2vHkRA"><img alt="CFP XtremePython 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-February-2026&color=green"></a> <a href="https://xtremepython.dev/2026/sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 29-31: [RubyConf Austria 2026](https://rubyconf.at) - Vienna (Austria) <a href="https://www.papercall.io/rubyconfaustria2026"><img alt="CFP RubyConf Austria 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2025&color=green"></a>
 
 ### June
 
+* 2: [XtremeAI 2026](https://xtremeai.dev) - Online <a href="https://forms.gle/UoGXzvoNi8C2vHkRA"><img alt="CFP XtremeAI 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-February-2026&color=green"></a>
 * 2-3: [Cyber Security for Critical Assets Canada](https://canada.cs4ca.com/) - Calgary (Canada) <a href="https://canada.cs4ca.com/submit-speaking-proposal/"><img alt="CFP Cyber Security for Critical Assets Canada" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2026&color=green"></a>
 * 2-5: [Craft Conference 2026](https://craft-conf.com/2026) - Budapest (Hungary) <a href="https://www.papercall.io/craft2026"><img alt="CFP Craft Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2025&color=green"></a>
 * 4: [SymfonyDay Montreal 2026](https://live.symfony.com/2026-montreal/) - Montreal (Canada)
