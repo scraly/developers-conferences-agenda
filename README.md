@@ -367,6 +367,7 @@ All the data (past and coming) are available publicly in JSON:
 * 25-27: [ConFoo](https://confoo.ca/en/2026) - Montreal (Canada) <a href="https://confoo.ca/fr/2026/call-for-papers"><img alt="CFP ConFoo" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-September-2025&color=red"></a>
 * 25-27: [Norfolk Developers Conference 2026](https://nordevcon.com) - Norwich (UK) <a href="https://sessionize.com/norfolk-developers-conference-2026"><img alt="CFP Norfolk Developers Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=red"></a>
 * 26: [TEDxOslo2026](https://tedxoslo.com) - Oslo (Norway) <a href="https://sessionize.com/tedxoslo2026/"><img alt="CFP TEDxOslo2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2025&color=red"></a>
+* 26: [Open Source Forum](https://events.linuxfoundation.org/aswf-open-source-forum/) - Los Angeles, CA (USA) & Online 
 * 26-27: [Apres-Cyber Slopes Summit 2026](http://aprescyber.com) - Park City, UT (USA) <a href="https://sessionize.com/apres-cyber-slopes-summit-2026/"><img alt="CFP Apres-Cyber Slopes Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-November-2025&color=green"></a>
 
 ### March
@@ -479,6 +480,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20-22: [KotlinConf 2026](https://kotlinconf.com) - Munich (Germany) <a href="https://sessionize.com/kotlinconf-2026"><img alt="CFP KotlinConf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=green"></a>
 * 21-22: [DataGrillen 2026](https://datagrillen.com) - Lingen (Germany) <a href="https://sessionize.com/datagrillen-2026/"><img alt="CFP DataGrillen 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-December-2025&color=green"></a>
 * 21-22: [DevOpsDays Geneva 2026](https://devopsdays.org/events/2026-geneva/welcome/) - Geneva (Switzerland) <a href="https://devopsdays-geneva.ch/forms/InputFormSpkrsDodGe.php?who=pb0cb47956025e73c797e5e17f16fc38466e34f5ae"><img alt="CFP DevOps Days Geneva 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-February-2026&color=green"></a>
+* 21-22: [Observability Summit North America](https://events.linuxfoundation.org/observability-summit-north-america/) - Minneapolis, MN (USA) <a href="https://events.linuxfoundation.org/observability-summit-north-america/program/open-observability-summit-cfp/"><img alt="CFP Observability Summit North America" src="https://img.shields.io/static/v1?label=CFP&message=until%20TODO&color=green"></a>
 * 22: [AFUP Day 2026 Lille](https://event.afup.org/afup-day-2026/) - Lille (France) <a href="https://afup.org/event/afupday2026lille/cfp"><img alt="CFP AFUP Day Lille 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2025&color=red"></a>
 * 22: [AFUP Day 2026 Paris](https://event.afup.org/afup-day-2026/) - Paris (France) <a href="https://afup.org/event/afupday2026paris/cfp"><img alt="CFP AFUP Day Paris 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2025&color=red"></a>
 * 22: [AFUP Day 2026 Bordeaux](https://event.afup.org/afup-day-2026/) - Bordeaux (France) <a href="https://afup.org/event/afupday2026bordeaux/cfp"><img alt="CFP AFUP Day Bordeaux 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-November-2025&color=red"></a>
@@ -512,6 +514,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-10: [WeAreDevelopers World Congress 2026 - Europe](https://www.wearedevelopers.com/world-congress) - Berlin (Germany) <a href="https://sessionize.com/wearedevelopers-world-congress-2026-europe"><img alt="CFP WeAreDevelopers World Congress 2026 Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
 * 11-12: [DevLille 2026](https://devlille.fr/) - Lille (France) <a href="https://conference-hall.io/devlille-2026"><img alt="CFP DevLille 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 18: [KCD Lima 2026](https://community.cncf.io/kcd-lima-peru/) - Lima (Peru)
+* 19: [Open Source Days](https://events.linuxfoundation.org/open-source-days/) - Los Angeles, CA (USA) & Online 
 * 27-31: [Visual Studio Live! @ Microsoft HQ 2026](https://vslive.com/events/microsofthq-2026/home.aspx) - Redmond, WA (USA) <a href="https://sessionize.com/vslive_Microsoft26"><img alt="CFP Visual Studio Live! @ Microsoft HQ 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2025&color=green"></a>
 * 29-30: [KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) - Yokohama (Japan)
 
@@ -519,10 +522,12 @@ All the data (past and coming) are available publicly in JSON:
 
 * 2-4: [Container Days Hamburg 2026](https://www.containerdays.io/containerdays-hamburg-2026/) - Hamburg (Germany) <a href="https://sessionize.com/containerdays-hamburg-2026"><img alt="CFP Container Days Hamburg" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=green"></a>
 * 4: [JUG Summer Camp 2026](https://www.jugsummercamp.org/) - La Rochelle (France)
+* 8-9: [KubeCon + CloudNativeCon + OpenInfra Summit China](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/) - Shanghai (China)
 * 8-11: [RustConf 2026](https://rustconf.com/) - Montreal (Canada)
 * 17-18: [API Platform Conference 2026](https://api-platform.com/fr/con/) - Lille (France)
 * 23-25: [WeAreDevelopers World Congress 2026 - North America](https://www.wearedevelopers.com/world-congress-us) - San Jose, CA (USA) <a href="https://sessionize.com/wearedevelopers-world-congress-2026-us"><img alt="CFP WeAreDevelopers World Congress 2026 Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 29-30: [Cloud Native Days Austria](https://cloudnativedays.at/) - Vienna (Austria)
+* 30-1/10: [Automotive Grade Linux All Member Meeting Europe](https://events.linuxfoundation.org/agl-amm-europe/) - Berlin (Germany)
 
 ### October
 
@@ -549,6 +554,10 @@ All the data (past and coming) are available publicly in JSON:
 ### October
 
 * 6-7: [PyTorch Conference 2027](https://events.linuxfoundation.org/pytorch-conference-2027/) - San Jose, CA (USA)
+
+### November
+
+* 8-11: [KubeCon + CloudNativeCon North America 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) - New Orleans, LA (USA)
 
 ## License
 
