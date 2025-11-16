@@ -363,6 +363,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-13: [Touraine Tech #26](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/touraine-tech-2026"><img alt="CFP TnT 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-November-2025&color=green"></a>
 * 18-20: [DeveloperWeek 2026](https://www.developerweek.com/) - San Jose, CA (USA) & Online <a href="https://sessionize.com/developerweek-2026"><img alt="CFP DeveloperWeek 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=red"></a>
 * 21: [DDD Melbourne 2026](https://www.dddmelbourne.com/) - Melbourne (Australia)
+* 21: [KCD New Delhi](https://www.kcddelhi.com/) - New Delhi (India) <a href="https://sessionize.com/kcd-new-delhi"><img alt="CFP KCD New Delhi 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-December-2025&color=green"></a>
 * 24-25: [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa (USA)
 * 25-27: [ConFoo](https://confoo.ca/en/2026) - Montreal (Canada) <a href="https://confoo.ca/fr/2026/call-for-papers"><img alt="CFP ConFoo" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-September-2025&color=red"></a>
 * 25-27: [Norfolk Developers Conference 2026](https://nordevcon.com) - Norwich (UK) <a href="https://sessionize.com/norfolk-developers-conference-2026"><img alt="CFP Norfolk Developers Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=red"></a>
