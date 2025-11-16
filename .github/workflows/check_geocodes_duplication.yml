@@ -3,7 +3,7 @@ on: pull_request
 
 jobs:
   GeolocationsDuplicationsValidator:
-    name: GeolocationsDuplicationsValidator 
+    name: GeolocationsDuplicationsValidator
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -16,7 +16,10 @@ jobs:
           cache-dependency-path: '**/package-lock.json'
       - working-directory: page
         run: npm install -D
-      - name: Validate Geolocations duplication 
+      - name: Run Tests
+        working-directory: page
+        run: npm test -- --run
+      - name: Validate Geolocations duplication
         working-directory: tools
         run: |
           npm install -D
