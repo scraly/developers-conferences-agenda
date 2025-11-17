@@ -116,6 +116,7 @@ Guidelines:
 - Use location to infer language (e.g. Germany → likely \`language:english\` or \`language:german\`, but check consistency with past editions).
 - If a conference exists in history (even previous editions), reuse or extend existing tags with similar logic.
 - When in doubt, prefer **precision over creativity**. Don't invent tags that weren't seen before unless obviously relevant.
+- Generate at minimum three tags: tech, topic and language
 
 Output format:
 Only return a numbered list like this:
