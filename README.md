@@ -314,7 +314,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20: [DevFest Gwalior 2025](https://gdg.community.dev/events/details/google-gdg-gwalior-presents-devfest-gwalior-2025/) - Gwalior (India) <a href="https://app.advocu.com/events/68ed31dd7c50489f26c41038"><img alt="CFP DevFest Gwalior 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=green"></a>
 * 20: [DevFest Makassar 2025](https://gdg.community.dev/events/details/google-gdg-makassar-presents-devfest-makassar-2025/) -  Makassar (Indonesia) <a href="https://app.advocu.com/events/68f1cc1e51990536138511b2"><img alt="CFP DevFest Makassar 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=green"></a>
 * 20: [DevFest Armenia 2025](https://gdg.community.dev/events/details/google-gdg-yerevan-presents-devfest-armenia-2025/) - Yerevan (Armenia) <a href="https://app.advocu.com/events/68eca6af7c50489f26c341f8"><img alt="CFP DevFest Armenia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-November-2025&color=green"></a>
-* 21: [DevFest Kolkata 2025](https://gdg.community.dev/events/details/google-gdg-kolkata-presents-devfest-kolkata-2025/) - Kolkata (India) <a href="https://sessionize.com/devfest-kolkata-2025/"><img alt="CFP DevFest Kolkata 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-November-2025&color=green"></a>
+* 21: [DevFest Kolkata 2025](https://gdg.community.dev/events/details/google-gdg-kolkata-presents-devfest-kolkata-2025/) - Kolkata (India) <a href="https://sessionize.com/devfest-kolkata-2025/"><img alt="CFP DevFest Kolkata 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-November-2025&color=red"></a>
 
 ## 2026
 
@@ -360,7 +360,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10: [Voxxed Days CERN](https://cern.voxxeddays.com/) - Geneva (Switzerland) <a href="https://vdcern26.cfp.dev/"><img alt="CFP Voxxed Days CERN 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-October-2025&color=red"></a>
 * 11-12: [Container Days London](https://www.containerdays.io/containerdays-london-2026/) - London (UK) <a href="https://sessionize.com/container-days-london"><img alt="CFP Container Days London" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=red"></a>
 * 12: [CyberConVA 2026](https://rvatech.com/rvatech-events/cyberconva-2026/) - Richmond, VA (USA) <a href="https://www.papercall.io/cyberconva2025"><img alt="CFP CyberConVA 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2025&color=red"></a>
-* 12-13: [Touraine Tech #26](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/touraine-tech-2026"><img alt="CFP TnT 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-November-2025&color=green"></a>
+* 12-13: [Touraine Tech #26](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/touraine-tech-2026"><img alt="CFP TnT 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-November-2025&color=red"></a>
 * 18-20: [DeveloperWeek 2026](https://www.developerweek.com/) - San Jose, CA (USA) & Online <a href="https://sessionize.com/developerweek-2026"><img alt="CFP DeveloperWeek 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=red"></a>
 * 21: [DDD Melbourne 2026](https://www.dddmelbourne.com/) - Melbourne (Australia)
 * 21: [KCD New Delhi](https://www.kcddelhi.com/) - New Delhi (India) <a href="https://sessionize.com/kcd-new-delhi"><img alt="CFP KCD New Delhi 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-December-2025&color=green"></a>
@@ -512,7 +512,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### July
 
-* 2-3: [Agile On The Beach 2026](https://www.agileonthebeach.com) - Falmouth (UK) <a href="https://sessionize.com/agile-on-the-beach-2026/"><img alt="CFP Agile On The Beach 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-November-2025&color=green"></a>
+* 2-3: [Agile On The Beach 2026](https://www.agileonthebeach.com) - Falmouth (UK) <a href="https://sessionize.com/agile-on-the-beach-2026/"><img alt="CFP Agile On The Beach 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-November-2025&color=red"></a>
 * 2-4: [Web Summer Camp 2026](https://websummercamp.com/2026) - Opatija (Croatia) <a href="https://websummercamp.com/2026/">
 * 8-10: [WeAreDevelopers World Congress 2026 - Europe](https://www.wearedevelopers.com/world-congress) - Berlin (Germany) <a href="https://sessionize.com/wearedevelopers-world-congress-2026-europe"><img alt="CFP WeAreDevelopers World Congress 2026 Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
 * 11-12: [DevLille 2026](https://devlille.fr/) - Lille (France) <a href="https://conference-hall.io/devlille-2026"><img alt="CFP DevLille 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
