@@ -1,8 +1,8 @@
-import { useParams, useSearchParams } from 'react-router-dom'
+import {useParams, useSearchParams} from 'react-router-dom'
 import allEvents from 'misc/all-events.json'
 import regions from 'misc/regions.json'
-import { useMemo, useCallback } from 'react'
-import { isFavorite } from './utils/favorites'
+import {useCallback, useMemo} from 'react'
+import {isFavorite} from './utils/favorites'
 
 export const useHasYearEvents = (year) => {
   return useMemo(() => Boolean(allEvents.find((e) => new Date(e.date[0]).getFullYear() === parseInt(year, 10))), [year])
@@ -89,7 +89,7 @@ export const useYearEvents = () => {
   const regionsMap = useCountryToRegionMap()
   const yearEvents = useMemo(() => allEvents.filter((e) => e.date[0] && new Date(e.date[0]).getFullYear() === parseInt(year, 10)), [year])
 
-  const filteredEvents = useMemo(() => {
+  return useMemo(() => {
     let result = yearEvents
 
     if (search.callForPapers === 'true') {
@@ -106,8 +106,26 @@ export const useYearEvents = () => {
 
     return result
   }, [yearEvents, searchParams, regionsMap])
+}
 
-  return filteredEvents
+/**
+ * Filter events to show only those with CFPs closing in the selected year or later
+ * @param {Array} events - Array of events to filter
+ * @param {number|string} year - The year to filter by
+ * @returns {Array} Filtered events
+ */
+export const filterCfpEventsByYear = (events, year) => {
+  const currentYear = parseInt(year, 10)
+
+  return events.filter(e => {
+    if (!e.cfp || !e.cfp.untilDate) return false
+    if (!isCfpOpen(e.cfp.untilDate)) return false
+
+    const cfpYear = new Date(e.cfp.untilDate).getFullYear()
+
+    // Only show CFPs that close in the selected year or later
+    return cfpYear >= currentYear
+  })
 }
 
 export const useCfpEvents = () => {
@@ -116,20 +134,9 @@ export const useCfpEvents = () => {
   const search = Object.fromEntries(searchParams)
   const regionsMap = useCountryToRegionMap()
 
-  const filteredEvents = useMemo(() => {
-    let result = allEvents
-    const currentYear = parseInt(year, 10)
-
-    // Filter for events with open CFPs (CFP deadline in the future)
-    // Show CFPs that close in the selected year OR events that happen in the selected year
-    result = result.filter(e => {
-      if (!e.cfp || !e.cfp.untilDate) return false
-      const cfpYear = new Date(e.cfp.untilDate).getFullYear()
-      const eventYear = e.date[0] ? new Date(e.date[0]).getFullYear() : null
-
-      // CFP must still be open AND CFP closes in current year OR event happens in current year
-      return isCfpOpen(e.cfp.untilDate) && (cfpYear === currentYear || eventYear === currentYear)
-    })
+  return useMemo(() => {
+    // Filter by year first
+    let result = filterCfpEventsByYear(allEvents, year)
 
     // Apply CFP until date filter
     if (search.untilDate) {
@@ -141,8 +148,6 @@ export const useCfpEvents = () => {
 
     return result
   }, [year, searchParams, regionsMap])
-
-  return filteredEvents
 }
 
 /**
@@ -170,7 +175,7 @@ export const filterEventsByCfpUntilDate = (events, untilDate) => {
  * @param {string} cfpUntilDate - CFP closing date string
  * @returns {boolean} True if CFP is still open
  */
-const isCfpOpen = (cfpUntilDate) => {
+export const isCfpOpen = (cfpUntilDate) => {
   if (!cfpUntilDate) return false
   const cfpDeadline = new Date(cfpUntilDate)
   const cfpDeadlineWithBuffer = new Date(cfpDeadline.getTime() + 24 * 60 * 60 * 1000)

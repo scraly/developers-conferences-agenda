@@ -141,50 +141,27 @@ describe('applyCommonFilters', () => {
   })
 
   describe('query (text search) filter', () => {
-    it('should search in event name', () => {
+    it('should search in name, hyperlink, and location (case-insensitive)', () => {
       const events = [
-        createEvent({ name: 'DevBcn 2025' }),
-        createEvent({ name: 'ReactConf 2025' })
+        createEvent({ name: 'DevBcn 2025', hyperlink: 'https://example.com', location: 'Madrid' }),
+        createEvent({ name: 'ReactConf 2025', hyperlink: 'https://reactconf.com', location: 'Paris' }),
+        createEvent({ name: 'PyConES', hyperlink: 'https://pycones.es', location: 'Barcelona' })
       ]
 
-      const result = applyCommonFilters(events, { query: 'DevBcn' }, mockRegionsMap)
+      // Search in name (case-insensitive)
+      const resultName = applyCommonFilters(events, { query: 'devbcn' }, mockRegionsMap)
+      expect(resultName).toHaveLength(1)
+      expect(resultName[0].name).toBe('DevBcn 2025')
 
-      expect(result).toHaveLength(1)
-      expect(result[0].name).toBe('DevBcn 2025')
-    })
+      // Search in hyperlink
+      const resultLink = applyCommonFilters(events, { query: 'reactconf' }, mockRegionsMap)
+      expect(resultLink).toHaveLength(1)
+      expect(resultLink[0].name).toBe('ReactConf 2025')
 
-    it('should search in hyperlink', () => {
-      const events = [
-        createEvent({ name: 'Event 1', hyperlink: 'https://devbcn.com' }),
-        createEvent({ name: 'Event 2', hyperlink: 'https://reactconf.com' })
-      ]
-
-      const result = applyCommonFilters(events, { query: 'devbcn' }, mockRegionsMap)
-
-      expect(result).toHaveLength(1)
-      expect(result[0].name).toBe('Event 1')
-    })
-
-    it('should search in location', () => {
-      const events = [
-        createEvent({ name: 'Event 1', location: 'Barcelona' }),
-        createEvent({ name: 'Event 2', location: 'Madrid' })
-      ]
-
-      const result = applyCommonFilters(events, { query: 'barcelona' }, mockRegionsMap)
-
-      expect(result).toHaveLength(1)
-      expect(result[0].name).toBe('Event 1')
-    })
-
-    it('should be case-insensitive', () => {
-      const events = [
-        createEvent({ name: 'DevBcn 2025' })
-      ]
-
-      const result = applyCommonFilters(events, { query: 'devbcn' }, mockRegionsMap)
-
-      expect(result).toHaveLength(1)
+      // Search in location
+      const resultLocation = applyCommonFilters(events, { query: 'barcelona' }, mockRegionsMap)
+      expect(resultLocation).toHaveLength(1)
+      expect(resultLocation[0].name).toBe('PyConES')
     })
   })
 

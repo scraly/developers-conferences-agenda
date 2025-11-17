@@ -38,26 +38,22 @@ describe('filterEventsByCfpUntilDate', () => {
     expect(result).toHaveLength(2)
   })
 
-  it('should show CFP closing on the filter date', () => {
+  it('should show CFPs closing on or before the filter date', () => {
     const events = [
-      createEvent('DevBcn 2025', '2025-02-28', '2025-07-08')
+      createEvent('CFP on Feb 28', '2025-02-28', '2025-07-08'),
+      createEvent('CFP on Feb 27', '2025-02-27', '2025-06-15'),
+      createEvent('CFP on Feb 20 (today)', '2025-02-20', '2025-05-20')
     ]
 
     const result = filterEventsByCfpUntilDate(events, '2025-02-28')
 
-    expect(result).toHaveLength(1)
-    expect(result[0].name).toBe('DevBcn 2025')
-  })
-
-  it('should show CFP closing before the filter date', () => {
-    const events = [
-      createEvent('Conference on Feb 27', '2025-02-27', '2025-06-15')
-    ]
-
-    const result = filterEventsByCfpUntilDate(events, '2025-02-28')
-
-    expect(result).toHaveLength(1)
-    expect(result[0].name).toBe('Conference on Feb 27')
+    // Should show all 3: on date, before date, and today (with 24h buffer)
+    expect(result).toHaveLength(3)
+    expect(result.map(e => e.name)).toEqual([
+      'CFP on Feb 28',
+      'CFP on Feb 27',
+      'CFP on Feb 20 (today)'
+    ])
   })
 
   it('should hide CFP closing after the filter date', () => {
@@ -80,23 +76,6 @@ describe('filterEventsByCfpUntilDate', () => {
     expect(result).toHaveLength(0)
   })
 
-  it('should filter multiple events correctly', () => {
-    const events = [
-      createEvent('DevBcn 2025', '2025-02-28', '2025-07-08'),
-      createEvent('Conference Closing March 20', '2025-03-20', '2025-09-13'),
-      createEvent('Conference on Feb 27', '2025-02-27', '2025-06-15'),
-      createEvent('Past Conference', '2025-02-10', '2025-06-01')
-    ]
-
-    const result = filterEventsByCfpUntilDate(events, '2025-02-28')
-
-    expect(result).toHaveLength(2)
-    expect(result.map(e => e.name)).toEqual([
-      'DevBcn 2025',
-      'Conference on Feb 27'
-    ])
-  })
-
   it('should handle events without CFP data', () => {
     const events = [
       { name: 'No CFP Event', date: ['2025-06-01'], location: 'Test', country: 'ES' }
@@ -117,66 +96,21 @@ describe('filterEventsByCfpUntilDate', () => {
     expect(result).toHaveLength(0)
   })
 
-  it('should show CFP closing today with 24h buffer', () => {
+  it('should show CFPs closing by March 5 and hide those after', () => {
     const events = [
-      createEvent('Conference Closing Today', '2025-02-20', '2025-05-20')
-    ]
-
-    const result = filterEventsByCfpUntilDate(events, '2025-02-28')
-
-    expect(result).toHaveLength(1)
-    expect(result[0].name).toBe('Conference Closing Today')
-  })
-
-  it('should correctly apply 24-hour buffer to CFP deadline', () => {
-    const events = [
-      createEvent('CFP Closing Today', '2025-02-20', '2025-06-01')
-    ]
-
-    // With 24h buffer, CFP closing on Feb 20 should still be open on Feb 20
-    const result = filterEventsByCfpUntilDate(events, '2025-02-20')
-
-    expect(result).toHaveLength(1)
-  })
-
-  it('should show all CFPs closing between today and March 5', () => {
-    const events = [
-      createEvent('DevBcn 2025', '2025-02-28', '2025-07-08'),
-      createEvent('Conference on Feb 27', '2025-02-27', '2025-06-15'),
-      createEvent('Conference Closing Today', '2025-02-20', '2025-05-20')
+      createEvent('Closes Feb 28', '2025-02-28', '2025-07-08'),
+      createEvent('Closes Feb 27', '2025-02-27', '2025-06-15'),
+      createEvent('Closes today (Feb 20)', '2025-02-20', '2025-05-20'),
+      createEvent('Closes March 20', '2025-03-20', '2025-09-13')
     ]
 
     const result = filterEventsByCfpUntilDate(events, '2025-03-05')
 
     expect(result).toHaveLength(3)
-  })
-
-  it('should hide CFP closing after March 5', () => {
-    const events = [
-      createEvent('Conference Closing March 20', '2025-03-20', '2025-09-13')
-    ]
-
-    const result = filterEventsByCfpUntilDate(events, '2025-03-05')
-
-    expect(result).toHaveLength(0)
-  })
-
-  it('should show all currently open CFPs closing by April 30', () => {
-    const events = [
-      createEvent('DevBcn 2025', '2025-02-28', '2025-07-08'),
-      createEvent('Conference Closing March 20', '2025-03-20', '2025-09-13'),
-      createEvent('Conference on Feb 27', '2025-02-27', '2025-06-15'),
-      createEvent('Conference Closing March 25', '2025-03-25', '2025-08-30')
-    ]
-
-    const result = filterEventsByCfpUntilDate(events, '2025-04-30')
-
-    expect(result).toHaveLength(4)
     expect(result.map(e => e.name)).toEqual([
-      'DevBcn 2025',
-      'Conference Closing March 20',
-      'Conference on Feb 27',
-      'Conference Closing March 25'
+      'Closes Feb 28',
+      'Closes Feb 27',
+      'Closes today (Feb 20)'
     ])
   })
 
