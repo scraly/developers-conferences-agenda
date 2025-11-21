@@ -19,6 +19,9 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:run": "vitest run",
     "lint": "eslint --fix",
     "format": "prettier src/**/*.js --write --config ./.prettierrc"
   },
@@ -27,6 +30,7 @@
     "@types/react": "^18.0.37",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react-swc": "^3.0.0",
+    "@vitest/ui": "^4.0.9",
     "eslint": "^9.17.0",
     "eslint-plugin-jsx-a11y": "^6.10.2",
     "eslint-plugin-react": "^7.37.3",
@@ -34,7 +38,8 @@
     "globals": "^15.14.0",
     "prettier": "^1.19.1",
     "prettier-airbnb-config": "^1.0.0",
-    "vite": "^6.4.1"
+    "vite": "^6.4.1",
+    "vitest": "^4.0.9"
   },
   "prettier": "prettier-airbnb-config"
 }

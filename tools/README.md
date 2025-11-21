@@ -1,4 +1,7 @@
 # tools
+
+Utility scripts for processing conference data, generating feeds, and validating data integrity.
+
 ## mdParser.js
 ### Mission
 Parses the README file to find archives and events. extract every events from those markdown files and saves them in a `all-event.json` file
