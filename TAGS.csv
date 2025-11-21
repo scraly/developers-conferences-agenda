@@ -1472,3 +1472,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2025-12-16-DevFest'25 Kırklareli,topic:google,topic:developer,language:turkish
 2026-05-18-Cloud Native Days Italy,tech:kubernetes,topic:ai,topic:fintech,language:italian,language:english,topic:sre,topic:platform,topic:platform-engineering,topic:developer-experience
 2026-02-13-DevConf.IN 2026,topic:open-source,tech:red-hat,topic:developer,topic:community,topic:community-building,topic:free-software,topic:technology,language:english
+2026-04-22-ElixirConf EU 2026,tech:elixir,tech:erlang
+2026-03-23-Code BEAM Vancouver,tech:elixir,tech:erlang
+2026-03-18-Agile Niort 2026,topic:agile,topic:development
