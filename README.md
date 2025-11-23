@@ -429,7 +429,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-28: [HackConRD 2026](https://hackconrd.org/) - Santo Domingo (Dominican Republic) <a href="https://www.papercall.io/hackconrd-2026-cfp"><img alt="CFP HackConRD 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=green"></a>
 * 27-29: [Shift](https://shift-hackathon.com/) - Nantes (France) <a href="https://shift-hackathon.com/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 31: [ParisTestConf](https://paristestconf.com/) - Paris (France) <a href="https://sessionize.com/paristestconf-7/"><img alt="CFP ParisTestConf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=red"></a>
-* 20-21: [Codemotion Roma](https://conferences.codemotion.com/roma/) - Rome (Italy) <a href="https://sessionize.com/codemotion-roma-2026/"><img alt="CFP Codemotion Rome" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=green"></a>
+* 31: [Codemotion Roma](https://conferences.codemotion.com/roma/) - Rome (Italy) <a href="https://sessionize.com/codemotion-roma-2026/"><img alt="CFP Codemotion Rome" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=green"></a>
 
 ### April
 
