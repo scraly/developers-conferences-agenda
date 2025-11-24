@@ -109,23 +109,30 @@ export const useYearEvents = () => {
 }
 
 /**
- * Filter events to show only those with CFPs closing in the selected year or later
+ * Filter events to show only those with CFPs closing in the selected year
+ * Results are sorted by CFP deadline (earliest first)
  * @param {Array} events - Array of events to filter
  * @param {number|string} year - The year to filter by
- * @returns {Array} Filtered events
+ * @returns {Array} Filtered and sorted events
  */
 export const filterCfpEventsByYear = (events, year) => {
   const currentYear = parseInt(year, 10)
 
-  return events.filter(e => {
-    if (!e.cfp || !e.cfp.untilDate) return false
-    if (!isCfpOpen(e.cfp.untilDate)) return false
+  return events
+    .filter(e => {
+      if (!e.cfp || !e.cfp.untilDate) return false
+      if (!isCfpOpen(e.cfp.untilDate)) return false
 
-    const cfpYear = new Date(e.cfp.untilDate).getFullYear()
+      const cfpYear = new Date(e.cfp.untilDate).getFullYear()
 
-    // Only show CFPs that close in the selected year or later
-    return cfpYear >= currentYear
-  })
+      // Only show CFPs that close in the selected year
+      return cfpYear === currentYear
+    })
+    .sort((a, b) => {
+      const dateA = new Date(a.cfp.untilDate).getTime()
+      const dateB = new Date(b.cfp.untilDate).getTime()
+      return dateA - dateB
+    })
 }
 
 export const useCfpEvents = () => {
@@ -152,9 +159,10 @@ export const useCfpEvents = () => {
 
 /**
  * Filter events by CFP until a particular date
+ * Results are sorted by CFP deadline (earliest first)
  * @param {Array} events - Array of events to filter
  * @param {string} untilDate - Filter date string (YYYY-MM-DD)
- * @returns {Array} Filtered events
+ * @returns {Array} Filtered and sorted events
  */
 export const filterEventsByCfpUntilDate = (events, untilDate) => {
   if (!untilDate) return events
@@ -162,12 +170,18 @@ export const filterEventsByCfpUntilDate = (events, untilDate) => {
   const filterDate = new Date(untilDate)
   filterDate.setHours(23, 59, 59, 999) // End of the selected day
 
-  return events.filter((e) => {
-    if (!e.cfp || !e.cfp.untilDate) return false
-    const cfpDeadline = new Date(e.cfp.untilDate)
-    // CFP must still be open today AND close on or before the filter date
-    return isCfpOpen(e.cfp.untilDate) && cfpDeadline <= filterDate
-  })
+  return events
+    .filter((e) => {
+      if (!e.cfp || !e.cfp.untilDate) return false
+      const cfpDeadline = new Date(e.cfp.untilDate)
+      // CFP must still be open today AND close on or before the filter date
+      return isCfpOpen(e.cfp.untilDate) && cfpDeadline <= filterDate
+    })
+    .sort((a, b) => {
+      const dateA = new Date(a.cfp.untilDate).getTime()
+      const dateB = new Date(b.cfp.untilDate).getTime()
+      return dateA - dateB
+    })
 }
 
 /**
@@ -260,6 +274,7 @@ export const applyCommonFilters = (events, search, regionsMap) => {
       })
     }
   })
+
 
   return result
 }

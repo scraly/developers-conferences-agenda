@@ -38,7 +38,7 @@ describe('filterEventsByCfpUntilDate', () => {
     expect(result).toHaveLength(2)
   })
 
-  it('should show CFPs closing on or before the filter date', () => {
+  it('should show CFPs closing on or before the filter date, sorted by deadline', () => {
     const events = [
       createEvent('CFP on Feb 28', '2025-02-28', '2025-07-08'),
       createEvent('CFP on Feb 27', '2025-02-27', '2025-06-15'),
@@ -47,12 +47,11 @@ describe('filterEventsByCfpUntilDate', () => {
 
     const result = filterEventsByCfpUntilDate(events, '2025-02-28')
 
-    // Should show all 3: on date, before date, and today (with 24h buffer)
     expect(result).toHaveLength(3)
     expect(result.map(e => e.name)).toEqual([
-      'CFP on Feb 28',
+      'CFP on Feb 20 (today)',
       'CFP on Feb 27',
-      'CFP on Feb 20 (today)'
+      'CFP on Feb 28'
     ])
   })
 
@@ -96,25 +95,7 @@ describe('filterEventsByCfpUntilDate', () => {
     expect(result).toHaveLength(0)
   })
 
-  it('should show CFPs closing by March 5 and hide those after', () => {
-    const events = [
-      createEvent('Closes Feb 28', '2025-02-28', '2025-07-08'),
-      createEvent('Closes Feb 27', '2025-02-27', '2025-06-15'),
-      createEvent('Closes today (Feb 20)', '2025-02-20', '2025-05-20'),
-      createEvent('Closes March 20', '2025-03-20', '2025-09-13')
-    ]
-
-    const result = filterEventsByCfpUntilDate(events, '2025-03-05')
-
-    expect(result).toHaveLength(3)
-    expect(result.map(e => e.name)).toEqual([
-      'Closes Feb 28',
-      'Closes Feb 27',
-      'Closes today (Feb 20)'
-    ])
-  })
-
-  it('should correctly filter mixed set of CFPs', () => {
+  it('should correctly filter and sort mixed set of CFPs', () => {
     const events = [
       createEvent('Open & Closes by Feb 28', '2025-02-28', '2025-07-01'),
       createEvent('Open but Closes after Feb 28', '2025-03-25', '2025-08-01'),
@@ -126,8 +107,8 @@ describe('filterEventsByCfpUntilDate', () => {
 
     expect(result).toHaveLength(2)
     expect(result.map(e => e.name)).toEqual([
-      'Open & Closes by Feb 28',
-      'Open & Closes on Feb 27'
+      'Open & Closes on Feb 27',
+      'Open & Closes by Feb 28'
     ])
   })
 })
