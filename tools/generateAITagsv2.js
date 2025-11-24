@@ -3,7 +3,7 @@
 /* Prerequisites:
   export OVH_AI_ENDPOINTS_ACCESS_TOKEN=xxxxx
   export OVH_AI_ENDPOINTS_MODEL_URL="https://oai.endpoints.kepler.ai.cloud.ovh.net/v1/chat/completions"
-  export OVH_AI_ENDPOINTS_MODEL_NAME=Qwen2.5-Coder-32B-Instruct
+  export OVH_AI_ENDPOINTS_MODEL_NAME=Qwen3-Coder-30B-A3B-Instruct
 */
 
 const fs = require('fs');
@@ -173,7 +173,7 @@ try {
         body: JSON.stringify({
           model: process.env.OVH_AI_ENDPOINTS_MODEL_NAME,
           temperature: 0.0,
-          top_P: 1.0,
+          top_p: 1.0,
           messages: [
             {
               //System prompt adds more stability to the inferences
