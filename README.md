@@ -384,6 +384,8 @@ All the data (past and coming) are available publicly in JSON:
 * 9-10: [FOSSASIA Summit 2026](https://summit.fossasia.org/) - Bangkok (Thailand) <a href="https://summit.fossasia.org/speaker-registration"><img alt="CFP FOSSASIA Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=green"></a>
 * 10-12: [JavaLand](https://www.javaland.eu/) - Rust (Germany)
 * 10-12: [RISC-V at embedded world](https://events.linuxfoundation.org/riscv-at-embedded-world/) - Nuremberg (Germany)
+* 10-12: [AGL at embedded world](https://events.linuxfoundation.org/agl-at-embedded-world/) - Nuremberg (Germany)
+* 10-12: [Zephyr at embedded world](https://events.linuxfoundation.org/zephyr-at-embedded-world/) - Nuremberg (Germany)
 * 10-13: [Dutch PHP Conference 2026](https://dawn.tech/evenement/dutch-php-conference-2026) - Amsterdam (Netherlands) <a href="https://sessionize.com/adc-dpc-wdc-2026"><img alt="CFP ADC, WDC, DPC 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-December-2025&color=green"></a>
 * 10-13: [Appdevcon Conference 2026](https://dawn.tech/evenement/appdevcon-conference-2026) - Amsterdam (Netherlands) <a href="https://sessionize.com/adc-dpc-wdc-2026"><img alt="CFP ADC, WDC, DPC 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-December-2025&color=green"></a>
 * 10-13: [Webdevcon Conference 2026](https://dawn.tech/evenement/webdevcon-conference-2026) - Amsterdam (Netherlands) <a href="https://sessionize.com/adc-dpc-wdc-2026"><img alt="CFP ADC, WDC, DPC 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-December-2025&color=green"></a>
@@ -452,6 +454,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20-23: [JCON EUROPE 2026](https://2026.europe.jcon.one/) - Cologne (Germany) <a href="https://sessionize.com/jcon-europe-2026"><img alt="CFP JCON EUROPE 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=red"></a>
 * 20-24: [NDC Sydney 2026](https://ndcsydney.com) - Sydney (Australia) <a href="https://sessionize.com/ndc-sydney-2026"><img alt="CFP NDC Sydney 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-December-2025&color=green"></a>
 * 20-24: [DevOpsCon & MLCon 2026](https://devopscon.io/) - Amsterdam (Netherlands) <a href="https://sessionize.com/devopsconmlcon-2026"><img alt="CFP DevOpsCon & MLCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=green"></a>
+* 21-23: [Overture Member Summit](https://events.linuxfoundation.org/overture-member-summit/) - Florence (Italy)
 * 22-24: [Devoxx France 2026](https://www.devoxx.fr) - Paris (France) <a href="https://www.devoxx.fr/wp-content/uploads/2025/10/devoxxfr-avwiayshr16t.pdf"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 22-24: [ElixirConf EU 2026](https://www.elixirconf.eu/) - Malaga (Spain) <a href="https://sessionize.com/elixirconf-eu-2026/"><img alt="CFP ElixirConf EU 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-January-2026&color=green"></a>
 * 22-24: [Google Cloud Next](https://www.googlecloudevents.com/next-vegas) - Las Vegas, NV (USA)
@@ -516,6 +519,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11-12: [Blastoff Rails](https://blastoffrails.com) -  Albuquerque, NM (USA) <a href="https://www.papercall.io/blastoff"><img alt="CFP Blastoff Rails" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2026&color=green"></a>
 * 12-13: [Baltic Ruby 2026](https://balticruby.org) -  Hamburg (Germany) <a href="https://www.papercall.io/balticruby2026"><img alt="CFP Baltic Ruby 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2025&color=green"></a>
 * 15-16: [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/) - Mumbai (India)
+* 16-17: [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/) - Mumbai (India)
 * 17: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 * 18-19: [KubeCon + CloudNativeCon India 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - Mumbai (India)
 * 18-19: [CFCamp 2026](https://www.cfcamp.org/) - Munich (Germany) <a href="https://www.papercall.io/cfcamp2026"><img alt="CFP CFCamp 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-March-2026&color=green"></a>

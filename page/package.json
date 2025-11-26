@@ -36,5 +36,8 @@
     "prettier-airbnb-config": "^1.0.0",
     "vite": "^6.4.1"
   },
-  "prettier": "prettier-airbnb-config"
+  "prettier": "prettier-airbnb-config",
+  "overrides": {
+    "ajv": "^8.17.1"  
+  }
 }
