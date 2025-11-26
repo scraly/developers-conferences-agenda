@@ -839,6 +839,10 @@
     "latitude": -16.5048228,
     "longitude": -68.1624337
   },
+  "El Jadida (Morocco)": {
+    "latitude": 33.2293229,
+    "longitude": -8.4993567
+  },
   "Eldoret (Kenya)": {
     "latitude": 0.5142774999999999,
     "longitude": 35.2697802
@@ -1647,6 +1651,10 @@
     "latitude": 39.5162401,
     "longitude": -76.9382069
   },
+  "Mascara (Algeria)": {
+    "latitude": 35.394081,
+    "longitude": 0.1379568
+  },
   "Matsuyama, Ehime (Japan)": {
     "latitude": 33.8395188,
     "longitude": 132.7653521
@@ -1975,6 +1983,10 @@
     "latitude": 65.0118734,
     "longitude": 25.4716809
   },
+  "Ourense (Spain)": {
+    "latitude": 42.1939629,
+    "longitude": -7.537124
+  },
   "Oviedo (Spain)": {
     "latitude": 43.3622522,
     "longitude": -5.8485461
@@ -2174,6 +2186,10 @@
   "Pune (India)": {
     "latitude": 18.5204303,
     "longitude": 73.8567437
+  },
+  "Qarshi (Uzbekistan)": {
+    "latitude": 38.839824,
+    "longitude": 65.7927794
   },
   "Quebec, QC (Canada)": {
     "latitude": 46.8130816,
