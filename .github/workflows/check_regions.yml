@@ -16,12 +16,13 @@ jobs:
           cache-dependency-path: '**/package-lock.json'
       - working-directory: page
         run: npm install -D
-      - name: Run Tests
-        working-directory: page
-        run: npm test -- --run
       - name: Validate Regions
         working-directory: tools
         run: |
           npm install -D
+          node mdValidator.js
           node mdParser.js
           node validateRegions.js
+      - name: Run Tests
+        working-directory: page
+        run: npm test -- --run

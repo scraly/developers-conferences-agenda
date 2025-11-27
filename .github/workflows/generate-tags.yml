@@ -21,9 +21,6 @@ jobs:
           cache-dependency-path: '**/package-lock.json'
       - working-directory: page
         run: npm install -D
-      - name: Run Tests
-        working-directory: page
-        run: npm test -- --run
       - name: Generate Tags
         working-directory: tools
         env:
@@ -35,6 +32,9 @@ jobs:
           node mdValidator.js
           node mdParser.js
           node generateAITagsv2.js
+      - name: Run Tests
+        working-directory: page
+        run: npm test -- --run
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v6

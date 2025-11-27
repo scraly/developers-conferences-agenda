@@ -21,9 +21,6 @@ jobs:
           cache-dependency-path: '**/package-lock.json'
       - working-directory: page
         run: npm install -D
-      - name: Run Tests
-        working-directory: page
-        run: npm test -- --run
       - name: Parse Markdowns
         working-directory: tools
         run: |
@@ -34,6 +31,9 @@ jobs:
           node generateIcs4OpenedCfps.js
           node generateRSS.js
           node geoCodes.js
+      - name: Run Tests
+        working-directory: page
+        run: npm test -- --run
       - working-directory: page
         run: npm run build
       - name: Make all-*.json files available at the site root
