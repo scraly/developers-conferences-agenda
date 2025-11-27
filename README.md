@@ -331,6 +331,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22-23: [SymfonyOnline January 2026](https://live.symfony.com/2026-paris/) - Online
 * 22-27: [jChampions](https://jchampionsconf.com) - Online
 * 24: [DevFest Heraklion 2026](https://gdg.community.dev/events/details/google-gdg-heraklion-presents-devfest-heraklion-kickoff-unveiling-the-future-of-technology-and-business/) - Heraklion (Greece) <a href="https://docs.google.com/forms/d/e/1FAIpQLScyMP1zitVGgPNfs4FytJaxXgqeTjRI4ytvG0jXOCrkCDA0bw/viewform"><img alt="CFP DevFest Heraklion" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2026&color=green"></a>
+* 28: [Software Heritage Symposium](https://www.softwareheritage.org/2025/11/25/software_heritage_2026_symposium_summit/) - Paris (France)
 * 28-29: [LF Decentralized Trust Member Summit](https://www.lfdecentralizedtrust.org/member-summit-10th-anniversary) - Jersey City (USA)
 * 29-30: [Cloud Tech Tallinn](https://cloudtechtallinn.com/) - Tallinn (Estonia)
 * 29-31: [Epitech Summit 2026 - Paris](https://conference-hall.io/epitech-summit-2026) - Paris (France) <a href="https://conference-hall.io/epitech-summit-2026"><img alt="CFP Epitech Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-October-2025&color=red"></a>
@@ -383,6 +384,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4-6: [Devnexus](https://devnexus.com/) - Atlanta, GA (USA) <a href="https://devnexus.com/posts/the-cfp-for-devnexus-2026-is-open"><img alt="CFP Devnexus" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2025&color=red"></a>
 * 5-7: [Power BI Gebruikersdagen 2026](https://www.pbig.nl/) - Utrecht (Netherlands) <a href="https://sessionize.com/power-bi-gebruikersdag-2026/"><img alt="CFP Power BI Gebruikersdagen 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-October-2025&color=red"></a>
 * 9-10: [FOSSASIA Summit 2026](https://summit.fossasia.org/) - Bangkok (Thailand) <a href="https://summit.fossasia.org/speaker-registration"><img alt="CFP FOSSASIA Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=green"></a>
+* 10: [FOSSASIA PGDay 2026](https://summit.fossasia.org/pgday) - Bangkok (Thailand) <a href="https://eventyay.com/e/b85fd0f2/cfs"><img alt="CFP FOSSASIA PGDay 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=green"></a>
 * 10-12: [JavaLand](https://www.javaland.eu/) - Rust (Germany)
 * 10-12: [RISC-V at embedded world](https://events.linuxfoundation.org/riscv-at-embedded-world/) - Nuremberg (Germany)
 * 10-12: [AGL at embedded world](https://events.linuxfoundation.org/agl-at-embedded-world/) - Nuremberg (Germany)
