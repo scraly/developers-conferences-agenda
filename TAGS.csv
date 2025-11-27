@@ -1471,3 +1471,24 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-03-27-Shift,topic:ai,topic:agents,topic:llm,topic:artificial-intelligence,topic:hackathon,language:french
 2025-12-16-DevFest'25 Kırklareli,topic:google,topic:developer,language:turkish
 2026-05-18-Cloud Native Days Italy,tech:kubernetes,topic:ai,topic:fintech,language:italian,language:english,topic:sre,topic:platform,topic:platform-engineering,topic:developer-experience
+2026-02-13-DevConf.IN 2026,topic:open-source,tech:red-hat,topic:developer,topic:community,topic:community-building,topic:free-software,topic:technology,language:english
+2026-04-22-ElixirConf EU 2026,tech:elixir,tech:erlang
+2026-03-23-Code BEAM Vancouver,tech:elixir,tech:erlang
+2026-03-18-Agile Niort 2026,topic:agile,topic:development,language:french
+2026-05-19-CloudLand,topic:cloud-native,topic:data,topic:devops,topic:platform-engineering,topic:open-source
+2026-06-05-TechReady,topic:cloud,topic:artificial-intelligence
+2026-02-21-KCD New Delhi,tech:cloud-native,topic:kubernetes,topic:open-source,language:english
+2026-02-26-Open Source Forum,tech:software-development,topic:open-source,language:english
+2026-03-31-Codemotion Roma,tech:software-development,topic:programming,language:italian
+2026-05-12-XtremeJ 2026,tech:java,topic:software-development,language:english
+2026-05-19-XtremeJS 2026,tech:javascript,topic:web-development,language:english
+2026-05-20-KCD Helsinki,tech:cloud-native,topic:kubernetes,topic:open-source,language:english
+2026-05-21-Observability Summit North America,tech:observability,topic:cloud-native,language:english
+2026-05-26-XtremePython 2026,tech:python,topic:software-development,language:english
+2026-06-29-Cloud Native Summit Munich 2026,tech:cloud-native,topic:kubernetes,topic:open-source,language:english
+2026-07-11-DevLille 2026,tech:software-development,topic:open-source,language:french
+2026-07-19-Open Source Days,tech:software-development,topic:open-source,language:english
+2026-09-08-KubeCon + CloudNativeCon + OpenInfra Summit China,tech:cloud-native,topic:kubernetes,topic:open-source,language:chinese
+2026-09-30-Automotive Grade Linux All Member Meeting Europe,tech:automotive,topic:open-source,language:english
+2026-11-09-KubeCon + CloudNativeCon NA 2026,tech:cloud-native,topic:kubernetes,topic:open-source,language:english
+2027-11-08-KubeCon + CloudNativeCon North America 2027,tech:cloud-native,topic:kubernetes,topic:open-source,language:english
