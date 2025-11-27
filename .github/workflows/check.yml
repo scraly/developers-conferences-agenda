@@ -11,7 +11,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 22
           cache: npm
           cache-dependency-path: '**/package-lock.json'
       - working-directory: page
@@ -21,3 +21,7 @@ jobs:
         run: |
           npm install -D
           node mdValidator.js
+          node mdParser.js
+      - name: Run Tests
+        working-directory: page
+        run: npm test -- --run

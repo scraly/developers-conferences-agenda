@@ -29,6 +29,9 @@ jobs:
           node mdParser.js
           node fixCFPColor.js
           node geoCodes.js
+      - name: Run Tests
+        working-directory: page
+        run: npm test -- --run
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v6

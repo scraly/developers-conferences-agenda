@@ -20,5 +20,9 @@ jobs:
         working-directory: tools
         run: |
           npm install -D
+          node mdValidator.js
           node mdParser.js
           node validateRegions.js
+      - name: Run Tests
+        working-directory: page
+        run: npm test -- --run

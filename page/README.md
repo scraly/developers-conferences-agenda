@@ -18,6 +18,18 @@ $ npm run build
 
 * Edit files in `src/` or `public/` directory only.
 
+### Testing
+
+Run unit tests:
+
+```bash
+$ npm test          # Run in watch mode (auto-rerun on changes)
+$ npm test -- --run # Run once
+$ npm run test:ui   # Open visual test UI
+```
+
+Tests are located next to source files (e.g., `src/app.hooks.test.js`).
+
 ### Run locally
 
 Open react hot-reload environment:
@@ -28,7 +40,14 @@ $ npm start
 
 ## Production
 
-There are a GitHub Action available at `.github/workflows/ghpages.yml` which will begin parsing markdown files and combine them into one file named `all-events.json` which then moved to `page/src/misc/all-events.json`. Finally, this project directory will begin building with `npm run build` and another GitHub Workflow to push the `build/` directory to GitHub Pages is executed.
+There are GitHub Actions available at `.github/workflows/ghpages.yml` which will:
+1. **Run unit tests** - Ensures all tests pass before deployment
+2. Parse markdown files and combine them into `all-events.json` 
+3. Move the JSON file to `page/src/misc/all-events.json`
+4. Build the project with `npm run build`
+5. Deploy the `build/` directory to GitHub Pages
+
+**Note:** The deployment will fail if any tests fail, ensuring code quality.
 
 ### Components
 #### YearSelector
