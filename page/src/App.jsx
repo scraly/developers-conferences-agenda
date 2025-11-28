@@ -15,16 +15,10 @@ import { ScrollToTopButton } from './components/ScrollToTopButton/ScrollToTopBut
 import AddEventButton from './components/AddEventButton/AddEventButton';
 
 const App = () => {
-  // TODO: DRY
-  const filtercontextdefaults = {
-    searchParams: {},
-    open: false,
-  };
-
   return (
     <FavoritesProvider>
       <TagsProvider>
-        <FilterContext.Provider value={filtercontextdefaults}>
+        <FilterContext.Provider>
           <Router>
             <div className="app-header">
               <h1 className="dcaTitle">Developer Conferences Agenda</h1>
