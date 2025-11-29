@@ -377,7 +377,7 @@ All the data (past and coming) are available publicly in JSON:
 * 25-27: [Norfolk Developers Conference 2026](https://nordevcon.com) - Norwich (UK) <a href="https://sessionize.com/norfolk-developers-conference-2026"><img alt="CFP Norfolk Developers Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=red"></a>
 * 26: [TEDxOslo2026](https://tedxoslo.com) - Oslo (Norway) <a href="https://sessionize.com/tedxoslo2026/"><img alt="CFP TEDxOslo2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2025&color=red"></a>
 * 26: [Open Source Forum](https://events.linuxfoundation.org/aswf-open-source-forum/) - Los Angeles, CA (USA) & Online 
-* 26-27: [Apres-Cyber Slopes Summit 2026](http://aprescyber.com) - Park City, UT (USA) <a href="https://sessionize.com/apres-cyber-slopes-summit-2026/"><img alt="CFP Apres-Cyber Slopes Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-November-2025&color=green"></a>
+* 26-27: [Apres-Cyber Slopes Summit 2026](http://aprescyber.com) - Park City, UT (USA) <a href="https://sessionize.com/apres-cyber-slopes-summit-2026/"><img alt="CFP Apres-Cyber Slopes Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-November-2025&color=red"></a>
 
 ### March
 
@@ -494,7 +494,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18-23: [RustWeek 2026](https://2026.rustweek.org/) - Eindhoven (Netherlands)
 * 19: [XtremeJS 2026](https://xtremejs.dev) - Online <a href="https://forms.gle/UoGXzvoNi8C2vHkRA"><img alt="CFP XtremeJS 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-February-2026&color=green"></a> <a href="https://xtremejs.dev/2025/sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 19-21: [PHP Tek 2026](https://phptek.io) - Chicago, IL (USA) <a href="https://sessionize.com/php-tek-2026"><img alt="CFP PHP Tek 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=red"></a>
-* 19-22: [CloudLand](https://www.cloudland.org/) - Soltau (Germany) <a href="https://www.cloudland.org/de/speaking/"><img alt="CFP CloudLand" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-November-2025&color=green"></a>
+* 19-22: [CloudLand](https://www.cloudland.org/) - Soltau (Germany) <a href="https://www.cloudland.org/de/speaking/"><img alt="CFP CloudLand" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-November-2025&color=red"></a>
 * 20: [KCD Helsinki](https://kcdhelsinki.fi/) - Helsinki (Finland) <a href="http://kcdhelsinki.fi/sponsor"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 20-22: [KotlinConf 2026](https://kotlinconf.com) - Munich (Germany) <a href="https://sessionize.com/kotlinconf-2026"><img alt="CFP KotlinConf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=green"></a>
 * 21-22: [DataGrillen 2026](https://datagrillen.com) - Lingen (Germany) <a href="https://sessionize.com/datagrillen-2026/"><img alt="CFP DataGrillen 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-December-2025&color=green"></a>
