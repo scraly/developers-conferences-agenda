@@ -248,16 +248,22 @@ All the data (past and coming) are available publicly in JSON:
 
 ### December
 
+* 1: [APIConf](https://apiconf.io) - Clearwater, FL (USA)
+* 1: [DevOpsCon Munich](https://devopscon.io/munich) - Munich (Germany)
+* 1: [IT Security Summit Munich](https://it-security-summit.de/muenchen) - Munich (Germany)
+* 1: [Tech Leadership Summit](https://techleadersummit.io) - Clearwater, FL (USA)
 * 1-2: [DevOps Vision](https://devopsvision.io/) - Clearwater, FL (USA)
 * 1-2: [Tech Rocks Summit 2025](https://events.tech.rocks/tech-rocks-summit-2025) - Paris (France)
 * 1-4: [ESPC25](https://www.sharepointeurope.com) - Dublin (Ireland) <a href="https://sessionize.com/espc25"><img alt="CFP ESPC25" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-March-2025&color=red"></a>
 * 1-5: [AWS re:Invent 2025](https://reinvent.awsevents.com/) - Las Vegas, NV (USA)
 * 2: [JakartaOne Livestream 2025](https://jakartaone.org/2025/) - Online <a href="https://sessionize.com/jakartaone-livestream-2025/"><img alt="CFP JakartaOne Livestream" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2025&color=red"></a>
 * 2: [Azur Tech Winter 2025](https://www.telecom-valley.fr/azurtechwinter/) - Sophia Antipolis (France)
+* 2: [Oh My Hack](https://omhconf.pl) - Warsaw (Poland) <a href="https://omhconf.pl/cfp-2025"><img alt="CFP Oh My Hack" src="https://img.shields.io/static/v1?label=CFP&message=Open&color=green"></a>
 * 2-4: [Black hat Middle east and Africa](https://blackhatmea.com/) -  Malham (Saudi Arabia)
 * 2-4: [WPC 2025](https://www.wpc.education/) - Milan (Italy) <a href="https://sessionize.com/wpc-2025"><img alt="CFP WPC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-July-2025&color=red"></a>
 * 2-4: [Yocto Project Virtual Summit 2025.12](https://www.yoctoproject.org/event/virtual-summit-2025-12/) - Online
 * 3: [CozySummit Virtual](https://community.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-cozysummit-virtual-2025/) - Online
+* 3: [CISO Indonesia](https://ciso-id.coriniumintelligence.com) - Jakarta (Indonesia)
 * 3-4: [Power Conference 2025](https://www.powerconference.cz/) - Prague (Czech Republic) <a href="https://sessionize.com/power-conference-2025"><img alt="CFP Power Conference 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2025&color=red"></a>
 * 3-5: [Build Stuff 2025 Lithuania](http://buildstuff.events) - Vilnius (Lithuania) <a href="https://sessionize.com/build-stuff-2025"><img alt="CFP Build Stuff 2025 Lithuania" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2025&color=red"></a>
 * 4: [Conf42.com DevSecOps 2025](https://www.conf42.com/devsecops2024) - Online <a href="https://www.papercall.io/conf42-devsecops-2025"><img alt="CFP Conf42.com DevSecOps 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-November-2025&color=red"></a>
@@ -280,6 +286,8 @@ All the data (past and coming) are available publicly in JSON:
 * 6-7: [PyCon Indonesia 2025](https://pycon.id) - Jakarta (Indonesia) <a href="https://www.papercall.io/pyconid2025"><img alt="CFP PyCon Indonesia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2025&color=red"></a>
 * 7: [DevFest Istanbul](https://devfest.istanbul/) - Istanbul (Turkey) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMg_60vdHddJWSWIhG91ObX1eb0XpkgkxODBxHll87eg_Jeg/viewform"><img alt="CFP DevFest Istanbul 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-November-2025&color=red"></a>
 * 7: [Devfest Belém 2025](https://gdg.community.dev/events/details/google-gdg-belem-presents-devfest-belem-2025-a-jornada-do-futuro/) - Belém (Brazil)
+* 8: [ArchConf](https://archconf.com) - Clearwater, FL (USA)
+* 8: [IT-Tage](https://www.ittage.informatik-aktuell.de/index.html) - Frankfurt (Germany) <a href="https://www.ittage.informatik-aktuell.de/call-for-papers.html"><img alt="CFP IT-Tage" src="https://img.shields.io/static/v1?label=CFP&message=Open&color=green"></a>
 * 8-9: [YOW! Brisbane](https://yowcon.com/brisbane-2025) - Brisbane (Australia)
 * 8-10: [AI_dev: Open Source GenAI & ML Summit Japan](https://events.linuxfoundation.org/ai-dev-japan/) - Tokyo (Japan) <a href="https://events.linuxfoundation.org/ai-dev-japan/program/cfp/"><img alt="CFP AI_dev: Open Source GenAI & ML Summit Japan" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2025&color=red"></a>
 * 8-10: [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) - Tokyo (Japan) <a href="https://events.linuxfoundation.org/open-source-summit-japan/program/cfp/"><img alt="CFP Open Source Summit Japan" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-August-2025&color=red"></a>
@@ -293,7 +301,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10-11: [Devops REX](https://www.devopsrex.fr/) - Paris (France) <a href="https://talks.devopsdays.org/devops-rex-2025/cfp"><img alt="CFP Devops REX 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-June-2025&color=red"></a>
 * 10-11: [Open Source Experience](https://www.opensource-experience.com) - Paris (France)
 * 11: [OpenSearchCon Japan](https://events.linuxfoundation.org/opensearchcon-japan/) - Tokyo (Japan) <a href="https://events.linuxfoundation.org/opensearchcon-japan/program/cfp/"><img alt="CFP OpenSearchCon Japan" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-August-2025&color=red"></a>
-* 11: [DevOpsDays Tel Aviv 2025](https://devopsdays.org/tel-aviv) - Tel Aviv (Israel) <a href="https://sessionize.com/devopsdays-tel-aviv-2025"><img alt="CFP DevOpsDays Tel Aviv 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2025&color=red"></a>
+* 11: [DevOpsDays Tel Aviv](https://devopsdays.org/tel-aviv) - Tel Aviv (Israel) <a href="https://sessionize.com/devopsdays-tel-aviv-2025"><img alt="CFP DevOpsDays Tel Aviv 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2025&color=red"></a>
 * 11: [Normandie.ai 2025](https://normandie.ai/) - Rouen (France) <a href="https://conference-hall.io/normandie-ai-2025"><img alt="CFP Normandie.ai 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-October-2025&color=red"></a>
 * 11-12: [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/) - Tokyo (Japan) <a href="https://events.linuxfoundation.org/open-compliance-summit/program/cfp/"><img alt="CFP Open Compliance Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-August-2025&color=red"></a>
 * 11-12: [YOW! Sydney](https://yowcon.com/sydney-2025) - Sydney (Australia)
