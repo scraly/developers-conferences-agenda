@@ -253,6 +253,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1-4: [ESPC25](https://www.sharepointeurope.com) - Dublin (Ireland) <a href="https://sessionize.com/espc25"><img alt="CFP ESPC25" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-March-2025&color=red"></a>
 * 1-5: [AWS re:Invent 2025](https://reinvent.awsevents.com/) - Las Vegas, NV (USA)
 * 2: [JakartaOne Livestream 2025](https://jakartaone.org/2025/) - Online <a href="https://sessionize.com/jakartaone-livestream-2025/"><img alt="CFP JakartaOne Livestream" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2025&color=red"></a>
+* 2: [Azur Tech Winter 2025](https://www.telecom-valley.fr/azurtechwinter/) - Sophia Antipolis (France)
 * 2-4: [Black hat Middle east and Africa](https://blackhatmea.com/) -  Malham (Saudi Arabia)
 * 2-4: [WPC 2025](https://www.wpc.education/) - Milan (Italy) <a href="https://sessionize.com/wpc-2025"><img alt="CFP WPC 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-July-2025&color=red"></a>
 * 2-4: [Yocto Project Virtual Summit 2025.12](https://www.yoctoproject.org/event/virtual-summit-2025-12/) - Online
