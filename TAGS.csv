@@ -1503,3 +1503,44 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-16-Open Source Summit India,tech:open-source,topic:community,language:english
 2026-03-10-FOSSASIA PGDay 2026,tech:open-source,tech:postgresql,topic:linux,topic:tech
 2026-01-28-Software Heritage Symposium,topic:software,topic:community
+2025-12-02-Azur Tech Winter 2025,tech:devops,topic:cloud,topic:security,language:french
+2025-12-02-Oh My Hack,tech:cybersecurity,topic:hackathon,language:polish
+2025-12-03-CISO Indonesia,tech:cybersecurity,topic:leadership,language:indonesian
+2025-12-08-ArchConf,tech:devops,topic:infrastructure,language:english
+2025-12-08-IT-Tage,tech:it,topic:innovation,language:german
+2026-01-16-IdentityShield Summit,tech:identity,topic:security,language:hindi
+2026-01-22-Conf42 DevOps 2026,tech:devops,topic:cloud,language:english
+2026-02-12-LLMday Warsaw 2026,tech:ai,topic:large-language-models,language:polish
+2026-02-12-2nd International Conference on Artificial Intelligence and Data Science,tech:ai,topic:data-science,language:english
+2026-02-24-betterCode() Kotlin,tech:programming,topic:kotlin,language:english
+2026-02-27-DevOps Not Dead New York,tech:devops,topic:cloud,language:english
+2026-03-06-LLMday NYC 2026,tech:ai,topic:large-language-models,language:english
+2026-03-10-CTO Craft Con: London,tech:leadership,topic:technology,language:english
+2026-03-10-Appdevcon,tech:mobile,topic:development,language:dutch
+2026-03-10-Webdevcon,tech:web,topic:development,language:dutch
+2026-03-16-FOSS Backstage,tech:open-source,topic:community,language:german
+2026-03-19-Open Tech Day: OpenTofu Edition,tech:devops,topic:infrastructure,language:german
+2026-04-16-UX Rotterdam,tech:design,topic:user-experience,language:dutch
+2026-05-05-GISEC GLOBAL,tech:gis,topic:geospatial,language:english
+2026-05-09-AWS Community Day Türkiye 2026,tech:cloud,topic:aws,language:turkish
+2026-05-21-Conf42 Golang 2026,tech:programming,topic:golang,language:english
+2026-05-28-LLMday London 2026 Q2,tech:ai,topic:large-language-models,language:english
+2026-06-01-Neos Conference 2026,tech:web,topic:development,language:german
+2026-06-04-Conf42 Database DevOps 2026,tech:database,topic:devops,language:english
+2026-06-07-Berlin Buzzwords,tech:big-data,topic:performance,language:german
+2026-06-08-x33fcon training 2026,tech:cybersecurity,topic:training,language:polish
+2026-06-11-x33fcon conference 2026,tech:cybersecurity,topic:conference,language:polish
+2026-06-11-x33fcon workshops 2026,tech:cybersecurity,topic:workshop,language:polish
+2026-06-15-#mtpcon,tech:product,topic:design,language:english
+2026-06-18-Conf42 Large Language Models (LLMs) 2026,tech:ai,topic:large-language-models,language:english
+2026-06-22-PlatformCON Virtual,tech:platform,topic:virtual,topic:conference,language:english
+2026-07-14-UberConf,tech:uber,topic:software,topic:development,language:english
+2026-07-21-Ruby Conf Africa 2026,tech:ruby,topic:africa,topic:conference,language:english
+2026-08-02-4th Tech Summit on Artificial Intelligence & Robotics,tech:ai,tech:robotics,topic:summit,language:french
+2026-09-10-Conf42 Observability 2026,tech:observability,topic:devops,topic:online,language:english
+2026-09-24-Conf42 AI Agents 2026,tech:ai,topic:agents,topic:online,language:english
+2026-10-15-Conf42 DevSecOps 2026,tech:devsecops,topic:security,topic:online,language:english
+2026-10-29-Conf42 Prompt Engineering 2026,tech:ai,topic:prompt-engineering,topic:online,language:english
+2026-11-05-Conf42 Platform Engineering 2026,tech:platform-engineering,topic:online,language:english
+2026-11-19-Conf42 MLOps 2026,tech:mlops,topic:ai,topic:online,language:english
+2026-12-03-Conf42: Chaos Engineering 2026,tech:chaos-engineering,topic:devops,topic:online,language:english
