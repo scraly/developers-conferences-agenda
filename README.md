@@ -275,7 +275,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22-24: [Google Cloud Next](https://www.googlecloudevents.com/next-vegas) - Las Vegas, NV (USA)
 * 23-24: [SymfonyLive Berlin 2026](https://live.symfony.com/2026-berlin/) - Berlin (Germany)
 * 23-24: [Security BSides Prague 2026](https://www.bsidesprg.cz) - Prague (Czech Republic) <a href="https://www.papercall.io/bsidesprg2026"><img alt="CFP Security BSides Prague 2026, CZ" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-December-2025&color=green"></a>
-* 23-25: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece)
+* 23-25: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece) <a href="https://dvgr26.cfp.dev/"><img alt="CFP Devoxx Greece 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=red"></a>
 * 24-26: [Great International Developer Summit 2026 (GIDS 2026)](https://developersummit.com/) - Bengaluru (India)
 * 25: [Securing AI in the Real World: Call for Practitioner Stories – AI Security Conference](https://www.modernsecurity.io) - Online <a href="https://www.papercall.io/ai-security-msec"><img alt="CFP Securing AI in the Real World: Call for Practitioner Stories – AI Security Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=green"></a>
 * 28-29: [stackconf 2026](https://stackconf.eu/) - Munich (Germany) <a href="https://stackconf.eu/propose/"><img alt="CFP stackconf" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=red"></a>
@@ -346,7 +346,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15-16: [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/) - Mumbai (India)
 * 15-16: [#mtpcon](https://www.mindtheproduct.com/mtpcon/london) - London (UK)
 * 16-17: [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/) - Mumbai (India)
-* 17: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
+* 17-19: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 * 18: [Conf42 Large Language Models (LLMs) 2026](https://www.conf42.com/llms2026) - Online <a href="https://www.papercall.io/conf42-large-language-models-llms-2026"><img alt="CFP Conf42 Large Language Models (LLMs) 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-May-2026&color=green"></a>
 * 18-19: [KubeCon + CloudNativeCon India 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - Mumbai (India)
 * 18-19: [CFCamp 2026](https://www.cfcamp.org/) - Munich (Germany) <a href="https://www.papercall.io/cfcamp2026"><img alt="CFP CFCamp 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-March-2026&color=green"></a>
