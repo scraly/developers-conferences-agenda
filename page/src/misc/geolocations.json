@@ -1015,10 +1015,6 @@
     "latitude": 47.5976972,
     "longitude": -2.7533397586005415
   },
-  "Gothenburg (Sweden)": {
-    "latitude": 57.7072326,
-    "longitude": 11.9670171
-  },
   "Granada (Spain)": {
     "latitude": 37.1774605,
     "longitude": -3.5984368
@@ -1070,6 +1066,10 @@
   "Gwalior (India)": {
     "latitude": 26.2037247,
     "longitude": 78.1573628
+  },
+  "Göteborg (Sweden)": {
+    "latitude": 57.7072326,
+    "longitude": 11.9670171
   },
   "Half Moon Bay, CA (USA)": {
     "latitude": 37.4635519,
@@ -2538,6 +2538,10 @@
   "Stuttgart (Germany)": {
     "latitude": 48.7758459,
     "longitude": 9.1829321
+  },
+  "Sunny Isles Beach, FL (USA)": {
+    "latitude": 25.9426915,
+    "longitude": -80.1218486
   },
   "Sunnyvale, CA (USA)": {
     "latitude": 37.36883,
