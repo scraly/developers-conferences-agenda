@@ -173,6 +173,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-14: [DevConf.IN 2026](https://www.devconf.info/in/) - Pune (India) <a href="https://pretalx.devconf.info/devconf-in-2026/cfp"><img alt="CFP DevConf.IN 2026 (open source community conference)" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-November-2025&color=red"></a>
 * 18-20: [DeveloperWeek 2026](https://www.developerweek.com/) - San Jose, CA (USA) & Online <a href="https://sessionize.com/developerweek-2026"><img alt="CFP DeveloperWeek 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=red"></a>
 * 19: [ObservabilityCON on the Road](https://grafana.com/events/observabilitycon-on-the-road/2026/paris/) - Paris (France)
+* 19-20: [HashiTalks 2026](https://hashitalks2026.splashthat.com/) - Online <a href="https://sessionize.com/hashitalks-2026/?e=53817f"><img alt="CFP HashiTalks 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2025&color=green"></a>
 * 21: [DDD Melbourne 2026](https://www.dddmelbourne.com/) - Melbourne (Australia)
 * 21: [KCD New Delhi](https://www.kcddelhi.com/) - New Delhi (India) <a href="https://sessionize.com/kcd-new-delhi"><img alt="CFP KCD New Delhi 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-December-2025&color=green"></a>
 * 24-25: [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - Napa (USA)
@@ -187,6 +188,7 @@ All the data (past and coming) are available publicly in JSON:
 ### March
 
 * 4-6: [Devnexus](https://devnexus.com/) - Atlanta, GA (USA) <a href="https://devnexus.com/posts/the-cfp-for-devnexus-2026-is-open"><img alt="CFP Devnexus" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2025&color=red"></a>
+* 5: [DevFest Bucharest 2026](https://gdg.community.dev/events/details/google-gdg-bucharest-presents-devfest-bucharest-2026/) - Bucharest (Romania) <a href="https://app.advocu.com/events/6925ec54a9230d4c5e675ac3"><img alt="CFP DevFest Bucharest" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-December-2025&color=green"></a>
 * 5-7: [Power BI Gebruikersdagen 2026](https://www.pbig.nl/) - Utrecht (Netherlands) <a href="https://sessionize.com/power-bi-gebruikersdag-2026/"><img alt="CFP Power BI Gebruikersdagen 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-October-2025&color=red"></a>
 * 6: [LLMday NYC 2026](https://llmday.com/2026-nyc-q1/) -  New York, NY (USA) <a href="https://www.papercall.io/llmday-2026-nyc-q1"><img alt="CFP LLMday NYC 2026 Q1" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2026&color=green"></a>
 * 9-10: [FOSSASIA Summit 2026](https://summit.fossasia.org/) - Bangkok (Thailand) <a href="https://summit.fossasia.org/speaker-registration"><img alt="CFP FOSSASIA Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=green"></a>
