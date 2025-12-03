@@ -13,6 +13,14 @@ const MONTHS_SHORTNAMES = MONTHS_NAMES.map((m) => m.slice(0, 3));
 
 const getTimeStamp = (year,month,day) => new Date(Date.UTC(year,month,day,0,0,0)).getTime()
 
+const formatDateHumanReadable = (timestamp) => {
+  const date = new Date(timestamp);
+  const year = date.getUTCFullYear();
+  const month = MONTHS_NAMES[date.getUTCMonth()];
+  const day = date.getUTCDate();
+  return `${month.charAt(0).toUpperCase() + month.slice(1)}-${day}-${year}`;
+}
+
 const parseTags = () => {
   try {
     const tagsContent = fs.readFileSync(TAGS_INPUT, 'utf8');
@@ -118,13 +126,18 @@ const extractEvents = (monthMarkdown, year, month) => {
         : "";
       const misc = miscContent.replace(sponsoringLink, "").replace(cfpLink, "").trim();
 
+      const dateArray = getTimeSpan(
+        year,
+        month,
+        eventLine.trim().replaceAll(/^\s*\*\s*([0-9\/-]*).*$/g, "$1")
+      );
+
       const event = {
         name: eventLine.trim().replaceAll(/^.*[?0-9\/\-]+.*\[(.*)\].*$/g, "$1"),
-        date: getTimeSpan(
-          year,
-          month,
-          eventLine.trim().replaceAll(/^\s*\*\s*([0-9\/-]*).*$/g, "$1")
-        ),
+        date: dateArray,
+        humanReadableDate: dateArray.length === 1
+          ? formatDateHumanReadable(dateArray[0])
+          : `${formatDateHumanReadable(dateArray[0])} - ${formatDateHumanReadable(dateArray[1])}`,
         hyperlink: eventLine.trim().replaceAll(/^.*\]\(([^)]*)\).*$/g, "$1"),
         location: eventLine
           .trim()
@@ -137,7 +150,7 @@ const extractEvents = (monthMarkdown, year, month) => {
           .replaceAll(/ \& Online/g, "")
           .replaceAll(/^([^(]*)\(.*$/g, "$1")
           .trim(),
-        country: eventLine 
+        country: eventLine
           .trim()
           .replaceAll(/^[^\]]*[^)]*[\P{Letter}]*([^<]*).*$/ug, "$1")
           .trim()
