@@ -1555,3 +1555,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-16-Hackmiami 2026,tech:security,topic:penetration-testing,topic:cybersecurity,language:english
 2026-06-11-DevQuest Niort,topic:developer,language:french
 2025-12-13-VeloxCon'25,topic:analytics,topic:architecture,topic:data,topic:open-source,language:english
+2026-03-23-Data on Kubernetes - Cloud Native Theater @ Kubecon EU 2026,tech:kubernetes,topic:cloud-native,topic:data,topic:open-source,language:english
