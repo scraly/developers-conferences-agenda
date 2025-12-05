@@ -137,6 +137,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28-29: [LF Decentralized Trust Member Summit](https://www.lfdecentralizedtrust.org/member-summit-10th-anniversary) - Jersey City (USA)
 * 29-30: [Cloud Tech Tallinn](https://cloudtechtallinn.com/) - Tallinn (Estonia)
 * 29-31: [Epitech Summit 2026 - Paris](https://conference-hall.io/epitech-summit-2026) - Paris (France) <a href="https://conference-hall.io/epitech-summit-2026"><img alt="CFP Epitech Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-October-2025&color=red"></a>
+* 30: [FOSDEM PGDay](https://2026.fosdempgday.org/) - Brussels (Belgium) <a href="https://2026.fosdempgday.org/callforpapers/"><img alt="CFP FOSDEM PGDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=green"></a>
 * 31-01/02: [FOSDEM 2026](https://fosdem.org/2026/) - Brussels (Belgium)
 
 ### February
@@ -145,7 +146,7 @@ All the data (past and coming) are available publicly in JSON:
 * 2-4: [CfgMgmtCamp 2026 Ghent](https://cfgmgmtcamp.org/ghent2026/) - Ghent (Belgium) <a href="https://cfp.cfgmgmtcamp.org/ghent2026/cfp"><img alt="CFP CfgMgmtCamp 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2026&color=green"></a>
 * 2-4: [Jfokus](https://www.jfokus.se/) - Stockholm (Sweden)
 * 2-5: [Epitech Summit 2026 - Moulins](https://conference-hall.io/epitech-summit-2026) - Moulins (France) <a href="https://conference-hall.io/epitech-summit-2026"><img alt="CFP Epitech Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-October-2025&color=red"></a>
-* 2-6: [Web Days Convention](https://webdays.events/) - Aix-en-Provence (France) <a href="https://conference-hall.io/web-days-convention"><img alt="CFP Web Days Convention" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2026&color=green"></a>
+* 2-6: [Web Days Convention](https://webdays.events/) - Aix-en-Provence (France) <a href="https://conference-hall.io/web-days-convention"><img alt="CFP Web Days Convention" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2026&color=green"></a> <a href="https://webdays.events/convention/edition-2026/partenaires/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 3: [Cloud Native Days France 2026](https://www.cloudnativedays.fr/) - Paris (France) <a href="https://cfp.cloudnativedays.fr/2026/"><img alt="CFP Cloud Native Days France 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-October-2025&color=red"></a>
 * 3-4: [Swetugg Stockholm 2026](http://www.swetugg.se/) - Stockholm (Sweden) <a href="https://sessionize.com/swetugg-stockholm-2026"><img alt="CFP Swetugg Stockholm 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=red"></a>
 * 3-4: [Epitech Summit 2026 - La Réunion](https://conference-hall.io/epitech-summit-2026) - Saint-André (La Réunion) <a href="https://conference-hall.io/epitech-summit-2026"><img alt="CFP Epitech Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-October-2025&color=red"></a>
