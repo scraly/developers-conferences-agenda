@@ -354,6 +354,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11-12: [Blastoff Rails](https://blastoffrails.com) -  Albuquerque, NM (USA) <a href="https://www.papercall.io/blastoff"><img alt="CFP Blastoff Rails" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2026&color=green"></a>
 * 11-12: [x33fcon conference 2026](https://www.x33fcon.com) -  Gdynia (Poland) <a href="https://www.papercall.io/x33fcon-conference-2026"><img alt="CFP x33fcon conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2026&color=green"></a>
 * 11-12: [x33fcon workshops 2026](https://www.x33fcon.com) -  Gdynia (Poland) <a href="https://www.papercall.io/x33fcon-workshops-2026"><img alt="CFP x33fcon workshops 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2026&color=green"></a>
+* 11-12: [DevLille 2026](https://devlille.fr/) - Lille (France) <a href="https://conference-hall.io/devlille-2026"><img alt="CFP DevLille 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 12-13: [Baltic Ruby 2026](https://balticruby.org) -  Hamburg (Germany) <a href="https://www.papercall.io/balticruby2026"><img alt="CFP Baltic Ruby 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2025&color=green"></a>
 * 15-16: [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/) - Mumbai (India)
 * 15-16: [#mtpcon](https://www.mindtheproduct.com/mtpcon/london) - London (UK)
@@ -363,7 +364,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18: [Conf42 Large Language Models (LLMs) 2026](https://www.conf42.com/llms2026) - Online <a href="https://www.papercall.io/conf42-large-language-models-llms-2026"><img alt="CFP Conf42 Large Language Models (LLMs) 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-May-2026&color=green"></a>
 * 18-19: [KubeCon + CloudNativeCon India 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - Mumbai (India) <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-india/program/cfp/"><img alt="CFP KubeCon + CloudNativeCon India 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2026&color=green"></a>
 * 18-19: [CFCamp 2026](https://www.cfcamp.org/) - Munich (Germany) <a href="https://www.papercall.io/cfcamp2026"><img alt="CFP CFCamp 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-March-2026&color=green"></a>
-* 18-19: [KubeCon + CloudNativeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) - Mumbai (India)
+* 18-19: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/fr/) - Luxembourg (Luxembourg)
 * 22-26: [PlatformCON Virtual](https://platformcon.com/program) - Online
 * 29-30: [Cloud Native Summit Munich 2026](https://www.kcdmunich.de/) - Munich (Germany) <a href="https://docs.google.com/presentation/d/1QVKEiKgR_Q-grdpZ7QR85-xlvoydq3P6ijvpvKF4KmY/view"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 
@@ -373,7 +374,6 @@ All the data (past and coming) are available publicly in JSON:
 * 2-3: [Agile On The Beach 2026](https://www.agileonthebeach.com) - Falmouth (UK) <a href="https://sessionize.com/agile-on-the-beach-2026/"><img alt="CFP Agile On The Beach 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-November-2025&color=red"></a>
 * 2-4: [Web Summer Camp 2026](https://websummercamp.com/2026) - Opatija (Croatia) <a href="https://websummercamp.com/2026/">
 * 8-10: [WeAreDevelopers World Congress 2026 - Europe](https://www.wearedevelopers.com/world-congress) - Berlin (Germany) <a href="https://sessionize.com/wearedevelopers-world-congress-2026-europe"><img alt="CFP WeAreDevelopers World Congress 2026 Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
-* 11-12: [DevLille 2026](https://devlille.fr/) - Lille (France) <a href="https://conference-hall.io/devlille-2026"><img alt="CFP DevLille 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 14: [UberConf](https://uberconf.com) - Denver, CO (USA)
 * 18: [KCD Lima 2026](https://community.cncf.io/kcd-lima-peru/) - Lima (Peru)
 * 19: [Open Source Days](https://events.linuxfoundation.org/open-source-days/) - Los Angeles, CA (USA) & Online
