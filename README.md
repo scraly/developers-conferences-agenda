@@ -345,6 +345,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5: [TechReady](https://techready.live/) - Nantes (France)
 * 5: [React Norway 2026](https://reactnorway.com/) - Oslo (Norway) <a href="https://forms.gle/mLh7LDZZTK1MzNr47"><img alt="CFP React Norway 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-December-2025&color=green"></a>
 * 6: [devopsdays Feira de Santana](https://devopsdays.org/events/2026-feira-de-santana/welcome/) - Feira de Santana (Brazil)
+* 6: [Polycloud](https://polycloud.fr/) - Montpellier (France) <a href="https://conference-hall.io/polycloud-2026"><img alt="Polycloud 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-February-2026&color=green"></a>
 * 7-9: [Berlin Buzzwords](https://2026.berlinbuzzwords.de) - Berlin (Germany) <a href="https://2026.berlinbuzzwords.de/call-for-papers"><img alt="CFP Berlin Buzzwords" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2026&color=green"></a>
 * 8-10: [x33fcon training 2026](https://www.x33fcon.com/#!training.md) -  Gdynia (Poland) <a href="https://www.papercall.io/x33fcon-training-2026"><img alt="CFP x33fcon training 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2026&color=green"></a>
 * 8-11: [Web Summit Rio](https://rio.websummit.com/) - Rio de Janeiro (Brazil)
