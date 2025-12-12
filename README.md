@@ -371,6 +371,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18-19: [CFCamp 2026](https://www.cfcamp.org/) - Munich (Germany) <a href="https://www.papercall.io/cfcamp2026"><img alt="CFP CFCamp 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-March-2026&color=green"></a>
 * 18-19: [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/fr/) - Luxembourg (Luxembourg)
 * 22-26: [PlatformCON Virtual](https://platformcon.com/program) - Online
+* 27: [KCD Kuala Lumpur 2026](https://community.cncf.io/kcd-kuala-lumpur-2026) - Kuala Lumpur (Malaysia) <a href="https://sessionize.com/kcd-kuala-lumpur-2026"><img alt="CFP KCD Kuala Lumpur 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=green"></a>
 * 29-30: [Cloud Native Summit Munich 2026](https://www.kcdmunich.de/) - Munich (Germany) <a href="https://docs.google.com/presentation/d/1QVKEiKgR_Q-grdpZ7QR85-xlvoydq3P6ijvpvKF4KmY/view"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 
 ### July
