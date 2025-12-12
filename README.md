@@ -384,7 +384,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19: [Open Source Days](https://events.linuxfoundation.org/open-source-days/) - Los Angeles, CA (USA) & Online
 * 21-22: [Ruby Conf Africa 2026](https://rubyconf.africa/) -  Nairobi (Kenya) <a href="https://www.papercall.io/ruby-conf-africa-2026"><img alt="CFP Ruby Conf Africa 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-March-2026&color=green"></a>
 * 27-31: [Visual Studio Live! @ Microsoft HQ 2026](https://vslive.com/events/microsofthq-2026/home.aspx) - Redmond, WA (USA) <a href="https://sessionize.com/vslive_Microsoft26"><img alt="CFP Visual Studio Live! @ Microsoft HQ 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2025&color=red"></a>
-* 29-30: [KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) - Yokohama (Japan)
+* 29-30: [KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) - Yokohama (Japan)
 
 ### August
 
@@ -415,6 +415,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### November
 
+* 4-5: [Open Source in Finance Forum New York](https://events.linuxfoundation.org/open-source-finance-forum-new-york/) - New York, NY (USA)
 * 5: [Conf42 Platform Engineering 2026](https://www.conf42.com/platform2026) - Online <a href="https://www.papercall.io/conf42-platform-engineering-2026"><img alt="CFP Conf42 Platform Engineering 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-October-2026&color=green"></a>
 * 9-12: [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - Salt Lake City, UT (USA)
 * 19: [Conf42 MLOps 2026](https://www.conf42.com/mlops2026) - Online <a href="https://www.papercall.io/conf42-mlops-2026"><img alt="CFP Conf42 MLOps 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-October-2026&color=green"></a>
