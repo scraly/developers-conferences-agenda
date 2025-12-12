@@ -264,8 +264,10 @@ All the data (past and coming) are available publicly in JSON:
 ### April
 
 * 1-2: [CypherCon 9 (2026)](https://cyphercon.com) - Milwaukee, WI (USA) <a href="https://sessionize.com/cyphercon-9-2026/"><img alt="CFP CypherCon 9 (2026)" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2026&color=green"></a>
+* 2-3: [MCP Dev Summit](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - New York, NY (USA) <a href="https://events.linuxfoundation.org/mcp-dev-summit-north-america/program/cfp/#overview"><img alt="CFP MCP Dev Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-January-2026&color=green"></a>
 * 11-12: [Gen AI Summit 2026](https://genaisummit.eu/) - Valencia (Spain)
 * 13-15: [Spring I/O](https://2025.springio.net/) - Barcelona (Spain)
+* 13-16: [VulnCon 2026](https://www.first.org/conference/vulncon26/) - Scottsdale (USA) <a href="https://www.first.org/conference/vulncon26/cfs"><img alt="CFP VulnCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-December-2025&color=green"></a>
 * 13-17: [PyCon DE & PyData 2026](https://2026.pycon.de/) - Darmstadt (Germany)
 * 14-15: [Green IO Singapore](https://greenio.tech/conference/18/singapore-2026-april-green-it) - Singapore (Singapore) <a href="https://apidays.typeform.com/to/SMHd2wFE?=green-io-conference%3Dcall-for-speakers&typeform-source=greenio.tech"><img alt="CFP Green IO Singapore 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2026&color=green"></a>
 * 15-17: [ColorCloud Hamburg 2026](https://color.cloud) - Hamburg (Germany) <a href="https://sessionize.com/colorcloud-hamburg-2026"><img alt="CFP ColorCloud Hamburg 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-October-2025&color=red"></a>
@@ -279,6 +281,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20-24: [NDC Sydney 2026](https://ndcsydney.com) - Sydney (Australia) <a href="https://sessionize.com/ndc-sydney-2026"><img alt="CFP NDC Sydney 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-December-2025&color=red"></a>
 * 20-24: [DevOpsCon & MLCon 2026](https://devopscon.io/) - Amsterdam (Netherlands) <a href="https://sessionize.com/devopsconmlcon-2026"><img alt="CFP DevOpsCon & MLCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=red"></a>
 * 21-23: [Overture Member Summit](https://events.linuxfoundation.org/overture-member-summit/) - Florence (Italy)
+* 21-23: [Cyber Threat Intelligence Conference 2026](https://www.first.org/conference/firstcti26/) - Munich (Germany)
 * 22-24: [Devoxx France 2026](https://www.devoxx.fr) - Paris (France) <a href="https://www.devoxx.fr/wp-content/uploads/2025/10/devoxxfr-avwiayshr16t.pdf"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 22-24: [ElixirConf EU 2026](https://www.elixirconf.eu/) - Malaga (Spain) <a href="https://sessionize.com/elixirconf-eu-2026/"><img alt="CFP ElixirConf EU 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-January-2026&color=green"></a>
 * 22-24: [Google Cloud Next](https://www.googlecloudevents.com/next-vegas) - Las Vegas, NV (USA)
@@ -357,6 +360,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11-12: [x33fcon workshops 2026](https://www.x33fcon.com) -  Gdynia (Poland) <a href="https://www.papercall.io/x33fcon-workshops-2026"><img alt="CFP x33fcon workshops 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2026&color=green"></a>
 * 11-12: [DevLille 2026](https://devlille.fr/) - Lille (France) <a href="https://conference-hall.io/devlille-2026"><img alt="CFP DevLille 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 12-13: [Baltic Ruby 2026](https://balticruby.org) -  Hamburg (Germany) <a href="https://www.papercall.io/balticruby2026"><img alt="CFP Baltic Ruby 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2025&color=green"></a>
+* 14-19: [38th ANNUAL FIRST CONFERENCE](https://www.first.org/conference/2026/) - Denver, CO (USA)
 * 15-16: [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/) - Mumbai (India)
 * 15-16: [#mtpcon](https://www.mindtheproduct.com/mtpcon/london) - London (UK)
 * 16: [Hackmiami 2026](https://www.hackmiami.com/) - Sunny Isles Beach, FL (USA) <a href="https://www.hackmiami.com/#cfp"><img alt="CFP Hackmiami 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=green"></a>
