@@ -1560,3 +1560,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-03-21-KCD Beijing 2026,tech:python,topic:data,topic:open-source,language:english
 2026-06-11-DevLille 2026,tech:python,topic:data,topic:open-source,language:french
 2026-06-18-VoxxedDays Luxembourg,tech:java,topic:cloud,topic:devops,language:french
+2026-06-08-ETHConf,topic:blockchain,topic:ai,topic:security,topic:finance
