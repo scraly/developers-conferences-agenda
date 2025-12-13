@@ -1561,3 +1561,10 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-11-DevLille 2026,tech:python,topic:data,topic:open-source,language:french
 2026-06-18-VoxxedDays Luxembourg,tech:java,topic:cloud,topic:devops,language:french
 2026-06-08-ETHConf,topic:blockchain,topic:ai,topic:security,topic:finance
+2026-04-02-MCP Dev Summit,tech:cloud,topic:security,topic:open-source,language:english
+2026-04-13-VulnCon 2026,tech:cybersecurity,topic:vulnerability,topic:threat-intelligence,language:english
+2026-04-21-Cyber Threat Intelligence Conference 2026,tech:cybersecurity,topic:threat-intelligence,topic:information-security,language:english
+2026-06-06-Polycloud,tech:cloud,topic:open-source,language:french
+2026-06-14-38th ANNUAL FIRST CONFERENCE,tech:cybersecurity,topic:threat-intelligence,topic:conference,language:english
+2026-06-27-KCD Kuala Lumpur 2026,tech:cloud,topic:open-source,topic:kubernetes,language:english
+2026-11-04-Open Source in Finance Forum New York,tech:finance,topic:open-source,topic:technology,language:english
