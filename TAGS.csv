@@ -1569,3 +1569,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-27-KCD Kuala Lumpur 2026,tech:cloud,topic:open-source,topic:kubernetes,language:english
 2026-11-04-Open Source in Finance Forum New York,tech:finance,topic:open-source,topic:technology,language:english
 2026-05-13-KCD Toronto Canada 2026,tech:cloud-native,topic:open-source,topic:devops,language:english
+2026-04-02-Pragma Cannes 2026,topic:blockchain,topic:agents,topic:cryptography,topic:fintech,topic:security
+2026-07-23-Pragma Lisbon 2026,topic:blockchain,tech:security,topic:fintech,topic:cryptography
+2026-09-24-Pragma Tokyo 2026,topic:blockchain,topic:agents,tech:security,topic:privacy,topic:fintech,tech:decentralized-trust

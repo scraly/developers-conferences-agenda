@@ -229,7 +229,6 @@ All the data (past and coming) are available publicly in JSON:
 * 19-20: [Monkigras 2026](https://monkigras.com/) - London (UK) <a href="https://www.papercall.io/monkigras26"><img alt="CFP Monkigras 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=green"></a>
 * 20-21: [PyCascades 2026](https://2026.pycascades.com/) - Vancouver, BC (Canada)
 * 21: [KCD Beijing 2026](https://sessionize.com/kcd-beijing-2026/) - Beijing (China) <a href="https://sessionize.com/kcd-beijing-2026/"><img alt="CFP KCD Beijing 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-February-2026&color=green"></a>
-
 * 23: [Agentics Day: MCP + Agents Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/agentics-day-mcp-agents/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=red"></a>
 * 23: [ArgoCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/argocon/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=red"></a>
 * 23: [BackstageCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/backstagecon/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=red"></a>
@@ -265,6 +264,7 @@ All the data (past and coming) are available publicly in JSON:
 ### April
 
 * 1-2: [CypherCon 9 (2026)](https://cyphercon.com) - Milwaukee, WI (USA) <a href="https://sessionize.com/cyphercon-9-2026/"><img alt="CFP CypherCon 9 (2026)" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2026&color=green"></a>
+* 2: [Pragma Cannes 2026](https://ethglobal.com/events/pragma-cannes2026) - Cannes (France)
 * 2-3: [MCP Dev Summit](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - New York, NY (USA) <a href="https://events.linuxfoundation.org/mcp-dev-summit-north-america/program/cfp/#overview"><img alt="CFP MCP Dev Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-January-2026&color=green"></a>
 * 11-12: [Gen AI Summit 2026](https://genaisummit.eu/) - Valencia (Spain)
 * 13-15: [Spring I/O](https://2025.springio.net/) - Barcelona (Spain)
@@ -387,6 +387,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18: [KCD Lima 2026](https://community.cncf.io/kcd-lima-peru/) - Lima (Peru)
 * 19: [Open Source Days](https://events.linuxfoundation.org/open-source-days/) - Los Angeles, CA (USA) & Online
 * 21-22: [Ruby Conf Africa 2026](https://rubyconf.africa/) -  Nairobi (Kenya) <a href="https://www.papercall.io/ruby-conf-africa-2026"><img alt="CFP Ruby Conf Africa 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-March-2026&color=green"></a>
+* 23: [Pragma Lisbon 2026](https://ethglobal.com/events/pragma-lisbon2026) - Lisbon (Portugal)
 * 27-31: [Visual Studio Live! @ Microsoft HQ 2026](https://vslive.com/events/microsofthq-2026/home.aspx) - Redmond, WA (USA) <a href="https://sessionize.com/vslive_Microsoft26"><img alt="CFP Visual Studio Live! @ Microsoft HQ 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2025&color=red"></a>
 * 29-30: [KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) - Yokohama (Japan)
 
@@ -404,6 +405,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17-18: [API Platform Conference 2026](https://api-platform.com/fr/con/) - Lille (France)
 * 23-25: [WeAreDevelopers World Congress 2026 - North America](https://www.wearedevelopers.com/world-congress-us) - San Jose, CA (USA) <a href="https://sessionize.com/wearedevelopers-world-congress-2026-us"><img alt="CFP WeAreDevelopers World Congress 2026 Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 24: [Conf42 AI Agents 2026](https://www.conf42.com/agents2026) - Online <a href="https://www.papercall.io/conf42-ai-agents-2026"><img alt="CFP Conf42 AI Agents 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-August-2026&color=green"></a>
+* 24: [Pragma Tokyo 2026](https://ethglobal.com/events/pragma-tokyo2026) - Tokyo (Japan)
 * 29-30: [Cloud Native Days Austria](https://cloudnativedays.at/) - Vienna (Austria)
 * 30-1/10: [Automotive Grade Linux All Member Meeting Europe](https://events.linuxfoundation.org/agl-amm-europe/) - Berlin (Germany)
 
