@@ -1589,3 +1589,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-13-Tokyo Test Fest,tech:python,topic:data,topic:open-source,language:english
 2026-03-14-PyConf Hyderabad 2026,tech:python,topic:ai,topic:data-science,topic:developer,topic:devops
 2026-09-24-PlatformCon Live Day Paris 2026,tech:platform-engineering,language:french,language:english
+2026-05-31-CascadiaJS 2026,topic:ai,topic:javascript,tech:typescript,topic:web-development,topic:conference

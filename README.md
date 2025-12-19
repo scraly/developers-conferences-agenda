@@ -360,6 +360,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### June
 
+* 1-2: [CascadiaJS 2026](https://cascadiajs.com/2026) - Seattle, WA (USA) & Online <a href="https://cascadiajs.com/2026/cfp"><img alt="CFP CascadiaJS 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-January-2026&color=green"></a> <a href="https://cascadiajs.com/2026/sponsor"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 1-2: [Neos Conference 2026](https://www.neoscon.io/) -  Karlsruhe (Germany) <a href="https://www.papercall.io/neoscon26"><img alt="CFP Neos Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
 * 2: [XtremeAI 2026](https://xtremeai.dev) - Online <a href="https://forms.gle/UoGXzvoNi8C2vHkRA"><img alt="CFP XtremeAI 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-February-2026&color=green"></a>
 * 2-3: [Cyber Security for Critical Assets Canada](https://canada.cs4ca.com/) - Calgary (Canada) <a href="https://canada.cs4ca.com/submit-speaking-proposal/"><img alt="CFP Cyber Security for Critical Assets Canada" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2026&color=green"></a>
