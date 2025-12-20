@@ -1590,3 +1590,15 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-03-14-PyConf Hyderabad 2026,tech:python,topic:ai,topic:data-science,topic:developer,topic:devops
 2026-09-24-PlatformCon Live Day Paris 2026,tech:platform-engineering,language:french,language:english
 2026-05-31-CascadiaJS 2026,topic:ai,topic:javascript,tech:typescript,topic:web-development,topic:conference
+2026-02-07-PyTorch Day India,tech:python,topic:data,topic:open-source,language:english
+2026-02-08-Atlas Camp Amsterdam: Atlassian's Premier Dev Conference,tech:atlassian,topic:development,language:english
+2026-02-12-Strasbourg Craft #1,tech:software,topic:craftsmanship,language:french
+2026-02-23-Summit on Human Agency,tech:ai,topic:ethics,language:english
+2026-03-21-Cloud Native Rejekts EU 2026,tech:cloud,topic:devops,language:english
+2026-03-24-Cloud Native University - Cloud Native Theater @ Kubecon EU 2026,tech:cloud,topic:kubernetes,language:english
+2026-03-24-Istio Day - Cloud Native Theater @ Kubecon EU 2026,tech:cloud,topic:kubernetes,language:english
+2026-03-25-Data on Kubernetes - Cloud Native Theater @ Kubecon EU 2026,tech:cloud,topic:kubernetes,language:english
+2026-03-25-EnvoyCon - Cloud Native Theater @ Kubecon EU 2026,tech:cloud,topic:kubernetes,language:english
+2026-03-25-Kubevirt Summit - Cloud Native Theater @ Kubecon EU 2026,tech:cloud,topic:kubernetes,language:english
+2026-06-01-CascadiaJS 2026,tech:javascript,topic:web,language:english
+2026-09-08-RustConf,tech:rust,topic:programming,language:english
