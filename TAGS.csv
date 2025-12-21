@@ -1602,3 +1602,22 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-03-25-Kubevirt Summit - Cloud Native Theater @ Kubecon EU 2026,tech:cloud,topic:kubernetes,language:english
 2026-06-01-CascadiaJS 2026,tech:javascript,topic:web,language:english
 2026-09-08-RustConf,tech:rust,topic:programming,language:english
+2026-02-04-CityJS Singapore,tech:javascript,topic:web,location:singapore
+2026-02-12-CityJS New Delhi,tech:javascript,topic:web,location:delhi
+2026-03-11-Dutch AI Conference,tech:artificial-intelligence,topic:ai,location:amsterdam
+2026-03-12-Vuejs Amsterdam,tech:javascript,topic:frontend,location:amsterdam
+2026-03-17-inside agile: Organizing for Impact,tech:agile,topic:project-management,location:online
+2026-03-18-DAM Los Angeles,tech:marketing,topic:digital-marketing,location:los-angeles
+2026-04-09-AndroidMakers by droidcon,tech:android,topic:mobile,location:paris
+2026-04-15-NODES AI,tech:artificial-intelligence,topic:ai,location:online
+2026-05-05-Rise of AI Converence,tech:artificial-intelligence,topic:ai,location:berlin
+2026-05-12-betterCode() API,tech:api,topic:development,location:online
+2026-05-19-VueconfUS,tech:javascript,topic:frontend,location:atlanta
+2026-06-08-Webinale,tech:web,topic:development,location:berlin
+2026-06-10-betterCode() GenAI Summit,tech:artificial-intelligence,topic:genai,location:mannheim
+2026-06-15-IT Security Summit Berlin,tech:security,topic:cybersecurity,location:berlin
+2026-06-23-VibeKode,tech:java,topic:development,location:munich
+2026-06-25-DAM Europe,tech:marketing,topic:digital-marketing,location:london
+2026-10-01-Volcamp,tech:development,topic:software,location:clermont-ferrand
+2026-10-07-next.app devcon,tech:javascript,topic:web,location:berlin
+2026-10-07-swiftcon@next.app devcon,tech:swift,topic:mobile,location:berlin
