@@ -200,6 +200,7 @@ All the data (past and coming) are available publicly in JSON:
 ### March
 
 * 2-6: [Basta! Frankfurt](https://basta.net/frankfurt) - Frankfurt (Germany)
+* 3-4: [unprompted | The AI Security Practitioner Conference](https://unpromptedcon.org/) - San Francisco, CA (USA) <a href="https://sessionize.com/unprompted-the-ai-security-practitio/"><img alt="CFP unprompted The AI Security Practitioner Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-January-2026&color=green"></a>
 * 4-6: [Devnexus](https://devnexus.com/) - Atlanta, GA (USA) <a href="https://devnexus.com/posts/the-cfp-for-devnexus-2026-is-open"><img alt="CFP Devnexus" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2025&color=red"></a>
 * 5: [DevFest Bucharest 2026](https://gdg.community.dev/events/details/google-gdg-bucharest-presents-devfest-bucharest-2026/) - Bucharest (Romania) <a href="https://app.advocu.com/events/6925ec54a9230d4c5e675ac3"><img alt="CFP DevFest Bucharest" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-December-2025&color=red"></a>
 * 5-7: [Power BI Gebruikersdagen 2026](https://www.pbig.nl/) - Utrecht (Netherlands) <a href="https://sessionize.com/power-bi-gebruikersdag-2026/"><img alt="CFP Power BI Gebruikersdagen 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-October-2025&color=red"></a>
