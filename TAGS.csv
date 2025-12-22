@@ -1621,3 +1621,14 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-01-Volcamp,tech:development,topic:software,location:clermont-ferrand
 2026-10-07-next.app devcon,tech:javascript,topic:web,location:berlin
 2026-10-07-swiftcon@next.app devcon,tech:swift,topic:mobile,location:berlin
+2026-03-21-BSidesSF,tech:cybersecurity,topic:infosec,topic:security,language:english
+2026-04-16-L8Conf,tech:cybersecurity,topic:infosec,topic:security,language:english
+2026-04-20-TokioConf,tech:web-development,topic:javascript,topic:frontend,language:english
+2026-04-20-MLcon Amsterdam,tech:artificial-intelligence,topic:ml,topic:data-science,language:english
+2026-04-20-DevOpsCon Amsterdam,tech:devops,topic:cloud,topic:infrastructure,language:english
+2026-05-29-NG Baguette Conf 2026,tech:web-development,topic:angular,topic:frontend,language:french
+2026-06-01-European Power Platform Conference,tech:microsoft,topic:power-platform,topic:business-apps,language:english
+2026-06-17-VivaTech,tech:startup,topic:innovation,topic:tech,language:french
+2026-06-29-DWX,tech:software-development,topic:java,topic:web,language:german
+2026-07-15-Swift Rockies,tech:mobile-development,topic:swift,topic:ios,language:english
+2026-10-15-KotlinLeeds,tech:mobile-development,topic:kotlin,topic:android,language:english
