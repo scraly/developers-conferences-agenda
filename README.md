@@ -358,6 +358,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19-22: [CloudLand](https://www.cloudland.org/) - Soltau (Germany) <a href="https://www.cloudland.org/de/speaking/"><img alt="CFP CloudLand" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-November-2025&color=red"></a>
 * 20: [KCD Helsinki](https://kcdhelsinki.fi/) - Helsinki (Finland) <a href="https://sessionize.com/kcd-helsinki-2026"><img alt="CFP KCD Helsinki" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2026&color=green"></a> <a href="http://kcdhelsinki.fi/sponsor"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 20-22: [KotlinConf 2026](https://kotlinconf.com) - Munich (Germany) <a href="https://sessionize.com/kotlinconf-2026"><img alt="CFP KotlinConf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=red"></a>
+* 21: [Linux Security Summit North America](https://events.linuxfoundation.org/linux-security-summit-north-america/) - Minneapolis, MN (USA)
 * 21: [OpenSSF Community Day North America](https://events.linuxfoundation.org/openssf-community-day-north-america/) - Minneapolis, MN (USA)
 * 21: [Conf42 Golang 2026](https://www.conf42.com/golang2026) - Online <a href="https://www.papercall.io/conf42-golang-2026"><img alt="CFP Conf42 Golang 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-April-2026&color=green"></a>
 * 21-22: [DataGrillen 2026](https://datagrillen.com) - Lingen (Germany) <a href="https://sessionize.com/datagrillen-2026/"><img alt="CFP DataGrillen 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-December-2025&color=red"></a>
@@ -464,6 +465,7 @@ All the data (past and coming) are available publicly in JSON:
 ### October
 
 * 1-2: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France) <a href="https://conference-hall.io/volcamp-2026"><img alt="CFP Volcamp 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-May-2026&color=green"></a> <a href="https://www.volcamp.io/sponsors/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
+* 5: [Linux Plumbers Conference](https://lpc.events/event/20/) - Prague (Czech Republic) & Online
 * 5-9: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
 * 7-9: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) - Prague (Czech Republic)
 * 7-9: [Embedded Linux Conference Europe](https://events.linuxfoundation.org/embedded-linux-conference-europe/) - Prague (Czech Republic)
