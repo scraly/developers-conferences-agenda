@@ -318,6 +318,7 @@ All the data (past and coming) are available publicly in JSON:
 * 23-24: [SymfonyLive Berlin 2026](https://live.symfony.com/2026-berlin/) - Berlin (Germany)
 * 23-24: [Security BSides Prague 2026](https://www.bsidesprg.cz) - Prague (Czech Republic) <a href="https://www.papercall.io/bsidesprg2026"><img alt="CFP Security BSides Prague 2026, CZ" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-December-2025&color=green"></a>
 * 23-25: [Devoxx Greece](https://devoxx.gr/) - Athens (Greece) <a href="https://dvgr26.cfp.dev/"><img alt="CFP Devoxx Greece 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=red"></a>
+* 24-25: [Faiseuses du Web 5](https://faiseusesduweb.eu.org) - Dinan (France)
 * 24-26: [Great International Developer Summit 2026 (GIDS 2026)](https://developersummit.com/) - Bengaluru (India)
 * 25: [Securing AI in the Real World: Call for Practitioner Stories – AI Security Conference](https://www.modernsecurity.io) - Online <a href="https://www.papercall.io/ai-security-msec"><img alt="CFP Securing AI in the Real World: Call for Practitioner Stories – AI Security Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=green"></a>
 * 28-29: [stackconf 2026](https://stackconf.eu/) - Munich (Germany) <a href="https://stackconf.eu/propose/"><img alt="CFP stackconf" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=red"></a>
