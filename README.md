@@ -413,6 +413,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15-19: [IT Security Summit Berlin](https://it-security-summit.com/berlin) - Berlin (Germany)
 * 16: [Hackmiami 2026](https://www.hackmiami.com/) - Sunny Isles Beach, FL (USA) <a href="https://www.hackmiami.com/#cfp"><img alt="CFP Hackmiami 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=green"></a>
 * 16-17: [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/) - Mumbai (India)
+* 16-17: [DevBCN](https://www.devbcn.com/) - Barcelona (Spain) <a href="https://drive.google.com/file/d/1gl8rGHr5puw9-bbBV1I3LEm7N-GmrxHq/view?usp=sharing"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 16-17: [droidcon USA](https://usa.droidcon.com) - Orlando, FL (USA)
 * 17-19: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
 * 17-20: [VivaTech](https://vivatechnology.com) - Paris (France)
