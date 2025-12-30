@@ -1,5 +1,6 @@
-import React from 'react';
+import React, { useRef } from 'react';
 import 'styles/ListView.css';
+import 'styles/MonthNavigation.css';
 
 import {useYearEvents} from 'app.hooks';
 import { useFilters } from 'app.hooks';
@@ -63,12 +64,33 @@ const ListView = () => {
   });
 
   const [editEvent, setEditEvent] = React.useState(null);
+  const [activeMonth, setActiveMonth] = React.useState(null);
+  const monthRefs = useRef({});
+
+  const scrollToMonth = (month) => {
+    if (monthRefs.current[month]) {
+      monthRefs.current[month].scrollIntoView({ behavior: 'smooth' });
+      setActiveMonth(month);
+    }
+  };
 
   return (
-    <div className="listView">
+    <>
+      <div className="month-navigation">
+        {monthOrder.map(month => (
+          <button
+            key={`nav-${month}`}
+            className={`month-button ${activeMonth === month ? 'active' : ''}`}
+            onClick={() => scrollToMonth(month)}
+          >
+            {month}
+          </button>
+        ))}
+      </div>
+      <div className="listView">
       {monthOrder.map(month => (
         <React.Fragment key={month}>
-          <h1>{month}{filters.sort === 'cfp' ? ' CFP Deadlines' : ' Events'}:</h1>
+          <h1 ref={el => monthRefs.current[month] = el}>{month}{filters.sort === 'cfp' ? ' CFP Deadlines' : ' Events'}:</h1>
           {eventsByMonth[month].map((e, i) => {
             const eventId = `${e.name}-${e.date[0]}`;
             const isFav = isFavorite(eventId);
@@ -105,7 +127,8 @@ const ListView = () => {
       {editEvent && (
         <EditEventInlineForm event={editEvent} onClose={() => setEditEvent(null)} />
       )}
-    </div>
+      </div>
+    </>
   );
 };
 
