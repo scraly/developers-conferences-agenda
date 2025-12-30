@@ -497,6 +497,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 3: [Conf42: Chaos Engineering 2026](https://www.conf42.com/ce2026) - Online <a href="https://www.papercall.io/conf42-chaos-engineering-2026"><img alt="CFP Conf42: Chaos Engineering 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2026&color=green"></a>
 * 7-9: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan-2026/) - Tokyo (Japan)
+* 17-18: [AI for Developers](https://aiconference.dev/) - Online <a href="https://aiconference.dev/cfp"><img alt="CFP AI for Developers" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=green"></a>
 
 ## 2027
 

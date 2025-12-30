@@ -1645,3 +1645,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-01-NDC Copenhagen,tech:python,topic:data,topic:open-source,language:english
 2026-09-14-NDC Oslo,tech:python,topic:data,topic:open-source,language:english
 2026-09-21-NDC TechTown,tech:python,topic:data,topic:open-source,language:english
+2026-12-17-AI for Developers,topic:agents,topic:ai,topic:artificial-intelligence,topic:deep-learning,topic:developer-tools,topic:genai,topic:large-language-models,topic:llm,topic:machine-learning,topic:ml,topic:prompt-engineering,topic:software-architecture,topic:workshop
