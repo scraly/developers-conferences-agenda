@@ -851,6 +851,10 @@
     "latitude": 6.448270099999999,
     "longitude": 7.5138947
   },
+  "Espoo (Finland)": {
+    "latitude": 60.2049651,
+    "longitude": 24.6559808
+  },
   "Essaouira (Morocco)": {
     "latitude": 31.5118281,
     "longitude": -9.7620903
@@ -1870,6 +1874,10 @@
   "New York, NY (USA)": {
     "latitude": 40.7127281,
     "longitude": -74.0060152
+  },
+  "Newcastle (Australia)": {
+    "latitude": -32.9192953,
+    "longitude": 151.7795348
   },
   "Newcastle upon Tyne (UK)": {
     "latitude": 54.978252,
