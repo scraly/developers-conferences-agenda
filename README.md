@@ -42,6 +42,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-17: [SnowCamp 2026](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/snowcamp-2026"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2025&color=red"></a>
 * 15: [Data Left Unattended - Amsterdam](http://unattended-data.io/) - Amsterdam (Netherlands) <a href="https://sessionize.com/data-left-unattended-amsterdam/"><img alt="CFP Data Left Unattended - Amsterdam" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-September-2025&color=red"></a>
 * 16-17: [IdentityShield Summit](https://identityshield.miniorange.com) - Pune (India) <a href="https://identityshield.miniorange.com/call-for-speakers"><img alt="CFP IdentityShield Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-November-2025&color=red"></a>
+* 21: [ERS Davos 2026 - Thriving in Disruption](https://www.europeanresiliencesummit.com/davos/) - Davos (Switzerland) <a href="https://sessionize.com/ers-davos-2026-thriving-in-disruption/"><img alt="CFP ERS Davos 2026 - Thriving in Disruption" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-January-2026&color=green"></a>
 * 22: [DevCon #26 : sécurité / post-quantique / hacking](https://www.programmez.com/page-devcons) - Paris (France) <a href="https://docs.google.com/forms/d/e/1FAIpQLScAkKRuLpmUYUyxBP7uVCpWLxShOUxvDD7rKbAiz_4njAyMRQ/viewform?usp=header"><img alt="CFP DevCon #26 : sécurité / post-quantique / hacking" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2025&color=red"></a>
 * 22: [Conf42 DevOps 2026](https://www.conf42.com/devops2026) -  Online <a href="https://www.papercall.io/conf42-devops-2026"><img alt="CFP Conf42 DevOps 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-December-2025&color=red"></a>
 * 22-23: [SymfonyOnline January 2026](https://live.symfony.com/2026-paris/) - Online
@@ -454,6 +455,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-9: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan-2026/) - Tokyo (Japan)
 * 9-10: [droidcon London](https://london.droidcon.com) - London (UK)
 * 17-18: [AI for Developers](https://aiconference.dev/) - Online <a href="https://aiconference.dev/cfp"><img alt="CFP AI for Developers" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=green"></a>
+* 31: [OPENSEARCH MILAN USERGROUP MEETUP (2026)](https://www.meetup.com/opensearch-project-milan/) - Milan (Italy) <a href="https://sessionize.com/opensearch-milan-usergroup-meetup-from/"><img alt="CFP OPENSEARCH MILAN USERGROUP MEETUP (2026)" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-December-2026&color=green"></a>
 
 ## 2027
 
