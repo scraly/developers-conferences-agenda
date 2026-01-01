@@ -431,6 +431,7 @@ All the data (past and coming) are available publicly in JSON:
 ### August
 
 * 2: [4th Tech Summit on Artificial Intelligence & Robotics](https://artificialintelligence.averconferences.com) - Paris (France)
+* 15: [Devopsdays Rio de Janeiro](https://devopsdays.org/events/2026-rio-de-janeiro) - Rio de Janeiro (Brazil)
 
 ### September
 
