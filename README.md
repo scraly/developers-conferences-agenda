@@ -220,7 +220,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-10: [AndroidMakers by droidcon](https://droidcon.wixsite.com/website-28) - Paris (France)
 * 11-12: [Gen AI Summit 2026](https://genaisummit.eu/) - Valencia (Spain)
 * 13: [ConveyUX](https://conveyux.com) - Seattle, WA (USA)
-* 13-15: [Spring I/O](https://2026.springio.net) - Barcelona (Spain) <a href="https://sessionize.com/springio26"><img alt="CFP Spring I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-January-2026&color=green"></a>
+* 13-15: [Spring I/O 2026](https://2026.springio.net) - Barcelona (Spain) <a href="https://sessionize.com/springio26/"><img alt="CFP Spring I/O 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-January-2026&color=green"></a>
 * 13-16: [VulnCon 2026](https://www.first.org/conference/vulncon26/) - Scottsdale (USA) <a href="https://www.first.org/conference/vulncon26/cfs"><img alt="CFP VulnCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-December-2025&color=red"></a>
 * 13-17: [PyCon DE & PyData 2026](https://2026.pycon.de/) - Darmstadt (Germany)
 * 14-15: [Green IO Singapore](https://greenio.tech/conference/18/singapore-2026-april-green-it) - Singapore (Singapore) <a href="https://apidays.typeform.com/to/SMHd2wFE?=green-io-conference%3Dcall-for-speakers&typeform-source=greenio.tech"><img alt="CFP Green IO Singapore 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2026&color=green"></a>
