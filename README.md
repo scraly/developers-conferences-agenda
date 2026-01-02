@@ -384,6 +384,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11-12: [DevLille 2026](https://devlille.fr/) - Lille (France) <a href="https://conference-hall.io/devlille-2026"><img alt="CFP DevLille 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 11-16: [JSNation](https://jsnation.com) - Amsterdam (Netherlands) <a href="https://gitnation.com/events/jsnation-2026/cfp"><img alt="CFP JSNation" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2026&color=green"></a>
 * 12-13: [Baltic Ruby 2026](https://balticruby.org) -  Hamburg (Germany) <a href="https://www.papercall.io/balticruby2026"><img alt="CFP Baltic Ruby 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2025&color=red"></a>
+* 12-16: [React Summit](https://reactsummit.com) - Amsterdam (Netherlands) <a href="https://gitnation.com/events/react-summit-2026/cfp"><img alt="CFP React Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2026&color=green"></a>
 * 14-19: [38th ANNUAL FIRST CONFERENCE](https://www.first.org/conference/2026/) - Denver, CO (USA)
 * 15-16: [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/) - Mumbai (India)
 * 15-16: [#mtpcon](https://www.mindtheproduct.com/mtpcon/london) - London (UK)
@@ -470,6 +471,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-17: [EuroRust](https://eurorust.eu) - Barcelona (Spain)
 * 15: [Conf42 DevSecOps 2026](https://www.conf42.com/devsecops2026) - Online <a href="https://www.papercall.io/conf42-devsecops-2026"><img alt="CFP Conf42 DevSecOps 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2026&color=green"></a>
 * 15-16: [KotlinLeeds](https://kotlinleeds.com) - Leeds (UK)
+* 19-20: [Global Summit on Data Science and Cloud Computing](https://datascience.novelticsconferences.com) - Rome (Italy) <a href="https://datascience.novelticsconferences.com/register"><img alt="CFP Global Summit on Data Science and Cloud Computing" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2026&color=green"></a>
 * 20-21: [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/) - San Jose, CA (USA)
 * 29: [Conf42 Prompt Engineering 2026](https://www.conf42.com/prompt2026) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2026"><img alt="CFP Conf42 Prompt Engineering 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-September-2026&color=green"></a>
 
@@ -481,6 +483,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-12: [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - Salt Lake City, UT (USA)
 * 13-14: [Tokyo Test Fest](https://tokyotestfest.com/en/) - Tokyo (Japan)
 * 19: [Conf42 MLOps 2026](https://www.conf42.com/mlops2026) - Online <a href="https://www.papercall.io/conf42-mlops-2026"><img alt="CFP Conf42 MLOps 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-October-2026&color=green"></a>
+* 30-02/12: [APIConf](https://apiconf.io) - Clearwater, FL (USA)
 
 ### December
 
