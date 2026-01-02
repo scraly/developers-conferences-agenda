@@ -263,9 +263,9 @@ All the data (past and coming) are available publicly in JSON:
 * 13: [ConveyUX](https://conveyux.com) - Seattle, WA (USA)
 * 13-15: [Spring I/O 2026](https://2026.springio.net) - Barcelona (Spain) <a href="https://sessionize.com/springio26/"><img alt="CFP Spring I/O 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-January-2026&color=green"></a>
 * 13-16: [VulnCon 2026](https://www.first.org/conference/vulncon26/) - Scottsdale (USA) <a href="https://www.first.org/conference/vulncon26/cfs"><img alt="CFP VulnCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-December-2025&color=red"></a>
-* 13-17: [STL TechWeek 2026](https://techstl.com/techweek) - St. Louis (USA)
+* 13-17: [STL TechWeek 2026](https://techstl.com/techweek) - St. Louis, MO (USA)
 * 13-17: [PyCon DE & PyData 2026](https://2026.pycon.de/) - Darmstadt (Germany)
-* 13-18: [SO-CON 2026](https://specterops.io/so-con) - Arlington (USA)
+* 13-18: [SO-CON 2026](https://specterops.io/so-con) - Arlington, VA (USA)
 * 14-15: [Green IO Singapore](https://greenio.tech/conference/18/singapore-2026-april-green-it) - Singapore (Singapore) <a href="https://apidays.typeform.com/to/SMHd2wFE?=green-io-conference%3Dcall-for-speakers&typeform-source=greenio.tech"><img alt="CFP Green IO Singapore 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2026&color=green"></a>
 * 14-16: [DevOpsDays Tokyo 2026](https://devopsdays.org/events/2026-tokyo) -  Tokyo (Japan) <a href="https://www.papercall.io/devopsdays-tokyo-2026"><img alt="CFP DevOpsDays Tokyo 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2026&color=green"></a>
 * 14-15: [SREday San Francisco 2026 Q2](https://sreday.com/2026-san-francisco-q2/) - San Francisco, CA (USA) <a href="https://www.papercall.io/sreday-2026-san-francisco-q2"><img alt="CFP SREday San Francisco 2026 Q2" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-March-2026&color=green"></a>
@@ -293,8 +293,8 @@ All the data (past and coming) are available publicly in JSON:
 * 21-23: [Open Community Experience (OCX)](https://www.ocxconf.org) - Brussels (Belgium) <a href="https://www.ocxconf.org/event/403bffe2-15d8-49ac-af52-e2781b7296b3/call-for-proposals"><img alt="CFP Open Community Experience (OCX)" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-November-2025&color=red"></a>
 * 21-23: [Overture Member Summit](https://events.linuxfoundation.org/overture-member-summit/) - Florence (Italy)
 * 21-23: [Cyber Threat Intelligence Conference 2026](https://www.first.org/conference/firstcti26/) - Munich (Germany)
-* 21-23: [Postgres Conference: 2026](https://postgresconf.org/conferences/postgresconf_2026) - San Jose (USA)
-* 21-23: [Great Place To Work For All Summit 2026](https://forallsummit.com) - Las Vegas (USA)
+* 21-23: [Postgres Conference: 2026](https://postgresconf.org/conferences/postgresconf_2026) - San Jose, CA (USA)
+* 21-23: [Great Place To Work For All Summit 2026](https://forallsummit.com) - Las Vegas, NV (USA)
 * 22: [AgentCon London](https://globalai.community/chapters/london/events/agentcon-london/) - London (UK) <a href="https://sessionize.com/agentcon-london/"><img alt="CFP AgentCon London" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2026&color=green"></a>
 * 22-23: [Minds Mastering Machines - M3](https://www.m3-konferenz.de) - Karlsruhe (Germany) <a href="https://www.m3-konferenz.de/cfp.php"><img alt="CFP Minds Mastering Machines - M3" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-November-2025&color=red"></a>
 * 22-24: [Devoxx France 2026](https://www.devoxx.fr) - Paris (France) <a href="https://www.devoxx.fr/wp-content/uploads/2025/10/devoxxfr-avwiayshr16t.pdf"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
