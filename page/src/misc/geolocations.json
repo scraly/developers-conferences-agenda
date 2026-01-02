@@ -2203,6 +2203,10 @@
     "latitude": -25.7459277,
     "longitude": 28.1879101
   },
+  "Princeton (USA)": {
+    "latitude": 40.3496953,
+    "longitude": -74.6597376
+  },
   "Prizren (Kosovo)": {
     "latitude": 42.2130151,
     "longitude": 20.7363339
@@ -2270,6 +2274,10 @@
   "Redmond, WA (USA)": {
     "latitude": 47.6694141,
     "longitude": -122.1238767
+  },
+  "Redwood City, CA (USA)": {
+    "latitude": 37.4863239,
+    "longitude": -122.232523
   },
   "Redwood Shores, CA (USA)": {
     "latitude": 37.5364134,
