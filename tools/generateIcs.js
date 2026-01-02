@@ -35,11 +35,18 @@ for (const event of allEvents) {
     vevent.addProp('LOCATION', event.location || 'unspecified');
     vevent.addProp('SUMMARY', event.name);
     vevent.addProp('URL', event.hyperlink || 'unspecified');
+    
+    // Add CFP information if available
+    if (event.cfp && event.cfp.link) {
+        let description = `CFP Deadline: ${event.cfp.until || 'TBD'}\nCFP Link: ${event.cfp.link}`;
+        vevent.addProp('DESCRIPTION', description);
+    }
+    
     cals[eventYear].addComponent(vevent);
 }
 
 Object.keys(cals).forEach(year => fs.writeFileSync(
-    `../page/src/misc/developer-conference-${year}.ics`,
+    `../page/public/developer-conference-${year}.ics`,
     cals[year].toString()
 ));
 

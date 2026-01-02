@@ -26,14 +26,31 @@ for (const event of allEvents) {
         vevent.addProp('DTSTAMP', new Date());
         vevent.addProp('DTSTART', formatDate(cfpClosingDate));
         vevent.addProp('LOCATION', event.conf.location || 'unspecified');
-        vevent.addProp('SUMMARY', event.conf.name);
+        
+        // Add CFP link to event name if available
+        let summary = event.conf.name;
+        if (event.link) {
+            summary += ` - CFP: ${event.link}`;
+        }
+        vevent.addProp('SUMMARY', summary);
+        
+        // Add CFP link as URL property
         vevent.addProp('URL', event.link || event.conf.hyperlink || 'unspecified');
+        
+        // Add description with CFP deadline and link
+        let description = `CFP Deadline: ${event.until || 'TBD'}`;
+        if (event.link) {
+            description += `\nCFP Link: ${event.link}`;
+        }
+        description += `\nEvent: ${event.conf.hyperlink || 'No link'}`;
+        vevent.addProp('DESCRIPTION', description);
+        
         cfpCal.addComponent(vevent);
     }
 }
 
 // Write the opened cfps calendar file
 fs.writeFileSync(
-    `../page/src/misc/developer-conference-opened-cfps.ics`,
+    `../page/public/developer-conference-opened-cfps.ics`,
     cfpCal.toString()
 );
