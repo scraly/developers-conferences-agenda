@@ -487,6 +487,10 @@
     "latitude": 44.4761601,
     "longitude": -73.212906
   },
+  "Butwal (Nepal)": {
+    "latitude": 27.7003986,
+    "longitude": 83.4657667
+  },
   "Bydgoszcz (Poland)": {
     "latitude": 53.12974625,
     "longitude": 18.029369658534854
@@ -1202,6 +1206,10 @@
   "Ikorodu (Nigeria)": {
     "latitude": 6.6191233,
     "longitude": 3.5041271
+  },
+  "Ilanz (Switzerland)": {
+    "latitude": 46.775575,
+    "longitude": 9.2054956
   },
   "Illinois (USA)": {
     "latitude": 40.0796606,
@@ -2294,6 +2302,10 @@
   "Rio de Janeiro (Brazil)": {
     "latitude": -22.9068467,
     "longitude": -43.1728965
+  },
+  "Riyadh (Saudi Arabia)": {
+    "latitude": 23.333333,
+    "longitude": 45.333333
   },
   "Romania": {
     "latitude": 45.9852129,
