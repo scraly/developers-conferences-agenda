@@ -715,6 +715,10 @@
     "latitude": -31.42008329999999,
     "longitude": -64.1887761
   },
+  "Da Nang (Vietnam)": {
+    "latitude": 16.068,
+    "longitude": 108.212
+  },
   "Dakar (Senegal)": {
     "latitude": 14.693425,
     "longitude": -17.447938
@@ -1106,6 +1110,10 @@
   "Hannover (Germany)": {
     "latitude": 52.3744779,
     "longitude": 9.7385532
+  },
+  "Hanoi (Vietnam)": {
+    "latitude": 21.0283334,
+    "longitude": 105.854041
   },
   "Harare (Zimbabwe)": {
     "latitude": -17.8567035,
@@ -1551,7 +1559,7 @@
     "latitude": 51.5073359,
     "longitude": -0.12765
   },
-  "Lone Tree, Colorado (USA)": {
+  "Lone Tree, CO (USA)": {
     "latitude": 39.5364152,
     "longitude": -104.9041528
   },
@@ -2010,6 +2018,10 @@
   "Ouddorp (Netherlands)": {
     "latitude": 51.8090723,
     "longitude": 3.9352037
+  },
+  "Oulianovsk (Russia)": {
+    "latitude": 54.3150278,
+    "longitude": 48.403373
   },
   "Oulu (Finland)": {
     "latitude": 65.0118734,
