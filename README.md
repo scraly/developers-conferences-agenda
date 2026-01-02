@@ -488,7 +488,6 @@ All the data (past and coming) are available publicly in JSON:
 * 7-9: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan-2026/) - Tokyo (Japan)
 * 9-10: [droidcon London](https://london.droidcon.com) - London (UK)
 * 17-18: [AI for Developers](https://aiconference.dev/) - Online <a href="https://aiconference.dev/cfp"><img alt="CFP AI for Developers" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=green"></a>
-* 31: [OPENSEARCH MILAN USERGROUP MEETUP (2026)](https://www.meetup.com/opensearch-project-milan/) - Milan (Italy) <a href="https://sessionize.com/opensearch-milan-usergroup-meetup-from/"><img alt="CFP OPENSEARCH MILAN USERGROUP MEETUP (2026)" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-December-2026&color=green"></a>
 
 ## 2027
 
