@@ -38,7 +38,9 @@ for (const event of allEvents) {
     
     // Add CFP information if available
     if (event.cfp && event.cfp.link) {
-        let description = `CFP Deadline: ${event.cfp.until || 'TBD'}\nCFP Link: ${event.cfp.link}`;
+        let description =
+          `CFP Opened Until: ${event.cfp.until || 'TBD'}\\n` +
+          `CFP Link: ${event.cfp.link}`;
         vevent.addProp('DESCRIPTION', description);
     }
     
