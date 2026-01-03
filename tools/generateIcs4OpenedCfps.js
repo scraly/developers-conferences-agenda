@@ -51,6 +51,6 @@ for (const event of allEvents) {
 
 // Write the opened cfps calendar file
 fs.writeFileSync(
-    `../page/public/developer-conference-opened-cfps.ics`,
+    `../page/src/misc/developer-conference-opened-cfps.ics`,
     cfpCal.toString()
 );
