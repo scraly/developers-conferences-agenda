@@ -26,7 +26,7 @@ for (const event of allEvents) {
         vevent.addProp('DTSTAMP', new Date());
         vevent.addProp('DTSTART', formatDate(cfpClosingDate));
         vevent.addProp('LOCATION', event.conf.location || 'unspecified');
-        
+        vevent.addProp('SUMMARY', event.conf.name);
         // Add CFP link to event name if available
         let summary = event.conf.name;
         if (event.link) {
