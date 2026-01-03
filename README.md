@@ -604,6 +604,10 @@ All the data (past and coming) are available publicly in JSON:
 
 ## 2027
 
+### February
+
+* 9-10: [State of Open Conference 27 - SOOCON 27](https://stateofopencon.com/) - London (UK)
+
 ### March
 
 * 15-18: [KubeCon + CloudNativeCon Europe 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/) - Barcelona (Spain)
