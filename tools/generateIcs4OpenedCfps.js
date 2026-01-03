@@ -32,7 +32,7 @@ for (const event of allEvents) {
         vevent.addProp('URL', event.link || event.conf.hyperlink || 'unspecified');
         
         // Add description with CFP deadline and link
-        let description = `CFP Deadline: ${event.until || 'TBD'}`;
+        let description = `CFP Opened Until: ${event.until || 'TBD'}`;
         if (event.link) {
             description += `\nCFP Link: ${event.link}`;
         }
