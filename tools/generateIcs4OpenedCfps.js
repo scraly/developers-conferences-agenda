@@ -27,7 +27,18 @@ for (const event of allEvents) {
         vevent.addProp('DTSTART', formatDate(cfpClosingDate));
         vevent.addProp('LOCATION', event.conf.location || 'unspecified');
         vevent.addProp('SUMMARY', event.conf.name);
+        
+        // Add CFP link as URL property
         vevent.addProp('URL', event.link || event.conf.hyperlink || 'unspecified');
+        
+        // Add description with CFP deadline and link
+        let description = `CFP Opened Until: ${event.until || 'TBD'}`;
+        if (event.link) {
+            description += `\\nCFP Link: ${event.link}`;
+        }
+        description += `\\nEvent: ${event.conf.hyperlink || 'No link'}`;
+        vevent.addProp('DESCRIPTION', description);
+        
         cfpCal.addComponent(vevent);
     }
 }

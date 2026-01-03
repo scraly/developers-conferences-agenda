@@ -35,6 +35,15 @@ for (const event of allEvents) {
     vevent.addProp('LOCATION', event.location || 'unspecified');
     vevent.addProp('SUMMARY', event.name);
     vevent.addProp('URL', event.hyperlink || 'unspecified');
+    
+    // Add CFP information if available
+    if (event.cfp && event.cfp.link) {
+        let description =
+          `CFP Opened Until: ${event.cfp.until || 'TBD'}\\n` +
+          `CFP Link: ${event.cfp.link}`;
+        vevent.addProp('DESCRIPTION', description);
+    }
+    
     cals[eventYear].addComponent(vevent);
 }
 
