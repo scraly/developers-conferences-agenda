@@ -2683,6 +2683,10 @@
     "latitude": 28.2935785,
     "longitude": -16.621447121144122
   },
+  "Tennessee (USA)": {
+    "latitude": 35.7730076,
+    "longitude": -86.2820081
+  },
   "The Hague Marriott Hotel (Netherlands)": {
     "latitude": 52.0898995,
     "longitude": 4.282433973327428
@@ -2702,10 +2706,6 @@
   "Toluca (Mexico)": {
     "latitude": 19.2826098,
     "longitude": -99.6556653
-  },
-  "Torino (Italy)": {
-    "latitude": 45.0677551,
-    "longitude": 7.6824892
   },
   "Toronto (Canada)": {
     "latitude": 43.6534817,
@@ -2746,6 +2746,10 @@
   "Tunja (Colombia)": {
     "latitude": 5.5446422,
     "longitude": -73.3575572
+  },
+  "Turin (Italy)": {
+    "latitude": 45.0677551,
+    "longitude": 7.6824892
   },
   "USA": {
     "latitude": 50.362174,
