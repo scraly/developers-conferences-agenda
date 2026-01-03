@@ -30,7 +30,6 @@ for (const event of allEvents) {
         let summary = event.conf.name;
         if (event.link) {
             summary += ` - CFP: ${event.link}`;
-        }
         vevent.addProp('SUMMARY', summary);
         
         // Add CFP link as URL property
