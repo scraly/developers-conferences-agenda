@@ -34,7 +34,7 @@ for (const event of allEvents) {
         // Add description with CFP deadline and link
         let description = `CFP Opened Until: ${event.until || 'TBD'}`;
         if (event.link) {
-            description += `\nCFP Link: ${event.link}`;
+            description += `\\nCFP Link: ${event.link}`;
         }
         description += `\nEvent: ${event.conf.hyperlink || 'No link'}`;
         vevent.addProp('DESCRIPTION', description);
