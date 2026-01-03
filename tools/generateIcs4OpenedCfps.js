@@ -36,7 +36,7 @@ for (const event of allEvents) {
         if (event.link) {
             description += `\\nCFP Link: ${event.link}`;
         }
-        description += `\nEvent: ${event.conf.hyperlink || 'No link'}`;
+        description += `\\nEvent: ${event.conf.hyperlink || 'No link'}`;
         vevent.addProp('DESCRIPTION', description);
         
         cfpCal.addComponent(vevent);
