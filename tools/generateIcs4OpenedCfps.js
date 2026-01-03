@@ -27,7 +27,6 @@ for (const event of allEvents) {
         vevent.addProp('DTSTART', formatDate(cfpClosingDate));
         vevent.addProp('LOCATION', event.conf.location || 'unspecified');
         vevent.addProp('SUMMARY', event.conf.name);
-        vevent.addProp('SUMMARY', summary);
         
         // Add CFP link as URL property
         vevent.addProp('URL', event.link || event.conf.hyperlink || 'unspecified');
