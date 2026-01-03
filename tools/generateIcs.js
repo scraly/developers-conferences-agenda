@@ -46,7 +46,7 @@ for (const event of allEvents) {
 }
 
 Object.keys(cals).forEach(year => fs.writeFileSync(
-    `../page/public/developer-conference-${year}.ics`,
+    `../page/src/misc/developer-conference-${year}.ics`,
     cals[year].toString()
 ));
 
