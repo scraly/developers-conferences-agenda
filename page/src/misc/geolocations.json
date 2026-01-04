@@ -603,6 +603,10 @@
     "latitude": 13.0836939,
     "longitude": 80.270186
   },
+  "Cherkasy (Ukraine)": {
+    "latitude": 49.1460165,
+    "longitude": 31.2271744
+  },
   "Chicago, IL (USA)": {
     "latitude": 41.8755616,
     "longitude": -87.6244212
@@ -1399,6 +1403,10 @@
     "latitude": 49.6697542,
     "longitude": 5.949443
   },
+  "Kolhapur (India)": {
+    "latitude": 16.7028412,
+    "longitude": 74.2405329
+  },
   "Kolkata (India)": {
     "latitude": 22.5726459,
     "longitude": 88.3638953
@@ -1494,6 +1502,10 @@
   "Leipzig (Germany)": {
     "latitude": 51.3406321,
     "longitude": 12.3747329
+  },
+  "Liberia (Costa Rica)": {
+    "latitude": 10.62967,
+    "longitude": -85.4382519
   },
   "Lihue, HI (USA)": {
     "latitude": 21.9742235,
@@ -2003,6 +2015,10 @@
     "latitude": 47.9027336,
     "longitude": 1.9086066
   },
+  "Osaka (Japan)": {
+    "latitude": 34.6937569,
+    "longitude": 135.5014539
+  },
   "Oslo (Norway)": {
     "latitude": 59.9133301,
     "longitude": 10.7389701
@@ -2319,6 +2335,10 @@
     "latitude": 56.9493977,
     "longitude": 24.1051846
   },
+  "Rijswijk (Netherlands)": {
+    "latitude": 52.0373934,
+    "longitude": 4.3225028
+  },
   "Rio de Janeiro (Brazil)": {
     "latitude": -22.9068467,
     "longitude": -43.1728965
@@ -2374,6 +2394,10 @@
   "Saint-André (La Réunion)": {
     "latitude": -20.9606333,
     "longitude": 55.6492731
+  },
+  "Salford (UK)": {
+    "latitude": 53.4877463,
+    "longitude": -2.2891921
   },
   "Salt Lake City, UT (USA)": {
     "latitude": 40.7596198,
