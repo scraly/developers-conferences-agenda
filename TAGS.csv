@@ -1879,7 +1879,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-02-28-DrupalCamp England,tech:drupal,topic:web-development,location:salford
 2026-03-06-WordCamp Nice 2026,tech:wordpress,topic:web-development,language:french
 2026-03-23-CloudFest,tech:cloud-computing,topic:devops,location:rust
-2026-03-23-CloudFest,tech:cloud-computing,topic:devops,location:rust
 2026-04-10-WordCamp Vienna 2026,tech:wordpress,topic:web-development,language:german
 2026-04-15-Mashup 2026,tech:web-development,topic:innovation,location:malmo
 2026-05-05-PGConf.BE 2026,tech:postgresql,topic:databases,location:leuven
