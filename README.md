@@ -366,6 +366,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5-6: [iOSKonf26](https://www.ioskonf.com) - Skopje (Macedonia) <a href="https://www.papercall.io/ioskonf26"><img alt="CFP iOSKonf26" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=green"></a>
 * 5-6: [Rise of AI Converence](https://riseof.ai/conference-2026) - Berlin (Germany)
 * 5-6: [Devopsdays Austin](https://devopsdays.org/events/2026-austin) - Austin, TX (USA) <a href="https://talks.devopsdays.org/devopsdays-austin-2026/cfp"><img alt="CFP Devopsdays Austin 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-February-2026&color=green"></a>
+* 5-6: [MenderCon 2026](https://mendercon.com/) - Online <a href="https://www.papercall.io/mendercon-2026"><img alt="CFP MenderCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-March-2026&color=green"></a>
 * 5-7: [GISEC GLOBAL](https://gisec.ae) - Dubai (United Arab Emirates)
 * 5-8: [NDC Toronto](https://ndctoronto.com) - Toronto (Canada) <a href="https://sessionize.com/ndc-toronto-2026/"><img alt="CFP NDC Toronto 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2025&color=red"></a>
 * 6-7: [Devoxx UK 2026](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk26.cfp.dev/"><img alt="CFP Devoxx UK 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-January-2026&color=green"></a> <a href="https://www.devoxx.co.uk/sponsorships/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
@@ -442,6 +443,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-28: [CTO Craft Con: Toronto 2026](https://conference.ctocraft.com/toronto-2025) - Toronto (Canada)
 * 27-29: [UXDX EMEA 2026](https://uxdx.com/berlin/2026) - Berlin (Germany)
 * 27-29: [JCON Slovenia 2026](https://slovenia.jcon.one/) - Portorož (Slovenia) <a href="https://sessionize.com/makeit-2026-jcon-slovenia/"><img alt="CFP JCON Slovenia 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
+* 27-29: [Devopsdays Sibiu](https://devopsdays.org/events/2026-sibiu) - Sibiu (Romania)
 * 27-30: [PyCon Italia 2026](https://2026.pycon.it) - Bologna (Italy)
 * 28: [AI Power Agents 2026](https://aipoweragentsconf.com) - Herzliya (Israel) <a href="https://sessionize.com/ai-power-agents-2026/"><img alt="CFP AI Power Agents 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 28: [LLMday London 2026 Q2](https://llmday.com/2026-london-q2/) -  London (UK) <a href="https://www.papercall.io/llmday-2026-london-q2"><img alt="CFP LLMday London 2026 Q2" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-April-2026&color=green"></a>
@@ -502,7 +504,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-19: [38th ANNUAL FIRST CONFERENCE](https://www.first.org/conference/2026/) - Denver, CO (USA)
 * 15-16: [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/) - Mumbai (India)
 * 15-16: [#mtpcon](https://www.mindtheproduct.com/mtpcon/london) - London (UK)
-* 15-17: [Unhacked 360 International Cybersecurity Conference](https://momentera.org/conferences/unhacked360conference) - Tbilisi (Georgia) <a href="https://momentera.org"><img alt="CFP Unhacked 360 International Cybersecurity Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-June-2026&color=green"></a>
+* 15-17: [Unhacked 360 International Cybersecurity Conference](https://momentera.org/conferences/unhacked360conference) - Atlanta, GA (USA) <a href="https://momentera.org"><img alt="CFP Unhacked 360 International Cybersecurity Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-June-2026&color=green"></a>
 * 15-18: [EuroSTAR Conference](https://conference.eurostarsoftwaretesting.com) - Oslo (Norway) <a href="https://conference.eurostarsoftwaretesting.com/call-for-submissions"><img alt="CFP EuroSTAR Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-October-2025&color=red"></a>
 * 15-19: [IT Security Summit Berlin](https://it-security-summit.com/berlin) - Berlin (Germany)
 * 15-19: [Microsoft TechCon 365 Chicago 2026](https://www.techcon365.com/Chicago) - Chicago, IL (USA)
