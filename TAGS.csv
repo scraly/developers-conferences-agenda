@@ -1853,3 +1853,37 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-01-WAX 2026,tech:web-development,topic:conference,language:french
 2026-11-20-Swiftsonic '26,tech:swift,topic:conference,language:english
 2027-02-09-State of Open Conference 27 - SOOCON 27,tech:open-source,topic:conference,language:english
+2026-01-06-CES,tech:electronics,topic:consumer-tech,location:las-vegas
+2026-01-15-.NET Conf 2025 Catania,tech:.net,topic:software-development,language:italian
+2026-01-21-AI Salon,tech:artificial-intelligence,topic:innovation,location:rijswijk
+2026-01-21-Bett UK,tech:education,topic:technology,location:london
+2026-01-23-WordCamp Zaragoza 2026,tech:wordpress,topic:web-development,language:spanish
+2026-01-24-Architecture Crash Conf,tech:architecture,topic:software-engineering,location:cherkasy
+2026-01-24-DistrictCon,tech:technology,topic:innovation,location:washington-dc
+2026-01-26-IEEE AIxVR 2026,tech:artificial-intelligence,topic:virtual-reality,location:osaka
+2026-01-31-WordCamp Kolhapur 2026,tech:wordpress,topic:web-development,language:hindi
+2026-02-03-Integrated Systems Europe,tech:electronics,topic:systems-integration,location:barcelona
+2026-02-04-DDX Innovation & UX Conference,tech:design,topic:user-experience,location:tokyo
+2026-02-07-DDX Innovation & UX Conference,tech:design,topic:user-experience,location:dubai
+2026-02-09-FinovateEurope,tech:finance,topic:innovation,location:london
+2026-02-09-Atlas Camp Amsterdam: Atlassian's Premier Dev Conference,tech:software,topic:development,location:amsterdam
+2026-02-11-Microsoft AI Tour São Paulo Brazil,tech:artificial-intelligence,topic:cloud-computing,language:portuguese
+2026-02-11-Ai Everything,tech:artificial-intelligence,topic:innovation,language:arabic
+2026-02-20-MongoDB at PHPUK London 2026,tech:mongodb,topic:database,location:london
+2026-02-24-ProductCon London 2026,tech:product-management,topic:innovation,location:london
+2026-02-24-Experts Live Denmark 2026,tech:cybersecurity,topic:training,location:copenhagen
+2026-02-24-DesignCon 2026,tech:electronics,topic:design,location:santa-clara
+2026-02-25-OWASP London Training Days 2026,tech:cybersecurity,topic:training,location:london
+2026-02-26-Cyber in ITSM,tech:it-service-management,topic:cybersecurity,location:bletchley
+2026-02-26-DrupalCamp Costa Rica 2026,tech:drupal,topic:web-development,language:spanish
+2026-02-28-DrupalCamp England,tech:drupal,topic:web-development,location:salford
+2026-03-06-WordCamp Nice 2026,tech:wordpress,topic:web-development,language:french
+2026-03-23-CloudFest,tech:cloud-computing,topic:devops,location:rust
+2026-03-23-CloudFest,tech:cloud-computing,topic:devops,location:rust
+2026-04-10-WordCamp Vienna 2026,tech:wordpress,topic:web-development,language:german
+2026-04-15-Mashup 2026,tech:web-development,topic:innovation,location:malmo
+2026-05-05-PGConf.BE 2026,tech:postgresql,topic:databases,location:leuven
+2026-05-11-Circus/London,tech:python,topic:data,topic:open-source,language:english
+2026-05-12-MidCamp 2026,tech:java,topic:web,topic:cloud,language:english
+2026-05-21-Istanbul Software Testing Conference (ISTC) 2026,tech:testing,topic:quality,topic:automation,language:turkish
+2026-06-04-J-Spring 2026,tech:java,topic:web,topic:cloud,language:dutch
