@@ -551,6 +551,10 @@
     "latitude": 28.286398900000002,
     "longitude": -16.796011808910734
   },
+  "Canberra (Australia)": {
+    "latitude": -35.2975906,
+    "longitude": 149.1012676
+  },
   "Cannes (France)": {
     "latitude": 43.5515198,
     "longitude": 7.0134418
@@ -1363,6 +1367,10 @@
     "latitude": 27.708317,
     "longitude": 85.3205817
   },
+  "Kerpen (Germany)": {
+    "latitude": 50.3097609,
+    "longitude": 6.7293316
+  },
   "Kigali (Rwanda)": {
     "latitude": -1.950851,
     "longitude": 30.061507
@@ -1886,6 +1894,10 @@
   "Napoli (Italy)": {
     "latitude": 40.8358846,
     "longitude": 14.2487679
+  },
+  "Nashik (India)": {
+    "latitude": 20.0112475,
+    "longitude": 73.7902364
   },
   "Nashville, TN (USA)": {
     "latitude": 36.1622767,
@@ -2614,6 +2626,10 @@
   "St. Petersburg, FL (USA)": {
     "latitude": 27.7700475,
     "longitude": -82.6359078
+  },
+  "Starnberg (Germany)": {
+    "latitude": 47.9986851,
+    "longitude": 11.3410791
   },
   "Stavanger (Norway)": {
     "latitude": 58.9699756,
