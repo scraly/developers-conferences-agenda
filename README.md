@@ -238,6 +238,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17: [NAVIGATE 2026](https://navigate-kongress.de/) - Online <a href="https://sessionize.com/navigate-2026"><img alt="CFP NAVIGATE 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=red"></a>
 * 17-18: [North American M365 Summit](https://events.m365-summits.de/NorthAmericanTeamsSummit1718Mrz2026#/) - Online <a href="https://sessionize.com/north-american-m365-summit-17-18-mar/"><img alt="CFP North American M365 Summit 17.- 18. März 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2025&color=red"></a>
 * 17-18: [OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/) - Shanghai (China)
+* 17-18: [ScanAgile](https://www.scan-agile.org/) - Helsinki (Finland)
 * 17-19: [JavaOne](https://www.oracle.com/javaone) - Redwood City, CA (USA)
 * 18-19: [Agile Niort 2026](https://agileniort.fr) - Niort (France) <a href="https://sessionize.com/agile-niort-2026"><img alt="CFP Agile Niort 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-January-2026&color=green"></a>
 * 18-19: [DAM Los Angeles](https://www.henrystewartconferences.com/events/dam-la-2026) - Los Angeles, CA (USA)
