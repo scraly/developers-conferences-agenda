@@ -269,6 +269,7 @@ All the data (past and coming) are available publicly in JSON:
 * 23: [Platform Engineering Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/platform-engineering-day/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=red"></a>
 * 23: [WasmCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=red"></a>
 * 23: [Code BEAM Vancouver](https://codebeamvancouver.com/) - Vancouver, BC (Canada) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCiyfZBn4RiHF_3UvOqeuDevUjPO7FvZTuzOMRnE9o0udAGg/viewform?usp=dialog"><img alt="CFP Code BEAM Vancouver" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-December-2025&color=red"></a>
+* 23: [Open Sovereign Cloud Day Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/open-sovereign-cloud-day/) - Amsterdam (Netherlands)
 * 23-26: [DrupalCon Chicago 2026](https://events.drupal.org/chicago2026) - Chicago, IL (USA) <a href="https://sessionize.com/drupalcon-chicago-2026"><img alt="CFP DrupalCon Chicago 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-October-2025&color=red"></a>
 * 23-26: [CloudFest](https://www.cloudfest.com/) - Rust (Germany)
 * 23-25: [SRECon 26 Americas](https://www.usenix.org/conference/srecon26americas) - Seattle, WA (USA) <a href="https://www.usenix.org/conference/srecon26americas/call-for-participation"><img alt="CFP SRECon 26 Americas" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-November-2025&color=red"></a>
@@ -314,6 +315,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-17: [STL TechWeek 2026](https://techstl.com/techweek) - St. Louis, MO (USA)
 * 13-17: [PyCon DE & PyData 2026](https://2026.pycon.de/) - Darmstadt (Germany)
 * 13-18: [SO-CON 2026](https://specterops.io/so-con) - Arlington, VA (USA)
+* 14: [Open Source in Finance Forum Toronto](https://events.linuxfoundation.org/open-source-finance-forum-toronto/) - Toronto (Canada) <a href="https://events.linuxfoundation.org/open-source-finance-forum-toronto/program/cfp/"><img alt="CFP Open Source in Finance Forum Toronto" src="https://img.shields.io/static/v1?label=CFP&message=Open&color=green"></a>
 * 14-15: [Green IO Singapore](https://greenio.tech/conference/18/singapore-2026-april-green-it) - Singapore (Singapore) <a href="https://apidays.typeform.com/to/SMHd2wFE?=green-io-conference%3Dcall-for-speakers&typeform-source=greenio.tech"><img alt="CFP Green IO Singapore 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2026&color=green"></a>
 * 14-16: [DevOpsDays Tokyo 2026](https://devopsdays.org/events/2026-tokyo) -  Tokyo (Japan) <a href="https://www.papercall.io/devopsdays-tokyo-2026"><img alt="CFP DevOpsDays Tokyo 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2026&color=green"></a>
 * 14-15: [SREday San Francisco 2026 Q2](https://sreday.com/2026-san-francisco-q2/) - San Francisco, CA (USA) <a href="https://www.papercall.io/sreday-2026-san-francisco-q2"><img alt="CFP SREday San Francisco 2026 Q2" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-March-2026&color=green"></a>
@@ -640,6 +642,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-9: [next.app devcon](https://www.nextappcon.com) - Berlin (Germany)
 * 7-9: [swiftcon@next.app devcon](https://www.nextappcon.com/swiftcon) - Berlin (Germany)
 * 7-9: [FlutterCon Europe](https://www.nextappcon.com/fluttercon) - Berlin (Germany)
+* 8: [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) - Prague (Czech Republic)
 * 8-9: [Pycon Estonia](https://pycon.ee) - Tallinn (Estonia)
 * 12-14: [SwiftLeeds](https://swiftleeds.co.uk) - Leeds (UK)
 * 12-15: [dev2next](https://www.dev2next.com) - Lone Tree, CO (USA)
