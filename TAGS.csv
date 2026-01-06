@@ -1886,3 +1886,39 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-05-12-MidCamp 2026,tech:java,topic:web,topic:cloud,language:english
 2026-05-21-Istanbul Software Testing Conference (ISTC) 2026,tech:testing,topic:quality,topic:automation,language:turkish
 2026-06-04-J-Spring 2026,tech:java,topic:web,topic:cloud,language:dutch
+2026-01-21-Everything Open 2026,tech:open-source,topic:conference,language:english
+2026-01-21-FOSS4G Asia,tech:open-source,topic:geospatial,language:english
+2026-01-27-Drupal AI Hackathon - Play to Impact: 2026 edition,tech:open-source,topic:ai,topic:hackathon,language:english
+2026-01-29-Simpl Annual Community Event 2026,tech:open-source,topic:community,language:english
+2026-01-29-Drupal4Gov EU Conference 2026,tech:open-source,topic:government,language:english
+2026-01-29-Eclipse Foundation's code & compliance - FOSDEM Edition,tech:open-source,topic:compliance,language:english
+2026-01-29-The European Open Source Awards,tech:open-source,topic:awards,language:english
+2026-01-29-EU Open Souce Policy Summit 2026,tech:open-source,topic:policy,language:english
+2026-01-30-FOSDEM 2026 Fringe: FOSS license and security compliance tools workshop,tech:open-source,topic:legal,topic:security,language:english
+2026-02-02-OpenEmbedded Workshop 2026,tech:open-source,topic:embedded,language:english
+2026-02-18-CityJS New Delhi,tech:javascript,topic:web,language:english
+2026-02-20-PyCon Namibia 2026,tech:python,topic:conference,language:english
+2026-03-02-Laracon EU,tech:php,topic:conference,language:english
+2026-04-08-PyCon Lithuania,tech:python,topic:conference,language:english
+2026-04-15-Free Software Legal and Licensing Workshop 2026,tech:open-source,topic:legal,language:german
+2026-04-20-GrafanaCon,tech:monitoring,topic:observability,language:english
+2026-04-24-LinuxFest Northwest,tech:linux,topic:conference,language:english
+2026-05-03-Write the Docs,tech:documentation,topic:writing,language:english
+2026-05-05-MenderCon 2026,tech:open-source,topic:embedded,language:english
+2026-05-11-Red Hat Summit,tech:linux,topic:enterprise,language:english
+2026-05-13-PyCon US,tech:python,topic:conference,language:english
+2026-05-18-Beethoven Sprint 2026,tech:open-source,topic:sprint,language:english
+2026-05-26-Platmosphere Chapter 2026 Master the Vibe,tech:open-source,topic:cloud,language:italian
+2026-05-27-Devopsdays Sibiu,tech:devops,topic:conference,language:english
+2026-06-08-Pole Position Sprint,tech:open-source,topic:sprint,language:english
+2026-06-10-Umbraco Codegarden,tech:cms,topic:conference,language:english
+2026-06-18-DevConf.CZ,tech:linux,topic:conference,language:czech
+2026-06-22-UN Open Source Week,tech:open-source,topic:united-nations,language:english
+2026-06-30-Automotive Oopen Source Summit 2026,tech:open-source,topic:automotive,language:english
+2026-07-16-DroidCon,tech:android,topic:conference,language:english
+2026-07-16-FlutterCon,tech:flutter,topic:mobile,topic:open-source,language:english
+2026-10-07-FlutterCon Europe,tech:flutter,topic:mobile,topic:open-source,language:english
+2026-10-18-All Things Open,tech:open-source,topic:devops,topic:cloud,language:english
+2026-10-26-IBM TechXchange,tech:cloud,topic:ai,topic:enterprise,language:english
+2026-11-06-Texas Linux Fest,tech:linux,topic:open-source,topic:community,language:english
+2026-11-13-Akademy 2026,tech:open-source,topic:desktop,topic:community,language:english
