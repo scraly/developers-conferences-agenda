@@ -315,6 +315,10 @@
     "latitude": 60.3943055,
     "longitude": 5.3259192
   },
+  "Berkely (USA)": {
+    "latitude": 35.889554,
+    "longitude": -84.2031178
+  },
   "Berlin (Germany)": {
     "latitude": 52.5170365,
     "longitude": 13.3888599
@@ -666,10 +670,6 @@
   "Coimbra (Portugal)": {
     "latitude": 40.2111931,
     "longitude": -8.4294632
-  },
-  "Cologne (Germany)": {
-    "latitude": 50.938361,
-    "longitude": 6.959974
   },
   "Colombo (Sri Lanka)": {
     "latitude": 6.9388614,
@@ -1442,6 +1442,10 @@
   "Kyiv (Ukraine)": {
     "latitude": 50.4500336,
     "longitude": 30.5241361
+  },
+  "Köln (Germany)": {
+    "latitude": 50.938361,
+    "longitude": 6.959974
   },
   "L'aquila (Italy)": {
     "latitude": 42.1368853,
