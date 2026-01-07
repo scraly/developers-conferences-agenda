@@ -1922,3 +1922,16 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-26-IBM TechXchange,tech:cloud,topic:ai,topic:enterprise,language:english
 2026-11-06-Texas Linux Fest,tech:linux,topic:open-source,topic:community,language:english
 2026-11-13-Akademy 2026,tech:open-source,topic:desktop,topic:community,language:english
+2026-03-17-ScanAgile,tech:agile,topic:software-development,language:english
+2026-03-23-Open Sovereign Cloud Day Europe,tech:cloud,topic:open-source,language:english
+2026-04-14-Open Source in Finance Forum Toronto,tech:finance,topic:open-source,language:english
+2026-04-16-Nerdearla Chile,tech:programming,topic:open-source,language:spanish
+2026-06-12-BSides Boulder 2026,tech:cybersecurity,topic:security,language:english
+2026-08-08-DefCon Training,tech:cybersecurity,topic:training,language:english
+2026-08-12-Render (RenderATL) 2026,tech:web-development,topic:javascript,language:english
+2026-08-26-PyCon Australia,tech:python,topic:open-source,language:english
+2026-08-30-FOSS4G Hiroshima,tech:geospatial,topic:open-source,language:japanese
+2026-08-31-Airflow Summit,tech:big-data,topic:open-source,language:english
+2026-09-21-CityJS Athens,tech:javascript,topic:web-development,language:english
+2026-09-22-Nerdearla Argentina,tech:programming,topic:open-source,language:spanish
+2026-10-08-Linux Security Summit Europe,tech:linux,topic:security,language:english
