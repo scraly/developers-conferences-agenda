@@ -240,7 +240,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17-18: [OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/) - Shanghai (China)
 * 17-18: [ScanAgile](https://www.scan-agile.org/) - Helsinki (Finland)
 * 17-19: [JavaOne](https://www.oracle.com/javaone) - Redwood City, CA (USA)
-* 18-19: [Agile Niort 2026](https://agileniort.fr) - Niort (France) <a href="https://sessionize.com/agile-niort-2026"><img alt="CFP Agile Niort 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-January-2026&color=green"></a>
+* 18-19: [Agile Niort 2026](https://agileniort.fr) - Niort (France) <a href="https://sessionize.com/agile-niort-2026"><img alt="CFP Agile Niort 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-January-2026&color=red"></a>
 * 18-19: [DAM Los Angeles](https://www.henrystewartconferences.com/events/dam-la-2026) - Los Angeles, CA (USA)
 * 19: [Programmable 2026 - Sydney](https://programmable.tech) - Sydney (Australia) <a href="https://sessionize.com/programmable-2026-sydney"><img alt="CFP Programmable 2026 - Sydney" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-December-2025&color=red"></a>
 * 19: [Open Tech Day: OpenTofu Edition](https://opentechday.de/coming-up) - Nuremberg (Germany) <a href="https://opentechday.de/propose"><img alt="CFP Open Tech Day: OpenTofu Edition" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=red"></a>
@@ -354,7 +354,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22-23: [Minds Mastering Machines - M3](https://www.m3-konferenz.de) - Karlsruhe (Germany) <a href="https://www.m3-konferenz.de/cfp.php"><img alt="CFP Minds Mastering Machines - M3" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-November-2025&color=red"></a>
 * 22-24: [Devoxx France 2026](https://www.devoxx.fr) - Paris (France) <a href="https://devoxxfr2026.cfp.dev/"><img alt="CFP Devoxx France 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2026&color=green"></a> <a href="https://www.devoxx.fr/wp-content/uploads/2025/10/devoxxfr-avwiayshr16t.pdf"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 22-24: [RubyKaigi 2026](https://rubykaigi.org) - Matsuyama (Japan)
-* 22-24: [ElixirConf EU 2026](https://www.elixirconf.eu/) - Malaga (Spain) <a href="https://sessionize.com/elixirconf-eu-2026/"><img alt="CFP ElixirConf EU 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-January-2026&color=green"></a>
+* 22-24: [ElixirConf EU 2026](https://www.elixirconf.eu/) - Malaga (Spain) <a href="https://sessionize.com/elixirconf-eu-2026/"><img alt="CFP ElixirConf EU 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-January-2026&color=red"></a>
 * 22-24: [Google Cloud Next](https://www.googlecloudevents.com/next-vegas) - Las Vegas, NV (USA)
 * 22-24: [NDC Sydney](https://ndcsydney.com) - Sydney (Australia)
 * 22-25: [Drupal Developer Days Athens](https://devdays2026.drupal.org.gr/) - Athens (Greece)
