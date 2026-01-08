@@ -1135,6 +1135,10 @@
     "latitude": 19.593801499999998,
     "longitude": -155.42837009716908
   },
+  "Heerlen (Netherlands)": {
+    "latitude": 50.8876735,
+    "longitude": 5.9773285
+  },
   "Helsinki (Finland)": {
     "latitude": 60.1674881,
     "longitude": 24.9427473
@@ -1194,6 +1198,10 @@
   "Houston, TX (USA)": {
     "latitude": 29.7589382,
     "longitude": -95.3676974
+  },
+  "Hull (UK)": {
+    "latitude": 53.7435722,
+    "longitude": -0.3394758
   },
   "Hyderabad (India)": {
     "latitude": 17.406498,
