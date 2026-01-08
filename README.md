@@ -318,6 +318,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-10: [Tropical on Rails 26](https://www.tropicalonrails.com/) - São Paulo (Brazil) <a href="https://cfp.tropicalonrails.com/"><img alt="CFP Tropical on Rails 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2026&color=green"></a>
 * 10-11: [WordCamp Vienna 2026](https://vienna.wordcamp.org/2026) - Vienna (Austria)
 * 11: [KCD KOCHI 26](https://community.cncf.io/kcd-kochi/) - Kochi (India) <a href="https://sessionize.com/kcd-kochi/"><img alt="CFP KCDKOCHI26" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=green"></a>
+* 11: [Orlando Code Camp 2026](https://orlandocodecamp.com/) - Sanford, FL (USA) <a href="https://sessionize.com/orlando-code-camp-2026"><img alt="CFP Orlando Code Camp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2026&color=green"></a>
 * 11-12: [Gen AI Summit 2026](https://genaisummit.eu/) - Valencia (Spain)
 * 12-18: [International Conference on Software Engineering](https://conf.researchr.org/home/icse-2026) - Rio de Janeiro (Brazil)
 * 13: [ConveyUX](https://conveyux.com) - Seattle, WA (USA)
@@ -431,6 +432,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-14: [MidCamp 2026](https://www.midcamp.org/) - Chicago, IL (USA)
 * 12-15: [UXLx: User Experience Lisbon](https://ux-lx.com) - Lisbon (Portugal) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeAwx-Xt73X0vK_fa5bG4vb2y6aHswQUFX6W11lQ7ncVjYmEw/viewform"><img alt="CFP UXLx: User Experience Lisbon" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2025&color=red"></a>
 * 13: [KCD Toronto 2026](http://www.kcdtoronto.ca/) - Toronto (Canada) <a href="https://sessionize.com/kcd-toronto-2026/"><img alt="CFP KCD Toronto 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-February-2026&color=green"></a>
+* 13: [Tech Tactics in Education: Roadmap to AI Impact](https://techtacticsineducation.com/) - Online <a href="https://sessionize.com/tech-tactics-in-education-roadmap"><img alt="CFP Tech Tactics in Education" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-February-2026&color=green"></a>
 * 13-14: [Agile Manchester](https://agilemanchester.net) - Manchester (UK)
 * 13-14: [AGL All Member Meeting Japan](https://events.linuxfoundation.org/agl-amm/) - Tokyo (Japan)
 * 13-14: [UPSCALE CONF 2026](https://www.upscaleconf.com) - San Francisco (USA)
