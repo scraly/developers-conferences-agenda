@@ -675,6 +675,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29-30: [Devopsdays Dallas](https://devopsdays.org/events/2026-dallas) - Dallas, TX (USA)
 * 29-30: [Devopsdays Berlin](https://devopsdays.org/events/2026-berlin) - Berlin (Germany)
 * 30-1/10: [Automotive Grade Linux All Member Meeting Europe](https://events.linuxfoundation.org/agl-amm-europe/) - Berlin (Germany)
+* 30-2/10: [The Cloud & AI Summit 2026](https://www.cloudandaisummit.com/) - St. Louis, MO (USA) <a href="https://sessionize.com/thecloudandaisummit2026"><img alt="CFP the cloud and ai summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=green"></a>
 
 ### October
 
