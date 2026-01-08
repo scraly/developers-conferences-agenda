@@ -202,7 +202,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-10: [FOSSASIA Summit 2026](https://summit.fossasia.org/) - Bangkok (Thailand) <a href="https://summit.fossasia.org/speaker-registration"><img alt="CFP FOSSASIA Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=red"></a>
 * 9-13: [Software Architecture Summit](https://software-architecture-summit.de/muenchen) - Munich (Germany)
 * 10: [FOSSASIA PGDay 2026](https://summit.fossasia.org/pgday) - Bangkok (Thailand) <a href="https://eventyay.com/e/b85fd0f2/cfs"><img alt="CFP FOSSASIA PGDay 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=red"></a>
-* 10-11: [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/) - Tel Aviv (Israel) <a href="https://cmtint.research.microsoft.com/User/Login?ReturnUrl=%2FBHIL2026"><img alt="CFP BlueHat IL" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-January-2026&color=green"></a>
+* 10-11: [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/) - Tel Aviv (Israel) <a href="https://cmtint.research.microsoft.com/User/Login?ReturnUrl=%2FBHIL2026"><img alt="CFP BlueHat IL" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-January-2026&color=red"></a>
 * 10-11: [CTO Craft Con: London](https://conference.ctocraft.com/london-2026) - London (UK) <a href="http://conference.ctocraft.com/london-2026/call-for-content"><img alt="CFP CTO Craft Con: London" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-July-2025&color=red"></a>
 * 10-12: [JavaLand](https://www.javaland.eu/) - Rust (Germany)
 * 10-12: [RISC-V at embedded world](https://events.linuxfoundation.org/riscv-at-embedded-world/) - Nuremberg (Germany)
@@ -454,7 +454,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20-22: [KotlinConf 2026](https://kotlinconf.com) - Munich (Germany) <a href="https://sessionize.com/kotlinconf-2026"><img alt="CFP KotlinConf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=red"></a>
 * 20-22: [DeveloperXperience](https://asiatechxsg.com/developerxperience-summit) - Singapore (Singapore)
 * 20-22: [DevDays Europe](https://devdays.lt) - Vilnius (Lithuania) <a href="https://airtable.com/app2OG5hAK2bnFPRu/shr6c86jsxcZNDu13"><img alt="CFP DevDays Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-May-2026&color=green"></a>
-* 21: [Test Coast](https://www.testcoast.se) - Göteborg (Sweden) <a href="https://www.testcoast.se/#cfp"><img alt="CFP Test Coast" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-January-2026&color=green"></a>
+* 21: [Test Coast](https://www.testcoast.se) - Göteborg (Sweden) <a href="https://www.testcoast.se/#cfp"><img alt="CFP Test Coast" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-January-2026&color=red"></a>
 * 21: [Linux Security Summit North America](https://events.linuxfoundation.org/linux-security-summit-north-america/) - Minneapolis, MN (USA)
 * 21: [OpenSSF Community Day North America](https://events.linuxfoundation.org/openssf-community-day-north-america/) - Minneapolis, MN (USA)
 * 21: [Conf42 Golang 2026](https://www.conf42.com/golang2026) - Online <a href="https://www.papercall.io/conf42-golang-2026"><img alt="CFP Conf42 Golang 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-April-2026&color=green"></a>
@@ -509,7 +509,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4: [J-Spring 2026](https://jspring.nl) - Utrecht (Netherlands)
 * 4: [Conf42 Database DevOps 2026](https://www.conf42.com/dbd2026) - Online <a href="https://www.papercall.io/conf42-database-devops-2026"><img alt="CFP Conf42 Database DevOps 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-May-2026&color=green"></a>
 * 4-5: [SecretCon 4](https://secretcon.com) - Minneapolis, MN (USA)
-* 4-5: [PG DATA 2026](https://2026.pg-data.org/) - Chicago, IL (USA) <a href="https://sessionize.com/pg-data-2026/"><img alt="CFP PG DATA 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-January-2026&color=green"></a>
+* 4-5: [PG DATA 2026](https://2026.pg-data.org/) - Chicago, IL (USA) <a href="https://sessionize.com/pg-data-2026/"><img alt="CFP PG DATA 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-January-2026&color=red"></a>
 * 4-6: [WordCamp Europe 2026](https://europe.wordcamp.org/2026) - Krakow (Poland)
 * 5: [TechReady](https://techready.live/) - Nantes (France)
 * 5: [Fork it! - Rouen](https://www.forkit.community/events/2026-france-rouen) - Rouen (France)
