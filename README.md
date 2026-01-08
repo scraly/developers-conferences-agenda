@@ -316,6 +316,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-10: [CityJS London](https://london.cityjsconf.org) - London (UK) <a href="https://tinyurl.com/cityjs2026lon"><img alt="CFP CityJS London" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2025&color=red"></a>
 * 9-10: [GITEX ASIA](https://gitexasia.com) - Singapore (Singapore)
 * 9-10: [AndroidMakers by droidcon](https://droidcon.wixsite.com/website-28) - Paris (France)
+* 9-10: [BSidesSLC](https://www.bsidesslc.org/) - Sandy, UT (USA) <a href="https://sessionize.com/bsidesslc-2026/"><img alt="CFP BSidesSLC" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-January-2026&color=green"></a>
 * 9-10: [ATLSECCON 2026](https://www.atlseccon.com) - Halifax, NS (Canada) <a href="https://www.papercall.io/atlseccon"><img alt="CFP ATLSECCON 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2026&color=green"></a>
 * 9-10: [DevOpsDays Buenos Aires 2026](https://devopsdays.org/events/2026-ciudad-autonoma-de-buenos-aires) - Buenos Aires (Argentina) <a href="https://www.papercall.io/dodba26"><img alt="CFP DevOpsDays Buenos Aires 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2026&color=green"></a>
 * 9-10: [Tropical on Rails 26](https://www.tropicalonrails.com/) - São Paulo (Brazil) <a href="https://cfp.tropicalonrails.com/"><img alt="CFP Tropical on Rails 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2026&color=green"></a>
