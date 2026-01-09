@@ -1691,6 +1691,10 @@
     "latitude": 12.9141417,
     "longitude": 74.8559568
   },
+  "Mangaluru (India)": {
+    "latitude": 12.8698101,
+    "longitude": 74.8430082
+  },
   "Manila (Philippines)": {
     "latitude": 14.5995124,
     "longitude": 120.9842195
@@ -2766,6 +2770,10 @@
   "Ticino (Switzerland)": {
     "latitude": 46.3351913,
     "longitude": 8.7525902
+  },
+  "Timisoara (Romania)": {
+    "latitude": 45.7538355,
+    "longitude": 21.2257474
   },
   "Tokyo (Japan)": {
     "latitude": 35.6840574,

@@ -61,6 +61,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22-27: [jChampions](https://jchampionsconf.com) - Online
 * 23: [AI DBA: Self-Driving Databases](https://buildevcon.com/ai-dba-self-driving-databases) - Online <a href="https://forms.gle/K3uRBT7MBEHkcp6J8"><img alt="CFP AI DBA: Self-Driving Databases" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-January-2026&color=red"></a>
 * 23: [AWS Student Community Day Chennai 2026](https://konfhub.com/aws-scd-2026-chennai) - Chennai (India)
+* 23: [AICD - São Paulo 2026](https://www.aicommunitydays.ai) - São Paulo (Brazil) <a href="https://sessionize.com/aicd-saopaulo-2026"><img alt="CFP AICD - São Paulo 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
 * 23-24: [WordCamp Nepal 2026](https://nepal.wordcamp.org/2026) - Butwal (Nepal)
 * 23-24: [WordCamp Zaragoza 2026](https://zaragoza.wordcamp.org/2026) - Zaragoza (Spain)
 * 24: [DevFest Heraklion 2026](https://gdg.community.dev/events/details/google-gdg-heraklion-presents-devfest-heraklion-kickoff-unveiling-the-future-of-technology-and-business/) - Heraklion (Greece) <a href="https://docs.google.com/forms/d/e/1FAIpQLScyMP1zitVGgPNfs4FytJaxXgqeTjRI4ytvG0jXOCrkCDA0bw/viewform"><img alt="CFP DevFest Heraklion" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2026&color=green"></a>
@@ -86,6 +87,8 @@ All the data (past and coming) are available publicly in JSON:
 * 29-01/02: [SoCraTes Conference Switzerland 2026](https://www.socrates-ch.org) - Ilanz (Switzerland)
 * 30: [FOSDEM PGDay](https://2026.fosdempgday.org/) - Brussels (Belgium) <a href="https://2026.fosdempgday.org/callforpapers/"><img alt="CFP FOSDEM PGDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=red"></a>
 * 30: [FOSDEM 2026 Fringe: FOSS license and security compliance tools workshop](https://workshop.aboutcode.org/) - Brussels (Belgium)
+* 31: [TechMang 2026](https://hackersmang.org) - Mangaluru (India) <a href="https://sessionize.com/hackersmang-techmang-2026"><img alt="CFP TechMang 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-January-2026&color=green"></a>
+* 31: [SQL Saturday Lima - 2026](https://www.meetup.com/cloudexpertsc/events/312468427/?eventOrigin=group_upcoming_events) - Lima (Peru) <a href="https://sessionize.com/sql-saturday-lima-2026"><img alt="CFP SQL Saturday Lima - 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-January-2026&color=green"></a>
 * 31-01/02: [WordCamp Kolhapur 2026](https://kolhapur.wordcamp.org/2026) - Kolhapur (India)
 * 31-01/02: [FOSDEM 2026](https://fosdem.org/2026/) - Brussels (Belgium) <a href="https://fosdem.org/2026/news/2025-10-31-devrooms-announced/"><img alt="CFP FOSDEM PGDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=green"></a>
 
@@ -124,6 +127,7 @@ All the data (past and coming) are available publicly in JSON:
 * 6: [IntelliC0N Austin 2026](https://www.intelliguards.com/intellic0n) - Austin, TX (USA) <a href="https://www.papercall.io/intellic0naustin2026"><img alt="CFP IntelliC0N Austin 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2025&color=red"></a>
 * 6: [CERN PGDay](https://www.swisspug.org/cern-pgday-2026.html) - Geneva (Switzerland) <a href="https://indico.cern.ch/event/1504097/abstracts"><img alt="CFP CERN PGDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2025&color=red"></a>
 * 7: [PyTorch Day India](https://events.linuxfoundation.org/pytorch-day-india/) - Bengaluru (India)
+* 7: [Tenerife Winter Sessions 2026](https://www.youtube.com/@GuarandingaTECH) - Online <a href="https://sessionize.com/tenerife-winter-sessions-2026"><img alt="CFP Tenerife Winter Sessions 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-January-2026&color=green"></a>
 * 7-8: [DDX Innovation & UX Conference](https://www.ddxconference.com/dubai) - Dubai (United Arab Emirates)
 * 8-12: [Atlas Camp Amsterdam: Atlassian's Premier Dev Conference](https://events.atlassian.com/atlascamp26-amsterdam) - Amsterdam (Netherlands)
 * 9-10: [4th Data Science & AI Summit Dubai](https://datascience.thepeopleevents.com) - Dubai (United Arab Emirates)
@@ -142,12 +146,14 @@ All the data (past and coming) are available publicly in JSON:
 * 12-13: [CityJS New Delhi](https://india.cityjsconf.org) - Delhi (India) <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-32bgx5eJZwsKh2Orshc9OiTn010ix8W9xkfM-IrkzoOnTQ/viewform"><img alt="CFP CityJS New Delhi" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=red"></a>
 * 12-13: [Touraine Tech #26](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/touraine-tech-2026"><img alt="CFP TnT 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-November-2025&color=red"></a>
 * 13-14: [DevConf.IN 2026](https://www.devconf.info/in/) - Pune (India) <a href="https://pretalx.devconf.info/devconf-in-2026/cfp"><img alt="CFP DevConf.IN 2026 (open source community conference)" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-November-2025&color=red"></a>
+* 17-18: [Global Power Platform Bootcamp Houston 2026](https://gppb26htx.eventbrite.com) - Houston, TX (USA) <a href="https://sessionize.com/gppb26htx"><img alt="CFP Global Power Platform Bootcamp Houston 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2026&color=green"></a>
 * 18-19: [CityJS New Delhi](https://india.cityjsconf.org/) - New Delhi (India)
 * 18-20: [DeveloperWeek 2026](https://www.developerweek.com/) - San Jose, CA (USA) & Online <a href="https://sessionize.com/developerweek-2026"><img alt="CFP DeveloperWeek 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=red"></a>
 * 19: [ObservabilityCON on the Road](https://grafana.com/events/observabilitycon-on-the-road/2026/paris/) - Paris (France)
 * 19-20: [HashiTalks 2026](https://hashitalks2026.splashthat.com/) - Online <a href="https://sessionize.com/hashitalks-2026/?e=53817f"><img alt="CFP HashiTalks 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2025&color=red"></a>
 * 20: [PHP UK](https://www.phpconference.co.uk) - London (UK)
 * 20: [MongoDB at PHPUK London 2026](https://www.mongodb.com/events/mongodb-at-phpuk-conference?tck=pathfactory) - London (UK)
+* 20: [Rome .NET Conference 2026](https://www.dotnetconf.it) - Rome (Italy) <a href="https://sessionize.com/rome-net-conference-2026"><img alt="CFP Rome .NET Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2026&color=green"></a>
 * 20-22: [Florida DrupalCamp 2026](https://www.fldrupal.camp/) - Orlando, FL (USA)
 * 20-26: [PyCon Namibia 2026](https://na.pycon.org/) - Windhoek (Namibia)
 * 21: [DDD Melbourne 2026](https://www.dddmelbourne.com/) - Melbourne (Australia)
@@ -179,10 +185,12 @@ All the data (past and coming) are available publicly in JSON:
 * 27: [Flutter conf'26 Moscow](https://flutterconf.ru) - Moscow (Russia)
 * 28: [UXUI Conf'26 Moscow](https://uxuiconf.ru) - Moscow (Russia)
 * 28: [SECCON Open Conference 14](https://www.seccon.jp/14/) - Tokyo (Japan) <a href="https://www.seccon.jp/14/"><img alt="CFP SECCON Open Conference 14" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
+* 28: [AgentCon–Tokyo](https://globalai.community/chapters/tokyo/events/agentcon-tokyo/) - Tokyo (Japan) <a href="https://sessionize.com/agentcon-tokyo0228"><img alt="CFP AgentCon–Tokyo" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2026&color=green"></a>
 * 28: [KCD Guadalajara 2026](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2026/) - Guadalajara (Mexico) <a href="https://sessionize.com/kcd-guadalajara-2026/"><img alt="CFP KCD Guadalajara" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-December-2025&color=red"></a>
 * 28: [DDD North 2026](https://www.dddnorth.co.uk/) - Hull (UK) <a href="https://sessionize.com/ddd-north-2026"><img alt="CFP DDD North" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2026&color=green"></a>
 * 28-01/03: [Nullcon Goa](https://nullcon.net/goa-2026) - Goa (India) <a href="https://nullcon.net/goa-2026/cfp"><img alt="CFP Nullcon Goa" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-November-2025&color=red"></a>
 * 28-01/03: [DrupalCamp England](https://www.drupalcampengland.org/) - Salford (UK)
+* 28-01/03: [SECCON 14 OpenConference](https://seccon.jp) - Tokyo (Japan) <a href="https://sessionize.com/seccon-14-openconference"><img alt="CFP SECCON 14 OpenConference" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
 
 ### March
 
@@ -194,14 +202,19 @@ All the data (past and coming) are available publicly in JSON:
 * 4-6: [Devnexus](https://devnexus.com/) - Atlanta, GA (USA) <a href="https://devnexus.com/posts/the-cfp-for-devnexus-2026-is-open"><img alt="CFP Devnexus" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2025&color=red"></a>
 * 5: [DevFest Bucharest 2026](https://gdg.community.dev/events/details/google-gdg-bucharest-presents-devfest-bucharest-2026/) - Bucharest (Romania) <a href="https://app.advocu.com/events/6925ec54a9230d4c5e675ac3"><img alt="CFP DevFest Bucharest" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-December-2025&color=red"></a>
 * 5-6: [SunSecCon 2026](http://www.sunseccon.org) - Pasadena, CA (USA) <a href="https://www.papercall.io/sunseccon2026"><img alt="CFP SunSecCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-January-2026&color=green"></a>
+* 5-6: [Planet Nix 2026](https://planetnix.com) - Pasadena, CA (USA) <a href="https://sessionize.com/planet-nix-2026"><img alt="CFP Planet Nix 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2026&color=green"></a>
 * 5-6: [SOUG Day Bern](https://soug.ch/event/soug-day-bern-11-maerz-2026/) - Bern (Switzerland) <a href="https://www.papercall.io/sougdaybern26"><img alt="CFP SOUG Day Bern" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2026&color=green"></a>
 * 5-6: [kode24](https://www.kode24-dagen.no/) - Oslo (Norway) <a href="https://www.papercall.io/kode24-dagen-5"><img alt="CFP kode24" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-January-2026&color=green"></a>
 * 5-6: [DevOps Not Dead](https://devopsnotdead.com/2026-london-q1) - London (UK) <a href="https://www.papercall.io/devopsnotdead-2026-london-q1"><img alt="CFP DevOps Not Dead" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2026&color=green"></a>
 * 5-7: [Power BI Gebruikersdagen 2026](https://www.pbig.nl/) - Utrecht (Netherlands) <a href="https://sessionize.com/power-bi-gebruikersdag-2026/"><img alt="CFP Power BI Gebruikersdagen 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-October-2025&color=red"></a>
 * 5-8: [SCaLE](https://www.socallinuxexpo.org) - Pasadena, CA (USA) <a href="https://www.socallinuxexpo.org/scale/23x/cfp"><img alt="CFP SCaLE" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2025&color=red"></a>
+* 6: [BSidesZagreb 2026](https://www.bsideszagreb.com/) - Zagreb (Croatia) <a href="https://sessionize.com/bsideszagreb-2026"><img alt="CFP BSidesZagreb 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2026&color=green"></a>
 * 6: [LLMday NYC 2026](https://llmday.com/2026-nyc-q1/) -  New York, NY (USA) <a href="https://www.papercall.io/llmday-2026-nyc-q1"><img alt="CFP LLMday NYC 2026 Q1" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2026&color=green"></a>
 * 6: [Devopsdays Los Angeles](https://devopsdays.org/events/2026-los-angeles) - Los Angeles, CA (USA)
 * 6: [WordCamp Nice 2026](https://nice.wordcamp.org/2026) - Nice (France)
+* 7: [Women Techmakers Belfast 2026](https://womentechmakersbelfast.com) - Belfast (Northern Ireland) <a href="https://sessionize.com/women-techmakers-belfast-2026"><img alt="CFP Women Techmakers Belfast 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-January-2026&color=green"></a>
+* 7: [Data Saturday Romania 2026](https://www.rodatasat.com) - Timisoara (Romania) <a href="https://sessionize.com/data-saturday-romania-2026"><img alt="CFP Data Saturday Romania 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-January-2026&color=green"></a>
+* 7: [EmpowerHER Opportunity Summit](https://empowerheropportunity.com/) - Atlanta, GA (USA) <a href="https://sessionize.com/empowerher-opportunity-summit"><img alt="CFP EmpowerHER Opportunity Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-February-2026&color=green"></a>
 * 7: [Fork it! - Vietnam](https://www.forkit.community/events/2026-vietnam-hanoi) - Hanoi (Vietnam) <a href="https://conference-hall.io/fork-it-vietnam-hanoi-2026"><img alt="CFP ForkIt VieTnam 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
 * 7: [AgentCamp Christchurch](https://globalai.community/agentcamp/8k34j7iq/) - Christchurch (New Zealand) <a href="https://sessionize.com/agentcamp-christchurch/"><img alt="CFP AgentCamp Christchurch" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-February-2026&color=green"></a>
 * 7: [WTM Scotland - International Women's Day 2026](https://wtmscotland.com/) - Glasgow (Scotland) <a href="https://sessionize.com/wtm-scotland-international-womens-day"><img alt="CFP WTM Scotland 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-January-2026&color=green"></a>
@@ -233,6 +246,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14: [Android Bangkok Conference 2026](https://gdg.community.dev/events/details/google-gdg-bangkok-presents-android-bangkok-conference-2026-faster-app-better-ai) - Bangkok (Thailand)
 * 14: [Power BI & Fabric Barcelona a Pallejà](https://www.meetup.com/es-ES/power-bi-barcelona/) - Barcelona (Spain) <a href="https://sessionize.com/power-bi-fabric-barcelona-a-palleja/"><img alt="CFP Power BI & Fabric Barcelona a Pallejà" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=green"></a>
 * 14: [Data Saturday Chicago 2026](https://datasaturdaychicago.com/) - Palatine, IL (USA) <a href="https://sessionize.com/data-saturday-chicago-2026"><img alt="CFP Data Saturday Chicago 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-November-2025&color=red"></a>
+* 14: [AgentCon Toronto](https://agentcon.city/toronto) - Toronto (Canada) <a href="https://sessionize.com/agentcon-toronto"><img alt="CFP AgentCon Toronto" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2026&color=green"></a>
 * 14-15: [Conf42 Site Reliability Engineering (SRE) 2026](https://www.conf42.com/sre2026) - Online <a href="https://www.papercall.io/conf42-site-reliability-engineering-sre-2026"><img alt="CFP Conf42 Site Reliability Engineering (SRE) 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-February-2026&color=green"></a>
 * 14-15: [PyConf Hyderabad 2026](https://2026.pyconfhyd.org/) - Hyderabad (India) <a href="https://www.papercall.io/pyconfhyd2026"><img alt="CFP PyConf Hyderabad 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2026&color=green"></a> <a href="https://2026.pyconfhyd.org/#sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 16: [Memphis Global AI Bootcamp](https://www.meetup.com/memphis-technology-user-groups/events/312731040/) - Online <a href="https://sessionize.com/memphis-global-ai-bootcamp/"><img alt="CFP Memphis Global AI Bootcamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-February-2026&color=green"></a>
@@ -251,6 +265,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17-18: [OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/) - Shanghai (China) <a href="https://sessionize.com/opensearchcon-china-2026"><img alt="CFP OpenSearchCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2026&color=green"></a>
 * 17-18: [ScanAgile](https://www.scan-agile.org/) - Helsinki (Finland)
 * 17-19: [JavaOne](https://www.oracle.com/javaone) - Redwood City, CA (USA)
+* 18: [Supply Chain Security and Third-Party Risk Summit | 2026](https://www.securitysummits.com/event/supply-chain-security-summit/) - Online <a href="https://sessionize.com/supply-chain-cybersecurity-summit"><img alt="CFP Supply Chain Security and Third-Party Risk Summit | 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
 * 18-19: [Agile Niort 2026](https://agileniort.fr) - Niort (France) <a href="https://sessionize.com/agile-niort-2026"><img alt="CFP Agile Niort 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-January-2026&color=red"></a>
 * 18-19: [DAM Los Angeles](https://www.henrystewartconferences.com/events/dam-la-2026) - Los Angeles, CA (USA)
 * 19: [Programmable 2026 - Sydney](https://programmable.tech) - Sydney (Australia) <a href="https://sessionize.com/programmable-2026-sydney"><img alt="CFP Programmable 2026 - Sydney" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-December-2025&color=red"></a>
@@ -324,6 +339,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-10: [Tropical on Rails 26](https://www.tropicalonrails.com/) - São Paulo (Brazil) <a href="https://cfp.tropicalonrails.com/"><img alt="CFP Tropical on Rails 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2026&color=green"></a>
 * 10-11: [WordCamp Vienna 2026](https://vienna.wordcamp.org/2026) - Vienna (Austria)
 * 11: [KCD KOCHI 26](https://community.cncf.io/kcd-kochi/) - Kochi (India) <a href="https://sessionize.com/kcd-kochi/"><img alt="CFP KCDKOCHI26" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=green"></a>
+* 11: [OWASP BASC 2026](https://basconf.org/) - Boston, MA (USA) <a href="https://sessionize.com/owasp-basc-2026"><img alt="CFP OWASP BASC 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2026&color=green"></a>
 * 11: [Orlando Code Camp 2026](https://orlandocodecamp.com/) - Sanford, FL (USA) <a href="https://sessionize.com/orlando-code-camp-2026"><img alt="CFP Orlando Code Camp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2026&color=green"></a>
 * 11-12: [Gen AI Summit 2026](https://genaisummit.eu/) - Valencia (Spain)
 * 12-18: [International Conference on Software Engineering](https://conf.researchr.org/home/icse-2026) - Rio de Janeiro (Brazil)
@@ -648,8 +664,9 @@ All the data (past and coming) are available publicly in JSON:
 * 2-4: [Container Days Hamburg 2026](https://www.containerdays.io/containerdays-hamburg-2026/) - Hamburg (Germany) <a href="https://sessionize.com/containerdays-hamburg-2026"><img alt="CFP Container Days Hamburg" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=green"></a>
 * 4: [JUG Summer Camp 2026](https://www.jugsummercamp.org/) - La Rochelle (France)
 * 4-5: [POUG 2026](https://poug.org/) - Krakow (Poland) <a href="https://sessionize.com/poug-2026/"><img alt="CFP POUG 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
+* 8: [GoforIT: Kunstig intelligens i offentlig sektor 2026](https://tankesmiengoforit.no/nettverk/generativ-ai-i-offentlig-sektor/) - Oslo (Norway) <a href="https://sessionize.com/goforit-kunstig-intelligens-i-offentlig"><img alt="CFP GoforIT: Kunstig intelligens i offentlig sektor 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=green"></a>
 * 8-9: [KubeCon + CloudNativeCon + OpenInfra Summit China](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/) - Shanghai (China)
-* 8-11: [RustConf](https://rustconf.com/rustconf-2026) - Montreal (Canada)
+* 8-11: [RustConf 2026](http://rustconf.com) - Montreal (Canada) <a href="https://sessionize.com/rustconf-2026"><img alt="CFP RustConf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-February-2026&color=green"></a>
 * 10: [Conf42 Observability 2026](https://www.conf42.com/obs2026) - Online <a href="https://www.papercall.io/conf42-observability-2026"><img alt="CFP Conf42 Observability 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-August-2026&color=green"></a>
 * 10-11: [ZurichJS Conf 2026](https://conf.zurichjs.com/) - Zurich (Switzerland) <a href="https://conf.zurichjs.com/cfp"><img alt="CFP ZurichJS Conf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2026&color=green"></a> <a href="https://conf.zurichjs.com/sponsorship"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 11: [Zurich JS Conf](https://conf.zurichjs.com/) - Zurich (Switzerland) <a href="https://sessionize.com/infobip-shift-2026"><img alt="CFP Zurich JS Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2026&color=green"></a>
@@ -659,6 +676,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15-16: [LDX3 New York](https://leaddev.com/leaddev-new-york) - New York, NY (USA)
 * 15-17: [AI Infra Summit](https://aihwedgesummit.com/events/aihwedgesummit) - Santa Clara (USA)
 * 16-17: [uxcon](https://www.uxcon.io) - Vienna (Austria)
+* 16-17: [TACON 2026](https://events.summit-community.de/event/tacon-2026) - Leipzig (Germany) <a href="https://sessionize.com/tacon-2026"><img alt="CFP TACON 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2026&color=green"></a>
 * 16-18: [MCTTP 2026](https://www.mcttp.de) - Munich (Germany)
 * 16-18: [Hatch Conference](https://www.hatchconference.com) - Berlin (Germany)
 * 17: [DDX Innovation & UX Conference San Diego](https://www.ddxconference.com/sandiego) - San Diego, CA (USA)
@@ -667,13 +685,16 @@ All the data (past and coming) are available publicly in JSON:
 * 20-21: [AMTSO Cyber Research Conference](https://www.amtso.org/special-events/amtso-cyber-research-conference-2026) - Brussels (Belgium) <a href="https://sessionize.com/amtso-cyber-research-conference-2026"><img alt="CFP AMTSO Cyber Research Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 21: [CityJS Athens](https://greece.cityjsconf.org) - Athens (Greece)
 * 21-24: [NDC TechTown](https://ndctechtown.com/) - Kongsberg (Norway)
+* 21-25: [Explore DDD 2026](http://exploreddd.com) - Denver, CO (USA) <a href="https://sessionize.com/explore-ddd-2026"><img alt="CFP Explore DDD 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-March-2026&color=green"></a>
 * 22: [Civo Navigate London 2026](https://www.civo.com/navigate/london/2025) - London (UK) <a href="https://sessionize.com/civo-navigate-london-2026"><img alt="CFP Civo Navigate London" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=green"></a>
 * 22-26: [Nerdearla Argentina](https://nerdear.la/) - Buenos Aires (Argentina)
 * 23-25: [WeAreDevelopers World Congress 2026 - North America](https://www.wearedevelopers.com/world-congress-us) - San Jose, CA (USA) <a href="https://sessionize.com/wearedevelopers-world-congress-2026-us"><img alt="CFP WeAreDevelopers World Congress 2026 Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 24: [Conf42 AI Agents 2026](https://www.conf42.com/agents2026) - Online <a href="https://www.papercall.io/conf42-ai-agents-2026"><img alt="CFP Conf42 AI Agents 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-August-2026&color=green"></a>
 * 24: [PlatformCon Live Day Paris 2026](https://platformconlive.fr/) - Paris (France) <a href="https://platformconlive.fr/sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 24: [Pragma Tokyo 2026](https://ethglobal.com/events/pragma-tokyo2026) - Tokyo (Japan)
+* 25-26: [BSides Kraków 2026](https://bsideskrakow.pl) - Krakow (Poland) <a href="https://sessionize.com/bsides-krakow-2026"><img alt="CFP BSides Kraków 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=green"></a>
 * 26-27: [Devopsdays Cairo](https://devopsdays.org/events/2026-cairo) - Cairo (Egypt)
+* 28-30: [Modern RE 2026](https://events.summit-community.de/event/modernre-2026/) - Leipzig (Germany) <a href="https://sessionize.com/modernre2026"><img alt="CFP Modern RE 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2026&color=green"></a>
 * 28-01/10: [European Microsoft Fabric Community Conference](https://www.sharepointeurope.com/european-microsoft-fabric-community-conference) - Barcelona (Spain)
 * 29-30: [Cloud Native Days Austria](https://cloudnativedays.at/) - Vienna (Austria) <a href="https://sessionize.com/cloud-native-days-austria-2026"><img alt="CFP Cloud Native Days Austria 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=green"></a>
 * 29-30: [Tech Week Singapore](https://www.singaporetechnologyweek.com) - Singapore (Singapore)
@@ -690,6 +711,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1-2: [GITEX VIETNAM 2026](https://gitexvietnam.com) - Hanoi (Vietnam)
 * 5: [Linux Plumbers Conference](https://lpc.events/event/20/) - Prague (Czechia) & Online
 * 5: [Devopsdays Prague](https://devopsdays.org/events/2026-prague/welcome/) - Prague (Czechia) <a href="https://www.papercall.io/dodprague26"><img alt="CFP Devopsdays Prague 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2026&color=green"></a>
+* 5-6: [IIBA Poland Summit 2026](https://iibapolandsummit.org/) - Warsaw (Poland) <a href="https://sessionize.com/iiba-poland-summit-2026"><img alt="CFP IIBA Poland Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 5-9: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
 * 7-9: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) - Prague (Czechia)
 * 7-9: [Embedded Linux Conference Europe](https://events.linuxfoundation.org/embedded-linux-conference-europe/) - Prague (Czechia)
@@ -698,6 +720,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-9: [FlutterCon Europe](https://www.nextappcon.com/fluttercon) - Berlin (Germany)
 * 8: [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) - Prague (Czechia)
 * 8-9: [Pycon Estonia](https://pycon.ee) - Tallinn (Estonia)
+* 10: [Data Saturdays Sofia 2026](https://datasaturday-2025.eventbrite.nl) - Sofia (Bulgaria) <a href="https://sessionize.com/data-saturdays-sofia-2026"><img alt="CFP Data Saturdays Sofia 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=green"></a>
 * 12-13: [PyCon Greece 2026](https://2026.pycon.gr) - Athens (Greece)
 * 12-14: [SwiftLeeds](https://swiftleeds.co.uk) - Leeds (UK)
 * 12-15: [dev2next](https://www.dev2next.com) - Lone Tree, CO (USA)
@@ -705,11 +728,16 @@ All the data (past and coming) are available publicly in JSON:
 * 13-16: [SRECon EMEA](https://www.usenix.org/conference/srecon26emea) - Dublin (Ireland)
 * 14-17: [EuroRust](https://eurorust.eu) - Barcelona (Spain)
 * 15: [Conf42 DevSecOps 2026](https://www.conf42.com/devsecops2026) - Online <a href="https://www.papercall.io/conf42-devsecops-2026"><img alt="CFP Conf42 DevSecOps 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2026&color=green"></a>
+* 15: [FabFest 2026](https://fabfestconf.com/) - Birmingham (UK) <a href="https://sessionize.com/fabfest2026"><img alt="CFP FabFest 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2026&color=green"></a>
 * 15-16: [KotlinLeeds](https://kotlinleeds.com) - Leeds (UK)
+* 16-17: [DevFest Hamburg 2026](https://hamburg.devfest.de/) - Hamburg (Germany) <a href="https://sessionize.com/devfest-hamburg-2026"><img alt="CFP DevFest Hamburg 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=green"></a>
 * 18-20: [All Things Open](https://allthingsopen.org/events/all-things-open-2026) - Raleigh, NC (USA)
 * 19-20: [Global Summit on Data Science and Cloud Computing](https://datascience.novelticsconferences.com) - Rome (Italy) <a href="https://datascience.novelticsconferences.com/register"><img alt="CFP Global Summit on Data Science and Cloud Computing" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2026&color=green"></a>
 * 20-21: [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/) - San Jose, CA (USA)
+* 21-22: [P99 CONF 2026](https://www.p99conf.io/) - Online <a href="https://sessionize.com/p99-conf-2026"><img alt="CFP P99 CONF 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-March-2026&color=green"></a>
+* 23: [2026 Provincial Intermediate and Middle Years Teachers' Association (myPITA) Fall Conference](https://mypita.ca/) - Vancouver, BC (Canada) <a href="https://sessionize.com/mypita"><img alt="CFP 2026 Provincial Intermediate and Middle Years Teachers' Association (myPITA) Fall Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-March-2026&color=green"></a>
 * 23-25: [Encode London 2026](https://luma.com/encode-london-2026) - London (UK)
+* 25-30: [2026 Power Platform Community Conference](https://powerplatformconf.com) - Las Vegas, NV (USA) <a href="https://sessionize.com/2026-power-platform-community-conference"><img alt="CFP 2026 Power Platform Community Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=green"></a>
 * 26-29: [IBM TechXchange](https://www.ibm.com/community/ibm-techxchange-conference/) - Atlanta, GA (USA)
 * 29: [Conf42 Prompt Engineering 2026](https://www.conf42.com/prompt2026) - Online <a href="https://www.papercall.io/conf42-prompt-engineering-2026"><img alt="CFP Conf42 Prompt Engineering 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-September-2026&color=green"></a>
 
@@ -739,6 +767,7 @@ All the data (past and coming) are available publicly in JSON:
 * 3: [Scrum Day Europe](https://scrumdayeurope.com) - Utrecht (Netherlands)
 * 7-9: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan/) - Tokyo (Japan)
 * 7-11: [Gitex Global](https://www.gitex.com) - Dubai (United Arab Emirates)
+* 8-9: [Dynamics Summit 08.-09. Dezember 2026](https://events.m365-summits.de/DynamicsSummit0809Dezember2026#/) - Online <a href="https://sessionize.com/dynamics-summit-08-09-dezember-2026"><img alt="CFP Dynamics Summit 08.-09. Dezember 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2026&color=green"></a>
 * 9-10: [droidcon London](https://london.droidcon.com) - London (UK)
 * 10-11: [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/) - Tokyo (Japan)
 * 17-18: [AI for Developers](https://aiconference.dev/) - Online <a href="https://aiconference.dev/cfp"><img alt="CFP AI for Developers" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=green"></a>
