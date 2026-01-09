@@ -211,6 +211,10 @@
     "latitude": 47.47288,
     "longitude": 8.30809
   },
+  "Bahia Blanca (Argentina)": {
+    "latitude": -38.7176522,
+    "longitude": -62.2654871
+  },
   "Bali (Indonesia)": {
     "latitude": -8.456018100000001,
     "longitude": 115.27038551191185
@@ -414,6 +418,10 @@
   "Braga (Portugal)": {
     "latitude": 41.5454486,
     "longitude": -8.426506999999999
+  },
+  "Brasov (Romania)": {
+    "latitude": 45.6525105,
+    "longitude": 25.6105654
   },
   "Brasília (Brazil)": {
     "latitude": -15.7975154,
@@ -1691,6 +1699,10 @@
     "latitude": 53.4807593,
     "longitude": -2.2426305
   },
+  "Manchester (USA)": {
+    "latitude": 42.9956397,
+    "longitude": -71.4547891
+  },
   "Mangalore (India)": {
     "latitude": 12.9141417,
     "longitude": 74.8559568
@@ -2103,6 +2115,10 @@
     "latitude": 42.1103041,
     "longitude": -88.03424000000001
   },
+  "Palermo (Italy)": {
+    "latitude": 38.1112268,
+    "longitude": 13.3524434
+  },
   "Palo Alto (USA)": {
     "latitude": 37.4443293,
     "longitude": -122.1598465
@@ -2118,6 +2134,10 @@
   "Panaji (India)": {
     "latitude": 15.4989946,
     "longitude": 73.8282141
+  },
+  "Panama City (Panama)": {
+    "latitude": 8.9714493,
+    "longitude": -79.5341802
   },
   "Paris (France)": {
     "latitude": 48.8588897,
@@ -2634,6 +2654,10 @@
   "Sousse (Tunisia)": {
     "latitude": 35.8288175,
     "longitude": 10.6405392
+  },
+  "Springfield (USA)": {
+    "latitude": 39.7990175,
+    "longitude": -89.6439575
   },
   "Sri Lanka": {
     "latitude": 7.5554942,
