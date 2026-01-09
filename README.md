@@ -549,7 +549,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-12: [International PHP Conference](https://phpconference.com/berlin-en) - Berlin (Germany)
 * 8-12: [Pole Position Sprint](https://plone.org/news-and-events/events/sprints/pole-position-sprint-2026) - Kerpen (Germany)
 * 8-12: [London Tech Week 2026](https://londontechweek.com) - London (UK)
-* 10-11: [betterCode() GenAI Summit](https://genai-summit.bettercode.eu) - Mannheim (Germany) <a href="https://genai-summit.bettercode.eu/cfp.php"><img alt="CFP betterCode() GenAI Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-January-2026&color=green"></a>
+* 10-11: [betterCode() GenAI Summit](https://genai-summit.bettercode.eu) - Mannheim (Germany) <a href="https://genai-summit.bettercode.eu/cfp.php"><img alt="CFP betterCode() GenAI Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-January-2026&color=red"></a>
 * 10-11: [Umbraco Codegarden](https://codegarden.umbraco.com/) - Copenhagen (Denmark)
 * 10-11: [Codegarden 2026](https://codegarden.umbraco.com) - Copenhagen (Denmark)
 * 11-12: [DevQuest Niort](https://www.devquest.fr/) - Niort (France) <a href="https://conference-hall.io/devquest-2026"><img alt="CFP devquest niort" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2026&color=green"></a> <a href="https://drive.google.com/drive/folders/1Fb5xMkGeXH5w6W3CUQCd53FcOUXuP0rq?usp=sharing"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
