@@ -1391,6 +1391,10 @@
     "latitude": 50.3097609,
     "longitude": 6.7293316
   },
+  "Kiel (Germany)": {
+    "latitude": 54.3227085,
+    "longitude": 10.135555
+  },
   "Kigali (Rwanda)": {
     "latitude": -1.950851,
     "longitude": 30.061507
@@ -1814,6 +1818,10 @@
   "Minsk (Belarus)": {
     "latitude": 53.9024716,
     "longitude": 27.5618225
+  },
+  "Modena (Italy)": {
+    "latitude": 44.5384728,
+    "longitude": 10.9359609
   },
   "Mogadishu (Somalia)": {
     "latitude": 2.037148,
