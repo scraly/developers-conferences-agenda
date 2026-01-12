@@ -302,6 +302,13 @@ function checkCountries(inputEvents) {
       );
       return;
     }
+    if (sourceUpper === 'THE NETHERLANDS') {
+      errors.push(
+        `Ambiguous country "${event?.country}" for "${eventLabel}". ` +
+        `Please specify "Netherlands"`
+      );
+      return;
+    }
 
     // Normalize to uppercase for comparison
     const codeUpper = normalized.toUpperCase();
@@ -335,7 +342,7 @@ if (require.main === module) {
     errors.forEach((err) => console.error(err));
     process.exit(1);
   }
-  console.log('checkCountries: OK');
+  console.log('found 0 wrong countries');
 }
 
 module.exports = { checkCountries, VALID_COUNTRY_CODES, COUNTRY_NAME_TO_CODE, VIRTUAL_KEYWORDS };

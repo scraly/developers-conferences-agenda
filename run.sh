@@ -16,6 +16,7 @@ node generateIcs4OpenedCfps.js
 node generateRSS.js
 node geoCodes.js
 node validateGeolocations.js
+node checkCountries.js
 
 cd ../page
 # npm run lint
