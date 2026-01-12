@@ -297,7 +297,7 @@ function checkCountries(inputEvents) {
     const sourceUpper = sourceValue.toUpperCase().trim();
     if (sourceUpper === 'CONGO') {
       errors.push(
-        `Ambiguous country "CONGO" for "${eventLabel}". ` +
+        `Ambiguous country "${event?.country}" for "${eventLabel}". ` +
         `Please specify "Republic of the Congo" (CG) or "Democratic Republic of the Congo" (CD)`
       );
       return;
