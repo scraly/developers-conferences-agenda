@@ -13,7 +13,7 @@ jobs:
         with:
           node-version: 22
           cache: npm
-          cache-dependency-path: '**/package-lock.json'
+          cache-dependency-path: "**/package-lock.json"
       - working-directory: page
         run: npm install -D
       - name: Parse Markdowns
@@ -22,6 +22,7 @@ jobs:
           npm install -D
           node mdValidator.js
           node mdParser.js
+          node checkCountries.js
       - name: Run Tests
         working-directory: page
         run: npm test -- --run
