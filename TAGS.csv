@@ -2136,3 +2136,18 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-07-Power BI Next Step,tech:power-bi,topic:data,location:odense
 2026-09-08-KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China,tech:kubernetes,tech:cloud-native,tech:pytorch,location:shanghai
 2026-10-23-2026 Provincial Intermediate and Middle Years Teachers' Association (myPITA) Fall Conference,education:teachers,topic:education,location:vancouver
+2026-02-12-LLMday Warsaw 2026 Q1,tech:llm,tech:ai,topic:artificial-intelligence,language:english
+2026-02-19-Conf42 Machine Learning 2026,tech:machine-learning,topic:ai,language:english
+2026-02-27-DevOps Not Dead - NYC 2026 Q1,tech:devops,topic:cloud,language:english
+2026-02-28-AWS Community Day Ahmedabad 2026,tech:aws,topic:cloud,language:english
+2026-03-05-DevOps Not Dead - London 2026 Q1,tech:devops,topic:cloud,language:english
+2026-03-06-LLMday NYC 2026 Q1,tech:llm,tech:ai,topic:artificial-intelligence,language:english
+2026-03-07-AgentCamp 2026 - Nagpur, India,tech:ai,topic:agent,language:english
+2026-03-11-SOUG Day Bern,tech:software,topic:open-source,language:german
+2026-03-12-kode24,tech:programming,topic:development,language:norwegian
+2026-03-12-kode24-dagen 5.0,tech:programming,topic:development,language:norwegian
+2026-03-31-FlowCon France 2026,tech:process,topic:workflow,language:french
+2026-04-17-HACKÉN IV - CYBERSECURITY CONFERENCE,tech:cybersecurity,topic:security,language:spanish
+2026-04-18-DevFest Pisa,tech:google,topic:cloud,language:italian
+2026-05-18-OWASP AppSec Israel 2026 Tel-Aviv,tech:security,topic:application-security,language:hebrew
+2026-10-23-2026 Provincial Intermediate and Middle Years Teachers' Association (myPITA) Fall Conference,education:teaching,topic:education,language:english
