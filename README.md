@@ -147,6 +147,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-13: [CityJS New Delhi](https://india.cityjsconf.org) - Delhi (India) <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-32bgx5eJZwsKh2Orshc9OiTn010ix8W9xkfM-IrkzoOnTQ/viewform"><img alt="CFP CityJS New Delhi" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=red"></a>
 * 12-13: [Touraine Tech #26](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/touraine-tech-2026"><img alt="CFP TnT 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-November-2025&color=red"></a>
 * 13-14: [DevConf.IN 2026](https://www.devconf.info/in/) - Pune (India) <a href="https://pretalx.devconf.info/devconf-in-2026/cfp"><img alt="CFP DevConf.IN 2026 (open source community conference)" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-November-2025&color=red"></a>
+* 17: [Hedera DevDay](https://devday.hedera.com/) - Denver, CO (USA)
 * 17-18: [Global Power Platform Bootcamp Houston 2026](https://gppb26htx.eventbrite.com) - Houston, TX (USA) <a href="https://sessionize.com/gppb26htx"><img alt="CFP Global Power Platform Bootcamp Houston 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2026&color=green"></a>
 * 18-19: [CityJS New Delhi](https://india.cityjsconf.org/) - New Delhi (India)
 * 18-20: [DeveloperWeek 2026](https://www.developerweek.com/) - San Jose, CA (USA) & Online <a href="https://sessionize.com/developerweek-2026"><img alt="CFP DeveloperWeek 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=red"></a>
@@ -213,6 +214,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28: [AgentCon–Tokyo](https://globalai.community/chapters/tokyo/events/agentcon-tokyo/) - Tokyo (Japan) <a href="https://sessionize.com/agentcon-tokyo0228"><img alt="CFP AgentCon–Tokyo" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2026&color=green"></a>
 * 28: [KCD Guadalajara 2026](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2026/) - Guadalajara (Mexico) <a href="https://sessionize.com/kcd-guadalajara-2026/"><img alt="CFP KCD Guadalajara" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-December-2025&color=red"></a>
 * 28: [DDD North 2026](https://www.dddnorth.co.uk/) - Hull (UK) <a href="https://sessionize.com/ddd-north-2026"><img alt="CFP DDD North" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2026&color=red"></a>
+* 28: [SAP Inside Track 2026](https://sitblr.in/) - Bengaluru (India) <a href="https://sessionize.com/sap-inside-track-q4-2025"><img alt="CFP SAP Inside Track 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2026&color=green"></a>
 * 28-01/03: [Nullcon Goa](https://nullcon.net/goa-2026) - Goa (India) <a href="https://nullcon.net/goa-2026/cfp"><img alt="CFP Nullcon Goa" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-November-2025&color=red"></a>
 * 28-01/03: [DrupalCamp England](https://www.drupalcampengland.org/) - Salford (UK)
 * 28-01/03: [SECCON 14 OpenConference](https://seccon.jp) - Tokyo (Japan) <a href="https://sessionize.com/seccon-14-openconference"><img alt="CFP SECCON 14 OpenConference" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
@@ -873,6 +875,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-12: [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - Salt Lake City, UT (USA)
 * 9-12: [Web Summit Lisbon](https://websummit.com) - Lisbon (Portugal)
 * 11-12: [Leading Design London](https://leadingdesign.com/conferences/london-2026) - London (UK)
+* 12-14: [CMS Conf 2026](https://cmsconf.com) - Gdynia (Poland) <a href="https://sessionize.com/cms-conf-2026"><img alt="CFP CMS Conf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=green"></a>
 * 13: [Akademy 2026](https://akademy.kde.org/) - Graz (Austria)
 * 13-14: [Tokyo Test Fest](https://tokyotestfest.com/en/) - Tokyo (Japan)
 * 15-18: [CyberMarketingCon & CyberCEO Summit 2026](https://cybermarketingconference.com/) - Austin, TX (USA) <a href="https://sessionize.com/cybermarketingcon-2026"><img alt="CFP CyberMarketingCon & CyberCEO Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=green"></a>
