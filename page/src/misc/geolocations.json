@@ -2155,6 +2155,10 @@
     "latitude": 48.8588897,
     "longitude": 2.3200410217200766
   },
+  "Paris-Châtillon (France)": {
+    "latitude": 48.811223,
+    "longitude": 2.3021311
+  },
   "Park City, UT (USA)": {
     "latitude": 40.6460622,
     "longitude": -111.4979729
@@ -2350,6 +2354,10 @@
   "Raipur (India)": {
     "latitude": 21.2380912,
     "longitude": 81.6336993
+  },
+  "Rajkot (India)": {
+    "latitude": 22.3053263,
+    "longitude": 70.8028377
   },
   "Raleigh, NC (USA)": {
     "latitude": 35.7803977,
@@ -2763,6 +2771,10 @@
     "latitude": 23.5983227,
     "longitude": 120.83537694479215
   },
+  "Taldykorgan (Kazakhstan)": {
+    "latitude": 45.0177188,
+    "longitude": 78.3820494
+  },
   "Tallinn (Estonia)": {
     "latitude": 59.4372155,
     "longitude": 24.7453688
@@ -2990,6 +3002,10 @@
   "Weiden in der Oberpfalz (Germany)": {
     "latitude": 49.6752749,
     "longitude": 12.1631636
+  },
+  "Weimar (Germany)": {
+    "latitude": 50.9793301,
+    "longitude": 11.3297921
   },
   "Wellington (New Zealand)": {
     "latitude": -41.2887953,
