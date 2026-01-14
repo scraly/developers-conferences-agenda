@@ -43,7 +43,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-10: [CUSEC - Canadian University Software Engineering Conference](https://2026.cusec.net/) - Montreal (Canada)
 * 10-11: [wwktm: AI Conf 2026](https://ai.wwktm.com/2026/) - Kathmandu (Nepal) <a href="https://www.papercall.io/ai-conf-2025"><img alt="CFP wwktm: AI Conf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2025&color=red"></a>
 * 13-16: [CodeMash 2026](https://codemash.org/) - Sandusky, OH (USA)
-* 14-17: [SnowCamp 2026](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/snowcamp-2026"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2025&color=red"></a>
+* 14-17: [SnowCamp 2026](https://snowcamp.io/) - Grenoble (France) [discount:SNOWCAMP20|20%|until=2026-10-31] <a href="https://conference-hall.io/snowcamp-2026"><img alt="CFP SnowCamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2025&color=red"></a>
 * 15: [MongoDB.local San Francisco](https://www.mongodb.com/events/mongodb-local/san-francisco) - San Francisco, CA (USA)
 * 15: [Data Left Unattended - Amsterdam](http://unattended-data.io/) - Amsterdam (Netherlands) <a href="https://sessionize.com/data-left-unattended-amsterdam/"><img alt="CFP Data Left Unattended - Amsterdam" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-September-2025&color=red"></a>
 * 15: [.NET Conf 2025 Catania](https://www.eventbrite.it/e/biglietti-net-conf-2025-catania-1744241105099) - Catania (Italy)

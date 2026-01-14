@@ -306,3 +306,33 @@
 .event-list-entry a:hover {
   text-decoration: underline;
 }
+
+.event-list-header .discounts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.event-list-header .discount-badge {
+  display: inline-block;
+  background-color: #10b981;
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.85em;
+  font-weight: 500;
+  word-break: break-word;
+  max-width: 100%;
+}
+
+/* Responsive adjustments for mobile */
+@media screen and (max-width: 480px) {
+  .event-list-header .discounts {
+    gap: 0.35rem;
+  }
+  
+  .event-list-header .discount-badge {
+    font-size: 0.8em;
+    padding: 0.2rem 0.6rem;
+  }
+}

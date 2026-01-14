@@ -107,37 +107,40 @@ const extractEvents = (monthMarkdown, year, month) => {
     .match(/^\s*\*\s*(\[[^\]]*\])?\s*[0-9\/-]+:?.*$/gm)
   if (!eventLines) return [];
   return eventLines.map((eventLine) => {
-      const links = eventLine.match(/<a[^>]*>.*?<\/a>/g) || [];
+      // Remove discount tags before parsing other fields to avoid polluting name/location/country
+      const eventLineWithoutDiscounts = eventLine.replace(/\[discount:[^\]]+\]/g, '').trim();
+      
+      const links = eventLineWithoutDiscounts.match(/<a[^>]*>.*?<\/a>/g) || [];
       const sponsoringLink = links.find(link => link.includes('alt="Sponsoring"')) || "";
       const sponsoringUrl = sponsoringLink.match(/href="([^"]+)"/)?.[1];
 
       const cfpLink = links.find(link => link.includes('alt="CFP"')) || "";
 
-      const miscContent = eventLine.includes("</a>")
-        ? eventLine.trim().replaceAll(/^.*?(<a.*a>.*)$/g, "$1")
+      const miscContent = eventLineWithoutDiscounts.includes("</a>")
+        ? eventLineWithoutDiscounts.trim().replaceAll(/^.*?(<a.*a>.*)$/g, "$1")
         : "";
       const misc = miscContent.replace(sponsoringLink, "").replace(cfpLink, "").trim();
 
       const event = {
-        name: eventLine.trim().replaceAll(/^.*[?0-9\/\-]+.*\[(.*)\].*$/g, "$1"),
+        name: eventLineWithoutDiscounts.trim().replaceAll(/^.*[?0-9\/\-]+.*\[(.*)\].*$/g, "$1"),
         date: getTimeSpan(
           year,
           month,
-          eventLine.trim().replaceAll(/^\s*\*\s*([0-9\/-]*).*$/g, "$1")
+          eventLineWithoutDiscounts.trim().replaceAll(/^\s*\*\s*([0-9\/-]*).*$/g, "$1")
         ),
-        hyperlink: eventLine.trim().replaceAll(/^.*\]\(([^)]*)\).*$/g, "$1"),
-        location: eventLine
+        hyperlink: eventLineWithoutDiscounts.trim().replaceAll(/^.*\]\(([^)]*)\).*$/g, "$1"),
+        location: eventLineWithoutDiscounts
           .trim()
           .replaceAll(/^[^\]]*[^)]*[\P{Letter}]*([^<]*).*$/ug, "$1")
           .trim(),
-        city: eventLine
+        city: eventLineWithoutDiscounts
           .trim()
           .replaceAll(/^[^\]]*[^)]*[\P{Letter}]*([^<]*).*$/ug, "$1")
           .trim()
           .replaceAll(/ \& Online/g, "")
           .replaceAll(/^([^(]*)\(.*$/g, "$1")
           .trim(),
-        country: eventLine 
+        country: eventLineWithoutDiscounts 
           .trim()
           .replaceAll(/^[^\]]*[^)]*[\P{Letter}]*([^<]*).*$/ug, "$1")
           .trim()
@@ -147,11 +150,12 @@ const extractEvents = (monthMarkdown, year, month) => {
         misc: misc,
         cfp: extractCfp(misc),
   sponsoring: sponsoringUrl,
-  closedCaptions: eventLine.trim().match(/^.*(<img alt=.Closed Captions.).*$/) !== null,
-  scholarship: eventLine.trim().match(/^.*(<img alt=.Scholarship.).*$/) !== null,
-  sponsoringBadge: eventLine.trim().match(/^.*(<img alt=.Sponsoring.).*$/) !== null,
-        status: eventLine.trim().startsWith("* [")
-          ? eventLine.trim().replaceAll(/^[^[]*\[([\w\s]*)\].*$/g, "$1")
+  closedCaptions: eventLineWithoutDiscounts.trim().match(/^.*(<img alt=.Closed Captions.).*$/) !== null,
+  scholarship: eventLineWithoutDiscounts.trim().match(/^.*(<img alt=.Scholarship.).*$/) !== null,
+  sponsoringBadge: eventLineWithoutDiscounts.trim().match(/^.*(<img alt=.Sponsoring.).*$/) !== null,
+  discounts: extractDiscounts(eventLine),
+        status: eventLineWithoutDiscounts.trim().startsWith("* [")
+          ? eventLineWithoutDiscounts.trim().replaceAll(/^[^[]*\[([\w\s]*)\].*$/g, "$1")
           : "open",
       };
     return event;
@@ -199,6 +203,50 @@ const extractCfp = (shieldCode) => {
     until: untilStr,
     untilDate: untilDate,
   };
+};
+
+const extractDiscounts = (eventLine) => {
+  // Pattern: [discount:CODE|20%|until=2025-10-31]
+  const discountMatches = [...eventLine.matchAll(/\[discount:([^\]]+)\]/g)];
+  if (!discountMatches || discountMatches.length === 0) return [];
+  
+  return discountMatches.map((match) => {
+    const content = match[1];
+    const parts = content.split('|').map(p => p.trim());
+    
+    const discount = {
+      code: parts[0] || "",
+      value: "",
+      type: "percent",
+      until: "",
+      untilDate: null
+    };
+    
+    // Parse remaining parts (value, type, until)
+    for (let i = 1; i < parts.length; i++) {
+      const part = parts[i];
+      if (part.includes('=')) {
+        const [key, val] = part.split('=').map(p => p.trim());
+        if (key === 'until') discount.until = val;
+      } else {
+        // Assume it's the discount value (e.g., "20%" or "€50")
+        discount.value = part;
+      }
+    }
+    
+    // Parse until date if present
+    if (discount.until) {
+      const dateParts = discount.until.match(/(\d{4})-(\d{1,2})-(\d{1,2})/);
+      if (dateParts) {
+        const year = parseInt(dateParts[1]);
+        const month = parseInt(dateParts[2]) - 1;
+        const day = parseInt(dateParts[3]);
+        discount.untilDate = getTimeStamp(year, month, day);
+      }
+    }
+    
+    return discount;
+  });
 };
 
 //main file parsing
