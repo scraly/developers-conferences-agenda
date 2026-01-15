@@ -2174,3 +2174,9 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-24-Manage Agile 2026,tech:agile,topic:conference,language:german
 2026-12-07-Automotive Linux Summit,tech:linux,topic:automotive,language:japanese
 2026-12-07-Embedded Linux Conference Asia,tech:linux,topic:embedded,language:japanese
+2026-02-21-Global Power Platform Bootcamp Castellón 2026,tech:microsoft,topic:dynamics-365,topic:ai,language:english
+2026-03-12-Modern Business Building with Microsoft Dynamics 365 and AI,tech:pytorch,topic:deep-learning,topic:ai,language:english
+2026-04-07-PyTorch Conference Europe,tech:linux,topic:networking,topic:performance,language:english
+2026-05-12-DPDK Summit 2026,tech:microsoft,topic:cloud,topic:enterprise,language:english
+2026-05-12-Ignite Summit 2026,tech:artificial-intelligence,topic:research,topic:future,language:french
+2026-06-24-Agi'Lille 2026,tech:python,topic:ai,topic:deep-learning,language:french
