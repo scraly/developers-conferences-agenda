@@ -306,7 +306,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17: [AgentCamp Ponferrada 2026](https://globalai.community/agentcamp/ponferrada/) - Ponferrada (Spain) <a href="https://sessionize.com/agentcamp-ponferrada-2026"><img alt="CFP AgentCamp Ponferrada 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-January-2026&color=green"></a>
 * 17: [NAVIGATE 2026](https://navigate-kongress.de/) - Online <a href="https://sessionize.com/navigate-2026"><img alt="CFP NAVIGATE 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=red"></a>
 * 17-18: [North American M365 Summit](https://events.m365-summits.de/NorthAmericanTeamsSummit1718Mrz2026#/) - Online <a href="https://sessionize.com/north-american-m365-summit-17-18-mar/"><img alt="CFP North American M365 Summit 17.- 18. März 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2025&color=red"></a>
-* 17-18: [OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/) - Shanghai (China) <a href="https://sessionize.com/opensearchcon-china-2026"><img alt="CFP OpenSearchCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2026&color=green"></a>
+* 17-18: [OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/) - Shanghai (China) <a href="https://sessionize.com/opensearchcon-china-2026"><img alt="CFP OpenSearchCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2026&color=red"></a>
 * 17-18: [ScanAgile](https://www.scan-agile.org/) - Helsinki (Finland)
 * 17-19: [JavaOne](https://www.oracle.com/javaone) - Redwood City, CA (USA)
 * 18: [Supply Chain Security and Third-Party Risk Summit | 2026](https://www.securitysummits.com/event/supply-chain-security-summit/) - Online <a href="https://sessionize.com/supply-chain-cybersecurity-summit"><img alt="CFP Supply Chain Security and Third-Party Risk Summit | 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=green"></a>
@@ -731,7 +731,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22-26: [OWASP Global AppSec EU 2026](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243) - Vienna (Austria)
 * 22-26: [UN Open Source Week](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025) - New York, NY (USA)
 * 23: [PlatformCON Live Day London](https://platformcon.com/live-day-london) - London (UK)
-* 23-26: [VibeKode](https://vibekode.it) - Munich (Germany) <a href="https://vibekode.it/call-for-papers"><img alt="CFP VibeKode" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2026&color=green"></a>
+* 23-26: [VibeKode](https://vibekode.it) - Munich (Germany) <a href="https://vibekode.it/call-for-papers"><img alt="CFP VibeKode" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2026&color=red"></a>
 * 24: [AI Conf 2026](https://www.aiconf.it) - Milan (Italy) <a href="https://sessionize.com/ai-conf-2026"><img alt="CFP AI Conf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=green"></a>
 * 24: [FutureCIO Malaysia Conference](https://cxociety.com/events/4th-annual-future-cio-conference-malaysia) - Kuala Lumpur (Malaysia)
 * 24-25: [Agi'Lille 2026](https://agilille.fr) - Lille (France) <a href="https://sessionize.com/agilille-2026"><img alt="CFP Agi'Lille 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-March-2026&color=green"></a>
