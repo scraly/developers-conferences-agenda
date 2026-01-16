@@ -1,6 +1,9 @@
 name: CheckMarkdown
 on: pull_request
 
+permissions:
+  contents: read
+
 jobs:
   MdValidator:
     name: MdValidator
