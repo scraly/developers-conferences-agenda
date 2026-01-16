@@ -571,7 +571,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-15: [DevOpsDays Medellin 2026](http://devopsdays.io) - Medellin (Colombia) <a href="https://www.papercall.io/dodmde2026"><img alt="CFP DevOpsDays Medellin 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2026&color=green"></a>
 * 14-15: [BSides Maine](http://www.bsidesmaine.org) - Portland, ME (USA) <a href="https://www.papercall.io/bsides-maine"><img alt="CFP BSides Maine" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=green"></a>
 * 14-15: [phpday 2026](https://www.phpday.it/) - Verona (Italy) <a href="https://sessionize.com/phpday-2026"><img alt="CFP phpday 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2026&color=red"></a>
-* 14-15: [C1B3RTR4CKS](https://www.c1b3rtr4cks.es/) - Madrid (Spain)) <a href="https://www.papercall.io/c1b3rtr4cks26"><img alt="CFP C1B3RTR4CKS" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2026&color=green"></a>
+* 14-15: [C1B3RTR4CKS](https://www.c1b3rtr4cks.es/) - Madrid (Spain) <a href="https://www.papercall.io/c1b3rtr4cks26"><img alt="CFP C1B3RTR4CKS" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2026&color=green"></a>
 * 15: [KCD Texas 2026](https://community.cncf.io/events/details/cncf-kcd-texas-presents-kcd-texas-2026/cohost-kcd-texas/) - Austin, TX (USA) <a href="https://sessionize.com/kcd-texas-2026/"><img alt="CFP KCD Texas 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2026&color=green"></a>
 * 15: [BSides Nashville 2026](https://bsidesnash.org/) - Nashville, TN (USA) <a href="https://sessionize.com/bsides-nashville-2026"><img alt="CFP BSides Nashville 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2026&color=green"></a>
 * 15: [NZ Tech Rally](https://nztechrally.nz) - Wellington (New Zealand)
@@ -838,7 +838,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17: [DDX Innovation & UX Conference San Diego](https://www.ddxconference.com/sandiego) - San Diego, CA (USA)
 * 17: [Swiss Cloud Native Day 2026](https://cloudnativeday.ch/) - Bern (Switzerland) <a href="https://sessionize.com/swiss-cloud-native-day-2026"><img alt="CFP AMTSO Cyber Research Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=green"></a>
 * 17: [MCP Dev Summit Europe](https://events.linuxfoundation.org/mcp-dev-summit-europe/) - Amsterdam (Netherlands)
-* 17-18: [API Platform Conference 2026](https://api-platform.com/fr/con/) - Lille (France)
+* 17-18: [API Platform Conference 2026](https://api-platform.com/fr/con/) - Lille (France) <a href="https://api-platform.com/fr/con/2026/call-for-papers/"><img alt="CFP API Platform Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-March-2026&color=green"></a>
 * 20-21: [AMTSO Cyber Research Conference](https://www.amtso.org/special-events/amtso-cyber-research-conference-2026) - Brussels (Belgium) <a href="https://sessionize.com/amtso-cyber-research-conference-2026"><img alt="CFP AMTSO Cyber Research Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 21: [CityJS Athens](https://greece.cityjsconf.org) - Athens (Greece)
 * 21-24: [NDC TechTown](https://ndctechtown.com/) - Kongsberg (Norway)
