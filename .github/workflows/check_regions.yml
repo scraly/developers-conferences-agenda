@@ -1,6 +1,9 @@
 name: CheckRegions
 on: pull_request
 
+permissions:
+  contents: read
+
 jobs:
   RegionsValidator:
     name: RegionsValidator
