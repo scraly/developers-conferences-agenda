@@ -7,8 +7,8 @@ import ShortDate from 'components/ShortDate/ShortDate';
 import TagBadges from 'components/TagBadges/TagBadges';
 import { useFilters } from 'app.hooks';
 
-const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, dateOnTop=false, country, tags, sponsoring}) => {
-  const event = {name, hyperlink, location, misc, closedCaptions, date, country, tags, sponsoring};
+const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, dateOnTop=false, country, tags, sponsoring, discounts}) => {
+  const event = {name, hyperlink, location, misc, closedCaptions, date, country, tags, sponsoring, discounts};
   const eventId = `${name}-${date[0]}`;
   const { isFavorite } = useFavoritesContext();
   const isFav = isFavorite(eventId);
@@ -34,6 +34,15 @@ const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, da
         </div>
         {sponsoring ? <span><a class="sponsoring" href={sponsoring} rel="noreferrer" target="_blank">💰</a></span> : null}
         <p className="cfp" dangerouslySetInnerHTML={{__html: misc}} />
+        {discounts && discounts.length > 0 ? (
+          <div className="discounts">
+            {discounts.map((discount, idx) => (
+              <span key={idx} className="discount-badge">
+                {discount.code}{discount.value ? ` - ${discount.value}` : ''}
+              </span>
+            ))}
+          </div>
+        ) : null}
         {closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
         <TagBadges onTagClick={handleTagClick} tags={tags} />
       </div>

@@ -101,3 +101,35 @@
 .sponsoring {
   text-decoration: none;
 }
+
+.discounts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.5rem 0;
+}
+
+.discount-badge {
+  display: inline-block;
+  background-color: #10b981;
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.85em;
+  font-weight: 500;
+  word-break: break-word;
+  max-width: 100%;
+}
+
+/* Responsive adjustments for mobile */
+@media screen and (max-width: 480px) {
+  .discounts {
+    margin: 0.25rem 0;
+    gap: 0.35rem;
+  }
+  
+  .discount-badge {
+    font-size: 0.8em;
+    padding: 0.2rem 0.6rem;
+  }
+}

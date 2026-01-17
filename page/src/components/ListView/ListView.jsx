@@ -85,6 +85,15 @@ const ListView = () => {
                     <span dangerouslySetInnerHTML={{__html: e.misc}} />
                     {e.sponsoring ? <span><a class="sponsoring" href={e.sponsoring} rel="noreferrer" target="_blank">💰</a></span> : null}
                     {e.closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
+                    {e.discounts && e.discounts.length > 0 ? (
+                      <div className="discounts">
+                        {e.discounts.map((discount, idx) => (
+                          <span key={idx} className="discount-badge">
+                            {discount.code}{discount.value ? ` - ${discount.value}` : ''}
+                          </span>
+                        ))}
+                      </div>
+                    ) : null}
                   </div>
                 </div>
                 <TagBadges onTagClick={handleTagClick} tags={e.tags} />
