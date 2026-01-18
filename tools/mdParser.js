@@ -54,7 +54,8 @@ const parseMetadata = () => {
       const line = lines[i].trim();
       if (!line) continue;
 
-      const [eventId, attendeesRaw] = line.split(',');
+      const [eventId, ...rest] = line.split(',');
+      const attendeesRaw = rest.join(',').trim();
 
       const attendees = parseInt(attendeesRaw, 10);
       if (!isNaN(attendees) && attendees > 0) {
