@@ -215,7 +215,7 @@ const EditEventInlineForm = ({ event, onClose }) => {
     if (!validateForm()) return;
     const title = encodeURIComponent(`[Edit event] ${formData.startDate}: ${formData.name}`);
     const body = generateIssueBody();
-    const githubUrl = `https://github.com/faheemakhmed/react-projects/issues/new?title=${title}&body=${body}&labels=edit-event`;
+    const githubUrl = `https://github.com/scraly/developers-conferences-agenda/issues/new?title=${title}&body=${body}&labels=edit-event`;
     window.open(githubUrl, '_blank');
     onClose();
   };

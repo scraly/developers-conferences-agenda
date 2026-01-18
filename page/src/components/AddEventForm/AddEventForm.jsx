@@ -253,7 +253,7 @@ ${generateTagsCsvLines()}
     const title = encodeURIComponent(`[New event] ${formData.startDate}: ${formData.name}`);
     const body = generateIssueBody();
     
-    const githubUrl = `https://github.com/faheemakhmed/react-projects/issues/new?title=${title}&body=${body}&labels=new-event`;
+    const githubUrl = `https://github.com/scraly/developers-conferences-agenda/issues/new?title=${title}&body=${body}&labels=new-event`;
     
     window.open(githubUrl, '_blank');
     
