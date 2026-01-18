@@ -2208,3 +2208,16 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-20-Data Centre Expo at TechEx Europe,tech:cloud,topic:data-centers,topic:infrastructure,language:english
 2026-11-02-OWASP Global AppSec USA (SF) 2026 - CFT,tech:security,topic:appsec,language:english
 2026-11-15-Live! 360 Tech Con Orlando 2026,tech:technology,topic:innovation,language:english
+2026-03-07-AgentCamp Valencia 2026,tech:python,topic:data,topic:open-source,language:english
+2026-03-08-Global AI Bootcamp Valencia,tech:python,topic:data,topic:open-source,language:english
+2026-03-18-Jupyter Workshops: AI in Jupyter: Building Extensible AI Capabilities for Interactive Computing,tech:python,topic:ai,topic:interactive-computing,language:english
+2026-03-18-Jupyter Workshops: AI in Jupyter: Building Extensible AI Capabilities for Interactive Computing,tech:python,topic:ai,topic:interactive-computing,language:french
+2026-04-07-AgentCon Seoul,tech:python,topic:ai,topic:agent,language:korean
+2026-05-05-SREday Austin 2026 Q2,tech:devops,topic:sre,language:english
+2026-05-05-Merge Conference 2026,tech:software-development,topic:conference,language:english
+2026-06-01-DevTalks Romania 2026,tech:software-development,topic:conference,language:romanian
+2026-06-18-2026 IRE CONFERENCE,tech:journalism,topic:data-reporting,language:english
+2026-08-08-Beer City Code 2026,tech:software-development,topic:conference,language:english
+2026-08-21-DevTalks Cluj Napoca 2026,tech:software-development,topic:conference,language:romanian
+2026-10-11-Community Over Code (The Apache Software Foundation),tech:open-source,topic:apache,language:english
+2026-11-19-Cloud Native Denmark 2026,tech:cloud-native,topic:devops,language:english
