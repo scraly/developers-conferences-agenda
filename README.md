@@ -768,6 +768,7 @@ All the data (past and coming) are available publicly in JSON:
 * 24-25: [Agi'Lille 2026](https://agilille.fr) - Lille (France) <a href="https://sessionize.com/agilille-2026"><img alt="CFP Agi'Lille 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-March-2026&color=green"></a>
 * 25: [Open Source in Finance Forum London](https://events.linuxfoundation.org/open-source-finance-forum-london/) - London (UK)
 * 25: [PlatformCON Live day NYC](https://platformcon.com/live-day-nyc) - New York, NY (USA)
+* 25: [Experts Live Austria 2026](http://www.expertslive.at) - Linz (Austria) <a href="https://sessionize.com/experts-live-austria-2026/"><img alt="CFP Experts Live Austria 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=green"></a>
 * 25-26: [DAM Europe](https://www.henrystewartconferences.com/events/dam-europe-2026) - London (UK)
 * 25-26: [IEEE Cloud Summit 2026](https://www.ieeecloudsummit.org/) - Washington D.C. (USA) <a href="https://sessionize.com/ieeecloudsummit26"><img alt="CFP IEEE Cloud Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=green"></a>
 * 25-26: [OWASP Global AppSec EU 2026 - CFP (Vienna, Austria)](https://www.owasp.org) - Vienna (Austria) <a href="https://sessionize.com/owasp-global-appsec-eu-2026-cfp-wash"><img alt="CFP OWASP Global AppSec EU 2026 - CFP (Vienna, Austria)" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2026&color=green"></a>
