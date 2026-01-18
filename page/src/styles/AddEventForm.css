@@ -89,6 +89,7 @@
   width: auto;
 }
 
+.form-group input[type="number"],
 .form-group input[type="text"],
 .form-group input[type="url"],
 .form-group input[type="date"] {
@@ -100,6 +101,8 @@
   box-sizing: border-box;
 }
 
+
+.form-group input[type="number"]:focus,
 .form-group input[type="text"]:focus,
 .form-group input[type="url"]:focus,
 .form-group input[type="date"]:focus {

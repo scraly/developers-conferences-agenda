@@ -17,7 +17,8 @@ const AddEventForm = ({ isOpen, onClose }) => {
     sponsoringUrl: '',
     closedCaptions: false,
     onlineEvent: false,
-    tags: []
+    tags: [],
+    attendees: '' // ← NEW
   });
 
   const [errors, setErrors] = useState({});
@@ -52,6 +53,20 @@ const AddEventForm = ({ isOpen, onClose }) => {
     if (!formData.startDate) newErrors.startDate = 'Start date is required';
     if (!formData.endDate) newErrors.endDate = 'End date is required';
     if (!formData.eventUrl.trim()) newErrors.eventUrl = 'Event URL is required';
+    
+    // Attendees validation
+    if (formData.attendees.trim()) {
+      const attendeesNumber = Number(formData.attendees);
+
+      if (
+        Number.isNaN(attendeesNumber) ||
+        !Number.isInteger(attendeesNumber) ||
+        attendeesNumber <= 0
+      ) {
+        newErrors.attendees = 'Number of attendees must be a positive whole number';
+      }
+    }
+
 
     // URL validation
     try {
@@ -206,6 +221,7 @@ const AddEventForm = ({ isOpen, onClose }) => {
 - **End Date:** ${formData.endDate}
 - **Event URL:** ${formData.eventUrl}
 - **Location:** ${locationDisplay}
+- **Estimated Attendees:** ${formData.attendees || 'Not specified'}
 - **Has CFP:** ${formData.hasCfp ? 'Yes' : 'No'}${formData.hasCfp ? `
 - **CFP URL:** ${formData.cfpUrl || 'N/A'}
 - **CFP End Date:** ${formData.cfpEndDate || 'N/A'}` : ''}
@@ -237,7 +253,7 @@ ${generateTagsCsvLines()}
     const title = encodeURIComponent(`[New event] ${formData.startDate}: ${formData.name}`);
     const body = generateIssueBody();
     
-    const githubUrl = `https://github.com/scraly/developers-conferences-agenda/issues/new?title=${title}&body=${body}&labels=new-event`;
+    const githubUrl = `https://github.com/faheemakhmed/react-projects/issues/new?title=${title}&body=${body}&labels=new-event`;
     
     window.open(githubUrl, '_blank');
     
@@ -254,7 +270,8 @@ ${generateTagsCsvLines()}
       hasCfp: false,
       closedCaptions: false,
       onlineEvent: false,
-      tags: []
+      tags: [],
+      attendees: ''
     });
     setErrors({});
     onClose();
@@ -441,6 +458,24 @@ ${generateTagsCsvLines()}
               {errors.sponsoringUrl ? <span className="error-message">{errors.sponsoringUrl}</span> : null}
             </div>
           ) : null}
+
+          <div className="form-group">
+            <label htmlFor="attendees">Number of Attendees</label>
+            <input
+              className={errors.attendees ? 'error' : ''}
+              id="attendees"
+              onChange={(e) => handleInputChange('attendees', e.target.value)}
+              placeholder="e.g. 500"
+              type="number"
+              min="1"
+              step="1"
+              value={formData.attendees}
+            />
+            {errors.attendees ? (
+              <span className="error-message">{errors.attendees}</span>
+            ) : null}
+          </div>
+
 
           <div className="form-group">
             <label>Tags</label>
