@@ -93,14 +93,15 @@ const ListView = () => {
                     ) : ''}
                   </b>
 
-                  <span>
-                    {e.location}
-                    {e.attendees ? (
-                      <span className="attendees">
-                        {' '}· 👥 {e.attendees}
-                      </span>
-                    ) : null}
-                  </span>
+                    <span>
+                      {e.location}
+                      {typeof e.attendees === 'number' && (
+                        <span className="attendees">
+                          {' '}· 👥 {e.attendees}
+                        </span>
+                      )}
+                    </span>
+
 
                   <span dangerouslySetInnerHTML={{ __html: e.misc }} />
 

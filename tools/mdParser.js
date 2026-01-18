@@ -45,21 +45,22 @@ const parseTags = () => {
 
 const parseMetadata = () => {
   try {
-    const metadataContent = fs.readFileSync(METADATA_INPUT, 'utf8');
-    const lines = metadataContent.split('\n').filter(line => line.trim() !== '');
+    const content = fs.readFileSync(METADATA_INPUT, 'utf8');
+    const lines = content.split('\n').filter(line => line.trim() !== '');
     const metadataMap = new Map();
 
-    // Skip header row
+    // skip header
     for (let i = 1; i < lines.length; i++) {
       const line = lines[i].trim();
       if (!line) continue;
 
-      const [eventId, ...rest] = line.split(',');
-      const attendeesRaw = rest.join(',').trim();
+      const [eventId, attendeesPart] = line.split(',');
 
-      const attendees = parseInt(attendeesRaw, 10);
-      if (!isNaN(attendees) && attendees > 0) {
-        metadataMap.set(eventId, { attendees });
+      if (attendeesPart && attendeesPart.startsWith('attendees:')) {
+        const attendees = parseInt(attendeesPart.replace('attendees:', ''), 10);
+        if (!isNaN(attendees)) {
+          metadataMap.set(eventId, { attendees });
+        }
       }
     }
 
@@ -69,6 +70,7 @@ const parseMetadata = () => {
     return new Map();
   }
 };
+
 
 
 const generateEventId = (conf) => {
