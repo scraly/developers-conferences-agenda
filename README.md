@@ -658,6 +658,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29: [CzechDreamin 2026](https://czechdreamin.com) - Prague (Czechia) <a href="https://sessionize.com/czechdreamin-2026"><img alt="CFP CzechDreamin 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-February-2026&color=green"></a>
 * 29: [NG Baguette Conf 2026](https://ngbaguette.angulardevs.fr/) - Paris (France) <a href="https://conference-hall.io/ng-baguette-conf-2026"><img alt="CFP NG Baguette Conf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=green"></a>
 * 29: [Africa Tech Summit London](https://www.africatechsummit.com/london/) - London (UK)
+* 29: [Agile Tour Strasbourg 2026](https://agilestrasbourg.fr/) - Strasbourg (France) <a href="https://sessionize.com/agile-tour-strasbourg-2026"><img alt="CFP Agile Tour Strasbourg 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-April-2026&color=green"></a>
 * 29-31: [RubyConf Austria 2026](https://rubyconf.at) - Vienna (Austria) <a href="https://www.papercall.io/rubyconfaustria2026"><img alt="CFP RubyConf Austria 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2025&color=red"></a>
 
 ### June
@@ -930,6 +931,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 2-4: [OWASP Global AppSec USA (SF) 2026 - CFT](https://owasp.glueup.com/event/owasp-2026-global-appsec-usa-san-francisco-ca-167174/) - San Francisco, CA (USA) <a href="https://sessionize.com/owasp-global-appsec-USA-SF-2026-c"><img alt="CFP OWASP Global AppSec USA (SF) 2026 - CFT" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2026&color=green"></a>
 * 4-5: [Open Source in Finance Forum New York](https://events.linuxfoundation.org/open-source-finance-forum-new-york/) - New York, NY (USA)
+* 4-5: [DevCon 2026](https://www.dev-con.ro/) - Bucharest (Romania) <a href="https://www.papercall.io/devcon2026"><img alt="CFP DevCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-October-2026&color=green"></a>
 * 5: [Conf42 Platform Engineering 2026](https://www.conf42.com/platform2026) - Online <a href="https://www.papercall.io/conf42-platform-engineering-2026"><img alt="CFP Conf42 Platform Engineering 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-October-2026&color=green"></a>
 * 6-7: [Texas Linux Fest](https://2026.texaslinuxfest.org/) - Austin, TX (USA)
 * 9-10: [LeadDev Berlin](https://leaddev.com/leaddev-berlin) - Berlin (Germany)
