@@ -107,15 +107,27 @@ const MapView = () => {
                 <span dangerouslySetInnerHTML={{__html: e.misc}} />
                 {e.sponsoring ? <a href={e.sponsoring} rel="noreferrer" target="_blank">💰</a> : null}
                 {e.closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
-                {e.discounts && e.discounts.length > 0 ? (
-                  <div className="discounts">
-                    {e.discounts.map((discount, idx) => (
-                      <span key={idx} className="discount-badge">
-                        {discount.code}{discount.value ? ` - ${discount.value}` : ''}
-                      </span>
-                    ))}
-                  </div>
-                ) : null}
+                {(() => {
+                  const inlineDiscounts = e.discounts || [];
+                  const inlineCodeSet = new Set(inlineDiscounts.map(d => d.code));
+                  const metadataDiscounts = e.metadata?.discountCodes?.filter(code => !inlineCodeSet.has(code)) || [];
+                  const hasDiscounts = inlineDiscounts.length > 0 || metadataDiscounts.length > 0;
+                  
+                  return hasDiscounts ? (
+                    <div className="discounts">
+                      {inlineDiscounts.map((discount, idx) => (
+                        <span key={`inline-${idx}`} className="discount-badge" aria-label={`Discount code: ${discount.code}${discount.value ? `, saves ${discount.value}` : ''}`}>
+                          {discount.code}{discount.value ? ` - ${discount.value}` : ''}
+                        </span>
+                      ))}
+                      {metadataDiscounts.map((code, idx) => (
+                        <span key={`meta-${idx}`} className="discount-badge metadata-badge" aria-label={`Discount code: ${code}`}>
+                          {code}
+                        </span>
+                      ))}
+                    </div>
+                  ) : null;
+                })()}
                 <FavoriteButton event={e} />
               </div>
             );

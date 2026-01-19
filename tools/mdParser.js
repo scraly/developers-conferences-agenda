@@ -3,6 +3,7 @@ const fs = require("fs");
 const ROOT = "../";
 const MAIN_INPUT = ROOT + "README.md";
 const TAGS_INPUT = ROOT + "TAGS.csv";
+const METADATA_INPUT = ROOT + "METADATA.csv";
 const MAIN_OUTPUT = ROOT + "page/src/misc/all-events.json";
 const CFP_OUTPUT = ROOT + "page/src/misc/all-cfps.json";
 const MONTHS_NAMES =
@@ -38,6 +39,53 @@ const parseTags = () => {
     return tagsMap;
   } catch (error) {
     console.warn('TAGS.csv not found or invalid, continuing without tags');
+    return new Map();
+  }
+}
+
+const parseMetadata = () => {
+  try {
+    const metadataContent = fs.readFileSync(METADATA_INPUT, 'utf8');
+    const lines = metadataContent.split('\n').filter(line => line.trim() !== '');
+    const metadataMap = new Map();
+    
+    // Validate CSV header format
+    const header = lines[0].split(',').map(h => h.trim());
+    const expectedHeaders = ['event_id', 'discount_codes', 'estimated_attendees', 'notes'];
+    if (!expectedHeaders.every(h => header.includes(h))) {
+      console.warn('WARNING: METADATA.csv header does not contain all expected columns. Expected:', expectedHeaders, 'Got:', header);
+    }
+    
+    for (let i = 1; i < lines.length; i++) { // Skip header row
+      const line = lines[i].trim();
+      if (!line) continue;
+      
+      const parts = line.split(',');
+      const eventId = parts[0].trim();
+      
+      // Parse discount codes (pipe-separated, filter empty strings)
+      const discountCodesStr = parts[1] ? parts[1].trim() : '';
+      const discountCodes = discountCodesStr 
+        ? discountCodesStr.split('|').map(code => code.trim()).filter(c => c) 
+        : [];
+      
+      // Parse attendees (handle non-numeric values as null)
+      const attendeesStr = parts[2] ? parts[2].trim() : '';
+      const attendees = attendeesStr && !isNaN(attendeesStr) ? parseInt(attendeesStr) : null;
+      
+      // Handle notes field (may contain commas, so rejoin remaining parts)
+      const notes = parts.slice(3).join(',').trim();
+      
+      metadataMap.set(eventId, {
+        discountCodes,
+        estimatedAttendees: attendees,
+        notes
+      });
+    }
+    
+    return metadataMap;
+  } catch (error) {
+    console.warn('METADATA.csv not found or invalid, continuing without metadata');
     return new Map();
   }
 }
@@ -108,6 +156,7 @@ const extractEvents = (monthMarkdown, year, month) => {
   if (!eventLines) return [];
   return eventLines.map((eventLine) => {
       // Remove discount tags before parsing other fields to avoid polluting name/location/country
+      // We extract discounts from the original eventLine later (line 111) to preserve discount info
       const eventLineWithoutDiscounts = eventLine.replace(/\[discount:[^\]]+\]/g, '').trim();
       
       const links = eventLineWithoutDiscounts.match(/<a[^>]*>.*?<\/a>/g) || [];
@@ -262,15 +311,51 @@ const archiveConfs = archives.flatMap((archive) =>
 //tags parsing
 const tagsMap = parseTags();
 
+//metadata parsing
+const metadataMap = parseMetadata();
+
 //aggregation and tags integration
+let metadataMatchCount = 0;
 const allConfs = archiveConfs.concat(currentConfs).map((conf) => {
   const eventId = generateEventId(conf);
   const tags = tagsMap.get(eventId) || [];
+  const metadata = metadataMap.get(eventId) || {};
+  
+  // Track successful metadata joins for logging
+  if (metadata.discountCodes && metadata.discountCodes.length > 0) {
+    metadataMatchCount++;
+  }
+  
   return {
     ...conf,
-    tags: tags
+    tags: tags,
+    metadata: {
+      discountCodes: metadata.discountCodes || [],
+      estimatedAttendees: metadata.estimatedAttendees || null,
+      notes: metadata.notes || ""
+    }
   };
 });
+
+// Track unmatched metadata entries
+const matchedEventIds = new Set();
+allConfs.forEach(conf => {
+  matchedEventIds.add(generateEventId(conf));
+});
+
+const unmatchedMetadata = Array.from(metadataMap.keys()).filter(id => !matchedEventIds.has(id));
+
+// Log metadata integration results
+console.log(`\n✓ Metadata integration complete:`);
+console.log(`  - Total events: ${allConfs.length}`);
+console.log(`  - Events with metadata: ${metadataMatchCount}`);
+console.log(`  - METADATA.csv entries matched: ${metadataMatchCount} / ${metadataMap.size}`);
+
+if (unmatchedMetadata.length > 0) {
+  console.warn(`\n⚠️ WARNING: ${unmatchedMetadata.length} METADATA.csv entries have NO matching event in README.md:`);
+  unmatchedMetadata.forEach(id => console.warn(`   - ${id}`));
+  console.warn('   Please check for typos in event_id or removed events.\n');
+}
 try {
     fs.writeFileSync(MAIN_OUTPUT, JSON.stringify(allConfs));
 } catch (error) {

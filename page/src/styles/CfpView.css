@@ -204,3 +204,32 @@
 .cfpView .eventCell.favorite-event .content b {
     color: #FF7F50;
 }
+
+.cfpView .discounts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0.5rem 1rem;
+}
+
+.cfpView .discount-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background-color: #48bb78;
+    color: white;
+    border-radius: 0.25rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+.cfpView .discount-badge.metadata-badge {
+    background-color: #4299e1;
+}
+
+@media screen and (max-width: 660px) {
+    .cfpView .discount-badge {
+        font-size: 0.75rem;
+        padding: 0.2rem 0.5rem;
+    }
+}

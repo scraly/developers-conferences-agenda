@@ -59,7 +59,32 @@ Examples of rejected conferences:
 - Multiple discounts per event are supported by adding multiple `[discount:...]` tags
 - Example with multiple discounts:
 
+```
 * 22-25: [SnowCamp 2025](https://snowcamp.io/) - Grenoble (France) [discount:SNOWCAMP20|20%|until=2025-10-31] [discount:EARLYBIRD|30%|until=2025-08-15]
+```
+
+## Adding Discount Codes via METADATA.csv
+
+Alternatively, you can add discount codes and other metadata to the centralized `METADATA.csv` file:
+
+1. Add or update a row in `METADATA.csv` with the following format:
+
+```csv
+event_id,discount_codes,estimated_attendees,notes
+2026-01-14-SnowCamp 2026,SNOWCAMP20,2000,Early bird expires 2026-02-28
+2025-02-03-Jfokus 2025,JFOKUS100|STUDENT50,1800,Student rate requires .edu email
+```
+
+- `event_id` - Format: `YYYY-MM-DD-Event Name` (must match event in README.md exactly)
+- `discount_codes` - Pipe-separated codes (e.g., `CODE1|CODE2`), or leave empty
+- `estimated_attendees` - Expected attendee count (optional, numeric only)
+- `notes` - Any additional context about the discount or event (optional)
+
+2. Multiple discount codes are supported using pipe separator `|`
+3. If a discount code appears in both README inline tags and METADATA.csv, it will only be displayed once (deduplicated)
+4. Leave fields empty for optional data (just use commas without values)
+
+**Note:** The event_id in METADATA.csv must exactly match the event generated from README.md (ISO date + event name), or it will not be matched.
 * Make sure the PR title is in the format of `Add Conference Name`
 * Check your spelling and grammar
 * Remove any trailing whitespace

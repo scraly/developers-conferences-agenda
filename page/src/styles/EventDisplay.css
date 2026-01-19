@@ -121,6 +121,11 @@
   max-width: 100%;
 }
 
+.discount-badge.metadata-badge {
+  background-color: #2563eb;
+  border: 1px solid #1e40af;
+}
+
 /* Responsive adjustments for mobile */
 @media screen and (max-width: 480px) {
   .discounts {

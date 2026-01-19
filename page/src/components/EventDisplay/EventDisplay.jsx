@@ -7,8 +7,8 @@ import ShortDate from 'components/ShortDate/ShortDate';
 import TagBadges from 'components/TagBadges/TagBadges';
 import { useFilters } from 'app.hooks';
 
-const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, dateOnTop=false, country, tags, sponsoring, discounts}) => {
-  const event = {name, hyperlink, location, misc, closedCaptions, date, country, tags, sponsoring, discounts};
+const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, dateOnTop=false, country, tags, sponsoring, discounts, metadata}) => {
+  const event = {name, hyperlink, location, misc, closedCaptions, date, country, tags, sponsoring, discounts, metadata};
   const eventId = `${name}-${date[0]}`;
   const { isFavorite } = useFavoritesContext();
   const isFav = isFavorite(eventId);
@@ -32,17 +32,29 @@ const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, da
             <span className="countryFlag">{country != "Online" ? flag(country) : '🌎'}</span>
             <span className="countryName">{location}</span>
         </div>
-        {sponsoring ? <span><a class="sponsoring" href={sponsoring} rel="noreferrer" target="_blank">💰</a></span> : null}
+        {sponsoring ? <span><a className="sponsoring" href={sponsoring} rel="noreferrer" target="_blank">💰</a></span> : null}
         <p className="cfp" dangerouslySetInnerHTML={{__html: misc}} />
-        {discounts && discounts.length > 0 ? (
-          <div className="discounts">
-            {discounts.map((discount, idx) => (
-              <span key={idx} className="discount-badge">
-                {discount.code}{discount.value ? ` - ${discount.value}` : ''}
-              </span>
-            ))}
-          </div>
-        ) : null}
+        {(() => {
+          const inlineDiscounts = discounts || [];
+          const inlineCodeSet = new Set(inlineDiscounts.map(d => d.code));
+          const metadataDiscounts = metadata?.discountCodes?.filter(code => !inlineCodeSet.has(code)) || [];
+          const hasDiscounts = inlineDiscounts.length > 0 || metadataDiscounts.length > 0;
+          
+          return hasDiscounts ? (
+            <div className="discounts">
+              {inlineDiscounts.map((discount, idx) => (
+                <span key={`inline-${idx}`} className="discount-badge" aria-label={`Discount code: ${discount.code}${discount.value ? `, saves ${discount.value}` : ''}`}>
+                  {discount.code}{discount.value ? ` - ${discount.value}` : ''}
+                </span>
+              ))}
+              {metadataDiscounts.map((code, idx) => (
+                <span key={`meta-${idx}`} className="discount-badge metadata-badge" aria-label={`Discount code: ${code}`}>
+                  {code}
+                </span>
+              ))}
+            </div>
+          ) : null;
+        })()}
         {closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
         <TagBadges onTagClick={handleTagClick} tags={tags} />
       </div>

@@ -72,6 +72,27 @@ const CfpView = () => {
                         <span className="countryName">{e.location}</span>
                       </div>
                       {e.sponsoring ? <a href={e.sponsoring} rel="noreferrer" target="_blank">💰</a> : null}
+                      {(() => {
+                        const inlineDiscounts = e.discounts || [];
+                        const inlineCodeSet = new Set(inlineDiscounts.map(d => d.code));
+                        const metadataDiscounts = e.metadata?.discountCodes?.filter(code => !inlineCodeSet.has(code)) || [];
+                        const hasDiscounts = inlineDiscounts.length > 0 || metadataDiscounts.length > 0;
+                        
+                        return hasDiscounts ? (
+                          <div className="discounts">
+                            {inlineDiscounts.map((discount, idx) => (
+                              <span key={`inline-${idx}`} className="discount-badge" aria-label={`Discount code: ${discount.code}${discount.value ? `, saves ${discount.value}` : ''}`}>
+                                {discount.code}{discount.value ? ` - ${discount.value}` : ''}
+                              </span>
+                            ))}
+                            {metadataDiscounts.map((code, idx) => (
+                              <span key={`meta-${idx}`} className="discount-badge metadata-badge" aria-label={`Discount code: ${code}`}>
+                                {code}
+                              </span>
+                            ))}
+                          </div>
+                        ) : null;
+                      })()}
                       <TagBadges onTagClick={handleTagClick} tags={e.tags} />
                     </div>
                     <a className="submitButton" href={e.cfp.link} rel="noreferrer" target="_blank" title="Submit to the CFP">

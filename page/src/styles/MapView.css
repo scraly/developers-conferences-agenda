@@ -105,3 +105,30 @@
 .mapView .event-map-entry img {
   min-width: 140px;
 }
+
+.mapView .event-map-entry .discounts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.mapView .event-map-entry .discount-badge {
+  display: inline-block;
+  background-color: #10b981;
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.75em;
+  font-weight: 500;
+  word-break: break-word;
+  max-width: 150px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.mapView .event-map-entry .discount-badge.metadata-badge {
+  background-color: #2563eb;
+  border: 1px solid #1e40af;
+}
