@@ -797,7 +797,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15-17: [2026 NCCI Annual Conference](https://www.ncci-cu.org/annualconference/) - Pittsburgh, PA (USA) <a href="https://sessionize.com/2026-ncci-annual-conference"><img alt="CFP 2026 NCCI Annual Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=red"></a>
 * 16-17: [DroidCon](https://usa.droidcon.com/) - Orlando, FL (USA)
 * 16-17: [FlutterCon](https://www.flutterconusa.dev/) - Orlando, FL (USA)
-* 17-18: [JConf Dominicana 2026](https://jconfdominicana.org) - Santiago (Dominican Republic) <a href="https://www.papercall.io/jconf-dominicana-2026"><img alt="CFP JConf Dominicana 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-April-2026&color=green"></a>
+* 17-18: [JConf Dominicana 2026](https://jconfdominicana.org) - Santiago (Dominican Republic) <a href="https://bit.ly/jconfdominicana-cfp-2026"><img alt="CFP JConf Dominicana 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-April-2026&color=green"></a>
 * 17-18: [Day of Data Baton Rouge 2026](http://www.sqlsatbr.com) - Baton Rouge, LA (USA) <a href="https://sessionize.com/sqlsatbr26"><img alt="CFP Day of Data Baton Rouge 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-May-2026&color=green"></a>
 * 18: [KCD Lima 2026](https://community.cncf.io/kcd-lima-peru/) - Lima (Peru)
 * 19: [Open Source Days](https://events.linuxfoundation.org/open-source-days/) - Los Angeles, CA (USA) & Online
