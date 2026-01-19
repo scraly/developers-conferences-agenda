@@ -702,6 +702,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-9: [Berlin Buzzwords](https://2026.berlinbuzzwords.de) - Berlin (Germany) <a href="https://2026.berlinbuzzwords.de/call-for-papers"><img alt="CFP Berlin Buzzwords" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2026&color=green"></a>
 * 8-9: [Future Frontend](https://futurefrontend.com) - Espoo (Finland) <a href="https://forms.gle/gWReoDDjra4MCQMM8"><img alt="CFP Future Frontend" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2026&color=green"></a>
 * 8-9: [Dev.Play Conference](https://dev-play.ro) - Bucharest (Romania)
+* 9: [JFTL](https://cftl.fr/actualites/jftl/) - Montrouge (France) <a href="https://easychair.org/account2/signin?l=6729252653728886957"><img alt="CFP JFTL" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-January-2026&color=green"></a>
 * 8-10: [ETHConf](https://ethconf.com/r/CTECONF) - New York, NY (USA) <a href="https://ethconf.com/partner"><img alt="CFP ETHConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2026&color=green"></a>
 * 8-10: [x33fcon training 2026](https://www.x33fcon.com/#!training.md) -  Gdynia (Poland) <a href="https://www.papercall.io/x33fcon-training-2026"><img alt="CFP x33fcon training 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2026&color=red"></a>
 * 8-11: [Web Summit Rio](https://rio.websummit.com/) - Rio de Janeiro (Brazil)
