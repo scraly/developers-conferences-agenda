@@ -98,6 +98,10 @@
   display: block !important;
 }
 
+.attendees{
+  margin-left: 1rem !important;
+}
+
 .cfp {
   margin-left: 1rem !important;
 }

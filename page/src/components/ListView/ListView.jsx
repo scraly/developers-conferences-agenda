@@ -97,7 +97,7 @@ const ListView = () => {
                       {e.location}
                       {typeof e.attendees === 'number' && (
                         <span className="attendees">
-                          {' '}· 👥 {e.attendees}
+                          {' '} 👥 {e.attendees}
                         </span>
                       )}
                     </span>

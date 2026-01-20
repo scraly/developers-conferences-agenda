@@ -33,13 +33,13 @@ const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, da
             {country !== 'Online' ? flag(country) : '🌎'}
           </span>
           <span className="countryName">{location}</span>
-
-          {attendees ? (
-            <span className="attendees">
-              &nbsp;· 👥 {attendees}
-            </span>
-          ) : null}
         </div>
+
+        {attendees ? (
+          <div className="attendees">
+            👥 {attendees} attendees
+          </div>
+        ) : null}
 
         {sponsoring ? <span><a class="sponsoring" href={sponsoring} rel="noreferrer" target="_blank">💰</a></span> : null}
         <p className="cfp" dangerouslySetInnerHTML={{__html: misc}} />
