@@ -1102,7 +1102,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-05-11-Web Summit Vancouver,tech:web-summit,topic:technology,language:english
 2026-05-21-DataGrillen 2026,tech:data,topic:data-management,language:german
 2026-06-08-Web Summit Rio,tech:web-summit,topic:technology,language:portuguese
-2026-06-17-Devoxx Poland,tech:java,topic:software-development,language:polish
+2026-06-17-Devoxx Poland,tech:java,topic:software-development,language:english,language:polish
 2026-07-29-KubeCon + CloudNativeCon Japan 2026,tech:kubecon,cloud-native,topic:containers,language:english
 2026-10-26-KubeCon + CloudNativeCon NA 2026,tech:kubecon,cloud-native,topic:containers,language:english
 2027-03-15-KubeCon + CloudNativeCon Europe 2027,tech:kubecon,cloud-native,topic:containers,language:spanish
