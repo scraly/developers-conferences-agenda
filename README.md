@@ -225,6 +225,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28: [KCD Guadalajara 2026](https://community.cncf.io/events/details/cncf-kcd-guadalajara-presents-kcd-guadalajara-2026/) - Guadalajara (Mexico) <a href="https://sessionize.com/kcd-guadalajara-2026/"><img alt="CFP KCD Guadalajara" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-December-2025&color=red"></a>
 * 28: [DDD North 2026](https://www.dddnorth.co.uk/) - Hull (UK) <a href="https://sessionize.com/ddd-north-2026"><img alt="CFP DDD North" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2026&color=red"></a>
 * 28: [SAP Inside Track 2026](https://sitblr.in/) - Bengaluru (India) <a href="https://sessionize.com/sap-inside-track-q4-2025"><img alt="CFP SAP Inside Track 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2026&color=green"></a>
+* 28: [KubeFest 2026](https://kubefest.com/) - Logroño (Spain)
 * 28-01/03: [Nullcon Goa](https://nullcon.net/goa-2026) - Goa (India) <a href="https://nullcon.net/goa-2026/cfp"><img alt="CFP Nullcon Goa" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-November-2025&color=red"></a>
 * 28-01/03: [DrupalCamp England](https://www.drupalcampengland.org/) - Salford (UK)
 * 28-01/03: [SECCON 14 OpenConference](https://seccon.jp) - Tokyo (Japan) <a href="https://sessionize.com/seccon-14-openconference"><img alt="CFP SECCON 14 OpenConference" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=red"></a>
@@ -477,7 +478,6 @@ All the data (past and coming) are available publicly in JSON:
 * 20-21: [Codemotion Madrid](https://conferences.codemotion.com/madrid/) - Madrid (Spain) <a href="https://sessionize.com/codemotion-madrid-2026/"><img alt="CFP Codemotion Madrid" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=red"></a>
 * 20-22: [GrafanaCon](https://grafana.com/events/grafanacon/) - Barcelona (Spain)
 * 20-22: [TokioConf](https://www.tokioconf.com) - Portland, OR (USA) <a href="https://www.tokioconf.com/speakers"><img alt="CFP TokioConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-December-2025&color=red"></a>
-* 20-22: [KCD Panama 2026](https://community.cncf.io/cloud-native-panama) - Panama City (Panama) <a href="https://sessionize.com/kcd-panama"><img alt="CFP KCD Panama 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2026&color=green"></a>
 * 20-23: [JCON EUROPE 2026](https://europe.jcon.one) - Köln (Germany) <a href="https://sessionize.com/jcon-europe-2026"><img alt="CFP JCON EUROPE 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=red"></a>
 * 20-24: [MLcon Amsterdam](https://mlconference.ai/amsterdam) - Amsterdam (Netherlands) <a href="https://sessionize.com/devopsconmlcon-2026"><img alt="CFP DevOpsCon & MLCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=red"></a>
 * 20-24: [DevOpsCon Amsterdam](https://devopscon.io/amsterdam) - Amsterdam (Netherlands) <a href="https://sessionize.com/devopsconmlcon-2026"><img alt="CFP DevOpsCon & MLCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=red"></a>
@@ -487,6 +487,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21-23: [Cyber Threat Intelligence Conference 2026](https://www.first.org/conference/firstcti26/) - Munich (Germany)
 * 21-23: [Postgres Conference: 2026](https://postgresconf.org/conferences/postgresconf_2026) - San Jose, CA (USA)
 * 21-23: [Great Place To Work For All Summit 2026](https://forallsummit.com) - Las Vegas, NV (USA)
+* 21-23: [KCD Panama 2026](https://community.cncf.io/cloud-native-panama) - Panama City (Panama) <a href="https://sessionize.com/kcd-panama"><img alt="CFP KCD Panama 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-March-2026&color=green"></a>
 * 22: [AgentCon London](https://globalai.community/chapters/london/events/agentcon-london/) - London (UK) <a href="https://sessionize.com/agentcon-london/"><img alt="CFP AgentCon London" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2026&color=green"></a>
 * 22-23: [Minds Mastering Machines - M3](https://www.m3-konferenz.de) - Karlsruhe (Germany) <a href="https://www.m3-konferenz.de/cfp.php"><img alt="CFP Minds Mastering Machines - M3" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-November-2025&color=red"></a>
 * 22-24: [Devoxx France 2026](https://www.devoxx.fr) - Paris (France) <a href="https://devoxxfr2026.cfp.dev/"><img alt="CFP Devoxx France 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2026&color=red"></a> <a href="https://www.devoxx.fr/wp-content/uploads/2025/10/devoxxfr-avwiayshr16t.pdf"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
@@ -817,7 +818,7 @@ All the data (past and coming) are available publicly in JSON:
 * 24-25: [API Conf Lagos 2026](https://apiconf.net/) - Lagos (Nigeria) <a href="https://sessionize.com/api-conf-lagos-2026"><img alt="CFP API Conf Lagos 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 26: [Google Cloud Next Extended Da Nang 2025](https://gdg.community.dev/e/m8jfvc) - Da Nang (Vietnam)
 * 27-31: [Visual Studio Live! @ Microsoft HQ 2026](https://vslive.com/events/microsofthq-2026/home.aspx) - Redmond, WA (USA) <a href="https://sessionize.com/vslive_Microsoft26"><img alt="CFP Visual Studio Live! @ Microsoft HQ 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2025&color=red"></a>
-* 29-30: [KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) - Yokohama (Japan)
+* 29-30: [KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) - Yokohama (Japan) <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/program/cfp/"><img alt="CFP KubeCon + CloudNativeCon Japan 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-March-2026&color=green"></a>
 
 ### August
 
