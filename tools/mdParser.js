@@ -74,11 +74,14 @@ const parseMetadata = () => {
 
 
 const generateEventId = (conf) => {
-  // Generate ISO date from the first date in the date array
-  const firstDate = new Date(conf.date[0]);
-  const isoDate = firstDate.toISOString().split('T')[0];
-  return `${isoDate}-${conf.name}`;
-}
+  const d = new Date(conf.date[0]);
+
+  const year = d.getUTCFullYear();
+  const month = String(d.getUTCMonth() + 1).padStart(2, '0');
+  const day = String(d.getUTCDate()).padStart(2, '0');
+
+  return `${year}-${month}-${day}-${conf.name}`;
+};
 
 const extractArchiveFiles = (
   markdown //eg: " * [2017](archives/2017.md)"
