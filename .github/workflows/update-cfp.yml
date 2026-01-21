@@ -6,8 +6,14 @@ on:
     - cron: '0 4 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: read
+  
 jobs:
   update:
+    permissions:
+      contents: write
+      pull-requests: write
     if: github.repository == 'scraly/developers-conferences-agenda'
     runs-on: ubuntu-latest
     steps:
