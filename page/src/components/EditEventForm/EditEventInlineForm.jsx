@@ -140,6 +140,16 @@ const EditEventInlineForm = ({ event, onClose }) => {
     return `* ${dateRange}: [${formData.name}](${formData.eventUrl}) - ${location}${cfpSection}${sponsoringSection}${closedCaptionsSection}`;
   };
 
+  const generateMetadataCsvLine = () => {
+  if (!formData.attendees?.trim()) return '';
+  const startDate = new Date(formData.startDate);
+  const year = startDate.getFullYear();
+  const month = String(startDate.getMonth() + 1).padStart(2, '0');
+  const day = String(startDate.getDate()).padStart(2, '0');
+  const eventId = `${year}-${month}-${day}-${formData.name}`;
+  return `${eventId},${formData.attendees}`;
+};
+
   const generateTagsCsvLines = () => {
     if (!formData.tags.length) return '';
     const startDate = new Date(formData.startDate);
@@ -206,7 +216,13 @@ const EditEventInlineForm = ({ event, onClose }) => {
     } else {
       locationDisplay = `${formData.city}, ${formData.country}`;
     }
-    const humanReadableInfo = `\n**Event Details (EDIT):**\n- **Name:** ${formData.name}\n- **Start Date:** ${formData.startDate}\n- **End Date:** ${formData.endDate}\n- **Event URL:** ${formData.eventUrl}\n- **Location:** ${locationDisplay}\n- **Estimated Attendees:** ${formData.attendees || 'Not specified'}\n- **Has CFP:** ${formData.hasCfp ? 'Yes' : 'No'}${formData.hasCfp ? `\n- **CFP URL:** ${formData.cfpUrl || 'N/A'}\n- **CFP End Date:** ${formData.cfpEndDate || 'N/A'}` : ''}\n- **Closed Captions:** ${formData.closedCaptions ? 'Yes' : 'No'}\n- **Online Event:** ${formData.onlineEvent ? 'Yes' : 'No'}\n- **Tags:** ${formData.tags.length > 0 ? formData.tags.join(', ') : 'None'}\n\n**Edited fields:**\n${changes.length ? changes.join('\n') : 'Aucun'}\n\n**README.md line to update:**\n\`\`\`\n${generateReadmeLine()}\n\`\`\`\n\n**TAGS.csv lines to update:**\n${formData.tags.length > 0 ? `\`\`\`\n${generateTagsCsvLines()}\n\`\`\`` : 'No tags to update'}\n`;
+    const humanReadableInfo = `\n**Event Details (EDIT):**\n- **Name:** ${formData.name}\n- **Start Date:** ${formData.startDate}\n- **End Date:** ${formData.endDate}\n- **Event URL:** ${formData.eventUrl}\n- **Location:** ${locationDisplay}\n- **Estimated Attendees:** ${formData.attendees || 'Not specified'}\n- **Has CFP:** ${formData.hasCfp ? 'Yes' : 'No'}${formData.hasCfp ? `\n- **CFP URL:** ${formData.cfpUrl || 'N/A'}\n- **CFP End Date:** ${formData.cfpEndDate || 'N/A'}` : ''}\n- **Closed Captions:** ${formData.closedCaptions ? 'Yes' : 'No'}\n- **Online Event:** ${formData.onlineEvent ? 'Yes' : 'No'}\n- **Tags:** ${formData.tags.length > 0 ? formData.tags.join(', ') : 'None'}\n\n**Edited fields:**\n${changes.length ? changes.join('\n') : 'Aucun'}\n\n**README.md line to update:**\n\`\`\`\n${generateReadmeLine()}\n\`\`\`\n\n**TAGS.csv lines to update:**\n${formData.tags.length > 0 ? `\`\`\`\n${generateTagsCsvLines()}\n\`\`\`` : 'No tags to update'}\n\n**METADATA.csv line to update:**
+${generateMetadataCsvLine()
+  ? `\`\`\`
+${generateMetadataCsvLine()}
+\`\`\``
+  : 'No metadata to update'}
+\n`;
     return encodeURIComponent(humanReadableInfo.trim());
   };
 

@@ -150,6 +150,16 @@ const EditEventForm = ({ isOpen, onClose }) => {
     return `${eventId},${tagsString}`;
   };
 
+    const generateMetadataCsvLine = () => {
+    if (!formData.attendees?.trim()) return '';
+    const startDate = new Date(formData.startDate);
+    const year = startDate.getFullYear();
+    const month = String(startDate.getMonth() + 1).padStart(2, '0');
+    const day = String(startDate.getDate()).padStart(2, '0');
+    const eventId = `${year}-${month}-${day}-${formData.name}`;
+    return `${eventId},${formData.attendees}`;
+  };
+
  const generateIssueBody = () => {
   let locationDisplay;
   if (formData.onlineEvent) {
@@ -186,6 +196,13 @@ ${generateReadmeLine()}
 ${formData.tags.length > 0 ? `\`\`\`
 ${generateTagsCsvLines()}
 \`\`\`` : 'No tags to update'}
+
+**METADATA.csv line to update:**
+${generateMetadataCsvLine()
+  ? `\`\`\`
+${generateMetadataCsvLine()}
+\`\`\``
+  : 'No metadata to update'}
 `;
 
   return encodeURIComponent(humanReadableInfo.trim());
