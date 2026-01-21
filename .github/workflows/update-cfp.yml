@@ -30,7 +30,7 @@ jobs:
       - name: Fix CFP color
         working-directory: tools
         run: |
-          npm install -D
+          npm ci
           node mdValidator.js
           node mdParser.js
           node fixCFPColor.js
