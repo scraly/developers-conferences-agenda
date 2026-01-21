@@ -2225,3 +2225,30 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-05-29-Agile Tour Strasbourg 2026,tech:python,topic:data,topic:open-source,language:english
 2026-06-09-JFTL,tech:java,topic:software-engineering,language:french
 2026-11-04-DevCon 2026,tech:javascript,topic:web-development,language:english
+2026-01-22-SymfonyOnline,tech:symfony,topic:php,topic:web,language:english
+2026-02-18-ProductWorld,tech:product,topic:design,language:english
+2026-02-28-KubeFest 2026,tech:kubernetes,topic:cloud,language:english
+2026-03-10-Software Architecture AI Day,tech:software-architecture,topic:ai,language:english
+2026-03-19-Workplace & Security Ninja User Group Switzerland 2603,tech:workplace,topic:security,language:english
+2026-03-21-KCD Beijing + vLLM 2026,tech:kubernetes,topic:cloud,language:chinese
+2026-03-25-betterCode() Modern Architecture,tech:software-architecture,topic:modern,language:english
+2026-04-21-KCD Panama 2026,tech:kubernetes,topic:cloud,language:spanish
+2026-04-26-STAREAST,tech:testing,topic:quality,language:english
+2026-05-25-CONFidence,tech:security,topic:cybersecurity,language:english
+2026-06-15-20th Silicon Saxony Days,tech:technology,topic:innovation,language:german
+2026-06-18-Tech'Work,tech:technology,topic:innovation,language:french
+2026-06-30-GITEX AI EUROPE,tech:artificial-intelligence,topic:ai,language:german
+2026-08-03-GopherCon 2026,tech:go,topic:programming,language:english
+2026-08-22-Devopsdays Curitiba,tech:devops,topic:cloud,language:portuguese
+2026-08-27-Drupalcamp Colorado,tech:drupal,topic:cms,language:english
+2026-09-07-iOSDevUK,tech:ios,topic:mobile,language:english
+2026-09-25-BSides Krakow 2026,tech:security,topic:cybersecurity,language:polish
+2026-09-28-DevOpsDays Dallas 2026,tech:devops,topic:cloud,language:english
+2026-09-28-DrupalCon Europe,tech:drupal,topic:cms,language:dutch
+2026-09-28-GOTO Copenhagen,tech:technology,topic:innovation,language:danish
+2026-10-12-JavaScript & Angular Days,tech:javascript,topic:frontend,language:german
+2026-10-19-TDC 2026,tech:technology,topic:innovation,language:norwegian
+2026-10-22-PUSH UX,tech:ux,topic:design,language:german
+2026-10-29-J On The Beach 2026: Part of the Yay-Yay Conf,tech:java,topic:programming,language:spanish
+2026-10-29-Lambda World: Part of the Yay-Yay Conf,tech:java,topic:programming,language:spanish
+2026-10-29-Wey Wey Web 2026: Part of the Yay-Yay Conf,tech:web,topic:development,language:spanish
