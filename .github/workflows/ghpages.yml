@@ -6,9 +6,13 @@ on:
   pull_request:
     branches:
       - main
-
+permissions:
+  contents: read
+  
 jobs:
   publish:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
