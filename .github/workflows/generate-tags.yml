@@ -23,7 +23,7 @@ jobs:
           cache: npm
           cache-dependency-path: '**/package-lock.json'
       - working-directory: page
-        run: npm install -D
+        run: npm ci
       - name: Generate Tags
         working-directory: tools
         env:
@@ -31,7 +31,7 @@ jobs:
           OVH_AI_ENDPOINTS_MODEL_URL: ${{ vars.OVH_AI_ENDPOINTS_MODEL_URL }}
           OVH_AI_ENDPOINTS_MODEL_NAME: ${{ vars.OVH_AI_ENDPOINTS_MODEL_NAME }}
         run: |
-          npm install -D
+          npm ci
           node mdValidator.js
           node mdParser.js
           node generateAITagsv2.js
