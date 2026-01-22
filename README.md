@@ -370,6 +370,7 @@ All the data (past and coming) are available publicly in JSON:
 * 23: [WasmCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/) - Amsterdam (Netherlands) <a href="https://sessionize.com/cncf-hosted-co-located-events-europe/"><img alt="CFP CNCF-hosted Co-located Events Europe 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2025&color=red"></a>
 * 23: [Code BEAM Vancouver](https://codebeamvancouver.com/) - Vancouver, BC (Canada) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCiyfZBn4RiHF_3UvOqeuDevUjPO7FvZTuzOMRnE9o0udAGg/viewform?usp=dialog"><img alt="CFP Code BEAM Vancouver" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-December-2025&color=red"></a>
 * 23-24: [George Washington University Open Source Conference (GW OSCON)](https://ospo.gwu.edu/open-source-conference-gw-oscon) - Washington D.C. (USA)
+* 23-24: [All Things AI 2026](https://allthingsopen.org/events/all-things-ai-2026) - Durham, NC (USA)
 * 23-25: [SRECon 26 Americas](https://www.usenix.org/conference/srecon26americas) - Seattle, WA (USA) <a href="https://www.usenix.org/conference/srecon26americas/call-for-participation"><img alt="CFP SRECon 26 Americas" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-November-2025&color=red"></a>
 * 23-26: [DrupalCon Chicago 2026](https://events.drupal.org/chicago2026) - Chicago, IL (USA) <a href="https://sessionize.com/drupalcon-chicago-2026"><img alt="CFP DrupalCon Chicago 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-October-2025&color=red"></a>
 * 23-26: [CloudFest](https://www.cloudfest.com/) - Rust (Germany)
@@ -952,7 +953,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15: [FabFest 2026](https://fabfestconf.com/) - Birmingham (UK) <a href="https://sessionize.com/fabfest2026"><img alt="CFP FabFest 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2026&color=green"></a>
 * 15-16: [KotlinLeeds](https://kotlinleeds.com) - Leeds (UK)
 * 16-17: [DevFest Hamburg 2026](https://hamburg.devfest.de/) - Hamburg (Germany) <a href="https://sessionize.com/devfest-hamburg-2026"><img alt="CFP DevFest Hamburg 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=green"></a>
-* 18-20: [All Things Open](https://allthingsopen.org/events/all-things-open-2026) - Raleigh, NC (USA)
+* 18-20: [All Things Open](https://2026.allthingsopen.org/) - Raleigh, NC (USA)
 * 19: [TDC 2026](https://2026.trondheimdc.no) - Trondheim (Norway) <a href="https://sessionize.com/tdc-2026/"><img alt="CFP TDC 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2026&color=green"></a>
 * 19-20: [Global Summit on Data Science and Cloud Computing](https://datascience.novelticsconferences.com) - Rome (Italy) <a href="https://datascience.novelticsconferences.com/register"><img alt="CFP Global Summit on Data Science and Cloud Computing" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2026&color=green"></a>
 * 20-21: [Data Centre Expo at TechEx Europe](https://datacentrecongress.com/europe/) - Amsterdam (Netherlands)
