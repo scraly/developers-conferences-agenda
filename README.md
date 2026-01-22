@@ -730,6 +730,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-12: [Pole Position Sprint](https://plone.org/news-and-events/events/sprints/pole-position-sprint-2026) - Kerpen (Germany)
 * 8-12: [London Tech Week 2026](https://londontechweek.com) - London (UK)
 * 9-12: [BC TechDays 2026](https://bctechdays.com) - Antwerp (Belgium) <a href="https://sessionize.com/bctechdays2026"><img alt="CFP BC TechDays 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-April-2026&color=green"></a>
+* 10: [KCD New York 2026](https://community.cncf.io/kcd-new-york/) - New York, NY (USA)
 * 10-11: [betterCode() GenAI Summit](https://genai-summit.bettercode.eu) - Mannheim (Germany) <a href="https://genai-summit.bettercode.eu/cfp.php"><img alt="CFP betterCode() GenAI Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-January-2026&color=red"></a>
 * 10-11: [Umbraco Codegarden](https://codegarden.umbraco.com/) - Copenhagen (Denmark)
 * 10-11: [Codegarden 2026](https://codegarden.umbraco.com) - Copenhagen (Denmark)
