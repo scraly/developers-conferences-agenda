@@ -105,3 +105,10 @@
 .mapView .event-map-entry img {
   min-width: 140px;
 }
+
+.event-map-entry .attendees {
+  margin: 0.25rem 0;
+  font-size: 0.85rem;
+  color: #555;
+}
+

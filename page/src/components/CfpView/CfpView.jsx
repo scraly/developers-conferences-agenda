@@ -67,10 +67,21 @@ const CfpView = () => {
 
                       <CfpDeadline until={e.cfp.until} untilDate={e.cfp.untilDate} />
 
-                      <div className="country">
-                        <span className="countryFlag">{e.country != "Online" ? flag(e.country) : '🌎'}</span>
-                        <span className="countryName">{e.location}</span>
-                      </div>
+                    <div className="country">
+                      <span className="countryFlag">
+                        {e.country !== 'Online' ? flag(e.country) : '🌎'}
+                      </span>
+
+                      <span className="countryName">
+                        {e.location}
+                        {e.attendees ? (
+                          <span className="attendees">
+                            {' '}· 👥 {e.attendees}
+                          </span>
+                        ) : null}
+                      </span>
+                    </div>
+
                       {e.sponsoring ? <a href={e.sponsoring} rel="noreferrer" target="_blank">💰</a> : null}
                       <TagBadges onTagClick={handleTagClick} tags={e.tags} />
                     </div>

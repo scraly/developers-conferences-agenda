@@ -17,7 +17,8 @@ const EditEventInlineForm = ({ event, onClose }) => {
     onlineEvent: event.location && event.location.toLowerCase().includes('online'),
     tags: event.tags ? event.tags.map(t => `${t.key}:${t.value}`) : [],
     hasSponsoring: !!event.sponsoring,
-    sponsoringUrl: event.sponsoring || ''
+    sponsoringUrl: event.sponsoring || '',
+    attendees: event.attendees ? String(event.attendees) : ''
   });
   const [errors, setErrors] = useState({});
 
@@ -36,6 +37,21 @@ const EditEventInlineForm = ({ event, onClose }) => {
     if (!formData.startDate) newErrors.startDate = 'Start date is required';
     if (!formData.endDate) newErrors.endDate = 'End date is required';
     if (!formData.eventUrl.trim()) newErrors.eventUrl = 'Event URL is required';
+
+    // Attendees validation
+    if (formData.attendees?.trim()) {
+      const attendeesNumber = Number(formData.attendees);
+
+      if (
+        Number.isNaN(attendeesNumber) ||
+        !Number.isInteger(attendeesNumber) ||
+        attendeesNumber <= 0
+      ) {
+        newErrors.attendees = 'Number of attendees must be a positive whole number';
+      }
+    }
+
+
     try { new URL(formData.eventUrl); } catch { if (formData.eventUrl.trim()) newErrors.eventUrl = 'Please enter a valid URL'; }
     if (formData.hasCfp) {
       if (!formData.cfpUrl.trim()) newErrors.cfpUrl = 'CFP URL is required when CFP is selected';
@@ -124,6 +140,16 @@ const EditEventInlineForm = ({ event, onClose }) => {
     return `* ${dateRange}: [${formData.name}](${formData.eventUrl}) - ${location}${cfpSection}${sponsoringSection}${closedCaptionsSection}`;
   };
 
+  const generateMetadataCsvLine = () => {
+  if (!formData.attendees?.trim()) return '';
+  const startDate = new Date(formData.startDate);
+  const year = startDate.getFullYear();
+  const month = String(startDate.getMonth() + 1).padStart(2, '0');
+  const day = String(startDate.getDate()).padStart(2, '0');
+  const eventId = `${year}-${month}-${day}-${formData.name}`;
+  return `${eventId},${formData.attendees}`;
+};
+
   const generateTagsCsvLines = () => {
     if (!formData.tags.length) return '';
     const startDate = new Date(formData.startDate);
@@ -174,6 +200,11 @@ const EditEventInlineForm = ({ event, onClose }) => {
     compare('Closed Captions', !!event.closedCaptions, formData.closedCaptions, v => v ? 'Yes' : 'No');
     compare('Online Event', event.location && event.location.toLowerCase().includes('online'), formData.onlineEvent, v => v ? 'Yes' : 'No');
     compare('Tags', event.tags ? event.tags.map(t => `${t.key}:${t.value}`) : [], formData.tags, v => Array.isArray(v) ? v.join(', ') : v);
+    compare(
+      'Estimated Attendees',
+      event.attendees ? String(event.attendees) : '',
+      formData.attendees
+    );
 
     let locationDisplay;
     if (formData.onlineEvent) {
@@ -185,7 +216,13 @@ const EditEventInlineForm = ({ event, onClose }) => {
     } else {
       locationDisplay = `${formData.city}, ${formData.country}`;
     }
-    const humanReadableInfo = `\n**Event Details (EDIT):**\n- **Name:** ${formData.name}\n- **Start Date:** ${formData.startDate}\n- **End Date:** ${formData.endDate}\n- **Event URL:** ${formData.eventUrl}\n- **Location:** ${locationDisplay}\n- **Has CFP:** ${formData.hasCfp ? 'Yes' : 'No'}${formData.hasCfp ? `\n- **CFP URL:** ${formData.cfpUrl || 'N/A'}\n- **CFP End Date:** ${formData.cfpEndDate || 'N/A'}` : ''}\n- **Closed Captions:** ${formData.closedCaptions ? 'Yes' : 'No'}\n- **Online Event:** ${formData.onlineEvent ? 'Yes' : 'No'}\n- **Tags:** ${formData.tags.length > 0 ? formData.tags.join(', ') : 'None'}\n\n**Edited fields:**\n${changes.length ? changes.join('\n') : 'Aucun'}\n\n**README.md line to update:**\n\`\`\`\n${generateReadmeLine()}\n\`\`\`\n\n**TAGS.csv lines to update:**\n${formData.tags.length > 0 ? `\`\`\`\n${generateTagsCsvLines()}\n\`\`\`` : 'No tags to update'}\n`;
+    const humanReadableInfo = `\n**Event Details (EDIT):**\n- **Name:** ${formData.name}\n- **Start Date:** ${formData.startDate}\n- **End Date:** ${formData.endDate}\n- **Event URL:** ${formData.eventUrl}\n- **Location:** ${locationDisplay}\n- **Estimated Attendees:** ${formData.attendees || 'Not specified'}\n- **Has CFP:** ${formData.hasCfp ? 'Yes' : 'No'}${formData.hasCfp ? `\n- **CFP URL:** ${formData.cfpUrl || 'N/A'}\n- **CFP End Date:** ${formData.cfpEndDate || 'N/A'}` : ''}\n- **Closed Captions:** ${formData.closedCaptions ? 'Yes' : 'No'}\n- **Online Event:** ${formData.onlineEvent ? 'Yes' : 'No'}\n- **Tags:** ${formData.tags.length > 0 ? formData.tags.join(', ') : 'None'}\n\n**Edited fields:**\n${changes.length ? changes.join('\n') : 'Aucun'}\n\n**README.md line to update:**\n\`\`\`\n${generateReadmeLine()}\n\`\`\`\n\n**TAGS.csv lines to update:**\n${formData.tags.length > 0 ? `\`\`\`\n${generateTagsCsvLines()}\n\`\`\`` : 'No tags to update'}\n\n**METADATA.csv line to update:**
+${generateMetadataCsvLine()
+  ? `\`\`\`
+${generateMetadataCsvLine()}
+\`\`\``
+  : 'No metadata to update'}
+\n`;
     return encodeURIComponent(humanReadableInfo.trim());
   };
 
@@ -302,6 +339,24 @@ const EditEventInlineForm = ({ event, onClose }) => {
               {errors.country ? <span className="error-message">{errors.country}</span> : null}
             </div>
           </div>
+
+          <div className="form-group">
+            <label htmlFor="attendees">Number of Attendees</label>
+            <input
+              className={errors.attendees ? 'error' : ''}
+              id="attendees"
+              onChange={(e) => handleInputChange('attendees', e.target.value)}
+              placeholder="e.g. 500"
+              type="number"
+              min="1"
+              step="1"
+              value={formData.attendees}
+            />
+            {errors.attendees ? (
+              <span className="error-message">{errors.attendees}</span>
+            ) : null}
+          </div>
+
 
           <div className="form-group">
             <label className="checkbox-label">

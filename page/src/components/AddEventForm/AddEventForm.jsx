@@ -17,7 +17,8 @@ const AddEventForm = ({ isOpen, onClose }) => {
     sponsoringUrl: '',
     closedCaptions: false,
     onlineEvent: false,
-    tags: []
+    tags: [],
+    attendees: '' // ← NEW
   });
 
   const [errors, setErrors] = useState({});
@@ -52,6 +53,20 @@ const AddEventForm = ({ isOpen, onClose }) => {
     if (!formData.startDate) newErrors.startDate = 'Start date is required';
     if (!formData.endDate) newErrors.endDate = 'End date is required';
     if (!formData.eventUrl.trim()) newErrors.eventUrl = 'Event URL is required';
+    
+    // Attendees validation
+    if (formData.attendees.trim()) {
+      const attendeesNumber = Number(formData.attendees);
+
+      if (
+        Number.isNaN(attendeesNumber) ||
+        !Number.isInteger(attendeesNumber) ||
+        attendeesNumber <= 0
+      ) {
+        newErrors.attendees = 'Number of attendees must be a positive whole number';
+      }
+    }
+
 
     // URL validation
     try {
@@ -171,6 +186,21 @@ const AddEventForm = ({ isOpen, onClose }) => {
     return `* ${dateRange}: [${formData.name}](${formData.eventUrl}) - ${location}${cfpSection}${sponsoringSection}${closedCaptionsSection}`;
   };
 
+const generateMetadataCsvLine = () => {
+  // Attendees is optional metadata
+  if (!formData.attendees) return '';
+
+  const startDate = new Date(formData.startDate);
+  const year = startDate.getFullYear();
+  const month = String(startDate.getMonth() + 1).padStart(2, '0');
+  const day = String(startDate.getDate()).padStart(2, '0');
+
+  // Event identifier must match README / TAGS / METADATA
+  const eventId = `${year}-${month}-${day}-${formData.name}`;
+
+  return `${eventId},attendees:${formData.attendees}`;
+};
+
   const generateTagsCsvLines = () => {
     if (formData.tags.length === 0) return '';
     
@@ -206,6 +236,7 @@ const AddEventForm = ({ isOpen, onClose }) => {
 - **End Date:** ${formData.endDate}
 - **Event URL:** ${formData.eventUrl}
 - **Location:** ${locationDisplay}
+- **Estimated Attendees:** ${formData.attendees || 'Not specified'}
 - **Has CFP:** ${formData.hasCfp ? 'Yes' : 'No'}${formData.hasCfp ? `
 - **CFP URL:** ${formData.cfpUrl || 'N/A'}
 - **CFP End Date:** ${formData.cfpEndDate || 'N/A'}` : ''}
@@ -222,8 +253,15 @@ ${generateReadmeLine()}
 ${formData.tags.length > 0 ? `\`\`\`
 ${generateTagsCsvLines()}
 \`\`\`` : 'No tags to add'}
+
+**METADATA.csv line to add:**
+${generateMetadataCsvLine()
+  ? `\`\`\`
+${generateMetadataCsvLine()}
+\`\`\``
+  : 'No metadata to add'}
 `;
-    
+
     return encodeURIComponent(humanReadableInfo.trim());
   };
 
@@ -254,7 +292,8 @@ ${generateTagsCsvLines()}
       hasCfp: false,
       closedCaptions: false,
       onlineEvent: false,
-      tags: []
+      tags: [],
+      attendees: ''
     });
     setErrors({});
     onClose();
@@ -441,6 +480,24 @@ ${generateTagsCsvLines()}
               {errors.sponsoringUrl ? <span className="error-message">{errors.sponsoringUrl}</span> : null}
             </div>
           ) : null}
+
+          <div className="form-group">
+            <label htmlFor="attendees">Number of Attendees</label>
+            <input
+              className={errors.attendees ? 'error' : ''}
+              id="attendees"
+              onChange={(e) => handleInputChange('attendees', e.target.value)}
+              placeholder="e.g. 500"
+              type="number"
+              min="1"
+              step="1"
+              value={formData.attendees}
+            />
+            {errors.attendees ? (
+              <span className="error-message">{errors.attendees}</span>
+            ) : null}
+          </div>
+
 
           <div className="form-group">
             <label>Tags</label>
