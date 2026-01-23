@@ -2270,3 +2270,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-08-25-DynamicsCon Regional: Ohio Valley 2026,tech:conference,topic:dynamics,topic:ohio,language:english
 2026-09-18-ValuSignal 2026,tech:conference,topic:signal,topic:online,language:english
 2026-09-28-SREday Amsterdam 2026 Q4,tech:sre,topic:site-reliability,topic:amsterdam,language:english
+2026-06-10-KCD New York 2026,tech:cloud-native,tech:kubernetes,topic:open-source,language:english
