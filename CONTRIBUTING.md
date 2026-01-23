@@ -10,7 +10,7 @@ The aim of this calendar is to list community events. To be accepted, events mus
 * offer a CFP
 * last at least 1/2 day
 * be open to the public
-* target a developer audience
+* target a developer/tech audience
 
 Examples of rejected conferences:
 * regular "meetup" events
@@ -36,6 +36,10 @@ Examples of rejected conferences:
 * If the conference will be subtitles with closed captions, please specify it at the end of the line:
 ```
 <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+```
+* If you know the number of attendees of a conference, add it to the `METADATA.md` file:
+```
+YYYY-MM-DD-Conference Name,attendees:NUMBER
 ```
 * Make sure the PR title is in the format of `Add Conference Name`
 * Check your spelling and grammar
