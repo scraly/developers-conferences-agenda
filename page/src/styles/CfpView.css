@@ -106,6 +106,14 @@
     padding: 0.5rem;
 }
 
+.attendees {
+  margin-left: 0.4rem;
+  font-size: 0.85rem;
+  color: #555;
+  white-space: nowrap;
+}
+
+
 @media screen and (max-width: 660px) {
     .dcaContent { /* TODO: Make this available to anywhere, not just this page. */
         width: 100%;

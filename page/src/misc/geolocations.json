@@ -19,6 +19,10 @@
     "latitude": 7.147502,
     "longitude": 3.3619356
   },
+  "Aberystwyth (UK)": {
+    "latitude": 52.4143113,
+    "longitude": -4.0816846
+  },
   "Abomey-Calavi (Benin)": {
     "latitude": 6.51096225,
     "longitude": 2.3303076367454025
@@ -128,8 +132,8 @@
     "longitude": 30.7074549
   },
   "Antigua Guatemala (Guatemala)": {
-    "latitude": 14.5572969,
-    "longitude": -90.73322329999999
+    "latitude": 14.5567814,
+    "longitude": -90.7337346
   },
   "Antwerp (Belgium)": {
     "latitude": 51.2211097,
@@ -719,6 +723,10 @@
     "latitude": 35.308495199999996,
     "longitude": 24.46334231842296
   },
+  "Cuddalore (India)": {
+    "latitude": 11.5202071,
+    "longitude": 79.3396356
+  },
   "Cuenca (Ecuador)": {
     "latitude": -2.8974072,
     "longitude": -79.0041726
@@ -1026,6 +1034,10 @@
   "Glasgow (Scotland)": {
     "latitude": 55.861155,
     "longitude": -4.2501687
+  },
+  "Glenpool, OK (USA)": {
+    "latitude": 35.9553523,
+    "longitude": -96.008778
   },
   "Gliwice (Poland)": {
     "latitude": 50.294113,
@@ -2318,6 +2330,10 @@
   "Princeton (USA)": {
     "latitude": 40.3496953,
     "longitude": -74.6597376
+  },
+  "Pristina (Kosovo)": {
+    "latitude": 42.6638771,
+    "longitude": 21.1640849
   },
   "Prizren (Kosovo)": {
     "latitude": 42.2130151,

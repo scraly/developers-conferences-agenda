@@ -159,6 +159,15 @@
   margin-left: 10px;
 }
 
+
+.attendees {
+  margin-left: 0.4rem;
+  font-size: 0.9rem;
+  color: #555;
+  white-space: nowrap;
+}
+
+
 /* ========================================
    RESPONSIVE DESIGN - TABLET & MOBILE
    ======================================== */
@@ -175,6 +184,14 @@
         gap: 0.5rem;
     }
     
+    
+.attendees {
+  margin-left: 0.4rem;
+  font-size: 0.9rem;
+  color: #555;
+  white-space: nowrap;
+}
+
     .event-list-entry span,
     .event-list-entry b,
     .event-list-entry a {
@@ -205,6 +222,15 @@
         align-items: flex-start;
     }
     
+    
+.attendees {
+  margin-left: 0.4rem;
+  font-size: 0.9rem;
+  color: #555;
+  white-space: nowrap;
+}
+
+
     .event-list-entry span,
     .event-list-entry b,
     .event-list-entry a {
@@ -246,6 +272,14 @@
     .event-list-entry > header > a {
         text-align: left;
     }
+    
+.attendees {
+  margin-left: 0.4rem;
+  font-size: 0.9rem;
+  color: #555;
+  white-space: nowrap;
+}
+
 
     .event-banners {
         justify-content: start;
@@ -268,6 +302,15 @@
         font-size: 1.1rem;
         text-align: center;
     }
+
+    
+.attendees {
+  margin-left: 0.4rem;
+  font-size: 0.9rem;
+  color: #555;
+  white-space: nowrap;
+}
+
     
     .listView .event-list-entry {
         padding: 0.5rem !important;

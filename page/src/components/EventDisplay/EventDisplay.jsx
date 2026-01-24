@@ -7,8 +7,8 @@ import ShortDate from 'components/ShortDate/ShortDate';
 import TagBadges from 'components/TagBadges/TagBadges';
 import { useFilters } from 'app.hooks';
 
-const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, dateOnTop=false, country, tags, sponsoring, discounts, metadata}) => {
-  const event = {name, hyperlink, location, misc, closedCaptions, date, country, tags, sponsoring, discounts, metadata};
+const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, dateOnTop=false, country, tags, sponsoring, discounts, metadata, attendees}) => {
+  const event = {name, hyperlink, location, misc, closedCaptions, date, country, tags, sponsoring, discounts, metadata, attendees};
   const eventId = `${name}-${date[0]}`;
   const { isFavorite } = useFavoritesContext();
   const isFav = isFavorite(eventId);
@@ -29,10 +29,21 @@ const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, da
           <FavoriteButton event={event} />
         </div>
         <div className="country">
-            <span className="countryFlag">{country != "Online" ? flag(country) : '🌎'}</span>
-            <span className="countryName">{location}</span>
+          <span className="countryFlag">
+            {country !== 'Online' ? flag(country) : '🌎'}
+          </span>
+          <span className="countryName">{location}</span>
         </div>
-        {sponsoring ? <span><a className="sponsoring" href={sponsoring} rel="noreferrer" target="_blank">💰</a></span> : null}
+
+
+        {attendees ? (
+          <div className="attendees">
+            👥 {attendees} attendees
+          </div>
+        ) : null}
+
+        {sponsoring ? <span><a class="sponsoring" href={sponsoring} rel="noreferrer" target="_blank">💰</a></span> : null}
+
         <p className="cfp" dangerouslySetInnerHTML={{__html: misc}} />
         {(() => {
           const inlineDiscounts = discounts || [];

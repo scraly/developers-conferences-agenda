@@ -20,7 +20,7 @@ echo "✓ Cleanup complete"
 echo ""
 echo "Step 2: Installing page dependencies..."
 cd page
-npm install -D
+npm ci
 cd ..
 echo "✓ Page dependencies installed"
 
@@ -28,7 +28,7 @@ echo "✓ Page dependencies installed"
 echo ""
 echo "Step 3: Installing tools dependencies..."
 cd tools
-npm install -D
+npm ci
 echo "✓ Tools dependencies installed"
 
 # Run mdValidator

@@ -7,11 +7,12 @@ There is no small contribution! 💪
 
 The aim of this calendar is to list community events. To be accepted, events must meet the following criteria:
 
-- include a variety of presentations from people outside the organization
-- offer a CFP
-- last at least 1/2 day
-- be open to the public
-- target a developer audience
+* include a variety of presentations from people outside the organization
+* offer a CFP
+* last at least 1/2 day
+* be open to the public
+* target a developer/tech audience
+
 
 Examples of rejected conferences:
 

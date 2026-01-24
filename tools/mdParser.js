@@ -83,19 +83,44 @@ const parseMetadata = () => {
       });
     }
     
+    const content = fs.readFileSync(METADATA_INPUT, 'utf8');
+    const lines = content.split('\n').filter(line => line.trim() !== '');
+    const metadataMap = new Map();
+
+    // skip header
+    for (let i = 1; i < lines.length; i++) {
+      const line = lines[i].trim();
+      if (!line) continue;
+
+      const [eventId, attendeesPart] = line.split(',');
+
+      if (attendeesPart && attendeesPart.startsWith('attendees:')) {
+        const attendees = parseInt(attendeesPart.replace('attendees:', ''), 10);
+        if (!isNaN(attendees)) {
+          metadataMap.set(eventId, { attendees });
+        }
+      }
+    }
+
     return metadataMap;
   } catch (error) {
     console.warn('METADATA.csv not found or invalid, continuing without metadata');
     return new Map();
   }
 }
+};
+
+
 
 const generateEventId = (conf) => {
-  // Generate ISO date from the first date in the date array
-  const firstDate = new Date(conf.date[0]);
-  const isoDate = firstDate.toISOString().split('T')[0];
-  return `${isoDate}-${conf.name}`;
-}
+  const d = new Date(conf.date[0]);
+
+  const year = d.getUTCFullYear();
+  const month = String(d.getUTCMonth() + 1).padStart(2, '0');
+  const day = String(d.getUTCDate()).padStart(2, '0');
+
+  return `${year}-${month}-${day}-${conf.name}`;
+};
 
 const extractArchiveFiles = (
   markdown //eg: " * [2017](archives/2017.md)"
@@ -356,6 +381,14 @@ if (unmatchedMetadata.length > 0) {
   unmatchedMetadata.forEach(id => console.warn(`   - ${id}`));
   console.warn('   Please check for typos in event_id or removed events.\n');
 }
+
+  return {
+    ...conf,
+    tags,
+    ...metadata
+  };
+});
+
 try {
     fs.writeFileSync(MAIN_OUTPUT, JSON.stringify(allConfs));
 } catch (error) {

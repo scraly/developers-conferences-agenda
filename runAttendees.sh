@@ -10,4 +10,4 @@ npm ci
 node mdValidator.js
 node mdParser.js
 
-node generateAITagsv2.js
+node generateAIAttendees.js

@@ -6,25 +6,29 @@ on:
   pull_request:
     branches:
       - main
-
+permissions:
+  contents: read
+  
 jobs:
   publish:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744 # v3.6.0
       - name: Setup Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@3235b876344d2a9aa001b8d1453c930bba69e610 # v3.9.1
         with:
           node-version: 22
           cache: npm
           cache-dependency-path: '**/package-lock.json'
       - working-directory: page
-        run: npm install -D
+        run: npm ci
       - name: Parse Markdowns
         working-directory: tools
         run: |
-          npm install -D
+          npm ci
           node mdValidator.js
           node mdParser.js
           node generateIcs.js
@@ -46,7 +50,7 @@ jobs:
           mv ../page/src/misc/og-preview.png ../page/build/
       - name: Deploy to GitHub Pages
         if: github.ref_name == 'main'
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: crazy-max/ghaction-github-pages@59173cb633d9a3514f5f4552a6a3e62c6710355c # v2.7.0
         with:
           target_branch: gh-pages
           build_dir: page/build/

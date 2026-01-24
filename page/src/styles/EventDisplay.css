@@ -21,6 +21,14 @@
   position: relative;
 }
 
+.attendees {
+  margin-left: 0.5rem;
+  font-size: 0.9rem;
+  color: #555;
+  white-space: nowrap;
+}
+
+
 .eventsGridDisplay .eventCell .event-header {
   align-items: flex-start;
 }
@@ -88,6 +96,10 @@
 
 .country {
   display: block !important;
+}
+
+.attendees{
+  margin-left: 1rem !important;
 }
 
 .cfp {

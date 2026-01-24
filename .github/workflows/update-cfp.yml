@@ -6,8 +6,14 @@ on:
     - cron: '0 4 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: read
+  
 jobs:
   update:
+    permissions:
+      contents: write
+      pull-requests: write
     if: github.repository == 'scraly/developers-conferences-agenda'
     runs-on: ubuntu-latest
     steps:
@@ -20,11 +26,11 @@ jobs:
           cache: npm
           cache-dependency-path: '**/package-lock.json'
       - working-directory: page
-        run: npm install -D
+        run: npm ci
       - name: Fix CFP color
         working-directory: tools
         run: |
-          npm install -D
+          npm ci
           node mdValidator.js
           node mdParser.js
           node fixCFPColor.js

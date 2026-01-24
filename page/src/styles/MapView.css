@@ -132,3 +132,9 @@
   background-color: #2563eb;
   border: 1px solid #1e40af;
 }
+.event-map-entry .attendees {
+  margin: 0.25rem 0;
+  font-size: 0.85rem;
+  color: #555;
+}
+

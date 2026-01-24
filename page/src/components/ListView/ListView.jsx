@@ -107,6 +107,55 @@ const ListView = () => {
                       ) : null;
                     })()}
                   </div>
+                <div className="event-list-header">
+                  <b>
+                    {e.hyperlink ? (
+                      <a
+                        className="title"
+                        href={e.hyperlink}
+                        rel="noreferrer"
+                        target="_blank"
+                      >
+                        {e.name}
+                      </a>
+                    ) : ''}
+                  </b>
+
+                    <span>
+                      {e.location}
+                      {typeof e.attendees === 'number' && (
+                        <span className="attendees">
+                          {' '} 👥 {e.attendees}
+                        </span>
+                      )}
+                    </span>
+
+
+                  <span dangerouslySetInnerHTML={{ __html: e.misc }} />
+
+                  {e.sponsoring ? (
+                    <span>
+                      <a
+                        className="sponsoring"
+                        href={e.sponsoring}
+                        rel="noreferrer"
+                        target="_blank"
+                      >
+                        💰
+                      </a>
+                    </span>
+                  ) : null}
+
+                  {e.closedCaptions ? (
+                    <span>
+                      <img
+                        alt="Closed Captions"
+                        src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue"
+                      />
+                    </span>
+                  ) : null}
+                </div>
+
                 </div>
                 <TagBadges onTagClick={handleTagClick} tags={e.tags} />
                 <button
