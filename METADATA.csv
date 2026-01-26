@@ -2,3 +2,51 @@ event_id,discount_codes,estimated_attendees,notes
 2026-01-14-SnowCamp 2026,SNOWCAMP20,2000,Early bird expires 2026-02-28
 2025-02-03-Jfokus 2025,JFOKUS100|STUDENT50,1800,Student rate requires .edu email
 2026-04-09-Drupalcamp Grenoble 2026,DRUPAL20|EARLYBIRD30,450,
+event_id,attendees
+2026-02-11-Container Days London,attendees:1000
+2025-09-10-devopsdays Vilnius,attendees:700
+2026-02-03-Cloud Native Days France 2026,attendees:2000
+2026-03-23-CloudFest,attendees:10000
+2025-07-08-DevBCN,attendees:800
+2026-06-16-DevBCN,attendees:800
+2026-04-22-Devoxx France 2026,attendees:4600
+2026-06-17-Devoxx Poland,attendees:2700
+2026-06-17-Devoxx Poland,attendees:2700
+2026-05-06-Devoxx UK 2026,attendees:1200
+2026-04-23-Devoxx Greece,attendees:1200
+2026-07-06-Riviera Dev,attendees:700
+2026-07-02-Sunny Tech,attendees:550
+2026-06-11-DevLille 2026,attendees:1500
+2026-05-15-KCD Texas 2026,attendees:250
+2026-05-18-Cloud Native Days Romania,attendees:500
+2026-05-20-KCD Helsinki,attendees:500
+2026-06-11-DevQuest Niort,attendees:500
+2026-03-23-KubeCon + CloudNativeCon Europe 2026,attendees:12000
+2026-05-21-Observability Summit North America,attendees:200
+2026-06-18-KubeCon + CloudNativeCon India 2026,attendees:4000
+2026-07-29-KubeCon + CloudNativeCon Japan 2026,attendees:2000
+2026-09-08-KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China,attendees:1000
+2026-10-26-KubeCon + CloudNativeCon NA 2026,attendees:10000
+2026-07-08-WeAreDevelopers World Congress 2026 - Europe,attendees:15000
+2026-09-23-WeAreDevelopers World Congress 2026 - North America,attendees:10000
+2026-10-05-Devoxx Belgium,attendees:3000
+2026-10-07-Open Source Summit Europe,attendees:2000
+2026-10-18-All Things Open,attendees:6500
+2026-03-23-All Things AI 2026,attendees:2000
+2026-05-11-Web Summit Vancouver,attendees:20000
+2026-09-24-PlatformCon Live Day Paris 2026,attendees:800
+2026-10-01-WAX 2026,attendees:600
+2026-11-04-DevCon 2026,attendees:2500
+2026-12-07-Open Source Summit Japan 2026,attendees:900
+2026-12-09-droidcon London,attendees:1000
+2026-06-16-droidcon USA,attendees:900
+2026-06-17-VivaTech,attendees:180000
+2026-06-18-Tech'Work,attendees:200
+2026-06-18-VoxxedDays Luxembourg,attendees:500
+2026-06-29-Cloud Native Summit 2026,attendees:600
+2026-09-02-Container Days Hamburg 2026,attendees:1500
+2026-06-10-KCD New York 2026,attendees:500
+2026-06-16-Mobilis In Mobile 2026,attendees:200
+2026-04-09-WordCamp Asia 2026,attendees:3000
+2026-02-24-The Linux Foundation Member Summit 2026,attendees:330
+2026-09-04-DevOpsDays Graz 2026,attendees:200
