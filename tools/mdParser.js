@@ -1,3 +1,20 @@
+/**
+ * Parse a discount string from METADATA.csv, e.g. "SNOWCAMP20|20%|until=2026-10-31"
+ * @param {string} value
+ * @returns {{ code: string, percentage?: string, until?: string } | undefined}
+ */
+function parseDiscount(value) {
+  if (!value) return undefined;
+  const [code, ...rest] = value.split('|').map(s => s.trim());
+  if (!code) return undefined;
+  const discount = { code };
+  rest.forEach(part => {
+    if (/^\d+%$/.test(part)) discount.percentage = part;
+    else if (part.startsWith('until=')) discount.until = part.slice(6);
+  });
+  return discount;
+}
+
 const fs = require("fs");
 
 const ROOT = "../";
@@ -62,6 +79,10 @@ const parseMetadata = () => {
           metadataMap.set(eventId, { attendees });
         }
       }
+        if (attendeesPart && attendeesPart.startsWith('discount:')) {
+          const discount = attendeesPart.replace('discount:', '').trim();
+          metadataMap.set(eventId, { discount: parseDiscount(discount) });
+        }
     }
 
     return metadataMap;

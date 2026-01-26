@@ -100,6 +100,13 @@ const ListView = () => {
                           {' '} 👥 {e.attendees}
                         </span>
                       )}
+                      {/* Discount badge */}
+                      {e.discount && (
+                        <span className="discount-badge">
+                          {e.discount.code}
+                          {e.discount.percentage && <> ({e.discount.percentage})</>}
+                        </span>
+                      )}
                     </span>
 
 

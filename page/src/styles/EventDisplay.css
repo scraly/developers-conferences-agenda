@@ -1,3 +1,13 @@
+/* Discount code styling */
+.event-discount {
+  margin-top: 0.5em;
+  font-size: 0.95em;
+  color: #2b7a0b;
+  background: #e6f4ea;
+  padding: 0.25em 0.5em;
+  border-radius: 4px;
+  display: inline-block;
+}
 .eventCell {
   padding: 1rem;
   border-radius: 3px;
