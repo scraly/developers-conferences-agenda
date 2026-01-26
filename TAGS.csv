@@ -2278,3 +2278,26 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-16-Mobilis In Mobile 2026,tech:mobile,topic:development,language:french
 2026-07-13-SciPy 2026,tech:python,topic:data,topic:scientific-computing,language:english
 2026-07-18-EuroSciPy 2026,tech:python,topic:data,topic:scientific-computing,language:english
+2026-02-18-AI DevWorld,tech:ai,topic:devops,language:english
+2026-03-26-Node Congress,tech:javascript,topic:backend,language:english
+2026-04-02-Gateway Software Symposium,tech:software,topic:architecture,language:english
+2026-04-16-Mastering Observability,tech:observability,topic:monitoring,language:english
+2026-04-17-Global Azure London 2026,tech:cloud,topic:azure,language:english
+2026-04-27-betterCode() Spring,tech:java,topic:programming,language:english
+2026-04-29-betterCode() ABAP,tech:sap,topic:development,language:english
+2026-04-30-New England Software Symposium,tech:software,topic:architecture,language:english
+2026-05-14-JSHeroes,tech:javascript,topic:frontend,language:english
+2026-05-14-GopherCon Singapore 2026,tech:golang,topic:programming,language:english
+2026-05-15-KCD Istanbul 2026,tech:kubernetes,topic:devops,language:english
+2026-05-19-G-Summit 19. Mai 2026,tech:microsoft,topic:office365,language:german
+2026-05-27-App.js Conf,tech:javascript,topic:web,language:english
+2026-05-29-Pwnterrey 2026,tech:cybersecurity,topic:security,language:spanish
+2026-06-07-AI Con USA,tech:ai,topic:machine-learning,language:english
+2026-06-08-betterCode() Testing,tech:testing,topic:quality-assurance,language:english
+2026-06-22-MAD Summit,tech:mobile,topic:development,language:german
+2026-09-04-DevOpsDays Graz 2026,tech:devops,topic:cloud,language:german
+2026-09-14-Disney Data & Analytics Conference (DDAC),tech:data,topic:analytics,language:english
+2026-10-07-data2day,tech:data,topic:big-data,language:german
+2026-10-29-Lambda World,tech:haskell,topic:functional-programming,language:english
+2026-10-29-Wey Wey Web,tech:web,topic:frontend,language:spanish
+2027-05-26-GITEX AI SERBIA,tech:ai,topic:artificial-intelligence,language:serbian
