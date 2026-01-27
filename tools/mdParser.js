@@ -1,8 +1,4 @@
-/**
- * Parse a discount string from METADATA.csv, e.g. "SNOWCAMP20|20%|until=2026-10-31"
- * @param {string} value
- * @returns {{ code: string, percentage?: string, until?: string } | undefined}
- */
+
 function parseDiscount(value) {
   if (!value) return undefined;
   const [code, ...rest] = value.split('|').map(s => s.trim());
@@ -71,18 +67,21 @@ const parseMetadata = () => {
       const line = lines[i].trim();
       if (!line) continue;
 
-      const [eventId, attendeesPart] = line.split(',');
-
-      if (attendeesPart && attendeesPart.startsWith('attendees:')) {
-        const attendees = parseInt(attendeesPart.replace('attendees:', ''), 10);
-        if (!isNaN(attendees)) {
-          metadataMap.set(eventId, { attendees });
+      const [eventId, ...parts] = line.split(',');
+      let attendees, discount;
+      parts.forEach(part => {
+        if (part.startsWith('attendees:')) {
+          const n = parseInt(part.replace('attendees:', ''), 10);
+          if (!isNaN(n)) attendees = n;
         }
-      }
-        if (attendeesPart && attendeesPart.startsWith('discount:')) {
-          const discount = attendeesPart.replace('discount:', '').trim();
-          metadataMap.set(eventId, { discount: parseDiscount(discount) });
+        if (part.startsWith('discount:')) {
+          discount = parseDiscount(part.replace('discount:', '').trim());
         }
+      });
+      const meta = {};
+      if (attendees !== undefined) meta.attendees = attendees;
+      if (discount !== undefined) meta.discount = discount;
+      metadataMap.set(eventId, meta);
     }
 
     return metadataMap;
@@ -272,17 +271,20 @@ const tagsMap = parseTags();
 //metadata parsing
 const metadataMap = parseMetadata();
 
+
 //aggregation and tags integration
 const allConfs = archiveConfs.concat(currentConfs).map((conf) => {
   const eventId = generateEventId(conf);
   const tags = tagsMap.get(eventId) || [];
   const metadata = metadataMap.get(eventId) || {};
 
-  return {
+  // Attach discount code from metadata if present
+  const event = {
     ...conf,
     tags,
     ...metadata
   };
+  return event;
 });
 
 try {
