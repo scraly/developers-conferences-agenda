@@ -1,3 +1,16 @@
+
+function parseDiscount(value) {
+  if (!value) return undefined;
+  const [code, ...rest] = value.split('|').map(s => s.trim());
+  if (!code) return undefined;
+  const discount = { code };
+  rest.forEach(part => {
+    if (/^\d+%$/.test(part)) discount.percentage = part;
+    else if (part.startsWith('until=')) discount.until = part.slice(6);
+  });
+  return discount;
+}
+
 const fs = require("fs");
 
 const ROOT = "../";
@@ -54,14 +67,21 @@ const parseMetadata = () => {
       const line = lines[i].trim();
       if (!line) continue;
 
-      const [eventId, attendeesPart] = line.split(',');
-
-      if (attendeesPart && attendeesPart.startsWith('attendees:')) {
-        const attendees = parseInt(attendeesPart.replace('attendees:', ''), 10);
-        if (!isNaN(attendees)) {
-          metadataMap.set(eventId, { attendees });
+      const [eventId, ...parts] = line.split(',');
+      let attendees, discount;
+      parts.forEach(part => {
+        if (part.startsWith('attendees:')) {
+          const n = parseInt(part.replace('attendees:', ''), 10);
+          if (!isNaN(n)) attendees = n;
         }
-      }
+        if (part.startsWith('discount:')) {
+          discount = parseDiscount(part.replace('discount:', '').trim());
+        }
+      });
+      const meta = {};
+      if (attendees !== undefined) meta.attendees = attendees;
+      if (discount !== undefined) meta.discount = discount;
+      metadataMap.set(eventId, meta);
     }
 
     return metadataMap;
@@ -251,17 +271,20 @@ const tagsMap = parseTags();
 //metadata parsing
 const metadataMap = parseMetadata();
 
+
 //aggregation and tags integration
 const allConfs = archiveConfs.concat(currentConfs).map((conf) => {
   const eventId = generateEventId(conf);
   const tags = tagsMap.get(eventId) || [];
   const metadata = metadataMap.get(eventId) || {};
 
-  return {
+  // Attach discount code from metadata if present
+  const event = {
     ...conf,
     tags,
     ...metadata
   };
+  return event;
 });
 
 try {
