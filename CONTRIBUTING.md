@@ -1,17 +1,3 @@
-- If you know the discount code for a conference, add it to the `METADATA.csv` file:
-
-```
-YYYY-MM-DD-Conference Name,discount:CODE|PERCENTAGE|until=YYYY-MM-DD
-```
-
-For example:
-
-```
-2026-02-10-Voxxed Days CERN,discount:SNOWCAMP20|20%|until=2026-10-31
-```
-
-Only one discount per event is supported. The percentage and until date are optional.
-
 # Contributing
 
 This list of tech conferences is growing every day thanks to you.
@@ -66,6 +52,20 @@ Examples of rejected conferences:
 ```
 YYYY-MM-DD-Conference Name,attendees:NUMBER
 ```
+
+- If you know the discount code for a conference, add it to the `METADATA.csv` file:
+
+```
+YYYY-MM-DD-Conference Name,discount:CODE|PERCENTAGE|until=YYYY-MM-DD
+```
+
+For example:
+
+```
+2026-02-10-Voxxed Days CERN,discount:SNOWCAMP20|20%|until=2026-10-31
+```
+
+Only one discount per event is supported. The percentage and until date are optional.
 
 - Make sure the PR title is in the format of `Add Conference Name`
 - Check your spelling and grammar
