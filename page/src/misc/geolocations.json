@@ -1903,6 +1903,10 @@
     "latitude": 37.3893889,
     "longitude": -122.0832101
   },
+  "Mukono (Uganda)": {
+    "latitude": -0.0523245,
+    "longitude": 32.7262557
+  },
   "Mulhouse (France)": {
     "latitude": 47.7467233,
     "longitude": 7.3389937
@@ -2510,6 +2514,10 @@
   "Salt Lake City, UT (USA)": {
     "latitude": 40.7596198,
     "longitude": -111.886797
+  },
+  "Saltillo (Mexico)": {
+    "latitude": 25.4230425,
+    "longitude": -100.9927509
   },
   "Salvador (Brazil)": {
     "latitude": -12.9822499,
