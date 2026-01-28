@@ -728,6 +728,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1-5: [DevOpsCon San Diego](https://devopscon.io/san-diego) - San Diego, CA (USA)
 * 1-6: [International JavaScript Conference San Diego](https://javascript-conference.com/san-diego) - San Diego, CA (USA)
 * 2: [XtremeAI Online Conference](https://www.eventbrite.com/e/xtremeai-2026-online-conference-tickets-1750726131989) - Online <a href="https://forms.gle/S9isDXM6DEzh6VFi8"><img alt="CFP XtremeAI Online Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-February-2026&color=green"></a>
+* 2-3: [Agile Tour Rennes 2026](https://agiletour.agilerennes.org/) - Rennes (France)
 * 2-3: [OW2Con](https://www.ow2con.org/view/2026/) - Paris-Châtillon (France) <a href="https://pretalx.ow2.org/ow2con-2026/cfp"><img alt="CFP OW2 Con 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-February-2026&color=green"></a>
 * 2-3: [LDX3 London](https://leaddev.com/leaddev-london) - London (UK) <a href="https://leaddev.com/leaddev-call-proposals"><img alt="CFP LDX3 London" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-January-2026&color=red"></a>
 * 2-3: [Cyber Security for Critical Assets Canada](https://canada.cs4ca.com/) - Calgary (Canada) <a href="https://canada.cs4ca.com/submit-speaking-proposal/"><img alt="CFP Cyber Security for Critical Assets Canada" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2026&color=green"></a>
