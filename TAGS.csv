@@ -2312,3 +2312,14 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-22-Galaxy Community Conference,tech:bioinformatics,topic:genomics,topic:open-source,language:english
 2026-08-29-Data Saturday Oslo  2026,tech:data,topic:analytics,language:norwegian
 2026-05-19-Current London,attendees:2000
+2026-02-20-Global Power Platform Bootcamp Hungary - 2026,tech:power-platform,topic:cloud,topic:training,language:english
+2026-02-20-POWER PLATFORM BOOTCAMP BUENOS AIRES 2026,tech:power-platform,topic:cloud,topic:training,language:spanish
+2026-04-17-2026 Applied Machine Learning Conference,tech:machine-learning,topic:ai,topic:data-science,language:english
+2026-04-18-Global Azure 2026,tech:azure,topic:cloud,topic:devops,language:english
+2026-05-06-GraphQLConf,tech:graphql,topic:api,topic:web,language:english
+2026-05-18-AgentCon Nairobi,tech:ai,topic:agent,topic:ml,language:english
+2026-05-19-Current London,tech:streaming,topic:kafka,topic:data,language:english
+2026-05-21-KCD Czech & Slovak 2026,tech:kubernetes,topic:cloud-native,topic:open-source,language:czech
+2026-08-12-Hands-On Testing 2026,tech:testing,topic:quality-assurance,topic:automation,language:english
+2026-09-01-swampUP 2026,tech:devops,topic:ci-cd,topic:software,language:english
+2026-11-04-AutomationSTAR Conference,tech:testing,topic:automation,topic:quality-assurance,language:english
