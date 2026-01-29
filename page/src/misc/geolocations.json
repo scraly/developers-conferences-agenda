@@ -307,6 +307,10 @@
     "latitude": -19.919052,
     "longitude": -43.9386685
   },
+  "Belval (Luxembourg)": {
+    "latitude": 49.4942674,
+    "longitude": 5.9595225
+  },
   "Belém (Brazil)": {
     "latitude": -1.4563432,
     "longitude": -48.501299
@@ -2142,6 +2146,10 @@
   "Owerri (Nigeria)": {
     "latitude": 5.489736,
     "longitude": 7.0341973
+  },
+  "Oyo State (Nigeria)": {
+    "latitude": 8.2151249,
+    "longitude": 3.5642897
   },
   "Palaiseau (France)": {
     "latitude": 48.714509,
