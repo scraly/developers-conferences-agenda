@@ -247,7 +247,7 @@ All the data (past and coming) are available publicly in JSON:
 * 2-5: [Mobile World Congress](https://www.mwcbarcelona.com/) - Barcelona (Spain)
 * 2-5: [NDC Security](https://ndcsecurity.com) - Oslo (Norway)
 * 2-6: [Basta! Frankfurt](https://basta.net/frankfurt) - Frankfurt (Germany)
-* 3-4: [unprompted | The AI Security Practitioner Conference](https://unpromptedcon.org/) - San Francisco, CA (USA) <a href="https://sessionize.com/unprompted-the-ai-security-practitio/"><img alt="CFP unprompted The AI Security Practitioner Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-January-2026&color=green"></a>
+* 3-4: [unprompted | The AI Security Practitioner Conference](https://unpromptedcon.org/) - San Francisco, CA (USA) <a href="https://sessionize.com/unprompted-the-ai-security-practitio/"><img alt="CFP unprompted The AI Security Practitioner Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-January-2026&color=red"></a>
 * 4: [Cloud Native Rabat: From Code to Cloud, An End-to-End Journey](https://community.cncf.io/events/details/cncf-cloud-native-rabat-presents-from-code-to-cloud-an-end-to-end-journey/) - Online <a href="https://sessionize.com/cloud-native-rabat-From-code-to-cloud"><img alt="CFP Cloud Native Rabat: From Code to Cloud, An End-to-End Journey" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-March-2026&color=green"></a>
 * 4-5: [Cloud & AI Infrastructure London 2026](https://www.cloudexpoeurope.com) - London (UK)
 * 4-5: [Big Data & AI World London](https://www.techshowlondon.co.uk/big-data-ai-world) - London (UK)
