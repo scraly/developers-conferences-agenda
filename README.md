@@ -908,6 +908,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-8: [BSides Brighton](https://bsidesbrighton.co.uk/) - Brighton (UK) <a href="https://sessionize.com/bsides-brighton"><img alt="CFP BSides Brighton" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-August-2026&color=green"></a>
 * 8-9: [Beer City Code 2026](https://beercitycode.com) - Grand Rapids, MI (USA) <a href="https://sessionize.com/beer-city-code-2026"><img alt="CFP Beer City Code 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2026&color=green"></a>
 * 8-11: [DefCon Training](https://training.defcon.org/pages/2026-las-vegas-call-for-trainers) - Las Vegas, NV (USA)
+* 10-15: [JuliaCon 2026](https://juliacon.org/2026) - Rhineland Palatinate (Germany)
 * 12-13: [Render (RenderATL) 2026](https://www.renderatl.com) - Atlanta, GA (USA) <a href="https://sessionize.com/renderatl-2026/"><img alt="CFP Render (RenderATL) 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-February-2026&color=green"></a>
 * 12-15: [Hands-On Testing 2026](https://handsontesting.com/) - Online <a href="https://sessionize.com/hands-on-testing-2026"><img alt="CFP Hands-On Testing 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2026&color=green"></a>
 * 14-15: [Carolina Code Conference 2026](https://carolina.codes) - Greenville, SC (USA) <a href="https://sessionize.com/carolina-code-conference-2026"><img alt="CFP Carolina Code Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
@@ -954,6 +955,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-15: [2026 Forth Roadmap Conference](https://www.roadmapforth.org/2026/home) - Washington D.C. (USA) <a href="https://sessionize.com/2026-forth-roadmap-conference"><img alt="CFP 2026 Forth Roadmap Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-February-2026&color=green"></a>
 * 14-15: [Infobip Shift Zadar](https://shift.infobip.com) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2026"><img alt="CFP Infobip Shift Zadar" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-May-2026&color=green"></a>
 * 14-16: [Disney Data & Analytics Conference (DDAC)](https://disneydataconference.com) - Orlando, FL (USA)
+* 14-16: [posit::conf(2026)](https://posit.co/conference/) - Houston, TX (USA)
 * 14-18: [NDC Oslo](https://ndcoslo.com) - Oslo (Norway) <a href="https://sessionize.com/ndc-oslo-2026/"><img alt="CFP NDC Oslo 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-April-2026&color=green"></a>
 * 15: [LF Energy Summit Europe](https://events.linuxfoundation.org/lfenergysummit-europe/) - Berlin (Germany)
 * 15-16: [LDX3 New York](https://leaddev.com/leaddev-new-york) - New York, NY (USA)
@@ -1093,6 +1095,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-9: [Dynamics Summit 08.-09. Dezember 2026](https://events.m365-summits.de/DynamicsSummit0809Dezember2026#/) - Online <a href="https://sessionize.com/dynamics-summit-08-09-dezember-2026"><img alt="CFP Dynamics Summit 08.-09. Dezember 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2026&color=green"></a>
 * 9-10: [droidcon London](https://london.droidcon.com) - London (UK)
 * 10-11: [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/) - Tokyo (Japan)
+* 15-25: ["12 Reasons Why" with Tech Experts  - Season 2](https://12reasons.theazway.com) - Online <a href="https://sessionize.com/12-reasons-why-with-tech-experts-co"><img alt="CFP "12 Reasons Why" with Tech Experts  - Season 2" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2026&color=green"></a>
 * 17-18: [AI for Developers](https://aiconference.dev/) - Online <a href="https://aiconference.dev/cfp"><img alt="CFP AI for Developers" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=green"></a>
 
 ## 2027
