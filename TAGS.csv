@@ -2346,3 +2346,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-11-BSides Zadar 2026,tech:cybersecurity,topic:security,language:croatian
 2026-09-12-CppCon 2026,tech:cpp,tech:programming,topic:conference,language:english
 2026-11-03-The AI Conf,tech:artificial-intelligence,topic:conference,language:spanish
+2026-05-22-MadVue,tech:vuejs,topic:frontend,topic:ai,topic:web-development,topic:javascript,tech:typescript
