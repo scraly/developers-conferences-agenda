@@ -546,6 +546,7 @@ All the data (past and coming) are available publicly in JSON:
 * 26-28: [HOW2026：PostgreSQL & IvorySQL Eco Conference](https://ivorysql.io) - Jinan (China) <a href="https://sessionize.com/how2026"><img alt="CFP HOW2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-February-2026&color=green"></a>
 * 26-01/05: [STAREAST](https://stareast.techwell.com) - Orlando, FL (USA)
 * 27: [betterCode() Spring](https://spring.bettercode.eu) - Online
+* 27-28: [foss-north 2026](https://foss-north.se/2026/) - Gothenburg (Sweden) <a href="https://foss-north.se/accounts/login/?next=/events/2026/callforpapers/"><img alt="CFP foss-north 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2026&color=green"></a>
 * 28: [Azure Cosmos DB Conf 2026](https://developer.azurecosmosdb.com/conf/) - Online <a href="https://sessionize.com/azure-cosmos-db-conf-2026"><img alt="CFP Azure Cosmos DB Conf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-February-2026&color=green"></a>
 * 28-29: [stackconf 2026](https://stackconf.eu/) - Munich (Germany) <a href="https://stackconf.eu/propose/"><img alt="CFP stackconf" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=red"></a>
 * 28-29: [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2026/) - Bucharest (Romania) <a href="https://vdbuh2026.cfp.dev/#/login"><img alt="CFP Voxxed Days Bucharest" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-December-2025&color=red"></a>
