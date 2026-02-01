@@ -1843,6 +1843,10 @@
     "latitude": 53.9024716,
     "longitude": 27.5618225
   },
+  "Miraflores (Peru)": {
+    "latitude": -12.1206214,
+    "longitude": -77.0294993
+  },
   "Modena (Italy)": {
     "latitude": 44.5384728,
     "longitude": 10.9359609
@@ -2430,6 +2434,10 @@
   "Redwood Shores, CA (USA)": {
     "latitude": 37.5364134,
     "longitude": -122.2455364
+  },
+  "Reggio nell'Emilia (Italy)": {
+    "latitude": 44.6086674,
+    "longitude": 10.5940667
   },
   "Regina (Canada)": {
     "latitude": 50.4452112,
