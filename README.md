@@ -1072,9 +1072,9 @@ All the data (past and coming) are available publicly in JSON:
 * 9-12: [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - Salt Lake City, UT (USA)
 * 9-12: [Web Summit Lisbon](https://websummit.com) - Lisbon (Portugal)
 * 11-12: [Leading Design London](https://leadingdesign.com/conferences/london-2026) - London (UK)
+* 12-13: [Tokyo Test Fest](https://tokyotestfest.com/en/) - Tokyo (Japan) <a href="https://tokyotestfest.com/en/cfp_2026/"><img alt="CFP Tokyo Test Fest" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-April-2026&color=green"></a>
 * 12-14: [CMS Conf 2026](https://cmsconf.com) - Gdynia (Poland) <a href="https://cmsconf.com/call-for-papers/"><img alt="CFP CMS Conf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=green"></a>
 * 13: [Akademy 2026](https://akademy.kde.org/) - Graz (Austria)
-* 13-14: [Tokyo Test Fest](https://tokyotestfest.com/en/) - Tokyo (Japan)
 * 15-18: [CyberMarketingCon & CyberCEO Summit 2026](https://cybermarketingconference.com/) - Austin, TX (USA) <a href="https://sessionize.com/cybermarketingcon-2026"><img alt="CFP CyberMarketingCon & CyberCEO Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=green"></a>
 * 15-20: [Live! 360 Tech Con Orlando 2026](https://live360events.com) - Orlando, FL (USA) <a href="https://sessionize.com/live-360-tech-con-orlando-2026"><img alt="CFP Live! 360 Tech Con Orlando 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-March-2026&color=green"></a>
 * 17-19: [AI Poland](https://ai-poland.pl) - Warsaw (Poland) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform"><img alt="CFP AI Poland" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2026&color=green"></a>
