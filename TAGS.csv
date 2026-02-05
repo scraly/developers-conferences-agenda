@@ -2369,3 +2369,22 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-18-Working Software 2026,tech:agile,topic:software,language:italian
 2026-09-23-BlenderCon,tech:3d,topic:design,language:dutch
 2026-10-12-The Nordic APIs UnConference,tech:api,topic:software,language:english
+2026-02-25-Odoo Tech Evening - #4 Edition,tech:odoo,topic:erp,language:english
+2026-02-26-Global Power Platform Bootcamp 2026,tech:microsoft,topic:power-platform,language:english
+2026-02-28-AI Beyond Apps: Lucknow 2026,tech:ai,topic:machine-learning,location:india,language:hindi
+2026-03-14-CLOUDxAI,tech:cloud,topic:ai,location:india,language:english
+2026-03-31-Jupyter Workshops: Security Tooling Sprint,tech:jupyter,topic:security,language:english
+2026-04-30-LLMday Austin 2026 Q2,tech:llm,topic:ai,location:usa,language:english
+2026-05-19-MAU Vegas,tech:tech,topic:conference,location:usa,language:english
+2026-05-21-Christchurch AI Techweek Conference,tech:ai,topic:conference,location:new-zealand,language:english
+2026-05-21-Flupa UX Days 2026,tech:ux,topic:design,location:france,language:french
+2026-05-30-The Diana Initiative 2026 (Online Event),tech:diversity,topic:inclusion,language:english
+2026-06-09-C:\aen\Tech,tech:web,topic:development,location:france,language:french
+2026-06-25-Cajusec 2026,tech:cybersecurity,topic:conference,location:brazil,language:portuguese
+2026-08-15-Hack Glasgow,tech:hackathon,topic:security,location:scotland,language:english
+2026-08-21-GDevCon#7,tech:game-development,topic:conference,location:belgium,language:english
+2026-09-17-HELish Summit 2026,tech:ai,topic:conference,location:finland,language:english
+2026-10-07-Frontmania 2026,tech:frontend,topic:web,location:netherlands,language:english
+2026-11-12-Tokyo Test Fest,tech:testing,topic:quality-assurance,location:japan,language:japanese
+2026-11-13-CODE BLUE 2026,tech:cybersecurity,topic:conference,location:japan,language:japanese
+2026-11-22-AGNTCon + MCPCon,tech:ai,topic:agent,location:usa,language:english
