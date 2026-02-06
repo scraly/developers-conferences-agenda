@@ -2388,3 +2388,26 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-12-Tokyo Test Fest,tech:testing,topic:quality-assurance,location:japan,language:japanese
 2026-11-13-CODE BLUE 2026,tech:cybersecurity,topic:conference,location:japan,language:japanese
 2026-11-22-AGNTCon + MCPCon,tech:ai,topic:agent,location:usa,language:english
+2026-02-21-Global Power Platform Bootcamp 2026 - Hyderabad,tech:microsoft-power-platform,topic:cloud,location:hyderabad
+2026-02-21-Global Power Platform Bootcamp 2026 - LIMA,tech:microsoft-power-platform,topic:cloud,location:lima
+2026-02-25-Build with AI in Kraków,tech:artificial-intelligence,topic:cloud,location:krakow
+2026-02-26-Cloud Native Birmingham Online Meetup: Kicking Off 2026 Together,tech:cloud-native,topic:devops,location:online
+2026-02-28-SharePoint at 25: A Legacy of Collaboration,tech:sharepoint,topic:collaboration,location:online
+2026-02-28-AWS User Group Trichy – Inaugural Meetup (Online Edition),tech:aws,topic:cloud,location:online
+2026-03-13-Wome'nTech,tech:women-in-tech,topic:community,location:vicenza
+2026-03-22-Agentic Conf Hamburg,tech:ai,topic:conference,location:hamburg
+2026-04-16-Lost in a Lightfield Online Conference 2026,tech:virtual-reality,topic:conference,location:online
+2026-05-06-Devopsdays Zurich,tech:devops,topic:conference,location:zurich
+2026-05-08-M365 Philly 2026,tech:microsoft-365,topic:conference,location:malvern
+2026-05-22-BSides Prishtina 2026,tech:cybersecurity,topic:conference,location:pristina
+2026-05-28-Cloud Toulouse 2026,tech:cloud,topic:conference,location:toulouse
+2026-06-18-TEDxDhahran,tech:technology,topic:tedx,location:dhahran
+2026-06-24-AWS Community Day Midwest 2026,tech:aws,topic:community-day,location:indianapolis
+2026-06-24-Sloss Tech 2026,tech:technology,topic:conference,location:birmingham
+2026-06-26-ThreatModCon 2026 Vienna,tech:cybersecurity,topic:conference,location:vienna
+2026-07-23-Developers Conference 2026,tech:software-development,topic:conference,location:moka
+2026-08-26-TailscaleUp 2026,tech:networking,topic:conference,location:san-francisco
+2026-09-09-KCDC 2026,tech:technology,topic:conference,location:kansas-city
+2026-09-12-Ng Conf Perú 2026,tech:angular,topic:conference,location:lima
+2026-10-30-Product Management Day 2026,tech:product-management,topic:conference,location:bologna
+2026-11-20-Open Conf 2026 - SPEECHES and WORKSHOPS,tech:open-source,topic:conference,location:athens
