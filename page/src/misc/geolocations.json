@@ -187,6 +187,10 @@
     "latitude": -36.5412811,
     "longitude": 174.5506104914412
   },
+  "Augustin (Germany)": {
+    "latitude": 48.777507,
+    "longitude": 9.1559675
+  },
   "Aurora, CO (USA)": {
     "latitude": 39.7405111,
     "longitude": -104.830994
@@ -1494,6 +1498,10 @@
   "Kuala Lumpur (Malaysia)": {
     "latitude": 3.1319197,
     "longitude": 101.6840589
+  },
+  "Kutaisi (Georgia)": {
+    "latitude": 42.2716078,
+    "longitude": 42.7054475
   },
   "Kyiv (Ukraine)": {
     "latitude": 50.4500336,
