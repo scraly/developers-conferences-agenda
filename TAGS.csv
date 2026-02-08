@@ -2416,3 +2416,11 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-04-24-AgentCamp Colombia 2026,tech:agent,topic:society,topic:benefit,language:spanish
 2026-09-23-Directions for Enterprise 2026,tech:enterprise,topic:business,topic:partnership,language:english
 2026-10-24-Devopsdays Istanbul,tech:devops,topic:cloud,topic:infrastructure,language:english
+2026-02-20-Global Power Platform Bootcamp 2026- Manila Philippines,tech:power-platform,topic:business-applications,language:english
+2026-04-19-SREday Barcelona 2026 Q2,tech:sre,topic:devops,language:english
+2026-05-02-Devfest Georgia 2026,tech:google-developer-groups,topic:cloud,language:english
+2026-05-12-Lead Innovation Day - Leadership Edition,tech:leadership,topic:innovation,language:french
+2026-05-18-Budapest Data+AI Forum 2026,tech:data,topic:ai,language:english
+2026-07-10-Data Saturday Rheinland 2026,tech:data,topic:analytics,language:german
+2026-09-28-ServerlessDays Milano 2026,tech:serverless,topic:cloud,language:italian
+2026-10-05-Experts Live Saudi 2026,tech:technology,topic:cloud,language:arabic
