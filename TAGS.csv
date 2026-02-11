@@ -2425,3 +2425,13 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-28-ServerlessDays Milano 2026,tech:serverless,topic:cloud,language:italian
 2026-10-05-Experts Live Saudi 2026,tech:technology,topic:cloud,language:arabic
 2026-04-18-Global Azure 2026 Indonesia,tech:cloud,topic:azure,topic:devops,language:english
+2026-03-21-GitHub Copilot Dev Days | Perth,tech:ai,topic:developer-tools,language:english
+2026-04-11-AgentCamp 2026 Perth,tech:ai,topic:agent-systems,language:english
+2026-04-13-SmashingConf Amsterdam,tech:web-design,topic:frontend,language:english
+2026-05-27-Percona Live,tech:databases,topic:open-source,language:english
+2026-08-08-UbuCon Asia x COSCUP 2026,tech:linux,topic:open-source,language:english
+2026-08-11-Open Source Summit Korea,tech:open-source,topic:linux,language:korean
+2026-09-07-SmashingConf Freiburg,tech:web-design,topic:frontend,language:german
+2026-09-16-Tech passion day 2026,tech:software-development,topic:quality,language:english
+2026-09-21-Targeting Quality 2026,tech:software-testing,topic:quality,language:english
+2026-10-12-SmashingConf Antwerp,tech:web-design,topic:frontend,language:dutch
