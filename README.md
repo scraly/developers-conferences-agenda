@@ -1129,6 +1129,7 @@ All the data (past and coming) are available publicly in JSON:
 * 4-5: [DevCon 2026](https://www.dev-con.ro/) - Bucharest (Romania) <a href="https://www.papercall.io/devcon2026"><img alt="CFP DevCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-October-2026&color=green"></a>
 * 4-5: [AutomationSTAR Conference](https://automation.eurostarsoftwaretesting.com/tickets) - Antwerp (Belgium) <a href="https://automation.eurostarsoftwaretesting.com/call-for-speakers"><img alt="CFP AutomationSTAR Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-February-2026&color=red"></a>
 * 5: [Conf42 Platform Engineering 2026](https://www.conf42.com/platform2026) - Online <a href="https://www.papercall.io/conf42-platform-engineering-2026"><img alt="CFP Conf42 Platform Engineering 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-October-2026&color=green"></a>
+* 5-6: [Heapcon 2026](https://heapcon.io/2026/) - Belgrade (Serbia) <a href="https://forms.gle/QBM1aqkL8yS4c6YM8"><img alt="CFP Heapcon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=green"></a>
 * 6-7: [Texas Linux Fest](https://2026.texaslinuxfest.org/) - Austin, TX (USA)
 * 9-10: [LeadDev Berlin](https://leaddev.com/leaddev-berlin) - Berlin (Germany)
 * 9-12: [KubeCon + CloudNativeCon NA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - Salt Lake City, UT (USA)
