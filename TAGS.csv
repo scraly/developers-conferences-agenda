@@ -2435,3 +2435,17 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-16-Tech passion day 2026,tech:software-development,topic:quality,language:english
 2026-09-21-Targeting Quality 2026,tech:software-testing,topic:quality,language:english
 2026-10-12-SmashingConf Antwerp,tech:web-design,topic:frontend,language:dutch
+2026-03-04-Python Unplugged,tech:python,topic:data,topic:open-source,language:english
+2026-03-14-Data & AI Community Day Durban: AI Unplugged,tech:ai,topic:machine-learning,location:south-africa,language:english
+2026-03-27-UbuCon Kenya 2026,tech:ubuntu,topic:open-source,location:kenya,language:english
+2026-04-28-enterJS Integrate AI,tech:javascript,topic:ai,language:english
+2026-05-06-KyvernoCon Virtual,tech:kubernetes,topic:security,language:english
+2026-05-11-heise devSec KI und Security,tech:security,topic:ai,language:german
+2026-05-26-CozySummit Virtual,tech:kubernetes,topic:cloud-native,language:english
+2026-06-01-AI DevCon,tech:ai,topic:development,location:uk,language:english
+2026-06-04-CollabDays Madrid 2026,tech:open-source,topic:collaboration,location:spain,language:english
+2026-06-22-Beam Summit 2026,tech:beam,topic:data-processing,location:usa,language:english
+2026-07-14-RubyConf Las Vegas 2026,tech:ruby,topic:web-development,location:usa,language:english
+2026-08-21-GopherCon Latam 2026,tech:golang,topic:cloud-native,location:brazil,language:english
+2026-11-05-Heapcon 2026,tech:heap,topic:performance,location:serbia,language:english
+2026-12-07-IT-Tage,tech:it,topic:infrastructure,location:germany,language:german
