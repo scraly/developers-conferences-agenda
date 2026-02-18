@@ -2449,3 +2449,45 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-08-21-GopherCon Latam 2026,tech:golang,topic:cloud-native,location:brazil,language:english
 2026-11-05-Heapcon 2026,tech:heap,topic:performance,location:serbia,language:english
 2026-12-07-IT-Tage,tech:it,topic:infrastructure,location:germany,language:german
+2026-03-12-Copilot & Co - Göteborg,tech:ai,tech:microsoft,topic:cloud,topic:productivity,language:english
+2026-03-21-Build With AI + IWD Tegucigalpa 2026,tech:ai,topic:developer,location:central-america,language:english
+2026-03-21-D365 Finance Bootcamp,tech:microsoft,topic:finance,topic:training,language:english
+2026-04-01-M365 COMMUNITY DAYS QUEBEC 2026,tech:microsoft,topic:community,location:quebec,language:french
+2026-04-13-Global AI Milwaukee AgentCamp 2026,tech:ai,topic:agent,location:wisconsin,language:english
+2026-04-14-Apidays Singapore,tech:api,location:singapore,language:english
+2026-04-17-Global Azure Munich 2026,tech:azure,location:munich,language:german
+2026-04-17-A.I. Day 2026,tech:ai,location:rome,language:italian
+2026-04-22-Devopsdays Brasov,tech:devops,location:brasov,language:romanian
+2026-04-25-ÖzgürKon 2026 III. International Free Software Conference,tech:free-software,location:istanbul,language:turkish
+2026-05-07-Virtual EnvoyCon,tech:cloud-native,topic:service-mesh,language:english
+2026-05-11-West Africa internet Governance Forum 2026,topic:governance,location:freetown,language:english
+2026-05-13-Apidays New York,tech:api,location:new-york,language:english
+2026-05-15-AgentCon Rome,tech:ai,topic:agent,location:rome,language:italian
+2026-05-22-AgentCamp - Tulsa,tech:ai,topic:agent,location:oklahoma,language:english
+2026-05-29-Hardwear.io USA,tech:hardware,location:california,language:english
+2026-06-06-BSides Albany,tech:cybersecurity,location:new-york,language:english
+2026-06-11-Helsinki Architect Dreamin - 2026,tech:architecture,location:helsinki,language:finnish
+2026-06-17-Cybersecurity - una gara da vincere 2026,tech:cybersecurity,location:imola,language:italian
+2026-06-24-Ghana Data Science Summit (IndabaX Ghana),tech:data-science,location:ho,language:english
+2026-06-25-Mastering GitOps,tech:gitops,language:german
+2026-07-10-BSidesPGH 2026,tech:cybersecurity,location:pittsburgh,language:english
+2026-07-31-SysAdminDay 2026 in Leipzig,tech:sysadmin,location:leipzig,language:german
+2026-09-10-ElixirConf® US 2026,tech:elixir,location:chicago,language:english
+2026-09-10-DragonJAR Security Conference 2026,tech:cybersecurity,location:medellin,language:spanish
+2026-09-17-EmberFest 2026 – Prague, Czechia,tech:web,location:prague,language:czech
+2026-09-21-Cloud Foundry Summit,tech:cloud,location:heidelberg,language:german
+2026-09-28-DevOpsDays Istanbul 2026,tech:devops,location:istanbul,language:turkish
+2026-09-28-Chicago Women in Technology Conference 2026,tech:women-in-tech,location:chicago,language:english
+2026-09-28-Cybersecurity conference - CSC 26,tech:cybersecurity,location:krakow,language:croatian
+2026-09-28-Goatmire Elixir 2026,tech:api,topic:developer,location:sweden,language:english
+2026-09-30-Apidays London,tech:api,topic:developer,location:uk,language:english
+2026-10-10-Lakehouse Day EU 2026,tech:data,topic:lakehouse,location:uk,language:english
+2026-10-13-Fast Flow Conf UK 2026,tech:software,topic:performance,location:uk,language:english
+2026-10-26-Techorama 2026 Netherlands,tech:cloud,topic:devops,location:netherlands,language:english
+2026-10-28-Apidays Australia,tech:api,topic:developer,location:australia,language:english
+2026-11-24-Civo Navigate India 2026,tech:cloud,topic:devops,location:india,language:english
+2026-12-01-Apidays Paris,tech:api,topic:developer,location:france,language:french
+2027-01-19-Governance & Security Summit 19.-20. Januar 2027,tech:security,topic:governance,location:online,language:english
+2027-02-16-Power BI Summit 16. - 17. Februar 2027,tech:analytics,topic:business-intelligence,location:online,language:english
+2027-03-16-North American M365 Summit 16.- 17. March 2027,tech:cloud,topic:microsoft-365,location:online,language:english
+2027-06-01-AI & Copilot Summit 01.-02. Juni 2027,tech:ai,topic:copilot,location:online,language:english
