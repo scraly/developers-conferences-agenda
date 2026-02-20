@@ -293,7 +293,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9: [DataPopkorn - a bite-sized knowledge! (2026)](http://DataPopkorn.com) - Online <a href="https://sessionize.com/datapopkorn2026"><img alt="CFP DataPopkorn - a bite-sized knowledge! (2026)" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2026&color=red"></a>
 * 9-10: [FOSSASIA Summit 2026](https://summit.fossasia.org/) - Bangkok (Thailand) <a href="https://summit.fossasia.org/speaker-registration"><img alt="CFP FOSSASIA Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=red"></a>
 * 9-13: [Software Architecture Summit](https://software-architecture-summit.de/muenchen) - Munich (Germany)
-* 9-13: [Azure Spring Clean 2026](https://www.azurespringclean.com) - Online <a href="https://sessionize.com/azure-spring-clean-2026/"><img alt="CFP Azure Spring Clean 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-February-2026&color=green"></a>
+* 9-13: [Azure Spring Clean 2026](https://www.azurespringclean.com) - Online <a href="https://sessionize.com/azure-spring-clean-2026/"><img alt="CFP Azure Spring Clean 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-February-2026&color=red"></a>
 * 10: [FOSSASIA PGDay 2026](https://summit.fossasia.org/pgday) - Bangkok (Thailand) <a href="https://eventyay.com/e/b85fd0f2/cfs"><img alt="CFP FOSSASIA PGDay 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-December-2025&color=red"></a>
 * 10: [PyAI Conf](https://pyai.events/) - San Francisco, CA (USA)
 * 10: [Software Architecture AI Day](https://softwarearchitecture4ai-day.com) - Online
@@ -427,7 +427,7 @@ All the data (past and coming) are available publicly in JSON:
 * 26: [Swiss Testing Day 2026](https://swisstestingday.ch) - Zurich (Switzerland) <a href="https://sessionize.com/swiss-testing-day-2026"><img alt="CFP Swiss Testing Day 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2025&color=red"></a>
 * 26-27: [SymfonyLive Paris 2026](https://live.symfony.com/2026-paris/) - Paris (France)
 * 26-27: [REACT PARIS](https://react.paris) - Paris (France)
-* 26-27: [Node Congress](https://nodecongress.com) - Online <a href="https://gitnation.com/events/node-congress-2026/cfp"><img alt="CFP Node Congress" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-February-2026&color=green"></a>
+* 26-27: [Node Congress](https://nodecongress.com) - Online <a href="https://gitnation.com/events/node-congress-2026/cfp"><img alt="CFP Node Congress" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-February-2026&color=red"></a>
 * 27: [Frontrunners AI/Data](https://frontrunners.tech/) - Washington D.C. (USA) <a href="https://www.papercall.io/frontrunnersai2026"><img alt="CFP Frontrunners AI/Data Mar 27, 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=red"></a>
 * 27: [Frontrunners JS/Web](https://frontrunners.tech/) - Washington D.C. (USA) <a href="https://www.papercall.io/frontrunners2026"><img alt="CFP Frontrunners JS/Web Mar 27, 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=red"></a>
 * 27: [DevConf 2026](https://devconf.nl/) - Heerlen (Netherlands) <a href="https://sessionize.com/devconf2026"><img alt="CFP DevConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=red"></a>
