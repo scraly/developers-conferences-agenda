@@ -28,7 +28,7 @@
 
 - [x] T003 Define TAG_FILTER_CONFIG constant (allowed: topic, tech, language, type; blocked: location) in page/src/app.hooks.js [TS-031, TS-032]
 - [x] T004 Implement per-dimension URL param parsing (read {dim}, {dim}_not, {dim}_mode from URLSearchParams) in page/src/app.hooks.js [TS-036]
-- [ ] T042 Unit tests for legacy tags param migration (parse tags=key:value, distribute to per-dimension params) in page/src/app.hooks.applyCommonFilters.test.js [TS-035]
+- [x] T042 Unit tests for legacy tags param migration (parse tags=key:value, distribute to per-dimension params) in page/src/app.hooks.applyCommonFilters.test.js [TS-035]
 - [ ] T005 Implement legacy tags param migration (parse tags=key:value, distribute to per-dimension params) in page/src/app.hooks.js [TS-035]
 
 **Checkpoint**: URL param infrastructure ready — user story implementation can begin. Note: T005+T042 are non-blocking for Phase 3 and can run in parallel with US-1 work.
