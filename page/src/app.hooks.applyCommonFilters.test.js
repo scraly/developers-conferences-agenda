@@ -647,4 +647,221 @@ describe('applyCommonFilters', () => {
       expect(result).toHaveLength(1)
     })
   })
+
+  // T019: Exclusion logic tests
+  describe('per-dimension exclusion filtering', () => {
+    const exclEvents = [
+      createEvent({
+        name: 'Frontend JS',
+        country: 'FR',
+        tags: [
+          { key: 'topic', value: 'Frontend' },
+          { key: 'tech', value: 'JavaScript' }
+        ]
+      }),
+      createEvent({
+        name: 'PHP World',
+        country: 'DE',
+        tags: [
+          { key: 'tech', value: 'PHP' },
+          { key: 'topic', value: 'Backend' }
+        ]
+      }),
+      createEvent({
+        name: 'Python DevOps',
+        country: 'FR',
+        tags: [
+          { key: 'tech', value: 'Python' },
+          { key: 'topic', value: 'DevOps' }
+        ]
+      }),
+      createEvent({
+        name: 'German JS',
+        country: 'DE',
+        tags: [
+          { key: 'tech', value: 'JavaScript' },
+          { key: 'topic', value: 'Frontend' }
+        ]
+      })
+    ]
+
+    const exclRegionsMap = { 'FR': 'Europe', 'DE': 'Europe', 'US': 'North America' }
+
+    it('should exclude events matching tech_not value (TS-012)', () => {
+      const result = applyCommonFilters(exclEvents, { tech_not: 'PHP' }, exclRegionsMap)
+
+      expect(result).toHaveLength(3)
+      expect(result.map(e => e.name)).not.toContain('PHP World')
+    })
+
+    it('should combine include and exclude correctly (TS-013)', () => {
+      const result = applyCommonFilters(exclEvents, {
+        topic: 'Frontend',
+        tech_not: 'PHP'
+      }, exclRegionsMap)
+
+      expect(result).toHaveLength(2)
+      expect(result.map(e => e.name)).toContain('Frontend JS')
+      expect(result.map(e => e.name)).toContain('German JS')
+    })
+
+    it('should handle multi-exclusion across dimensions (TS-014)', () => {
+      const result = applyCommonFilters(exclEvents, {
+        tech_not: 'PHP',
+        country_not: 'DE'
+      }, exclRegionsMap)
+
+      expect(result).toHaveLength(2)
+      expect(result.map(e => e.name)).toContain('Frontend JS')
+      expect(result.map(e => e.name)).toContain('Python DevOps')
+    })
+
+    it('should exclude country (TS-015)', () => {
+      const result = applyCommonFilters(exclEvents, {
+        country_not: 'DE'
+      }, exclRegionsMap)
+
+      expect(result).toHaveLength(2)
+      expect(result.map(e => e.name)).not.toContain('PHP World')
+      expect(result.map(e => e.name)).not.toContain('German JS')
+    })
+
+    it('should handle same value in include and exclude — exclude wins (TS-029)', () => {
+      // Include Frontend AND exclude Frontend in tech — event should be excluded
+      const result = applyCommonFilters(exclEvents, {
+        tech: 'JavaScript',
+        tech_not: 'JavaScript'
+      }, exclRegionsMap)
+
+      expect(result).toHaveLength(0)
+    })
+
+    it('should handle multiple exclusion values in one dimension', () => {
+      const result = applyCommonFilters(exclEvents, {
+        tech_not: 'PHP,Python'
+      }, exclRegionsMap)
+
+      expect(result).toHaveLength(2)
+      expect(result.map(e => e.name)).toContain('Frontend JS')
+      expect(result.map(e => e.name)).toContain('German JS')
+    })
+  })
+
+  // T025: Not Online tests
+  describe('notOnline filter', () => {
+    const onlineEvents = [
+      createEvent({ name: 'Online Only', location: 'Online', country: 'Online' }),
+      createEvent({ name: 'Hybrid', location: 'Barcelona & Online', country: 'ES' }),
+      createEvent({ name: 'In-Person', location: 'Paris', country: 'FR' })
+    ]
+
+    const onlineRegionsMap = { 'ES': 'Europe', 'FR': 'Europe' }
+
+    it('should hide pure online events when notOnline enabled (TS-017)', () => {
+      const result = applyCommonFilters(onlineEvents, { notOnline: 'true' }, onlineRegionsMap)
+
+      expect(result).toHaveLength(2)
+      expect(result.map(e => e.name)).not.toContain('Online Only')
+    })
+
+    it('should keep hybrid events visible with notOnline (TS-018)', () => {
+      const result = applyCommonFilters(onlineEvents, { notOnline: 'true' }, onlineRegionsMap)
+
+      expect(result.map(e => e.name)).toContain('Hybrid')
+    })
+
+    it('should show all events when notOnline disabled (TS-019)', () => {
+      const result = applyCommonFilters(onlineEvents, {}, onlineRegionsMap)
+
+      expect(result).toHaveLength(3)
+    })
+  })
+
+  // T030: Any/All mode tests
+  describe('any/all mode filtering', () => {
+    const modeEvents = [
+      createEvent({
+        name: 'Frontend Only',
+        tags: [{ key: 'topic', value: 'Frontend' }]
+      }),
+      createEvent({
+        name: 'DevOps Only',
+        tags: [{ key: 'topic', value: 'DevOps' }]
+      }),
+      createEvent({
+        name: 'Both',
+        tags: [
+          { key: 'topic', value: 'Frontend' },
+          { key: 'topic', value: 'DevOps' }
+        ]
+      })
+    ]
+
+    it('should use OR logic in any mode (default) (TS-021)', () => {
+      const result = applyCommonFilters(modeEvents, {
+        topic: 'Frontend,DevOps'
+      }, mockRegionsMap)
+
+      expect(result).toHaveLength(3)
+    })
+
+    it('should use AND logic in all mode (TS-022)', () => {
+      const result = applyCommonFilters(modeEvents, {
+        topic: 'Frontend,DevOps',
+        topic_mode: 'all'
+      }, mockRegionsMap)
+
+      expect(result).toHaveLength(1)
+      expect(result[0].name).toBe('Both')
+    })
+
+    it('should handle single value in all mode same as any (TS-030)', () => {
+      const resultAny = applyCommonFilters(modeEvents, {
+        topic: 'Frontend'
+      }, mockRegionsMap)
+      const resultAll = applyCommonFilters(modeEvents, {
+        topic: 'Frontend',
+        topic_mode: 'all'
+      }, mockRegionsMap)
+
+      expect(resultAny).toHaveLength(resultAll.length)
+    })
+
+    it('should apply mode independently per dimension (TS-025)', () => {
+      const events = [
+        createEvent({
+          name: 'Europe Event',
+          country: 'FR',
+          tags: [{ key: 'topic', value: 'Frontend' }, { key: 'topic', value: 'DevOps' }]
+        }),
+        createEvent({
+          name: 'Asia Event',
+          country: 'JP',
+          tags: [{ key: 'topic', value: 'Frontend' }]
+        })
+      ]
+      const regMap = { 'FR': 'Europe', 'JP': 'Asia' }
+
+      // Topic in ALL mode + region in ANY mode
+      const result = applyCommonFilters(events, {
+        topic: 'Frontend,DevOps',
+        topic_mode: 'all',
+        region: 'Europe,Asia'
+      }, regMap)
+
+      // Only Europe Event has both Frontend AND DevOps
+      expect(result).toHaveLength(1)
+      expect(result[0].name).toBe('Europe Event')
+    })
+
+    it('should default to any mode (TS-036)', () => {
+      const result = applyCommonFilters(modeEvents, {
+        topic: 'Frontend,DevOps'
+        // no topic_mode specified
+      }, mockRegionsMap)
+
+      // any mode = OR = all 3 events
+      expect(result).toHaveLength(3)
+    })
+  })
 })

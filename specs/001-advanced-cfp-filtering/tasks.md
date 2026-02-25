@@ -75,15 +75,15 @@
 
 > **NOTE: Write these tests FIRST, ensure they FAIL before implementation**
 
-- [ ] T019 [US2] Unit tests for exclusion logic (single exclusion, multi-exclusion, include+exclude combo, same-value conflict) in page/src/app.hooks.applyCommonFilters.test.js [TS-012, TS-013, TS-014, TS-015, TS-016, TS-029]
+- [x] T019 [US2] Unit tests for exclusion logic (single exclusion, multi-exclusion, include+exclude combo, same-value conflict) in page/src/app.hooks.applyCommonFilters.test.js [TS-012, TS-013, TS-014, TS-015, TS-016, TS-029]
 
 ### Implementation for User Story 2
 
-- [ ] T020 [US2] Add exclusion support to FilterMultiSelect (custom Option component with exclude toggle, green chips for included, red for excluded) in page/src/components/FilterMultiSelect/FilterMultiSelect.jsx
-- [ ] T021 [US2] Extend applyCommonFilters for per-dimension exclusion logic (excluded values remove matching events regardless of other selections) in page/src/app.hooks.js
-- [ ] T022 [US2] Wire _not URL params (read/write exclusion values) in page/src/components/Filters/Filters.jsx
-- [ ] T023 [US2] Update SelectedTags for include/exclude display in page/src/components/SelectedTags/SelectedTags.jsx
-- [ ] T024 [US2] E2E tests for exclude toggle, remove exclusion, cross-filter exclusion in page/e2e/cfp-filters.spec.js [TS-012, TS-015, TS-016]
+- [x] T020 [US2] Add exclusion support to FilterMultiSelect (custom Option component with exclude toggle, green chips for included, red for excluded) in page/src/components/FilterMultiSelect/FilterMultiSelect.jsx
+- [x] T021 [US2] Extend applyCommonFilters for per-dimension exclusion logic (excluded values remove matching events regardless of other selections) in page/src/app.hooks.js
+- [x] T022 [US2] Wire _not URL params (read/write exclusion values) in page/src/components/Filters/Filters.jsx
+- [x] T023 [US2] Update SelectedTags for include/exclude display in page/src/components/SelectedTags/SelectedTags.jsx
+- [x] T024 [US2] E2E tests for exclude toggle, remove exclusion, cross-filter exclusion in page/e2e/cfp-filters.spec.js [TS-012, TS-015, TS-016]
 
 **Checkpoint**: Exclusion filtering functional — all P2 negation scenarios pass
 
@@ -98,14 +98,14 @@
 
 > **NOTE: Write these tests FIRST, ensure they FAIL before implementation**
 
-- [ ] T025 [US3] Unit tests for notOnline logic (hide pure-online, keep hybrid, restore on disable) in page/src/app.hooks.applyCommonFilters.test.js [TS-017, TS-018, TS-019]
+- [x] T025 [US3] Unit tests for notOnline logic (hide pure-online, keep hybrid, restore on disable) in page/src/app.hooks.applyCommonFilters.test.js [TS-017, TS-018, TS-019]
 
 ### Implementation for User Story 3
 
-- [ ] T026 [US3] Add Not Online toggle checkbox to page/src/components/Filters/Filters.jsx
-- [ ] T027 [US3] Implement online/notOnline mutual exclusion (enabling one disables the other) in page/src/components/Filters/Filters.jsx [TS-020]
-- [ ] T028 [US3] Extend applyCommonFilters for notOnline logic (exclude events where location is exclusively "Online") in page/src/app.hooks.js
-- [ ] T029 [US3] E2E tests for Not Online toggle and mutual exclusion with Online in page/e2e/cfp-filters.spec.js [TS-017, TS-019, TS-020]
+- [x] T026 [US3] Add Not Online toggle checkbox to page/src/components/Filters/Filters.jsx
+- [x] T027 [US3] Implement online/notOnline mutual exclusion (enabling one disables the other) in page/src/components/Filters/Filters.jsx [TS-020]
+- [x] T028 [US3] Extend applyCommonFilters for notOnline logic (exclude events where location is exclusively "Online") in page/src/app.hooks.js
+- [x] T029 [US3] E2E tests for Not Online toggle and mutual exclusion with Online in page/e2e/cfp-filters.spec.js [TS-017, TS-019, TS-020]
 
 **Checkpoint**: Not Online toggle functional — all P2 toggle scenarios pass
 
@@ -120,14 +120,14 @@
 
 > **NOTE: Write these tests FIRST, ensure they FAIL before implementation**
 
-- [ ] T030 [US4] Unit tests for any/all mode (OR vs AND logic, single-value equivalence, mutually exclusive values yield empty) in page/src/app.hooks.applyCommonFilters.test.js [TS-021, TS-022, TS-023, TS-025, TS-030, TS-036]
+- [x] T030 [US4] Unit tests for any/all mode (OR vs AND logic, single-value equivalence, mutually exclusive values yield empty) in page/src/app.hooks.applyCommonFilters.test.js [TS-021, TS-022, TS-023, TS-025, TS-030, TS-036]
 
 ### Implementation for User Story 4
 
-- [ ] T031 [US4] Add any/all toggle button to FilterMultiSelect header in page/src/components/FilterMultiSelect/FilterMultiSelect.jsx
-- [ ] T032 [US4] Extend applyCommonFilters for mode-aware filtering (some() for any, every() for all) in page/src/app.hooks.js
-- [ ] T033 [US4] Wire _mode URL params (read/write mode per dimension) in page/src/components/Filters/Filters.jsx
-- [ ] T034 [US4] E2E tests for any/all toggle per dimension and independent mode per filter in page/e2e/cfp-filters.spec.js [TS-021, TS-024, TS-025]
+- [x] T031 [US4] Add any/all toggle button to FilterMultiSelect header in page/src/components/FilterMultiSelect/FilterMultiSelect.jsx
+- [x] T032 [US4] Extend applyCommonFilters for mode-aware filtering (some() for any, every() for all) in page/src/app.hooks.js
+- [x] T033 [US4] Wire _mode URL params (read/write mode per dimension) in page/src/components/Filters/Filters.jsx
+- [x] T034 [US4] E2E tests for any/all toggle per dimension and independent mode per filter in page/e2e/cfp-filters.spec.js [TS-021, TS-024, TS-025]
 
 **Checkpoint**: Any/All toggle functional — all P3 scenarios pass
 
