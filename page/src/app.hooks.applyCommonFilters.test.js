@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { applyCommonFilters } from './app.hooks.js'
+import { applyCommonFilters, parseDimensionParams, TAG_FILTER_CONFIG } from './app.hooks.js'
 
 /**
  * Tests the common search filter logic that applies to both
@@ -338,6 +338,72 @@ describe('applyCommonFilters', () => {
       const result = applyCommonFilters(events, {}, mockRegionsMap)
 
       expect(result).toHaveLength(3)
+    })
+  })
+
+  describe('legacy tags param migration', () => {
+    it('should parse legacy tags=key:value and filter by tech dimension', () => {
+      const events = [
+        createEvent({
+          name: 'JS Event',
+          tags: [{ key: 'tech', value: 'JavaScript' }]
+        }),
+        createEvent({
+          name: 'Python Event',
+          tags: [{ key: 'tech', value: 'Python' }]
+        })
+      ]
+
+      const result = applyCommonFilters(events, { tags: 'tech:JavaScript' }, mockRegionsMap)
+
+      expect(result).toHaveLength(1)
+      expect(result[0].name).toBe('JS Event')
+    })
+
+    it('should parse legacy tags with multiple key:value pairs and distribute to dimensions', () => {
+      const events = [
+        createEvent({
+          name: 'JS Frontend',
+          tags: [
+            { key: 'tech', value: 'JavaScript' },
+            { key: 'topic', value: 'Frontend' }
+          ]
+        }),
+        createEvent({
+          name: 'JS Backend',
+          tags: [
+            { key: 'tech', value: 'JavaScript' },
+            { key: 'topic', value: 'Backend' }
+          ]
+        }),
+        createEvent({
+          name: 'Python Event',
+          tags: [{ key: 'tech', value: 'Python' }]
+        })
+      ]
+
+      // Legacy format: tags=tech:JavaScript,topic:Frontend (AND logic)
+      const result = applyCommonFilters(events, {
+        tags: 'tech:JavaScript,topic:Frontend'
+      }, mockRegionsMap)
+
+      expect(result).toHaveLength(1)
+      expect(result[0].name).toBe('JS Frontend')
+    })
+
+    it('should handle legacy tags as array format', () => {
+      const events = [
+        createEvent({
+          name: 'JS Event',
+          tags: [{ key: 'tech', value: 'JavaScript' }]
+        })
+      ]
+
+      const result = applyCommonFilters(events, {
+        tags: ['tech:JavaScript']
+      }, mockRegionsMap)
+
+      expect(result).toHaveLength(1)
     })
   })
 })
