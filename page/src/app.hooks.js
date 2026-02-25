@@ -4,6 +4,11 @@ import regions from 'misc/regions.json'
 import {useCallback, useMemo} from 'react'
 import {isFavorite} from './utils/favorites'
 
+export const TAG_FILTER_CONFIG = {
+  allowed: ['topic', 'tech', 'language', 'type'],
+  blocked: ['location']
+}
+
 export const useHasYearEvents = (year) => {
   return useMemo(() => Boolean(allEvents.find((e) => new Date(e.date[0]).getFullYear() === parseInt(year, 10))), [year])
 }
