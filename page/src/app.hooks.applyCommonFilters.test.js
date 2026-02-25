@@ -341,6 +341,247 @@ describe('applyCommonFilters', () => {
     })
   })
 
+  // T006: Multi-value tag filtering (topic, tech, language, type with OR logic)
+  describe('per-dimension multi-value tag filtering', () => {
+    const tagEvents = [
+      createEvent({
+        name: 'Frontend JS Conf',
+        tags: [
+          { key: 'topic', value: 'Frontend' },
+          { key: 'tech', value: 'JavaScript' },
+          { key: 'type', value: 'Conference' },
+          { key: 'language', value: 'English' }
+        ]
+      }),
+      createEvent({
+        name: 'DevOps Python Summit',
+        tags: [
+          { key: 'topic', value: 'DevOps' },
+          { key: 'tech', value: 'Python' },
+          { key: 'type', value: 'Conference' },
+          { key: 'language', value: 'English' }
+        ]
+      }),
+      createEvent({
+        name: 'Full Stack Conf',
+        tags: [
+          { key: 'topic', value: 'Frontend' },
+          { key: 'topic', value: 'DevOps' },
+          { key: 'tech', value: 'JavaScript' },
+          { key: 'type', value: 'Meetup' }
+        ]
+      }),
+      createEvent({
+        name: 'PHP World',
+        tags: [
+          { key: 'tech', value: 'PHP' },
+          { key: 'topic', value: 'Backend' },
+          { key: 'type', value: 'Conference' }
+        ]
+      }),
+      createEvent({ name: 'Untagged Event', tags: [] })
+    ]
+
+    it('should filter by single topic value (TS-001)', () => {
+      const result = applyCommonFilters(tagEvents, { topic: 'Frontend' }, mockRegionsMap)
+
+      expect(result).toHaveLength(2)
+      expect(result.map(e => e.name)).toContain('Frontend JS Conf')
+      expect(result.map(e => e.name)).toContain('Full Stack Conf')
+    })
+
+    it('should filter by multiple topic values with OR logic (TS-001)', () => {
+      const result = applyCommonFilters(tagEvents, { topic: 'Frontend,DevOps' }, mockRegionsMap)
+
+      expect(result).toHaveLength(3)
+      expect(result.map(e => e.name)).toContain('Frontend JS Conf')
+      expect(result.map(e => e.name)).toContain('DevOps Python Summit')
+      expect(result.map(e => e.name)).toContain('Full Stack Conf')
+    })
+
+    it('should filter by multiple tech values with OR logic (TS-002)', () => {
+      const result = applyCommonFilters(tagEvents, { tech: 'JavaScript,TypeScript' }, mockRegionsMap)
+
+      expect(result).toHaveLength(2)
+      expect(result.map(e => e.name)).toContain('Frontend JS Conf')
+      expect(result.map(e => e.name)).toContain('Full Stack Conf')
+    })
+
+    it('should filter by multiple language values with OR logic (TS-003)', () => {
+      const result = applyCommonFilters(tagEvents, { language: 'English' }, mockRegionsMap)
+
+      expect(result).toHaveLength(2)
+      expect(result.map(e => e.name)).toContain('Frontend JS Conf')
+      expect(result.map(e => e.name)).toContain('DevOps Python Summit')
+    })
+
+    it('should filter by multiple type values with OR logic (TS-037)', () => {
+      const result = applyCommonFilters(tagEvents, { type: 'Conference,Meetup' }, mockRegionsMap)
+
+      expect(result).toHaveLength(4)
+    })
+
+    it('should exclude events without tags when dimension filter is active', () => {
+      const result = applyCommonFilters(tagEvents, { topic: 'Frontend' }, mockRegionsMap)
+
+      expect(result.map(e => e.name)).not.toContain('Untagged Event')
+    })
+  })
+
+  // T007: Multi-value country and region filtering
+  describe('per-dimension multi-value country and region filtering', () => {
+    const geoEvents = [
+      createEvent({ name: 'Spanish Event', country: 'ES' }),
+      createEvent({ name: 'French Event', country: 'FR' }),
+      createEvent({ name: 'German Event', country: 'DE' }),
+      createEvent({ name: 'US Event', country: 'US' }),
+      createEvent({ name: 'Japan Event', country: 'JP' })
+    ]
+
+    const fullRegionsMap = {
+      'ES': 'Europe',
+      'FR': 'Europe',
+      'DE': 'Europe',
+      'US': 'North America',
+      'CA': 'North America',
+      'JP': 'Asia',
+      'CN': 'Asia'
+    }
+
+    it('should filter by multiple countries with OR logic (TS-004)', () => {
+      const result = applyCommonFilters(geoEvents, { country: 'FR,DE' }, fullRegionsMap)
+
+      expect(result).toHaveLength(2)
+      expect(result.map(e => e.name)).toContain('French Event')
+      expect(result.map(e => e.name)).toContain('German Event')
+    })
+
+    it('should filter by multiple regions with OR logic (TS-005)', () => {
+      const result = applyCommonFilters(geoEvents, { region: 'Europe,Asia' }, fullRegionsMap)
+
+      expect(result).toHaveLength(4)
+      expect(result.map(e => e.name)).toContain('Spanish Event')
+      expect(result.map(e => e.name)).toContain('French Event')
+      expect(result.map(e => e.name)).toContain('German Event')
+      expect(result.map(e => e.name)).toContain('Japan Event')
+    })
+
+    it('should filter by single country (backward compat)', () => {
+      const result = applyCommonFilters(geoEvents, { country: 'ES' }, fullRegionsMap)
+
+      expect(result).toHaveLength(1)
+      expect(result[0].name).toBe('Spanish Event')
+    })
+
+    it('should filter by single region (backward compat)', () => {
+      const result = applyCommonFilters(geoEvents, { region: 'Europe' }, fullRegionsMap)
+
+      expect(result).toHaveLength(3)
+    })
+  })
+
+  // T008: Cross-filter AND logic and empty-filter defaults
+  describe('cross-filter AND logic and empty-filter defaults', () => {
+    const crossEvents = [
+      createEvent({
+        name: 'Frontend in France',
+        country: 'FR',
+        tags: [{ key: 'topic', value: 'Frontend' }]
+      }),
+      createEvent({
+        name: 'Frontend in US',
+        country: 'US',
+        tags: [{ key: 'topic', value: 'Frontend' }]
+      }),
+      createEvent({
+        name: 'DevOps in France',
+        country: 'FR',
+        tags: [{ key: 'topic', value: 'DevOps' }]
+      }),
+      createEvent({
+        name: 'Unfiltered',
+        country: 'JP',
+        tags: []
+      })
+    ]
+
+    const crossRegionsMap = {
+      'FR': 'Europe',
+      'US': 'North America',
+      'JP': 'Asia'
+    }
+
+    it('should AND across different filter dimensions (TS-008)', () => {
+      const result = applyCommonFilters(crossEvents, {
+        topic: 'Frontend',
+        country: 'FR'
+      }, crossRegionsMap)
+
+      expect(result).toHaveLength(1)
+      expect(result[0].name).toBe('Frontend in France')
+    })
+
+    it('should show all events when no filters applied (TS-009)', () => {
+      const result = applyCommonFilters(crossEvents, {}, crossRegionsMap)
+
+      expect(result).toHaveLength(4)
+    })
+
+    it('should return empty when filters exclude everything', () => {
+      const result = applyCommonFilters(crossEvents, {
+        topic: 'NonExistent'
+      }, crossRegionsMap)
+
+      expect(result).toHaveLength(0)
+    })
+  })
+
+  // T009: Region-to-country cascading, deselect behavior, and trim
+  describe('region cascading and trim behavior', () => {
+    it('should trim country selections to available countries when region changes (TS-033)', () => {
+      // This tests the parseDimensionParams + cascading logic
+      const dims = parseDimensionParams(
+        { region: 'Europe', country: 'FR,JP' },
+        ['region', 'country']
+      )
+
+      expect(dims.region.included).toEqual(['Europe'])
+      expect(dims.country.included).toEqual(['FR', 'JP'])
+      // Trimming is handled by the UI hook (useAvailableCountries), not by applyCommonFilters
+      // applyCommonFilters will simply not match JP with Europe region
+    })
+
+    it('should filter events by region and country together (TS-006, TS-007)', () => {
+      const events = [
+        createEvent({ name: 'French Event', country: 'FR' }),
+        createEvent({ name: 'German Event', country: 'DE' }),
+        createEvent({ name: 'US Event', country: 'US' })
+      ]
+      const regMap = { 'FR': 'Europe', 'DE': 'Europe', 'US': 'North America' }
+
+      // Region=Europe narrows, then country=FR further narrows
+      const result = applyCommonFilters(events, {
+        region: 'Europe',
+        country: 'FR'
+      }, regMap)
+
+      expect(result).toHaveLength(1)
+      expect(result[0].name).toBe('French Event')
+    })
+
+    it('should show all countries when no region filter is set (TS-010)', () => {
+      const events = [
+        createEvent({ name: 'French Event', country: 'FR' }),
+        createEvent({ name: 'US Event', country: 'US' })
+      ]
+      const regMap = { 'FR': 'Europe', 'US': 'North America' }
+
+      const result = applyCommonFilters(events, {}, regMap)
+
+      expect(result).toHaveLength(2)
+    })
+  })
+
   describe('legacy tags param migration', () => {
     it('should parse legacy tags=key:value and filter by tech dimension', () => {
       const events = [

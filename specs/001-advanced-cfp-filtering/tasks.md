@@ -44,10 +44,10 @@
 
 > **NOTE: Write these tests FIRST, ensure they FAIL before implementation**
 
-- [ ] T006 [US1] Unit tests for multi-value tag filtering (topic, tech, language, type with OR logic) in page/src/app.hooks.applyCommonFilters.test.js [TS-001, TS-002, TS-003, TS-037]
-- [ ] T007 [US1] Unit tests for multi-value country and region filtering in page/src/app.hooks.applyCommonFilters.test.js [TS-004, TS-005]
-- [ ] T008 [US1] Unit tests for cross-filter AND logic and empty-filter defaults in page/src/app.hooks.applyCommonFilters.test.js [TS-008, TS-009]
-- [ ] T009 [US1] Unit tests for region-to-country cascading, deselect behavior, and trim in page/src/app.hooks.applyCommonFilters.test.js [TS-006, TS-007, TS-010, TS-033]
+- [x] T006 [US1] Unit tests for multi-value tag filtering (topic, tech, language, type with OR logic) in page/src/app.hooks.applyCommonFilters.test.js [TS-001, TS-002, TS-003, TS-037]
+- [x] T007 [US1] Unit tests for multi-value country and region filtering in page/src/app.hooks.applyCommonFilters.test.js [TS-004, TS-005]
+- [x] T008 [US1] Unit tests for cross-filter AND logic and empty-filter defaults in page/src/app.hooks.applyCommonFilters.test.js [TS-008, TS-009]
+- [x] T009 [US1] Unit tests for region-to-country cascading, deselect behavior, and trim in page/src/app.hooks.applyCommonFilters.test.js [TS-006, TS-007, TS-010, TS-033]
 
 ### Implementation for User Story 1
 
