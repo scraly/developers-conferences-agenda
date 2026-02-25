@@ -191,3 +191,23 @@
     stroke-width: 2.5px;
     color: inherit !important;
 }
+
+.clear-all-filters {
+    display: block;
+    width: 100%;
+    padding: 8px 16px;
+    margin: 12px 0;
+    background: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #495057;
+    cursor: pointer;
+    transition: all 0.15s ease-in-out;
+}
+
+.clear-all-filters:hover {
+    background: #e9ecef;
+    border-color: #ced4da;
+}
