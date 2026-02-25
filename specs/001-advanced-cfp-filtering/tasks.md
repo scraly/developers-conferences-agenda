@@ -60,7 +60,7 @@
 - [x] T038 [US1] Update Filters.css for new multi-select layout and Clear All button in page/src/styles/Filters.css
 - [x] T016 [US1] Wire per-dimension URL params (read/write include values for all dimensions) in page/src/components/Filters/Filters.jsx
 - [x] T017 [US1] Implement Clear All Filters button that resets all dimensions to empty in page/src/components/Filters/Filters.jsx [TS-038]
-- [ ] T018 [US1] E2E tests for multi-select interactions, region cascading, URL persistence, and Clear All in page/e2e/cfp-filters.spec.js [TS-001, TS-004, TS-005, TS-010, TS-011, TS-038]
+- [x] T018 [US1] E2E tests for multi-select interactions, region cascading, URL persistence, and Clear All in page/e2e/cfp-filters.spec.js [TS-001, TS-004, TS-005, TS-010, TS-011, TS-038]
 
 **Checkpoint**: Core multi-select filtering functional — all P1 scenarios pass
 
