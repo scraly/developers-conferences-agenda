@@ -41,6 +41,25 @@ export const useCountries = () => {
   }, [])
 }
 
+export const useAvailableCountries = (selectedRegions, allCountries) => {
+  return useMemo(() => {
+    if (!selectedRegions || selectedRegions.length === 0) {
+      return allCountries
+    }
+    const available = []
+    selectedRegions.forEach(regionName => {
+      if (regions[regionName]) {
+        regions[regionName].forEach(country => {
+          if (!available.includes(country)) {
+            available.push(country)
+          }
+        })
+      }
+    })
+    return available.sort()
+  }, [selectedRegions, allCountries])
+}
+
 export const useCountryToRegionMap = () => {
   return useMemo(() => {
     let results = {}

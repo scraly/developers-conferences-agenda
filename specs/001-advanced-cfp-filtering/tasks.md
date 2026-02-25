@@ -54,7 +54,7 @@
 - [x] T010 [P] [US1] Create FilterMultiSelect component (basic multi-select, include-only, react-select isMulti) in page/src/components/FilterMultiSelect/FilterMultiSelect.jsx
 - [x] T011 [P] [US1] Create FilterMultiSelect styling in page/src/styles/FilterMultiSelect.css
 - [x] T012 [US1] Extend applyCommonFilters for per-dimension multi-value OR filtering (tag dimensions + country + region) in page/src/app.hooks.js
-- [ ] T013 [US1] Implement useAvailableCountries hook for region-to-country cascading in page/src/app.hooks.js
+- [x] T013 [US1] Implement useAvailableCountries hook for region-to-country cascading in page/src/app.hooks.js
 - [ ] T014 [US1] Replace TagMultiSelect usage with FilterMultiSelect instances per allowed tag dimension in page/src/components/Filters/Filters.jsx
 - [ ] T015 [US1] Replace single-select Country and Region dropdowns with FilterMultiSelect in page/src/components/Filters/Filters.jsx
 - [ ] T038 [US1] Update Filters.css for new multi-select layout and Clear All button in page/src/styles/Filters.css
