@@ -16,7 +16,7 @@
 **Purpose**: Install test tooling and create project scaffolding
 
 - [x] T001 Install @playwright/test as devDependency and add test:e2e script to page/package.json
-- [ ] T002 Create Playwright configuration at page/playwright.config.js (Chromium, localhost:8080)
+- [x] T002 Create Playwright configuration at page/playwright.config.js (Chromium, localhost:8080)
 
 ---
 
@@ -27,7 +27,7 @@
 **CRITICAL**: No user story work can begin until this phase is complete
 
 - [x] T003 Define TAG_FILTER_CONFIG constant (allowed: topic, tech, language, type; blocked: location) in page/src/app.hooks.js [TS-031, TS-032]
-- [ ] T004 Implement per-dimension URL param parsing (read {dim}, {dim}_not, {dim}_mode from URLSearchParams) in page/src/app.hooks.js [TS-036]
+- [x] T004 Implement per-dimension URL param parsing (read {dim}, {dim}_not, {dim}_mode from URLSearchParams) in page/src/app.hooks.js [TS-036]
 - [ ] T042 Unit tests for legacy tags param migration (parse tags=key:value, distribute to per-dimension params) in page/src/app.hooks.applyCommonFilters.test.js [TS-035]
 - [ ] T005 Implement legacy tags param migration (parse tags=key:value, distribute to per-dimension params) in page/src/app.hooks.js [TS-035]
 
