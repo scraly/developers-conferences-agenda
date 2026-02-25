@@ -241,12 +241,20 @@ export const applyCommonFilters = (events, search, regionsMap) => {
     result = result.filter((e) => e.location.indexOf('Online') !== -1)
   }
 
+  // Per-dimension multi-value country filter (OR within dimension)
   if (search.country) {
-    result = result.filter((e) => e.country === search.country)
+    const countries = search.country.split(',').map(v => v.trim()).filter(Boolean)
+    if (countries.length > 0) {
+      result = result.filter((e) => countries.some(c => e.country === c))
+    }
   }
 
+  // Per-dimension multi-value region filter (OR within dimension)
   if (search.region) {
-    result = result.filter((e) => regionsMap[e.country] === search.region)
+    const selectedRegions = search.region.split(',').map(v => v.trim()).filter(Boolean)
+    if (selectedRegions.length > 0) {
+      result = result.filter((e) => selectedRegions.some(r => regionsMap[e.country] === r))
+    }
   }
 
   if (search.query) {
@@ -285,16 +293,24 @@ export const applyCommonFilters = (events, search, regionsMap) => {
     }
   }
 
-  // Handle individual tag filters by key (legacy support)
-  const tagKeys = ['tech', 'topic', 'type', 'language']
-  tagKeys.forEach(key => {
+  // Per-dimension multi-value tag filters (OR within each dimension, AND across)
+  TAG_FILTER_CONFIG.allowed.forEach(key => {
     if (search[key]) {
-      result = result.filter((e) => {
-        if (!e.tags || !Array.isArray(e.tags)) return false
-        return e.tags.some((tag) => {
-          return typeof tag === 'object' && tag.key === key && tag.value === search[key]
+      const values = search[key].split(',').map(v => v.trim()).filter(Boolean)
+      if (values.length > 0) {
+        const mode = search[`${key}_mode`] === 'all' ? 'all' : 'any'
+        result = result.filter((e) => {
+          if (!e.tags || !Array.isArray(e.tags)) return false
+          if (mode === 'all') {
+            return values.every(val =>
+              e.tags.some(tag => typeof tag === 'object' && tag.key === key && tag.value === val)
+            )
+          }
+          return values.some(val =>
+            e.tags.some(tag => typeof tag === 'object' && tag.key === key && tag.value === val)
+          )
         })
-      })
+      }
     }
   })
 
