@@ -252,8 +252,25 @@ const Filters = ({ view }) => {
           </div> : ''}
 
           <div className='filtersItem'>
-            <input checked={search.online == 'true'} id='filter-online' onChange={(e) => onChange('online', e.target.checked)} type='checkbox' />
+            <input checked={search.online == 'true'} id='filter-online' onChange={(e) => {
+              if (e.target.checked) {
+                updateParams({ online: 'true', notOnline: '' })
+              } else {
+                onChange('online', '')
+              }
+            }} type='checkbox' />
             <label htmlFor='filter-online'>{t('filters.online')}</label>
+          </div>
+
+          <div className='filtersItem'>
+            <input checked={search.notOnline == 'true'} id='filter-not-online' onChange={(e) => {
+              if (e.target.checked) {
+                updateParams({ notOnline: 'true', online: '' })
+              } else {
+                onChange('notOnline', '')
+              }
+            }} type='checkbox' />
+            <label htmlFor='filter-not-online'>Not Online</label>
           </div>
 
           <div className='filtersItem'>
