@@ -260,11 +260,29 @@ export const applyCommonFilters = (events, search, regionsMap) => {
     result = result.filter((e) => e.location.indexOf('Online') !== -1)
   }
 
+  // Not Online toggle: hide events whose location is exclusively "Online"
+  if (search.notOnline === 'true') {
+    result = result.filter((e) => e.location !== 'Online')
+  }
+
   // Per-dimension multi-value country filter (OR within dimension)
   if (search.country) {
     const countries = search.country.split(',').map(v => v.trim()).filter(Boolean)
     if (countries.length > 0) {
-      result = result.filter((e) => countries.some(c => e.country === c))
+      const mode = search.country_mode === 'all' ? 'all' : 'any'
+      if (mode === 'all') {
+        result = result.filter((e) => countries.every(c => e.country === c))
+      } else {
+        result = result.filter((e) => countries.some(c => e.country === c))
+      }
+    }
+  }
+
+  // Country exclusion
+  if (search.country_not) {
+    const excludedCountries = search.country_not.split(',').map(v => v.trim()).filter(Boolean)
+    if (excludedCountries.length > 0) {
+      result = result.filter((e) => !excludedCountries.some(c => e.country === c))
     }
   }
 
@@ -272,7 +290,20 @@ export const applyCommonFilters = (events, search, regionsMap) => {
   if (search.region) {
     const selectedRegions = search.region.split(',').map(v => v.trim()).filter(Boolean)
     if (selectedRegions.length > 0) {
-      result = result.filter((e) => selectedRegions.some(r => regionsMap[e.country] === r))
+      const mode = search.region_mode === 'all' ? 'all' : 'any'
+      if (mode === 'all') {
+        result = result.filter((e) => selectedRegions.every(r => regionsMap[e.country] === r))
+      } else {
+        result = result.filter((e) => selectedRegions.some(r => regionsMap[e.country] === r))
+      }
+    }
+  }
+
+  // Region exclusion
+  if (search.region_not) {
+    const excludedRegions = search.region_not.split(',').map(v => v.trim()).filter(Boolean)
+    if (excludedRegions.length > 0) {
+      result = result.filter((e) => !excludedRegions.some(r => regionsMap[e.country] === r))
     }
   }
 
@@ -314,6 +345,7 @@ export const applyCommonFilters = (events, search, regionsMap) => {
 
   // Per-dimension multi-value tag filters (OR within each dimension, AND across)
   TAG_FILTER_CONFIG.allowed.forEach(key => {
+    // Inclusion filter
     if (search[key]) {
       const values = search[key].split(',').map(v => v.trim()).filter(Boolean)
       if (values.length > 0) {
@@ -326,6 +358,19 @@ export const applyCommonFilters = (events, search, regionsMap) => {
             )
           }
           return values.some(val =>
+            e.tags.some(tag => typeof tag === 'object' && tag.key === key && tag.value === val)
+          )
+        })
+      }
+    }
+
+    // Exclusion filter
+    if (search[`${key}_not`]) {
+      const excluded = search[`${key}_not`].split(',').map(v => v.trim()).filter(Boolean)
+      if (excluded.length > 0) {
+        result = result.filter((e) => {
+          if (!e.tags || !Array.isArray(e.tags)) return true
+          return !excluded.some(val =>
             e.tags.some(tag => typeof tag === 'object' && tag.key === key && tag.value === val)
           )
         })
