@@ -9,6 +9,24 @@ export const TAG_FILTER_CONFIG = {
   blocked: ['location']
 }
 
+/**
+ * Parse per-dimension filter params from a search params object.
+ * For each dimension, reads {dim}, {dim}_not, {dim}_mode.
+ * @param {Object} search - Object from URLSearchParams entries
+ * @param {string[]} dimensions - Dimension keys to parse (e.g., TAG_FILTER_CONFIG.allowed + ['country', 'region'])
+ * @returns {Object} Map of dimension -> { included: string[], excluded: string[], mode: 'any'|'all' }
+ */
+export const parseDimensionParams = (search, dimensions) => {
+  const result = {}
+  dimensions.forEach(dim => {
+    const included = search[dim] ? search[dim].split(',').map(v => v.trim()).filter(Boolean) : []
+    const excluded = search[`${dim}_not`] ? search[`${dim}_not`].split(',').map(v => v.trim()).filter(Boolean) : []
+    const mode = search[`${dim}_mode`] === 'all' ? 'all' : 'any'
+    result[dim] = { included, excluded, mode }
+  })
+  return result
+}
+
 export const useHasYearEvents = (year) => {
   return useMemo(() => Boolean(allEvents.find((e) => new Date(e.date[0]).getFullYear() === parseInt(year, 10))), [year])
 }
