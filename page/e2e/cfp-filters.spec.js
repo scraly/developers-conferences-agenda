@@ -76,23 +76,27 @@ test.describe('US-2: Negative Tag Filtering', () => {
   })
 })
 
-test.describe('US-3: Not Online Toggle', () => {
+test.describe('US-3: Online / In Person Checkboxes', () => {
   test.beforeEach(async ({ page }) => {
     await page.goto(CFP_URL)
     await page.click('.filters-header')
     await page.waitForSelector('.filters.open')
   })
 
-  test('TS-017: Not Online toggle exists', async ({ page }) => {
-    const notOnlineCheckbox = page.locator('#filter-not-online')
-    await expect(notOnlineCheckbox).toBeVisible()
+  test('Online and In Person checkboxes both exist', async ({ page }) => {
+    const onlineCheckbox = page.locator('#filter-online')
+    const inPersonCheckbox = page.locator('#filter-in-person')
+    await expect(onlineCheckbox).toBeVisible()
+    await expect(inPersonCheckbox).toBeVisible()
   })
 
-  test('TS-020: Online and Not Online are mutually exclusive', async ({ page }) => {
+  test('Both checkboxes can be selected independently', async ({ page }) => {
     const onlineCheckbox = page.locator('#filter-online')
-    const notOnlineCheckbox = page.locator('#filter-not-online')
-    await expect(onlineCheckbox).toBeVisible()
-    await expect(notOnlineCheckbox).toBeVisible()
+    const inPersonCheckbox = page.locator('#filter-in-person')
+    await onlineCheckbox.check()
+    await inPersonCheckbox.check()
+    await expect(onlineCheckbox).toBeChecked()
+    await expect(inPersonCheckbox).toBeChecked()
   })
 })
 

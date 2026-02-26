@@ -134,6 +134,7 @@ const Filters = ({ view }) => {
     })
     filterKeys.add('tags')
     filterKeys.add('online')
+    filterKeys.add('inPerson')
     filterKeys.add('notOnline')
     filterKeys.add('closedCaptions')
     filterKeys.add('scholarship')
@@ -250,25 +251,13 @@ const Filters = ({ view }) => {
           </div> : ''}
 
           <div className='filtersItem'>
-            <input checked={search.online == 'true'} id='filter-online' onChange={(e) => {
-              if (e.target.checked) {
-                updateParams({ online: 'true', notOnline: '' })
-              } else {
-                onChange('online', '')
-              }
-            }} type='checkbox' />
+            <input checked={search.online == 'true'} id='filter-online' onChange={(e) => onChange('online', e.target.checked)} type='checkbox' />
             <label htmlFor='filter-online'>Online</label>
           </div>
 
           <div className='filtersItem'>
-            <input checked={search.notOnline == 'true'} id='filter-not-online' onChange={(e) => {
-              if (e.target.checked) {
-                updateParams({ notOnline: 'true', online: '' })
-              } else {
-                onChange('notOnline', '')
-              }
-            }} type='checkbox' />
-            <label htmlFor='filter-not-online'>Not Online</label>
+            <input checked={search.inPerson == 'true'} id='filter-in-person' onChange={(e) => onChange('inPerson', e.target.checked)} type='checkbox' />
+            <label htmlFor='filter-in-person'>In Person</label>
           </div>
 
           <div className='filtersItem'>
