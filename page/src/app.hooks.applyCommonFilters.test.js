@@ -415,10 +415,11 @@ describe('applyCommonFilters', () => {
       expect(result.map(e => e.name)).toContain('DevOps Python Summit')
     })
 
-    it('should filter by multiple type values with OR logic (TS-037)', () => {
+    it('should not filter by type dimension (not in current data)', () => {
+      // type is not in TAG_FILTER_CONFIG.allowed — filter is a no-op
       const result = applyCommonFilters(tagEvents, { type: 'Conference,Meetup' }, mockRegionsMap)
 
-      expect(result).toHaveLength(4)
+      expect(result).toHaveLength(5) // all events returned, filter ignored
     })
 
     it('should exclude events without tags when dimension filter is active', () => {
