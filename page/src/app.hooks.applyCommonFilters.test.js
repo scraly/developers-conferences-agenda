@@ -864,4 +864,38 @@ describe('applyCommonFilters', () => {
       expect(result).toHaveLength(3)
     })
   })
+
+  // T041: Performance assertion (SC-008)
+  describe('performance', () => {
+    it('should filter 500 events within 100ms (SC-008)', () => {
+      const largeEventSet = Array.from({ length: 500 }, (_, i) => {
+        const topics = ['Frontend', 'Backend', 'DevOps', 'Mobile', 'Data']
+        const techs = ['JavaScript', 'Python', 'Java', 'Go', 'Rust']
+        const countries = ['ES', 'FR', 'DE', 'US', 'JP']
+        return createEvent({
+          name: `Event ${i}`,
+          country: countries[i % countries.length],
+          tags: [
+            { key: 'topic', value: topics[i % topics.length] },
+            { key: 'tech', value: techs[i % techs.length] },
+            { key: 'type', value: i % 2 === 0 ? 'Conference' : 'Meetup' }
+          ]
+        })
+      })
+
+      const regMap = { 'ES': 'Europe', 'FR': 'Europe', 'DE': 'Europe', 'US': 'North America', 'JP': 'Asia' }
+
+      const start = performance.now()
+      applyCommonFilters(largeEventSet, {
+        topic: 'Frontend,DevOps',
+        tech_not: 'Java',
+        country: 'ES,FR',
+        region: 'Europe',
+        topic_mode: 'any'
+      }, regMap)
+      const elapsed = performance.now() - start
+
+      expect(elapsed).toBeLessThan(100)
+    })
+  })
 })

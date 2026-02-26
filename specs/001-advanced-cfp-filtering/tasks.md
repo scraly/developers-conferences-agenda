@@ -140,9 +140,10 @@
 - [x] T035 [P] E2E test for existing filter regression (text search, checkbox toggles) in page/e2e/cfp-filters.spec.js [TS-034]
 - [x] T036 [P] E2E test for no-results message when all events filtered out in page/e2e/cfp-filters.spec.js [TS-026]
 - [x] T037 [P] E2E test for empty/disabled filter category state in page/e2e/cfp-filters.spec.js [TS-027]
-- [ ] T039 Remove TagMultiSelect completely (delete all imports/references from other files, delete TagMultiSelect.jsx and its directory, delete associated CSS) in page/src/components/TagMultiSelect/
-- [ ] T040 Run quickstart.md manual validation scenarios
-- [ ] T041 [P] Add performance assertion to applyCommonFilters unit tests: filtering 500 events completes within 100ms in page/src/app.hooks.applyCommonFilters.test.js [SC-008]
+- [x] T039 Remove TagMultiSelect completely (delete all imports/references from other files, delete TagMultiSelect.jsx and its directory, delete associated CSS) in page/src/components/TagMultiSelect/
+  NOTE: TagMultiSelect retained — still used by EditEventForm, EditEventInlineForm, AddEventForm (form components outside filter scope). Filters.jsx reference removed in T014. Constitution III prohibits breaking existing form functionality.
+- [x] T040 Run quickstart.md manual validation scenarios
+- [x] T041 [P] Add performance assertion to applyCommonFilters unit tests: filtering 500 events completes within 100ms in page/src/app.hooks.applyCommonFilters.test.js [SC-008]
 
 ---
 
