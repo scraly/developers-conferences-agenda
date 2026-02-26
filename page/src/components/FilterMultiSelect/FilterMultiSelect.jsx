@@ -1,5 +1,6 @@
 import React, { useMemo, useCallback } from 'react';
 import Select, { components } from 'react-select';
+import { X } from 'lucide-react';
 import 'styles/FilterMultiSelect.css';
 
 const FilterMultiSelect = ({
@@ -60,40 +61,59 @@ const FilterMultiSelect = ({
 
   const handleExcludeToggle = useCallback((value) => {
     if (excluded.includes(value)) {
-      // Move from excluded to included
       onExcludedChange(excluded.filter(v => v !== value));
       onIncludedChange([...included, value]);
     } else if (included.includes(value)) {
-      // Move from included to excluded
       onIncludedChange(included.filter(v => v !== value));
       onExcludedChange([...excluded, value]);
     }
   }, [included, excluded, onIncludedChange, onExcludedChange]);
 
-  const CustomMultiValue = useCallback((props) => {
-    const isExcluded = props.data.isExcluded;
+  const handleRemoveValue = useCallback((value, isExcluded) => {
+    if (isExcluded) {
+      onExcludedChange(excluded.filter(v => v !== value));
+    } else {
+      onIncludedChange(included.filter(v => v !== value));
+    }
+  }, [included, excluded, onIncludedChange, onExcludedChange]);
+
+  // Fully custom MultiValue — no sub-components, just a clean chip
+  const CustomMultiValue = useCallback(({ data, selectProps }) => {
+    const isExcluded = data.isExcluded;
     return (
-      <div
-        className={`filter-chip ${isExcluded ? 'filter-chip--excluded' : 'filter-chip--included'}`}
-        title={isExcluded ? `Excluding: ${props.data.label}` : `Including: ${props.data.label}`}
-      >
+      <div className={`filter-chip ${isExcluded ? 'filter-chip--excluded' : 'filter-chip--included'}`}>
         <span
           className="filter-chip__toggle"
           onClick={(e) => {
+            e.preventDefault();
             e.stopPropagation();
-            handleExcludeToggle(props.data.value);
+            handleExcludeToggle(data.value);
           }}
+          onMouseDown={(e) => e.stopPropagation()}
           role="button"
           tabIndex={0}
           title={isExcluded ? 'Click to include' : 'Click to exclude'}
         >
           {isExcluded ? '−' : '+'}
         </span>
-        <components.MultiValueLabel {...props} />
-        <components.MultiValueRemove {...props} />
+        <span className="filter-chip__label">{data.label}</span>
+        <span
+          className="filter-chip__remove"
+          onClick={(e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            handleRemoveValue(data.value, isExcluded);
+          }}
+          onMouseDown={(e) => e.stopPropagation()}
+          role="button"
+          tabIndex={0}
+          title={`Remove ${data.label}`}
+        >
+          <X size={12} />
+        </span>
       </div>
     );
-  }, [handleExcludeToggle]);
+  }, [handleExcludeToggle, handleRemoveValue]);
 
   const customStyles = {
     control: (provided, state) => ({
@@ -110,25 +130,20 @@ const FilterMultiSelect = ({
       ...provided,
       zIndex: 9999999
     }),
-    multiValue: (provided, state) => ({
+    multiValue: (provided) => ({
       ...provided,
-      backgroundColor: state.data.isExcluded ? '#f8d7da' : '#d4edda',
-      borderColor: state.data.isExcluded ? '#f5c6cb' : '#c3e6cb',
-      borderWidth: '1px',
-      borderStyle: 'solid',
-      borderRadius: '12px'
+      background: 'none',
+      border: 'none',
+      padding: 0,
+      margin: '2px'
     }),
-    multiValueLabel: (provided, state) => ({
+    multiValueLabel: (provided) => ({
       ...provided,
-      color: state.data.isExcluded ? '#721c24' : '#155724'
+      display: 'none'
     }),
-    multiValueRemove: (provided, state) => ({
+    multiValueRemove: (provided) => ({
       ...provided,
-      color: state.data.isExcluded ? '#721c24' : '#155724',
-      ':hover': {
-        backgroundColor: state.data.isExcluded ? '#f5c6cb' : '#c3e6cb',
-        color: state.data.isExcluded ? '#491217' : '#0b2e13'
-      }
+      display: 'none'
     })
   };
 
@@ -155,6 +170,7 @@ const FilterMultiSelect = ({
         closeMenuOnSelect={false}
         components={{ MultiValue: CustomMultiValue }}
         hideSelectedOptions={true}
+        isClearable={true}
         isDisabled={disabled}
         isMulti
         menuPortalTarget={typeof document !== 'undefined' ? document.body : null}
