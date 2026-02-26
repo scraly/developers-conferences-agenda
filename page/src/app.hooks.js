@@ -256,14 +256,16 @@ export const applyCommonFilters = (events, search, regionsMap) => {
     result = result.filter((e) => e.scholarship)
   }
 
-  if (search.online === 'true') {
+  // Online / In Person checkboxes (independent, not mutually exclusive)
+  // Both or neither = show all. Only one checked = filter accordingly.
+  const wantOnline = search.online === 'true'
+  const wantInPerson = search.inPerson === 'true'
+  if (wantOnline && !wantInPerson) {
     result = result.filter((e) => e.location.indexOf('Online') !== -1)
-  }
-
-  // Not Online toggle: hide events whose location is exclusively "Online"
-  if (search.notOnline === 'true') {
+  } else if (wantInPerson && !wantOnline) {
     result = result.filter((e) => e.location !== 'Online')
   }
+  // Both checked or neither: no filter (show all)
 
   // Per-dimension multi-value country filter (OR within dimension)
   if (search.country) {

@@ -747,8 +747,8 @@ describe('applyCommonFilters', () => {
     })
   })
 
-  // T025: Not Online tests
-  describe('notOnline filter', () => {
+  // T025: Online / In Person filter tests
+  describe('online and inPerson filters', () => {
     const onlineEvents = [
       createEvent({ name: 'Online Only', location: 'Online', country: 'Online' }),
       createEvent({ name: 'Hybrid', location: 'Barcelona & Online', country: 'ES' }),
@@ -757,20 +757,34 @@ describe('applyCommonFilters', () => {
 
     const onlineRegionsMap = { 'ES': 'Europe', 'FR': 'Europe' }
 
-    it('should hide pure online events when notOnline enabled (TS-017)', () => {
-      const result = applyCommonFilters(onlineEvents, { notOnline: 'true' }, onlineRegionsMap)
+    it('should show only online/hybrid events when only online checked', () => {
+      const result = applyCommonFilters(onlineEvents, { online: 'true' }, onlineRegionsMap)
+
+      expect(result).toHaveLength(2)
+      expect(result.map(e => e.name)).toContain('Online Only')
+      expect(result.map(e => e.name)).toContain('Hybrid')
+    })
+
+    it('should hide pure-online events when only inPerson checked (TS-017)', () => {
+      const result = applyCommonFilters(onlineEvents, { inPerson: 'true' }, onlineRegionsMap)
 
       expect(result).toHaveLength(2)
       expect(result.map(e => e.name)).not.toContain('Online Only')
     })
 
-    it('should keep hybrid events visible with notOnline (TS-018)', () => {
-      const result = applyCommonFilters(onlineEvents, { notOnline: 'true' }, onlineRegionsMap)
+    it('should keep hybrid events visible with inPerson (TS-018)', () => {
+      const result = applyCommonFilters(onlineEvents, { inPerson: 'true' }, onlineRegionsMap)
 
       expect(result.map(e => e.name)).toContain('Hybrid')
     })
 
-    it('should show all events when notOnline disabled (TS-019)', () => {
+    it('should show all events when both online and inPerson checked', () => {
+      const result = applyCommonFilters(onlineEvents, { online: 'true', inPerson: 'true' }, onlineRegionsMap)
+
+      expect(result).toHaveLength(3)
+    })
+
+    it('should show all events when neither checked (TS-019)', () => {
       const result = applyCommonFilters(onlineEvents, {}, onlineRegionsMap)
 
       expect(result).toHaveLength(3)
