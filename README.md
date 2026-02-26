@@ -213,7 +213,7 @@ All the data (past and coming) are available publicly in JSON:
 * 24-26: [DesignCon 2026](https://www.designcon.com/en/home.html) - Santa Clara (USA)
 * 24-27: [Winter Data & AI Meetup 2026](https://wearecommunity.io/events/winter-data-ai-meetup-2026) - Online
 * 25: [Odoo Tech Evening - #4 Edition](https://www.odoo.com/r/IvS) - Koerich (Luxembourg)
-* 25: [Build with AI in Kraków](https://gdg.community.dev/gdg-krakow/) - Krakow (Poland) <a href="https://sessionize.com/gdg-krakow-build-with-ai"><img alt="CFP Build with AI in Kraków" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-February-2026&color=green"></a>
+* 25: [Build with AI in Kraków](https://gdg.community.dev/gdg-krakow/) - Krakow (Poland) <a href="https://sessionize.com/gdg-krakow-build-with-ai"><img alt="CFP Build with AI in Kraków" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-February-2026&color=red"></a>
 * 25: [Jupyter Workshop Berkely: Roadmap Workshop for JupyterHub and Binder](https://events.linuxfoundation.org/roadmap-workshop-for-jupyterhub-and-binder/) - Berkely (USA) & Online
 * 25: [Jupyter Workshop Köln: Roadmap Workshop for JupyterHub and Binder](https://events.linuxfoundation.org/roadmap-workshop-for-jupyterhub-and-binder/) - Köln (Germany) & Online
 * 25: [Ransomware Resilience & Recovery Summit | 2026](https://www.securitysummits.com/event/ransomware-resilience-recovery-summit/) - Online <a href="https://sessionize.com/ransomware-resilience"><img alt="CFP Ransomware" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-January-2026&color=red"></a>
