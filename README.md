@@ -845,6 +845,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12: [QA or the Highway 2026](https://www.qaorthehwy.com/) - Columbus, OH (USA) <a href="https://sessionize.com/qa-or-the-highway-2026"><img alt="CFP QA or the Highway 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2026&color=green"></a>
 * 12-13: [Baltic Ruby 2026](https://balticruby.org) -  Hamburg (Germany) <a href="https://www.papercall.io/balticruby2026"><img alt="CFP Baltic Ruby 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2025&color=red"></a>
 * 12-16: [React Summit](https://reactsummit.com) - Amsterdam (Netherlands) <a href="https://gitnation.com/events/react-summit-2026/cfp"><img alt="CFP React Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2026&color=green"></a>
+* 13: [BSides SATX 2026](https://www.bsidessatx.com/) - San Antonio, TX (USA)
 * 14-19: [38th ANNUAL FIRST CONFERENCE](https://www.first.org/conference/2026/) - Denver, CO (USA)
 * 15: [JSNation - Online](https://jsnation.com/) - Online <a href="https://www.papercall.io/jsnation"><img alt="CFP JSNation" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2026&color=green"></a>
 * 15-16: [OpenSearchCon India](https://events.linuxfoundation.org/opensearchcon-india/) - Mumbai (India)
