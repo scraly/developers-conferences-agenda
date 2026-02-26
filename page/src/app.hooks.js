@@ -5,7 +5,7 @@ import {useCallback, useMemo} from 'react'
 import {isFavorite} from './utils/favorites'
 
 export const TAG_FILTER_CONFIG = {
-  allowed: ['topic', 'tech', 'language', 'type'],
+  allowed: ['topic', 'tech', 'language'],
   blocked: ['location']
 }
 
