@@ -4,6 +4,10 @@ import regions from 'misc/regions.json'
 import {useCallback, useMemo} from 'react'
 import {isFavorite} from './utils/favorites'
 
+// Controls which tag categories appear as filter dropdowns on the page.
+// Add a key to 'allowed' to create a filter for it (e.g. 'type' when type tags exist in the data).
+// Add a key to 'blocked' to explicitly suppress it even if present in event data.
+// Tag keys not listed in either are silently ignored.
 export const TAG_FILTER_CONFIG = {
   allowed: ['topic', 'tech', 'language'],
   blocked: ['location']
