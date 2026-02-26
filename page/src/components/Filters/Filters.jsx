@@ -272,7 +272,7 @@ const Filters = ({ view }) => {
           excluded={regionState.excluded}
           included={regionState.included}
           label="Region"
-          mode={regionState.mode}
+          onModeChange={null}
           options={regionOptions}
         />
 
@@ -282,7 +282,7 @@ const Filters = ({ view }) => {
           excluded={getDimensionState('country').excluded}
           included={getDimensionState('country').included}
           label="Country"
-          mode={getDimensionState('country').mode}
+          onModeChange={null}
           options={countryOptions}
         />
 
