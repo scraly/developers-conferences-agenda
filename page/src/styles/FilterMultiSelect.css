@@ -36,45 +36,67 @@
   display: inline-flex;
   align-items: center;
   border-radius: 12px;
-  overflow: hidden;
+  padding: 2px 4px 2px 6px;
+  font-size: 0.8rem;
+  line-height: 1.2;
+  gap: 2px;
 }
 
 .filter-chip--included {
   background-color: #d4edda;
   border: 1px solid #c3e6cb;
+  color: #155724;
 }
 
 .filter-chip--excluded {
   background-color: #f8d7da;
   border: 1px solid #f5c6cb;
+  color: #721c24;
 }
 
 .filter-chip__toggle {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 18px;
-  height: 18px;
-  font-size: 14px;
+  width: 16px;
+  height: 16px;
+  font-size: 13px;
   font-weight: bold;
   cursor: pointer;
-  margin-left: 2px;
   border-radius: 50%;
+  flex-shrink: 0;
   transition: background-color 0.15s;
-}
-
-.filter-chip--included .filter-chip__toggle {
-  color: #155724;
 }
 
 .filter-chip--included .filter-chip__toggle:hover {
   background-color: #c3e6cb;
 }
 
-.filter-chip--excluded .filter-chip__toggle {
-  color: #721c24;
-}
-
 .filter-chip--excluded .filter-chip__toggle:hover {
   background-color: #f5c6cb;
+}
+
+.filter-chip__label {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 120px;
+}
+
+.filter-chip__remove {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+  border-radius: 50%;
+  flex-shrink: 0;
+  opacity: 0.6;
+  transition: all 0.15s;
+}
+
+.filter-chip__remove:hover {
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0.1);
 }
