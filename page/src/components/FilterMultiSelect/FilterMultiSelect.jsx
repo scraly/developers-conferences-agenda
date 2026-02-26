@@ -144,6 +144,10 @@ const FilterMultiSelect = ({
     multiValueRemove: (provided) => ({
       ...provided,
       display: 'none'
+    }),
+    clearIndicator: (provided) => ({
+      ...provided,
+      display: 'none'
     })
   };
 
