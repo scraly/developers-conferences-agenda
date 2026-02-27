@@ -1227,8 +1227,8 @@ All the data (past and coming) are available publicly in JSON:
 
 * 1-3: [Apidays Paris](https://www.apidays.global/paris) - Paris (France) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP Apidays Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2026&color=green"></a>
 * 3: [Conf42: Chaos Engineering 2026](https://www.conf42.com/ce2026) - Online <a href="https://www.papercall.io/conf42-chaos-engineering-2026"><img alt="CFP Conf42: Chaos Engineering 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-November-2026&color=green"></a>
-* 4: [DevFest Lyon 2026](https://devfest.gdglyon.com/) - Lyon (France)
 * 3: [Scrum Day Europe](https://scrumdayeurope.com) - Utrecht (Netherlands)
+* 4: [DevFest Lyon 2026](https://devfest.gdglyon.com/) - Lyon (France)
 * 7: [Automotive Linux Summit](https://events.linuxfoundation.org/automotive-linux-summit/) - Tokyo (Japan)
 * 7: [Embedded Linux Conference Asia](https://events.linuxfoundation.org/embedded-linux-conference-asia/) - Tokyo (Japan)
 * 7-9: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan/) - Tokyo (Japan)
