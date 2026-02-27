@@ -449,7 +449,7 @@ All the data (past and coming) are available publicly in JSON:
 ### April
 
 * 1: [AWS Summit Paris](https://aws.amazon.com/events/summits/paris) - Paris (France)
-* 1: [M365 COMMUNITY DAYS QUEBEC 2026](https://bit.ly/4qAMXEF) - Québec (Canada) <a href="https://sessionize.com/m365-community-days-quebec-2026"><img alt="CFP M365 COMMUNITY DAYS QUEBEC 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-February-2026&color=green"></a>
+* 1: [M365 COMMUNITY DAYS QUEBEC 2026](https://bit.ly/4qAMXEF) - Québec (Canada) <a href="https://sessionize.com/m365-community-days-quebec-2026"><img alt="CFP M365 COMMUNITY DAYS QUEBEC 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-February-2026&color=red"></a>
 * 1: [LexTalk Tech Spring](https://lextalk.tech) - Lexington, KY (USA) <a href="https://sessionize.com/lextalk-tech-spring-2025"><img alt="CFP LexTalk Tech Spring 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-March-2026&color=green"></a>
 * 1-2: [CypherCon 9 (2026)](https://cyphercon.com) - Milwaukee, WI (USA) <a href="https://sessionize.com/cyphercon-9-2026/"><img alt="CFP CypherCon 9 (2026)" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2026&color=red"></a>
 * 2: [Pragma Cannes 2026](https://ethglobal.com/events/pragma-cannes2026) - Cannes (France)
@@ -621,7 +621,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5-6: [iOSKonf26](https://www.ioskonf.com) - Skopje (Macedonia) <a href="https://www.papercall.io/ioskonf26"><img alt="CFP iOSKonf26" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=red"></a>
 * 5-6: [Rise of AI Converence](https://riseof.ai/conference-2026) - Berlin (Germany)
 * 5-6: [SREday Austin 2026 Q2](https://sreday.com/2026-austin-q2/) - Austin, TX (USA) <a href="https://www.papercall.io/sreday-2026-austin-q2"><img alt="CFP SREday Austin 2026 Q2" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-April-2026&color=green"></a>
-* 5-6: [Devopsdays Austin](https://devopsdays.org/events/2026-austin) - Austin, TX (USA) <a href="https://talks.devopsdays.org/devopsdays-austin-2026/cfp"><img alt="CFP Devopsdays Austin 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-February-2026&color=green"></a>
+* 5-6: [Devopsdays Austin](https://devopsdays.org/events/2026-austin) - Austin, TX (USA) <a href="https://talks.devopsdays.org/devopsdays-austin-2026/cfp"><img alt="CFP Devopsdays Austin 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-February-2026&color=red"></a>
 * 5-6: [MenderCon 2026](https://mendercon.com/) - Online <a href="https://www.papercall.io/mendercon-2026"><img alt="CFP MenderCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-March-2026&color=green"></a>
 * 5-6: [Merge Conference 2026](https://merge.softwaregr.org/) - Grand Rapids, MI (USA) <a href="https://www.papercall.io/merge2026"><img alt="CFP Merge Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-February-2026&color=red"></a>
 * 5-7: [GISEC GLOBAL](https://gisec.ae) - Dubai (United Arab Emirates)
