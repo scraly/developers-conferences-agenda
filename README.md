@@ -1097,6 +1097,7 @@ All the data (past and coming) are available publicly in JSON:
 * 24: [PlatformCon Live Day Paris 2026](https://platformconlive.fr/) - Paris (France) <a href="https://platformconlive.fr/sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 24: [Pragma Tokyo 2026](https://ethglobal.com/events/pragma-tokyo2026) - Tokyo (Japan)
 * 24-25: [TURN Conference 2026](https://turn-conference.org/) - Weimar (Germany) <a href="https://sessionize.com/turn-conference-26"><img alt="CFP TURN Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=red"></a>
+* 24-26: [Paris Web 2026](https://www.paris-web.fr) - Paris (France) <a href="https://www.paris-web.fr/soutenez-paris-web" hreflang="fr"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 25-26: [Confitura 2026](https://confitura.pl/) - Warsaw (Poland)
 * 25-26: [BSides Krakow 2026](https://bsidesKrakow.pl) - Krakow (Poland) <a href="https://sessionize.com/bsides-Krakow-2026"><img alt="CFP BSides Krakow 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=green"></a>
 * 26-27: [Devopsdays Cairo](https://devopsdays.org/events/2026-cairo) - Cairo (Egypt)
