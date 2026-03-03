@@ -904,6 +904,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17-20: [VivaTech](https://vivatechnology.com) - Paris (France)
 * 17-20: [BSDCan](https://www.bsdcan.org/2026/) - Ottawa, ON (Canada)
 * 18: [CIO Leaders Summit](https://focusnetwork.co/cio-leaders.com) - Singapore (Singapore)
+* 18: [Developers Up North Conference](https://www.hullfrontend.co.uk/#events) - Hull (UK)
 * 18: [TEDxDhahran](https://www.ted.com/tedx/events/61237) - Dhahran (Saudi Arabia) <a href="https://sessionize.com/TEDxDhahranxSaudiArabia"><img alt="CFP TEDxDhahran" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=red"></a>
 * 18: [Conf42 Large Language Models (LLMs) 2026](https://www.conf42.com/llms2026) - Online <a href="https://www.papercall.io/conf42-large-language-models-llms-2026"><img alt="CFP Conf42 Large Language Models (LLMs) 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-May-2026&color=green"></a>
 * 18: [Tech'Work](https://techwork.events) - Lyon (France) <a href="https://conference-hall.io/tech-work-lyon-2026"><img alt="CFP Tech'Work 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2026&color=red"></a>
