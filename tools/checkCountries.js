@@ -311,7 +311,12 @@ function checkCountries(inputEvents) {
     }
 
     // Normalize to uppercase for comparison
-    const codeUpper = normalized.toUpperCase();
+    var codeUpper = normalized.toUpperCase();
+
+    if (sourceUpper === 'SIERRA LEONE') {
+      codeUpper = "SL";
+      return;
+    }
 
     // Validate format: must be exactly 2 letters for valid ISO 3166-1 alpha-2 codes
     if (!/^[A-Z]{2}$/.test(codeUpper)) {

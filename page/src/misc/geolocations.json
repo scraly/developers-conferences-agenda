@@ -111,6 +111,10 @@
     "latitude": 52.3730796,
     "longitude": 4.8924534
   },
+  "Anaheim, CA (USA)": {
+    "latitude": 33.8347516,
+    "longitude": -117.911732
+  },
   "Ancona (Italy)": {
     "latitude": 43.6071395,
     "longitude": 13.5101741
@@ -615,6 +619,10 @@
     "latitude": 45.5662672,
     "longitude": 5.9203636
   },
+  "Champs-sur-Marne (France)": {
+    "latitude": 48.8526892,
+    "longitude": 2.6027219
+  },
   "Chapecó (Brazil)": {
     "latitude": -27.1110472,
     "longitude": -52.5958977
@@ -859,6 +867,10 @@
     "latitude": 37.27528,
     "longitude": -107.8800667
   },
+  "Durban (South Africa)": {
+    "latitude": -29.861825,
+    "longitude": 31.009909
+  },
   "Durham, NC (USA)": {
     "latitude": 35.996653,
     "longitude": -78.9018053
@@ -975,6 +987,10 @@
     "latitude": 50.1106444,
     "longitude": 8.6820917
   },
+  "Freetown (Sierra Leone)": {
+    "latitude": 8.479004,
+    "longitude": -13.26795
+  },
   "Freiburg (Germany)": {
     "latitude": 47.9960901,
     "longitude": 7.8494005
@@ -1055,7 +1071,7 @@
     "latitude": -23.8431724,
     "longitude": 151.256132
   },
-  "Glasgow (Scotland)": {
+  "Glasgow (UK)": {
     "latitude": 55.861155,
     "longitude": -4.2501687
   },
@@ -1187,6 +1203,10 @@
     "latitude": 50.8876735,
     "longitude": 5.9773285
   },
+  "Heidelberg (Germany)": {
+    "latitude": 49.4093582,
+    "longitude": 8.694724
+  },
   "Helsinki (Finland)": {
     "latitude": 60.1674881,
     "longitude": 24.9427473
@@ -1286,6 +1306,10 @@
   "Illinois (USA)": {
     "latitude": 40.0796606,
     "longitude": -89.4337288
+  },
+  "Imola (Italy)": {
+    "latitude": 44.3535145,
+    "longitude": 11.7141233
   },
   "India": {
     "latitude": 22.3511148,
@@ -1454,6 +1478,10 @@
   "Kirklareli (Turkey)": {
     "latitude": 41.7078046,
     "longitude": 27.6051334
+  },
+  "Kisii (Kenya)": {
+    "latitude": -0.7389425,
+    "longitude": 34.7539855
   },
   "Kitwe (Zambia)": {
     "latitude": -12.8104186,
@@ -2271,6 +2299,10 @@
     "latitude": 42.3102619,
     "longitude": 13.9575901
   },
+  "Pewaukee (USA)": {
+    "latitude": 43.0846017,
+    "longitude": -88.2139452
+  },
   "Philadelphia, PA (USA)": {
     "latitude": 39.9527237,
     "longitude": -75.1635262
@@ -2971,6 +3003,10 @@
     "latitude": 31.8039508,
     "longitude": 35.1570251
   },
+  "Tulsa, OK (USA)": {
+    "latitude": 36.1563122,
+    "longitude": -95.9927516
+  },
   "Tunis (Tunisia)": {
     "latitude": 36.8002068,
     "longitude": 10.1857757
@@ -3042,6 +3078,10 @@
   "Vannes (France)": {
     "latitude": 47.6586772,
     "longitude": -2.7599079
+  },
+  "Varberg (Sweden)": {
+    "latitude": 57.1057412,
+    "longitude": 12.2502949
   },
   "Veenendaal (Netherlands)": {
     "latitude": 52.0259814,
