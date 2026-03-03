@@ -707,6 +707,10 @@
     "latitude": -17.401245799999998,
     "longitude": -66.16756808852
   },
+  "Coimbatore (India)": {
+    "latitude": 11.0018115,
+    "longitude": 76.9628425
+  },
   "Coimbra (Portugal)": {
     "latitude": 40.2111931,
     "longitude": -8.4294632
@@ -1274,6 +1278,10 @@
   "Hyderabad (India)": {
     "latitude": 17.406498,
     "longitude": 78.47724389999999
+  },
+  "Iai (Romania)": {
+    "latitude": 44.3761639,
+    "longitude": 26.0467374
   },
   "Iasi (Romania)": {
     "latitude": 47.1615416,
