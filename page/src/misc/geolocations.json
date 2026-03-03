@@ -363,6 +363,10 @@
     "latitude": 43.2630018,
     "longitude": -2.9350039
   },
+  "Billund (Denmark)": {
+    "latitude": 55.7247018,
+    "longitude": 9.1195835
+  },
   "Biot (France)": {
     "latitude": 43.62685099999999,
     "longitude": 7.09808
@@ -1814,6 +1818,10 @@
   "Mannheim (Germany)": {
     "latitude": 49.4892913,
     "longitude": 8.4673098
+  },
+  "Maputo (Mozambique)": {
+    "latitude": -25.966213,
+    "longitude": 32.56745
   },
   "Marburg (Germany)": {
     "latitude": 50.8090106,

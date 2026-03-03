@@ -3,7 +3,7 @@ const events = require('../page/src/misc/all-events.json');
 // ISO 3166-1 alpha-2 whitelist (extended for dataset coverage)
 const VALID_COUNTRY_CODES = new Set([
   'AF','AL','DZ','AR','AU','AT','BD','BE','BG','BR','CA','CH','CL','CN','CO','CR','CZ','DE','DK','DO','EC','EE','EG','ES','FI','FR','GB','GH','GR','HK','HR','HU','ID','IE','IL','IN','IQ','IS','IT','JM','JP','KE','KR','KW','KZ','LK','LT','LU','LV','MA','MX','MY','NG','NL','NO','NZ','OM','PA','PE','PH','PK','PL','PT','PY','QA','RO','RS','RU','SA','SE','SG','SI','SK','TH','TN','TR','TW','TZ','UA','UG','US','UY','VN','ZA','ZW',
-  'BA','BY','MK','MT','BF','GE','LB','GM','BI','ZM','SN','LA','BO','SV','KY','NA','HN','NI','GT','UZ','NE','SO','TG','RW','MU','TT','CI','AM','MQ','RE','AE','CD','CG','XK','NP','AO','CM','JO','ET','BJ','TM','LI','MC','AD','ST'
+  'BA','BY','MK','MT','BF','GE','LB','GM','BI','ZM','SN','LA','BO','SV','KY','NA','HN','NI','GT','UZ','NE','SO','TG','RW','MU','TT','CI','AM','MQ','RE','AE','CD','CG','XK','NP','AO','CM','JO','ET','BJ','TM','LI','MC','AD','ST','MZ','SL'
 ]);
 
 // Accept common country names from the dataset and map them to ISO alpha-2
@@ -150,7 +150,9 @@ const COUNTRY_NAME_TO_CODE = {
   'DEMOCRATIC REPUBLIC OF THE CONGO': 'CD',
   'BOSNIA HERZEGOVINA': 'BA',
   'REPUBLIC OF KOREA': 'KR',
-  'SAO TOME AND PRINCIPE': 'ST'
+  'SAO TOME AND PRINCIPE': 'ST',
+  'MOZAMBIQUE': 'MZ',
+  'SIERRA LEONE': 'SL'
 };
 
 const VIRTUAL_KEYWORDS = ['virtual', 'virtualized', 'online', 'remote', 'hybrid'];
@@ -313,10 +315,10 @@ function checkCountries(inputEvents) {
     // Normalize to uppercase for comparison
     var codeUpper = normalized.toUpperCase();
 
-    if (sourceUpper === 'SIERRA LEONE') {
+    /*if (sourceUpper === 'SIERRA LEONE') {
       codeUpper = "SL";
       return;
-    }
+    }*/
 
     // Validate format: must be exactly 2 letters for valid ISO 3166-1 alpha-2 codes
     if (!/^[A-Z]{2}$/.test(codeUpper)) {
