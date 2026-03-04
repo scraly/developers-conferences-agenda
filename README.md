@@ -1123,7 +1123,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 1: [WAX 2026](https://www.waxconf.fr/) - Marseille (France) <a href="https://conference-hall.io/wax-2026-conference-tech-au-stade-velodrome"><img alt="CFP WAX 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=green"></a>
 * 1: [UseCaseConf 2026](https://usecaseconf.tech) - Verona (Italy)
-* 1-2: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France) 
+* 1-2: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France) <a href="https://www.volcamp.io/sponsors/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 1-2: [GITEX VIETNAM 2026](https://gitexvietnam.com) - Hanoi (Vietnam)
 * 1-3: [SFK 2026](https://sfk.flossk.org) - Pristina (Kosovo) <a href="https://sessionize.com/sfk-2026"><img alt="CFP SFK 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2026&color=green"></a>
 * 5: [Linux Plumbers Conference](https://lpc.events/event/20/) - Prague (Czechia) & Online
