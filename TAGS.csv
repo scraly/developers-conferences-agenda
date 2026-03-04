@@ -2513,3 +2513,57 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-06-AWS Community Day Bengaluru 2026,tech:aws,topic:cloud,topic:community,language:english
 2026-07-18-KCD Lima Perú 2026,tech:kubernetes,topic:cloud-native,topic:community,language:spanish
 2026-08-28-State of the Map,tech:openstreetmap,topic:gis,topic:community,language:french
+2026-03-14-AgentCamp - Coimbatore,tech:python,topic:data,topic:open-source,language:english
+2026-03-14-International Women's Day Kigali 2026,tech:women-in-tech,topic:inspiration,language:english
+2026-03-21-International Women's Day Kisii 2026 - Breaking the Pattern,tech:women-in-tech,topic:inspiration,language:english
+2026-03-21-GitHub Copilot Dev Days | Ahmedabad,tech:github,topic:copilot,language:english
+2026-03-21-Django Girls Maputo 2026,tech:django,topic:girls,language:portuguese
+2026-03-23-KubeAuto Day Amsterdam,tech:kubernetes,topic:automation,language:english
+2026-04-04-Explora Tech Lima 2026,tech:tech,topic:innovation,language:spanish
+2026-04-11-Agent Camp 2026,tech:ai,topic:developer,language:english
+2026-04-11-AI Developer Day: Build With AI 2026,tech:ai,topic:developer,language:english
+2026-04-15-AI in The New Era,tech:ai,topic:future,language:english
+2026-04-19-8.8 Unreal Peru,tech:unreal,topic:game-development,language:english
+2026-04-24-Django Girls Mombasa,tech:django,topic:girls,language:english
+2026-05-07-Uphill Conf,tech:conference,topic:uphill,language:english
+2026-05-12-Lyon Craft,tech:craft,topic:lyon,language:french
+2026-05-16-Devopsdays Natal,tech:devops,topic:days,language:english
+2026-05-18-TechEx North America,tech:tech,topic:exhibition,language:english
+2026-05-18-Cyber Security & Cloud Congress,tech:cybersecurity,topic:cloud,language:english
+2026-05-28-Devopsdays Kansas City,tech:devops,topic:days,language:english
+2026-06-04-SUGCON India 2026,tech:sugcon,topic:sql,language:english
+2026-06-06-Hong Kong Open Source Conference (HKOSCon) 2026,tech:opensource,topic:conference,language:chinese
+2026-06-10-Finnish Dreamin,tech:finnish,topic:dreamin,language:finnish
+2026-06-13-BSides SATX 2026,tech:cybersecurity,topic:bsides,language:english
+2026-06-18-Developers Up North Conference,tech:developers,topic:conference,language:english
+2026-06-18-CyberLab Con 2026,tech:cybersecurity,topic:lab,language:english
+2026-06-19-Devopsdays Amsterdam,tech:devops,topic:days,language:english
+2026-07-18-AlmaLinux Day: Los Angeles,tech:almalinux,topic:day,language:english
+2026-07-24-PyData PyCon Yerevan 2026,tech:pydata,topic:pycon,language:english
+2026-07-28-ArgoCon Japan,tech:argo,topic:con,language:english
+2026-07-28-KeyCloakCon Japan,tech:keycloak,topic:con,language:english
+2026-09-11-YYC DataCon 2026,tech:datacon,topic:yycon,language:english
+2026-09-17-Devopsdays London,tech:devops,topic:cloud,location:uk
+2026-09-17-Secure Our Streets Conference 2026,tech:cybersecurity,topic:community,location:online
+2026-09-17-World Conference on  Smart Systems : Big Data, IoT, Cybersecurity, and IT in Action,tech:smart-systems,topic:big-data,topic:iot,topic:cybersecurity,location:japan
+2026-09-17-PyCon Camerooon,tech:python,topic:community,location:cameroon
+2026-09-21-Nordic Summit 2026,tech:software,topic:innovation,location:denmark
+2026-09-21-Prairie Dev Con 2026,tech:development,topic:programming,location:canada
+2026-09-21-devdays 2026,tech:development,topic:software,location:romania
+2026-09-22-heise devSec,tech:security,topic:devsecops,location:germany
+2026-09-22-Devopsdays Denver,tech:devops,topic:cloud,location:usa
+2026-09-23-Azure Fest 2026,tech:cloud,topic:azure,location:netherlands
+2026-09-24-PlatformCon Paris,tech:platform,topic:web,location:france
+2026-09-24-Paris Web 2026,tech:web,topic:design,location:france
+2026-10-03-Scottish Summit 2026,tech:software,topic:innovation,location:scotland
+2026-10-11-JavaCro'26,tech:java,topic:development,location:croatia
+2026-10-13-BazelCon,tech:build-tools,topic:open-source,location:netherlands
+2026-10-13-Techbash,tech:development,topic:cloud,location:usa
+2026-10-15-Tech Fuse Des Moines 2026,tech:technology,topic:innovation,location:usa
+2026-11-03-S2N: Storage Server Network,tech:storage,topic:networking,location:germany
+2026-11-04-Øredev,tech:development,topic:software,location:sweden
+2026-11-11-CLC,tech:cloud,topic:platform,location:germany
+2026-11-13-Devopsdays Barcelona,tech:devops,topic:cloud,location:spain
+2026-11-16-Agile Testing Days,tech:testing,topic:agile,location:germany
+2026-11-27-DevFest Belgium,tech:google,topic:cloud,location:belgium
+2026-12-04-DevFest Lyon 2026,tech:google,topic:cloud,location:france
