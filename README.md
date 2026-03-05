@@ -333,7 +333,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13: [Security BSidesLjubljana 0x7EA](https://bsidesljubljana.si) - Ljubljana (Slovenia) <a href="https://sessionize.com/security-bsidesljubljana-0x7ea"><img alt="CFP Security BSidesLjubljana 0x7EA" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-January-2026&color=red"></a>
 * 13: [Wome'nTech](https://gdg.community.dev/gdg-vicenza) - Vicenza (Italy) <a href="https://sessionize.com/womentech"><img alt="CFP Wome'nTech" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-March-2026&color=green"></a>
 * 14: [Android Bangkok Conference 2026](https://gdg.community.dev/events/details/google-gdg-bangkok-presents-android-bangkok-conference-2026-faster-app-better-ai) - Bangkok (Thailand)
-* 14: [IWD26 Douala](https://gdg.community.dev/events/details/google-gdg-douala-presents-iwd26-douala/) - Douala (Cameroon) <a href="https://sessionize.com/iwd26-douala-copy"><img alt="CFP IWD26 Douala" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-March-2026&color=green"></a>
+* 14: [IWD26 Douala](https://gdg.community.dev/events/details/google-gdg-douala-presents-iwd26-douala/) - Douala (Cameroon) <a href="https://sessionize.com/iwd26-douala-copy"><img alt="CFP IWD26 Douala" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-March-2026&color=red"></a>
 * 14: [AWS Student Community Day at Saltillo](https://studentday.awscommunity.mx/) - Saltillo (Mexico) <a href="https://sessionize.com/aws-student-community-day-at-saltillo"><img alt="CFP AWS Student Community Day at Saltillo" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=red"></a>
 * 14: [Data & AI Community Day Durban: AI Unplugged](https://aimldatadurban.org/) - Durban (South Africa) <a href="https://sessionize.com/durban-ai-unplugged"><img alt="CFP Data & AI Community Day Durban: AI Unplugged" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=red"></a>
 * 14: [Power BI & Fabric Barcelona a Pallejà](https://www.meetup.com/es-ES/power-bi-barcelona/) - Barcelona (Spain) <a href="https://sessionize.com/power-bi-fabric-barcelona-a-palleja/"><img alt="CFP Power BI & Fabric Barcelona a Pallejà" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=red"></a>
@@ -1038,7 +1038,7 @@ All the data (past and coming) are available publicly in JSON:
 ### August
 
 * 3-4: [ICSTP 2026](https://waset.org/software-testing-process-conference-in-august-2026-in-amsterdam) - Amsterdam (Netherlands)
-* 3-6: [GopherCon 2026](https://gophercon.com) - Washington D.C. (USA) <a href="https://sessionize.com/gophercon-2026"><img alt="CFP GopherCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-March-2026&color=green"></a>
+* 3-6: [GopherCon 2026](https://gophercon.com) - Washington D.C. (USA) <a href="https://sessionize.com/gophercon-2026"><img alt="CFP GopherCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-March-2026&color=red"></a>
 * 4-6: [Ai4 2026](https://ai4.io) - Las Vegas, NV (USA)
 * 6-7: [Go South Africa 2026](https://gopherconf.co.za/) - Johannesburg (South Africa)
 * 7-8: [BSides Brighton](https://bsidesbrighton.co.uk/) - Brighton (UK) <a href="https://sessionize.com/bsides-brighton"><img alt="CFP BSides Brighton" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-August-2026&color=green"></a>
