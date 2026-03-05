@@ -715,6 +715,10 @@
     "latitude": -17.401245799999998,
     "longitude": -66.16756808852
   },
+  "Cocoa Beach, FL (USA)": {
+    "latitude": 28.3184107,
+    "longitude": -80.6094959
+  },
   "Coimbatore (India)": {
     "latitude": 11.0018115,
     "longitude": 76.9628425
@@ -898,6 +902,10 @@
   "Ede (Netherlands)": {
     "latitude": 52.07168255,
     "longitude": 5.745510631034939
+  },
+  "Edina, MN (USA)": {
+    "latitude": 44.8897027,
+    "longitude": -93.3501222
   },
   "Edinburgh (Scotland)": {
     "latitude": 55.9533456,
