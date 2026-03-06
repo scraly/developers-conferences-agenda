@@ -49,6 +49,49 @@ There are GitHub Actions available at `.github/workflows/ghpages.yml` which will
 
 **Note:** The deployment will fail if any tests fail, ensuring code quality.
 
+## Configuration
+
+### Filter Dimensions
+
+The CFP page filter panel is driven by `TAG_FILTER_CONFIG` in `src/app.hooks.js`:
+
+```javascript
+export const TAG_FILTER_CONFIG = {
+  allowed: ['topic', 'tech', 'language'],
+  blocked: ['location']
+}
+```
+
+- **`allowed`** — tag keys that get their own multi-select filter dropdown. Each key listed here generates a filter if at least one event has a tag with that key.
+- **`blocked`** — tag keys that are explicitly suppressed, even if they exist in the data. The `location` key is blocked because it duplicates the dedicated Country/Region filters.
+- Tag keys not in either list are silently ignored (no filter generated).
+
+To add a new filter dimension (e.g. when `type` tags are added to the data), add the key to `allowed`:
+
+```javascript
+allowed: ['topic', 'tech', 'language', 'type'],
+```
+
+### URL Parameter Format
+
+Each filter dimension maps to URL query parameters for shareable filtered views:
+
+| Parameter | Format | Example |
+|-----------|--------|---------|
+| `{dim}` | comma-separated included values | `topic=Frontend,DevOps` |
+| `{dim}_not` | comma-separated excluded values | `tech_not=PHP` |
+| `{dim}_mode` | `any` (default, OR) or `all` (AND) | `topic_mode=all` |
+| `country` | comma-separated | `country=France,Germany` |
+| `region` | comma-separated | `region=Europe,Asia` |
+| `online` | boolean | `online=true` |
+| `inPerson` | boolean | `inPerson=true` |
+
+Legacy `tags=key:value,...` URLs are still parsed for backward compatibility.
+
+### Region/Country Mappings
+
+Region-to-country groupings are defined in `src/misc/regions.json`. When a user selects a region, the country filter narrows to show only countries in that region.
+
 ### Components
 #### YearSelector
 ```

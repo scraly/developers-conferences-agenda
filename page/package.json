@@ -22,11 +22,14 @@
     "test": "vitest",
     "test:ui": "vitest --ui",
     "test:run": "vitest run",
+    "test:e2e": "npx playwright test",
     "lint": "eslint --fix",
     "format": "prettier src/**/*.js --write --config ./.prettierrc"
   },
   "devDependencies": {
+    "@cucumber/cucumber": "^12.7.0",
     "@eslint/js": "^9.17.0",
+    "@playwright/test": "^1.58.2",
     "@types/react": "^18.0.37",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react-swc": "^3.0.0",
@@ -43,6 +46,6 @@
   },
   "prettier": "prettier-airbnb-config",
   "overrides": {
-    "ajv": "^8.17.1"  
+    "ajv": "^8.17.1"
   }
 }

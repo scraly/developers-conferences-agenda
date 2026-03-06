@@ -4,6 +4,33 @@ import regions from 'misc/regions.json'
 import {useCallback, useMemo} from 'react'
 import {isFavorite} from './utils/favorites'
 
+// Controls which tag categories appear as filter dropdowns on the page.
+// Add a key to 'allowed' to create a filter for it (e.g. 'type' when type tags exist in the data).
+// Add a key to 'blocked' to explicitly suppress it even if present in event data.
+// Tag keys not listed in either are silently ignored.
+export const TAG_FILTER_CONFIG = {
+  allowed: ['topic', 'tech', 'language'],
+  blocked: ['location']
+}
+
+/**
+ * Parse per-dimension filter params from a search params object.
+ * For each dimension, reads {dim}, {dim}_not, {dim}_mode.
+ * @param {Object} search - Object from URLSearchParams entries
+ * @param {string[]} dimensions - Dimension keys to parse (e.g., TAG_FILTER_CONFIG.allowed + ['country', 'region'])
+ * @returns {Object} Map of dimension -> { included: string[], excluded: string[], mode: 'any'|'all' }
+ */
+export const parseDimensionParams = (search, dimensions) => {
+  const result = {}
+  dimensions.forEach(dim => {
+    const included = search[dim] ? search[dim].split(',').map(v => v.trim()).filter(Boolean) : []
+    const excluded = search[`${dim}_not`] ? search[`${dim}_not`].split(',').map(v => v.trim()).filter(Boolean) : []
+    const mode = search[`${dim}_mode`] === 'all' ? 'all' : 'any'
+    result[dim] = { included, excluded, mode }
+  })
+  return result
+}
+
 export const useHasYearEvents = (year) => {
   return useMemo(() => Boolean(allEvents.find((e) => new Date(e.date[0]).getFullYear() === parseInt(year, 10))), [year])
 }
@@ -16,6 +43,25 @@ export const useCountries = () => {
       .filter((c) => c != 'Online' && c != '')
       .sort()
   }, [])
+}
+
+export const useAvailableCountries = (selectedRegions, allCountries) => {
+  return useMemo(() => {
+    if (!selectedRegions || selectedRegions.length === 0) {
+      return allCountries
+    }
+    const available = []
+    selectedRegions.forEach(regionName => {
+      if (regions[regionName]) {
+        regions[regionName].forEach(country => {
+          if (!available.includes(country)) {
+            available.push(country)
+          }
+        })
+      }
+    })
+    return available.sort()
+  }, [selectedRegions, allCountries])
 }
 
 export const useCountryToRegionMap = () => {
@@ -214,16 +260,57 @@ export const applyCommonFilters = (events, search, regionsMap) => {
     result = result.filter((e) => e.scholarship)
   }
 
-  if (search.online === 'true') {
+  // Online / In Person checkboxes (independent, not mutually exclusive)
+  // Both or neither = show all. Only one checked = filter accordingly.
+  const wantOnline = search.online === 'true'
+  const wantInPerson = search.inPerson === 'true'
+  if (wantOnline && !wantInPerson) {
     result = result.filter((e) => e.location.indexOf('Online') !== -1)
+  } else if (wantInPerson && !wantOnline) {
+    result = result.filter((e) => e.location !== 'Online')
   }
+  // Both checked or neither: no filter (show all)
 
+  // Per-dimension multi-value country filter (OR within dimension)
   if (search.country) {
-    result = result.filter((e) => e.country === search.country)
+    const countries = search.country.split(',').map(v => v.trim()).filter(Boolean)
+    if (countries.length > 0) {
+      const mode = search.country_mode === 'all' ? 'all' : 'any'
+      if (mode === 'all') {
+        result = result.filter((e) => countries.every(c => e.country === c))
+      } else {
+        result = result.filter((e) => countries.some(c => e.country === c))
+      }
+    }
   }
 
+  // Country exclusion
+  if (search.country_not) {
+    const excludedCountries = search.country_not.split(',').map(v => v.trim()).filter(Boolean)
+    if (excludedCountries.length > 0) {
+      result = result.filter((e) => !excludedCountries.some(c => e.country === c))
+    }
+  }
+
+  // Per-dimension multi-value region filter (OR within dimension)
   if (search.region) {
-    result = result.filter((e) => regionsMap[e.country] === search.region)
+    const selectedRegions = search.region.split(',').map(v => v.trim()).filter(Boolean)
+    if (selectedRegions.length > 0) {
+      const mode = search.region_mode === 'all' ? 'all' : 'any'
+      if (mode === 'all') {
+        result = result.filter((e) => selectedRegions.every(r => regionsMap[e.country] === r))
+      } else {
+        result = result.filter((e) => selectedRegions.some(r => regionsMap[e.country] === r))
+      }
+    }
+  }
+
+  // Region exclusion
+  if (search.region_not) {
+    const excludedRegions = search.region_not.split(',').map(v => v.trim()).filter(Boolean)
+    if (excludedRegions.length > 0) {
+      result = result.filter((e) => !excludedRegions.some(r => regionsMap[e.country] === r))
+    }
   }
 
   if (search.query) {
@@ -262,16 +349,38 @@ export const applyCommonFilters = (events, search, regionsMap) => {
     }
   }
 
-  // Handle individual tag filters by key (legacy support)
-  const tagKeys = ['tech', 'topic', 'type', 'language']
-  tagKeys.forEach(key => {
+  // Per-dimension multi-value tag filters (OR within each dimension, AND across)
+  TAG_FILTER_CONFIG.allowed.forEach(key => {
+    // Inclusion filter
     if (search[key]) {
-      result = result.filter((e) => {
-        if (!e.tags || !Array.isArray(e.tags)) return false
-        return e.tags.some((tag) => {
-          return typeof tag === 'object' && tag.key === key && tag.value === search[key]
+      const values = search[key].split(',').map(v => v.trim()).filter(Boolean)
+      if (values.length > 0) {
+        const mode = search[`${key}_mode`] === 'all' ? 'all' : 'any'
+        result = result.filter((e) => {
+          if (!e.tags || !Array.isArray(e.tags)) return false
+          if (mode === 'all') {
+            return values.every(val =>
+              e.tags.some(tag => typeof tag === 'object' && tag.key === key && tag.value === val)
+            )
+          }
+          return values.some(val =>
+            e.tags.some(tag => typeof tag === 'object' && tag.key === key && tag.value === val)
+          )
         })
-      })
+      }
+    }
+
+    // Exclusion filter
+    if (search[`${key}_not`]) {
+      const excluded = search[`${key}_not`].split(',').map(v => v.trim()).filter(Boolean)
+      if (excluded.length > 0) {
+        result = result.filter((e) => {
+          if (!e.tags || !Array.isArray(e.tags)) return true
+          return !excluded.some(val =>
+            e.tags.some(tag => typeof tag === 'object' && tag.key === key && tag.value === val)
+          )
+        })
+      }
     }
   })
 
