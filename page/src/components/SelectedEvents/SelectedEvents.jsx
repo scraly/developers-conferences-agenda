@@ -4,7 +4,7 @@ import {useNavigate, useSearchParams, useParams} from 'react-router-dom';
 import 'styles/SelectedEvents.css';
 import EventDisplay from '../EventDisplay/EventDisplay';
 import EventCount from '../EventCount/EventCount'
-import {formatDate, getMonthName} from '../../utils';
+import {formatDate, getTranslatedMonthName} from '../../utils';
 import {useMonthEvents, useDayEvents, useYearEvents} from 'app.hooks';
 import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
 import { useTranslation } from 'contexts/LanguageContext';
@@ -89,7 +89,7 @@ const SelectedEvents = () => {
         <>
           <h3 className="eventDateDisplay" ref={scrollToRef}>
             {previous}
-            <span>{getMonthName(currentMonth) || formatDate(currentDate)}</span>
+            <span>{getTranslatedMonthName(currentMonth, t) || formatDate(currentDate)}</span>
             {next}
             </h3>
             <EventCount events={events} />
