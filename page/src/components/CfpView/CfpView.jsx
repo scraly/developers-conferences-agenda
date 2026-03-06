@@ -88,7 +88,9 @@ const CfpView = () => {
                       </span>
                     </div>
 
-                      {e.sponsoring ? <a href={e.sponsoring} rel="noreferrer" target="_blank">💰</a> : null}
+                      <div>
+                        <span>{e.sponsoring ? <a className="sponsoring" href={e.sponsoring} rel="noreferrer" target="_blank">💰</a> : null}</span>
+                      </div>
                       <TagBadges onTagClick={handleTagClick} tags={e.tags} />
                     </div>
                     <a className="submitButton" href={e.cfp.link} rel="noreferrer" target="_blank" title={t('cfp.submitToCfp')}>
