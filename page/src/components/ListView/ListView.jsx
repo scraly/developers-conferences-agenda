@@ -3,11 +3,12 @@ import 'styles/ListView.css';
 
 import {useYearEvents} from 'app.hooks';
 import { useFilters } from 'app.hooks';
-import {getMonthName, getMonthNames} from 'utils';
+import {getMonthName, getMonthNames, getTranslatedMonthName} from 'utils';
 import ShortDate from 'components/ShortDate/ShortDate';
 import FavoriteButton from 'components/FavoriteButton/FavoriteButton';
 import TagBadges from 'components/TagBadges/TagBadges';
 import { useFavoritesContext } from '../../contexts/FavoritesContext';
+import { useTranslation } from 'contexts/LanguageContext';
 import { Edit } from 'lucide-react';
 import EditEventInlineForm from 'components/EditEventForm/EditEventInlineForm';
 
@@ -15,6 +16,7 @@ const ListView = () => {
   let events = useYearEvents();
   const { filters, toggleTag } = useFilters();
   const { isFavorite } = useFavoritesContext();
+  const { t } = useTranslation();
 
   const handleTagClick = (key, value) => {
     toggleTag(key, value);
@@ -66,10 +68,17 @@ const ListView = () => {
 
   return (
     <div className="listView">
-      {monthOrder.map(month => (
-        <React.Fragment key={month}>
-          <h1>{month}{filters.sort === 'cfp' ? ' CFP Deadlines' : ' Events'}:</h1>
-          {eventsByMonth[month].map((e, i) => {
+      {monthOrder.map(month => {
+        const monthIndex = getMonthNames().indexOf(month);
+        const translatedMonth = getTranslatedMonthName(monthIndex, t);
+        
+        return (
+          <React.Fragment key={month}>
+            <h1>{filters.sort === 'cfp' 
+              ? t('months.monthCfpDeadlines').replace('{month}', translatedMonth)
+              : t('months.monthEvents').replace('{month}', translatedMonth)
+            }</h1>
+            {eventsByMonth[month].map((e, i) => {
             const eventId = `${e.name}-${e.date[0]}`;
             const isFav = isFavorite(eventId);
             return (
@@ -142,8 +151,9 @@ const ListView = () => {
               </div>
             );
           })}
-        </React.Fragment>
-      ))}
+          </React.Fragment>
+        );
+      })}
       {editEvent && (
         <EditEventInlineForm event={editEvent} onClose={() => setEditEvent(null)} />
       )}

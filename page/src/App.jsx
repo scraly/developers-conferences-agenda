@@ -11,8 +11,27 @@ import { CfpPage } from 'routes/cfppage';
 import { FilterContext } from 'contexts/FilterContext';
 import { FavoritesProvider } from 'contexts/FavoritesContext';
 import { TagsProvider } from 'contexts/TagsContext';
+import { LanguageProvider, useTranslation } from 'contexts/LanguageContext';
 import { ScrollToTopButton } from './components/ScrollToTopButton/ScrollToTopButton';
 import AddEventButton from './components/AddEventButton/AddEventButton';
+import LanguageSelector from './components/LanguageSelector/LanguageSelector';
+import Footer from './components/Footer/Footer';
+
+const AppContent = () => {
+  const { t } = useTranslation();
+
+  return (
+    <>
+      <div className="app-header">
+        <h1 className="dcaTitle">{t('common.title')}</h1>
+        <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
+          <LanguageSelector />
+          <AddEventButton />
+        </div>
+      </div>
+    </>
+  );
+};
 
 const App = () => {
   // TODO: DRY
@@ -22,29 +41,27 @@ const App = () => {
   };
 
   return (
-    <FavoritesProvider>
-      <TagsProvider>
-        <FilterContext.Provider value={filtercontextdefaults}>
-          <Router>
-            <div className="app-header">
-              <h1 className="dcaTitle">Developer Conferences Agenda</h1>
-              <div style={{ display: 'flex', gap: '0.5rem' }}>
-                <AddEventButton />
-              </div>
-            </div>
-            <Routes>
-              <Route Component={Index} path="/" />
-              <Route Component={Year} path=":year" />
-              <Route Component={DatePage} path=":year/calendar/:month?/:date?" />
-              <Route Component={MapPage} path="/:year/map" />
-              <Route Component={ListPage} path="/:year/list" />
-              <Route Component={CfpPage} path="/:year/cfp" />
-            </Routes>
-            <ScrollToTopButton />
-          </Router>
-        </FilterContext.Provider>
-      </TagsProvider>
-    </FavoritesProvider>
+    <LanguageProvider>
+      <FavoritesProvider>
+        <TagsProvider>
+          <FilterContext.Provider value={filtercontextdefaults}>
+            <Router>
+              <AppContent />
+              <Routes>
+                <Route Component={Index} path="/" />
+                <Route Component={Year} path=":year" />
+                <Route Component={DatePage} path=":year/calendar/:month?/:date?" />
+                <Route Component={MapPage} path="/:year/map" />
+                <Route Component={ListPage} path="/:year/list" />
+                <Route Component={CfpPage} path="/:year/cfp" />
+              </Routes>
+              <ScrollToTopButton />
+              <Footer />
+            </Router>
+          </FilterContext.Provider>
+        </TagsProvider>
+      </FavoritesProvider>
+    </LanguageProvider>
   );
 };
 

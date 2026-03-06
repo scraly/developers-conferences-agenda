@@ -73,7 +73,7 @@ body * {
   cursor: pointer;
 }
 
-body > footer {
+.app-footer {
   background: #333;
   color: #fff;
   display: grid;
@@ -84,7 +84,7 @@ body > footer {
   background-color: #333;
 }
 
-body > footer > .content {
+.app-footer > .content {
   grid-column: 2;
   text-align: center;
 }
@@ -192,11 +192,11 @@ input[type=text] {
     flex-direction: column;
   }
 
-  body > footer {
+  .app-footer {
     padding: 1rem;
   }
 
-  body > footer > .content {
+  .app-footer > .content {
     grid-column: 1 / -1;
   }
 }

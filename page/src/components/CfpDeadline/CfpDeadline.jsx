@@ -2,6 +2,7 @@ import React from 'react';
 import { Clock, AlertCircle } from 'lucide-react';
 import { isToday, isTomorrow, addDays } from 'date-fns';
 import 'styles/CfpDeadline.css';
+import { useTranslation } from 'contexts/LanguageContext';
 
 const isInTwoDays = (date) => {
   const twoDaysFromNow = addDays(new Date(), 2);
@@ -11,6 +12,7 @@ const isInTwoDays = (date) => {
 };
 
 const CfpDeadline = ({ until, untilDate }) => {
+  const { t } = useTranslation();
   const date = new Date(untilDate);
   const isUrgent = isToday(date);
   const isClosingSoon = isTomorrow(date) || isInTwoDays(date);
@@ -25,7 +27,7 @@ const CfpDeadline = ({ until, untilDate }) => {
         <Clock color="green" size={24} />
       )}
       <span>
-        Until {isToday(date) && ''}
+        {t('cfp.until')} {isToday(date) && ''}
         {isTomorrow(date) && ''}
         {until}
       </span>
