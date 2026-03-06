@@ -194,6 +194,7 @@
     "sponsoringUrl": "Sponsoring-URL",
     "attendees": "Anzahl der Teilnehmer",
     "tags": "Tags",
+    "selectTags": "Tags auswählen...",
     "submit": "GitHub Issue erstellen",
     "cancel": "Abbrechen",
     "required": "*",
