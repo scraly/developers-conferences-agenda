@@ -13,11 +13,22 @@ const LANGUAGES = [
 
 export const LanguageSelector = () => {
   const { language, changeLanguage, t } = useTranslation();
+  const [isMobile, setIsMobile] = React.useState(false);
+
+  React.useEffect(() => {
+    const checkMobile = () => {
+      setIsMobile(window.innerWidth <= 768);
+    };
+    
+    checkMobile();
+    window.addEventListener('resize', checkMobile);
+    return () => window.removeEventListener('resize', checkMobile);
+  }, []);
 
   return (
     <div className="language-selector">
       <div className="language-selector-trigger">
-        <Globe size={18} />
+        <Globe size={18} className="globe-icon" />
         <select
           value={language}
           onChange={(e) => changeLanguage(e.target.value)}
@@ -26,7 +37,7 @@ export const LanguageSelector = () => {
         >
           {LANGUAGES.map((lang) => (
             <option key={lang.code} value={lang.code}>
-              {lang.flag} {lang.name}
+              {isMobile ? lang.flag : `${lang.flag} ${lang.name}`}
             </option>
           ))}
         </select>

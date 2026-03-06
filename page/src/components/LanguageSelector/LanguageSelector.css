@@ -56,10 +56,15 @@
 
 @media (max-width: 768px) {
   .language-selector-trigger {
-    padding: 0.375rem;
+    padding: 0.25rem;
   }
 
   .language-select {
-    font-size: 0.85rem;
+    font-size: 1.1rem;
+    padding: 0.125rem 0.125rem;
+  }
+  
+  .language-selector-trigger .globe-icon {
+    display: none;
   }
 }

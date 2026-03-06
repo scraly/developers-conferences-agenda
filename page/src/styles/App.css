@@ -207,4 +207,18 @@ input[type=text] {
   .app-footer > .content {
     grid-column: 1 / -1;
   }
+
+  .app-header {
+    padding: 0.5rem;
+  }
+
+  .dcaTitle {
+    font-size: 1.2rem;
+    padding-right: 90px;
+  }
+
+  .header-buttons {
+    right: 0.5rem;
+    gap: 0.25rem;
+  }
 }
