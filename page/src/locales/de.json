@@ -105,6 +105,7 @@
     "omitted": "ausgelassen",
     "onlineOnly": "nur online",
     "noEvent": "keine Veranstaltung",
+    "noEventFoundForDay": "Keine Veranstaltung für diesen Tag gefunden",
     "countWithOmitted": "{count} {plural} ({omittedCount} nur online {omittedPlural} ausgelassen)",
     "countOnly": "{count} {plural}"
   },

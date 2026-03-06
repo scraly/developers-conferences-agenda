@@ -7,8 +7,10 @@ import EventCount from '../EventCount/EventCount'
 import {formatDate, getMonthName} from '../../utils';
 import {useMonthEvents, useDayEvents, useYearEvents} from 'app.hooks';
 import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
+import { useTranslation } from 'contexts/LanguageContext';
 
 const SelectedEvents = () => {
+  const { t } = useTranslation();
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
   const {year, month, date} = useParams();
@@ -95,7 +97,7 @@ const SelectedEvents = () => {
               {events.length ? (
                 events.map((e, i) => <EventDisplay key={`ev_${i}`} {...e} />)
               ) : (
-                <p>No event found for that day</p>
+                <p>{t('event.noEventFoundForDay')}</p>
               )}
           </div>
         </>

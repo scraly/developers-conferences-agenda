@@ -105,6 +105,7 @@
     "omitted": "omitido",
     "onlineOnly": "solo en línea",
     "noEvent": "ningún evento",
+    "noEventFoundForDay": "No se encontró ningún evento para ese día",
     "countWithOmitted": "{count} {plural} ({omittedCount} {omittedPlural} solo en línea omitidos)",
     "countOnly": "{count} {plural}"
   },
