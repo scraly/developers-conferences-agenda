@@ -24,9 +24,9 @@ const AppContent = () => {
     <>
       <div className="app-header">
         <h1 className="dcaTitle">{t('common.title')}</h1>
-        <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
-          <LanguageSelector />
+        <div className="header-buttons">
           <AddEventButton />
+          <LanguageSelector />
         </div>
       </div>
     </>

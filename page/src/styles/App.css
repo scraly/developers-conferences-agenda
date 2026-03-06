@@ -25,6 +25,14 @@ body * {
   margin: 0;
 }
 
+.header-buttons {
+  position: absolute;
+  right: 1rem;
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
 .dcaGrid {
   display: flex;
   position: relative;
