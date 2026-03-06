@@ -9,12 +9,14 @@ import TagMultiSelect from 'components/TagMultiSelect/TagMultiSelect';
 import SelectedTags from 'components/SelectedTags/SelectedTags';
 import TagsToggle from 'components/TagsToggle/TagsToggle';
 import FavoritesToggle from 'components/FavoritesToggle/FavoritesToggle';
+import { useTranslation } from 'contexts/LanguageContext';
 
 import 'styles/Filters.css';
 import { FilterContext } from 'contexts/FilterContext';
 
 const Filters = ({ view }) => {
   const context = useContext(FilterContext);
+  const { t } = useTranslation();
   const { tagsVisible } = useTagsVisibility();
   const [searchParams, setSearchParams] = useSearchParams(context.searchParams);
   const [open, setOpen] = useState(context.open);
@@ -73,10 +75,10 @@ const Filters = ({ view }) => {
           }
           setOpen(true);
         }}
-        title={open ? 'Close filters' : 'Open filters'}
+        title={open ? t('filters.close') : t('filters.open')}
       >
         <div className='filters-icon'>{open ? <FilterX size="42px" /> : <Filter size="42px" />}</div>
-        <span className='filters-title'>Filters</span>
+        <span className='filters-title'>{t('filters.title')}</span>
       </div>
       
       <div className='tags-toggle-container'>
@@ -89,12 +91,12 @@ const Filters = ({ view }) => {
 
       <div className='filters-content'>
         <div className='filtersItem'>
-          <label htmlFor='filter-query'>Query:</label>
-          <input id='filter-query' onChange={(e) => onChange('query', e.target.value)} placeholder="Search..." type='text' value={search.query} />
+          <label htmlFor='filter-query'>{t('filters.query')}</label>
+          <input id='filter-query' onChange={(e) => onChange('query', e.target.value)} placeholder={t('filters.searchPlaceholder')} type='text' value={search.query} />
         </div>
 
   {tagsVisible ? <div className='filtersItem tags-filter'>
-            <label>Tags:</label>
+            <label>{t('filters.tags')}</label>
             <TagMultiSelect
               onChange={handleTagsChange}
               selectedTags={selectedTags}
@@ -107,7 +109,7 @@ const Filters = ({ view }) => {
           </div> : null}
 
         <div className='filtersItem'>
-          <label htmlFor='filter-until'>CFP Until:</label>
+          <label htmlFor='filter-until'>{t('filters.cfpUntil')}</label>
           <input id="filter-until" onChange={(e) => onChange('untilDate', e.target.value)} type="date" value={search.untilDate} />
         </div>
         
@@ -116,65 +118,65 @@ const Filters = ({ view }) => {
           {view != "cfp" ? 
           <div className='filtersItem'>
             <input checked={search.callForPapers == 'true'} id='filter-call-for-papers' onChange={(e) => onChange('callForPapers', e.target.checked)} type='checkbox' />
-            <label htmlFor='filter-call-for-papers'>Call For Papers Open</label>
+            <label htmlFor='filter-call-for-papers'>{t('filters.callForPapersOpen')}</label>
           </div> : ''}
 
           {view != "cfp" ?
           <div className='filtersItem'>
             <input checked={search.closedCaptions == 'true'} id='filter-closed-captions' onChange={(e) => onChange('closedCaptions', e.target.checked)} type='checkbox' />
-            <label htmlFor='filter-closed-captions'>Closed Captions</label>
+            <label htmlFor='filter-closed-captions'>{t('filters.closedCaptions')}</label>
           </div> : ''}
 
           {view != "cfp" ?
           <div className='filtersItem'>
             <input checked={search.scholarship == 'true'} id='filter-scholarship' onChange={(e) => onChange('scholarship', e.target.checked)} type='checkbox' />
-            <label htmlFor='filter-scholarship'>Scholarship</label>
+            <label htmlFor='filter-scholarship'>{t('filters.scholarship')}</label>
           </div> : ''}
 
           {view != "cfp" ?
           <div className='filtersItem'>
             <input checked={search.sponsoring == 'true'} id='filter-sponsoring' onChange={(e) => onChange('sponsoring', e.target.checked)} type='checkbox' />
-            <label htmlFor='filter-sponsoring'>Sponsoring</label>
+            <label htmlFor='filter-sponsoring'>{t('filters.sponsoring')}</label>
           </div> : ''}
 
           <div className='filtersItem'>
             <input checked={search.online == 'true'} id='filter-online' onChange={(e) => onChange('online', e.target.checked)} type='checkbox' />
-            <label htmlFor='filter-online'>Online</label>
+            <label htmlFor='filter-online'>{t('filters.online')}</label>
           </div>
 
           <div className='filtersItem'>
             <input checked={search.favorites == 'true'} id='filter-favorites' onChange={(e) => onChange('favorites', e.target.checked)} type='checkbox' />
-            <label htmlFor='filter-favorites'>Favorites</label>
+            <label htmlFor='filter-favorites'>{t('filters.favorites')}</label>
           </div>
         </div>
 
         <div className='filtersItem'>
-          <label htmlFor='filter-region'>Region:</label>
+          <label htmlFor='filter-region'>{t('filters.region')}</label>
           <select id='filter-region' onChange={(e) => onChange('region', e.target.value)} value={search.region}>
-            <option value=''>All</option>
+            <option value=''>{t('filters.all')}</option>
             {regions.map((c) => (<option key={c} value={c}>{c}</option>))}
           </select>
         </div>
 
         {countriesList ? <div className='filtersItem'>
-            <label htmlFor='filter-country'>Country:</label>
+            <label htmlFor='filter-country'>{t('filters.country')}</label>
             <select id='filter-country' onChange={(e) => onChange('country', e.target.value)} value={search.country}>
-              <option value=''>All</option>
+              <option value=''>{t('filters.all')}</option>
               {countriesList.map((c) => (<option key={c} value={c}>{c}</option>))}
             </select>
           </div> : null}
 
          {view == "list" ?
          <div className='filters-header'>
-          <span className='filters-title'>Sorting</span>
+          <span className='filters-title'>{t('filters.sorting')}</span>
         </div> : ''}
         
         {view == "list" ?
         <div className='filtersItem'>
-          <label htmlFor='filter-sort'>Sort:</label>
+          <label htmlFor='filter-sort'>{t('filters.sort')}</label>
           <select id='filter-sort' onChange={(e) => onChange('sort', e.target.value)} value={search.sort}>
-            <option value='date'>Event Start Date</option>
-            <option value='cfp'>CFP Close Date</option>
+            <option value='date'>{t('filters.sortEventStartDate')}</option>
+            <option value='cfp'>{t('filters.sortCfpCloseDate')}</option>
           </select>
         </div> : ''}
       </div>

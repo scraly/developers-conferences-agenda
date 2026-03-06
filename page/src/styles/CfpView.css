@@ -212,3 +212,8 @@
 .cfpView .eventCell.favorite-event .content b {
     color: #FF7F50;
 }
+
+.sponsoring {
+    text-decoration: none;
+    font-size: 1.6rem;
+}

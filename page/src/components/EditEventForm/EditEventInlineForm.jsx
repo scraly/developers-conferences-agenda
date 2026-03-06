@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
 import TagMultiSelect from 'components/TagMultiSelect/TagMultiSelect';
+import { useTranslation } from 'contexts/LanguageContext';
 import 'styles/AddEventForm.css';
 
 const EditEventInlineForm = ({ event, onClose }) => {
+  const { t } = useTranslation();
   const [formData, setFormData] = useState({
     name: event.name || '',
     startDate: event.date && event.date[0] ? new Date(event.date[0]).toISOString().slice(0,10) : '',
@@ -33,10 +35,10 @@ const EditEventInlineForm = ({ event, onClose }) => {
 
   const validateForm = () => {
     const newErrors = {};
-    if (!formData.name.trim()) newErrors.name = 'Event name is required';
-    if (!formData.startDate) newErrors.startDate = 'Start date is required';
-    if (!formData.endDate) newErrors.endDate = 'End date is required';
-    if (!formData.eventUrl.trim()) newErrors.eventUrl = 'Event URL is required';
+    if (!formData.name.trim()) newErrors.name = t('addEvent.errors.nameRequired');
+    if (!formData.startDate) newErrors.startDate = t('addEvent.errors.startDateRequired');
+    if (!formData.endDate) newErrors.endDate = t('addEvent.errors.endDateRequired');
+    if (!formData.eventUrl.trim()) newErrors.eventUrl = t('addEvent.errors.eventUrlRequired');
 
     // Attendees validation
     if (formData.attendees?.trim()) {
@@ -47,33 +49,33 @@ const EditEventInlineForm = ({ event, onClose }) => {
         !Number.isInteger(attendeesNumber) ||
         attendeesNumber <= 0
       ) {
-        newErrors.attendees = 'Number of attendees must be a positive whole number';
+        newErrors.attendees = t('addEvent.errors.attendeesInvalid');
       }
     }
 
 
-    try { new URL(formData.eventUrl); } catch { if (formData.eventUrl.trim()) newErrors.eventUrl = 'Please enter a valid URL'; }
+    try { new URL(formData.eventUrl); } catch { if (formData.eventUrl.trim()) newErrors.eventUrl = t('addEvent.errors.eventUrlInvalid'); }
     if (formData.hasCfp) {
-      if (!formData.cfpUrl.trim()) newErrors.cfpUrl = 'CFP URL is required when CFP is selected';
-      else { try { new URL(formData.cfpUrl); } catch { newErrors.cfpUrl = 'Please enter a valid CFP URL'; } }
-      if (!formData.cfpEndDate) newErrors.cfpEndDate = 'CFP End Date is required when CFP is selected';
+      if (!formData.cfpUrl.trim()) newErrors.cfpUrl = t('addEvent.errors.cfpUrlRequired');
+      else { try { new URL(formData.cfpUrl); } catch { newErrors.cfpUrl = t('addEvent.errors.cfpUrlInvalid'); } }
+      if (!formData.cfpEndDate) newErrors.cfpEndDate = t('addEvent.errors.cfpEndDateRequired');
     }
     if (formData.hasSponsoring) {
-      if (!formData.sponsoringUrl.trim()) newErrors.sponsoringUrl = 'Sponsoring URL is required when Sponsoring is selected';
-      else { try { new URL(formData.sponsoringUrl); } catch { newErrors.sponsoringUrl = 'Please enter a valid Sponsoring URL'; } }
+      if (!formData.sponsoringUrl.trim()) newErrors.sponsoringUrl = t('addEvent.errors.sponsoringUrlRequired');
+      else { try { new URL(formData.sponsoringUrl); } catch { newErrors.sponsoringUrl = t('addEvent.errors.sponsoringUrlInvalid'); } }
     }
     if (formData.startDate && formData.endDate) {
-      if (new Date(formData.startDate) > new Date(formData.endDate)) newErrors.endDate = 'End date must be after start date';
+      if (new Date(formData.startDate) > new Date(formData.endDate)) newErrors.endDate = t('addEvent.errors.endDateBeforeStart');
     }
     if (formData.cfpEndDate && formData.startDate) {
-      if (new Date(formData.cfpEndDate) > new Date(formData.startDate)) newErrors.cfpEndDate = 'CFP end date should be before event start date';
+      if (new Date(formData.cfpEndDate) > new Date(formData.startDate)) newErrors.cfpEndDate = t('addEvent.errors.cfpEndDateAfterStart');
     }
     if (!formData.onlineEvent) {
-      if (!formData.city.trim()) newErrors.city = 'City is required for non-online events';
-      if (!formData.country.trim()) newErrors.country = 'Country is required for non-online events';
+      if (!formData.city.trim()) newErrors.city = t('addEvent.errors.cityRequired');
+      if (!formData.country.trim()) newErrors.country = t('addEvent.errors.countryRequired');
     }
-    if (formData.city.trim() && !formData.country.trim()) newErrors.country = 'Country is required when city is provided';
-    if (formData.country.trim() && !formData.city.trim()) newErrors.city = 'City is required when country is provided';
+    if (formData.city.trim() && !formData.country.trim()) newErrors.country = t('addEvent.errors.countryRequiredWithCity');
+    if (formData.country.trim() && !formData.city.trim()) newErrors.city = t('addEvent.errors.cityRequiredWithCountry');
     setErrors(newErrors);
     return Object.keys(newErrors).length === 0;
   };
@@ -240,9 +242,9 @@ ${generateMetadataCsvLine()}
     <div className="add-event-overlay">
       <div className="add-event-form">
         <div className="add-event-header">
-          <h2>Edit Event</h2>
+          <h2>{t('editEvent.title')}</h2>
           <button 
-            aria-label="Close" 
+            aria-label={t('common.close')} 
             className="close-button"
             onClick={onClose}
             type="button"
@@ -253,7 +255,7 @@ ${generateMetadataCsvLine()}
   <form onSubmit={handleSubmit}>
 
           <div className="form-group">
-            <label htmlFor="name">Event Name *</label>
+            <label htmlFor="name">{t('addEvent.eventName')} {t('addEvent.required')}</label>
             <input
               className={errors.name ? 'error' : ''}
               id="name"
@@ -266,7 +268,7 @@ ${generateMetadataCsvLine()}
 
           <div className="form-row">
             <div className="form-group">
-              <label htmlFor="startDate">Start Date *</label>
+              <label htmlFor="startDate">{t('addEvent.startDate')} {t('addEvent.required')}</label>
               <input
                 className={errors.startDate ? 'error' : ''}
                 id="startDate"
@@ -278,7 +280,7 @@ ${generateMetadataCsvLine()}
             </div>
 
             <div className="form-group">
-              <label htmlFor="endDate">End Date *</label>
+              <label htmlFor="endDate">{t('addEvent.endDate')} {t('addEvent.required')}</label>
               <input
                 className={errors.endDate ? 'error' : ''}
                 id="endDate"
@@ -291,7 +293,7 @@ ${generateMetadataCsvLine()}
           </div>
 
           <div className="form-group">
-            <label htmlFor="eventUrl">Event URL *</label>
+            <label htmlFor="eventUrl">{t('addEvent.eventUrl')} {t('addEvent.required')}</label>
             <input
               className={errors.eventUrl ? 'error' : ''}
               id="eventUrl"
@@ -310,38 +312,40 @@ ${generateMetadataCsvLine()}
                 onChange={(e) => handleInputChange('onlineEvent', e.target.checked)}
                 type="checkbox"
               />
-              Online Event
+              {t('addEvent.onlineEvent')}
             </label>
           </div>
 
-          <div className="form-row">
-            <div className="form-group">
-              <label htmlFor="city">City{!formData.onlineEvent ? ' *' : ''}</label>
-              <input
-                className={errors.city ? 'error' : ''}
-                id="city"
-                onChange={(e) => handleInputChange('city', e.target.value)}
-                type="text"
-                value={formData.city}
-              />
-              {errors.city ? <span className="error-message">{errors.city}</span> : null}
-            </div>
+          {!formData.onlineEvent ? (
+            <div className="form-row">
+              <div className="form-group">
+                <label htmlFor="city">{t('addEvent.city')} {t('addEvent.required')}</label>
+                <input
+                  className={errors.city ? 'error' : ''}
+                  id="city"
+                  onChange={(e) => handleInputChange('city', e.target.value)}
+                  type="text"
+                  value={formData.city}
+                />
+                {errors.city ? <span className="error-message">{errors.city}</span> : null}
+              </div>
 
-            <div className="form-group">
-              <label htmlFor="country">Country{!formData.onlineEvent ? ' *' : ''}</label>
-              <input
-                className={errors.country ? 'error' : ''}
-                id="country"
-                onChange={(e) => handleInputChange('country', e.target.value)}
-                type="text"
-                value={formData.country}
-              />
-              {errors.country ? <span className="error-message">{errors.country}</span> : null}
+              <div className="form-group">
+                <label htmlFor="country">{t('addEvent.country')} {t('addEvent.required')}</label>
+                <input
+                  className={errors.country ? 'error' : ''}
+                  id="country"
+                  onChange={(e) => handleInputChange('country', e.target.value)}
+                  type="text"
+                  value={formData.country}
+                />
+                {errors.country ? <span className="error-message">{errors.country}</span> : null}
+              </div>
             </div>
-          </div>
+          ) : null}
 
           <div className="form-group">
-            <label htmlFor="attendees">Number of Attendees</label>
+            <label htmlFor="attendees">{t('addEvent.attendees')}</label>
             <input
               className={errors.attendees ? 'error' : ''}
               id="attendees"
@@ -365,7 +369,7 @@ ${generateMetadataCsvLine()}
                 onChange={(e) => handleInputChange('closedCaptions', e.target.checked)}
                 type="checkbox"
               />
-              Closed Captions Available
+              {t('addEvent.closedCaptions')}
             </label>
           </div>
 
@@ -376,13 +380,13 @@ ${generateMetadataCsvLine()}
                 onChange={(e) => handleInputChange('hasCfp', e.target.checked)}
                 type="checkbox"
               />
-              CFP (Call for Papers)
+              {t('addEvent.hasCfp')}
             </label>
           </div>
 
           {formData.hasCfp ? <>
               <div className="form-group">
-                <label htmlFor="cfpUrl">CFP URL *</label>
+                <label htmlFor="cfpUrl">{t('addEvent.cfpUrl')} {t('addEvent.required')}</label>
                 <input
                   className={errors.cfpUrl ? 'error' : ''}
                   id="cfpUrl"
@@ -395,7 +399,7 @@ ${generateMetadataCsvLine()}
               </div>
 
               <div className="form-group">
-                <label htmlFor="cfpEndDate">CFP End Date *</label>
+                <label htmlFor="cfpEndDate">{t('addEvent.cfpEndDate')} {t('addEvent.required')}</label>
                 <input
                   className={errors.cfpEndDate ? 'error' : ''}
                   id="cfpEndDate"
@@ -414,12 +418,12 @@ ${generateMetadataCsvLine()}
                 onChange={e => handleInputChange('hasSponsoring', e.target.checked)}
                 type="checkbox"
               />
-              Sponsoring
+              {t('addEvent.hasSponsoring')}
             </label>
           </div>
           {formData.hasSponsoring ? (
             <div className="form-group">
-              <label htmlFor="sponsoringUrl">Sponsoring URL *</label>
+              <label htmlFor="sponsoringUrl">{t('addEvent.sponsoringUrl')} {t('addEvent.required')}</label>
               <input
                 className={errors.sponsoringUrl ? 'error' : ''}
                 id="sponsoringUrl"
@@ -433,7 +437,7 @@ ${generateMetadataCsvLine()}
           ) : null}
 
           <div className="form-group">
-            <label>Tags</label>
+            <label>{t('addEvent.tags')}</label>
             <TagMultiSelect
               onChange={handleTagsChange}
               selectedTags={formData.tags}
@@ -442,10 +446,10 @@ ${generateMetadataCsvLine()}
 
           <div className="form-actions">
             <button className="cancel-button" onClick={onClose} type="button">
-              Cancel
+              {t('addEvent.cancel')}
             </button>
             <button className="submit-button" type="submit">
-              Create GitHub Issue
+              {t('editEvent.submit')}
             </button>
           </div>
         </form>

@@ -3,11 +3,12 @@ import 'styles/CfpView.css';
 import { CalendarClock } from 'lucide-react';
 
 import { useCfpEvents, useFilters } from 'app.hooks';
-import { getMonthName, getMonthNames } from 'utils';
+import { getMonthName, getMonthNames, getTranslatedMonthName } from 'utils';
 import { flag } from 'country-emoji';
 import FavoriteButton from '../FavoriteButton/FavoriteButton';
 import TagBadges from 'components/TagBadges/TagBadges';
 import { useFavoritesContext } from '../../contexts/FavoritesContext';
+import { useTranslation } from 'contexts/LanguageContext';
 import ShortDate from 'components/ShortDate/ShortDate';
 import CfpDeadline from 'components/CfpDeadline/CfpDeadline';
 
@@ -15,6 +16,7 @@ const CfpView = () => {
   let events = useCfpEvents();
   const { isFavorite } = useFavoritesContext();
   const { toggleTag } = useFilters();
+  const { t } = useTranslation();
 
   const handleTagClick = (key, value) => {
     toggleTag(key, value);
@@ -46,9 +48,13 @@ const CfpView = () => {
 
   return (
     <div className="cfpView">
-      {monthOrder.map(month => (
-        <React.Fragment key={month}>
-          <h1>{month} Opened CFPs:</h1>
+      {monthOrder.map(month => {
+        const monthIndex = getMonthNames().indexOf(month);
+        const translatedMonth = getTranslatedMonthName(monthIndex, t);
+        
+        return (
+          <React.Fragment key={month}>
+            <h1>{t('months.monthCfpDeadlines').replace('{month}', translatedMonth)}</h1>
           <div className="eventsGridDisplay">
             {eventsByMonth[month].map((e, i) => {
               const eventId = `${e.name}-${e.date[0]}`;
@@ -82,20 +88,23 @@ const CfpView = () => {
                       </span>
                     </div>
 
-                      {e.sponsoring ? <a href={e.sponsoring} rel="noreferrer" target="_blank">💰</a> : null}
+                      <div>
+                        <span>{e.sponsoring ? <a className="sponsoring" href={e.sponsoring} rel="noreferrer" target="_blank">💰</a> : null}</span>
+                      </div>
                       <TagBadges onTagClick={handleTagClick} tags={e.tags} />
                     </div>
-                    <a className="submitButton" href={e.cfp.link} rel="noreferrer" target="_blank" title="Submit to the CFP">
+                    <a className="submitButton" href={e.cfp.link} rel="noreferrer" target="_blank" title={t('cfp.submitToCfp')}>
                       <CalendarClock />
-                      Submit to the CFP
+                      {t('cfp.submitToCfp')}
                     </a>
                   </div>
                 </div>
               );
             })}
           </div>
-        </React.Fragment>
-      ))}
+          </React.Fragment>
+        );
+      })}
     </div>
   );
 

@@ -14,17 +14,12 @@
   height: 42px;
   width: 42px;
   box-sizing: border-box;
-  position: absolute;
-  right: 1rem;
-  top: 50%;
-  transform: translateY(-50%);
   justify-content: center;
   overflow: hidden;
 }
 
 .add-event-button:hover {
   background-color: #218838;
-  transform: translateY(-50%);
   width: auto;
   padding: 0.5rem 1rem;
   gap: 0.5rem;
@@ -32,7 +27,6 @@
 }
 
 .add-event-button:active {
-  transform: translateY(-50%);
 }
 
 .add-event-button svg {
@@ -61,23 +55,20 @@
   }
   
   .add-event-button {
-    width: 42px;
-    height: 42px;
+    width: 36px;
+    height: 36px;
     padding: 0;
     justify-content: center;
-    position: absolute;
-    right: 1rem;
-    top: 50%;
-    transform: translateY(-50%);
   }
   
   .add-event-button:hover {
-    transform: translateY(-50%);
-    width: 42px;
-    padding: 0.5rem;
+    width: 36px;
+    padding: 0;
+    gap: 0;
   }
   
-  .add-event-button:active {
-    transform: translateY(-50%);
+  .add-event-button svg {
+    width: 18px;
+    height: 18px;
   }
 }

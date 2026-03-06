@@ -1,9 +1,11 @@
 import React, { useState } from 'react';
 import { Edit } from 'lucide-react';
 import EditEventForm from 'components/EditEventForm/EditEventForm';
+import { useTranslation } from 'contexts/LanguageContext';
 import './EditEventButton.css';
 
 const EditEventButton = () => {
+  const { t } = useTranslation();
   const [isFormOpen, setIsFormOpen] = useState(false);
 
   const handleOpenForm = () => {
@@ -17,13 +19,13 @@ const EditEventButton = () => {
   return (
     <>
       <button
-        aria-label="Edit Existing Event"
+        aria-label={t('editEvent.button')}
         className="edit-event-button"
         onClick={handleOpenForm}
-        title="Edit Existing Event"
+        title={t('editEvent.button')}
       >
         <Edit size={20} />
-        <span className="add-event-text">Edit event</span>
+        <span className="add-event-text">{t('editEvent.button')}</span>
       </button>
       <EditEventForm 
         isOpen={isFormOpen} 

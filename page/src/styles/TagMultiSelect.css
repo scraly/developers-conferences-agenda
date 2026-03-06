@@ -2,3 +2,32 @@
   margin-top: 12px;
   margin-bottom: 12px;
 }
+
+.tag-multiselect__control {
+  font-size: 14px !important;
+  min-height: 38px !important;
+}
+
+.tag-multiselect__input {
+  font-size: 14px !important;
+}
+
+.tag-multiselect__placeholder {
+  font-size: 14px !important;
+}
+
+.tag-multiselect__single-value {
+  font-size: 14px !important;
+}
+
+.tag-multiselect__option {
+  font-size: 14px !important;
+}
+
+.tag-multiselect__multi-value__label {
+  font-size: 14px !important;
+}
+
+.tag-multiselect__value-container {
+  font-size: 14px !important;
+}

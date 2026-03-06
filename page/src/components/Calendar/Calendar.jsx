@@ -6,9 +6,9 @@ import {useNavigate, useSearchParams, useParams} from 'react-router-dom';
 import 'styles/Calendar.css';
 import {daysToWeeks} from './Calendar.utils';
 import {useYearEvents, useMonthEvents} from 'app.hooks';
-import {getMonthName} from 'utils';
+import {getMonthName, getTranslatedMonthName} from 'utils';
+import {useTranslation} from 'contexts/LanguageContext';
 
-const DaysName = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'];
 
 const Calendar = ({month, days}) => {
   const yearEvents = useYearEvents()
@@ -16,6 +16,16 @@ const Calendar = ({month, days}) => {
   const navigate = useNavigate();
   const {year} = useParams();
   const [searchParams] = useSearchParams();
+  const { t } = useTranslation();
+  const DaysName = [
+    t('calendar.daysMo'),
+    t('calendar.daysTu'),
+    t('calendar.daysWe'),
+    t('calendar.daysTh'),
+    t('calendar.daysFr'),
+    t('calendar.daysSa'),
+    t('calendar.daysSu')
+  ];
 
   const weeks = useMemo(() => daysToWeeks(days), [days]);
   const weeksAndDays = useMemo(() => weeks.map((week, w) => {
@@ -30,7 +40,7 @@ const Calendar = ({month, days}) => {
           navigate(`/${year}/calendar/${month}/0?${searchParams.toString()}`)
         }
       >
-        <span>{getMonthName(month)}</span>
+        <span>{getTranslatedMonthName(month, t)}</span>
       </div>
       <div className="dayList">
         {DaysName.map((d, i) => (
