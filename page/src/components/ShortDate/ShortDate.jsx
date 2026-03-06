@@ -1,13 +1,15 @@
 import 'styles/ShortDate.css';
-import {getMonthNameShort} from 'utils';
+import {getMonthNameShort, getTranslatedMonthNameShort} from 'utils';
 import {ArrowRight} from 'lucide-react';
+import { useTranslation } from 'contexts/LanguageContext';
 
 const ShortDate = ({dates}) => {
-  const startDate = `${new Date(dates[0]).getDate()}-${getMonthNameShort(new Date(dates[0]).getMonth())}`;
+  const { t } = useTranslation();
+  const startDate = `${new Date(dates[0]).getDate()}-${getTranslatedMonthNameShort(new Date(dates[0]).getMonth(), t)}`;
   let endDate = '';
   if (dates.length > 1) {
     endDate = new Date(dates[1]).getDate();
-    endDate = `${new Date(dates[1]).getDate()}-${getMonthNameShort(new Date(dates[1]).getMonth())}`;
+    endDate = `${new Date(dates[1]).getDate()}-${getTranslatedMonthNameShort(new Date(dates[1]).getMonth(), t)}`;
   }
   if (endDate) {
     return (

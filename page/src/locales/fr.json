@@ -230,7 +230,19 @@
     "events": "Événements :",
     "cfpDeadlines": "Dates limites CFP :",
     "monthEvents": "Événements de {month} :",
-    "monthCfpDeadlines": "Dates limites CFP de {month} :"
+    "monthCfpDeadlines": "Dates limites CFP de {month} :",
+    "jan": "Jan",
+    "feb": "Fév",
+    "mar": "Mar",
+    "apr": "Avr",
+    "mayShort": "Mai",
+    "jun": "Juin",
+    "jul": "Juil",
+    "aug": "Aoû",
+    "sep": "Sep",
+    "oct": "Oct",
+    "nov": "Nov",
+    "dec": "Déc"
   },
   "continents": {
     "africa": "Afrique",

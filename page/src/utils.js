@@ -29,3 +29,13 @@ export const getTranslatedMonthName = (monthIndex, t) => {
   ];
   return t(`months.${monthKeys[monthIndex]}`);
 };
+
+// Get translated short month name using translation function
+export const getTranslatedMonthNameShort = (monthIndex, t) => {
+  const monthShortKeys = [
+    'jan', 'feb', 'mar', 'apr',
+    'mayShort', 'jun', 'jul', 'aug',
+    'sep', 'oct', 'nov', 'dec'
+  ];
+  return t(`months.${monthShortKeys[monthIndex]}`);
+};
