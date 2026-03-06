@@ -230,7 +230,7 @@ ${generateMetadataCsvLine()}
     <div className="add-event-overlay">
       <div className="add-event-form">
         <div className="add-event-header">
-          <h2>{t('addEvent.title')}</h2>
+          <h2>{t('editEvent.title')}</h2>
           <button 
             aria-label={t('common.close')}
             className="close-button"
@@ -242,13 +242,13 @@ ${generateMetadataCsvLine()}
         </div>
         {!selectedEvent ? (
           <div>
-            <label htmlFor="search-event">{t('addEvent.searchEventByName')}</label>
+            <label htmlFor="search-event">{t('editEvent.searchEventByName')}</label>
             <input
               id="search-event"
               type="text"
               value={search}
               onChange={e => setSearch(e.target.value)}
-              placeholder={t('addEvent.typeEventName')}
+              placeholder={t('editEvent.typeEventName')}
               autoFocus
             />
             <ul className="event-search-list">
@@ -430,10 +430,10 @@ ${generateMetadataCsvLine()}
 
             <div className="form-actions">
               <button className="cancel-button" onClick={() => setSelectedEvent(null)} type="button">
-                {t('addEvent.back')}
+                {t('editEvent.back')}
               </button>
               <button className="submit-button" type="submit">
-                {t('addEvent.submit')}
+                {t('editEvent.submit')}
               </button>
             </div>
           </form>

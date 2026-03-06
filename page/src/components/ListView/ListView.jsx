@@ -141,8 +141,8 @@ const ListView = () => {
                 <TagBadges onTagClick={handleTagClick} tags={e.tags} />
                 <button
                   className="edit-inline-btn"
-                  title="Edit this event"
-                  aria-label="Edit this event"
+                  title={t('editEvent.button')}
+                  aria-label={t('editEvent.button')}
                   onClick={() => setEditEvent(e)}
                   style={{ marginLeft: '1em', background: 'none', border: 'none', cursor: 'pointer' }}
                 >

@@ -165,6 +165,14 @@
     "atomFeed": "Flux ATOM",
     "jsonFeed": "Flux JSON"
   },
+  "editEvent": {
+    "button": "Modifier un événement",
+    "title": "Modifier un événement",
+    "searchEventByName": "Rechercher un événement par nom :",
+    "typeEventName": "Tapez le nom de l'événement...",
+    "back": "← Retour à la recherche",
+    "submit": "Créer une issue GitHub pour modifier"
+  },
   "addEvent": {
     "button": "Ajouter un Événement",
     "title": "Ajouter un Nouvel Événement",

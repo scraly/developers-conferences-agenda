@@ -165,6 +165,14 @@
     "atomFeed": "Feed ATOM",
     "jsonFeed": "Feed JSON"
   },
+  "editEvent": {
+    "button": "Editar evento",
+    "title": "Editar evento",
+    "searchEventByName": "Pesquisar evento por nome:",
+    "typeEventName": "Digite o nome do evento...",
+    "back": "← Voltar à pesquisa",
+    "submit": "Criar issue do GitHub para editar"
+  },
   "addEvent": {
     "button": "Adicionar Evento",
     "title": "Adicionar Novo Evento",
