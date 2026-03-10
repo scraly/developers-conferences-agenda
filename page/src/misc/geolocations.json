@@ -1475,6 +1475,10 @@
     "latitude": 22.6272772,
     "longitude": 120.3014375
   },
+  "Kapsabet (Kenya)": {
+    "latitude": 0.2004978,
+    "longitude": 35.1011501
+  },
   "Karlsruhe (Germany)": {
     "latitude": 49.0068901,
     "longitude": 8.4036527
@@ -1898,6 +1902,10 @@
   "Melbourne (Australia)": {
     "latitude": -37.8142454,
     "longitude": 144.9631732
+  },
+  "Memphis (USA)": {
+    "latitude": 35.1460249,
+    "longitude": -90.0517638
   },
   "Menlo Park, CA (USA)": {
     "latitude": 37.4519671,
