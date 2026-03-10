@@ -18,19 +18,25 @@ body * {
   align-items: center;
   padding: 1rem 1rem 0.5rem 1rem;
   position: relative;
+  min-height: 56px;
 }
 
 .dcaTitle {
   text-align: center;
   margin: 0;
+  width: 100%;
+  padding: 0 9rem;
 }
 
 .header-buttons {
   position: absolute;
   right: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
   display: flex;
   gap: 0.5rem;
   align-items: center;
+  z-index: 2;
 }
 
 .dcaGrid {
@@ -210,15 +216,23 @@ input[type=text] {
 
   .app-header {
     padding: 0.5rem;
+    min-height: 48px;
   }
 
   .dcaTitle {
     font-size: 1.2rem;
-    padding-right: 90px;
+    padding: 0 5.5rem;
   }
 
   .header-buttons {
     right: 0.5rem;
     gap: 0.25rem;
+  }
+}
+
+@media (max-width: 420px) {
+  .dcaTitle {
+    font-size: 1.05rem;
+    padding: 0 4.75rem;
   }
 }

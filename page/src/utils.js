@@ -22,6 +22,10 @@ export const getMonthNameShort = (month) => getMonthName(month).slice(0, 3)
 
 // Get translated month name using translation function
 export const getTranslatedMonthName = (monthIndex, t) => {
+  if (!Number.isInteger(monthIndex) || monthIndex < 0 || monthIndex > 11) {
+    return '';
+  }
+
   const monthKeys = [
     'january', 'february', 'march', 'april',
     'may', 'june', 'july', 'august',
@@ -32,6 +36,10 @@ export const getTranslatedMonthName = (monthIndex, t) => {
 
 // Get translated short month name using translation function
 export const getTranslatedMonthNameShort = (monthIndex, t) => {
+  if (!Number.isInteger(monthIndex) || monthIndex < 0 || monthIndex > 11) {
+    return '';
+  }
+
   const monthShortKeys = [
     'jan', 'feb', 'mar', 'apr',
     'mayShort', 'jun', 'jul', 'aug',
