@@ -31,12 +31,13 @@ body * {
 .header-buttons {
   position: absolute;
   right: 1rem;
-  top: 50%;
-  transform: translateY(-50%);
+  top: 0;
+  bottom: 0;
+  margin: auto 0;
+  height: fit-content;
   display: flex;
   gap: 0.5rem;
   align-items: center;
-  z-index: 2;
 }
 
 .dcaGrid {
