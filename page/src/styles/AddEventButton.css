@@ -26,9 +26,6 @@
   justify-content: flex-start;
 }
 
-.add-event-button:active {
-}
-
 .add-event-button svg {
   flex-shrink: 0;
   width: 20px;
