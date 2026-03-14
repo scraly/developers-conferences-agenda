@@ -3,6 +3,7 @@ import { Clock, AlertCircle } from 'lucide-react';
 import { isToday, isTomorrow, addDays } from 'date-fns';
 import 'styles/CfpDeadline.css';
 import { useTranslation } from 'contexts/LanguageContext';
+import { getTranslatedMonthName } from 'utils';
 
 const isInTwoDays = (date) => {
   const twoDaysFromNow = addDays(new Date(), 2);
@@ -17,6 +18,11 @@ const CfpDeadline = ({ until, untilDate }) => {
   const isUrgent = isToday(date);
   const isClosingSoon = isTomorrow(date) || isInTwoDays(date);
 
+  const hasValidDate = !Number.isNaN(date.getTime());
+  const translatedUntilDate = hasValidDate
+    ? `${date.getDate()}-${getTranslatedMonthName(date.getMonth(), t)}-${date.getFullYear()}`
+    : until;
+
   return (
     <div className={`cfp-deadline ${isUrgent ? 'cfp-urgent' : ''} ${isClosingSoon ? 'cfp-closing-soon' : ''}`}>
       {isUrgent ? (
@@ -29,7 +35,7 @@ const CfpDeadline = ({ until, untilDate }) => {
       <span>
         {t('cfp.until')} {isToday(date) && ''}
         {isTomorrow(date) && ''}
-        {until}
+        {translatedUntilDate}
       </span>
     </div>
   );
