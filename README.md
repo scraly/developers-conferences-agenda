@@ -926,6 +926,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-9: [Berlin Buzzwords](https://2026.berlinbuzzwords.de) - Berlin (Germany) <a href="https://2026.berlinbuzzwords.de/call-for-papers"><img alt="CFP Berlin Buzzwords" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2026&color=red"></a>
 * 7-12: [AI Con USA](https://aiconusa.techwell.com) - Seattle, WA (USA)
 * 8: [betterCode() Testing](https://testing.bettercode.eu) - Online
+* 8: [Open Source Policy & Ecosystem Forum](https://events.linuxfoundation.org/open-source-policy-ecosystem-forum/) - Brussels (Belgium)
 * 8-9: [Future Frontend](https://futurefrontend.com) - Espoo (Finland) <a href="https://forms.gle/gWReoDDjra4MCQMM8"><img alt="CFP Future Frontend" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2026&color=red"></a>
 * 8-9: [Dev.Play Conference](https://dev-play.ro) - Bucharest (Romania)
 * 9: [European Open Source Security Forum](https://events.linuxfoundation.org/european-open-source-security-forum/) - Brussels (Belgium)
@@ -1097,6 +1098,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### August
 
+* 2-7: [Deep Learning Indaba 2026](https://deeplearningindaba.com/2026) - Lagos (Nigeria)
 * 2-9: [La Villa - Hacker Summer Camp 2026](https://lavillahacker.com/) - Las Vegas, NV (USA) <a href="https://sessionize.com/la-villa-hacker-summer-camp-2026"><img alt="CFP La Villa - Hacker Summer Camp 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=green"></a>
 * 3-4: [ICSTP 2026](https://waset.org/software-testing-process-conference-in-august-2026-in-amsterdam) - Amsterdam (Netherlands)
 * 3-5: [Association for Software Testing - CAST 2026](https://associationforsoftwaretesting.org/conference/cast-2026/) - Cocoa Beach, FL (USA) <a href="https://sessionize.com/association-for-software-testing-cast"><img alt="CFP Association for Software Testing - CAST 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=green"></a>
@@ -1210,6 +1212,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18: [UtahJS Conf 2026](https://www.utahjs.com/conference) - Sandy, UT (USA) <a href="https://sessionize.com/utahjs-conf-2026"><img alt="CFP UtahJS Conf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-April-2026&color=green"></a>
 * 18-19: [ValuSignal 2026](http://www.valusignal.com) - Online <a href="https://sessionize.com/valusignal-2026"><img alt="CFP ValuSignal 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=green"></a>
 * 19: [WhatTheStack](https://wts.sh) - Skopje (Macedonia) <a href="https://wts.sh/login"><img alt="CFP WhatTheStack" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2026&color=red"></a>
+* 19: [Devopsdays Campinas](https://devopsdays.org/events/2026-campinas) - Campinas (Brazil)
 * 20-21: [AMTSO Cyber Research Conference](https://www.amtso.org/special-events/amtso-cyber-research-conference-2026) - Brussels (Belgium) <a href="https://sessionize.com/amtso-cyber-research-conference-2026"><img alt="CFP AMTSO Cyber Research Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 21: [CityJS Athens](https://greece.cityjsconf.org) - Athens (Greece)
 * 21: [Cloud Foundry Summit](https://events.linuxfoundation.org/cloud-foundry-summit/) - Heidelberg (Germany)
