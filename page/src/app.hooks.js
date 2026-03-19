@@ -275,12 +275,7 @@ export const applyCommonFilters = (events, search, regionsMap) => {
   if (search.country) {
     const countries = search.country.split(',').map(v => v.trim()).filter(Boolean)
     if (countries.length > 0) {
-      const mode = search.country_mode === 'all' ? 'all' : 'any'
-      if (mode === 'all') {
-        result = result.filter((e) => countries.every(c => e.country === c))
-      } else {
-        result = result.filter((e) => countries.some(c => e.country === c))
-      }
+      result = result.filter((e) => countries.some(c => e.country === c))
     }
   }
 
@@ -296,12 +291,7 @@ export const applyCommonFilters = (events, search, regionsMap) => {
   if (search.region) {
     const selectedRegions = search.region.split(',').map(v => v.trim()).filter(Boolean)
     if (selectedRegions.length > 0) {
-      const mode = search.region_mode === 'all' ? 'all' : 'any'
-      if (mode === 'all') {
-        result = result.filter((e) => selectedRegions.every(r => regionsMap[e.country] === r))
-      } else {
-        result = result.filter((e) => selectedRegions.some(r => regionsMap[e.country] === r))
-      }
+      result = result.filter((e) => selectedRegions.some(r => regionsMap[e.country] === r))
     }
   }
 
