@@ -1,0 +1,101 @@
+/* Theme variables */
+:root[data-theme="light"],
+:root {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f5f5f5;
+  --bg-tertiary: #eeeeee;
+  --text-color: #000000;
+  --text-secondary: #333333;
+  --text-tertiary: #666666;
+  --border-color: #cccccc;
+  --shadow-color: rgba(0, 0, 0, 0.1);
+  --link-color: #0066cc;
+  --link-hover: #0052a3;
+  --button-bg: #eeeeee;
+  --button-border: #cccccc;
+  --button-hover-bg: #e0e0e0;
+  --footer-bg: #333333;
+  --footer-text: #ffffff;
+  --footer-text-secondary: #bbbbbb;
+  --footer-link: #dddddd;
+  --footer-link-hover: #ffffff;
+}
+
+:root[data-theme="dark"] {
+  --bg-primary: #1e1e1e;
+  --bg-secondary: #2d2d2d;
+  --bg-tertiary: #3a3a3a;
+  --text-color: #e0e0e0;
+  --text-secondary: #b0b0b0;
+  --text-tertiary: #808080;
+  --border-color: #444444;
+  --shadow-color: rgba(0, 0, 0, 0.3);
+  --link-color: #66b3ff;
+  --link-hover: #99ccff;
+  --button-bg: #3a3a3a;
+  --button-border: #555555;
+  --button-hover-bg: #454545;
+  --footer-bg: #0d0d0d;
+  --footer-text: #e0e0e0;
+  --footer-text-secondary: #888888;
+  --footer-link: #aaaaaa;
+  --footer-link-hover: #e0e0e0;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.downloadButton,
+.supportButton {
+  color: var(--text-color);
+  border-color: var(--button-border);
+  background-color: var(--button-bg);
+}
+
+.downloadButton:hover,
+.supportButton:hover {
+  background-color: var(--button-hover-bg);
+}
+
+input[type="text"],
+input[type="search"],
+input[type="email"],
+input[type="number"],
+select,
+textarea {
+  background-color: var(--bg-secondary);
+  color: var(--text-color);
+  border-color: var(--border-color);
+}
+
+a {
+  color: var(--link-color);
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+.app-footer {
+  background-color: var(--footer-bg);
+  color: var(--footer-text);
+}
+
+.footer-link {
+  color: var(--footer-link);
+}
+
+.footer-link:hover {
+  color: var(--footer-link-hover);
+}
+
+.footer-links ul li a {
+  color: var(--footer-link);
+}
+
+.footer-links ul li a:hover {
+  color: var(--footer-link-hover);
+}

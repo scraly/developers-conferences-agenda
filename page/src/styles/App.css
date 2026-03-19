@@ -84,10 +84,6 @@ body * {
   -o-transition: transform 0.5s;
 }
 
-.md {
-  cursor: pointer;
-}
-
 .app-footer {
   background: #333;
   color: #fff;
