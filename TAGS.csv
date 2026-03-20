@@ -2700,3 +2700,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-08-25-techcamp 2026,tech:technology,topic:innovation,topic:startup,language:english
 2026-09-14-Brains on Silicon,tech:ai,topic:neuroscience,topic:technology,language:english
 2026-12-10-KCD Provence,tech:cloud-native,topic:kubernetes,topic:devops,language:french
+2026-06-08-Open Source Policy & Ecosystem Forum,tech:cloud-computing,topic:open-source,topic:policy,language:english
+2026-08-02-Deep Learning Indaba 2026,tech:ai,tech:machine-learning,topic:deep-learning,language:english
+2026-09-19-Devopsdays Campinas,tech:devops,topic:cloud-native,language:portuguese
