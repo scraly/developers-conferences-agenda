@@ -82,3 +82,23 @@ Map: https://umap.openstreetmap.fr/en/map/meetups-france_1231721#6/47.078/3.296
 * [Women in Machine Learning & Data Science](https://www.meetup.com/paris-women-in-machine-learning-data-science/) - Paris <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
 * [Wordpress Aix-en-Provence](https://www.meetup.com/meetup-wordpress-aix-en-provence/) - Aix en Provence<img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Wordpress&color=purple" />
 * [Wordpress Toulouse](https://www.meetup.com/wptoulouse/) - Toulouse <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Wordpress&color=purple" />
+
+## Germany
+
+* [AI Builders Berlin](https://aibuilders.club) - Berlin <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
+
+## Netherlands
+
+* [AI Builders Amsterdam](https://aibuilders.club) - Amsterdam <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
+
+## Portugal
+
+* [AI Builders Lisbon](https://aibuilders.club) - Lisbon <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
+
+## United Kingdom
+
+* [AI Builders London](https://aibuilders.club) - London <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
+
+## USA
+
+* [AI Builders Miami](https://aibuilders.club) - Miami <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
