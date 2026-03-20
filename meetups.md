@@ -85,20 +85,20 @@ Map: https://umap.openstreetmap.fr/en/map/meetups-france_1231721#6/47.078/3.296
 
 ## Germany
 
-* [AI Builders Berlin](https://www.meetup.com/aibuildersclub/) - Berlin <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
+* [AI Builders Berlin](https://aibuilders.club) - Berlin <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
 
 ## Netherlands
 
-* [AI Builders Amsterdam](https://www.meetup.com/aibuildersclub/) - Amsterdam <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
+* [AI Builders Amsterdam](https://aibuilders.club) - Amsterdam <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
 
 ## Portugal
 
-* [AI Builders Lisbon](https://www.meetup.com/aibuildersclub/) - Lisbon <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
+* [AI Builders Lisbon](https://aibuilders.club) - Lisbon <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
 
 ## United Kingdom
 
-* [AI Builders London](https://www.meetup.com/aibuildersclub/) - London <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
+* [AI Builders London](https://aibuilders.club) - London <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
 
 ## USA
 
-* [AI Builders Miami](https://www.meetup.com/aibuildersclub/) - Miami <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
+* [AI Builders Miami](https://aibuilders.club) - Miami <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
