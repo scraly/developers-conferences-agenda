@@ -679,6 +679,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5-7: [GISEC GLOBAL](https://gisec.ae) - Dubai (United Arab Emirates)
 * 5-7: [Replay 2026 |Temporal](https://replay.temporal.io) - San Francisco, CA (USA)
 * 5-8: [NDC Toronto](https://ndctoronto.com) - Toronto (Canada) <a href="https://sessionize.com/ndc-toronto-2026/"><img alt="CFP NDC Toronto 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2025&color=red"></a>
+* 6: [Code w/ Claude San Francisco](https://claude.com/code-with-claude) - San Francisco, CA (USA)
 * 6: [GraphQLConf](https://graphql.org/conf/2026/) - Menlo Park, CA (USA) <a href="https://sessionize.com/graphqlconf-2026/"><img alt="CFP GraphQLConf" src="https://img.shields.io/static/v1?label=CFP&message=Open&color=green"></a>
 * 6: [8.8 Unreal Perú](https://8dot8.org) - Miraflores (Peru) <a href="https://www.papercall.io/8dot8-unreal-peru"><img alt="CFP 8.8 Unreal Perú" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-April-2026&color=green"></a>
 * 6: [Devopsdays Zurich](https://devopsdays.org/events/2026-zurich) - Zurich (Switzerland)
@@ -779,6 +780,7 @@ All the data (past and coming) are available publicly in JSON:
 * 18-20: [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Minneapolis, MN (USA) <a href="https://sessionize.com/open-source-summit-north-america-2026/"><img alt="CFP Open Source Summit North America" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-February-2026&color=red"></a>
 * 18-22: [Beethoven Sprint 2026](https://plone.org/news-and-events/events/sprints/beethoven-sprint-2026) - Bonn (Germany)
 * 18-23: [RustWeek 2026](https://2026.rustweek.org/) - Eindhoven (Netherlands) <a href="https://sessionize.com/rustweek-2026/"><img alt="CFP RustWeek 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-January-2026&color=red"></a>
+* 19: [Code w/ Claude London](https://claude.com/code-with-claude) - London (UK)
 * 19: [XtremeJS 2026](https://xtremejs.dev) - Online <a href="https://forms.gle/UoGXzvoNi8C2vHkRA"><img alt="CFP XtremeJS 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-February-2026&color=red"></a> <a href="https://xtremejs.dev/2025/sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 19: [G-Summit 19. Mai 2026](https://events.m365-summits.de/G-Summit19Mai2026#/) - Online <a href="https://sessionize.com/g-summit"><img alt="CFP G-Summit 19. Mai 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-April-2026&color=green"></a>
 * 19: [La Product Conf Paris 2026](https://www.laproductconf.com/paris/lpc) - Paris (France) <a href="https://sessionize.com/la-product-conf-paris-2026"><img alt="CFP La Product Conf Paris 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-January-2026&color=red"></a>
@@ -949,6 +951,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-10: [AI DevSummit New York 2026](https://aidevsummit.co/new-york) - New York, NY (USA) <a href="https://sessionize.com/ai-devsummit-new-york-2026/"><img alt="CFP AI DevSummit New York 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-March-2026&color=green"></a>
 * 9-10: [DeveloperWeek New York 2026](https://www.developerweek.com/newyork/) - New York, NY (USA) <a href="https://sessionize.com/developerweek-new-york-2026"><img alt="CFP DeveloperWeek New York 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-March-2026&color=green"></a>
 * 9-12: [BC TechDays 2026](https://bctechdays.com) - Antwerp (Belgium) <a href="https://sessionize.com/bctechdays2026"><img alt="CFP BC TechDays 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-April-2026&color=green"></a>
+* 10: [Code w/ Claude Tokyo](https://claude.com/code-with-claude) - Tokyo (JP)
 * 10: [KCD New York 2026](https://kcdnewyork.com) - New York, NY (USA) <a href="https://sessionize.com/kcd-new-york-2026"><img alt="CFP KCD New York 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-March-2026&color=red"></a>
 * 10: [Finnish Dreamin](https://finnishdreamin.fi) - Helsinki (Finland) <a href="https://sessionize.com/finnish-dreamin-26"><img alt="CFP Finnish Dreamin" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-March-2026&color=green"></a>
 * 10: [MICES 2026](https://mices.co/) - Berlin (Germany) <a href="https://sessionize.com/mices-2026"><img alt="CFP MICES 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-April-2026&color=green"></a>
