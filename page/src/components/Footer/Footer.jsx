@@ -117,17 +117,6 @@ export const Footer = () => {
             </span>
           </a>
         </div>
-        <p className="sponsor">
-          <a
-            href="https://github.com/sponsors/scraly"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="supportButton"
-          >
-            {t('footer.sponsor')}
-          </a>
-        </p>
-
         <div className="footer-links">
           <div className="footer-link-lists">
             <ul>
@@ -180,6 +169,57 @@ export const Footer = () => {
             </ul>
           </div>
         </div>
+
+        <section className="become-sponsor" aria-label={t('footer.becomeSponsorTitle')}>
+          <p className="become-sponsor-title">{t('footer.becomeSponsorTitle')}</p>
+
+          <p className="sponsors-list-title">{t('footer.thankYou')}</p>
+          <div className="sponsors-grid">
+            <a
+              href="https://github.com/typesense"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="sponsor-card"
+              title="Typesense"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/19822348?s=60&v=4"
+                alt="Typesense"
+                className="sponsor-avatar"
+              />
+              <span className="sponsor-name">Typesense</span>
+            </a>
+            <a
+              href="https://github.com/Zenika"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="sponsor-card"
+              title="Zenika"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/630230?s=60&v=4"
+                alt="Zenika"
+                className="sponsor-avatar"
+              />
+              <span className="sponsor-name">Zenika</span>
+            </a>
+          </div>
+
+          <p className="become-sponsor-description">
+            {t('footer.becomeSponsorDescription')}
+          </p>
+
+          <div className="become-sponsor-actions">
+            <a
+              href="https://github.com/sponsors/scraly"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="supportButton"
+            >
+              {t('footer.sponsor')}
+            </a>
+          </div>
+        </section>
       </div>
     </footer>
   );
