@@ -2709,4 +2709,11 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-08-08-PyCon Indonesia 2026,tech:python,topic:data,topic:open-source,language:indonesian
 2026-09-10-Escape 2026,tech:cloud,tech:azure,topic:architecture,topic:devops,language:english
 2026-10-09-Data Saturday Holland 2026,tech:data,tech:analytics,topic:big-data,language:dutch
+2026-04-18-GitHub Copilot Dev Days - Merida,tech:ai,tech:python,topic:open-source,topic:developer-tools,language:english
+2026-04-20-SUSECON 2026,tech:linux,tech:cloud,topic:open-source,language:english
+2026-05-16-FLISoL Cuenca 2026,tech:open-source,topic:education,language:spanish
+2026-09-23-BED-Con 2026,tech:web,tech:ai,topic:innovation,language:english
+2026-09-28-Birmingham Tech Week 2026,tech:software,tech:ai,topic:innovation,language:english
+2026-09-28-Birmingham Tech Week 2026: FairTech,tech:ai,topic:fair-tech,language:english
+2026-09-28-Birmingham Tech Week 2026: AI Symposium,tech:ai,topic:artificial-intelligence,language:english
 2026-12-10-KCD Provence,topic:cloud-native,topic:kubernetes,topic:open-source,topic:inclusion
