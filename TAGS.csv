@@ -2709,3 +2709,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-08-08-PyCon Indonesia 2026,tech:python,topic:data,topic:open-source,language:indonesian
 2026-09-10-Escape 2026,tech:cloud,tech:azure,topic:architecture,topic:devops,language:english
 2026-10-09-Data Saturday Holland 2026,tech:data,tech:analytics,topic:big-data,language:dutch
+2026-12-10-KCD Provence,topic:cloud-native,topic:kubernetes,topic:open-source,topic:inclusion
