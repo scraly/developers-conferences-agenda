@@ -111,12 +111,14 @@ body * {
 .supportButton {
   text-decoration: none;
   color: black;
-  margin: 1rem;
+  margin: 0;
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 3px;
   background: #eee;
   cursor: pointer;
+  display: inline-flex;
+  align-items: center;
 }
 
 .supportButton:hover {
@@ -131,10 +133,6 @@ body * {
   -moz-transition: transform 0.5s;
   -ms-transition: transform 0.5s;
   -o-transition: transform 0.5s;
-}
-
-.sponsor {
-  margin-top: 2rem;
 }
 
 input, select {
@@ -202,9 +200,113 @@ input[type=text] {
   gap: 4rem;
 }
 
+.become-sponsor {
+  margin: 2rem auto 1.5rem;
+  padding: 1rem;
+  max-width: 700px;
+  border: 1px solid #666;
+  border-radius: 8px;
+  background: #404040;
+}
+
+.become-sponsor-title {
+  margin: 0 0 0.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.become-sponsor-description {
+  margin: 0;
+  color: #ddd;
+}
+
+.become-sponsor-actions {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.sponsors-list {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #555;
+}
+
+.sponsors-list-title {
+  margin: 0 0 1rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #ddd;
+}
+
+.sponsors-grid {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.sponsor-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  padding: 0.5rem;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.sponsor-card:hover {
+  background: #3b3b3b;
+  transform: scale(1.05);
+}
+
+.sponsor-avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-bottom: 0.5rem;
+  border: 2px solid #555;
+}
+
+.sponsor-name {
+  font-size: 0.85rem;
+  color: #ddd;
+  font-weight: 500;
+}
+
+.sponsor-card:hover .sponsor-name {
+  color: #fff;
+}
+
+.sponsors-badge {
+  margin-top: 0.9rem;
+  display: inline-flex;
+}
+
+.sponsors-badge img {
+  height: 28px;
+}
+
 @media (max-width: 768px) {
   .footer-link-lists {
     flex-direction: column;
+  }
+
+  .become-sponsor {
+    margin: 1.5rem auto 1rem;
+  }
+
+  .sponsors-grid {
+    gap: 1.5rem;
+  }
+
+  .sponsor-avatar {
+    width: 50px;
+    height: 50px;
   }
 
   .app-footer {
