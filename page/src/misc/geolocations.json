@@ -767,6 +767,10 @@
     "latitude": 44.3190159,
     "longitude": 23.7965614
   },
+  "Cres (Croatia)": {
+    "latitude": 44.9603333,
+    "longitude": 14.4078895
+  },
   "Crete (Greece)": {
     "latitude": 35.308495199999996,
     "longitude": 24.46334231842296
@@ -778,6 +782,10 @@
   "Cuenca (Ecuador)": {
     "latitude": -2.8974072,
     "longitude": -79.0041726
+  },
+  "Cumbaya (Ecuador)": {
+    "latitude": -0.2011693,
+    "longitude": -78.4293647
   },
   "Curitiba (Brazil)": {
     "latitude": -25.4268985,
@@ -1079,6 +1087,10 @@
     "latitude": 5.4141619,
     "longitude": 100.3287352
   },
+  "Georgia (USA)": {
+    "latitude": 32.3293809,
+    "longitude": -83.1137366
+  },
   "Germany": {
     "latitude": 34.895926,
     "longitude": -83.4665496
@@ -1367,6 +1379,10 @@
     "latitude": 39.6639818,
     "longitude": 20.8522784
   },
+  "Iowa (USA)": {
+    "latitude": 41.9216734,
+    "longitude": -93.3122705
+  },
   "Ipswich (UK)": {
     "latitude": 52.0579324,
     "longitude": 1.1528095
@@ -1570,6 +1586,10 @@
   "Krakow (Poland)": {
     "latitude": 50.0619474,
     "longitude": 19.9368564
+  },
+  "Krapina (Croatia)": {
+    "latitude": 46.1640284,
+    "longitude": 15.8700586
   },
   "Kuala Lumpur (Malaysia)": {
     "latitude": 3.1319197,
@@ -1827,6 +1847,10 @@
     "latitude": 12.1544035,
     "longitude": -86.2737642
   },
+  "Manama (Bahrain)": {
+    "latitude": 26.2235041,
+    "longitude": 50.5822436
+  },
   "Manchester (UK)": {
     "latitude": 53.4807593,
     "longitude": -2.2426305
@@ -1962,6 +1986,10 @@
   "Minneapolis, MN (USA)": {
     "latitude": 44.9772995,
     "longitude": -93.2654692
+  },
+  "Minnesota (USA)": {
+    "latitude": 45.9896587,
+    "longitude": -94.6113288
   },
   "Minsk (Belarus)": {
     "latitude": 53.9024716,
@@ -2114,6 +2142,10 @@
   "Netherlands": {
     "latitude": 52.2434979,
     "longitude": 5.6343227
+  },
+  "Nevada (USA)": {
+    "latitude": 39.5158825,
+    "longitude": -116.853722
   },
   "New Delhi (India)": {
     "latitude": 28.6419258,
@@ -3010,6 +3042,10 @@
   "Tennessee (USA)": {
     "latitude": 35.7730076,
     "longitude": -86.2820081
+  },
+  "Texas (USA)": {
+    "latitude": 31.2638905,
+    "longitude": -98.5456116
   },
   "The Hague Marriott Hotel (Netherlands)": {
     "latitude": 52.0898995,

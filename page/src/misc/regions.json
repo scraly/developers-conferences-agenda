@@ -30,7 +30,27 @@
     "Ethiopia",
     "Algeria",
     "Sierra Leone",
-    "Mozambique"
+    "Mozambique",
+    "Madagascar",
+    "Libya",
+    "Sudan",
+    "South Sudan",
+    "Mali",
+    "Chad",
+    "Central African Republic",
+    "Guinea",
+    "Guinea-Bissau",
+    "Equatorial Guinea",
+    "Eritrea",
+    "Djibouti",
+    "Botswana",
+    "Malawi",
+    "Lesotho",
+    "Eswatini",
+    "Cabo Verde",
+    "São Tomé and Príncipe",
+    "Comoros",
+    "Seychelles"
   ],
   "Asia": [
     "Russia",
@@ -62,7 +82,26 @@
     "Kazakhstan",
     "Uzbekistan",
     "Turkmenistan",
-    "Indonesia"
+    "Indonesia",
+    "Bahrain",
+    "Kuwait",
+    "Oman",
+    "Yemen",
+    "Afghanistan",
+    "Myanmar",
+    "Cambodia",
+    "Mongolia",
+    "Maldives",
+    "Bhutan",
+    "Brunei",
+    "Timor-Leste",
+    "Iran",
+    "Iraq",
+    "Syria",
+    "North Korea",
+    "Azerbaijan",
+    "Kyrgyzstan",
+    "Tajikistan"
   ],
   "Central America": [
     "Costa Rica",
@@ -73,7 +112,21 @@
     "Honduras",
     "Trinidad",
     "Panama",
-    "Guatemala"
+    "Guatemala",
+    "Cuba",
+    "Jamaica",
+    "Haiti",
+    "Bahamas",
+    "Barbados",
+    "Belize",
+    "Guyana",
+    "Suriname",
+    "Antigua and Barbuda",
+    "Saint Lucia",
+    "Saint Vincent and the Grenadines",
+    "Grenada",
+    "Dominica",
+    "Saint Kitts and Nevis"
   ],
   "Europe": [
     "Spain",
@@ -115,7 +168,14 @@
     "Macedonia",
     "Malta",
     "Ukraine",
-    "Andorra"
+    "Andorra",
+    "Liechtenstein",
+    "Montenegro",
+    "Albania",
+    "Moldova",
+    "San Marino",
+    "Monaco",
+    "Vatican City"
   ],
   "North America": [
     "USA",
@@ -125,7 +185,19 @@
   ],
   "Oceania": [
     "Australia",
-    "New Zealand"
+    "New Zealand",
+    "Fiji",
+    "Papua New Guinea",
+    "Samoa",
+    "Tonga",
+    "Vanuatu",
+    "Solomon Islands",
+    "Kiribati",
+    "Nauru",
+    "Palau",
+    "Tuvalu",
+    "Marshall Islands",
+    "Micronesia"
   ],
   "South America": [
     "Argentina",
@@ -135,6 +207,8 @@
     "Colombia",
     "Bolivia",
     "Uruguay",
-    "Ecuador"
+    "Ecuador",
+    "Paraguay",
+    "Venezuela"
   ]
 }
