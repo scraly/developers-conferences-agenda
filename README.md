@@ -1444,7 +1444,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-10: [DevOps REX](https://www.devopsrex.fr/fr/) - Paris (France)
 * 9-10: [droidcon London](https://london.droidcon.com) - London (UK)
 * 10: [ONE Summit Japan](https://events.linuxfoundation.org/open-networking-edge-summit-japan/) - Tokyo (Japan)
-* 10: [KCD Provence](https://cloudnative-provence.fr/) - Aix En Provence (France) <a href="https://cloudnative-provence.fr/fr/sponsoring/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
+* 10: [KCD Provence](https://cloudnative-provence.fr/) - Aix-en-Provence (France) <a href="https://cloudnative-provence.fr/fr/sponsoring/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 10-11: [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/) - Tokyo (Japan)
 * 15-25: ["12 Reasons Why" with Tech Experts  - Season 2](https://12reasons.theazway.com) - Online <a href="https://sessionize.com/12-reasons-why-with-tech-experts-co"><img alt="CFP '12 Reasons Why' with Tech Experts  - Season 2" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2026&color=green"></a>
 * 17-18: [AI for Developers](https://aiconference.dev/) - Online <a href="https://aiconference.dev/cfp"><img alt="CFP AI for Developers" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=green"></a>
