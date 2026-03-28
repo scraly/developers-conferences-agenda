@@ -2717,4 +2717,45 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-28-Birmingham Tech Week 2026: FairTech,tech:ai,topic:fair-tech,language:english
 2026-09-28-Birmingham Tech Week 2026: AI Symposium,tech:ai,topic:artificial-intelligence,language:english
 2026-12-10-KCD Provence,topic:cloud-native,topic:kubernetes,topic:open-source,topic:inclusion
-2026-05-12-AI SRE Summit 2026,topic:sre,topic:ai,topic:devops
+2026-05-12-AI SRE Summit 2026,topic:sre,topic:ai,topic:devops2026-04-18-Global Azure 2026 - Coimbatore,tech:cloud,topic:azure,location:india
+2026-04-18-Global Azure Bootcamp 2026 Atlanta,tech:cloud,topic:azure,location:usa
+2026-04-18-Global Azure  2026 - Chennai,tech:cloud,topic:azure,location:india
+2026-04-23-BSides Manama Community Meetup 001,tech:cybersecurity,topic:community,location:bahrain
+2026-04-25-Build With AI - LAN PARTY en USFQ,tech:ai,topic:build,location:ecuador
+2026-05-06-Code w/ Claude San Francisco,tech:ai,topic:code,location:usa
+2026-05-16-Build with AI Medan 2026,tech:ai,topic:build,location:indonesia
+2026-05-18-Prompt to Product,tech:ai,topic:product,location:online
+2026-05-19-Code w/ Claude London,tech:ai,topic:code,location:uk
+2026-05-19-Ai-fokus,tech:ai,topic:fokus,location:sweden
+2026-05-19-SUGMSP May 2026,tech:software,topic:sitecore,location:usa
+2026-06-06-DevFest Vicenza 2026,tech:dev,topic:fest,location:italy
+2026-06-06-KraKon 2026. - Animated,tech:animation,topic:kon,location:croatia
+2026-06-10-Code w/ Claude Tokyo,tech:ai,topic:code,location:japan
+2026-06-16-Software Architecture Forum,tech:architecture,topic:forum,location:germany
+2026-06-19-Azure Day Roma 2026,tech:cloud,topic:azure,location:italy
+2026-06-26-Isle of Wonders - Cres 2026,tech:games,topic:wonders,location:croatia
+2026-07-09-inside agile: Product Owner AI Day,tech:ai,topic:product,location:online
+2026-08-06-N00b Village Speaker Event!,tech:development,topic:n00b,location:usa
+2026-08-11-AI Risk Summit 2026 - Ritz-Carlton, Half Moon Bay,tech:ai,topic:risk,location:usa
+2026-09-01-CloudX 2026,tech:cloud,topic:conference,location:usa
+2026-09-01-AI TechWorld 2026,tech:ai,topic:techworld,location:usa
+2026-09-01-API World 2026,tech:api,topic:world,location:usa
+2026-09-05-Data Saturday Gothenburg,tech:data,topic:saturday,location:sweden
+2026-09-10-Fyne Conf 2026,tech:fyne,topic:conf,location:netherlands
+2026-09-11-AzureOnBeer 2026,tech:cloud,topic:beer,location:italy
+2026-09-16-TechTok,tech:tech,topic:tok,location:malta
+2026-09-28-Birmingham Tech Week 2026: Scale Up Summit,tech:tech,topic:week,location:uk
+2026-09-30-Devopsdays Vilnius,tech:devops,topic:days,location:lithuania
+2026-10-16-Just Product,tech:product,topic:just,location:germany
+2026-10-20-PyTorch Conference North America,tech:python,topic:data,topic:open-source,language:english
+2026-10-23-Security BSides Querétaro 2026,tech:security,topic:cybersecurity,language:spanish
+2026-10-26-Cloud Native Days Norway,tech:cloud,topic:kubernetes,language:norwegian
+2026-10-26-The ACS/IEEE 23rd International Conference on Computer Systems and Applications,tech:computer-science,topic:applications,language:english
+2026-10-29-JSConf Mexico,tech:javascript,topic:web-development,language:spanish
+2026-11-02-W-JAX München,tech:java,topic:software-engineering,language:german
+2026-11-07-Iowa Code Camp Fall 2026,tech:programming,topic:development,language:english
+2026-11-12-SpiceWorld 2026,tech:it,topic:technology,language:english
+2026-11-16-Budapest BI & Analytics Forum 2026,tech:business-intelligence,topic:data-analytics,language:hungarian
+2026-11-19-Lead27,tech:leadership,topic:management,language:german
+2026-11-21-flutterCon India,tech:flutter,topic:mobile-development,language:hindi
+2027-04-24-KubeCon + CloudNativeCon Europe 2028,tech:cloud,topic:kubernetes,language:english
