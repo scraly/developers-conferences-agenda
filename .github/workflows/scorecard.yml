@@ -10,7 +10,7 @@ on:
   # To guarantee Maintained check is occasionally updated. See
   # https://github.com/ossf/scorecard/blob/main/docs/checks.md#maintained
   schedule:
-    - cron: '* */3 * * *'
+    - cron: '0 6 * * *'
   push:
     branches: [ "main" ]
   workflow_dispatch:
