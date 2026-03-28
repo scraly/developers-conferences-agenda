@@ -1382,7 +1382,7 @@ All the data (past and coming) are available publicly in JSON:
 * 16: [Just Product](https://www.justproduct.de) - Munich (Germany)
 * 16-17: [DevFest Hamburg 2026](https://hamburg.devfest.de/) - Hamburg (Germany) <a href="https://sessionize.com/devfest-hamburg-2026"><img alt="CFP DevFest Hamburg 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=green"></a>
 * 16-18: [Joomla! World Conference 2026](https://conference.joomla.org) - Berlin (Germany)
-* 18-20: [All Things Open](https://2026.allthingsopen.org/) - Raleigh, NC (USA)
+* 18-20: [All Things Open](https://2026.allthingsopen.org/) - Raleigh, NC (USA) <a href="https://allthingsopen.org/call-for-papers"><img alt="CFP All Things Open" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
 * 19: [TDC 2026](https://2026.trondheimdc.no) - Trondheim (Norway) <a href="https://sessionize.com/tdc-2026/"><img alt="CFP TDC 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2026&color=green"></a>
 * 19-20: [AI Rising 2026](https://www.airising.org/) - Columbus, OH (USA) <a href="https://sessionize.com/ai-rising-2026"><img alt="CFP AI Rising 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=green"></a>
 * 19-20: [Global Summit on Data Science and Cloud Computing](https://datascience.novelticsconferences.com) - Rome (Italy) <a href="https://datascience.novelticsconferences.com/register"><img alt="CFP Global Summit on Data Science and Cloud Computing" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2026&color=green"></a>
