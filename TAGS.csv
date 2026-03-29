@@ -2759,3 +2759,9 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-19-Lead27,tech:leadership,topic:management,language:german
 2026-11-21-flutterCon India,tech:flutter,topic:mobile-development,language:hindi
 2027-04-24-KubeCon + CloudNativeCon Europe 2028,tech:cloud,topic:kubernetes,language:english
+2026-03-31-CoRIIN 2026,tech:python,topic:data,topic:open-source,language:english
+2026-04-08-SECURE 2026,tech:security,topic:cryptography,language:polish
+2026-04-15-DjangoCon Europe 2026,tech:web,topic:frameworks,language:greek
+2026-04-18-Global Azure 2026 - Coimbatore,tech:cloud,topic:azure,language:tamil
+2026-04-21-Beam College Online Training,tech:web,topic:javascript,language:english
+2026-09-24-React Native Connection 2026,tech:mobile,topic:react-native,language:french
