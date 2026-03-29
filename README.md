@@ -658,6 +658,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28-30: [Stripe Sessions 2026](https://register.stripesessions.com/2026) - San Francisco, CA (USA) <a href="https://register.stripesessions.com/2026/callforpapers"><img alt="CFP Stripe Session 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-November-2025&color=red"></a>
 * 29: [betterCode() ABAP](https://abap.bettercode.eu/index.php) - Online
 * 29: [DevopsDay Prague 2026](https://devopsdays.org/events/2026-prague/welcome/) - Prague (Czechia) <a href="https://www.papercall.io/dodprague26"><img alt="CFP DevopsDay Prague 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2026&color=red"></a>
+* 30: [KubeCrash](https://www.kubecrash.io) - Online
 * 30: [Devopsdays Raleigh](https://devopsdays.org/events/2026-raleigh/welcome/) - Raleigh, NC (USA)
 * 30-01/05: [Blue Ridge Ruby 2026](https://blueridgeruby.com/) - Asheville, NC (USA) <a href="https://www.papercall.io/blue-ridge-ruby-2026"><img alt="CFP Blue Ridge Ruby 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2026&color=red"></a>
 * 30-01/05: [OpenSIPS Summit 2026](https://www.opensips.org/events/Summit-2026Bucharest) - Bucharest (Romania) <a href="https://www.papercall.io/opensips-summit-2026"><img alt="CFP OpenSIPS Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=red"></a>
@@ -1100,6 +1101,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15-16: [Swift Rockies](https://swiftrockies.com) - Calgary (Canada)
 * 14-16: [eduWeb Summit 2026](https://www.eduwebsummit.com) - Orlando, FL (USA) <a href="https://sessionize.com/eduweb-summit-2026"><img alt="CFP eduWeb Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=red"></a>
 * 14-16: [RubyConf Las Vegas 2026](http://rubyconf.org) - Las Vegas, NV (USA) <a href="https://sessionize.com/rubyconf-2026"><img alt="CFP RubyConf Las Vegas 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-March-2026&color=red"></a>
+* 15-16: [Grand Salon de la Data en AFrique(GSDA)](https://grandsalondata.africadataentry.net/) - Ouagadougou (Burkina Faso) <a href="https://sessionize.com/grand-salon-de-la-data-en-afriquegsda"><img alt="CFP Grand Salon de la Data en AFrique(GSDA)" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-May-2026&color=green"></a>
 * 15-17: [2026 NCCI Annual Conference](https://www.ncci-cu.org/annualconference/) - Pittsburgh, PA (USA) <a href="https://sessionize.com/2026-ncci-annual-conference"><img alt="CFP 2026 NCCI Annual Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=red"></a>
 * 16-17: [DroidCon](https://usa.droidcon.com/) - Orlando, FL (USA)
 * 16-17: [FlutterCon](https://www.flutterconusa.dev/) - Orlando, FL (USA)
