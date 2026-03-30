@@ -2765,3 +2765,5 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-04-18-Global Azure 2026 - Coimbatore,tech:cloud,topic:azure,language:tamil
 2026-04-21-Beam College Online Training,tech:web,topic:javascript,language:english
 2026-09-24-React Native Connection 2026,tech:mobile,topic:react-native,language:french
+2026-04-30-KubeCrash,tech:kubernetes,topic:cloud-native,topic:devops,language:english
+2026-07-15-Grand Salon de la Data en AFrique(GSDA),topic:data,topic:ai,topic:big-data,language:french
