@@ -1544,6 +1544,7 @@ The content & the data are licensed under the [CC-BY-NC license](./LICENSE-CONTE
 
 ❤️ This project is sponsored by:
 
-- [typesense](https://github.com/typesense)
+[![typesense](https://avatars.githubusercontent.com/u/19822348?s=60&v=4)](https://github.com/typesense)
+[![Zenika](https://avatars.githubusercontent.com/u/630230?s=60&v=4)](https://github.com/Zenika)
 
 [![Github Sponsors](https://img.shields.io/badge/Sponsor%20developers.events%20!-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/scraly)
