@@ -2767,3 +2767,9 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-24-React Native Connection 2026,tech:mobile,topic:react-native,language:french
 2026-04-30-KubeCrash,tech:kubernetes,topic:cloud-native,topic:devops,language:english
 2026-07-15-Grand Salon de la Data en AFrique(GSDA),topic:data,topic:ai,topic:big-data,language:french
+2026-09-28-DevOpsCon NYC 2026,tech:kubernetes,topic:platform-engineering,tech:devops,tech:devsecops
+2026-11-20-DevOpsCon Munich 2026,topic:kubernetes,topic:platform-engineering,topic:devops,topic:devsecops
+2026-11-30-IT Security Summit Munich 2026,topic:cloud,topic:devsecops,topic:web,topic:api,topic:security
+2026-10-05-JAX London 2026,topic:java,topic:software,topic:innovation
+2026-09-28-MLCon NYC 2026,topic:ai,topic:machine-learning
+2026-11-23-MLCon Berlin 2026,topic:ai,topic:machine-learning
