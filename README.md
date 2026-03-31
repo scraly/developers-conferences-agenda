@@ -1185,6 +1185,7 @@ All the data (past and coming) are available publicly in JSON:
 * 26-30: [PyCon Australia](https://2026.pycon.org.au) - Brisbane (Australia)
 * 28-30: [State of the Map](https://2026.stateofthemap.org/) - Champs-sur-Marne (France) <a href="https://2026.stateofthemap.org/Sponsorship_SotM2026_en.pdf"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 29: [Data Saturday Oslo  2026](https://datasaturday.no) - Oslo (Norway) <a href="https://sessionize.com/data-saturday-oslo-2026"><img alt="CFP Data Saturday Oslo  2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=green"></a>
+* 29: [AWS Community Day Bolivia 2026](https://day.awscommunity.org.bo/) - Santa Cruz de la Sierra (Bolivia) <a href="https://sessionize.com/aws-community-day-bolivia-2026"><img alt="CFP AWS Community Day Bolivia 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-May-2026&color=green"></a>
 * 30-05/09: [FOSS4G Hiroshima](https://www.osgeo.jp/foss4g-2026-hiroshima) - Hiroshima (Japan)
 * 31-02/09: [Airflow Summit](https://airflowsummit.org) - Austin, TX (USA)
 
@@ -1296,6 +1297,7 @@ All the data (past and coming) are available publicly in JSON:
 * 24-25: [TURN Conference 2026](https://turn-conference.org/) - Weimar (Germany) <a href="https://sessionize.com/turn-conference-26"><img alt="CFP TURN Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=red"></a>
 * 24-25: [BSides Edmonton 2026](https://www.bsidesedmonton.org/) - Edmonton, AB (Canada) <a href="https://sessionize.com/bsides-edmonton-2026"><img alt="CFP BSides Edmonton 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=green"></a>
 * 24-26: [Paris Web 2026](https://www.paris-web.fr) - Paris (France) <a href="https://appel.paris-web.fr/"><img alt="CFP Paris Web 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-April-2026&color=green"></a> <a href="https://www.paris-web.fr/soutenez-paris-web" hreflang="fr"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+* 25: [The AI Pivot Conference](https://theaipivot.ai/events/anaheim-2026/home.aspx) - California (USA) <a href="https://sessionize.com/aipivotconference"><img alt="CFP The AI Pivot Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-May-2026&color=green"></a>
 * 25-26: [Confitura 2026](https://confitura.pl/) - Warsaw (Poland)
 * 25-26: [BSides Krakow 2026](https://bsidesKrakow.pl) - Krakow (Poland) <a href="https://sessionize.com/bsides-Krakow-2026"><img alt="CFP BSides Krakow 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=green"></a>
 * 25-26: [Security BSides Albuquerque 2026](https://www.bsidesabq.org) - Albuquerque, NM (USA) <a href="https://sessionize.com/security-bsides-albuquerque-2026"><img alt="CFP Security BSides Albuquerque 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2026&color=green"></a>
