@@ -2775,3 +2775,22 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-23-MLCon Berlin 2026,topic:ai,topic:machine-learning
 2026-09-28-International JavaScript Conference NYC 2026,topic:javascript,topic:development,topic:java
 2026-10-26-International JavaScript Conference Munich 2026,topic:javascript,topic:development,topic:java
+2026-04-18-Build With AI Owerri 2026,tech:ai,topic:developer-tools,location:nigeria,language:english
+2026-04-25-Flisol UTP 2026,tech:open-source,topic:education,location:peru,language:spanish
+2026-05-11-API Conference London 2026,tech:api,topic:web-development,location:uk,language:english
+2026-06-08-International PHP Conference Berlin,tech:php,topic:web-development,location:germany,language:english
+2026-08-21-HITCON 2026,tech:security,topic:cybersecurity,location:taiwan,language:chinese
+2026-08-29-AWS Community Day Bolivia 2026,tech:cloud,topic:devops,location:bolivia,language:spanish
+2026-09-03-Days of Knowledge ANZ 2026,tech:ai,topic:developer-tools,location:australia,language:english
+2026-09-09-International Testers Week by Cypress Cameroon,tech:testing,topic:quality-assurance,location:cameroon,language:english
+2026-09-17-dotAI,tech:ai,topic:developer-tools,location:france,language:french
+2026-09-18-dotJS,tech:javascript,topic:web-development,location:france,language:french
+2026-09-25-The AI Pivot Conference,tech:ai,topic:business,location:usa,language:english
+2026-09-28-Extremadura Digital Day 2026,tech:technology,topic:digital-transformation,location:spain,language:spanish
+2026-09-28-API Conference NYC 2026,tech:api,topic:web-development,location:usa,language:english
+2026-09-28-BASTA! Fall 2026,tech:java,topic:software-engineering,location:germany,language:english
+2026-10-26-International PHP Conference Munich 2026,tech:php,topic:web-development,location:germany,language:english
+2026-10-27-Directions EMEA 2026,tech:cloud,topic:devops,location:france,language:french
+2026-10-29-Dutch Cloud Native Day,tech:cloud,topic:devops,location:netherlands,language:english
+2026-11-18-Cloud Day 2026,tech:cloud,topic:devops,location:italy,language:italian
+2026-11-19-KCD Porto 2026 | Collab with DevOps Days Portugal,tech:cloud,topic:devops,location:portugal,language:portuguese
