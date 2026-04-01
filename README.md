@@ -1282,6 +1282,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21-23: [Partner Vibe 2.0](https://partnerin.io/vibe) - Provo, UT (USA) <a href="https://sessionize.com/partner-vibe"><img alt="CFP Partner Vibe 2.0" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2026&color=green"></a>
 * 21-24: [NDC TechTown](https://ndctechtown.com/) - Kongsberg (Norway)
 * 21-25: [Explore DDD 2026](http://exploreddd.com) - Denver, CO (USA) <a href="https://sessionize.com/explore-ddd-2026"><img alt="CFP Explore DDD 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-March-2026&color=red"></a>
+* 21-25: [BruCON 0x12](https://www.brucon.org) - Mechelen (Belgium) <a href="https://sessionize.com/brucon-0x12"><img alt="CFP BruCON 0x12" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=green"></a>
 * 22: [Civo Navigate London 2026](https://www.civo.com/navigate/london/2026) - London (UK) <a href="https://sessionize.com/civo-navigate-london-2026"><img alt="CFP Civo Navigate London" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=red"></a>
 * 22: [Java Forum Nord 2026](https://javaforumnord.de/) - Hannover (Germany) <a href="https://sessionize.com/java-forum-nord-2026"><img alt="CFP Java Forum Nord 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-May-2026&color=green"></a>
 * 22: [OpenSearchCon North America](https://events.linuxfoundation.org/opensearchcon-north-america/) - San Jose, CA (USA)
@@ -1355,6 +1356,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1-3: [SFK 2026](https://sfk.flossk.org) - Pristina (Kosovo) <a href="https://sessionize.com/sfk-2026"><img alt="CFP SFK 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2026&color=green"></a>
 * 1-4: [DesignUp Festival 2026](https://26.designup.io) - Bengaluru (India) <a href="https://sessionize.com/designup26"><img alt="CFP DesignUp Festival 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2026&color=green"></a>
 * 3: [Scottish Summit 2026](https://www.scottishsummit.com) - Edinburgh (Scotland) <a href="https://sessionize.com/scottish-summit-2026"><img alt="CFP Scottish Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=green"></a>
+* 3: [AWS Community Day Bulgaria 2026](https://www.aws-community-day.bg/) - Sofia (Bulgaria) <a href="https://sessionize.com/aws-community-day-bulgaria-2026"><img alt="CFP AWS Community Day Bulgaria 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=green"></a>
 * 5: [Linux Plumbers Conference](https://lpc.events/event/20/) - Prague (Czechia) & Online
 * 5: [Devopsdays Prague](https://devopsdays.org/events/2026-prague/welcome/) - Prague (Czechia) <a href="https://www.papercall.io/dodprague26"><img alt="CFP Devopsdays Prague 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2026&color=green"></a>
 * 5-6: [IIBA Poland Summit 2026](https://iibapolandsummit.org/) - Warsaw (Poland) <a href="https://sessionize.com/iiba-poland-summit-2026"><img alt="CFP IIBA Poland Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=red"></a>
@@ -1495,6 +1497,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20-22: [Swiftsonic '26](https://www.swiftsonicconf.com) - Tennessee (USA) <a href="https://sessionize.com/swiftsonic-26"><img alt="CFP Swiftsonic '26" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=red"></a>
 * 20-04/10: [DevOpsCon Munich 2026](https://devopscon.io/muenchen/) - Munich (Germany)
 * 21: [flutterCon India](https://india.fluttercon.dev) - Bangalore (India)
+* 21: [AppSec Days India 2026 Virtual Conference](https://india.appsecdays.org/) - Online <a href="https://sessionize.com/owasp-global-appsec-india-2026-cfp"><img alt="CFP AppSec Days India 2026 Virtual Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2026&color=green"></a>
 * 22: [AGNTCon + MCPCon](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/) - San Jose, CA (USA)
 * 23-26: [DDC .NET Developer Conference](https://www.developer-world.de/ddc) - Köln (Germany)
 * 23-27: [MLCon Berlin 2026](https://mlconference.ai/berlin/) - Berlin (Germany)
