@@ -395,6 +395,10 @@
     "latitude": 39.169574,
     "longitude": -86.5385549
   },
+  "Bloomington, MN (USA)": {
+    "latitude": 44.8322405,
+    "longitude": -93.3204872
+  },
   "Bochum (Germany)": {
     "latitude": 51.4818111,
     "longitude": 7.2196635
@@ -1206,6 +1210,10 @@
   "Göteborg (Sweden)": {
     "latitude": 57.7072326,
     "longitude": 11.9670171
+  },
+  "Haarlem (Netherlands)": {
+    "latitude": 52.3837281,
+    "longitude": 4.6435679
   },
   "Half Moon Bay, CA (USA)": {
     "latitude": 37.4635519,
@@ -3258,6 +3266,10 @@
   "Weimar (Germany)": {
     "latitude": 50.9793301,
     "longitude": 11.3297921
+  },
+  "Weinheim (Germany)": {
+    "latitude": 49.5462349,
+    "longitude": 8.6717458
   },
   "Wellington (New Zealand)": {
     "latitude": -41.2887953,
