@@ -2667,6 +2667,10 @@
     "latitude": 23.333333,
     "longitude": 45.333333
   },
+  "Rochester, MI (USA)": {
+    "latitude": 42.680588,
+    "longitude": -83.1338214
+  },
   "Romania": {
     "latitude": 45.9852129,
     "longitude": 24.6859225
@@ -3006,6 +3010,10 @@
   "Tacoma, WA (USA)": {
     "latitude": 47.2455013,
     "longitude": -122.438329
+  },
+  "Taggia (Italy)": {
+    "latitude": 43.8696068,
+    "longitude": 7.8364582
   },
   "Taipei (Taiwan)": {
     "latitude": 25.0329694,
