@@ -2845,3 +2845,5 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-17-EUC TechCon 2026,tech:cloud,topic:enterprise,language:dutch
 2026-06-20-AgentCon - Bengaluru,tech:cloud,topic:azure,language:hindi
 2026-09-04-Shift+Enter Summit 2026,tech:cloud,topic:developer,language:hungarian
+2026-06-26-Denver Dev Day | Developer's Conference | June 2026,tech:python,topic:data,topic:open-source,language:english
+2026-08-07-Recon Village @ DEFCON 2026,tech:cybersecurity,topic:penetration-testing,topic:infosec,language:english
