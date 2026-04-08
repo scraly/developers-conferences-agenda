@@ -1784,7 +1784,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-05-20-DeveloperXperience,tech:developer,topic:technology,language:english
 2026-05-26-JNation 2026,tech:java,topic:programming,language:portuguese
 2026-05-26-Laravel Live Japan,tech:php,topic:web,language:japanese
-2026-05-27-Update Conference Krakow 2026,tech:development,topic:conference,language:polish
+2026-05-27-Update Conference Krakow 2026,tech:development,topic:conference,language:english,topic:software-development,tech:.net,tech:tech-conference
 2026-05-27-AI DevSummit + DeveloperWeek Management 2026,tech:artificial-intelligence,topic:developer,language:english
 2026-05-27-CTO Craft Con: Toronto 2026,tech:cto,topic:leadership,language:english
 2026-05-27-UXDX EMEA 2026,tech:user-experience,topic:design,language:german
@@ -2852,3 +2852,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-23-MWCP 2026,tech:cloud-native,topic:devops,topic:infrastructure,language:french
 2026-10-02-Bizz Summit ES 2026,tech:business,topic:entrepreneurship,topic:technology,language:spanish
 2026-10-28-Michigan Technology Conference 2026,tech:software-development,topic:technology,topic:conference,language:english
+2026-11-12-Update Conference Prague,topic:developer-community,topic:developer-conference,language:english,topic:dotnet,topic:conference,topic:ai,tech:software-development,tech:tech-conference,tech:software-engineering

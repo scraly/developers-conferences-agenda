@@ -1895,6 +1895,10 @@
     "latitude": 50.8090106,
     "longitude": 8.7704695
   },
+  "Maribor (Slovenia)": {
+    "latitude": 46.5576439,
+    "longitude": 15.6455854
+  },
   "Marietta, GA (USA)": {
     "latitude": 33.9528472,
     "longitude": -84.5496148
@@ -2422,6 +2426,10 @@
   "Phuket (Thailand)": {
     "latitude": 7.9366015,
     "longitude": 98.3529292
+  },
+  "Pignola (Italy)": {
+    "latitude": 40.5736366,
+    "longitude": 15.7835038
   },
   "Pisa (Italy)": {
     "latitude": 43.7228386,
@@ -3066,10 +3074,6 @@
   "Tennessee (USA)": {
     "latitude": 35.7730076,
     "longitude": -86.2820081
-  },
-  "Texas (USA)": {
-    "latitude": 31.2638905,
-    "longitude": -98.5456116
   },
   "The Hague Marriott Hotel (Netherlands)": {
     "latitude": 52.0898995,
