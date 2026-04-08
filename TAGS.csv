@@ -2847,3 +2847,8 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-04-Shift+Enter Summit 2026,tech:cloud,topic:developer,language:hungarian
 2026-06-26-Denver Dev Day | Developer's Conference | June 2026,tech:python,topic:data,topic:open-source,language:english
 2026-08-07-Recon Village @ DEFCON 2026,tech:cybersecurity,topic:penetration-testing,topic:infosec,language:english
+2026-04-18-KCD Guadalajara 2026,tech:cloud-native,topic:open-source,topic:kubernetes,language:english
+2026-05-29-Tabya Conf 2026,tech:web-development,topic:javascript,topic:frontend,language:italian
+2026-06-23-MWCP 2026,tech:cloud-native,topic:devops,topic:infrastructure,language:french
+2026-10-02-Bizz Summit ES 2026,tech:business,topic:entrepreneurship,topic:technology,language:spanish
+2026-10-28-Michigan Technology Conference 2026,tech:software-development,topic:technology,topic:conference,language:english
