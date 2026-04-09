@@ -2853,3 +2853,8 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-02-Bizz Summit ES 2026,tech:business,topic:entrepreneurship,topic:technology,language:spanish
 2026-10-28-Michigan Technology Conference 2026,tech:software-development,topic:technology,topic:conference,language:english
 2026-11-12-Update Conference Prague,topic:developer-community,topic:developer-conference,language:english,topic:dotnet,topic:conference,topic:ai,tech:software-development,tech:tech-conference,tech:software-engineering
+2026-04-18-Global Azure 2026 - Ahmedabad,tech:cloud,topic:azure,topic:devops,language:english
+2026-06-25-SecureChainCon 2026,tech:cybersecurity,topic:blockchain,topic:privacy,language:english
+2026-06-27-BSides Maribor 2026,tech:cybersecurity,topic:infosec,topic:conference,language:slovenian
+2026-09-26-Come To Code 2026,tech:programming,topic:development,topic:workshop,language:italian
+2026-11-06-PNW Day of Data 2026,tech:database,topic:data,topic:sql,language:english
