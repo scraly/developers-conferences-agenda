@@ -1591,6 +1591,10 @@
     "latitude": 59.594550049999995,
     "longitude": 9.670860075643745
   },
+  "Košice (Slovakia)": {
+    "latitude": 48.7172272,
+    "longitude": 21.2496774
+  },
   "Krakow (Croatia)": {
     "latitude": 45.5584831,
     "longitude": 18.682409
@@ -3218,6 +3222,10 @@
   "Veenendaal (Netherlands)": {
     "latitude": 52.0259814,
     "longitude": 5.5539239
+  },
+  "Velha (Brazil)": {
+    "latitude": -26.9184933,
+    "longitude": -49.0925069
   },
   "Verona (Italy)": {
     "latitude": 45.4384958,
