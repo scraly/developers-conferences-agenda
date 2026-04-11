@@ -1417,6 +1417,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7: [Digital Architecture Design Day 2026](https://dadd.nl) - Nieuwegein (Netherlands) <a href="https://sessionize.com/dadd2026"><img alt="CFP Digital Architecture Design Day 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-February-2026&color=red"></a>
 * 7: [Frontmania 2026](https://frontmania.com/) - Utrecht (Netherlands) <a href="https://sessionize.com/frontmania-2026"><img alt="CFP Frontmania 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=green"></a>
 * 7-8: [data2day](https://www.data2day.de) - Köln (Germany) <a href="https://www.data2day.de/cfp.php"><img alt="CFP data2day" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2026&color=green"></a>
+* 7-8: [WordPress Accessibility Day](https://wpaccessibility.day/2026/) - Online <a href="https://www.youtube.com/channel/UCes9XCUZd51CAigbBEGlfNg/"><img alt="CFP WordPress Accessibility Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2026&color=green"></a>
 * 7-9: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) - Prague (Czechia)
 * 7-9: [Embedded Linux Conference Europe](https://events.linuxfoundation.org/embedded-linux-conference-europe/) - Prague (Czechia)
 * 7-9: [next.app devcon](https://www.nextappcon.com) - Berlin (Germany)
@@ -1583,6 +1584,7 @@ All the data (past and coming) are available publicly in JSON:
 * 3: [Scrum Day Europe](https://scrumdayeurope.com) - Utrecht (Netherlands)
 * 4: [DevFest Lyon 2026](https://devfest.gdglyon.com/) - Lyon (France) <a href="https://drive.google.com/drive/folders/1P8Q6wzMP-DxdlLHXzQmRpDmXhakrDWDE?usp=sharing"><img alt="Sponsoring" src="https://img.shields.io/badge/Sponsoring-8A2BE2"></a> <a href="https://conference-hall.io/devfest-lyon-2026"><img alt="CFP conference-name" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-June-2026&color=green"></a>
 * 4: [DevFest Dijon 2026](https://devfest.developers-group-dijon.fr/) - Dijon (France)
+* 4-7: [React Day Berlin](https://reactday.berlin) - Berlin (Germany) <a href="https://gitnation.com/events/react-day-berlin-2026/cfp"><img alt="CFP React Day Berlin" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-August-2026&color=green"></a>
 * 7: [Automotive Linux Summit](https://events.linuxfoundation.org/automotive-linux-summit/) - Tokyo (Japan)
 * 7: [Embedded Linux Conference Asia](https://events.linuxfoundation.org/embedded-linux-conference-asia/) - Tokyo (Japan)
 * 7-9: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan/) - Tokyo (Japan)
