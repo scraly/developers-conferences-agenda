@@ -2866,3 +2866,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-21-MQ Summit 2026,tech:conference,topic:technology,topic:innovation,language:dutch
 2026-10-28-GitHub Universe 2026,tech:conference,topic:open-source,topic:developer-tools,language:english
 2026-11-05-OWASP Global AppSec US 2026 - CFP (San Francisco),tech:conference,topic:security,topic:appsec,language:english
+2026-06-11-Cloud Native & Open Source AI Conference,tech:ai,tech:cloud-native,topic:artificial-intelligence,topic:machine-learning,language:english
+2026-06-13-AgentCon - Rio de Janeiro,tech:ai,tech:agent-systems,topic:artificial-intelligence,topic:robotics,language:portuguese
+2026-09-16-The AI-Native Workplace Summit 2026,tech:ai,tech:cloud-native,topic:artificial-intelligence,topic:workplace-technology,language:english
