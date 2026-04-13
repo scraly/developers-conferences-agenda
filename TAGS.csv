@@ -2876,3 +2876,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-03-DevFest Aranjuez 2026,tech:mobile,tech:google,topic:developer,language:spanish
 2026-10-07-WordPress Accessibility Day,tech:web,tech:wordpress,topic:accessibility,language:english
 2026-12-04-React Day Berlin,tech:web,tech:javascript,topic:frontend,language:english
+2026-04-22-The Carpentries Plotting and Programming in Python Instats Seminar,tech:python,topic:data,topic:open-source,language:english
+2026-05-21-Ekoparty Miami 2026 - DevSecOps Space,tech:cybersecurity,topic:devsecops,language:english
+2026-11-14-Capitole du Libre,tech:open-source,topic:free-software,language:french
