@@ -799,6 +799,10 @@
     "latitude": -0.2011693,
     "longitude": -78.4293647
   },
+  "Curicó (Chile)": {
+    "latitude": -34.985368,
+    "longitude": -71.2393705
+  },
   "Curitiba (Brazil)": {
     "latitude": -25.4268985,
     "longitude": -49.2651984
@@ -1382,6 +1386,10 @@
   "India": {
     "latitude": 22.3511148,
     "longitude": 78.6677428
+  },
+  "Indian Wells, CA (USA)": {
+    "latitude": 33.7217965,
+    "longitude": -116.338303
   },
   "Indianapolis (USA)": {
     "latitude": 39.7683331,
@@ -2618,6 +2626,10 @@
   "Ramillies (Belgium)": {
     "latitude": 50.6366892,
     "longitude": 4.9148994
+  },
+  "Rancagua (Chile)": {
+    "latitude": -34.1702433,
+    "longitude": -70.740718
   },
   "Ranchi (India)": {
     "latitude": 23.3700501,
