@@ -1122,7 +1122,6 @@ All the data (past and coming) are available publicly in JSON:
 * 29-30: [Cloud Native Summit 2026](https://cloudnativesummit.de/) - Munich (Germany) <a href="https://sessionize.com/cloud-native-summit-2026"><img alt="CFP Cloud Native Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=red"></a> <a href="https://docs.google.com/presentation/d/1QVKEiKgR_Q-grdpZ7QR85-xlvoydq3P6ijvpvKF4KmY/view"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 29-02/07: [DWX](https://www.developer-world.de/dwx) - Mannheim (Germany) <a href="https://sessionize.com/dwx-26"><img alt="CFP DWX" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2026&color=red"></a>
 * 30: [Automotive Oopen Source Summit 2026](https://www.automotive-oss.org/event/2026/summary) - Starnberg (Germany)
-* 30: [Cloud Native Summit Munich 2026](https://www.cnsmunich.com/) - Munich (Germany)
 * 30-01/07: [GITEX AI EUROPE](https://www.gitexeurope.com) - Berlin (Germany)
 
 ### July
