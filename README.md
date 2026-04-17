@@ -1508,7 +1508,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29-30: [J On The Beach 2026: Part of the Yay-Yay Conf](https://www.jonthebeach.com) - Malaga (Spain) & Online <a href="https://confeti.app/events/j-on-the-beach-2026"><img alt="CFP J On The Beach 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=red"></a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 29-30: [Lambda World](https://www.lambda.world) - Malaga (Spain) <a href="https://confeti.app/events/lambda-world-2026"><img alt="CFP Lambda World" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=red"></a>
 * 29-30: [Wey Wey Web](https://weyweyweb.com) - Malaga (Spain) <a href="https://confeti.app/events/weyweyweb-2026"><img alt="CFP Wey Wey Web" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=red"></a>
-* 29-30: [BDX I/O 2026](https://bdxio.fr/) - Talence (France)
+* 29-30: [BDX I/O 2026](https://bdxio.fr/) - Bordeaux (France)
 * 29-30: [Dutch Cloud Native Day](https://www.linkedin.com/company/cloudnativenl/) - Utrecht (Netherlands)
 * 26-30: [International JavaScript Conference Munich 2026](https://javascript-conference.com/muenchen/) - Munich (Germany)
 * 30: [Cloud Nord 2026](https://cloudnord.fr/) - Lille (France) <a href="https://conference-hall.io/cloud-nord-2026"><img alt="CFP Cloud Nord 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-June-2026&color=green"></a> <a href="https://canva.link/y9pfulvn2y4jgrm"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
