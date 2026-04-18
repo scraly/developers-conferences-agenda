@@ -1631,6 +1631,10 @@
     "latitude": 50.4500336,
     "longitude": 30.5241361
   },
+  "Kyoto (Japan)": {
+    "latitude": 35.0115754,
+    "longitude": 135.7681441
+  },
   "Köln (Germany)": {
     "latitude": 50.938361,
     "longitude": 6.959974
@@ -1814,6 +1818,10 @@
   "Lugano (Switzerland)": {
     "latitude": 46.0050102,
     "longitude": 8.9520281
+  },
+  "Luka (Bosnia and Herzegovina)": {
+    "latitude": 43.9465225,
+    "longitude": 18.2548926
   },
   "Lusaka (Zambia)": {
     "latitude": -15.4163395,
