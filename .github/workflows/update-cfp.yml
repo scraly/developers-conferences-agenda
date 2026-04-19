@@ -57,6 +57,6 @@ jobs:
             - Generates geo locations
           draft: false
       - name: Enable Pull Request Automerge
-        run: gh pr merge --admin --squash ${{ steps.cpr.outputs.pull-request-number }}
+        run: gh pr merge ${{ steps.cpr.outputs.pull-request-number }} --admin --squash 
         env:
           GH_TOKEN: ${{ secrets.PAT }}
