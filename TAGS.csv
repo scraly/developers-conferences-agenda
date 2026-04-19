@@ -2900,3 +2900,35 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-09-European Humanoid Robots Summit 2026,topic:ai,topic:robotics,topic:technology,tech:manufacturing,location:germany
 2026-09-23-2026 ACSA Women in School Leadership Forum,topic:women-leadership,topic:education,topic:leadership,language:english
 2026-10-29-BDX I/O 2026,tech:java,topic:developer-conference,topic:software,language:french
+2026-04-25-GitHub Copilot Dev Days Lima 2026,tech:ai,topic:developer-tools,topic:cloud,language:english
+2026-05-09-BuildWithAI Luanda 2026,tech:ai,topic:developer-tools,topic:cloud,language:portuguese
+2026-05-15-Devopsdays TASHKENT,tech:devops,topic:cloud-native,language:english
+2026-05-16-Agentic AI Unplugged: Bengaluru Edition,tech:ai,topic:agent-based-ai,language:english
+2026-05-20-Build With AI Ponferrada 2026,tech:ai,topic:developer-tools,language:spanish
+2026-06-06-11º Evento W4TT Anfitrionas: Hablemos de tecnología - Junio 2026,tech:women-in-tech,topic:technology,language:spanish
+2026-06-13-Houston Fabric Day,tech:maker,topic:hardware,language:english
+2026-06-16-The 4th World Congress of AI Industry,tech:ai,topic:industry,language:english
+2026-06-23-Conversations Roadshow: Berlin by CTO Craft,tech:ai,topic:leadership,language:english
+2026-06-26-AgentCon Perth 2026,tech:ai,topic:agent-based-ai,language:english
+2026-06-27-AgentCon -  Panamá City,tech:ai,topic:agent-based-ai,language:spanish
+2026-07-03-Perl Community Conference, Summer 2026,tech:perl,topic:community,language:english
+2026-07-14-National Software Testing Conference,tech:testing,topic:quality-assurance,language:english
+2026-07-25-KCD & OpenInfra Days Vietnam 2026,tech:devops,topic:cloud-native,language:vietnamese
+2026-09-01-DroidKaigi 2026,tech:android,topic:mobile,language:japanese
+2026-09-12-INIT 2026 Dev Conference,tech:web,topic:development,language:english
+2026-09-17-BSides YXE,tech:cybersecurity,topic:security,language:english
+2026-09-22-Salon Data 2026,tech:data,topic:analytics,language:french
+2026-09-28-GAI World,tech:ai,topic:general,language:english
+2026-10-03-Boston Data and AI Saturday 2026,tech:data,topic:ai,language:english
+2026-10-15-Conversations Roadshow: Stockholm by CTO Craft,tech:ai,topic:leadership,language:english
+2026-10-17-BSidesNYC 0x06,tech:cybersecurity,topic:security,language:english
+2026-10-21-CityJS Conference Athens,tech:javascript,topic:web,language:english
+2026-10-29-Dutch Cloud Native Day 2026,tech:cloud,topic:cloud-native,language:dutch
+2026-11-05-Games Ground 2026,tech:gaming,topic:indie,language:english
+2026-11-09-CloudCon SYD 2026,tech:cloud,topic:serverless,language:english
+2026-11-16-JSNation US,tech:javascript,topic:web,language:english
+2026-11-17-React Summit US,tech:javascript,topic:frontend,language:english
+2026-11-20-angularday 2026,tech:javascript,topic:frameworks,language:italian
+2026-11-23-API Conference Berlin,tech:api,topic:development,language:english
+2026-11-24-XtremeAI Online Conference,tech:python,topic:data,topic:open-source,language:english
+2026-12-12-GHI CON,tech:python,topic:data,topic:open-source,language:english
