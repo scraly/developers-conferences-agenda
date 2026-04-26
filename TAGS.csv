@@ -2937,3 +2937,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-13-DNN Virtual Summit 2026,tech:dnn,topic:dotnet,topic:web,language:english
 2026-11-10-Porto Tech Hub Conference 2026,tech:technology,topic:innovation,topic:startup,language:english
 2026-11-10-GESS Dubai 2026,tech:education,topic:learning,topic:technology,language:english
+2026-08-28-PyCon Togo,tech:python,topic:data,topic:open-source,language:english
+2026-09-01-OWASP New Zealand Day Training,tech:security,topic:cybersecurity,topic:training,language:english
+2026-09-03-OWASP New Zealand Day,tech:security,topic:cybersecurity,language:english
+2026-09-17-PyCon Cameroon + Ubucon Cameroon,tech:python,topic:data,topic:open-source,language:english
