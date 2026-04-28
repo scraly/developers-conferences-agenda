@@ -2941,3 +2941,25 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-01-OWASP New Zealand Day Training,tech:security,topic:cybersecurity,topic:training,language:english
 2026-09-03-OWASP New Zealand Day,tech:security,topic:cybersecurity,language:english
 2026-09-17-PyCon Cameroon + Ubucon Cameroon,tech:python,topic:data,topic:open-source,language:english
+2026-05-29-Build with AI - ESPE,tech:ai,topic:cloud,location:ecuador,language:spanish
+2026-05-30-AgentCamp Lima 2026,tech:ai,topic:agent,location:peru,language:spanish
+2026-06-04-Workplace Intelligence Days - 1ère édition,tech:ai,topic:productivity,location:france,language:french
+2026-06-13-GDG London IO Extended 2026,tech:android,topic:developer,location:uk,language:english
+2026-06-21-Build With AI Villanueva 2026,tech:ai,topic:cloud,location:honduras,language:spanish
+2026-08-08-Write The Docs Kenya Conference,tech:documentation,topic:writing,location:kenya,language:english
+2026-09-19-Day of Data SLC 2026,tech:data,topic:analytics,location:usa,language:english
+2026-09-23-Rails World 2026,tech:ruby,topic:web,location:usa,language:english
+2026-09-24-Umbraco Festival Deutschland,tech:cms,topic:web,location:germany,language:german
+2026-09-25-PumaHat Cybersecurity Week Edición 2026,tech:cybersecurity,topic:hack,location:mexico,language:spanish
+2026-09-30-2026 ACSA Lead With Pride Summit,tech:leadership,topic:diversity,location:usa,language:english
+2026-09-30-Clojure/Conj 2026,tech:clojure,topic:programming,location:usa,language:english
+2026-10-01-Modern Work Conference Kuala Lumpur 2026,tech:work,topic:productivity,location:malaysia,language:english
+2026-10-06-MVP-Dagen 2026,tech:mvp,topic:community,location:norway,language:norwegian
+2026-10-16-2026 Data in the D Conference,tech:data,topic:analytics,location:usa,language:english
+2026-10-19-KCD UK Edinburgh 2026,tech:kubernetes,topic:cloud,location:uk,language:english
+2026-10-21-ThunderPlains 2026,tech:cloud,topic:devops,location:usa,language:english
+2026-10-22-Cloud Native Days Poland 2026,tech:cloud,topic:containers,location:poland,language:polish
+2026-10-27-ContainerDays & AI Context Singapore,tech:cloud,topic:containers,location:singapore,language:english
+2026-10-28-Codemotion Milan 2026,tech:web,topic:development,location:italy,language:italian
+2026-11-02-Microsoft TechCon 365 Dallas 2026,tech:microsoft,topic:cloud,location:usa,language:english
+2026-11-20-BoyaConf 2026,tech:web,topic:development,location:colombia,language:spanish
