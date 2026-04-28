@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:DCA
+BEGIN:VEVENT
+UID:KubeCon + CloudNativeCon Europe 2028@dca-2028
+DTSTAMP:20260428T160547
+DTSTART:20280424
+LOCATION:Berlin (Germany)
+SUMMARY:KubeCon + CloudNativeCon Europe 2028
+URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2028/
+END:VEVENT
+END:VCALENDAR
