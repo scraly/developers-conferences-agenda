@@ -1638,6 +1638,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19: [Conf42 MLOps 2026](https://www.conf42.com/mlops2026) - Online <a href="https://www.papercall.io/conf42-mlops-2026"><img alt="CFP Conf42 MLOps 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-October-2026&color=green"></a>
 * 19-20: [Cloud Native Denmark 2026](https://cloudnativedenmark.dk) - Copenhagen (Denmark) <a href="https://sessionize.com/cloud-native-denmark-2026"><img alt="CFP Cloud Native Denmark 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-June-2026&color=green"></a>
 * 19-20: [KCD Porto 2026 | Collab with DevOps Days Portugal](https://community.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal/) - Porto (Portugal)
+* 19-20: [Devopsdays Portugal](https://devopsdays.org/events/2026-portugal) - Porto (Portugal)
 * 19-20: [Analysis, Design & Architecture Conference 2026](https://adaconf.org) - Melbourne (Australia) <a href="https://sessionize.com/analysis-design-architecture-2026"><img alt="CFP Analysis, Design & Architecture Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=green"></a>
 * 20: [droidCon India](https://india.droidcon.com) - Bengaluru (India)
 * 20: [angularday 2026](https://www.angularday.it) - Verona (Italy) <a href="https://sessionize.com/angularday-2026"><img alt="CFP angularday 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-June-2026&color=green"></a>
