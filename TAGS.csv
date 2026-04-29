@@ -2963,3 +2963,13 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-28-Codemotion Milan 2026,tech:web,topic:development,location:italy,language:italian
 2026-11-02-Microsoft TechCon 365 Dallas 2026,tech:microsoft,topic:cloud,location:usa,language:english
 2026-11-20-BoyaConf 2026,tech:web,topic:development,location:colombia,language:spanish
+2026-05-27-Devopsdays Medellín,tech:devops,topic:cloud,topic:automation,language:english
+2026-08-27-SoCraTes 2026,tech:testing,topic:agile,topic:software-quality,language:german
+2026-09-08-AWS Community Day Poland 2026,tech:cloud,topic:aws,topic:devops,language:polish
+2026-09-29-Devopsdays Halifax,tech:devops,topic:cloud,topic:automation,language:english
+2026-10-22-AWS Community Day Adria 2026,tech:cloud,topic:aws,topic:devops,language:slovenian
+2026-11-04-Devoxx Morocco,tech:java,topic:cloud,topic:devops,language:french
+2026-12-03-Difinity Conference - Auckland - 2026,tech:software-development,topic:architecture,topic:design,language:english
+2026-12-10-Difinity Conference - Melbourne - 2026,tech:software-development,topic:architecture,topic:design,language:english
+2027-04-07-Devoxx France 2027,tech:java,topic:cloud,topic:devops,language:french
+2028-04-24-KubeCon + CloudNativeCon Europe 2028,tech:kubernetes,topic:cloud-native,topic:containers,language:english
