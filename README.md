@@ -1680,6 +1680,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-10: [IT-Tage](https://www.it-tage.org) - Frankfurt (Germany) <a href="https://www.ittage.informatik-aktuell.de/index.html"><img alt="CFP IT-Tage" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=green"></a>
 * 7-11: [Gitex Global](https://www.gitex.com) - Dubai (United Arab Emirates)
 * 8-9: [Dynamics Summit 08.-09. Dezember 2026](https://events.m365-summits.de/DynamicsSummit0809Dezember2026#/) - Online <a href="https://sessionize.com/dynamics-summit-08-09-dezember-2026"><img alt="CFP Dynamics Summit 08.-09. Dezember 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2026&color=green"></a>
+* 9-10: [OpenSource Expérience](https://www.opensource-experience.com/) - Paris (France) <a href="https://pretalx.com/open-source-experience-2026/cfp"><img alt="CFP OpenSource Expérience" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-June-2026&color=green"></a>
 * 9-10: [DevOps REX](https://www.devopsrex.fr/fr/) - Paris (France) <a href="https://www.devopsrex.fr/fr/cfp"><img alt="CFP DevOps REX" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-June-2026&color=green"></a>
 * 9-10: [droidcon London](https://london.droidcon.com) - London (UK)
 * 10: [ONE Summit Japan](https://events.linuxfoundation.org/open-networking-edge-summit-japan/) - Tokyo (Japan)
