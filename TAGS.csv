@@ -2979,3 +2979,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-08-14-CaribeConf 2026,tech:web-development,topic:conference,topic:technology,language:spanish
 2026-09-10-AGNTCon + MCPCon Japan,tech:linux,topic:open-source,topic:cloud-native,language:japanese
 2026-11-14-Dynamics 365 Summit 2026,tech:microsoft-dynamics,topic:business-applications,topic:enterprise-software,language:english
+2026-06-25-Agile Tour Toulouse 2026,topic:agile
