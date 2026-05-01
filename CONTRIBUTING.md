@@ -62,7 +62,7 @@ YYYY-MM-DD-Conference Name,discount:CODE|PERCENTAGE|until=YYYY-MM-DD
 For example:
 
 ```
-2026-02-10-Voxxed Days CERN,discount:SNOWCAMP20|20%|until=2026-10-31
+2026-06-27-Asynconf,attendees:300,discount:AURELIE15|15%
 ```
 
 Only one discount per event is supported. The percentage and until date are optional.
