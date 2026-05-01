@@ -37,7 +37,7 @@ const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, da
 
         {attendees ? (
           <div className="attendees">
-            👥 {attendees} attendees
+            👥 {attendees}
           </div>
         ) : null}
 

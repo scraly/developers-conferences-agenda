@@ -4,29 +4,33 @@ import {useNavigate, useSearchParams, useParams} from 'react-router-dom';
 import 'styles/SelectedEvents.css';
 import EventDisplay from '../EventDisplay/EventDisplay';
 import EventCount from '../EventCount/EventCount'
-import {formatDate, getMonthName} from '../../utils';
+import {formatDate, getTranslatedMonthName} from '../../utils';
 import {useMonthEvents, useDayEvents, useYearEvents} from 'app.hooks';
 import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
+import { useTranslation } from 'contexts/LanguageContext';
 
 const SelectedEvents = () => {
+  const { t } = useTranslation();
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
   const {year, month, date} = useParams();
 
-  let currentMonth = parseInt(month, 10);
-  if (Number.isNaN(month)) {
-      currentMonth = -1
+  const parsedDate = parseInt(date, 10);
+  const currentDate = Number.isNaN(parsedDate) ? undefined : new Date(parsedDate);
+
+  const parsedMonth = parseInt(month, 10);
+  let currentMonth = Number.isNaN(parsedMonth) ? -1 : parsedMonth;
+
+  if (currentMonth === -1 && currentDate) {
+    currentMonth = currentDate.getMonth();
   }
 
-  let currentDate
-  if (date !== undefined) {
-      currentDate = new Date(parseInt(date, 10));
-  }
+  const resolvedMonth = currentMonth !== -1 ? currentMonth : (currentDate ? currentDate.getMonth() : 0);
 
   const scrollToRef = useRef();
 
   const yearEvents = useYearEvents()
-  const monthEvents = useMonthEvents(yearEvents, currentMonth != -1 ? currentMonth : currentDate.getMonth())
+  const monthEvents = useMonthEvents(yearEvents, resolvedMonth)
   const dayEvents = useDayEvents(monthEvents, currentDate)
   const events = currentMonth != -1 ?  monthEvents : dayEvents;
 
@@ -62,19 +66,21 @@ const SelectedEvents = () => {
     const today = currentDate.getTime();
     const day = 24 * 60 * 60 * 1000;
     if (today !== firstDay) {
+      const previousDayMonth = new Date(today - day).getMonth();
       previous = (
         <ArrowLeftCircle
           onClick={() =>
-            navigate(`/${year}/calendar/${currentMonth}/${today - day}?${searchParams.toString()}`)
+            navigate(`/${year}/calendar/${previousDayMonth}/${today - day}?${searchParams.toString()}`)
           }
         />
       );
     }
     if (today !== lastDay) {
+      const nextDayMonth = new Date(today + day).getMonth();
       next = (
         <ArrowRightCircle
           onClick={() =>
-            navigate(`/${year}/calendar/${currentMonth}/${today + day}?${searchParams.toString()}`)
+            navigate(`/${year}/calendar/${nextDayMonth}/${today + day}?${searchParams.toString()}`)
           }
         />
       );
@@ -87,7 +93,7 @@ const SelectedEvents = () => {
         <>
           <h3 className="eventDateDisplay" ref={scrollToRef}>
             {previous}
-            <span>{getMonthName(currentMonth) || formatDate(currentDate)}</span>
+            <span>{getTranslatedMonthName(currentMonth, t) || formatDate(currentDate)}</span>
             {next}
             </h3>
             <EventCount events={events} />
@@ -95,7 +101,7 @@ const SelectedEvents = () => {
               {events.length ? (
                 events.map((e, i) => <EventDisplay key={`ev_${i}`} {...e} />)
               ) : (
-                <p>No event found for that day</p>
+                <p>{t('event.noEventFoundForDay')}</p>
               )}
           </div>
         </>

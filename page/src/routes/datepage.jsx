@@ -5,12 +5,14 @@ import YearSelector from "components/YearSelector/YearSelector";
 import { CalendarClock, CalendarDays } from "lucide-react";
 import CalendarGrid from "components/CalendarGrid/CalendarGrid";
 import SelectedEvents from "components/SelectedEvents/SelectedEvents";
+import { useTranslation } from "contexts/LanguageContext";
 
 export const DatePage = () => {
     const {year, month, date} = useParams();
     const navigate = useNavigate();
     const [searchParams] = useSearchParams();
     const hasYearEvents = useHasYearEvents(year);
+    const { t } = useTranslation();
 
     return (
         <div className="dcaGrid">
@@ -25,13 +27,13 @@ export const DatePage = () => {
               year={parseInt(year, 10)}
             />
             {hasYearEvents ? <div className='downloadButtons'>
-                <a className="downloadButton" href={'/developer-conference-' + year + '.ics'} title={'Download ' + year + ' Calendar'}>
+                <a className="downloadButton" href={'/developer-conference-' + year + '.ics'} title={t('calendar.downloadYearCalendar').replace('{year}', year)}>
                   <CalendarDays />
-                  {year} Calendar
+                  {t('calendar.yearCalendar').replace('{year}', year)}
                 </a>
-                <a className="downloadButton" href="/developer-conference-opened-cfps.ics" title="Download Opened CFP Calendar">
+                <a className="downloadButton" href="/developer-conference-opened-cfps.ics" title={t('calendar.downloadOpenedCfpCalendar')}>
                   <CalendarClock />
-                  Opened CFP Calendar
+                  {t('calendar.openedCfpCalendar')}
                 </a>
               </div> : null}
 

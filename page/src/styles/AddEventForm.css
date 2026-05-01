@@ -1,14 +1,12 @@
 .add-event-overlay {
   position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
+  inset: 0;
   background-color: rgba(0, 0, 0, 0.5);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  z-index: 10000;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+  overflow-y: auto;
+  z-index: 2147483647;
 }
 
 .add-event-form {
@@ -16,7 +14,7 @@
   border-radius: 8px;
   width: 90%;
   max-width: 600px;
-  max-height: 90vh;
+  max-height: min(90vh, 90dvh);
   overflow-y: auto;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
@@ -172,9 +170,14 @@
 
 /* Responsive design */
 @media (max-width: 768px) {
+  .add-event-overlay {
+    padding: 0.75rem;
+  }
+
   .add-event-form {
-    width: 95%;
-    margin: 1rem;
+    width: min(96vw, 640px);
+    margin: 0;
+    max-height: calc(100dvh - 1.5rem);
   }
   
   .form-row {

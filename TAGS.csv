@@ -1784,7 +1784,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-05-20-DeveloperXperience,tech:developer,topic:technology,language:english
 2026-05-26-JNation 2026,tech:java,topic:programming,language:portuguese
 2026-05-26-Laravel Live Japan,tech:php,topic:web,language:japanese
-2026-05-27-Update Conference Krakow 2026,tech:development,topic:conference,language:polish
+2026-05-27-Update Conference Krakow 2026,tech:development,topic:conference,language:english,topic:software-development,tech:.net,tech:tech-conference
 2026-05-27-AI DevSummit + DeveloperWeek Management 2026,tech:artificial-intelligence,topic:developer,language:english
 2026-05-27-CTO Craft Con: Toronto 2026,tech:cto,topic:leadership,language:english
 2026-05-27-UXDX EMEA 2026,tech:user-experience,topic:design,language:german
@@ -2302,3 +2302,680 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-29-Wey Wey Web,tech:web,topic:frontend,language:spanish
 2027-05-26-GITEX AI SERBIA,tech:ai,topic:artificial-intelligence,language:serbian
 2026-02-24-Winter Data & AI Meetup 2026,topic:big-data,topic:ai,topic:data,topic:data-analysis,topic:llm,topic:artificial-intelligence
+2026-02-21-the platform effect,tech:cloud-native,topic:devops,topic:open-source,language:english
+2026-03-14-AWS Student Community Day at Saltillo,tech:aws,topic:cloud,topic:education,language:spanish
+2026-04-24-BSIDES COLOMBIA 2026,tech:cybersecurity,topic:security,language:spanish
+2026-05-19-PGConf.Dev 2026,tech:database,topic:postgresql,topic:open-source,language:english
+2026-05-21-AgentCon 2025 - Mukono,tech:agent,topic:artificial-intelligence,language:english
+2026-06-05-PyData London 2026,tech:python,topic:data,topic:open-source,language:english
+2026-06-17-BSDCan,tech:open-source,topic:operating-systems,language:english
+2026-06-22-Galaxy Community Conference,tech:bioinformatics,topic:genomics,topic:open-source,language:english
+2026-08-29-Data Saturday Oslo  2026,tech:data,topic:analytics,language:norwegian
+2026-05-19-Current London,attendees:2000
+2026-02-20-Global Power Platform Bootcamp Hungary - 2026,tech:power-platform,topic:cloud,topic:training,language:english
+2026-02-20-POWER PLATFORM BOOTCAMP BUENOS AIRES 2026,tech:power-platform,topic:cloud,topic:training,language:spanish
+2026-04-17-2026 Applied Machine Learning Conference,tech:machine-learning,topic:ai,topic:data-science,language:english
+2026-04-18-Global Azure 2026,tech:azure,topic:cloud,topic:devops,language:english
+2026-05-06-GraphQLConf,tech:graphql,topic:api,topic:web,language:english
+2026-05-18-AgentCon Nairobi,tech:ai,topic:agent,topic:ml,language:english
+2026-05-19-Current London,tech:streaming,topic:kafka,topic:data,language:english
+2026-05-21-KCD Czech & Slovak 2026,tech:kubernetes,topic:cloud-native,topic:open-source,language:czech
+2026-08-12-Hands-On Testing 2026,tech:testing,topic:quality-assurance,topic:automation,language:english
+2026-09-01-swampUP 2026,tech:devops,topic:ci-cd,topic:software,language:english
+2026-11-04-AutomationSTAR Conference,tech:testing,topic:automation,topic:quality-assurance,language:english
+2026-03-02-Talent Arena,tech:python,topic:data,topic:open-source,language:english
+2026-05-28-Agentic Summit,tech:ai,topic:agile,topic:product-management,language:english
+2026-06-01-SREday NYC 2026 Q2,tech:devops,topic:sre,topic:cloud,language:english
+2026-06-02-Agile Tour Rennes 2026,tech:agile,topic:project-management,topic:software-development,language:french
+2026-09-22-OpenSearchCon North America,tech:search,topic:data,topic:open-source,language:english
+2026-10-06-OpenSSF Community Day Europe,tech:security,topic:open-source,topic:community,language:english
+2026-10-08-Linux Kernel Maintainer Summit,tech:linux,topic:kernel,topic:open-source,language:english
+2026-04-17-Faiseuses du Web 5,tech:web,topic:development,topic:community,language:french
+2026-05-06-Security BSides Luxembourg,tech:security,topic:cybersecurity,language:french
+2026-05-11-IndabaX Nigeria,tech:python,topic:development,topic:community,language:english
+2026-05-14-GeeCon,tech:java,topic:software,language:polish
+2026-06-26-BSides Porto - 2026 - 2nd,tech:security,topic:cybersecurity,language:portuguese
+2026-09-19-WhatTheStack,tech:java,topic:software,language:macedonian
+2026-09-25-Confitura 2026,tech:java,topic:software,language:polish
+2026-10-14-KanDDDinsky 2026,tech:cloud,topic:architecture,language:german
+2026-11-17-Open Source Monitoring Conference,tech:monitoring,topic:devops,language:german
+2026-02-27-THE DEV SUMMIT 2026,tech:web-development,topic:developer-conference,topic:ai,language:english
+2026-04-02-3T - Tourism, Travel & Tech 26,tech:tourism,tech:travel,tech:technology,topic:conference,language:croatian
+2026-05-28-DevCon 27 : I.A. & Vibe Coding,tech:programming,topic:artificial-intelligence,topic:coding,language:french
+2026-06-01-AI Native DevCon London 2026,tech:artificial-intelligence,tech:devops,topic:conference,language:english
+2026-09-11-BSides Zadar 2026,tech:cybersecurity,topic:security,language:croatian
+2026-09-12-CppCon 2026,tech:cpp,tech:programming,topic:conference,language:english
+2026-11-03-The AI Conf,tech:artificial-intelligence,topic:conference,language:spanish
+2026-05-22-MadVue,tech:vuejs,topic:frontend,topic:ai,topic:web-development,topic:javascript,tech:typescript
+2026-02-20-Global Power Platform & Agent Bootcamp 2026 Auckland,tech:power-platform,topic:automation,topic:business-intelligence,language:english
+2026-03-27-Sem Servidor Conf 2026,tech:cloud,topic:serverless,topic:devops,language:portuguese
+2026-05-16-DDD South West 2026,tech:software-development,topic:architecture,topic:agile,language:english
+2026-05-20-betterCode() ArchDoc,tech:software-development,topic:architecture,topic:design,language:english
+2026-05-24-Future of AI,tech:artificial-intelligence,topic:machine-learning,topic:innovation,language:english
+2026-06-09-AI DevSummit New York 2026,tech:artificial-intelligence,topic:developer-tools,topic:cloud,language:english
+2026-06-09-DeveloperWeek New York 2026,tech:software-development,topic:developer-tools,topic:career,language:english
+2026-06-11-TechLead Conference 2026 Amsterdam,tech:leadership,topic:software-architecture,topic:career,language:english
+2026-06-19-Pixel Pioneers,tech:design,topic:ui-ux,topic:creative,language:english
+2026-06-25-The Perl & Raku Conference in Greenville, SC 2026,tech:perl,raku,topic:programming,language:english
+2026-08-10-JuliaCon 2026,tech:julia,topic:scientific-computing,topic:data-science,language:english
+2026-08-14-Carolina Code Conference 2026,tech:software-development,topic:programming,topic:conference,language:english
+2026-09-14-posit::conf(2026),tech:r,topic:data-science,topic:statistics,language:english
+2026-10-13-Platform Summit,tech:api,topic:platform,topic:developer-tools,language:english
+2026-11-23-DDC .NET Developer Conference,tech:.net,topic:software-development,topic:conference,language:german
+2026-12-15-"12 Reasons Why" with Tech Experts  - Season 2,tech:software-development,topic:career,topic:expert-interviews,language:english
+2027-03-16-GITEX AI LATAM,tech:artificial-intelligence,topic:developer-tools,topic:cloud,language:portuguese
+2026-04-27-foss-north 2026,tech:python,topic:data,topic:open-source,language:english
+2026-05-06-8.8 Unreal Perú,tech:web,topic:software,language:spanish
+2026-06-18-Working Software 2026,tech:agile,topic:software,language:italian
+2026-09-23-BlenderCon,tech:3d,topic:design,language:dutch
+2026-10-12-The Nordic APIs UnConference,tech:api,topic:software,language:english
+2026-02-25-Odoo Tech Evening - #4 Edition,tech:odoo,topic:erp,language:english
+2026-02-26-Global Power Platform Bootcamp 2026,tech:microsoft,topic:power-platform,language:english
+2026-02-28-AI Beyond Apps: Lucknow 2026,tech:ai,topic:machine-learning,location:india,language:hindi
+2026-03-14-CLOUDxAI,tech:cloud,topic:ai,location:india,language:english
+2026-03-31-Jupyter Workshops: Security Tooling Sprint,tech:jupyter,topic:security,language:english
+2026-04-30-LLMday Austin 2026 Q2,tech:llm,topic:ai,location:usa,language:english
+2026-05-19-MAU Vegas,tech:tech,topic:conference,location:usa,language:english
+2026-05-21-Christchurch AI Techweek Conference,tech:ai,topic:conference,location:new-zealand,language:english
+2026-05-21-Flupa UX Days 2026,tech:ux,topic:design,location:france,language:french
+2026-05-30-The Diana Initiative 2026 (Online Event),tech:diversity,topic:inclusion,language:english
+2026-06-09-C:\aen\Tech,tech:web,topic:development,location:france,language:french
+2026-06-25-Cajusec 2026,tech:cybersecurity,topic:conference,location:brazil,language:portuguese
+2026-08-15-Hack Glasgow,tech:hackathon,topic:security,location:scotland,language:english
+2026-08-21-GDevCon#7,tech:game-development,topic:conference,location:belgium,language:english
+2026-09-17-HELish Summit 2026,tech:ai,topic:conference,location:finland,language:english
+2026-10-07-Frontmania 2026,tech:frontend,topic:web,location:netherlands,language:english
+2026-11-12-Tokyo Test Fest,tech:testing,topic:quality-assurance,location:japan,language:japanese
+2026-11-13-CODE BLUE 2026,tech:cybersecurity,topic:conference,location:japan,language:japanese
+2026-11-22-AGNTCon + MCPCon,tech:ai,topic:agent,location:usa,language:english
+2026-02-21-Global Power Platform Bootcamp 2026 - Hyderabad,tech:microsoft-power-platform,topic:cloud,location:hyderabad
+2026-02-21-Global Power Platform Bootcamp 2026 - LIMA,tech:microsoft-power-platform,topic:cloud,location:lima
+2026-02-25-Build with AI in Kraków,tech:artificial-intelligence,topic:cloud,location:krakow
+2026-02-26-Cloud Native Birmingham Online Meetup: Kicking Off 2026 Together,tech:cloud-native,topic:devops,location:online
+2026-02-28-SharePoint at 25: A Legacy of Collaboration,tech:sharepoint,topic:collaboration,location:online
+2026-02-28-AWS User Group Trichy – Inaugural Meetup (Online Edition),tech:aws,topic:cloud,location:online
+2026-03-13-Wome'nTech,tech:women-in-tech,topic:community,location:vicenza
+2026-03-22-Agentic Conf Hamburg,tech:ai,topic:conference,location:hamburg
+2026-04-16-Lost in a Lightfield Online Conference 2026,tech:virtual-reality,topic:conference,location:online
+2026-05-06-Devopsdays Zurich,tech:devops,topic:conference,location:zurich
+2026-05-08-M365 Philly 2026,tech:microsoft-365,topic:conference,location:malvern
+2026-05-22-BSides Prishtina 2026,tech:cybersecurity,topic:conference,location:pristina
+2026-05-28-Cloud Toulouse 2026,tech:cloud,topic:conference,location:toulouse
+2026-06-18-TEDxDhahran,tech:technology,topic:tedx,location:dhahran
+2026-06-24-AWS Community Day Midwest 2026,tech:aws,topic:community-day,location:indianapolis
+2026-06-24-Sloss Tech 2026,tech:technology,topic:conference,location:birmingham
+2026-06-26-ThreatModCon 2026 Vienna,tech:cybersecurity,topic:conference,location:vienna
+2026-07-23-Developers Conference 2026,tech:software-development,topic:conference,location:moka
+2026-08-26-TailscaleUp 2026,tech:networking,topic:conference,location:san-francisco
+2026-09-09-KCDC 2026,tech:technology,topic:conference,location:kansas-city
+2026-09-12-Ng Conf Perú 2026,tech:angular,topic:conference,location:lima
+2026-10-30-Product Management Day 2026,tech:product-management,topic:conference,location:bologna
+2026-11-20-Open Conf 2026 - SPEECHES and WORKSHOPS,tech:open-source,topic:conference,location:athens
+2026-03-12-AgentCamp 2026: Agentes para el beneficio de la sociedad,tech:agent,topic:society,topic:benefit,language:english
+2026-04-01-LexTalk Tech Spring,tech:web,topic:technology,topic:conference,language:english
+2026-04-24-AgentCamp Colombia 2026,tech:agent,topic:society,topic:benefit,language:spanish
+2026-09-23-Directions for Enterprise 2026,tech:enterprise,topic:business,topic:partnership,language:english
+2026-10-24-Devopsdays Istanbul,tech:devops,topic:cloud,topic:infrastructure,language:english
+2026-02-20-Global Power Platform Bootcamp 2026- Manila Philippines,tech:power-platform,topic:business-applications,language:english
+2026-04-19-SREday Barcelona 2026 Q2,tech:sre,topic:devops,language:english
+2026-05-02-Devfest Georgia 2026,tech:google-developer-groups,topic:cloud,language:english
+2026-05-12-Lead Innovation Day - Leadership Edition,tech:leadership,topic:innovation,language:french
+2026-05-18-Budapest Data+AI Forum 2026,tech:data,topic:ai,language:english
+2026-07-10-Data Saturday Rheinland 2026,tech:data,topic:analytics,language:german
+2026-09-28-ServerlessDays Milano 2026,tech:serverless,topic:cloud,language:italian
+2026-10-05-Experts Live Saudi 2026,tech:technology,topic:cloud,language:arabic
+2026-04-18-Global Azure 2026 Indonesia,tech:cloud,topic:azure,topic:devops,language:english
+2026-03-21-GitHub Copilot Dev Days | Perth,tech:ai,topic:developer-tools,language:english
+2026-04-11-AgentCamp 2026 Perth,tech:ai,topic:agent-systems,language:english
+2026-04-13-SmashingConf Amsterdam,tech:web-design,topic:frontend,language:english
+2026-05-27-Percona Live,tech:databases,topic:open-source,language:english
+2026-08-08-UbuCon Asia x COSCUP 2026,tech:linux,topic:open-source,language:english
+2026-08-11-Open Source Summit Korea,tech:open-source,topic:linux,language:korean
+2026-09-07-SmashingConf Freiburg,tech:web-design,topic:frontend,language:german
+2026-09-16-Tech passion day 2026,tech:software-development,topic:quality,language:english
+2026-09-21-Targeting Quality 2026,tech:software-testing,topic:quality,language:english
+2026-10-12-SmashingConf Antwerp,tech:web-design,topic:frontend,language:dutch
+2026-03-04-Python Unplugged,tech:python,topic:data,topic:open-source,language:english
+2026-03-14-Data & AI Community Day Durban: AI Unplugged,tech:ai,topic:machine-learning,location:south-africa,language:english
+2026-03-27-UbuCon Kenya 2026,tech:ubuntu,topic:open-source,location:kenya,language:english
+2026-04-28-enterJS Integrate AI,tech:javascript,topic:ai,language:english
+2026-05-06-KyvernoCon Virtual,tech:kubernetes,topic:security,language:english
+2026-05-11-heise devSec KI und Security,tech:security,topic:ai,language:german
+2026-05-26-CozySummit Virtual,tech:kubernetes,topic:cloud-native,language:english
+2026-06-01-AI DevCon,tech:ai,topic:development,location:uk,language:english
+2026-06-04-CollabDays Madrid 2026,tech:open-source,topic:collaboration,location:spain,language:english
+2026-06-22-Beam Summit 2026,tech:beam,topic:data-processing,location:usa,language:english
+2026-07-14-RubyConf Las Vegas 2026,tech:ruby,topic:web-development,location:usa,language:english
+2026-08-21-GopherCon Latam 2026,tech:golang,topic:cloud-native,location:brazil,language:english
+2026-11-05-Heapcon 2026,tech:heap,topic:performance,location:serbia,language:english
+2026-12-07-IT-Tage,tech:it,topic:infrastructure,location:germany,language:german
+2026-03-12-Copilot & Co - Göteborg,tech:ai,tech:microsoft,topic:cloud,topic:productivity,language:english
+2026-03-21-Build With AI + IWD Tegucigalpa 2026,tech:ai,topic:developer,location:central-america,language:english
+2026-03-21-D365 Finance Bootcamp,tech:microsoft,topic:finance,topic:training,language:english
+2026-04-01-M365 COMMUNITY DAYS QUEBEC 2026,tech:microsoft,topic:community,location:quebec,language:french
+2026-04-13-Global AI Milwaukee AgentCamp 2026,tech:ai,topic:agent,location:wisconsin,language:english
+2026-04-14-Apidays Singapore,tech:api,location:singapore,language:english
+2026-04-17-Global Azure Munich 2026,tech:azure,location:munich,language:german
+2026-04-17-A.I. Day 2026,tech:ai,location:rome,language:italian
+2026-04-22-Devopsdays Brasov,tech:devops,location:brasov,language:romanian
+2026-04-25-ÖzgürKon 2026 III. International Free Software Conference,tech:free-software,location:istanbul,language:turkish
+2026-05-07-Virtual EnvoyCon,tech:cloud-native,topic:service-mesh,language:english
+2026-05-11-West Africa internet Governance Forum 2026,topic:governance,location:freetown,language:english
+2026-05-13-Apidays New York,tech:api,location:new-york,language:english
+2026-05-15-AgentCon Rome,tech:ai,topic:agent,location:rome,language:italian
+2026-05-22-AgentCamp - Tulsa,tech:ai,topic:agent,location:oklahoma,language:english
+2026-05-29-Hardwear.io USA,tech:hardware,location:california,language:english
+2026-06-06-BSides Albany,tech:cybersecurity,location:new-york,language:english
+2026-06-11-Helsinki Architect Dreamin - 2026,tech:architecture,location:helsinki,language:finnish
+2026-06-17-Cybersecurity - una gara da vincere 2026,tech:cybersecurity,location:imola,language:italian
+2026-06-24-Ghana Data Science Summit (IndabaX Ghana),tech:data-science,location:ho,language:english
+2026-06-25-Mastering GitOps,tech:gitops,language:german
+2026-07-10-BSidesPGH 2026,tech:cybersecurity,location:pittsburgh,language:english
+2026-07-31-SysAdminDay 2026 in Leipzig,tech:sysadmin,location:leipzig,language:german
+2026-09-10-ElixirConf® US 2026,tech:elixir,location:chicago,language:english
+2026-09-10-DragonJAR Security Conference 2026,tech:cybersecurity,location:medellin,language:spanish
+2026-09-17-EmberFest 2026 – Prague, Czechia,tech:web,location:prague,language:czech
+2026-09-21-Cloud Foundry Summit,tech:cloud,location:heidelberg,language:german
+2026-09-28-DevOpsDays Istanbul 2026,tech:devops,location:istanbul,language:turkish
+2026-09-28-Chicago Women in Technology Conference 2026,tech:women-in-tech,location:chicago,language:english
+2026-09-28-Cybersecurity conference - CSC 26,tech:cybersecurity,location:krakow,language:croatian
+2026-09-28-Goatmire Elixir 2026,tech:api,topic:developer,location:sweden,language:english
+2026-09-30-Apidays London,tech:api,topic:developer,location:uk,language:english
+2026-10-10-Lakehouse Day EU 2026,tech:data,topic:lakehouse,location:uk,language:english
+2026-10-13-Fast Flow Conf UK 2026,tech:software,topic:performance,location:uk,language:english
+2026-10-26-Techorama 2026 Netherlands,tech:cloud,topic:devops,location:netherlands,language:english
+2026-10-28-Apidays Australia,tech:api,topic:developer,location:australia,language:english
+2026-11-24-Civo Navigate India 2026,tech:cloud,topic:devops,location:india,language:english
+2026-12-01-Apidays Paris,tech:api,topic:developer,location:france,language:french
+2027-01-19-Governance & Security Summit 19.-20. Januar 2027,tech:security,topic:governance,location:online,language:english
+2027-02-16-Power BI Summit 16. - 17. Februar 2027,tech:analytics,topic:business-intelligence,location:online,language:english
+2027-03-16-North American M365 Summit 16.- 17. March 2027,tech:cloud,topic:microsoft-365,location:online,language:english
+2027-06-01-AI & Copilot Summit 01.-02. Juni 2027,tech:ai,topic:copilot,location:online,language:english
+2026-03-05-RootedCon,tech:security,topic:women-in-tech,language:english
+2026-03-14-IWD26 Douala,tech:cloud,topic:developer-community,language:french
+2026-03-19-Wasm I/O 2026,tech:webassembly,topic:programming,language:english
+2026-04-21-International Women's Day Kisii 2026 - Breaking the Pattern,tech:women-in-tech,topic:empowerment,language:english
+2026-05-11-LACNIC 45,tech:networking,topic:infrastructure,language:english
+2026-05-19-DevOps Pro Europe 2026,tech:devops,topic:cloud,language:english
+2026-05-19-CyberWiseCon Europe 2026,tech:cybersecurity,topic:threat-intelligence,language:english
+2026-05-23-AgentCamp Lagos 2026,tech:javascript,topic:developer-community,language:english
+2026-06-11-Power BI Days DC 2026,tech:business-intelligence,topic:data,language:english
+2026-06-18-Laravel Live UK,tech:php,topic:web-development,language:english
+2026-06-27-Asynconf,tech:javascript,topic:event-driven,language:english
+2026-07-29-Chain React 2026,tech:blockchain,topic:web3,language:english
+2026-08-20-Laravel Live Denmark,tech:php,topic:web-development,language:english
+2026-09-02-JavaZone,tech:java,topic:enterprise,language:english
+2026-10-20-.NET DeveloperDays 2026 Warsaw,tech:.net,topic:software-development,language:english
+2026-10-21-HelloStavanger 2026,tech:javascript,topic:community,language:english
+2026-12-10-ONE Summit Japan,tech:open-networking,topic:edge-computing,language:english
+2026-03-19-Atlassian Conference Nepal 2026,tech:atlassian,topic:community,topic:software,language:english
+2026-04-14-Copilot Community Conference Europe 2026,tech:ai,topic:copilot,topic:community,language:english
+2026-06-06-AWS Community Day Bengaluru 2026,tech:aws,topic:cloud,topic:community,language:english
+2026-07-18-KCD Lima Perú 2026,tech:kubernetes,topic:cloud-native,topic:community,language:spanish
+2026-08-28-State of the Map,tech:openstreetmap,topic:gis,topic:community,language:french
+2026-03-14-AgentCamp - Coimbatore,tech:python,topic:data,topic:open-source,language:english
+2026-03-14-International Women's Day Kigali 2026,tech:women-in-tech,topic:inspiration,language:english
+2026-03-21-International Women's Day Kisii 2026 - Breaking the Pattern,tech:women-in-tech,topic:inspiration,language:english
+2026-03-21-GitHub Copilot Dev Days | Ahmedabad,tech:github,topic:copilot,language:english
+2026-03-21-Django Girls Maputo 2026,tech:django,topic:girls,language:portuguese
+2026-03-23-KubeAuto Day Amsterdam,tech:kubernetes,topic:automation,language:english
+2026-04-04-Explora Tech Lima 2026,tech:tech,topic:innovation,language:spanish
+2026-04-11-Agent Camp 2026,tech:ai,topic:developer,language:english
+2026-04-11-AI Developer Day: Build With AI 2026,tech:ai,topic:developer,language:english
+2026-04-15-AI in The New Era,tech:ai,topic:future,language:english
+2026-04-19-8.8 Unreal Peru,tech:unreal,topic:game-development,language:english
+2026-04-24-Django Girls Mombasa,tech:django,topic:girls,language:english
+2026-05-07-Uphill Conf,tech:conference,topic:uphill,language:english
+2026-05-12-Lyon Craft,tech:craft,topic:lyon,language:french
+2026-05-16-Devopsdays Natal,tech:devops,topic:days,language:english
+2026-05-18-TechEx North America,tech:tech,topic:exhibition,language:english
+2026-05-18-Cyber Security & Cloud Congress,tech:cybersecurity,topic:cloud,language:english
+2026-05-28-Devopsdays Kansas City,tech:devops,topic:days,language:english
+2026-06-04-SUGCON India 2026,tech:sugcon,topic:sql,language:english
+2026-06-06-Hong Kong Open Source Conference (HKOSCon) 2026,tech:opensource,topic:conference,language:chinese
+2026-06-10-Finnish Dreamin,tech:finnish,topic:dreamin,language:finnish
+2026-06-13-BSides SATX 2026,tech:cybersecurity,topic:bsides,language:english
+2026-06-18-Developers Up North Conference,tech:developers,topic:conference,language:english
+2026-06-18-CyberLab Con 2026,tech:cybersecurity,topic:lab,language:english
+2026-06-19-Devopsdays Amsterdam,tech:devops,topic:days,language:english
+2026-07-18-AlmaLinux Day: Los Angeles,tech:almalinux,topic:day,language:english
+2026-07-24-PyData PyCon Yerevan 2026,tech:pydata,topic:pycon,language:english
+2026-07-28-ArgoCon Japan,tech:argo,topic:con,language:english
+2026-07-28-KeyCloakCon Japan,tech:keycloak,topic:con,language:english
+2026-09-11-YYC DataCon 2026,tech:datacon,topic:yycon,language:english
+2026-09-17-Devopsdays London,tech:devops,topic:cloud,location:uk
+2026-09-17-Secure Our Streets Conference 2026,tech:cybersecurity,topic:community,location:online
+2026-09-17-World Conference on  Smart Systems : Big Data, IoT, Cybersecurity, and IT in Action,tech:smart-systems,topic:big-data,topic:iot,topic:cybersecurity,location:japan
+2026-09-17-PyCon Camerooon,tech:python,topic:community,location:cameroon
+2026-09-21-Nordic Summit 2026,tech:software,topic:innovation,location:denmark
+2026-09-21-Prairie Dev Con 2026,tech:development,topic:programming,location:canada
+2026-09-21-devdays 2026,tech:development,topic:software,location:romania
+2026-09-22-heise devSec,tech:security,topic:devsecops,location:germany
+2026-09-22-Devopsdays Denver,tech:devops,topic:cloud,location:usa
+2026-09-23-Azure Fest 2026,tech:cloud,topic:azure,location:netherlands
+2026-09-24-PlatformCon Paris,tech:platform,topic:web,location:france
+2026-09-24-Paris Web 2026,tech:web,topic:design,location:france
+2026-10-03-Scottish Summit 2026,tech:software,topic:innovation,location:scotland
+2026-10-11-JavaCro'26,tech:java,topic:development,location:croatia
+2026-10-13-BazelCon,tech:build-tools,topic:open-source,location:netherlands
+2026-10-13-Techbash,tech:development,topic:cloud,location:usa
+2026-10-15-Tech Fuse Des Moines 2026,tech:technology,topic:innovation,location:usa
+2026-11-03-S2N: Storage Server Network,tech:storage,topic:networking,location:germany
+2026-11-04-Øredev,tech:development,topic:software,location:sweden
+2026-11-11-CLC,tech:cloud,topic:platform,location:germany
+2026-11-13-Devopsdays Barcelona,tech:devops,topic:cloud,location:spain
+2026-11-16-Agile Testing Days,tech:testing,topic:agile,location:germany
+2026-11-27-DevFest Belgium,tech:google,topic:cloud,location:belgium
+2026-12-04-DevFest Lyon 2026,tech:google,topic:cloud,location:france
+2026-03-09-Women+ in Open Source Day,tech:open-source,topic:women-in-tech,language:english
+2026-03-12-International Women's day 2026,tech:open-source,topic:women-in-tech,language:english
+2026-03-13-Infra structure Basse,tech:infrastructure,topic:open-source,language:french
+2026-04-17-Chicago Global Azure 2026,tech:cloud,topic:azure,language:english
+2026-04-17-Global Azure Bootcamp Singapore 2026,tech:cloud,topic:azure,language:english
+2026-04-18-Global Azure Sydney 2026,tech:cloud,topic:azure,language:english
+2026-04-18-GlobalAzure Bootcamp 2026 - Wellington NZ,tech:cloud,topic:azure,language:english
+2026-04-18-Global Azure Rio 2026,tech:cloud,topic:azure,language:portuguese
+2026-04-25-IWD Asaba 26,tech:open-source,topic:women-in-tech,language:english
+2026-05-08-SFeraKon 2026,tech:conferences,topic:technology,language:croatian
+2026-05-22-Cloud Native Days Amsterdam,tech:cloud,topic:devops,language:dutch
+2026-05-28-CommunityDays KC 2026,tech:community,topic:development,language:english
+2026-05-29-AgentCamp Wellington 2026,tech:ai,topic:machine-learning,language:english
+2026-06-25-AgentCon - Saint Louis,tech:ai,topic:machine-learning,language:english
+2026-08-26-2026 Secure Carolinas Conference,tech:security,topic:cybersecurity,language:english
+2026-09-03-DevPulse #6,tech:development,topic:programming,language:dutch
+2026-09-04-cim lingen 2026,tech:conferences,topic:technology,language:german
+2026-09-21-Partner Vibe 2.0,tech:business,topic:partnership,language:english
+2026-09-24-OWASP AppSec Days Portugal 2026 - CFP,tech:security,topic:cybersecurity,language:portuguese
+2026-09-24-BSides Edmonton 2026,tech:security,topic:cybersecurity,language:english
+2026-09-28-4th Tech Summit on AI & Robotics,tech:ai,topic:robotics,language:french
+2026-09-30-Umbraco US Festival 2026,tech:web,topic:cms,language:english
+2026-10-05-West Slope Startup Week 2026,tech:entrepreneurship,topic:startups,language:english
+2026-10-13-Experts Live Sweden 2026,tech:cloud,topic:devops,language:swedish
+2026-10-14-BaselOne 2026,tech:conferences,topic:technology,language:german
+2026-10-14-HrOUG 2026,tech:database,topic:technology,language:croatian
+2026-10-30-Triangle InfoSeCon 2026,tech:security,topic:cybersecurity,language:english
+2026-11-01-GoLab 2026,tech:programming,topic:software-development,language:italian
+2026-11-01-RustLab 2026,tech:programming,topic:software-development,language:italian
+2026-12-02-Power Conference 2026,tech:business,topic:technology,language:czech
+2026-04-24-Flutter Cuenca,tech:flutter,topic:mobile,language:spanish
+2026-05-03-Global Scrum Gathering Vancouver 2026,tech:scrum,topic:agile,language:english
+2026-05-07-aMP Day Luxembourg 2026,tech:software,topic:development,language:french
+2026-05-14-AI Security Summit - London,tech:ai,topic:security,language:english
+2026-05-15-MN Microsoft 365 User Group,tech:microsoft,topic:productivity,language:english
+2026-05-21-Umbraco Accessibility Awareness Day (UMBRAAD) 2026,tech:web,topic:accessibility,language:english
+2026-06-10-MICES 2026,tech:cloud,topic:business,language:english
+2026-06-13-Applied AI Conference 2026,tech:ai,topic:applied,language:english
+2026-07-28-London All Day D365PPUG - July 2026,tech:dynamics,topic:power-platform,language:english
+2026-08-03-Association for Software Testing - CAST 2026,tech:testing,topic:quality,language:english
+2026-09-17-HoneyCON26,tech:cybersecurity,topic:ethics,language:spanish
+2026-10-30-Cloud Nord 2026,tech:cloud,topic:nordic,language:french
+2026-03-20-Build with AI Kigali 2026,tech:ai,topic:cloud,topic:developer,language:english
+2026-04-11-Delhi Connect Summit 2.0 - Heritage & Women Horizon,tech:ai,topic:business,topic:women,language:english
+2026-04-20-AI Spring Jam,tech:ai,topic:community,language:dutch
+2026-04-25-AgentCamp, Pune 2026 (In-Person),tech:ai,topic:agent,language:hindi
+2026-05-19-AgentCon Berlin,tech:ai,topic:agent,language:german
+2026-05-23-Code To Cloud Summit 2026,tech:cloud,topic:developer,language:english
+2026-05-23-AWS Community Day Colombia 2026,tech:cloud,topic:aws,language:spanish
+2026-05-30-Atlanta Cloud+AI Conference 2026,tech:cloud,topic:ai,language:english
+2026-06-22-AI Community Days (AICD) Québec 2026,tech:ai,topic:community,language:french
+2026-06-25-BSidesTLV 2026,tech:security,topic:cybersecurity,language:hebrew
+2026-07-31-M365 Community Days NYC,tech:microsoft,topic:productivity,language:english
+2026-08-02-La Villa - Hacker Summer Camp 2026,tech:security,topic:hacking,language:english
+2026-08-07-Red Team Village at DEFCON 34,tech:security,topic:hacking,language:english
+2026-08-22-DATA Saturday Belo Horizonte 2026 (#1132),tech:data,topic:sqlday,language:portuguese
+2026-09-23-bit summit 2026,tech:cloud,topic:developer,language:german
+2026-09-24-OWASP AppSec Days France 2026,tech:security,topic:appsec,language:french
+2026-09-28-DevOpsDays Bogotá 2026,tech:devops,topic:cloud,language:spanish
+2026-10-01-Tiny Ruby Conf. 2026,tech:ruby,topic:conference,language:finnish
+2026-11-19-DevFest Toulouse 2026,tech:google,topic:developer,language:french
+2026-03-24-OpenChain and Friends Stuttgart,tech:openchain,topic:open-source,language:english
+2026-03-28-International Women's Day Kiambu 2026 - Breaking the Pattern,tech:women,topic:diversity,language:english
+2026-04-10-IMPACT-THON,tech:innovation,topic:hackathon,language:english
+2026-04-18-Global Azure 2026 France - #GlobalAzure,tech:azure,topic:cloud,language:french
+2026-04-18-Nerdearla Chile,tech:javascript,topic:web,language:spanish
+2026-04-25-7th International Conference on NLP & Information Retrieval,tech:nlp,topic:information-retrieval,language:english
+2026-05-01-M365 Community Day St. Louis,tech:microsoft,topic:productivity,language:english
+2026-05-05-Replay 2026 |Temporal,tech:temporal,topic:replay,language:english
+2026-05-14-IaCConf 2026,tech:iac,topic:infrastructure,language:english
+2026-05-27-aMP Day Strasbourg 2026,tech:amp,topic:community,language:french
+2026-05-27-Agentic Coding Summit #1: Why Does My AI Forget Everything?,tech:ai,topic:agentic-coding,language:english
+2026-06-02-PDUG 2026 in Gdansk,tech:programming,topic:database,language:polish
+2026-06-05-Memphis Microsoft Community Days 2026,tech:microsoft,topic:community,language:english
+2026-06-09-European Open Source Security Forum,tech:security,topic:open-source,language:english
+2026-06-12-JSCraftCamp,tech:javascript,topic:craft,language:german
+2026-06-17-AI Community Days (AICD) Montréal 2026,tech:ai,topic:community,language:french
+2026-10-14-NIC 2026,tech:networking,topic:cybersecurity,language:norwegian
+2026-10-16-Joomla! World Conference 2026,tech:joomla,topic:cms,language:german
+2026-10-23-EKON | Oktober Düsseldorf,tech:development,topic:software,language:german
+2026-11-16-NextGen Intelligence Conference: Data, Cloud & AI,tech:ai,topic:data,language:english
+2026-11-20-droidCon India,tech:android,topic:mobile,language:english
+2026-11-25-WeAreDevelopers Conference India,tech:developer,topic:conference,language:english
+2026-05-20-Threat Detection and Incident Response Summit - Virtual Event,tech:cybersecurity,topic:threat-detection,topic:incident-response,language:english
+2026-06-23-Confidential Computing Summit,tech:cloud-computing,topic:privacy,topic:security,language:english
+2026-09-22-Java Forum Nord 2026,tech:java,topic:programming,topic:software-development,language:german
+2026-03-24-OpenChain and Friends 2026,tech:python,topic:data,topic:open-source,language:english
+2026-03-28-Engineering the Invisible: Platforms Behind Production,tech:cloud-native,topic:platforms,language:english
+2026-04-02-Frappe Build 2026,tech:web,topic:development,language:english
+2026-04-25-International Women's Day Lima 2026 - Break The Pattern,tech:diversity,topic:women,language:spanish
+2026-08-07-Community Over Code Asia 2026,tech:community,topic:open-source,language:english
+2026-08-21-NG Kenya 2026,tech:javascript,topic:development,language:english
+2026-08-21-PyCon Togo 2026,tech:python,topic:development,language:french
+2026-08-24-DjangoCon US,tech:web,topic:django,language:english
+2026-09-09-Sooner Safer Happier LIVE 2026,tech:security,topic:software,language:english
+2026-09-18-UtahJS Conf 2026,tech:javascript,topic:web,language:english
+2026-10-12-dataMinds Connect 2026,tech:data,topic:analytics,language:dutch
+2026-10-19-AI Rising 2026,tech:ai,topic:machine-learning,language:english
+2026-11-05-Droidcon & Fluttercon Kenya 2026,tech:mobile,topic:android,language:english
+2026-11-06-SeaGL (the Seattle GNU/Linux Conference),tech:linux,topic:gnu,language:english
+2026-09-16-DC State of the Stack 2026,tech:python,topic:data,topic:open-source,language:english
+2026-04-11-BuildwithAI Harare Physical Meetup,tech:ai,tech:cloud,topic:developer,language:english
+2026-04-16-Global Azure Istanbul 2026,tech:cloud,topic:azure,language:english
+2026-04-17-Global Azure & Cloud in Focus,tech:cloud,topic:azure,language:english
+2026-04-18-Global Azure Bootcamp 2026 – Greater Toronto Area Edition,tech:cloud,topic:azure,language:english
+2026-05-16-Conand Conf May 2026,tech:devops,topic:conference,language:spanish
+2026-05-25-AgentCon - Utrecht,tech:ai,topic:agent,language:dutch
+2026-08-20-EightKB August 2026,tech:web,topic:community,language:english
+2026-09-03-Commit Your Code Conference,tech:software,topic:conference,language:english
+2026-09-15-2026 ISPE Nordic-Baltic Validation Summit,tech:healthcare,topic:validation,language:english
+2026-09-23-AI horizons 2026,tech:ai,topic:conference,language:czech
+2026-09-25-Security BSides Albuquerque 2026,tech:security,topic:cybersecurity,language:english
+2026-10-01-DesignUp Festival 2026,tech:design,topic:festival,language:hindi
+2026-11-04-code.talks,tech:programming,topic:conference,language:german
+2026-04-04-International Women's Day 2026 with WTM Aba,tech:python,topic:data,topic:open-source,language:english
+2026-04-11-ACM Irving Tech Talk April 2026,tech:cloud,topic:devops,language:english
+2026-06-03-DevOpsDays Rio de Janeiro 2026,tech:cloud,topic:devops,language:portuguese
+2026-08-19-AWS Community Day - Central Asia,tech:cloud,topic:ai,language:russian
+2026-09-09-Percona Live Amsterdam,tech:database,topic:performance,language:dutch
+2026-09-10-Nantes Craft,tech:software,topic:craftsmanship,language:french
+2026-10-12-Dev With AI,tech:ai,topic:development,language:french
+2026-11-04-2026 ACSA Leadership Summit,tech:leadership,topic:education,language:english
+2026-11-19-Analysis, Design & Architecture Conference 2026,tech:architecture,topic:design,language:english
+2026-12-02-giftED26,tech:education,topic:technology,language:english
+2026-12-03-DevDay 2026 - Alchemy,tech:software,topic:development,language:dutch
+2026-12-09-DevOps REX,tech:devops,topic:automation,language:french
+2026-03-24-La Duck Conf,tech:python,topic:data,topic:open-source,language:english
+2026-05-06-2026 Technology Summit,tech:cloud,topic:ai,topic:innovation,language:english
+2026-05-11-Windows Server Virtual Summit,tech:virtualization,topic:windows,topic:infrastructure,language:english
+2026-06-15-Jupyter Workshops: Demystifying MyST Markdown in Education,tech:education,topic:markdown,topic:open-source,language:english
+2026-08-25-techcamp 2026,tech:technology,topic:innovation,topic:startup,language:english
+2026-09-14-Brains on Silicon,tech:ai,topic:neuroscience,topic:technology,language:english
+2026-12-10-KCD Provence,tech:cloud-native,topic:kubernetes,topic:devops,language:french
+2026-06-08-Open Source Policy & Ecosystem Forum,tech:cloud-computing,topic:open-source,topic:policy,language:english
+2026-08-02-Deep Learning Indaba 2026,tech:ai,tech:machine-learning,topic:deep-learning,language:english
+2026-09-19-Devopsdays Campinas,tech:devops,topic:cloud-native,language:portuguese
+2026-04-17-Global Azure Prague 2026,tech:cloud,tech:azure,topic:devops,topic:architecture,language:english
+2026-04-25-SQL Saturday Arequipa - 2026,tech:sql,tech:database,topic:data,language:spanish
+2026-05-30-AI Accelerator Lab: Build. Test. Deploy. Today.,tech:ai,tech:machine-learning,topic:cloud,topic:devops,language:english
+2026-08-08-PyCon Indonesia 2026,tech:python,topic:data,topic:open-source,language:indonesian
+2026-09-10-Escape 2026,tech:cloud,tech:azure,topic:architecture,topic:devops,language:english
+2026-10-09-Data Saturday Holland 2026,tech:data,tech:analytics,topic:big-data,language:dutch
+2026-04-18-GitHub Copilot Dev Days - Merida,tech:ai,tech:python,topic:open-source,topic:developer-tools,language:english
+2026-04-20-SUSECON 2026,tech:linux,tech:cloud,topic:open-source,language:english
+2026-05-16-FLISoL Cuenca 2026,tech:open-source,topic:education,language:spanish
+2026-09-23-BED-Con 2026,tech:web,tech:ai,topic:innovation,language:english
+2026-09-28-Birmingham Tech Week 2026,tech:software,tech:ai,topic:innovation,language:english
+2026-09-28-Birmingham Tech Week 2026: FairTech,tech:ai,topic:fair-tech,language:english
+2026-09-28-Birmingham Tech Week 2026: AI Symposium,tech:ai,topic:artificial-intelligence,language:english
+2026-12-10-KCD Provence,topic:cloud-native,topic:kubernetes,topic:open-source,topic:inclusion
+2026-05-12-AI SRE Summit 2026,topic:sre,topic:ai,topic:devops2026-04-18-Global Azure 2026 - Coimbatore,tech:cloud,topic:azure,location:india
+2026-04-18-Global Azure Bootcamp 2026 Atlanta,tech:cloud,topic:azure,location:usa
+2026-04-18-Global Azure  2026 - Chennai,tech:cloud,topic:azure,location:india
+2026-04-23-BSides Manama Community Meetup 001,tech:cybersecurity,topic:community,location:bahrain
+2026-04-25-Build With AI - LAN PARTY en USFQ,tech:ai,topic:build,location:ecuador
+2026-05-06-Code w/ Claude San Francisco,tech:ai,topic:code,location:usa
+2026-05-16-Build with AI Medan 2026,tech:ai,topic:build,location:indonesia
+2026-05-18-Prompt to Product,tech:ai,topic:product,location:online
+2026-05-19-Code w/ Claude London,tech:ai,topic:code,location:uk
+2026-05-19-Ai-fokus,tech:ai,topic:fokus,location:sweden
+2026-05-19-SUGMSP May 2026,tech:software,topic:sitecore,location:usa
+2026-06-06-DevFest Vicenza 2026,tech:dev,topic:fest,location:italy
+2026-06-06-KraKon 2026. - Animated,tech:animation,topic:kon,location:croatia
+2026-06-10-Code w/ Claude Tokyo,tech:ai,topic:code,location:japan
+2026-06-16-Software Architecture Forum,tech:architecture,topic:forum,location:germany
+2026-06-19-Azure Day Roma 2026,tech:cloud,topic:azure,location:italy
+2026-06-26-Isle of Wonders - Cres 2026,tech:games,topic:wonders,location:croatia
+2026-07-09-inside agile: Product Owner AI Day,tech:ai,topic:product,location:online
+2026-08-06-N00b Village Speaker Event!,tech:development,topic:n00b,location:usa
+2026-08-11-AI Risk Summit 2026 - Ritz-Carlton, Half Moon Bay,tech:ai,topic:risk,location:usa
+2026-09-01-CloudX 2026,tech:cloud,topic:conference,location:usa
+2026-09-01-AI TechWorld 2026,tech:ai,topic:techworld,location:usa
+2026-09-01-API World 2026,tech:api,topic:world,location:usa
+2026-09-05-Data Saturday Gothenburg,tech:data,topic:saturday,location:sweden
+2026-09-10-Fyne Conf 2026,tech:fyne,topic:conf,location:netherlands
+2026-09-11-AzureOnBeer 2026,tech:cloud,topic:beer,location:italy
+2026-09-16-TechTok,tech:tech,topic:tok,location:malta
+2026-09-28-Birmingham Tech Week 2026: Scale Up Summit,tech:tech,topic:week,location:uk
+2026-09-30-Devopsdays Vilnius,tech:devops,topic:days,location:lithuania
+2026-10-16-Just Product,tech:product,topic:just,location:germany
+2026-10-20-PyTorch Conference North America,tech:python,topic:data,topic:open-source,language:english
+2026-10-23-Security BSides Querétaro 2026,tech:security,topic:cybersecurity,language:spanish
+2026-10-26-Cloud Native Days Norway,tech:cloud,topic:kubernetes,language:norwegian
+2026-10-26-The ACS/IEEE 23rd International Conference on Computer Systems and Applications,tech:computer-science,topic:applications,language:english
+2026-10-29-JSConf Mexico,tech:javascript,topic:web-development,language:spanish
+2026-11-02-W-JAX München,tech:java,topic:software-engineering,language:german
+2026-11-07-Iowa Code Camp Fall 2026,tech:programming,topic:development,language:english
+2026-11-12-SpiceWorld 2026,tech:it,topic:technology,language:english
+2026-11-16-Budapest BI & Analytics Forum 2026,tech:business-intelligence,topic:data-analytics,language:hungarian
+2026-11-19-Lead27,tech:leadership,topic:management,language:german
+2026-11-21-flutterCon India,tech:flutter,topic:mobile-development,language:hindi
+2027-04-24-KubeCon + CloudNativeCon Europe 2028,tech:cloud,topic:kubernetes,language:english
+2026-03-31-CoRIIN 2026,tech:python,topic:data,topic:open-source,language:english
+2026-04-08-SECURE 2026,tech:security,topic:cryptography,language:polish
+2026-04-15-DjangoCon Europe 2026,tech:web,topic:frameworks,language:greek
+2026-04-18-Global Azure 2026 - Coimbatore,tech:cloud,topic:azure,language:tamil
+2026-04-21-Beam College Online Training,tech:web,topic:javascript,language:english
+2026-09-24-React Native Connection 2026,tech:mobile,topic:react-native,language:french
+2026-04-30-KubeCrash,tech:kubernetes,topic:cloud-native,topic:devops,language:english
+2026-07-15-Grand Salon de la Data en AFrique(GSDA),topic:data,topic:ai,topic:big-data,language:french
+2026-09-28-DevOpsCon NYC 2026,tech:kubernetes,topic:platform-engineering,tech:devops,tech:devsecops
+2026-11-20-DevOpsCon Munich 2026,topic:kubernetes,topic:platform-engineering,topic:devops,topic:devsecops
+2026-11-30-IT Security Summit Munich 2026,topic:cloud,topic:devsecops,topic:web,topic:api,topic:security
+2026-10-05-JAX London 2026,topic:java,topic:software,topic:innovation
+2026-09-28-MLCon NYC 2026,topic:ai,topic:machine-learning
+2026-11-23-MLCon Berlin 2026,topic:ai,topic:machine-learning
+2026-09-28-International JavaScript Conference NYC 2026,topic:javascript,topic:development,topic:java
+2026-10-26-International JavaScript Conference Munich 2026,topic:javascript,topic:development,topic:java
+2026-04-18-Build With AI Owerri 2026,tech:ai,topic:developer-tools,location:nigeria,language:english
+2026-04-25-Flisol UTP 2026,tech:open-source,topic:education,location:peru,language:spanish
+2026-05-11-API Conference London 2026,tech:api,topic:web-development,location:uk,language:english
+2026-06-08-International PHP Conference Berlin,tech:php,topic:web-development,location:germany,language:english
+2026-08-21-HITCON 2026,tech:security,topic:cybersecurity,location:taiwan,language:chinese
+2026-08-29-AWS Community Day Bolivia 2026,tech:cloud,topic:devops,location:bolivia,language:spanish
+2026-09-03-Days of Knowledge ANZ 2026,tech:ai,topic:developer-tools,location:australia,language:english
+2026-09-09-International Testers Week by Cypress Cameroon,tech:testing,topic:quality-assurance,location:cameroon,language:english
+2026-09-17-dotAI,tech:ai,topic:developer-tools,location:france,language:french
+2026-09-18-dotJS,tech:javascript,topic:web-development,location:france,language:french
+2026-09-25-The AI Pivot Conference,tech:ai,topic:business,location:usa,language:english
+2026-09-28-Extremadura Digital Day 2026,tech:technology,topic:digital-transformation,location:spain,language:spanish
+2026-09-28-API Conference NYC 2026,tech:api,topic:web-development,location:usa,language:english
+2026-09-28-BASTA! Fall 2026,tech:java,topic:software-engineering,location:germany,language:english
+2026-10-26-International PHP Conference Munich 2026,tech:php,topic:web-development,location:germany,language:english
+2026-10-27-Directions EMEA 2026,tech:cloud,topic:devops,location:france,language:french
+2026-10-29-Dutch Cloud Native Day,tech:cloud,topic:devops,location:netherlands,language:english
+2026-11-18-Cloud Day 2026,tech:cloud,topic:devops,location:italy,language:italian
+2026-11-19-KCD Porto 2026 | Collab with DevOps Days Portugal,tech:cloud,topic:devops,location:portugal,language:portuguese
+2026-04-25-AI Mobile Hackathon AI Expert Session,tech:ai,topic:machine-learning,topic:hackathon,language:english
+2026-05-06-AgentCon - Raleigh,tech:ai,topic:agents,location:raleigh,language:english
+2026-05-07-Unlocked Seattle,tech:ai,topic:unlocked,location:seattle,language:english
+2026-05-28-Qld AI Festival,tech:ai,topic:festival,location:brisbane,language:english
+2026-06-11-Web Engineering Summit,tech:web,topic:engineering,location:amsterdam,language:english
+2026-06-12-Coderful,tech:web,topic:development,location:catania,language:italian
+2026-06-30-Cloud Native Summit Munich 2026,tech:cloud,topic:native,location:munich,language:german
+2026-09-21-BruCON 0x12,tech:security,topic:cybersecurity,location:mechelen,language:dutch
+2026-09-30-TechSummit Amsterdam,tech:tech,topic:summit,location:amsterdam,language:english
+2026-10-03-AWS Community Day Bulgaria 2026,tech:cloud,topic:aws,location:sofia,language:bulgarian
+2026-11-21-AppSec Days India 2026 Virtual Conference,tech:security,topic:appsec,location:online,language:english
+2026-11-27-DevFest Paris 2026,tech:developer,topic:fest,location:paris,language:french
+2026-12-04-DevFest Dijon 2026,tech:developer,topic:fest,location:dijon,language:french
+2027-05-31-JCON EUROPE,tech:java,topic:conference,location:koln,language:german
+2026-09-18-WordCamp Bretagne,tech:wordpress,topic:ai,location:france,topic:web-development,topic:web
+2026-04-17-Build With AI Kivu & Bukavu,tech:ai,tech:machine-learning,topic:developer-tools,language:english
+2026-05-05-GOSIM Paris 2026,tech:cloud,topic:devops,language:french
+2026-05-14-IaCConf,tech:infrastructure-as-code,topic:devops,language:english
+2026-06-09--debug 2026,tech:software-development,topic:debugging,language:croatian
+2026-06-10-Nexus Luxembourg,tech:cloud,topic:startup,language:french
+2026-06-23-Accelerate Chicago,tech:devops,topic:software-engineering,language:english
+2026-07-21-SEI Summer Series 2026,tech:software-architecture,topic:research,language:english
+2026-09-17-AGNTCon + MCPCon Europe,tech:linux,topic:open-source,language:dutch
+2026-09-22-Agile en Seine & IA 2026,tech:agile,tech:ai,topic:product-management,language:french
+2026-10-12-Software Architecture Summit,tech:software-architecture,topic:design,language:german
+2026-10-27-OWASP LASCON 2026 - Training,tech:cybersecurity,topic:training,language:english
+2026-11-18-Nerdearla México 2026,tech:web,topic:developer-conference,language:spanish
+2027-05-24-Web Rebels 2027,tech:web,topic:frontend,language:norwegian
+2026-05-06-Background Agents Virtual Summit,tech:python,topic:data,topic:open-source,language:english
+2026-06-09-MCP Dev Summit Bengaluru,tech:linux,topic:development,topic:open-source,language:english
+2026-06-12-AgentCon - Miami,tech:ai,topic:agents,topic:artificial-intelligence,language:english
+2026-06-14-MCP Dev Summit Mumbai,tech:linux,topic:development,topic:open-source,language:english
+2026-06-26-AgentCon - Orlando,tech:ai,topic:agents,topic:artificial-intelligence,language:english
+2026-08-13-MCP Dev Summit Seoul,tech:linux,topic:development,topic:open-source,language:english
+2026-09-06-MCP Dev Summit Shanghai,tech:linux,topic:development,topic:open-source,language:chinese
+2026-09-10-MCP Dev Summit Tokyo,tech:linux,topic:development,topic:open-source,language:japanese
+2026-09-19-SAP Inside Track Weinheim 2026,tech:java,topic:enterprise,topic:sap,language:german
+2026-10-02-DevFest Perros-Guirec 2026,tech:javascript,topic:web-development,topic:community,language:french
+2026-10-05-MCP Dev Summit Toronto,tech:linux,topic:development,topic:open-source,language:english
+2026-10-06-2026 ICS Cybersecurity Conference | Nashville,tech:cryptography,topic:cybersecurity,topic:ics,language:english
+2026-10-21-Code BEAM Europe 2026,tech:erlang,topic:programming,topic:event,language:dutch
+2026-11-08-2026 GOVIT Leadership Summit & Symposium,tech:govtech,topic:leadership,topic:policy,language:english
+2026-11-19-reactjsday 2026,tech:javascript,topic:frontend,topic:react,language:italian
+2026-11-19-MCP Dev Summit Nairobi,tech:linux,topic:development,topic:open-source,language:english
+2026-12-12-Devopsdays Recife,tech:devops,topic:cloud,topic:community,language:portuguese
+2026-04-16-Global Azure - Edicion Peru (2026 - Hibrido),tech:cloud,topic:azure,topic:hybrid,language:english
+2026-04-18-Pune Global Azure 2026,tech:cloud,topic:azure,language:hindi
+2026-06-06-Devopsdays Kraków,tech:devops,topic:cloud,language:polish
+2026-06-17-EUC TechCon 2026,tech:cloud,topic:enterprise,language:dutch
+2026-06-20-AgentCon - Bengaluru,tech:cloud,topic:azure,language:hindi
+2026-09-04-Shift+Enter Summit 2026,tech:cloud,topic:developer,language:hungarian
+2026-06-26-Denver Dev Day | Developer's Conference | June 2026,tech:python,topic:data,topic:open-source,language:english
+2026-08-07-Recon Village @ DEFCON 2026,tech:cybersecurity,topic:penetration-testing,topic:infosec,language:english
+2026-04-18-KCD Guadalajara 2026,tech:cloud-native,topic:open-source,topic:kubernetes,language:english
+2026-05-29-Tabya Conf 2026,tech:web-development,topic:javascript,topic:frontend,language:italian
+2026-06-23-MWCP 2026,tech:cloud-native,topic:devops,topic:infrastructure,language:french
+2026-10-02-Bizz Summit ES 2026,tech:business,topic:entrepreneurship,topic:technology,language:spanish
+2026-10-28-Michigan Technology Conference 2026,tech:software-development,topic:technology,topic:conference,language:english
+2026-11-12-Update Conference Prague,topic:developer-community,topic:developer-conference,language:english,topic:dotnet,topic:conference,topic:ai,tech:software-development,tech:tech-conference,tech:software-engineering
+2026-04-18-Global Azure 2026 - Ahmedabad,tech:cloud,topic:azure,topic:devops,language:english
+2026-06-25-SecureChainCon 2026,tech:cybersecurity,topic:blockchain,topic:privacy,language:english
+2026-06-27-BSides Maribor 2026,tech:cybersecurity,topic:infosec,topic:conference,language:slovenian
+2026-09-26-Come To Code 2026,tech:programming,topic:development,topic:workshop,language:italian
+2026-11-06-PNW Day of Data 2026,tech:database,topic:data,topic:sql,language:english
+2026-05-04-Namakaný deň 2026,tech:conference,topic:security,topic:cybersecurity,language:slovak
+2026-05-16-TIES Day #05,tech:conference,topic:education,topic:training,language:portuguese
+2026-08-07-AppSec Village - DEF CON 34,tech:conference,topic:security,topic:appsec,language:english
+2026-09-29-KCD Sofia 2026,tech:conference,topic:devops,topic:cloud,language:bulgarian
+2026-10-02-BSides Bloomington 2026,tech:conference,topic:security,topic:cybersecurity,language:english
+2026-10-21-MQ Summit 2026,tech:conference,topic:technology,topic:innovation,language:dutch
+2026-10-28-GitHub Universe 2026,tech:conference,topic:open-source,topic:developer-tools,language:english
+2026-11-05-OWASP Global AppSec US 2026 - CFP (San Francisco),tech:conference,topic:security,topic:appsec,language:english
+2026-06-11-Cloud Native & Open Source AI Conference,tech:ai,tech:cloud-native,topic:artificial-intelligence,topic:machine-learning,language:english
+2026-06-13-AgentCon - Rio de Janeiro,tech:ai,tech:agent-systems,topic:artificial-intelligence,topic:robotics,language:portuguese
+2026-09-16-The AI-Native Workplace Summit 2026,tech:ai,tech:cloud-native,topic:artificial-intelligence,topic:workplace-technology,language:english
+2026-04-18-Global Azure Angola 2026,tech:cloud,tech:azure,topic:developer,language:english
+2026-06-12-SQL Start! 2026,tech:database,tech:microsoft,topic:sql,language:italian
+2026-08-21-Montreal Community Days,tech:community,topic:developer,language:french
+2026-09-18-BSidesCache 2026,tech:security,topic:cybersecurity,language:english
+2026-10-03-DevFest Aranjuez 2026,tech:mobile,tech:google,topic:developer,language:spanish
+2026-10-07-WordPress Accessibility Day,tech:web,tech:wordpress,topic:accessibility,language:english
+2026-12-04-React Day Berlin,tech:web,tech:javascript,topic:frontend,language:english
+2026-04-22-The Carpentries Plotting and Programming in Python Instats Seminar,tech:python,topic:data,topic:open-source,language:english
+2026-05-21-Ekoparty Miami 2026 - DevSecOps Space,tech:cybersecurity,topic:devsecops,language:english
+2026-11-14-Capitole du Libre,tech:open-source,topic:free-software,language:french
+2026-04-23-Gophercamp 2026,tech:go,topic:programming,topic:conference,language:czech
+2026-05-20-GopherCon Singapore 2026,tech:go,topic:programming,topic:conference,language:english
+2026-05-30-Build With AI Copán,tech:ai,topic:developer,topic:community,language:spanish
+2026-08-11-GopherCon UK,tech:go,topic:programming,topic:conference,language:english
+2026-10-20-Umbracokalaset 2026,tech:dotnet,topic:web,topic:conference,language:swedish
+2026-06-04-PyDay Curicó 2026,tech:python,topic:data,topic:open-source,language:english
+2026-06-05-PyDay Valparaíso 2026,tech:python,topic:data,topic:open-source,language:english
+2026-06-06-PyDay Santiago 2026,tech:python,topic:data,topic:open-source,language:english
+2026-06-20-AWS Community Day - East Canada 2026,tech:cloud,topic:aws,language:english
+2026-07-06-PyDay Rancagua 2026,tech:python,topic:data,topic:open-source,language:english
+2026-09-04-Azure Community Day 2026,tech:cloud,topic:microsoft-azure,language:german
+2026-09-23-2026 ACSA Women in School Leadership Forum,education:leadership,topic:women,language:english
+2026-10-30-droidcon Uganda 2026,tech:mobile,topic:android,language:english
+2026-11-03-Cloud Identity Summit '26,tech:cloud,topic:identity,language:german
+2026-11-04-Nullbyte Security Conference 2026,tech:security,topic:cybersecurity,language:portuguese
+2026-10-28-Mozilla Festival 2026,topic:artificial-intelligence,topic:community,topic:ai,topic:open-source
+2026-10-06-FrontKon 2026,tech:frontend,topic:web-development,topic:ai
+2026-11-03-Humanoid Robots Summit North America 2026,topic:ai,topic:robotics,topic:technology,tech:manufacturing,location:usa
+2026-09-09-Humanoid Robots Summit Europe 2026,topic:ai,topic:robotics,topic:technology,tech:manufacturing,location:germany
+2026-09-23-2026 ACSA Women in School Leadership Forum,topic:women-leadership,topic:education,topic:leadership,language:english
+2026-10-29-BDX I/O 2026,tech:java,topic:developer-conference,topic:software,language:french
+2026-04-25-GitHub Copilot Dev Days Lima 2026,tech:ai,topic:developer-tools,topic:cloud,language:english
+2026-05-09-BuildWithAI Luanda 2026,tech:ai,topic:developer-tools,topic:cloud,language:portuguese
+2026-05-15-Devopsdays TASHKENT,tech:devops,topic:cloud-native,language:english
+2026-05-16-Agentic AI Unplugged: Bengaluru Edition,tech:ai,topic:agent-based-ai,language:english
+2026-05-20-Build With AI Ponferrada 2026,tech:ai,topic:developer-tools,language:spanish
+2026-06-06-11º Evento W4TT Anfitrionas: Hablemos de tecnología - Junio 2026,tech:women-in-tech,topic:technology,language:spanish
+2026-06-13-Houston Fabric Day,tech:maker,topic:hardware,language:english
+2026-06-16-The 4th World Congress of AI Industry,tech:ai,topic:industry,language:english
+2026-06-23-Conversations Roadshow: Berlin by CTO Craft,tech:ai,topic:leadership,language:english
+2026-06-26-AgentCon Perth 2026,tech:ai,topic:agent-based-ai,language:english
+2026-06-27-AgentCon -  Panamá City,tech:ai,topic:agent-based-ai,language:spanish
+2026-07-03-Perl Community Conference, Summer 2026,tech:perl,topic:community,language:english
+2026-07-14-National Software Testing Conference,tech:testing,topic:quality-assurance,language:english
+2026-07-25-KCD & OpenInfra Days Vietnam 2026,tech:devops,topic:cloud-native,language:vietnamese
+2026-09-01-DroidKaigi 2026,tech:android,topic:mobile,language:japanese
+2026-09-12-INIT 2026 Dev Conference,tech:web,topic:development,language:english
+2026-09-17-BSides YXE,tech:cybersecurity,topic:security,language:english
+2026-09-22-Salon Data 2026,tech:data,topic:analytics,language:french
+2026-09-28-GAI World,tech:ai,topic:general,language:english
+2026-10-03-Boston Data and AI Saturday 2026,tech:data,topic:ai,language:english
+2026-10-15-Conversations Roadshow: Stockholm by CTO Craft,tech:ai,topic:leadership,language:english
+2026-10-17-BSidesNYC 0x06,tech:cybersecurity,topic:security,language:english
+2026-10-21-CityJS Conference Athens,tech:javascript,topic:web,language:english
+2026-10-29-Dutch Cloud Native Day 2026,tech:cloud,topic:cloud-native,language:dutch
+2026-11-05-Games Ground 2026,tech:gaming,topic:indie,language:english
+2026-11-09-CloudCon SYD 2026,tech:cloud,topic:serverless,language:english
+2026-11-16-JSNation US,tech:javascript,topic:web,language:english
+2026-11-17-React Summit US,tech:javascript,topic:frontend,language:english
+2026-11-20-angularday 2026,tech:javascript,topic:frameworks,language:italian
+2026-11-23-API Conference Berlin,tech:api,topic:development,language:english
+2026-11-24-XtremeAI Online Conference,tech:python,topic:data,topic:open-source,language:english
+2026-12-12-GHI CON,tech:python,topic:data,topic:open-source,language:english
+2026-05-16-AgentCamp Bangkok,tech:python,topic:data,topic:open-source,language:english
+2026-10-21-Resend Forward,tech:python,topic:data,topic:open-source,language:english
+2026-10-13-DNN Virtual Summit 2026,tech:dnn,topic:dotnet,topic:web,language:english
+2026-11-10-Porto Tech Hub Conference 2026,tech:technology,topic:innovation,topic:startup,language:english
+2026-11-10-GESS Dubai 2026,tech:education,topic:learning,topic:technology,language:english
+2026-08-28-PyCon Togo,tech:python,topic:data,topic:open-source,language:english
+2026-09-01-OWASP New Zealand Day Training,tech:security,topic:cybersecurity,topic:training,language:english
+2026-09-03-OWASP New Zealand Day,tech:security,topic:cybersecurity,language:english
+2026-09-17-PyCon Cameroon + Ubucon Cameroon,tech:python,topic:data,topic:open-source,language:english
+2026-05-29-Build with AI - ESPE,tech:ai,topic:cloud,location:ecuador,language:spanish
+2026-05-30-AgentCamp Lima 2026,tech:ai,topic:agent,location:peru,language:spanish
+2026-06-04-Workplace Intelligence Days - 1ère édition,tech:ai,topic:productivity,location:france,language:french
+2026-06-13-GDG London IO Extended 2026,tech:android,topic:developer,location:uk,language:english
+2026-06-21-Build With AI Villanueva 2026,tech:ai,topic:cloud,location:honduras,language:spanish
+2026-08-08-Write The Docs Kenya Conference,tech:documentation,topic:writing,location:kenya,language:english
+2026-09-19-Day of Data SLC 2026,tech:data,topic:analytics,location:usa,language:english
+2026-09-23-Rails World 2026,tech:ruby,topic:web,location:usa,language:english
+2026-09-24-Umbraco Festival Deutschland,tech:cms,topic:web,location:germany,language:german
+2026-09-25-PumaHat Cybersecurity Week Edición 2026,tech:cybersecurity,topic:hack,location:mexico,language:spanish
+2026-09-30-2026 ACSA Lead With Pride Summit,tech:leadership,topic:diversity,location:usa,language:english
+2026-09-30-Clojure/Conj 2026,tech:clojure,topic:programming,location:usa,language:english
+2026-10-01-Modern Work Conference Kuala Lumpur 2026,tech:work,topic:productivity,location:malaysia,language:english
+2026-10-06-MVP-Dagen 2026,tech:mvp,topic:community,location:norway,language:norwegian
+2026-10-16-2026 Data in the D Conference,tech:data,topic:analytics,location:usa,language:english
+2026-10-19-KCD UK Edinburgh 2026,tech:kubernetes,topic:cloud,location:uk,language:english
+2026-10-21-ThunderPlains 2026,tech:cloud,topic:devops,location:usa,language:english
+2026-10-22-Cloud Native Days Poland 2026,tech:cloud,topic:containers,location:poland,language:polish
+2026-10-27-ContainerDays & AI Context Singapore,tech:cloud,topic:containers,location:singapore,language:english
+2026-10-28-Codemotion Milan 2026,tech:web,topic:development,location:italy,language:italian
+2026-11-02-Microsoft TechCon 365 Dallas 2026,tech:microsoft,topic:cloud,location:usa,language:english
+2026-11-20-BoyaConf 2026,tech:web,topic:development,location:colombia,language:spanish
+2026-05-27-Devopsdays Medellín,tech:devops,topic:cloud,topic:automation,language:english
+2026-08-27-SoCraTes 2026,tech:testing,topic:agile,topic:software-quality,language:german
+2026-09-08-AWS Community Day Poland 2026,tech:cloud,topic:aws,topic:devops,language:polish
+2026-09-29-Devopsdays Halifax,tech:devops,topic:cloud,topic:automation,language:english
+2026-10-22-AWS Community Day Adria 2026,tech:cloud,topic:aws,topic:devops,language:slovenian
+2026-11-04-Devoxx Morocco,tech:java,topic:cloud,topic:devops,language:french
+2026-12-03-Difinity Conference - Auckland - 2026,tech:software-development,topic:architecture,topic:design,language:english
+2026-12-10-Difinity Conference - Melbourne - 2026,tech:software-development,topic:architecture,topic:design,language:english
+2027-04-07-Devoxx France 2027,tech:java,topic:cloud,topic:devops,language:french
+2028-04-24-KubeCon + CloudNativeCon Europe 2028,tech:kubernetes,topic:cloud-native,topic:containers,language:english
+2026-12-09-OpenSource Expérience,topic:open-source,location:france
+2026-11-19-Devopsdays Portugal,tech:devops,topic:cloud,topic:automation,language:english
+2026-06-06-2º Evento W4TT Anfitrionas: Hablemos de tecnología Junio 2026 - Guatemala,tech:cloud-computing,topic:technology,topic:software-development,language:spanish
+2026-08-14-CaribeConf 2026,tech:web-development,topic:conference,topic:technology,language:spanish
+2026-09-10-AGNTCon + MCPCon Japan,tech:linux,topic:open-source,topic:cloud-native,language:japanese
+2026-11-14-Dynamics 365 Summit 2026,tech:microsoft-dynamics,topic:business-applications,topic:enterprise-software,language:english

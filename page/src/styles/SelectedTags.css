@@ -74,3 +74,21 @@
   outline: 2px solid #007bff;
   outline-offset: 1px;
 }
+
+.selected-tag--excluded {
+  background-color: #f8d7da;
+  border-color: #f5c6cb;
+  color: #721c24;
+}
+
+.selected-tag--excluded:hover {
+  background-color: #f5c6cb;
+  border-color: #f1b0b7;
+}
+
+.selected-tag-prefix {
+  font-size: 0.7rem;
+  font-weight: 700;
+  margin-right: 4px;
+  color: #721c24;
+}

@@ -28,7 +28,29 @@
     "Burkina Faso",
     "La Réunion",
     "Ethiopia",
-    "Algeria"
+    "Algeria",
+    "Sierra Leone",
+    "Mozambique",
+    "Madagascar",
+    "Libya",
+    "Sudan",
+    "South Sudan",
+    "Mali",
+    "Chad",
+    "Central African Republic",
+    "Guinea",
+    "Guinea-Bissau",
+    "Equatorial Guinea",
+    "Eritrea",
+    "Djibouti",
+    "Botswana",
+    "Malawi",
+    "Lesotho",
+    "Eswatini",
+    "Cabo Verde",
+    "São Tomé and Príncipe",
+    "Comoros",
+    "Seychelles"
   ],
   "Asia": [
     "Russia",
@@ -40,7 +62,6 @@
     "Thailand",
     "Armenia",
     "Bangladesh",
-    "Dubai",
     "Georgia",
     "Hong Kong",
     "United Arab Emirates",
@@ -60,7 +81,27 @@
     "Saudi Arabia",
     "Kazakhstan",
     "Uzbekistan",
-    "Turkmenistan"
+    "Turkmenistan",
+    "Indonesia",
+    "Bahrain",
+    "Kuwait",
+    "Oman",
+    "Yemen",
+    "Afghanistan",
+    "Myanmar",
+    "Cambodia",
+    "Mongolia",
+    "Maldives",
+    "Bhutan",
+    "Brunei",
+    "Timor-Leste",
+    "Iran",
+    "Iraq",
+    "Syria",
+    "North Korea",
+    "Azerbaijan",
+    "Kyrgyzstan",
+    "Tajikistan"
   ],
   "Central America": [
     "Costa Rica",
@@ -70,7 +111,22 @@
     "El Salvador",
     "Honduras",
     "Trinidad",
-    "Panama"
+    "Panama",
+    "Guatemala",
+    "Cuba",
+    "Jamaica",
+    "Haiti",
+    "Bahamas",
+    "Barbados",
+    "Belize",
+    "Guyana",
+    "Suriname",
+    "Antigua and Barbuda",
+    "Saint Lucia",
+    "Saint Vincent and the Grenadines",
+    "Grenada",
+    "Dominica",
+    "Saint Kitts and Nevis"
   ],
   "Europe": [
     "Spain",
@@ -112,17 +168,36 @@
     "Macedonia",
     "Malta",
     "Ukraine",
-    "Martinique"
+    "Andorra",
+    "Liechtenstein",
+    "Montenegro",
+    "Albania",
+    "Moldova",
+    "San Marino",
+    "Monaco",
+    "Vatican City"
   ],
   "North America": [
     "USA",
     "Canada",
-    "Mexico"
+    "Mexico",
+    "Martinique"
   ],
   "Oceania": [
     "Australia",
     "New Zealand",
-    "Indonesia"
+    "Fiji",
+    "Papua New Guinea",
+    "Samoa",
+    "Tonga",
+    "Vanuatu",
+    "Solomon Islands",
+    "Kiribati",
+    "Nauru",
+    "Palau",
+    "Tuvalu",
+    "Marshall Islands",
+    "Micronesia"
   ],
   "South America": [
     "Argentina",
@@ -131,8 +206,9 @@
     "Peru",
     "Colombia",
     "Bolivia",
-    "Guatemala",
     "Uruguay",
-    "Ecuador"
+    "Ecuador",
+    "Paraguay",
+    "Venezuela"
   ]
 }

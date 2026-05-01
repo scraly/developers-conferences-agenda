@@ -1,9 +1,13 @@
 import React, { useMemo } from 'react';
 import Select from 'react-select';
 import { useTags } from 'app.hooks';
+import { useTranslation } from 'contexts/LanguageContext';
 import 'styles/TagMultiSelect.css';
 
+const MODAL_Z_INDEX = 2147483647;
+
 const TagMultiSelect = ({ selectedTags, onChange, showSelectedTags = true }) => {
+  const { t } = useTranslation();
   const tags = useTags();
 
   const options = useMemo(() => {
@@ -85,11 +89,11 @@ const TagMultiSelect = ({ selectedTags, onChange, showSelectedTags = true }) => 
     }),
     menu: (provided) => ({
       ...provided,
-      zIndex: 9999999
+      zIndex: MODAL_Z_INDEX
     }),
     menuPortal: (provided) => ({
       ...provided,
-      zIndex: 9999999
+      zIndex: MODAL_Z_INDEX
     }),
     multiValue: (provided) => ({
       ...provided,
@@ -126,7 +130,7 @@ const TagMultiSelect = ({ selectedTags, onChange, showSelectedTags = true }) => 
         menuPosition="fixed"
         onChange={handleChange}
         options={options}
-        placeholder="Select tags..."
+        placeholder={t('addEvent.selectTags')}
         styles={customStyles}
         value={selectedValues}
       />

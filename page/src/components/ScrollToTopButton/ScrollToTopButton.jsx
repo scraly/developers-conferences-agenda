@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from 'react';
+import { useTranslation } from 'contexts/LanguageContext';
 import 'styles/ScrollToTopButton.css';
 
 export const ScrollToTopButton = () => {
+  const { t } = useTranslation();
   const [isVisible, setIsVisible] = useState(false);
 
   const toggleVisibility = () => {
@@ -30,7 +32,7 @@ export const ScrollToTopButton = () => {
         className="scroll-to-top"
         onClick={scrollToTop}
       >
-        ↑ Top
+        ↑ {t('common.top')}
       </button>
     )
   );

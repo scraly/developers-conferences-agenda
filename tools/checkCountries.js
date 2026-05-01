@@ -3,7 +3,7 @@ const events = require('../page/src/misc/all-events.json');
 // ISO 3166-1 alpha-2 whitelist (extended for dataset coverage)
 const VALID_COUNTRY_CODES = new Set([
   'AF','AL','DZ','AR','AU','AT','BD','BE','BG','BR','CA','CH','CL','CN','CO','CR','CZ','DE','DK','DO','EC','EE','EG','ES','FI','FR','GB','GH','GR','HK','HR','HU','ID','IE','IL','IN','IQ','IS','IT','JM','JP','KE','KR','KW','KZ','LK','LT','LU','LV','MA','MX','MY','NG','NL','NO','NZ','OM','PA','PE','PH','PK','PL','PT','PY','QA','RO','RS','RU','SA','SE','SG','SI','SK','TH','TN','TR','TW','TZ','UA','UG','US','UY','VN','ZA','ZW',
-  'BA','BY','MK','MT','BF','GE','LB','GM','BI','ZM','SN','LA','BO','SV','KY','NA','HN','NI','GT','UZ','NE','SO','TG','RW','MU','TT','CI','AM','MQ','RE','AE','CD','CG','XK','NP','AO','CM','JO','ET','BJ','TM','LI','MC','AD','ST'
+  'BA','BY','MK','MT','BF','GE','LB','GM','BI','ZM','SN','LA','BO','SV','KY','NA','HN','NI','GT','UZ','NE','SO','TG','RW','MU','TT','CI','AM','MQ','RE','AE','CD','CG','XK','NP','AO','CM','JO','ET','BJ','TM','LI','MC','AD','ST','MZ','SL','BH','AF','AL','AZ','BT','BW','CF','DJ','ER','FJ','GD','GN','GQ','GW','HT','IR','KH','KM','KN','KP','LC','LS','LY','MD','MG','MH','ML','MM','MN','MV','MW','NR','PG','PS','SB','SC','SD','SS','SY','TD','TL','TO','TV','VA','VC','VU','WS','YE'
 ]);
 
 // Accept common country names from the dataset and map them to ISO alpha-2
@@ -150,7 +150,94 @@ const COUNTRY_NAME_TO_CODE = {
   'DEMOCRATIC REPUBLIC OF THE CONGO': 'CD',
   'BOSNIA HERZEGOVINA': 'BA',
   'REPUBLIC OF KOREA': 'KR',
-  'SAO TOME AND PRINCIPE': 'ST'
+  'SAO TOME AND PRINCIPE': 'ST',
+  'MOZAMBIQUE': 'MZ',
+  'SIERRA LEONE': 'SL',
+  'BAHRAIN': 'BH',
+  // Missing African countries
+  'MADAGASCAR': 'MG',
+  'LIBYA': 'LY',
+  'SUDAN': 'SD',
+  'SOUTH SUDAN': 'SS',
+  'MALI': 'ML',
+  'CHAD': 'TD',
+  'CENTRAL AFRICAN REPUBLIC': 'CF',
+  'GUINEA': 'GN',
+  'GUINEA BISSAU': 'GW',
+  'GUINEA-BISSAU': 'GW',
+  'EQUATORIAL GUINEA': 'GQ',
+  'ERITREA': 'ER',
+  'DJIBOUTI': 'DJ',
+  'BOTSWANA': 'BW',
+  'MALAWI': 'MW',
+  'LESOTHO': 'LS',
+  'ESWATINI': 'SZ',
+  'CABO VERDE': 'CV',
+  'CAPE VERDE': 'CV',
+  'COMOROS': 'KM',
+  'SEYCHELLES': 'SC',
+
+  // Missing Asia / Middle East
+  'IRAN': 'IR',
+  'IRAQ': 'IQ',
+  'SYRIA': 'SY',
+  'AFGHANISTAN': 'AF',
+  'MYANMAR': 'MM',
+  'CAMBODIA': 'KH',
+  'MONGOLIA': 'MN',
+  'MALDIVES': 'MV',
+  'BHUTAN': 'BT',
+  'BRUNEI': 'BN',
+  'TIMOR LESTE': 'TL',
+  'TIMOR-LESTE': 'TL',
+  'KUWAIT': 'KW',
+  'OMAN': 'OM',
+  'YEMEN': 'YE',
+  'NORTH KOREA': 'KP',
+  'DEMOCRATIC PEOPLE S REPUBLIC OF KOREA': 'KP',
+
+  // Missing Caribbean / Central America
+  'CUBA': 'CU',
+  'JAMAICA': 'JM',
+  'HAITI': 'HT',
+  'BAHAMAS': 'BS',
+  'BARBADOS': 'BB',
+  'BELIZE': 'BZ',
+  'GUYANA': 'GY',
+  'SURINAME': 'SR',
+  'ANTIGUA AND BARBUDA': 'AG',
+  'SAINT LUCIA': 'LC',
+  'ST LUCIA': 'LC',
+  'SAINT VINCENT AND THE GRENADINES': 'VC',
+  'ST VINCENT AND THE GRENADINES': 'VC',
+  'GRENADA': 'GD',
+  'DOMINICA': 'DM',
+  'SAINT KITTS AND NEVIS': 'KN',
+  'ST KITTS AND NEVIS': 'KN',
+
+  // Missing Oceania
+  'FIJI': 'FJ',
+  'PAPUA NEW GUINEA': 'PG',
+  'SAMOA': 'WS',
+  'TONGA': 'TO',
+  'VANUATU': 'VU',
+  'SOLOMON ISLANDS': 'SB',
+  'KIRIBATI': 'KI',
+  'NAURU': 'NR',
+  'PALAU': 'PW',
+  'TUVALU': 'TV',
+  'MARSHALL ISLANDS': 'MH',
+  'MICRONESIA': 'FM',
+
+  // Missing Europe / others
+  'MOLDOVA': 'MD',
+  'VATICAN': 'VA',
+  'VATICAN CITY': 'VA',
+  'AZERBAIJAN': 'AZ',
+  'KYRGYZSTAN': 'KG',
+  'TAJIKISTAN': 'TJ',
+  'PARAGUAY': 'PY',
+  'VENEZUELA': 'VE'
 };
 
 const VIRTUAL_KEYWORDS = ['virtual', 'virtualized', 'online', 'remote', 'hybrid'];
@@ -311,7 +398,12 @@ function checkCountries(inputEvents) {
     }
 
     // Normalize to uppercase for comparison
-    const codeUpper = normalized.toUpperCase();
+    var codeUpper = normalized.toUpperCase();
+
+    /*if (sourceUpper === 'SIERRA LEONE') {
+      codeUpper = "SL";
+      return;
+    }*/
 
     // Validate format: must be exactly 2 letters for valid ISO 3166-1 alpha-2 codes
     if (!/^[A-Z]{2}$/.test(codeUpper)) {

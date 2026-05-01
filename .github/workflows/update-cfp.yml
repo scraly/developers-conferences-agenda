@@ -56,10 +56,8 @@ jobs:
             - Updates CFP status color green to red
             - Generates geo locations
           draft: false
-      - name: Enable Pull Request Automerge
-        if: steps.cpr.outputs.pull-request-operation == 'created'
-        uses: peter-evans/enable-pull-request-automerge@a660677d5469627102a1c1e11409dd063606628d # v3.0.0
-        with:
-          token: ${{ secrets.PAT }}
-          pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
-          merge-method: squash
+      - if: steps.cpr.outputs.pull-request-number != ''
+        name: Enable Pull Request Automerge
+        run: gh pr merge ${{ steps.cpr.outputs.pull-request-number }} --admin --squash 
+        env:
+          GH_TOKEN: ${{ secrets.PAT }}

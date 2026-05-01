@@ -1,0 +1,70 @@
+.language-selector {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.language-selector-trigger {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.language-selector-trigger:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.language-select {
+  border: none;
+  background: transparent;
+  font-size: 0.9rem;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  outline: none;
+  font-family: inherit;
+}
+
+.language-select:focus {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.language-select option {
+  padding: 0.5rem;
+  background: white;
+  color: #333;
+}
+
+@media (prefers-color-scheme: dark) {
+  .language-selector-trigger:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .language-select:focus {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .language-select option {
+    background: #1a1a1a;
+    color: #fff;
+  }
+}
+
+@media (max-width: 768px) {
+  .language-selector-trigger {
+    padding: 0.25rem;
+  }
+
+  .language-select {
+    font-size: 1.1rem;
+    padding: 0.125rem 0.125rem;
+  }
+  
+  .language-selector-trigger .globe-icon {
+    display: none;
+  }
+}
