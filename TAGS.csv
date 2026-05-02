@@ -2980,3 +2980,10 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-10-AGNTCon + MCPCon Japan,tech:linux,topic:open-source,topic:cloud-native,language:japanese
 2026-11-14-Dynamics 365 Summit 2026,tech:microsoft-dynamics,topic:business-applications,topic:enterprise-software,language:english
 2026-06-25-Agile Tour Toulouse 2026,topic:agile
+2026-08-01-Perth 2026,tech:python,topic:data,topic:open-source,language:english
+2026-10-03-DevFest Modena 2026,tech:web-development,topic:cloud,language:italian
+2026-10-16-Umbraco UK Conference 2026,tech:dotnet,topic:cms,language:english
+2026-10-23-PyHo 2026,tech:python,topic:community,language:english
+2026-10-28-Cloud Native Summit - APAC 2026,tech:cloud-native,topic:devops,language:english
+2026-11-11-Experts Live Emirates 2026,tech:cloud,topic:enterprise,language:english
+2026-11-13-Italian Agile Days 2026,tech:agile,topic:project-management,language:italian
