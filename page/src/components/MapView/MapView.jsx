@@ -96,14 +96,13 @@ const MapView = () => {
             return isFavorite(eventId);
           });
           
+
 const marker = eventsByLocation[loc].map((e, i) => {
   const eventId = `${e.name}-${e.date[0]}`;
   const isFav = isFavorite(eventId);
-  
   return (
     <div className={`event-map-entry ${isFav ? 'favorite-event' : ''}`} key={`ev_${i}`}>
       <ShortDate dates={e.date} />
-
       {e.hyperlink ? (
         <a href={e.hyperlink} rel="noreferrer" target="_blank">
           {e.name}
@@ -111,22 +110,27 @@ const marker = eventsByLocation[loc].map((e, i) => {
       ) : (
         <b>{e.name}</b>
       )}
-
       {/* Attendees */}
       {e.attendees ? (
         <div className="attendees">
           👥 {e.attendees}
         </div>
       ) : null}
-
+      {/* Discount code display */}
+      {e.discount && (
+        <div className="event-discount">
+          Discount: {e.discount.code}
+          {e.discount.percentage && <> ({e.discount.percentage})</>}
+          {e.discount.until && <> until {e.discount.until}</>}
+          {(e.discount.percentage || e.discount.until) && <> )</>}
+        </div>
+      )}
       <span dangerouslySetInnerHTML={{ __html: e.misc }} />
-
       {e.sponsoring ? (
         <a href={e.sponsoring} rel="noreferrer" target="_blank">
           💰
         </a>
       ) : null}
-
       {e.closedCaptions ? (
         <span>
           <img
@@ -135,7 +139,6 @@ const marker = eventsByLocation[loc].map((e, i) => {
           />
         </span>
       ) : null}
-
       <FavoriteButton event={e} />
     </div>
   );

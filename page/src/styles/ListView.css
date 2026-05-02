@@ -1,3 +1,12 @@
+/* Discount badge styling */
+.discount-badge {
+  background: #e6f4ea;
+  color: #2b7a0b;
+  font-size: 0.85em;
+  margin-left: 0.5em;
+  padding: 0.1em 0.4em;
+  border-radius: 3px;
+}
 .listView {
   display: flex;
   gap: 0.5rem;
