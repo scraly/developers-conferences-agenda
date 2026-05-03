@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/scraly-developers-conferences-agenda-badge.png)](https://mseep.ai/app/scraly-developers-conferences-agenda)
+
 # Developers Conferences & CFP Agenda/List/Map
 
 --> [developers.events](https://developers.events) <--
