@@ -455,6 +455,10 @@
     "latitude": 41.5454486,
     "longitude": -8.426506999999999
   },
+  "Brasilia (Brazil)": {
+    "latitude": -10.3333333,
+    "longitude": -53.2
+  },
   "Brasov (Romania)": {
     "latitude": 45.6525105,
     "longitude": 25.6105654
@@ -2450,6 +2454,10 @@
   "Philadelphia, PA (USA)": {
     "latitude": 39.9527237,
     "longitude": -75.1635262
+  },
+  "Phoenix, AR (USA)": {
+    "latitude": 34.8548512,
+    "longitude": -92.2246679
   },
   "Phoenix, AZ (USA)": {
     "latitude": 33.4483771,
