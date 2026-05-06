@@ -37,7 +37,7 @@ Examples of rejected conferences:
 ```
 <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 ```
-* If you know the number of attendees of a conference, add it to the `METADATA.md` file:
+* If you know the number of attendees of a conference, add it to the `METADATA.csv` file:
 ```
 YYYY-MM-DD-Conference Name,attendees:NUMBER
 ```
