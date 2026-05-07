@@ -3017,3 +3017,23 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-12-05-Devopsdays salvador,tech:conference,topic:devops,topic:cloud-computing,language:portuguese
 2026-12-07-APE 2026,tech:conference,topic:artificial-intelligence,topic:software-engineering,language:dutch
 2026-12-10-CloudBrew 2026 - A two-day Microsoft Azure event,tech:conference,topic:cloud-computing,topic:microsoft-azure,language:english
+2026-05-19-Green Code Challenge,tech:cloud,topic:devops,topic:open-source,language:english
+2026-06-09-France API 2026,tech:api,topic:developer-tools,language:french
+2026-06-13-Microsoft Build : Localhost LIMA 2026,tech:cloud,topic:developer-tools,language:english
+2026-06-19-Charlemos de SQL Server,tech:database,topic:sql,language:english
+2026-06-27-Global Fabric Day 2026 - LIMA,tech:cloud,topic:devops,language:english
+2026-07-02-AI Engineer World's Fair 2026,tech:ai,topic:machine-learning,language:english
+2026-08-22-AWS Community Day Sudeste - Belo Horizonte,tech:cloud,topic:aws,language:portuguese
+2026-09-17-AWS Community Day CEE 2026,tech:cloud,topic:aws,language:english
+2026-09-18-M365 Twin Cities 2026,tech:productivity,topic:microsoft-365,language:english
+2026-10-15-AWS North Community Conference,tech:cloud,topic:aws,language:english
+2026-11-09-Agentics Day: MCP + Agents North America,tech:ai,topic:agents,language:english
+2026-11-09-ArgoCon North America,tech:cloud,topic:kubernetes,language:english
+2026-11-09-BackstageCon North America,tech:cloud,topic:kubernetes,language:english
+2026-11-09-CiliumCon North America,tech:cloud,topic:kubernetes,language:english
+2026-11-09-Cloud Native AI & Inference Day North America,tech:ai,topic:inference,language:english
+2026-11-09-FluxCon North America,tech:cloud,topic:kubernetes,language:english
+2026-11-09-Kubernetes on Edge Day North America,tech:cloud,topic:kubernetes,language:english
+2026-11-09-Observability Day North America,tech:cloud,topic:observability,language:english
+2026-11-09-Open Source SecurityCon North America,tech:security,topic:open-source,language:english
+2026-11-09-Platform Engineering Day North America,tech:cloud,topic:platform-engineering,language:english
