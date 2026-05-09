@@ -3046,3 +3046,14 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-22-Agile Tour Bordeaux 2026,tech:agile,topic:methodology,language:french
 2026-11-12-NODES 2026,tech:database,tech:graph,topic:neo4j,language:english
 2026-11-20-Agentic Engineering Day Zurich,tech:ai,tech:agents,topic:engineering,language:english
+2026-05-29-PostgreSQL on Kubernetes,tech:database,topic:kubernetes,topic:postgresql,language:english
+2026-06-09-JetBrains PHPverse,tech:php,topic:development,language:english
+2026-06-26-MariaDB & MySQL on Kubernetes,tech:database,topic:kubernetes,topic:mariadb,topic:mysql,language:english
+2026-09-10-Signals Conference,tech:web,topic:conference,language:english
+2026-09-17-entwickler Summit,tech:software,topic:development,language:german
+2026-09-18-Future Builders,tech:cloud,topic:conference,language:english
+2026-09-26-KCD São Paulo 2026,tech:container,topic:kubernetes,language:portuguese
+2026-10-02-Women in Fabric 2026,tech:open-source,topic:women-in-tech,language:english
+2026-10-06-Linux Foundation Member European Forum,tech:open-source,topic:linux,language:english
+2026-10-20-swampUP Europe,tech:devops,topic:open-source,language:english
+2026-11-02-Open Source Analytics Conference,tech:analytics,topic:open-source,language:english
