@@ -203,6 +203,20 @@ export const Footer = () => {
               />
               <span className="sponsor-name">Zenika</span>
             </a>
+            <a
+              href="https://retcon.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="sponsor-card"
+              title="Retcon"
+            >
+              <img
+                src="https://retcon.app/images/app-icon-light@2x.png"
+                alt="Retcon"
+                className="sponsor-avatar"
+              />
+              <span className="sponsor-name">Retcon</span>
+            </a>
           </div>
 
           <p className="become-sponsor-description">
