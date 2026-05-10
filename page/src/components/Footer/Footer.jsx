@@ -211,7 +211,7 @@ export const Footer = () => {
               title="Retcon"
             >
               <img
-                src="https://retcon.app/images/app-icon-light@2x.png"
+                src="https://retcon.app/images/app-icon-for-circle.png"
                 alt="Retcon"
                 className="sponsor-avatar"
               />
