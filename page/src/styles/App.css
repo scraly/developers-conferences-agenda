@@ -272,8 +272,9 @@ input[type=text] {
   border: 2px solid #555;
 }
 
-.sponsor-name {
+.sponsor-name.sponsor-name { /* doubled class for specificity */
   font-size: 0.85rem;
+  margin: 0;
   color: #ddd;
   font-weight: 500;
 }
