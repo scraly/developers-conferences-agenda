@@ -1431,6 +1431,7 @@ All the data (past and coming) are available publicly in JSON:
 * 24: [Pragma Tokyo 2026](https://ethglobal.com/events/pragma-tokyo2026) - Tokyo (Japan)
 * 24: [React Native Connection 2026](https://reactnativeconnection.io/) - Paris (France) <a href="https://conference-hall.io/react-native-connection-2026"><img alt="CFP React Native Connection 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-June-2026&color=green"></a>
 * 24: [Umbraco Festival Deutschland](https://umbracofestival.de/) - Frankfurt (Germany) <a href="https://sessionize.com/umbraco-germany-festival"><img alt="CFP Umbraco Festival Deutschland" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=green"></a>
+* 24-25: [UX Y’all 2026](https://uxyall.org) - Raleigh, NC (USA) <a href="https://sessionize.com/ux-yall-2026"><img alt="CFP UX Y’all 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-June-2026&color=green"></a>
 * 24-25: [TURN Conference 2026](https://turn-conference.org/) - Weimar (Germany) <a href="https://sessionize.com/turn-conference-26"><img alt="CFP TURN Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=red"></a>
 * 24-25: [BSides Edmonton 2026](https://www.bsidesedmonton.org/) - Edmonton, AB (Canada) <a href="https://sessionize.com/bsides-edmonton-2026"><img alt="CFP BSides Edmonton 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=green"></a>
 * 24-26: [Paris Web 2026](https://www.paris-web.fr) - Paris (France) <a href="https://appel.paris-web.fr/"><img alt="CFP Paris Web 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-April-2026&color=red"></a> <a href="https://www.paris-web.fr/soutenez-paris-web" hreflang="fr"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
@@ -1475,6 +1476,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29-30: [Tech Week Singapore](https://www.singaporetechnologyweek.com) - Singapore (Singapore)
 * 29-30: [Devopsdays Dallas](https://devopsdays.org/events/2026-dallas) - Dallas, TX (USA)
 * 29-30: [Devopsdays Berlin](https://devopsdays.org/events/2026-berlin) - Berlin (Germany)
+* 29-30: [NodeConf EU](https://www.nodeconf.eu) - Bologna (Italy)
 * 30: [Devopsdays Vilnius](https://devopsdays.org/events/2026-vilnius) - Vilnius (Lithuania)
 * 30: [TechSummit Amsterdam](https://techsummit.io) - Amsterdam (Netherlands) <a href="https://pretalx.com/techsummit-2026/cfp"><img alt="CFP TechSummit Amsterdam" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2026&color=green"></a>
 * 30-1/10: [Automotive Grade Linux All Member Meeting Europe](https://events.linuxfoundation.org/agl-amm-europe/) - Berlin (Germany)
