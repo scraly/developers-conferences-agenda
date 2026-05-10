@@ -403,18 +403,22 @@ export const useDayEvents = (monthEvents, day = null) => {
 
         if (e.date[0] && e.date[1] == null) {
           const startDate = new Date(e.date[0])
-          retval = startDate.getDate() === filterDay.getDate()
+          retval = startDate.getDate() === filterDay.getDate() && startDate.getMonth() === filterDay.getMonth() && startDate.getFullYear() === filterDay.getFullYear()
         }
 
         if (e.date[1] && e.date[0] == null) {
           const endDate = new Date(e.date[1])
-          retval = retval || endDate.getDate() === filterDay.getDate()
+          retval = retval || (endDate.getDate() === filterDay.getDate() && endDate.getMonth() === filterDay.getMonth() && endDate.getFullYear() === filterDay.getFullYear())
         }
 
         if (e.date[0] && e.date[1]) {
           const startDate = new Date(e.date[0])
           const endDate = new Date(e.date[1])
-          retval = retval || (filterDay >= startDate && endDate >= filterDay)
+          // Normalize dates to midnight for comparison
+          const filterDayNormalized = new Date(filterDay.getFullYear(), filterDay.getMonth(), filterDay.getDate())
+          const startDateNormalized = new Date(startDate.getFullYear(), startDate.getMonth(), startDate.getDate())
+          const endDateNormalized = new Date(endDate.getFullYear(), endDate.getMonth(), endDate.getDate())
+          retval = retval || (startDateNormalized <= filterDayNormalized && filterDayNormalized <= endDateNormalized)
         }
 
         return retval
