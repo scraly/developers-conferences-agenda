@@ -4,7 +4,7 @@ import {useNavigate, useSearchParams, useParams} from 'react-router-dom';
 import 'styles/SelectedEvents.css';
 import EventDisplay from '../EventDisplay/EventDisplay';
 import EventCount from '../EventCount/EventCount'
-import {formatDate, getTranslatedMonthName} from '../../utils';
+import {createUTCDate, formatDate, getTranslatedMonthName, getUTCMonth, getUTCYear} from '../../utils';
 import {useMonthEvents, useDayEvents, useYearEvents} from 'app.hooks';
 import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
 import { useTranslation } from 'contexts/LanguageContext';
@@ -23,10 +23,10 @@ const SelectedEvents = () => {
   let currentMonth = Number.isNaN(parsedMonth) ? -1 : parsedMonth;
 
   if (currentMonth === -1 && currentDate) {
-    currentMonth = currentDate.getMonth();
+    currentMonth = getUTCMonth(currentDate);
   }
 
-  const resolvedMonth = currentMonth !== -1 ? currentMonth : (currentDate ? currentDate.getMonth() : 0);
+  const resolvedMonth = currentMonth !== -1 ? currentMonth : (currentDate ? getUTCMonth(currentDate) : 0);
 
   const scrollToRef = useRef();
 
@@ -61,13 +61,13 @@ const SelectedEvents = () => {
         />
       );
   } else if (isDayView && currentDate) {
-    const dateYear = currentDate.getFullYear();
-    const firstDay = new Date(dateYear, 0, 1).getTime();
-    const lastDay = new Date(dateYear, 12, 0).getTime();
+    const dateYear = getUTCYear(currentDate);
+    const firstDay = createUTCDate(dateYear, 0, 1).getTime();
+    const lastDay = createUTCDate(dateYear, 11, 31).getTime();
     const today = currentDate.getTime();
     const day = 24 * 60 * 60 * 1000;
     if (today !== firstDay) {
-      const previousDayMonth = new Date(today - day).getMonth();
+      const previousDayMonth = getUTCMonth(new Date(today - day));
       previous = (
         <ArrowLeftCircle
           onClick={() =>
@@ -77,7 +77,7 @@ const SelectedEvents = () => {
       );
     }
     if (today !== lastDay) {
-      const nextDayMonth = new Date(today + day).getMonth();
+      const nextDayMonth = getUTCMonth(new Date(today + day));
       next = (
         <ArrowRightCircle
           onClick={() =>

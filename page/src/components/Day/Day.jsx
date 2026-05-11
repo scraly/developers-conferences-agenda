@@ -30,7 +30,7 @@ const Day = ({date, events}) => {
         navigate(`/${year}/calendar/-1/${date.getTime()}?${searchParams.toString()}`)
       }
     >
-      {date?.getDate() || ''}
+      {date?.getUTCDate() || ''}
     </div>
   );
 };
