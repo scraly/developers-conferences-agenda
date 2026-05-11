@@ -2,11 +2,11 @@ name: CodeQL
 
 on:
   push:
-    branches: [ "main" ]
   pull_request:
-    branches: [ "main" ]
+  merge_group:
   schedule:
     - cron: "0 4 * * 1"
+  workflow_dispatch:
 
 permissions: read-all
 
