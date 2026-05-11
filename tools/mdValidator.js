@@ -24,6 +24,18 @@ const findConfLines = (fileContent, fileName) =>
     }))
     .filter(line => !!line.content.match(confIdentifierPattern))
 
+const hasTrustedShieldsUrl = (text) => {
+    const urls = text.match(/https?:\/\/[^\s"')>]+/g) || []
+    return urls.some((urlString) => {
+        try {
+            const host = new URL(urlString).hostname.toLowerCase()
+            return host === "img.shields.io" || host === "shields.io"
+        } catch {
+            return false
+        }
+    })
+}
+
 const addHints = confLine => {
     const hints = []
     if(!confLine.content.match(/^\*( \[(?<status>[\w ]+)\])? (?<date>\d{1,2}(\/\d{1,2})?(-\d{1,2})?(\/\d{1,2})?)/)){
@@ -45,7 +57,7 @@ const addHints = confLine => {
     if(confLine.content.includes("label=CFP") && !confLine.content.includes("</a>")){
         hints.push("CFP shields should have a link")
     }
-    if(confLine.content.includes("img.shields.io") && !(
+    if(hasTrustedShieldsUrl(confLine.content) && !(
         confLine.content.includes("label=CFP") || confLine.content.includes("Closed%20Captions") || confLine.content.includes("Scholarship") || confLine.content.includes("label=Meetup") || confLine.content.includes("Sponsoring") )){
         hints.push("shields are for 'CFP' or 'Closed Content' or 'Scholarship' or 'Sponsoring' or 'Meetup' with provided format only")
     }
@@ -64,7 +76,7 @@ const addHints = confLine => {
     confLine.content.indexOf("Sponsoring") < confLine.content.indexOf("label=CFP")){
     hints.push("please order your shields : CFP, Sponsoring")
 }
-    if(confLine.content.includes("img.shields.io") && !confLine.content.match(/>\s*$/) ){
+    if(hasTrustedShieldsUrl(confLine.content) && !confLine.content.match(/>\s*$/) ){
         hints.push("please place your shields at the end of the line")
     }
     if(confLine.content.includes("label=CFP") && !confLine.content.match(/<a.*label=CFP.*([a-zA-Z]+-\d{2}-\d{4}|\d{2}-[a-zA-Z]+-\d{4}|\d{4}-[a-zA-Z]+-\d{2})&.*<\/a>/) ){
