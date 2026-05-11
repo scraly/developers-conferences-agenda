@@ -1,13 +1,13 @@
 #!/bin/bash -eu
 
-cd tools
-npm install --save-dev @jazzer.js/core
+PROJECT_DIR="$SRC/developers-conferences-agenda"
+cd "$PROJECT_DIR"
 
 # Copy fuzz tests to the output directory
-cp fuzz/*.js $OUT/
+cp fuzz/*.js "$OUT/"
 
 # Create a package.json for the fuzz targets
-cat > $OUT/package.json << EOF
+cat > "$OUT/package.json" << EOF
 {
   "dependencies": {
     "@jazzer.js/core": "*"
@@ -15,5 +15,5 @@ cat > $OUT/package.json << EOF
 }
 EOF
 
-cd $OUT
+cd "$OUT"
 npm install
