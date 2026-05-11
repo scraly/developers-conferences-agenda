@@ -7,6 +7,54 @@
   padding: 1rem;
 }
 
+.listView .list-months-nav {
+  position: sticky;
+  top: 0.5rem;
+  z-index: 5;
+  align-self: center;
+  width: fit-content;
+  max-width: min(100%, 900px);
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 0.75rem 0.9rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+}
+
+.list-months-nav-label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.list-months-nav-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.list-month-jump-btn {
+  border: 1px solid #ccc;
+  background: #eee;
+  border-radius: 3px;
+  padding: 0.35rem 0.75rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+  line-height: 1.2;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+
+.list-month-jump-btn:hover {
+  background: #ddd;
+  border-color: #bdbdbd;
+}
+
+.list-month-title {
+  scroll-margin-top: 6.5rem;
+}
+
 .listView > * {
   width: 100%;
   display: flex;
@@ -213,6 +261,18 @@
     .listView h1 {
         font-size: 1.25rem;
         margin-bottom: 0.5rem;
+    }
+
+    .list-months-nav {
+        width: 100%;
+        max-width: 100%;
+        padding: 0.5rem;
+        top: 0.25rem;
+    }
+
+    .list-month-jump-btn {
+      font-size: 0.85rem;
+      padding: 0.3rem 0.6rem;
     }
     
     .event-list-entry {

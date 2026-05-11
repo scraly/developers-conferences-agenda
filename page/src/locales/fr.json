@@ -138,7 +138,9 @@
     "ascending": "Croissant",
     "descending": "Décroissant",
     "showPast": "Afficher les événements passés",
-    "hidePast": "Masquer les événements passés"
+    "hidePast": "Masquer les événements passés",
+    "jumpToMonth": "Aller au mois",
+    "jumpToMonthAriaLabel": "Navigation des mois"
   },
   "favorites": {
     "title": "Mes Favoris",

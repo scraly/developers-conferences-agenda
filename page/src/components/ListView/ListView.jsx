@@ -17,6 +17,7 @@ const ListView = () => {
   const { filters, toggleTag } = useFilters();
   const { isFavorite } = useFavoritesContext();
   const { t } = useTranslation();
+  const monthSectionRefs = React.useRef({});
 
   const handleTagClick = (key, value) => {
     toggleTag(key, value);
@@ -66,15 +67,53 @@ const ListView = () => {
 
   const [editEvent, setEditEvent] = React.useState(null);
 
+  const scrollToMonth = (month) => {
+    const monthElement = monthSectionRefs.current[month];
+    if (monthElement) {
+      monthElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  };
+
   return (
     <div className="listView">
+      {monthOrder.length > 1 && (
+        <nav className="list-months-nav" aria-label={t('list.jumpToMonthAriaLabel')}>
+          <span className="list-months-nav-label">{t('list.jumpToMonth')}</span>
+          <div className="list-months-nav-buttons">
+            {monthOrder.map(month => {
+              const monthIndex = getMonthNames().indexOf(month);
+              const translatedMonth = getTranslatedMonthName(monthIndex, t);
+
+              return (
+                <button
+                  key={`jump_${month}`}
+                  className="list-month-jump-btn"
+                  onClick={() => scrollToMonth(month)}
+                  type="button"
+                >
+                  {translatedMonth}
+                </button>
+              );
+            })}
+          </div>
+        </nav>
+      )}
       {monthOrder.map(month => {
         const monthIndex = getMonthNames().indexOf(month);
         const translatedMonth = getTranslatedMonthName(monthIndex, t);
         
         return (
           <React.Fragment key={month}>
-            <h1>{filters.sort === 'cfp' 
+            <h1
+              className="list-month-title"
+              ref={(node) => {
+                if (node) {
+                  monthSectionRefs.current[month] = node;
+                } else {
+                  delete monthSectionRefs.current[month];
+                }
+              }}
+            >{filters.sort === 'cfp' 
               ? t('months.monthCfpDeadlines').replace('{month}', translatedMonth)
               : t('months.monthEvents').replace('{month}', translatedMonth)
             }</h1>
