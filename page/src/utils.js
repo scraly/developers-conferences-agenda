@@ -1,6 +1,29 @@
 const lpad2 = (number) => ('0' + number).slice(-2)
 
-export const formatDate = (date) => date.getFullYear() + '-' + lpad2(date.getMonth() + 1) + '-' + lpad2(date.getDate())
+const asDate = (dateLike) => (dateLike instanceof Date ? dateLike : new Date(dateLike))
+
+export const createUTCDate = (year, month, day) => new Date(Date.UTC(year, month, day))
+
+export const getUTCYear = (dateLike) => asDate(dateLike).getUTCFullYear()
+
+export const getUTCMonth = (dateLike) => asDate(dateLike).getUTCMonth()
+
+export const getUTCDay = (dateLike) => asDate(dateLike).getUTCDate()
+
+export const getUTCDateValue = (dateLike) => Date.UTC(
+  getUTCYear(dateLike),
+  getUTCMonth(dateLike),
+  getUTCDay(dateLike)
+)
+
+export const isSameUTCDate = (leftDate, rightDate) => getUTCDateValue(leftDate) === getUTCDateValue(rightDate)
+
+export const isUTCDateInRange = (date, startDate, endDate) => {
+  const dateValue = getUTCDateValue(date)
+  return getUTCDateValue(startDate) <= dateValue && dateValue <= getUTCDateValue(endDate)
+}
+
+export const formatDate = (date) => getUTCYear(date) + '-' + lpad2(getUTCMonth(date) + 1) + '-' + lpad2(getUTCDay(date))
 
 export const getMonthNames = () => [
   'January',
