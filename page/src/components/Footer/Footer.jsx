@@ -217,6 +217,20 @@ export const Footer = () => {
               />
               <span className="sponsor-name">Retcon</span>
             </a>
+            <a
+              href="https://looties.io/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="sponsor-card"
+              title="Looties"
+            >
+              <img
+                src="https://looties.io/logo_transparent.png"
+                alt="Looties"
+                className="sponsor-avatar"
+              />
+              <span className="sponsor-name">Looties</span>
+            </a>
           </div>
 
           <p className="become-sponsor-description">
