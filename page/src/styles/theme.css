@@ -1,0 +1,144 @@
+/* Light Theme (Default) */
+:root,
+[data-theme="light"] {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8f8f8;
+  --bg-tertiary: #eeeeee;
+  --bg-muted: #e9ecef;
+  --bg-hover: #f5f5f5;
+  --bg-footer: #333333;
+  --bg-overlay: rgba(0, 0, 0, 0.5);
+
+  --text-primary: #333333;
+  --text-secondary: #555555;
+  --text-muted: #666666;
+  --text-faint: #999999;
+  --text-light: #ffffff;
+  --text-footer: #ffffff;
+  --text-footer-secondary: #dddddd;
+  --text-footer-tertiary: #bbbbbb;
+
+  --color-primary: #007bff;
+  --color-primary-dark: #0056b3;
+  --color-primary-focus: rgba(0, 123, 255, 0.25);
+  --color-success: #28a745;
+  --color-success-dark: #218838;
+  --color-danger: #dc3545;
+  --color-danger-dark: #dc2626;
+  --color-danger-focus: rgba(220, 53, 69, 0.25);
+  --color-warning: #f59e0b;
+  --color-cta: #4299e1;
+  --color-favorite: #FF7F50;
+  --color-favorite-bg: #fff8f6;
+
+  --border-color: #cccccc;
+  --border-light: #eeeeee;
+  --border-dark: #aaaaaa;
+
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.15);
+
+  --calendar-intensity-1: rgb(241 245 249);
+  --calendar-intensity-2: rgb(226 232 240);
+  --calendar-intensity-3: rgb(226 232 240);
+  --calendar-intensity-4: rgb(148 163 184);
+  --calendar-intensity-5: rgb(100 116 139);
+  --calendar-intensity-6: rgb(71 85 105);
+  --calendar-intensity-7: rgb(51 65 85);
+  --calendar-intensity-5-text: #fafafa;
+  --calendar-intensity-6-text: #fafafa;
+  --calendar-intensity-7-text: #fafafa;
+
+  --tag-selected-bg: #e3f2fd;
+  --tag-selected-text: #1565c0;
+  --tag-selected-border: #90caf9;
+  --tag-hover-bg: #bbdefb;
+  --tag-hover-border: #64b5f6;
+  --tag-excluded-bg: #f8d7da;
+  --tag-excluded-border: #f5c6cb;
+  --tag-excluded-text: #721c24;
+  --tag-excluded-hover-bg: #f5c6cb;
+  --tag-excluded-hover-border: #f1b0b7;
+
+  --cfp-urgent: #dc2626;
+  --cfp-closing-soon: #f59e0b;
+
+  --scrollbar-track: #f1f1f1;
+  --scrollbar-thumb: #c1c1c1;
+  --scrollbar-thumb-hover: #a8a8a8;
+
+  --calendarGrid-border: black;
+  --scroll-to-top-bg: rgb(51 65 85);
+}
+
+/* Dark Theme (Catppuccin Frappe) */
+[data-theme="dark"] {
+  --bg-primary: #303446;
+  --bg-secondary: #292c3c;
+  --bg-tertiary: #414559;
+  --bg-muted: #51576d;
+  --bg-hover: #3a3d52;
+  --bg-footer: #1e2030;
+  --bg-overlay: rgba(0, 0, 0, 0.7);
+
+  --text-primary: #c6d0f5;
+  --text-secondary: #a5adce;
+  --text-muted: #838ba7;
+  --text-faint: #626880;
+  --text-light: #c6d0f5;
+  --text-footer: #c6d0f5;
+  --text-footer-secondary: #a5adce;
+  --text-footer-tertiary: #838ba7;
+
+  --color-primary: #8caaee;
+  --color-primary-dark: #7699d4;
+  --color-primary-focus: rgba(140, 170, 238, 0.25);
+  --color-success: #a6d189;
+  --color-success-dark: #8bbf6e;
+  --color-danger: #e78284;
+  --color-danger-dark: #cc6666;
+  --color-danger-focus: rgba(231, 130, 132, 0.25);
+  --color-warning: #e5c890;
+  --color-cta: #8caaee;
+  --color-favorite: #f4b8e4;
+  --color-favorite-bg: #3a2a3d;
+
+  --border-color: #51576d;
+  --border-light: #414559;
+  --border-dark: #626880;
+
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.5);
+
+  --calendar-intensity-1: rgb(65 69 89);
+  --calendar-intensity-2: rgb(81 87 109);
+  --calendar-intensity-3: rgb(81 87 109);
+  --calendar-intensity-4: rgb(110 118 148);
+  --calendar-intensity-5: rgb(140 170 238);
+  --calendar-intensity-6: rgb(166 209 137);
+  --calendar-intensity-7: rgb(198 208 245);
+  --calendar-intensity-5-text: #1e2030;
+  --calendar-intensity-6-text: #1e2030;
+  --calendar-intensity-7-text: #1e2030;
+
+  --tag-selected-bg: #1e3a5f;
+  --tag-selected-text: #8caaee;
+  --tag-selected-border: #4a6fa5;
+  --tag-hover-bg: #2a4a75;
+  --tag-hover-border: #5a7fb5;
+  --tag-excluded-bg: #3d1f22;
+  --tag-excluded-border: #7a3540;
+  --tag-excluded-text: #e78284;
+  --tag-excluded-hover-bg: #4d2528;
+  --tag-excluded-hover-border: #8a4050;
+
+  --cfp-urgent: #e78284;
+  --cfp-closing-soon: #e5c890;
+
+  --scrollbar-track: #292c3c;
+  --scrollbar-thumb: #51576d;
+  --scrollbar-thumb-hover: #626880;
+
+  --calendarGrid-border: #51576d;
+  --scroll-to-top-bg: #8caaee;
+}

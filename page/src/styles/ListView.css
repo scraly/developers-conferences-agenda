@@ -17,9 +17,9 @@
 
 .listView .event-list-entry {
   width: inherit;
-  background-color: #f8f8f8;
+  background-color: var(--bg-secondary);
   padding: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid var(--border-color);
   border-radius: 3px;
   display: flex;
   flex-direction: row;
@@ -43,12 +43,12 @@
 }
 
 .listView .event-list-entry.favorite-event {
-  border-left: 4px solid #FF7F50;
-  background-color: #fff8f6;
+  border-left: 4px solid var(--color-favorite);
+  background-color: var(--color-favorite-bg);
 }
 
 .listView .event-list-entry.favorite-event b {
-  color: #FF7F50;
+  color: var(--color-favorite);
 }
 
 .listView .event-list-entry span,
@@ -89,8 +89,8 @@
 
 .event-list-entry > header > .shortDate {
     min-width: 9rem;
-    border-right: 1px solid #ccc;
-    background: #eee;
+    border-right: 1px solid var(--border-color);
+    background: var(--bg-tertiary);
 }
 
 .event-list-entry > header > .event-name-location {
@@ -143,18 +143,18 @@
 }
 
 .event-list-entry > article {
-    border-top: 1px solid #ccc;
+    border-top: 1px solid var(--border-color);
     padding: 1rem;
 }
 
 .event-list-entry > footer {
-    border-top: 1px solid #ccc;
-    background-color: #eee;
+    border-top: 1px solid var(--border-color);
+    background-color: var(--bg-tertiary);
     padding: 0.5rem;
 }
 
 .event-list-entry .cfp-date {
-  color: #666;
+  color: var(--text-muted);
   font-style: italic;
   margin-left: 10px;
 }
@@ -163,7 +163,7 @@
 .attendees {
   margin-left: 0.4rem;
   font-size: 0.9rem;
-  color: #555;
+  color: var(--text-secondary);
   white-space: nowrap;
 }
 
@@ -188,7 +188,7 @@
 .attendees {
   margin-left: 0.4rem;
   font-size: 0.9rem;
-  color: #555;
+  color: var(--text-secondary);
   white-space: nowrap;
 }
 
@@ -226,7 +226,7 @@
 .attendees {
   margin-left: 0.4rem;
   font-size: 0.9rem;
-  color: #555;
+  color: var(--text-secondary);
   white-space: nowrap;
 }
 
@@ -276,7 +276,7 @@
 .attendees {
   margin-left: 0.4rem;
   font-size: 0.9rem;
-  color: #555;
+  color: var(--text-secondary);
   white-space: nowrap;
 }
 
@@ -307,7 +307,7 @@
 .attendees {
   margin-left: 0.4rem;
   font-size: 0.9rem;
-  color: #555;
+  color: var(--text-secondary);
   white-space: nowrap;
 }
 

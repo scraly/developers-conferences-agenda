@@ -2,9 +2,9 @@
   position: absolute;
   right: 1rem;
   padding: 0px;
-  border: 1px solid #ccc;
+  border: 1px solid var(--border-color);
   border-radius: 3px;
-  background: #eee;
+  background: var(--bg-tertiary);
   display: flex;
   align-items: center;
 }
@@ -12,11 +12,11 @@
 .view-type-selector .view-selector {
   cursor: pointer;
   padding: 5px;
-  border-left: 1px solid #ccc;
+  border-left: 1px solid var(--border-color);
 }
 
 .view-type-selector .view-selector.selected {
-  background: #ddd;
+  background: var(--bg-muted);
 }
 
 .view-type-selector .view-selector:first-child {
