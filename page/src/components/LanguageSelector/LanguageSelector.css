@@ -27,6 +27,7 @@
   border-radius: 0.25rem;
   outline: none;
   font-family: inherit;
+  color: var(--text-primary);
 }
 
 .language-select:focus {
@@ -35,23 +36,16 @@
 
 .language-select option {
   padding: 0.5rem;
-  background: white;
-  color: #333;
+  background: var(--bg-primary);
+  color: var(--text-primary);
 }
 
-@media (prefers-color-scheme: dark) {
-  .language-selector-trigger:hover {
-    background-color: rgba(255, 255, 255, 0.1);
-  }
+[data-theme="dark"] .language-selector-trigger:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
 
-  .language-select:focus {
-    background-color: rgba(255, 255, 255, 0.1);
-  }
-
-  .language-select option {
-    background: #1a1a1a;
-    color: #fff;
-  }
+[data-theme="dark"] .language-select:focus {
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 @media (max-width: 768px) {
