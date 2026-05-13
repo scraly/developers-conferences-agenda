@@ -1,11 +1,11 @@
 .filters {
-    border-right: 1px solid #ccc;
+    border-right: 1px solid var(--border-color);
     transition: 1s;
     position: fixed;
     top: 0;
     left: 0;
     z-index: 999999;
-    background: white;
+    background: var(--bg-primary);
     height: 100%;
     width: 300px;
     box-sizing: border-box;
@@ -29,10 +29,10 @@
 
 .filters .lucide-filter, .filters .lucide-filter-x {
     min-width: 24px;
-    background: #eee;
+    background: var(--bg-tertiary);
     padding: 5px;
     border-radius: 0 3px 3px 0;
-    border: 1px solid #ccc;
+    border: 1px solid var(--border-color);
 }
 
 .tags-toggle-container {
@@ -42,8 +42,8 @@
 }
 
 .filters .tags-toggle-container .tags-toggle-button {
-    background: #eee;
-    border: 1px solid #ccc;
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
     border-radius: 0 3px 3px 0;
     padding: 9px;
     cursor: pointer;
@@ -57,8 +57,8 @@
 }
 
 .filters .tags-toggle-container .tags-toggle-button:hover {
-    background: #ddd;
-    border-color: #999;
+    background: var(--bg-muted);
+    border-color: var(--border-dark);
     transform: none;
     box-shadow: none;
 }
@@ -83,7 +83,7 @@
 
 .filters.open {
     transform: translateX(0%);
-    border-color: #cccccc;
+    border-color: var(--border-color);
 }
 
 .filters.closed {
@@ -126,7 +126,7 @@
 .filters .filtersItem input[type="date"] {
     padding: 0.5rem 1rem;
     width: 100%;
-    border: solid 1px #aaa;  
+    border: solid 1px var(--border-dark);
 }
 
 .filters .filtersItem label {
@@ -145,7 +145,7 @@
     background: transparent;
     margin-top: 10px;
     margin-bottom: 10px;
-    border: 1px solid #aaa;
+    border: 1px solid var(--border-dark);
 }
 
 #filter-until{
@@ -166,8 +166,8 @@
 }
 
 .filters .favorites-toggle-container .favorites-toggle-button {
-    background: #eee;
-    border: 1px solid #ccc;
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
     border-radius: 0 3px 3px 0;
     padding: 9px;
     cursor: pointer;
@@ -181,8 +181,8 @@
 }
 
 .filters .favorites-toggle-container .favorites-toggle-button:hover {
-    background: #ddd;
-    border-color: #999;
+    background: var(--bg-muted);
+    border-color: var(--border-dark);
     transform: none;
     box-shadow: none;
 }
@@ -197,17 +197,17 @@
     width: 100%;
     padding: 8px 16px;
     margin: 12px 0;
-    background: #f8f9fa;
-    border: 1px solid #dee2e6;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-light);
     border-radius: 4px;
     font-size: 0.875rem;
     font-weight: 600;
-    color: #495057;
+    color: var(--text-secondary);
     cursor: pointer;
     transition: all 0.15s ease-in-out;
 }
 
 .clear-all-filters:hover {
-    background: #e9ecef;
-    border-color: #ced4da;
+    background: var(--bg-muted);
+    border-color: var(--border-color);
 }

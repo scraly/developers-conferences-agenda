@@ -1,7 +1,7 @@
 .add-event-overlay {
   position: fixed;
   inset: 0;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: var(--bg-overlay);
   display: grid;
   place-items: center;
   padding: 1rem;
@@ -10,13 +10,13 @@
 }
 
 .add-event-form {
-  background: white;
+  background: var(--bg-primary);
   border-radius: 8px;
   width: 90%;
   max-width: 600px;
   max-height: min(90vh, 90dvh);
   overflow-y: auto;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--shadow-md);
 }
 
 .add-event-header {
@@ -24,12 +24,12 @@
   justify-content: space-between;
   align-items: center;
   padding: 1.5rem;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid var(--border-light);
 }
 
 .add-event-header h2 {
   margin: 0;
-  color: #333;
+  color: var(--text-primary);
   font-size: 1.5rem;
 }
 
@@ -38,7 +38,7 @@
   border: none;
   font-size: 1.5rem;
   cursor: pointer;
-  color: #666;
+  color: var(--text-muted);
   padding: 0;
   width: 30px;
   height: 30px;
@@ -49,8 +49,8 @@
 }
 
 .close-button:hover {
-  background-color: #f5f5f5;
-  color: #333;
+  background-color: var(--bg-hover);
+  color: var(--text-primary);
 }
 
 .add-event-form form {
@@ -71,7 +71,7 @@
   display: block;
   margin-bottom: 0.5rem;
   font-weight: 500;
-  color: #333;
+  color: var(--text-primary);
 }
 
 .checkbox-label {
@@ -93,7 +93,7 @@
 .form-group input[type="date"] {
   width: 100%;
   padding: 0.5rem 1rem;
-  border: 1px solid #ccc;
+  border: 1px solid var(--border-color);
   border-radius: 4px;
   font-size: 1rem;
   box-sizing: border-box;
@@ -105,21 +105,21 @@
 .form-group input[type="url"]:focus,
 .form-group input[type="date"]:focus {
   outline: none;
-  border-color: #007bff;
-  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 2px var(--color-primary-focus);
 }
 
 .form-group input.error {
-  border-color: #dc3545;
+  border-color: var(--color-danger);
 }
 
 .form-group input.error:focus {
-  border-color: #dc3545;
-  box-shadow: 0 0 0 2px rgba(220, 53, 69, 0.25);
+  border-color: var(--color-danger);
+  box-shadow: 0 0 0 2px var(--color-danger-focus);
 }
 
 .error-message {
-  color: #dc3545;
+  color: var(--color-danger);
   font-size: 0.875rem;
   margin-top: 0.25rem;
   display: block;
@@ -131,7 +131,7 @@
   justify-content: flex-end;
   margin-top: 2rem;
   padding-top: 1rem;
-  border-top: 1px solid #eee;
+  border-top: 1px solid var(--border-light);
 }
 
 .cancel-button,
@@ -155,12 +155,12 @@
 }
 
 .submit-button {
-  background-color: #007bff;
+  background-color: var(--color-primary);
   color: white;
 }
 
 .submit-button:hover {
-  background-color: #0056b3;
+  background-color: var(--color-primary-dark);
 }
 
 .submit-button:disabled {

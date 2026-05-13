@@ -1,10 +1,10 @@
 .eventCell {
   padding: 1rem;
   border-radius: 3px;
-  background: #eee;
+  background: var(--bg-tertiary);
   display: flex;
   flex-direction: column;
-  border: 1px solid #ccc;
+  border: 1px solid var(--border-color);
 }
 
 .eventCell .content {
@@ -24,7 +24,7 @@
 .attendees {
   margin-left: 0.5rem;
   font-size: 0.9rem;
-  color: #555;
+  color: var(--text-secondary);
   white-space: nowrap;
 }
 
@@ -41,16 +41,16 @@
 }
 
 .eventCell.favorite-event {
-  border-left: 4px solid #FF7F50;
-  background: #fff8f6;
+  border-left: 4px solid var(--color-favorite);
+  background: var(--color-favorite-bg);
 }
 
 .eventCell.favorite-event .content b {
-  color: #FF7F50;
+  color: var(--color-favorite);
 }
 
 .eventCell a {
-  color: blue;
+  color: var(--color-primary);
 }
 
 .eventCell .when {
