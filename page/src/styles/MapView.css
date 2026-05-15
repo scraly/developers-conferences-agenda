@@ -19,6 +19,14 @@
     overflow: hidden;
     min-width: 300px;
     width: auto;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow-md);
+}
+
+.mapView .leaflet-popup-tip {
+    background: var(--bg-primary);
 }
 
 .mapView .leaflet-popup-content {

@@ -12,24 +12,24 @@
 .filter-multiselect__label {
   font-size: 0.875rem;
   font-weight: 600;
-  color: #495057;
+  color: var(--text-primary);
 }
 
 .filter-mode-toggle {
-  background: #e9ecef;
-  border: 1px solid #dee2e6;
+  background: var(--bg-muted);
+  border: 1px solid var(--border-light);
   border-radius: 4px;
   padding: 2px 8px;
   font-size: 0.75rem;
   font-weight: 600;
   cursor: pointer;
-  color: #495057;
+  color: var(--text-secondary);
   transition: all 0.15s ease-in-out;
 }
 
 .filter-mode-toggle:hover {
-  background: #dee2e6;
-  border-color: #ced4da;
+  background: var(--bg-tertiary);
+  border-color: var(--border-color);
 }
 
 .filter-chip {
@@ -43,15 +43,15 @@
 }
 
 .filter-chip--included {
-  background-color: #d4edda;
-  border: 1px solid #c3e6cb;
-  color: #155724;
+  background-color: var(--tag-selected-bg);
+  border: 1px solid var(--tag-selected-border);
+  color: var(--tag-selected-text);
 }
 
 .filter-chip--excluded {
-  background-color: #f8d7da;
-  border: 1px solid #f5c6cb;
-  color: #721c24;
+  background-color: var(--tag-excluded-bg);
+  border: 1px solid var(--tag-excluded-border);
+  color: var(--tag-excluded-text);
 }
 
 .filter-chip__toggle {
@@ -69,11 +69,11 @@
 }
 
 .filter-chip--included .filter-chip__toggle:hover {
-  background-color: #c3e6cb;
+  background-color: var(--tag-hover-bg);
 }
 
 .filter-chip--excluded .filter-chip__toggle:hover {
-  background-color: #f5c6cb;
+  background-color: var(--tag-excluded-hover-bg);
 }
 
 .filter-chip__label {
