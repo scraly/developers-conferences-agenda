@@ -8,6 +8,11 @@ export const useTheme = () => {
   return context;
 };
 
+const applyTheme = (t) => {
+  document.documentElement.setAttribute('data-theme', t);
+  localStorage.setItem('theme', t);
+};
+
 export const ThemeProvider = ({ children }) => {
   const [theme, setTheme] = useState(() => {
     const saved = localStorage.getItem('theme');
@@ -15,12 +20,19 @@ export const ThemeProvider = ({ children }) => {
     return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
   });
 
+  // Apply on mount (handles SSR/hydration edge-cases)
   useEffect(() => {
-    document.documentElement.setAttribute('data-theme', theme);
-    localStorage.setItem('theme', theme);
-  }, [theme]);
+    applyTheme(theme);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
-  const toggleTheme = () => setTheme(t => t === 'light' ? 'dark' : 'light');
+  const toggleTheme = () => {
+    const next = theme === 'light' ? 'dark' : 'light';
+    // Set data-theme synchronously BEFORE setTheme so that any component
+    // subscribing via useTheme() reads the updated CSS variables during its
+    // re-render (e.g. react-select's customStyles calling getComputedStyle).
+    applyTheme(next);
+    setTheme(next);
+  };
 
   return (
     <ThemeContext.Provider value={{ theme, toggleTheme }}>

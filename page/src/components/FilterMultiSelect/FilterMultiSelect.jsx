@@ -1,6 +1,7 @@
 import React, { useMemo, useCallback } from 'react';
 import Select, { components } from 'react-select';
 import { X } from 'lucide-react';
+import { useTheme } from 'contexts/ThemeContext';
 import 'styles/FilterMultiSelect.css';
 
 const FilterMultiSelect = ({
@@ -115,28 +116,29 @@ const FilterMultiSelect = ({
     );
   }, [handleExcludeToggle, handleRemoveValue]);
 
-  const cssVar = (name) =>
-    typeof document !== 'undefined'
-      ? getComputedStyle(document.documentElement).getPropertyValue(name).trim()
-      : '';
+  // Subscribe to theme — causes re-render on toggle so customStyles updates
+  const { theme } = useTheme();
+
+  // Color tokens per theme, mirroring theme.css variables.
+  // Hardcoded here (not read via getComputedStyle) so react-select/Emotion
+  // always receives the correct values synchronously during the re-render.
+  const tok = theme === 'dark'
+    ? { bg: '#303446', bgAlt: '#292c3c', bgHover: '#3a3d52', text: '#c6d0f5', muted: '#838ba7', border: '#51576d', primary: '#8caaee' }
+    : { bg: '#ffffff', bgAlt: '#f8f8f8', bgHover: '#f5f5f5', text: '#333333', muted: '#666666', border: '#cccccc', primary: '#007bff' };
 
   const customStyles = {
     control: (provided, state) => ({
       ...provided,
-      backgroundColor: cssVar('--bg-secondary') || provided.backgroundColor,
-      borderColor: state.isFocused
-        ? cssVar('--color-primary') || '#007bff'
-        : cssVar('--border-color') || '#ccc',
-      boxShadow: state.isFocused
-        ? `0 0 0 1px ${cssVar('--color-primary') || '#007bff'}`
-        : 'none',
-      '&:hover': { borderColor: cssVar('--color-primary') || '#007bff' }
+      backgroundColor: tok.bgAlt,
+      borderColor: state.isFocused ? tok.primary : tok.border,
+      boxShadow: state.isFocused ? `0 0 0 1px ${tok.primary}` : 'none',
+      '&:hover': { borderColor: tok.primary }
     }),
     menu: (provided) => ({
       ...provided,
       zIndex: 9999999,
-      backgroundColor: cssVar('--bg-primary') || provided.backgroundColor,
-      border: `1px solid ${cssVar('--border-color') || '#ccc'}`
+      backgroundColor: tok.bg,
+      border: `1px solid ${tok.border}`
     }),
     menuPortal: (provided) => ({
       ...provided,
@@ -144,23 +146,21 @@ const FilterMultiSelect = ({
     }),
     option: (provided, state) => ({
       ...provided,
-      backgroundColor: state.isFocused
-        ? cssVar('--bg-hover') || provided.backgroundColor
-        : cssVar('--bg-primary') || provided.backgroundColor,
-      color: cssVar('--text-primary') || provided.color,
+      backgroundColor: state.isFocused ? tok.bgHover : tok.bg,
+      color: tok.text,
       cursor: 'pointer'
     }),
     placeholder: (provided) => ({
       ...provided,
-      color: cssVar('--text-muted') || provided.color
+      color: tok.muted
     }),
     singleValue: (provided) => ({
       ...provided,
-      color: cssVar('--text-primary') || provided.color
+      color: tok.text
     }),
     input: (provided) => ({
       ...provided,
-      color: cssVar('--text-primary') || provided.color
+      color: tok.text
     }),
     multiValue: (provided) => ({
       ...provided,
