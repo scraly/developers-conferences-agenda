@@ -225,7 +225,7 @@ export const Footer = () => {
               title="Looties"
             >
               <img
-                src="https://looties.io/logo_transparent.png"
+                src="https://looties.io/logos/looties-logo.png"
                 alt="Looties"
                 className="sponsor-avatar"
               />
