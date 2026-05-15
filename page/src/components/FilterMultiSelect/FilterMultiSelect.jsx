@@ -115,20 +115,52 @@ const FilterMultiSelect = ({
     );
   }, [handleExcludeToggle, handleRemoveValue]);
 
+  const cssVar = (name) =>
+    typeof document !== 'undefined'
+      ? getComputedStyle(document.documentElement).getPropertyValue(name).trim()
+      : '';
+
   const customStyles = {
     control: (provided, state) => ({
       ...provided,
-      borderColor: state.isFocused ? '#007bff' : '#ccc',
-      boxShadow: state.isFocused ? '0 0 0 1px #007bff' : 'none',
-      '&:hover': { borderColor: '#007bff' }
+      backgroundColor: cssVar('--bg-secondary') || provided.backgroundColor,
+      borderColor: state.isFocused
+        ? cssVar('--color-primary') || '#007bff'
+        : cssVar('--border-color') || '#ccc',
+      boxShadow: state.isFocused
+        ? `0 0 0 1px ${cssVar('--color-primary') || '#007bff'}`
+        : 'none',
+      '&:hover': { borderColor: cssVar('--color-primary') || '#007bff' }
     }),
     menu: (provided) => ({
       ...provided,
-      zIndex: 9999999
+      zIndex: 9999999,
+      backgroundColor: cssVar('--bg-primary') || provided.backgroundColor,
+      border: `1px solid ${cssVar('--border-color') || '#ccc'}`
     }),
     menuPortal: (provided) => ({
       ...provided,
       zIndex: 9999999
+    }),
+    option: (provided, state) => ({
+      ...provided,
+      backgroundColor: state.isFocused
+        ? cssVar('--bg-hover') || provided.backgroundColor
+        : cssVar('--bg-primary') || provided.backgroundColor,
+      color: cssVar('--text-primary') || provided.color,
+      cursor: 'pointer'
+    }),
+    placeholder: (provided) => ({
+      ...provided,
+      color: cssVar('--text-muted') || provided.color
+    }),
+    singleValue: (provided) => ({
+      ...provided,
+      color: cssVar('--text-primary') || provided.color
+    }),
+    input: (provided) => ({
+      ...provided,
+      color: cssVar('--text-primary') || provided.color
     }),
     multiValue: (provided) => ({
       ...provided,
