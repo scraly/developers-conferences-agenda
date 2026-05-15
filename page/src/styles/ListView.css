@@ -349,3 +349,12 @@
 .event-list-entry a:hover {
   text-decoration: underline;
 }
+
+.edit-inline-btn {
+  color: var(--text-primary);
+}
+
+.edit-inline-btn:hover {
+  color: var(--color-primary);
+  opacity: 0.85;
+}

@@ -142,7 +142,8 @@
     padding: 0.5rem 1rem;
     width: 100%;
     display: block;
-    background: transparent;
+    background: var(--bg-secondary);
+    color: var(--text-primary);
     margin-top: 10px;
     margin-bottom: 10px;
     border: 1px solid var(--border-dark);
