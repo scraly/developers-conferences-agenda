@@ -11,12 +11,12 @@
 }
 
 .cfp-deadline.cfp-urgent {
-  color: #dc2626;
+  color: var(--cfp-urgent);
   font-weight: 600;
 }
 
 .cfp-deadline.cfp-closing-soon {
-  color: #f59e0b;
+  color: var(--cfp-closing-soon);
   font-weight: 600;
 }
 

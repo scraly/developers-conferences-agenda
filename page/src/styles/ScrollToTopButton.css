@@ -4,7 +4,7 @@
     bottom: 20px;
     right: 20px;
     padding: 10px;
-    background-color: rgb(51 65 85);
+    background-color: var(--scroll-to-top-bg);
     color: #fff;
     border: none;
     border-radius: 5px;
