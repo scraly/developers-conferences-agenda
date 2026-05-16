@@ -3082,3 +3082,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-16-AWS Community Day Australia, 2026,tech:aws,topic:cloud,topic:community,language:english
 2026-10-24-Kubernetes Community Days Indonesia 2026,tech:kubernetes,topic:cloud-native,topic:indonesia,language:indonesian
 2026-11-24-SmartCloud 365 - 2026,tech:microsoft,topic:365,topic:cloud,language:german
+2026-09-11-Go Conference 2026,tech:go,topic:cloud,topic:software-engineering,language:japanese
+2026-09-26-1nn0vAI 2026,tech:ai,tech:ml,topic:innovation,language:italian
+2026-10-03-PyBay2026,tech:python,topic:software-engineering,topic:data,language:english
+2026-10-23-Open Source Observability Day 2026,tech:observability,topic:monitoring,topic:open-source,language:english
