@@ -1562,6 +1562,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-13: [PyCon Greece 2026](https://2026.pycon.gr) - Athens (Greece)
 * 12-14: [SwiftLeeds](https://swiftleeds.co.uk) - Leeds (UK)
 * 12-14: [dataMinds Connect 2026](http://datamindsconnect.be) - Mechelen (Belgium) <a href="https://sessionize.com/dataminds-connect-2026"><img alt="CFP dataMinds Connect 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-May-2026&color=green"></a>
+* 12-14: [M365 Summit Mainz 12.-14. Oktober 2026](https://events.m365-summits.de/M365SummitMainzOktober#/) - Online <a href="https://sessionize.com/m365-summit-mainz-12-14-oktober-2026/"><img alt="CFP M365 Summit Mainz 12.-14. Oktober 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-August-2026&color=green"></a>
 * 12-15: [dev2next](https://www.dev2next.com) - Lone Tree, CO (USA)
 * 12-15: [SmashingConf Antwerp](https://smashingconf.com/antwerp-2026) - Antwerp (Belgium) <a href="https://smashingconf.com/antwerp-2026/partners"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
 * 12-16: [JavaScript & Angular Days](https://javascript-days.de/berlin) - Berlin (Germany)
@@ -1652,6 +1653,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29-30: [Wey Wey Web](https://weyweyweb.com) - Malaga (Spain) <a href="https://confeti.app/events/weyweyweb-2026"><img alt="CFP Wey Wey Web" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=red"></a>
 * 29-30: [BDX I/O 2026](https://bdxio.fr/) - Bordeaux (France) <a href="https://conference-hall.io/bdx-i-o-2026"><img alt="CFP BDX I/O 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-June-2026&color=green"></a>
 * 29-30: [Dutch Cloud Native Day 2026](https://dutchcloudnativeday.nl) - Utrecht (Netherlands) <a href="https://sessionize.com/dutch-cloud-native-day-2026"><img alt="CFP Dutch Cloud Native Day 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-June-2026&color=green"></a>
+* 29-30: [Agile Tour Nantais 2026](https://agilenantes.org/evenements/agile-tour-nantes/agile-tour-nantais-2026/) - Nantes (France) <a href="https://conference-hall.io/cloud-nord-2026"><img alt="CFP Agile Tour Nantais 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-June-2026&color=green"></a>
 * 26-30: [International JavaScript Conference Munich 2026](https://javascript-conference.com/muenchen/) - Munich (Germany)
 * 30: [Cloud Nord 2026](https://cloudnord.fr/) - Lille (France) <a href="https://conference-hall.io/cloud-nord-2026"><img alt="CFP Cloud Nord 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-June-2026&color=green"></a> <a href="https://canva.link/y9pfulvn2y4jgrm"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 30: [Product Management Day 2026](https://www.productmanagementday.com/) - Bologna (Italy) <a href="https://sessionize.com/product-management-day-2026"><img alt="CFP Product Management Day 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2026&color=red"></a>
@@ -1810,6 +1812,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12: [GHI CON](https://gingerhacker.org/) - Online <a href="https://sessionize.com/ghi-con"><img alt="CFP GHI CON" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-August-2026&color=green"></a>
 * 15-25: ["12 Reasons Why" with Tech Experts  - Season 2](https://12reasons.theazway.com) - Online <a href="https://sessionize.com/12-reasons-why-with-tech-experts-co"><img alt="CFP '12 Reasons Why' with Tech Experts  - Season 2" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2026&color=green"></a>
 * 17-18: [AI for Developers](https://aiconference.dev/) - Online <a href="https://aiconference.dev/cfp"><img alt="CFP AI for Developers" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=green"></a>
+* 18: [BSides RDU 2026](https://bsidesrdu.org) - Raleigh, NC (USA) <a href="https://sessionize.com/bsides-rdu-2026"><img alt="CFP BSides RDU 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2026&color=green"></a>
 
 ## 2027
 
