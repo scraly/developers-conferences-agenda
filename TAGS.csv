@@ -3090,3 +3090,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-28-Rocky Mountain Ruby 2026,tech:ruby,topic:web-development,topic:programming,language:english
 2026-11-18-Molding Conference 2026,tech:manufacturing,topic:innovation,topic:engineering,language:english
 2026-11-24-WPC 2026,tech:education,topic:technology,topic:training,language:italian
+2026-09-17-Podcast Movement New York City,tech:python,topic:data,topic:open-source,language:english
+2026-11-19-OVHcloud Summit,tech:cloud,topic:infrastructure,language:french
+2026-11-20-PyCon Wroclaw 2026,tech:python,topic:software-development,language:polish
+2026-12-09-KCD Suisse Romande 2026,tech:cloud,topic:kubernetes,language:french
