@@ -351,7 +351,7 @@
     "latitude": 60.3943055,
     "longitude": 5.3259192
   },
-  "Berkeley (USA)": {
+  "Berkeley, CA (USA)": {
     "latitude": 37.8708393,
     "longitude": -122.272863
   },
@@ -1266,6 +1266,10 @@
   "Hanau (Germany)": {
     "latitude": 50.1264123,
     "longitude": 8.9283105
+  },
+  "Hanau am Main (Germany)": {
+    "latitude": 50.1217213,
+    "longitude": 8.9085545
   },
   "Hangzhou (China)": {
     "latitude": 30.2741499,
