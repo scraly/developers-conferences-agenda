@@ -1552,6 +1552,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8: [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) - Prague (Czechia)
 * 8: [Linux Kernel Maintainer Summit](https://events.linuxfoundation.org/linux-kernel-maintainer-summit/) - Prague (Czechia)
 * 8-9: [Pycon Estonia](https://pycon.ee) - Tallinn (Estonia)
+* 8-9: [Forum PHP 2026](https://event.afup.org/) - Marne-la-Vallée (France) <a href="https://afup.org/event/forumphp2026"><img alt="CFP Forum PHP 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-June-2026&color=green"></a>
 * 9-10: [Data Saturday Holland 2026](https://datasaturday.nl) - Utrecht (Netherlands) <a href="https://sessionize.com/data-saturday-holland-2026"><img alt="CFP Data Saturday Holland 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=green"></a>
 * 10: [Data Saturdays Sofia 2026](https://datasaturday-2025.eventbrite.nl) - Sofia (Bulgaria) <a href="https://sessionize.com/data-saturdays-sofia-2026"><img alt="CFP Data Saturdays Sofia 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=green"></a>
 * 10: [Lakehouse Day EU 2026](https://communityovercode.org/lakehouse-day/) - Glasgow (UK) <a href="https://sessionize.com/lakehouse-day-2026"><img alt="CFP Lakehouse Day EU 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-March-2026&color=red"></a>
