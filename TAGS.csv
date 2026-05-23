@@ -3100,3 +3100,24 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-29-Agile Tour Nantais 2026,tech:agile,topic:software-development,topic:methodology,language:french
 2026-12-18-BSides RDU 2026,tech:cybersecurity,topic:information-security,topic:conference,language:english
 2026-09-03-Flutter & Friends,tech:flutter
+2026-06-06-Microsoft Build 2026 Community Edition RRR,tech:microsoft,topic:azure,topic:cloud,language:english
+2026-06-13-Microsoft Build //localhost:capetown,tech:microsoft,topic:azure,topic:cloud,language:english
+2026-07-03-AI Connect,tech:ai,topic:artificial-intelligence,language:english
+2026-08-19-Kubeflow Community Showcase 2026: GenAI and MLOps in Action,tech:ai,topic:ml,topic:kubernetes,language:english
+2026-08-22-AI Connect 2026,tech:ai,topic:artificial-intelligence,language:english
+2026-09-10-BSides Belfast 2026,tech:security,topic:cybersecurity,language:english
+2026-09-10-Zeek Workshop Berkeley 2026,tech:networking,topic:security,language:english
+2026-09-25-BSides Orlando 2026,tech:security,topic:cybersecurity,language:english
+2026-10-08-Forum PHP 2026,tech:php,topic:web-development,language:french
+2026-10-10-Devfest Milano 2026,tech:javascript,topic:web-development,language:italian
+2026-10-12-M365 Summit Mainz,tech:microsoft,topic:office365,language:english
+2026-10-16-MorcillaConf 2026,tech:php,topic:web-development,language:spanish
+2026-10-21-Agentic Build Day / New Zealand,tech:microsoft,topic:azure,topic:cloud,language:english
+2026-10-23-Devopsdays bogota,tech:devops,topic:cloud,language:spanish
+2026-10-26-SAINTCON Training 2026,tech:security,topic:cybersecurity,language:english
+2026-10-26-SAINTCON 2026,tech:security,topic:cybersecurity,language:english
+2026-11-04-KCD Budapest 2026,tech:cloud,topic:kubernetes,language:english
+2026-11-13-ffconf,tech:web,topic:frontend,language:english
+2026-11-19-Swift Bharat 2026,tech:swift,topic:mobile-development,language:english
+2026-11-19-X-Ops Conference Madrid 2026,tech:devops,topic:cloud,language:spanish
+2027-02-22-SQL Konferenz 2027,tech:database,topic:sql,language:german
