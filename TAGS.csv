@@ -3121,3 +3121,23 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-19-Swift Bharat 2026,tech:swift,topic:mobile-development,language:english
 2026-11-19-X-Ops Conference Madrid 2026,tech:devops,topic:cloud,language:spanish
 2027-02-22-SQL Konferenz 2027,tech:database,topic:sql,language:german
+2026-05-30-Barcamp Graz,tech:web,topic:community,location:graz
+2026-06-02-AI Native DevCon London 2026,tech:ai,topic:cloud,location:london
+2026-06-09-CDAO New York,tech:database,topic:analytics,location:new-york
+2026-06-14-Microsoft Build //localhost:Bangkok,tech:ai,topic:cloud,location:bangkok
+2026-07-02-ReactNexus,tech:frontend,topic:javascript,location:bengaluru
+2026-07-17-Test Automation Innovation Summit | Manila,tech:testing,topic:automation,location:manila
+2026-09-24-SQLDay Lite 2026,tech:database,topic:sql,location:gdansk
+2026-09-29-CTO Craft Con: Europe,tech:leadership,topic:architecture,location:amsterdam
+2026-10-01-.NET Assemble! 2026,tech:backend,topic:.net,location:den-bosch
+2026-10-13-betterCode() Java,tech:backend,topic:java,location:online
+2026-10-14-Test Automation Innovation Summit Johannesburg,tech:testing,topic:automation,location:johannesburg
+2026-10-15-Minds Mastering Machines - M3: LLMs im Unternehmen,tech:ai,topic:llm,location:online
+2026-10-23-Open Source Observability Day,tech:observability,topic:open-source,location:online
+2026-11-04-BarCamp RD 2026,tech:community,topic:technology,location:santiago-de-los-caballeros
+2026-11-16-Software Architecture Gathering,tech:architecture,topic:software,location:berlin
+2026-11-17-betterCode() .NET 11.0,tech:backend,topic:.net,location:online
+2026-11-26-betterCode() Rust,tech:backend,topic:rust,location:online
+2026-12-02-Tech Leader Summit,tech:leadership,topic:technology,location:clearwater
+2026-12-07-ArchConf,tech:architecture,topic:design,location:clearwater
+2027-03-08-Annual Global Summit on Artificial Intelligence and Machine Learning,tech:ai,topic:machine-learning,location:barcelona
