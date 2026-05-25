@@ -1656,6 +1656,7 @@ All the data (past and coming) are available publicly in JSON:
 * 23-25: [Encode London 2026](https://luma.com/encode-london-2026) - London (UK)
 * 23-27: [EKON | Oktober Düsseldorf](https://entwickler-konferenz.de/de) - Dusseldorf (Germany)
 * 24: [Kubernetes Community Days Indonesia 2026](https://cloudnative.id) - Bandung (Indonesia) <a href="https://sessionize.com/kubernetes-community-days-indonesia-2026"><img alt="CFP Kubernetes Community Days Indonesia 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2026&color=green"></a>
+* 24: [Kubernetes Community Days Nigeria](https://community2.cncf.io/events/details/cncf-kcd-nigeria-presents-kcd-nigeria-2026-telling-the-african-cloud-native-story/) - Lagos (Nigeria) <a href="https://sessionize.com/kubernetes-community-days-nigeria-2026"><img alt="CFP Kubernetes Community Days Nigeria" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-June-2026&color=green"></a>
 * 24: [Devopsdays Istanbul](https://devopsdays.org/events/2026-istanbul) - Istanbul (Turkey)
 * 24: [Day of Data St. Louis](https://dayofdata.org/2026-10-24-dayofdata1148/) - Saint-Louis, MI (USA) <a href="https://sessionize.com/st-louis-day-of-data"><img alt="CFP Day of Data St. Louis" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=green"></a>
 * 24: [SQLSaturday - Minnesota 2026](https://sqlsaturday.com/2026-10-24-sqlsaturday1153/) - Saint Paul, MN (USA) <a href="https://sessionize.com/sqlsaturday-minnesota-2026"><img alt="CFP SQLSaturday - Minnesota 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=green"></a>
@@ -1816,6 +1817,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27: [DevFest Belgium](https://devfest-belgium.be) - Mons (Belgium) <a href="https://conference-hall.io/devfest-belgium-2026"><img alt="CFP DevFest Belgium" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=red"></a>
 * 27: [Conférence /dev/mtl 2026](https://www.dev-mtl.ca/) - Montreal (Canada) <a href="https://sessionize.com/conference-devmtl-2026"><img alt="CFP Conférence /dev/mtl 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=green"></a>
 * 28-29: [GambiConf 2026](https://gambiconf.dev/) - São Paulo (Brazil) <a href="https://gambiconf.dev/cfp"><img alt="CFP GambiConf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-June-2026&color=green"></a>
+* 30-01/12: [Reversim Summit 2026](https://summit2026.reversim.com/) - Tel Aviv (Israel) <a href="https://sessionize.com/reversim-summit-2026"><img alt="CFP Reversim Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-July-2026&color=green"></a>
 * 30-02/12: [APIConf](https://apiconf.io) - Clearwater, FL (USA)
 * 30-04/10: [IT Security Summit Munich 2026](https://it-security-summit.com/munich/) - Munich (Germany)
 
