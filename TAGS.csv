@@ -3141,3 +3141,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-12-02-Tech Leader Summit,tech:leadership,topic:technology,location:clearwater
 2026-12-07-ArchConf,tech:architecture,topic:design,location:clearwater
 2027-03-08-Annual Global Summit on Artificial Intelligence and Machine Learning,tech:ai,topic:machine-learning,location:barcelona
+2026-06-27-Microsoft Build Osun 2026,tech:cloud,tech:ai,topic:developer-tools,language:english
+2026-08-22-DevOps Midwest 2026,tech:devops,tech:cloud,topic:infrastructure,language:english
+2026-11-21-flutterCon India 2026,tech:mobile,tech:web,topic:developer-tools,language:english
