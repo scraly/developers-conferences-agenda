@@ -227,8 +227,21 @@ const getTimeSpan = (year, month, datespan) => {
   }
   return [ getTimeStamp(year,month,+startDay), getTimeStamp(year,month,+endDay,0,0,0)]
 };
+
+const hasTrustedShieldsUrl = (text) => {
+  const urls = text.match(/https?:\/\/[^\s"')>]+/g) || [];
+  return urls.some((urlString) => {
+    try {
+      const host = new URL(urlString).hostname.toLowerCase();
+      return host === "img.shields.io" || host === "shields.io";
+    } catch {
+      return false;
+    }
+  });
+};
+
 const extractCfp = (shieldCode) => {
-  if (!shieldCode.includes("shields.io")) return {};
+  if (!hasTrustedShieldsUrl(shieldCode)) return {};
   const label = shieldCode.replaceAll(/^.*label=([^&]*)&.*$/g, "$1");
   if (!label.match(/cfp/i)) return {};
 

@@ -5,6 +5,9 @@ body {
 
   font-family: Inter, Arial, sans-serif;
   flex-grow: 1;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 body * {
@@ -57,13 +60,13 @@ body * {
 
 .downloadButton {
   text-decoration: none;
-  color: black;
+  color: var(--text-primary);
   width: max-content;
   margin: 1rem;
   padding: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid var(--border-color);
   border-radius: 3px;
-  background: #eee;
+  background: var(--bg-tertiary);
   display: flex;
   align-items: center;
   gap: 10px;
@@ -89,14 +92,14 @@ body * {
 }
 
 .app-footer {
-  background: #333;
-  color: #fff;
+  background: var(--bg-footer);
+  color: var(--text-footer);
   display: grid;
   grid-template-rows: auto;
   grid-template-columns: 1fr minmax(300px, min(90vw, 1024px)) 1fr;
   gap: 1em;
   font-size: small;
-  background-color: #333;
+  background-color: var(--bg-footer);
 }
 
 .app-footer > .content {
@@ -110,12 +113,12 @@ body * {
 
 .supportButton {
   text-decoration: none;
-  color: black;
+  color: var(--text-primary);
   margin: 0;
   padding: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid var(--border-color);
   border-radius: 3px;
-  background: #eee;
+  background: var(--bg-tertiary);
   cursor: pointer;
   display: inline-flex;
   align-items: center;
@@ -142,19 +145,19 @@ input, select {
 }
 
 input[type=text] {
-  border: solid 1px #aaa;
+  border: solid 1px var(--border-dark);
 }
 
 .footer-link {
-  color: #ddd;
+  color: var(--text-footer-secondary);
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: all 0.3s ease;
 }
 
 .footer-link:hover {
-  color: #fff;
-  border-bottom: 1px solid #fff;
+  color: var(--text-footer);
+  border-bottom: 1px solid var(--text-footer);
 }
 
 .footer-links {
@@ -172,13 +175,13 @@ input[type=text] {
 }
 
 .footer-links ul li a {
-  color: #bbb;
+  color: var(--text-footer-tertiary);
 
   transition: color 0.3s ease;
 }
 
 .footer-links ul li a:hover {
-  color: #fff;
+  color: var(--text-footer);
 }
 
 .footer-links p {
@@ -189,7 +192,7 @@ input[type=text] {
 
 .footer-links-title {
   font-size: 1.1rem;
-  border-bottom: 1px solid #555;
+  border-bottom: 1px solid var(--border-color);
   padding-bottom: 0.5rem;
   margin-bottom: 1rem;
 }
@@ -204,9 +207,9 @@ input[type=text] {
   margin: 2rem auto 1.5rem;
   padding: 1rem;
   max-width: 700px;
-  border: 1px solid #666;
+  border: 1px solid var(--border-color);
   border-radius: 8px;
-  background: #404040;
+  background: var(--bg-footer);
 }
 
 .become-sponsor-title {
@@ -217,7 +220,7 @@ input[type=text] {
 
 .become-sponsor-description {
   margin: 0;
-  color: #ddd;
+  color: var(--text-footer-secondary);
 }
 
 .become-sponsor-actions {
@@ -232,14 +235,14 @@ input[type=text] {
 .sponsors-list {
   margin-top: 1.5rem;
   padding-top: 1.5rem;
-  border-top: 1px solid #555;
+  border-top: 1px solid var(--border-color);
 }
 
 .sponsors-list-title {
   margin: 0 0 1rem;
   font-size: 0.9rem;
   font-weight: 600;
-  color: #ddd;
+  color: var(--text-footer-secondary);
 }
 
 .sponsors-grid {
@@ -260,7 +263,7 @@ input[type=text] {
 }
 
 .sponsor-card:hover {
-  background: #3b3b3b;
+  background: var(--bg-hover);
   transform: scale(1.05);
 }
 
@@ -269,17 +272,18 @@ input[type=text] {
   height: 60px;
   border-radius: 50%;
   margin-bottom: 0.5rem;
-  border: 2px solid #555;
+  border: 2px solid var(--border-color);
 }
 
-.sponsor-name {
+.sponsor-name.sponsor-name { /* doubled class for specificity */
   font-size: 0.85rem;
-  color: #ddd;
+  margin: 0;
+  color: var(--text-footer-secondary);
   font-weight: 500;
 }
 
 .sponsor-card:hover .sponsor-name {
-  color: #fff;
+  color: var(--text-footer);
 }
 
 .sponsors-badge {

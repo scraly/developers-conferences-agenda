@@ -1,10 +1,10 @@
 .tags-toggle-button {
-    background: white;
-    border: 2px solid #ccc;
+    background: var(--bg-primary);
+    border: 2px solid var(--border-color);
     border-radius: 8px;
     padding: 8px;
     cursor: pointer;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: var(--shadow-sm);
     transition: all 0.2s ease;
     display: flex;
     align-items: center;
@@ -14,24 +14,24 @@
 }
 
 .tags-toggle-button:hover {
-    background: #f8f8f8;
-    border-color: #999;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    background: var(--bg-secondary);
+    border-color: var(--border-dark);
+    box-shadow: var(--shadow-md);
     transform: translateY(-1px);
 }
 
 .tags-toggle-button:active {
     transform: translateY(0);
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: var(--shadow-sm);
 }
 
 .tags-toggle-button svg {
-    color: #555;
+    color: var(--text-secondary);
     transition: color 0.2s ease;
 }
 
 .tags-toggle-button:hover svg {
-    color: #333;
+    color: var(--text-primary);
 }
 
 .tags-toggle-button.strikethrough {
@@ -45,12 +45,12 @@
     left: 15%;
     right: 15%;
     height: 2px;
-    background: #999;
+    background: var(--text-faint);
     transform: translateY(-50%) rotate(-15deg);
     pointer-events: none;
 }
 
 .tags-toggle-button.strikethrough svg {
     opacity: 0.6;
-    color: #999;
+    color: var(--text-faint);
 }

@@ -3,17 +3,18 @@
   display: flex;
   align-items: center;
   gap: 0.5em;
-  background: #f5f5f5;
-  border: 1px solid #e0e0e0;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
   border-radius: 6px;
   padding: 0.5em 1em;
   font-size: 1em;
+  color: var(--text-primary);
   cursor: pointer;
   transition: background 0.2s, border 0.2s;
 }
 .edit-event-button:hover {
-  background: #e0eaff;
-  border-color: #b3c6ff;
+  background: var(--bg-muted);
+  border-color: var(--border-dark);
 }
 .add-event-text {
   font-weight: 500;
@@ -28,12 +29,12 @@
 .event-search-list li button {
   background: none;
   border: none;
-  color: #0070f3;
+  color: var(--color-primary);
   cursor: pointer;
   padding: 0.25em 0.5em;
   text-align: left;
   width: 100%;
 }
 .event-search-list li button:hover {
-  background: #e0eaff;
+  background: var(--bg-muted);
 }

@@ -3,6 +3,7 @@ import allEvents from 'misc/all-events.json'
 import regions from 'misc/regions.json'
 import {useCallback, useMemo} from 'react'
 import {isFavorite} from './utils/favorites'
+import {getUTCDateValue, getUTCMonth, getUTCYear, isSameUTCDate, isUTCDateInRange} from './utils.js'
 
 // Controls which tag categories appear as filter dropdowns on the page.
 // Add a key to 'allowed' to create a filter for it (e.g. 'type' when type tags exist in the data).
@@ -32,7 +33,7 @@ export const parseDimensionParams = (search, dimensions) => {
 }
 
 export const useHasYearEvents = (year) => {
-  return useMemo(() => Boolean(allEvents.find((e) => new Date(e.date[0]).getFullYear() === parseInt(year, 10))), [year])
+  return useMemo(() => Boolean(allEvents.find((e) => getUTCYear(e.date[0]) === parseInt(year, 10))), [year])
 }
 
 export const useCountries = () => {
@@ -133,7 +134,7 @@ export const useYearEvents = () => {
   const [searchParams] = useSearchParams()
   const search = Object.fromEntries(searchParams)
   const regionsMap = useCountryToRegionMap()
-  const yearEvents = useMemo(() => allEvents.filter((e) => e.date[0] && new Date(e.date[0]).getFullYear() === parseInt(year, 10)), [year])
+  const yearEvents = useMemo(() => allEvents.filter((e) => e.date[0] && getUTCYear(e.date[0]) === parseInt(year, 10)), [year])
 
   return useMemo(() => {
     let result = yearEvents
@@ -169,7 +170,7 @@ export const filterCfpEventsByYear = (events, year) => {
       if (!e.cfp || !e.cfp.untilDate) return false
       if (!isCfpOpen(e.cfp.untilDate)) return false
 
-      const cfpYear = new Date(e.cfp.untilDate).getFullYear()
+      const cfpYear = getUTCYear(e.cfp.untilDate)
 
       // Only show CFPs that close in the selected year
       return cfpYear === currentYear
@@ -385,7 +386,7 @@ export const useMonthEvents = (yearEvents, month = null) => {
     if (filterMonth !== -1) {
       result = result.filter(
         (e) =>
-          (e.date[0] && new Date(e.date[0]).getMonth() === filterMonth) || (e.date[1] && new Date(e.date[1]).getMonth() === filterMonth)
+          (e.date[0] && getUTCMonth(e.date[0]) === filterMonth) || (e.date[1] && getUTCMonth(e.date[1]) === filterMonth)
       )
     }
     return result
@@ -402,19 +403,15 @@ export const useDayEvents = (monthEvents, day = null) => {
         let retval = false
 
         if (e.date[0] && e.date[1] == null) {
-          const startDate = new Date(e.date[0])
-          retval = startDate.getDate() === filterDay.getDate()
+          retval = isSameUTCDate(e.date[0], filterDay)
         }
 
         if (e.date[1] && e.date[0] == null) {
-          const endDate = new Date(e.date[1])
-          retval = retval || endDate.getDate() === filterDay.getDate()
+          retval = retval || isSameUTCDate(e.date[1], filterDay)
         }
 
         if (e.date[0] && e.date[1]) {
-          const startDate = new Date(e.date[0])
-          const endDate = new Date(e.date[1])
-          retval = retval || (filterDay >= startDate && endDate >= filterDay)
+          retval = retval || isUTCDateInRange(filterDay, e.date[0], e.date[1])
         }
 
         return retval

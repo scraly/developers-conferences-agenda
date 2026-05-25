@@ -203,6 +203,34 @@ export const Footer = () => {
               />
               <span className="sponsor-name">Zenika</span>
             </a>
+            <a
+              href="https://retcon.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="sponsor-card"
+              title="Retcon"
+            >
+              <img
+                src="https://retcon.app/images/app-icon-for-circle.png"
+                alt="Retcon"
+                className="sponsor-avatar"
+              />
+              <span className="sponsor-name">Retcon</span>
+            </a>
+            <a
+              href="https://looties.io/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="sponsor-card"
+              title="Looties"
+            >
+              <img
+                src="https://looties.io/logos/looties-logo.png"
+                alt="Looties"
+                className="sponsor-avatar"
+              />
+              <span className="sponsor-name">Looties</span>
+            </a>
           </div>
 
           <p className="become-sponsor-description">

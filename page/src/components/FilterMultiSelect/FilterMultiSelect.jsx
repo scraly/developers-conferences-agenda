@@ -1,6 +1,7 @@
 import React, { useMemo, useCallback } from 'react';
 import Select, { components } from 'react-select';
 import { X } from 'lucide-react';
+import { useTheme } from 'contexts/ThemeContext';
 import 'styles/FilterMultiSelect.css';
 
 const FilterMultiSelect = ({
@@ -115,20 +116,51 @@ const FilterMultiSelect = ({
     );
   }, [handleExcludeToggle, handleRemoveValue]);
 
+  // Subscribe to theme — causes re-render on toggle so customStyles updates
+  const { theme } = useTheme();
+
+  // Color tokens per theme, mirroring theme.css variables.
+  // Hardcoded here (not read via getComputedStyle) so react-select/Emotion
+  // always receives the correct values synchronously during the re-render.
+  const tok = theme === 'dark'
+    ? { bg: '#303446', bgAlt: '#292c3c', bgHover: '#3a3d52', text: '#c6d0f5', muted: '#838ba7', border: '#51576d', primary: '#8caaee' }
+    : { bg: '#ffffff', bgAlt: '#f8f8f8', bgHover: '#f5f5f5', text: '#333333', muted: '#666666', border: '#cccccc', primary: '#007bff' };
+
   const customStyles = {
     control: (provided, state) => ({
       ...provided,
-      borderColor: state.isFocused ? '#007bff' : '#ccc',
-      boxShadow: state.isFocused ? '0 0 0 1px #007bff' : 'none',
-      '&:hover': { borderColor: '#007bff' }
+      backgroundColor: tok.bgAlt,
+      borderColor: state.isFocused ? tok.primary : tok.border,
+      boxShadow: state.isFocused ? `0 0 0 1px ${tok.primary}` : 'none',
+      '&:hover': { borderColor: tok.primary }
     }),
     menu: (provided) => ({
       ...provided,
-      zIndex: 9999999
+      zIndex: 9999999,
+      backgroundColor: tok.bg,
+      border: `1px solid ${tok.border}`
     }),
     menuPortal: (provided) => ({
       ...provided,
       zIndex: 9999999
+    }),
+    option: (provided, state) => ({
+      ...provided,
+      backgroundColor: state.isFocused ? tok.bgHover : tok.bg,
+      color: tok.text,
+      cursor: 'pointer'
+    }),
+    placeholder: (provided) => ({
+      ...provided,
+      color: tok.muted
+    }),
+    singleValue: (provided) => ({
+      ...provided,
+      color: tok.text
+    }),
+    input: (provided) => ({
+      ...provided,
+      color: tok.text
     }),
     multiValue: (provided) => ({
       ...provided,

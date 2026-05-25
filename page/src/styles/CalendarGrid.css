@@ -10,7 +10,7 @@
   width: max-content;
   display: flex;
   flex-direction: column;
-  border: 1px solid black;
+  border: 1px solid var(--calendarGrid-border);
   padding: 1rem;
   border-radius: 3px;
   gap: 1rem;

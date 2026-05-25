@@ -39,26 +39,26 @@
 }
 
 .date.intensity-1 {
-  background-color: rgb(241 245 249);
+  background-color: var(--calendar-intensity-1);
 }
 .date.intensity-2 {
-  background-color: rgb(226 232 240);
+  background-color: var(--calendar-intensity-2);
 }
 .date.intensity-3 {
-  background-color: rgb(226 232 240);
+  background-color: var(--calendar-intensity-3);
 }
 .date.intensity-4 {
-  background-color: rgb(148 163 184);
+  background-color: var(--calendar-intensity-4);
 }
 .date.intensity-5 {
-  background-color: rgb(100 116 139);
-  color: #fafafa;
+  background-color: var(--calendar-intensity-5);
+  color: var(--calendar-intensity-5-text);
 }
 .date.intensity-6 {
-  background-color: rgb(71 85 105);
-  color: #fafafa;
+  background-color: var(--calendar-intensity-6);
+  color: var(--calendar-intensity-6-text);
 }
 .date.intensity-7 {
-  background-color: rgb(51 65 85);
-  color: #fafafa;
+  background-color: var(--calendar-intensity-7);
+  color: var(--calendar-intensity-7-text);
 }

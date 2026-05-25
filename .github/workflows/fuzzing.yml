@@ -1,0 +1,31 @@
+name: Property-based fuzzing
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+permissions: read-all
+
+jobs:
+  fast-check-fuzzing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Setup Node
+        uses: actions/setup-node@3235b876344d2a9aa001b8d1453c930bba69e610 # v3.9.1
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: page/package-lock.json
+
+      - name: Install dependencies
+        working-directory: page
+        run: npm ci
+
+      - name: Run property-based fuzz tests
+        working-directory: page
+        run: npm test -- --run src/utils.fuzz.test.js

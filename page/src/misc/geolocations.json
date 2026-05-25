@@ -147,6 +147,10 @@
     "latitude": 51.2211097,
     "longitude": 4.3997081
   },
+  "Apenheul (Netherlands)": {
+    "latitude": 52.215326,
+    "longitude": 5.9187439
+  },
   "Aracaju (Brazil)": {
     "latitude": -10.9266526,
     "longitude": -37.0729014
@@ -186,6 +190,10 @@
   "Ashgabat (Turkmenistan)": {
     "latitude": 37.9378321,
     "longitude": 58.2359467
+  },
+  "Assago (Italy)": {
+    "latitude": 45.4052073,
+    "longitude": 9.1313346
   },
   "Athens (Greece)": {
     "latitude": 37.9755648,
@@ -343,7 +351,7 @@
     "latitude": 60.3943055,
     "longitude": 5.3259192
   },
-  "Berkeley (USA)": {
+  "Berkeley, CA (USA)": {
     "latitude": 37.8708393,
     "longitude": -122.272863
   },
@@ -455,6 +463,10 @@
     "latitude": 41.5454486,
     "longitude": -8.426506999999999
   },
+  "Brasilia (Brazil)": {
+    "latitude": -10.3333333,
+    "longitude": -53.2
+  },
   "Brasov (Romania)": {
     "latitude": 45.6525105,
     "longitude": 25.6105654
@@ -490,6 +502,10 @@
   "Brno (Czechia)": {
     "latitude": 49.1922443,
     "longitude": 16.6113382
+  },
+  "Brooklyn Park, MN (USA)": {
+    "latitude": 45.1004807,
+    "longitude": -93.3443585
   },
   "Broomfield, CO (USA)": {
     "latitude": 39.9403995,
@@ -975,6 +991,10 @@
     "latitude": 0.5142774999999999,
     "longitude": 35.2697802
   },
+  "Ensenada (Mexico)": {
+    "latitude": 31.8658887,
+    "longitude": -116.602983
+  },
   "Enugu (Nigeria)": {
     "latitude": 6.448270099999999,
     "longitude": 7.5138947
@@ -1026,6 +1046,10 @@
   "Folkestone, Kent (UK)": {
     "latitude": 51.0791335,
     "longitude": 1.1794073
+  },
+  "Folly Beach, SC (USA)": {
+    "latitude": 32.6554848,
+    "longitude": -79.9407802
   },
   "Fort Lauderdale, FL (USA)": {
     "latitude": 26.1224386,
@@ -1242,6 +1266,10 @@
   "Hanau (Germany)": {
     "latitude": 50.1264123,
     "longitude": 8.9283105
+  },
+  "Hanau am Main (Germany)": {
+    "latitude": 50.1217213,
+    "longitude": 8.9085545
   },
   "Hangzhou (China)": {
     "latitude": 30.2741499,
@@ -1690,6 +1718,10 @@
   "Lausanne (Switzerland)": {
     "latitude": 46.5218269,
     "longitude": 6.6327025
+  },
+  "Laval (France)": {
+    "latitude": 48.0706687,
+    "longitude": -0.7734022
   },
   "Le Mans (France)": {
     "latitude": 48.0073849,
@@ -2327,6 +2359,10 @@
     "latitude": 59.9133301,
     "longitude": 10.7389701
   },
+  "Osogbo (Nigeria)": {
+    "latitude": 7.7583223,
+    "longitude": 4.5750447
+  },
   "Ottawa, ON (Canada)": {
     "latitude": 45.4208777,
     "longitude": -75.6901106
@@ -2451,6 +2487,10 @@
     "latitude": 39.9527237,
     "longitude": -75.1635262
   },
+  "Phoenix, AR (USA)": {
+    "latitude": 34.8548512,
+    "longitude": -92.2246679
+  },
   "Phoenix, AZ (USA)": {
     "latitude": 33.4483771,
     "longitude": -112.0740373
@@ -2474,6 +2514,10 @@
   "Pittsburgh, PA (USA)": {
     "latitude": 40.4416941,
     "longitude": -79.9900861
+  },
+  "Pituaçu (Salvador)": {
+    "latitude": -12.9651749,
+    "longitude": -38.4143371
   },
   "Piura (Peru)": {
     "latitude": -5,
@@ -2763,6 +2807,10 @@
     "latitude": -20.9606333,
     "longitude": 55.6492731
   },
+  "Saint-Louis, MI (USA)": {
+    "latitude": 43.4083637,
+    "longitude": -84.6066704
+  },
   "Saint-Maur-des-Fossés (France)": {
     "latitude": 48.8033057,
     "longitude": 2.4853015
@@ -2858,6 +2906,10 @@
   "Santa Cruz de la Sierra (Bolivia)": {
     "latitude": -17.7834217,
     "longitude": -63.1820853
+  },
+  "Santa Fe (Argentina)": {
+    "latitude": -30.3154739,
+    "longitude": -61.1645076
   },
   "Santiago (Chile)": {
     "latitude": -33.4377756,
