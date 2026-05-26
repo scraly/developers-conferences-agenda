@@ -3144,3 +3144,5 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-27-Microsoft Build Osun 2026,tech:cloud,tech:ai,topic:developer-tools,language:english
 2026-08-22-DevOps Midwest 2026,tech:devops,tech:cloud,topic:infrastructure,language:english
 2026-11-21-flutterCon India 2026,tech:mobile,tech:web,topic:developer-tools,language:english
+2026-10-24-Kubernetes Community Days Nigeria,tech:kubernetes,tech:cloud-native,topic:devops,topic:open-source,language:english
+2026-11-30-Reversim Summit 2026,tech:web-development,tech:javascript,topic:software-engineering,language:english
