@@ -1602,6 +1602,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13: [Experts Live Sweden 2026](https://expertslive.se) - Stockholm (Sweden) <a href="https://sessionize.com/experts-live-sweden-2026"><img alt="CFP Experts Live Sweden 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=red"></a>
 * 13-14: [Platform Summit](https://nordicapis.com/events/platform-summit-2026) - Stockholm (Sweden)
 * 13-14: [DNN Virtual Summit 2026](https://www.dnnsummit.org/) - Online <a href="https://sessionize.com/dnn-virtual-summit-2026"><img alt="CFP DNN Virtual Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2026&color=red"></a>
+* 13-15: [BazelCon](https://events.linuxfoundation.org/bazelcon/) - Amsterdam (Netherlands) <a href="https://events.linuxfoundation.org/bazelcon/program/cfp/"><img alt="CFP BazelCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-June-2026&color=green"></a> <a href="https://events.linuxfoundation.org/bazelcon/sponsor/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 13-15: [TechCrunch Disrupt](https://techcrunch.com/events/tc-disrupt-2026) - San Francisco (USA)
 * 13-16: [SRECon EMEA](https://www.usenix.org/conference/srecon26emea) - Dublin (Ireland)
 * 13-16: [Techbash](https://www.techbash.com) - Mount Pocono, PA (USA) <a href="https://sessionize.com/techbash-2026/"><img alt="CFP Techbash" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=red"></a>
@@ -1833,6 +1834,7 @@ All the data (past and coming) are available publicly in JSON:
 ### December
 
 * 1-3: [Apidays Paris](https://www.apidays.global/paris) - Paris (France) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP Apidays Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2026&color=green"></a>
+* 2-3: [Cloud Native AI Summit Europe](https://www.cloudnative.ai/events/paris) - Paris (France) <a href="https://sessionize.com/cloud-native-summit-europe-2026/"><img alt="CFP Cloud Native AI Summit Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-August-2026&color=green"></a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSegjNIrFKMtgtRFpwm8qn64LYztWZ5g7PHSgrN52or3ofWuUQ/viewform"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 2-3: [Power Conference 2026](https://www.powerconference.cz/) - Prague (Czechia) <a href="https://sessionize.com/power-conference-2026"><img alt="CFP Power Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-July-2026&color=green"></a>
 * 2-4: [giftED26](https://tagtconference.txgifted.org/) - Houston, TX (USA) <a href="https://sessionize.com/tagt-gifted26"><img alt="CFP giftED26" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-June-2026&color=green"></a>
 * 2-4: [Tech Leader Summit](https://techleadersummit.io) - Clearwater, FL (USA)

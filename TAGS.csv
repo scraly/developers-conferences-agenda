@@ -3152,3 +3152,5 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-07-11-ACM Irving Tech Talk July 2026 (In-Person),tech:software,topic:programming,language:english
 2026-08-04-KCD Kubernetes Community Days Melbourne 2026,tech:cloud,tech:kubernetes,topic:devops,topic:open-source,language:english
 2026-11-14-Black Alpaca 2026,tech:cloud,tech:containers,topic:devops,topic:open-source,language:english
+2026-12-02-Cloud Native AI Summit Europe,topic:cloud-native,topic:agent-based-ai,topic:artificial-intelligence,topic:ai,tech:infrastructure,topic:platform-engineering,topic:kubernetes,topic:architecture,topic:containers,topic:api
+2026-10-13-BazelCon,tech:bazel
