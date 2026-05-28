@@ -1003,7 +1003,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8: [Open Source Policy & Ecosystem Forum](https://events.linuxfoundation.org/open-source-policy-ecosystem-forum/) - Brussels (Belgium)
 * 8-9: [Future Frontend](https://futurefrontend.com) - Espoo (Finland) <a href="https://forms.gle/gWReoDDjra4MCQMM8"><img alt="CFP Future Frontend" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-March-2026&color=red"></a>
 * 8-9: [Dev.Play Conference](https://dev-play.ro) - Bucharest (Romania)
-* 8-10: [ETHConf](https://ethconf.com/r/CTECONF) - New York, NY (USA) <a href="https://ethconf.com/partner"><img alt="CFP ETHConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2026&color=red"></a>
+* 8-10: [ETHConf](https://ethconf.com) - New York, NY (USA) <a href="https://ethconf.com/partner"><img alt="CFP ETHConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2026&color=red"></a>
 * 8-10: [x33fcon training 2026](https://www.x33fcon.com/#!training.md) -  Gdynia (Poland) <a href="https://www.papercall.io/x33fcon-training-2026"><img alt="CFP x33fcon training 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-January-2026&color=red"></a>
 * 8-11: [Web Summit Rio](https://rio.websummit.com/) - Rio de Janeiro (Brazil)
 * 8-12: [Domain-Driven Design Europe](https://2026.dddeurope.com/) - Antwerp (Belgium) <a href="https://2026.dddeurope.com/cfp/"><img alt="CFP Domain-Driven Design Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=red"></a>
