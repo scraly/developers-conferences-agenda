@@ -1055,6 +1055,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12: [QA or the Highway 2026](https://www.qaorthehwy.com/) - Columbus, OH (USA) <a href="https://sessionize.com/qa-or-the-highway-2026"><img alt="CFP QA or the Highway 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2026&color=red"></a>
 * 12-13: [Baltic Ruby 2026](https://balticruby.org) -  Hamburg (Germany) <a href="https://www.papercall.io/balticruby2026"><img alt="CFP Baltic Ruby 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2025&color=red"></a>
 * 12-13: [JSCraftCamp](https://jscraftcamp.org) - Munich (Germany)
+* 12-14: [ETHGlobal New York Hackathon](https://ethglobal.com/events/newyork2026) - New York, NY (USA)
 * 12-16: [React Summit](https://reactsummit.com) - Amsterdam (Netherlands) <a href="https://gitnation.com/events/react-summit-2026/cfp"><img alt="CFP React Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-March-2026&color=red"></a>
 * 13: [BSides SATX 2026](https://www.bsidessatx.com/) - San Antonio, TX (USA)
 * 13: [Houston Fabric Day](https://www.meetup.com/houston-fabric-user-group/events/314150202/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=474825665) - Houston, TX (USA) <a href="https://sessionize.com/houston-fabric-day-2026"><img alt="CFP Houston Fabric Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-May-2026&color=red"></a>
@@ -1229,6 +1230,7 @@ All the data (past and coming) are available publicly in JSON:
 * 23-25: [Developers Conference 2026](https://conference.mscc.mu/) - Moka (Mauritius) <a href="https://sessionize.com/mscc-developers-conference-2026/"><img alt="CFP Developers Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=red"></a> <a href="https://conference.mscc.mu/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 24-25: [PyData PyCon Yerevan 2026](https://pycon.am) - Yerevan (Armenia)
 * 24-25: [API Conf Lagos 2026](https://apiconf.net/) - Lagos (Nigeria) <a href="https://sessionize.com/api-conf-lagos-2026"><img alt="CFP API Conf Lagos 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=red"></a>
+* 24-26: [ETHGlobal Lisbon Hackathon](https://ethglobal.com/events/lisbon2026) - Lisbon (Portugal)
 * 25: [KCD & OpenInfra Days Vietnam 2026](https://2026.vietopeninfra.org) - Hanoi (Vietnam) <a href="https://sessionize.com/kcd-and-oid-vietnam-2026/"><img alt="CFP KCD & OpenInfra Days Vietnam 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=green"></a>
 * 26: [Google Cloud Next Extended Da Nang 2025](https://gdg.community.dev/e/m8jfvc) - Da Nang (Vietnam)
 * 27-31: [Visual Studio Live! @ Microsoft HQ 2026](https://vslive.com/events/microsofthq-2026/home.aspx) - Redmond, WA (USA) <a href="https://sessionize.com/vslive_Microsoft26"><img alt="CFP Visual Studio Live! @ Microsoft HQ 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2025&color=red"></a>
