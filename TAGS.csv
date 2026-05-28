@@ -3154,3 +3154,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-14-Black Alpaca 2026,tech:cloud,tech:containers,topic:devops,topic:open-source,language:english
 2026-12-02-Cloud Native AI Summit Europe,topic:cloud-native,topic:agent-based-ai,topic:artificial-intelligence,topic:ai,tech:infrastructure,topic:platform-engineering,topic:kubernetes,topic:architecture,topic:containers,topic:api
 2026-10-13-BazelCon,tech:bazel
+2026-06-13-Build With AI Bogotá 2026,tech:cloud,topic:ai,topic:developer,language:english
+2026-09-08-Devopsdays Santiago,tech:devops,topic:infrastructure,topic:developer,language:spanish
+2026-09-12-AWS Community Day Vadodara 2026,tech:cloud,topic:aws,topic:developer,language:hindi
+2026-10-26-Vibe Coding Con,tech:ai,topic:programming,topic:developer,language:english
