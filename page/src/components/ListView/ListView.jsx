@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useRef } from 'react';
 import 'styles/ListView.css';
 
 import {useYearEvents} from 'app.hooks';
@@ -66,6 +66,17 @@ const ListView = () => {
 
   const [editEvent, setEditEvent] = React.useState(null);
 
+  const currentMonthName = getMonthName(new Date().getMonth());
+  const currentMonthRef = useRef(null);
+
+  useEffect(() => {
+    if (currentMonthRef.current) {
+      setTimeout(() => {
+        currentMonthRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 100);
+    }
+  }, []);
+
   return (
     <div className="listView">
       {monthOrder.map(month => {
@@ -74,7 +85,7 @@ const ListView = () => {
         
         return (
           <React.Fragment key={month}>
-            <h1>{filters.sort === 'cfp' 
+            <h1 ref={month === currentMonthName ? currentMonthRef : null}>{filters.sort === 'cfp' 
               ? t('months.monthCfpDeadlines').replace('{month}', translatedMonth)
               : t('months.monthEvents').replace('{month}', translatedMonth)
             }</h1>
