@@ -25,6 +25,12 @@ const AddEventForm = ({ isOpen, onClose }) => {
 
   const [errors, setErrors] = useState({});
 
+  const parseLocalDate = (dateString) => {
+    if (!dateString) return null;
+    const [year, month, day] = dateString.split('-').map(Number);
+    return new Date(year, month - 1, day);
+  };
+
   const handleInputChange = (field, value) => {
     setFormData(prev => ({
       ...prev,
@@ -109,13 +115,13 @@ const AddEventForm = ({ isOpen, onClose }) => {
 
     // Date validation
     if (formData.startDate && formData.endDate) {
-      if (new Date(formData.startDate) > new Date(formData.endDate)) {
+      if (parseLocalDate(formData.startDate) > parseLocalDate(formData.endDate)) {
         newErrors.endDate = t('addEvent.errors.endDateBeforeStart');
       }
     }
 
     if (formData.cfpEndDate && formData.startDate) {
-      if (new Date(formData.cfpEndDate) > new Date(formData.startDate)) {
+      if (parseLocalDate(formData.cfpEndDate) > parseLocalDate(formData.startDate)) {
         newErrors.cfpEndDate = t('addEvent.errors.cfpEndDateAfterStart');
       }
     }
@@ -141,7 +147,7 @@ const AddEventForm = ({ isOpen, onClose }) => {
   const formatDateForReadme = (dateString) => {
     const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
     ];
-    const date = new Date(dateString);
+    const date = parseLocalDate(dateString);
     const day = String(date.getDate()).padStart(2, '0');
     const monthName = monthNames[date.getMonth()]
     const year = date.getFullYear();
@@ -149,8 +155,8 @@ const AddEventForm = ({ isOpen, onClose }) => {
   };
 
   const generateReadmeLine = () => {
-    const startDate = new Date(formData.startDate);
-    const endDate = new Date(formData.endDate);
+    const startDate = parseLocalDate(formData.startDate);
+    const endDate = parseLocalDate(formData.endDate);
     // Generate location string
     let location;
     if (formData.onlineEvent) {
@@ -170,7 +176,7 @@ const AddEventForm = ({ isOpen, onClose }) => {
       const cfpEndFormatted = formData.cfpEndDate ? formatDateForReadme(formData.cfpEndDate) : 'TBD';
       let cfpColor = 'red';
       if (formData.cfpEndDate) {
-        const cfpEndDate = new Date(formData.cfpEndDate);
+        const cfpEndDate = parseLocalDate(formData.cfpEndDate);
         const today = new Date();
         today.setHours(0, 0, 0, 0);
         cfpColor = cfpEndDate >= today ? 'green' : 'red';
@@ -192,7 +198,7 @@ const generateMetadataCsvLine = () => {
   // Attendees is optional metadata
   if (!formData.attendees) return '';
 
-  const startDate = new Date(formData.startDate);
+  const startDate = parseLocalDate(formData.startDate);
   const year = startDate.getFullYear();
   const month = String(startDate.getMonth() + 1).padStart(2, '0');
   const day = String(startDate.getDate()).padStart(2, '0');
@@ -207,7 +213,7 @@ const generateMetadataCsvLine = () => {
     if (formData.tags.length === 0) return '';
     
     // Generate event ID in format: YYYY-MM-DD-EventName
-    const startDate = new Date(formData.startDate);
+    const startDate = parseLocalDate(formData.startDate);
     const year = startDate.getFullYear();
     const month = String(startDate.getMonth() + 1).padStart(2, '0');
     const day = String(startDate.getDate()).padStart(2, '0');
