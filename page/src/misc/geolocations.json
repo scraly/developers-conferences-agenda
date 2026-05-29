@@ -651,6 +651,10 @@
     "latitude": 37.5023612,
     "longitude": 15.0873718
   },
+  "Cebu City (Philippines)": {
+    "latitude": 10.2934946,
+    "longitude": 123.9018183
+  },
   "Chambéry (France)": {
     "latitude": 45.5662672,
     "longitude": 5.9203636
@@ -1234,6 +1238,10 @@
   "Guatemala City (Guatemala)": {
     "latitude": 14.6349149,
     "longitude": -90.5068824
+  },
+  "Guayaquil (Ecuador)": {
+    "latitude": -2.1900572,
+    "longitude": -79.8868669
   },
   "Gujarat (India)": {
     "latitude": 22.3850051,
@@ -1898,6 +1906,10 @@
   "Madrid (Spain)": {
     "latitude": 40.4167047,
     "longitude": -3.7035825
+  },
+  "Magaluf (Spain)": {
+    "latitude": 39.5095681,
+    "longitude": 2.535724
   },
   "Mainz (Germany)": {
     "latitude": 50.0012314,
