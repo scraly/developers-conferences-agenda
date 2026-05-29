@@ -1,4 +1,5 @@
-import {HashRouter as Router, Routes, Route} from "react-router-dom";
+import { useEffect } from 'react';
+import {HashRouter as Router, Routes, Route, useLocation} from "react-router-dom";
 import 'misc/fonts/inter/inter.css';
 import 'styles/App.css';
 import 'styles/theme.css';
@@ -19,6 +20,7 @@ import AddEventButton from './components/AddEventButton/AddEventButton';
 import LanguageSelector from './components/LanguageSelector/LanguageSelector';
 import { ThemeToggle } from './components/ThemeToggle/ThemeToggle';
 import Footer from './components/Footer/Footer';
+import { extractViewFromPath, setLastVisitedView } from 'misc/lastVisitedView';
 
 const AppContent = () => {
   const { t } = useTranslation();
@@ -37,6 +39,19 @@ const AppContent = () => {
   );
 };
 
+const LastVisitedViewTracker = () => {
+  const location = useLocation();
+
+  useEffect(() => {
+    const view = extractViewFromPath(location.pathname);
+    if (view) {
+      setLastVisitedView(view);
+    }
+  }, [location.pathname]);
+
+  return null;
+};
+
 const App = () => {
   // TODO: DRY
   const filtercontextdefaults = {
@@ -51,6 +66,7 @@ const App = () => {
           <TagsProvider>
             <FilterContext.Provider value={filtercontextdefaults}>
               <Router>
+                <LastVisitedViewTracker />
                 <AppContent />
                 <Routes>
                   <Route Component={Index} path="/" />
