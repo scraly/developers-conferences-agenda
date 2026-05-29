@@ -1,5 +1,5 @@
 export const LAST_VISITED_VIEW_KEY = 'dca:lastVisitedView'
-export const DEFAULT_VIEW = 'list'
+export const DEFAULT_VIEW = 'calendar'
 
 const VALID_VIEWS = ['cfp', 'calendar', 'list', 'map']
 const VALID_VIEWS_SET = new Set(VALID_VIEWS)

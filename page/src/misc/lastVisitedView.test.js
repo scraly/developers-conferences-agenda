@@ -30,6 +30,7 @@ describe('lastVisitedView', () => {
   describe('extractViewFromPath', () => {
     it('returns the view for supported routes', () => {
       expect(extractViewFromPath('/2026/list')).toBe('list')
+      expect(extractViewFromPath('/2026/calendar')).toBe('calendar')
       expect(extractViewFromPath('/2026/cfp')).toBe('cfp')
       expect(extractViewFromPath('/2026/map')).toBe('map')
       expect(extractViewFromPath('/2026/calendar/4/123456')).toBe('calendar')
