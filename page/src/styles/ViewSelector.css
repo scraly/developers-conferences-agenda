@@ -17,6 +17,14 @@
 
 .view-type-selector .view-selector.selected {
   background: var(--bg-muted);
+  color: var(--color-primary-dark);
+  box-shadow: inset 0 -2px 0 var(--color-primary);
+}
+
+[data-theme="light"] .view-type-selector .view-selector.selected,
+:root .view-type-selector .view-selector.selected {
+  background: #dfe7f5;
+  box-shadow: inset 0 -2px 0 var(--color-primary), inset 0 0 0 1px var(--border-dark);
 }
 
 .view-type-selector .view-selector:first-child {
