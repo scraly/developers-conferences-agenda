@@ -12,6 +12,11 @@ import { useTranslation } from 'contexts/LanguageContext';
 import { Edit } from 'lucide-react';
 import EditEventInlineForm from 'components/EditEventForm/EditEventInlineForm';
 
+const cleanMisc = (misc) => {
+  // Remove Closed Captions img tag to avoid duplicates
+  return misc.replace(/<img[^>]*alt=["']Closed Captions["'][^>]*>/g, '').trim();
+};
+
 const ListView = () => {
   let events = useYearEvents();
   const { filters, toggleTag } = useFilters();
@@ -123,7 +128,7 @@ const ListView = () => {
                     </span>
 
 
-                  <span dangerouslySetInnerHTML={{ __html: e.misc }} />
+                  <span dangerouslySetInnerHTML={{ __html: cleanMisc(e.misc) }} />
 
                   {e.sponsoring ? (
                     <span>
@@ -146,6 +151,7 @@ const ListView = () => {
                       />
                     </span>
                   ) : null}
+
                 </div>
 
                 </div>

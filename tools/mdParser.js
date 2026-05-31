@@ -147,10 +147,12 @@ const extractEvents = (monthMarkdown, year, month) => {
 
       const cfpLink = links.find(link => link.includes('alt="CFP"')) || "";
 
+      const closedCaptionsLink = links.find(link => link.includes('alt="Closed Captions"')) || "";
+
       const miscContent = eventLine.includes("</a>")
         ? eventLine.trim().replaceAll(/^.*?(<a.*a>.*)$/g, "$1")
         : "";
-      const misc = miscContent.replace(sponsoringLink, "").replace(cfpLink, "").trim();
+      const misc = miscContent.replace(sponsoringLink, "").replace(cfpLink, "").replace(closedCaptionsLink, "").trim();
 
       const event = {
         name: eventLine.trim().replaceAll(/^.*[?0-9\/\-]+.*\[(.*)\].*$/g, "$1"),
