@@ -683,6 +683,10 @@
     "latitude": 35.0457984,
     "longitude": -85.3093995
   },
+  "Cheltenham (UK)": {
+    "latitude": 51.8995685,
+    "longitude": -2.0711559
+  },
   "Chemnitz (Germany)": {
     "latitude": 50.8323531,
     "longitude": 12.918914
@@ -1582,6 +1586,10 @@
   "Kerpen (Germany)": {
     "latitude": 50.3097609,
     "longitude": 6.7293316
+  },
+  "Keynes (UK)": {
+    "latitude": 52.0406502,
+    "longitude": -0.7594092
   },
   "Kiel (Germany)": {
     "latitude": 54.3227085,
@@ -3490,6 +3498,10 @@
   "Zlin (Czechia)": {
     "latitude": 49.226766,
     "longitude": 17.6667415
+  },
+  "Zurich (Germany)": {
+    "latitude": 52.4465937,
+    "longitude": 13.3257359
   },
   "Zurich (Switzerland)": {
     "latitude": 47.3744489,
