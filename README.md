@@ -217,7 +217,7 @@ All the data (past and coming) are available publicly in JSON:
 * 25: [Jupyter Workshop Berkely: Roadmap Workshop for JupyterHub and Binder](https://events.linuxfoundation.org/roadmap-workshop-for-jupyterhub-and-binder/) - Berkely (USA) & Online
 * 25: [Jupyter Workshop Köln: Roadmap Workshop for JupyterHub and Binder](https://events.linuxfoundation.org/roadmap-workshop-for-jupyterhub-and-binder/) - Köln (Germany) & Online
 * 25: [Ransomware Resilience & Recovery Summit | 2026](https://www.securitysummits.com/event/ransomware-resilience-recovery-summit/) - Online <a href="https://sessionize.com/ransomware-resilience"><img alt="CFP Ransomware" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-January-2026&color=red"></a>
-* 25-27: [ConFoo](https://confoo.ca/en/2026) - Montreal (Canada) <a href="https://confoo.ca/fr/2026/call-for-papers"><img alt="CFP ConFoo" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-September-2025&color=red"></a>
+* 25-27: [ConFoo](https://confoo.ca/en/2026) - Montreal (Canada) <a href="https://confoo.ca/fr/2026/call-for-papers"><img alt="CFP ConFoo" src="https://img.shields.io/static/v1?label=CFP&message=until%2021--2025&color=red"></a>
 * 25-27: [Norfolk Developers Conference 2026](https://nordevcon.com) - Norwich (UK) <a href="https://sessionize.com/norfolk-developers-conference-2026"><img alt="CFP Norfolk Developers Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-October-2025&color=red"></a>
 * 25-27: [OWASP London Training Days 2026](https://owasp.glueup.com/event/london-owasp-training-days-2026-162538) - London (UK)
 * 25-27: [Global Business Central Bootcamp 2026](https://dynamics365bootcamp.com/) - Online <a href="https://sessionize.com/businesscentralbootcamp"><img alt="CFP Global Business Central Bootcamp 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2026&color=red"></a>
@@ -1399,6 +1399,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-16: [Disney Data & Analytics Conference (DDAC)](https://disneydataconference.com) - Orlando, FL (USA)
 * 14-16: [posit::conf(2026)](https://posit.co/conference/) - Houston, TX (USA)
 * 14-18: [NDC Oslo](https://ndcoslo.com) - Oslo (Norway) <a href="https://sessionize.com/ndc-oslo-2026/"><img alt="CFP NDC Oslo 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-April-2026&color=red"></a>
+* 15: [AWS Community Day DACH](https://www.aws-community-day.de/) - Berlin (Germany) <a href="https://sessionize.com/aws-community-day-dach-2026"><img alt="CFP AWS Community Day DACH" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=green"></a>
 * 15: [LF Energy Summit Europe](https://events.linuxfoundation.org/lfenergysummit-europe/) - Berlin (Germany)
 * 15-16: [LDX3 New York](https://leaddev.com/leaddev-new-york) - New York, NY (USA)
 * 15-16: [2026 ISPE Nordic-Baltic Validation Summit](https://ispe.org/conferences/ispe-nordic-baltic-conference-2026) - Riga (Latvia) <a href="https://sessionize.com/ispe-nordic-baltic-validation-summit-2026"><img alt="CFP 2026 ISPE Nordic-Baltic Validation Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=red"></a>
@@ -1907,6 +1908,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-10: [State of Open Conference 27 - SOOCON 27](https://stateofopencon.com/) - London (UK)
 * 16-17: [Power BI Summit 16. - 17. Februar 2027](https://events.m365-summits.de/PowerBISummit1617Februar2027) - Online <a href="https://sessionize.com/power-bi-summit-16-17-februar-2027"><img alt="CFP Power BI Summit 16. - 17. Februar 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-September-2026&color=green"></a>
 * 22-24: [SQL Konferenz 2027](https://sqlkonferenz.de) - Hanau am Main (Germany) <a href="https://sessionize.com/sql-konferenz-2027"><img alt="CFP SQL Konferenz 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-October-2026&color=green"></a>
+* 24-26: [Norfolk Developers Conference 2027](https://nordevcon.com/) - Norwich (UK) <a href="https://sessionize.com/nordevcon-2027"><img alt="CFP Norfolk Developers Conference 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2026&color=green"></a>
 
 ### March
 
