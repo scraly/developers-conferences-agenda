@@ -3187,3 +3187,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-30-DevFest.cz 2026,tech:developer,topic:tech-conference,language:czech
 2026-12-05-HTMD Conference 2026,tech:ai,topic:developer,language:hindi
 2026-12-09-Great International AI Native Summit (GAINS),tech:ai,topic:innovation,language:english
+2026-08-28-Umbraco India Festival,tech:cms,topic:dotnet,topic:web,language:english
+2026-09-15-AWS Community Day DACH,tech:cloud,topic:aws,topic:devops,language:german
+2026-10-04-Offensive AI Con,tech:ai,topic:security,topic:cybersecurity,language:english
+2027-02-24-Norfolk Developers Conference 2027,tech:programming,topic:development,topic:conference,language:english
