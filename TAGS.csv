@@ -3193,4 +3193,22 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-02-24-Norfolk Developers Conference 2027,tech:programming,topic:development,topic:conference,language:english
 2026-10-03-DevFest Tripoli 2026,tech:python,topic:data,topic:open-source,language:english
 2026-07-02-MCP Connect Travel Edition,topic:ai
-2026-06-24-MCP Connect Lisbon,topic:ai
+2026-06-24-MCP Connect Lisbon,topic:ai2026-06-08-Q2N,tech:cloud,topic:kubernetes,topic:open-source,language:english
+2026-06-25-Global Fabric Day 2026,tech:web,topic:development,language:english
+2026-07-19-Google Cloud Next Extended Bangkok 2026,tech:cloud,topic:google-cloud,language:english
+2026-09-01-KCD x Ceph x Openinfra Day Korea 2026,tech:cloud,topic:kubernetes,topic:open-source,language:english
+2026-09-14-Code Europe,tech:web,topic:development,language:english
+2026-09-15-KCD Washington DC 2026,tech:cloud,topic:kubernetes,language:english
+2026-09-15-Xen Summit 2026,tech:virtualization,topic:xen,language:english
+2026-09-19-KCD Gujarat 2026,tech:cloud,topic:kubernetes,language:english
+2026-10-01-kcpCON,tech:cloud,topic:kubernetes,language:english
+2026-10-03-Ash Conference 2026,tech:mobile,topic:ios,language:english
+2026-10-05-Observability Summit Europe,tech:monitoring,topic:observability,language:english
+2026-11-04-Do iOS 2026,tech:mobile,topic:ios,language:english
+2026-11-11-J-Fall 2026,tech:web,topic:development,language:dutch
+2026-11-12-Update Conference Prague 2026,tech:web,topic:development,language:czech
+2026-11-13-pgDay México 2026,tech:database,topic:postgresql,language:spanish
+2026-11-19-Codeurs en Seine,tech:web,topic:development,language:french
+2026-11-20-TechMids Conf 2026,tech:web,topic:development,language:english
+2027-03-10-Monster Scale Summit 2027,tech:database,topic:scylla,language:english
+2027-06-03-Cloud Native Days France 2027,tech:cloud,topic:kubernetes,language:french
