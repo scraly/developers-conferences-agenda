@@ -3212,3 +3212,12 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-20-TechMids Conf 2026,tech:web,topic:development,language:english
 2027-03-10-Monster Scale Summit 2027,tech:database,topic:scylla,language:english
 2027-06-03-Cloud Native Days France 2027,tech:cloud,topic:kubernetes,language:french
+2026-07-04-Data & AI workshop,tech:python,topic:data,topic:ai,topic:machine-learning,language:english
+2026-07-25-Data & AI Community Day Durban: AI Unplugged - The Maskandi Sessions,tech:python,topic:data,topic:ai,topic:machine-learning,language:english
+2026-09-08-AI Builders #1 - Agentic,tech:python,topic:ai,topic:agentic,language:english
+2026-09-11-Nashville Microsoft Community Day 2026,tech:microsoft,topic:cloud,topic:developer,language:english
+2026-10-14-Fabric Day,tech:dotnet,topic:azure,topic:fabric,language:norwegian
+2026-10-17-PyCon Ireland 2026,tech:python,topic:data,topic:ai,topic:community,language:english
+2026-11-07-DevFest KC 2026,tech:google,topic:cloud,topic:developer,language:english
+2026-11-27-Women in Agile EU Launching New Voices 2026,topic:agile,topic:leadership,topic:diversity,language:english
+2027-04-13-Analytics and Data Summit 2027,tech:data,topic:analytics,topic:business-intelligence,language:english
