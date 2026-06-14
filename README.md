@@ -662,7 +662,6 @@ All the data (past and coming) are available publicly in JSON:
 * 26-01/05: [STAREAST](https://stareast.techwell.com) - Orlando, FL (USA)
 * 27: [betterCode() Spring](https://spring.bettercode.eu) - Online
 * 27-28: [foss-north 2026](https://foss-north.se/2026/) - Göteborg (Sweden) <a href="https://foss-north.se/accounts/login/?next=/events/2026/callforpapers/"><img alt="CFP foss-north 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-February-2026&color=red"></a>
-* 27-30: [Great International Developer Summit (GIDS)](https://developersummit.com/) - Bengaluru (India) <a href="https://developersummit.com/cfp"><img alt="CFP Great International Developer Summit (GIDS)" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2026&color=green"></a> <a href="https://saltmarch.com/contact-us"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 28: [Azure Cosmos DB Conf 2026](https://developer.azurecosmosdb.com/conf/) - Online <a href="https://sessionize.com/azure-cosmos-db-conf-2026"><img alt="CFP Azure Cosmos DB Conf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-February-2026&color=red"></a>
 * 28: [enterJS Integrate AI](https://enterjs.de/ai.php) - Online
 * 28-29: [stackconf 2026](https://stackconf.eu/) - Munich (Germany) <a href="https://stackconf.eu/propose/"><img alt="CFP stackconf" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2025&color=red"></a>
@@ -1982,6 +1981,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-9: [Devoxx France 2027](https://www.devoxx.fr/) - Paris (France)
 * 13-15: [Analytics and Data Summit 2027](http://andouc.org) - Redwood Shores, CA (USA) <a href="https://sessionize.com/analytics-and-data-summit-2027"><img alt="CFP Analytics and Data Summit 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-November-2026&color=green"></a>
 * 14-15: [Devopsdays Zurich](https://devopsdays.org/events/2027-zurich) - Zurich (Germany)
+* 27-30: [Great International Developer Summit (GIDS)](https://developersummit.com/) - Bengaluru (India) <a href="https://developersummit.com/cfp"><img alt="CFP Great International Developer Summit (GIDS)" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2026&color=green"></a> <a href="https://saltmarch.com/contact-us"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 
 ### May
 
