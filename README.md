@@ -1622,6 +1622,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-8: [data2day](https://www.data2day.de) - Köln (Germany) <a href="https://www.data2day.de/cfp.php"><img alt="CFP data2day" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-April-2026&color=red"></a>
 * 7-8: [WordPress Accessibility Day](https://wpaccessibility.day/2026/) - Online <a href="https://www.youtube.com/channel/UCes9XCUZd51CAigbBEGlfNg/"><img alt="CFP WordPress Accessibility Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2026&color=red"></a>
 * 7-9: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) - Prague (Czechia)
+* 7-9: [Cloud Security Space 2026](https://cloudsecurityspace.org/) - Buenos Aires (Argentina) <a href="https://sessionize.com/cloud-security-village-2026"><img alt="CFP Cloud Security Space 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2026&color=green"></a>
 * 7-9: [Embedded Linux Conference Europe](https://events.linuxfoundation.org/embedded-linux-conference-europe/) - Prague (Czechia)
 * 7-9: [next.app devcon](https://www.nextappcon.com) - Berlin (Germany)
 * 7-9: [swiftcon@next.app devcon](https://www.nextappcon.com/swiftcon) - Berlin (Germany)
