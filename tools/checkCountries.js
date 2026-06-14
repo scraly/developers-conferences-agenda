@@ -238,7 +238,8 @@ const COUNTRY_NAME_TO_CODE = {
   'TAJIKISTAN': 'TJ',
   'PARAGUAY': 'PY',
   'VENEZUELA': 'VE',
-  'SALVADOR': 'SV'
+  'SALVADOR': 'SV',
+  'ALBANIA': 'AL'
 };
 
 const VIRTUAL_KEYWORDS = ['virtual', 'virtualized', 'online', 'remote', 'hybrid'];

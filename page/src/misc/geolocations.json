@@ -147,6 +147,10 @@
     "latitude": 51.2211097,
     "longitude": 4.3997081
   },
+  "Apeldoorn (Netherlands)": {
+    "latitude": 52.1795738,
+    "longitude": 5.9300775
+  },
   "Apenheul (Netherlands)": {
     "latitude": 52.215326,
     "longitude": 5.9187439
@@ -319,7 +323,7 @@
     "latitude": -1.45056,
     "longitude": -48.4682453
   },
-  "Belfast (Northern Ireland)": {
+  "Belfast (UK)": {
     "latitude": 54.596391,
     "longitude": -5.9301829
   },
@@ -390,6 +394,10 @@
   "Billund (Denmark)": {
     "latitude": 55.7247018,
     "longitude": 9.1195835
+  },
+  "Bioggio (Switzerland)": {
+    "latitude": 46.0141052,
+    "longitude": 8.9076167
   },
   "Biot (France)": {
     "latitude": 43.62685099999999,
@@ -2703,6 +2711,10 @@
     "latitude": 52.4760892,
     "longitude": -71.8258668
   },
+  "Racale (Italy)": {
+    "latitude": 39.963119,
+    "longitude": 18.093826
+  },
   "Raipur (India)": {
     "latitude": 21.2380912,
     "longitude": 81.6336993
@@ -3218,6 +3230,10 @@
   "Timisoara (Romania)": {
     "latitude": 45.7538355,
     "longitude": 21.2257474
+  },
+  "Tirana (Albania)": {
+    "latitude": 41.3281482,
+    "longitude": 19.8184435
   },
   "Tokyo (Japan)": {
     "latitude": 35.6840574,
