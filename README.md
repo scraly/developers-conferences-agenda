@@ -1989,6 +1989,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 24-25: [Web Rebels 2027](https://webrebels.org/) - Oslo (Norway) <a href="https://sessionize.com/web-rebels-2027"><img alt="CFP Web Rebels 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=green"></a>
 * 24-26: [Planview Connect 2027](https://www.planviewconnect.com/) - San Diego, CA (USA) <a href="https://sessionize.com/planview-connect-2027"><img alt="CFP Planview Connect 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-March-2027&color=green"></a>
+* 25-26: [Devopsdays Geneva](https://devopsdays.org/events/2027-geneva) - Geneva (Switzerland)
 * 26-27: [GITEX AI SERBIA](https://www.gitexserbia.com) - Belgrade (Serbia)
 * 31-03/06: [JCON EUROPE](https://2027.europe.jcon.one) - Köln (Germany)
 
