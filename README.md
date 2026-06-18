@@ -1152,7 +1152,7 @@ All the data (past and coming) are available publicly in JSON:
 * 25: [Open Source in Finance Forum London](https://events.linuxfoundation.org/open-source-finance-forum-london/) - London (UK)
 * 25: [PlatformCON Live day NYC](https://platformcon.com/live-day-nyc) - New York, NY (USA)
 * 25: [Mastering GitOps](https://www.mastering-gitops.de) - Online
-* 25: [Global Fabric Day 2026](https://www.meetup.com/virtualdevshow/events/314153677/) - Online <a href="https://sessionize.com/fabricday2026/"><img alt="CFP Global Fabric Day 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-June-2026&color=green"></a>
+* 25: [Global Fabric Day 2026](https://www.meetup.com/virtualdevshow/events/314153677/) - Online <a href="https://sessionize.com/fabricday2026/"><img alt="CFP Global Fabric Day 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-June-2026&color=red"></a>
 * 25: [SecureChainCon 2026](https://ortelius.io/events/) - Online <a href="https://sessionize.com/securechaincon-2026"><img alt="CFP SecureChainCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-May-2026&color=red"></a>
 * 25: [BSidesTLV 2026](https://bsidestlv.com) - Tel Aviv (Israel) <a href="https://sessionize.com/bsidestlv-2026/"><img alt="CFP BSidesTLV 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=red"></a>
 * 25: [Experts Live Austria 2026](http://www.expertslive.at) - Linz (Austria) <a href="https://sessionize.com/experts-live-austria-2026/"><img alt="CFP Experts Live Austria 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2026&color=red"></a>
