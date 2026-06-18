@@ -1553,7 +1553,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28-02/10: [MLCon NYC 2026](https://mlconference.ai/new-york/) - New York, NY (USA)
 * 28-02/10: [International JavaScript Conference NYC 2026](https://javascript-conference.com/new-york/) - New York, NY (USA)
 * 28-03/10: [Goatmire Elixir 2026](https://2026.goatmire.com) - Varberg (Sweden) <a href="https://sessionize.com/goatmire-elixir-2026"><img alt="CFP Goatmire Elixir 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-April-2026&color=red"></a>
-* 29: [KCD Sofia 2026](https://kcd.bg/) - Sofia (Bulgaria)
+* 29: [KCD Sofia 2026](https://kcd.bg/) - Sofia (Bulgaria) <a href="https://sessionize.com/kcd-sofia-2026/"><img alt="CFP KCD Sofia 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-July-2026&color=green"></a>
 * 29: [Devopsdays Halifax](https://devopsdays.org/events/2026-halifax) - Halifax, NS (Canada)
 * 29-30: [Devopsdays Berlin](https://devopsdays.org/events/2026-berlin/welcome) - Berlin (Germany)
 * 29-30: [Cloud Native Days Austria](https://cloudnativedays.at/) - Vienna (Austria) <a href="https://sessionize.com/cloud-native-days-austria-2026"><img alt="CFP Cloud Native Days Austria 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=red"></a>
@@ -1605,6 +1605,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5: [Devopsdays Prague](https://devopsdays.org/events/2026-prague/welcome/) - Prague (Czechia) <a href="https://www.papercall.io/dodprague26"><img alt="CFP Devopsdays Prague 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2026&color=green"></a>
 * 5: [MCP Dev Summit Toronto](https://events.linuxfoundation.org/mcp-dev-summit-toronto/) - Toronto (Canada) <a href="https://events.linuxfoundation.org/mcp-dev-summit-toronto/program/cfp/"><img alt="CFP MCP Dev Summit Toronto" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-July-2026&color=green"></a>
 * 5: [Observability Summit Europe](https://events.linuxfoundation.org/observability-summit-europe/) - Prague (Czechia)
+* 5: [ValkeyConf](https://events.linuxfoundation.org/valkeyconf/) - Prague (Czechia)
 * 5-6: [IIBA Poland Summit 2026](https://iibapolandsummit.org/) - Warsaw (Poland) <a href="https://sessionize.com/iiba-poland-summit-2026"><img alt="CFP IIBA Poland Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=red"></a>
 * 5-6: [Experts Live Saudi 2026](https://expertslive.sa) - Riyadh (Saudi Arabia) <a href="https://sessionize.com/experts-live-saudi-2026"><img alt="CFP Experts Live Saudi 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=red"></a>
 * 5-6: [Nordic Integration Summit 2026](https://nordicintegrationsummit.com) - Stockholm (Sweden) <a href="https://sessionize.com/nordic-integration-summit-2026"><img alt="CFP Nordic Integration Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-May-2026&color=red"></a>
