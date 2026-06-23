@@ -1684,6 +1684,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15: [Minds Mastering Machines - M3: LLMs im Unternehmen](https://m3-konferenz.de/llm.php) - Online
 * 15: [Conversations Roadshow: Stockholm by CTO Craft](https://conversations.ctocraft.com/stockholm) - Stockholm (Sweden)
 * 15: [FabFest 2026](https://fabfestconf.com/) - Birmingham (UK) <a href="https://sessionize.com/fabfest2026"><img alt="CFP FabFest 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2026&color=red"></a>
+* 15: [KubeVirt Summit Virtual](https://community2.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-kubevirt-summit-2026/) - Online <a href="https://sessionize.com/kubevirt-summit-2026"><img alt="CFP KubeVirt Summit Virtual" src="https://img.shields.io/static/v1?label=CFP&message=Open&color=green"></a>
 * 15-16: [Tech Fuse Des Moines 2026](https://techfusedsm.com/) - Des Moines, IA (USA) <a href="https://sessionize.com/tech-fuse-des-moines-2026"><img alt="CFP Tech Fuse Des Moines 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=red"></a>
 * 15-16: [KotlinLeeds](https://kotlinleeds.com) - Leeds (UK)
 * 15-16: [Longhorn PHP](https://longhornphp.com) - Austin, TX (USA) <a href="https://cfp.longhornphp.com"><img alt="CFP Longhorn PHP" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=green"></a>
