@@ -1492,7 +1492,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22: [Future Coding Day](https://www.futurecodingday.com) - Copenhagen (Denmark)
 * 22-23: [heise devSec](https://heise-devsec.de/cfp.php) - Marburg (Germany) <a href="https://heise-devsec.de/code_of_conduct.php"><img alt="CFP heise devSec" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2026&color=red"></a>
 * 22-23: [Devopsdays Denver](https://devopsdays.org/events/2026-denver) - Denver, CO (USA) <a href="https://www.papercall.io/dodrox26"><img alt="CFP DevOpsDays Rockies 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=red"></a>
-* 22-23: [Agile en Seine & IA 2026](https://www.agileenseine.com/) - Paris (France) <a href="https://sessionize.com/agile-en-seine-2026"><img alt="CFP Agile en Seine & IA 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-June-2026&color=green"></a>
+* 22-23: [Agile en Seine & IA 2026](https://www.agileenseine.com/) - Paris (France) <a href="https://sessionize.com/agile-en-seine-2026"><img alt="CFP Agile en Seine & IA 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-June-2026&color=red"></a>
 * 22-24: [Future Product Days](https://www.futureproductdays.com) - Copenhagen (Denmark)
 * 22-26: [Nerdearla Argentina](https://nerdear.la/) - Buenos Aires (Argentina)
 * 23: [Azure Fest 2026](https://azurefest.nl/) - Nieuwegein (Netherlands) <a href="https://sessionize.com/azure-fest-2026"><img alt="CFP Azure Fest 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-June-2026&color=red"></a>
