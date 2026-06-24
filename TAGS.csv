@@ -3268,3 +3268,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-02-ServerlessDays Cardiff 2026,tech:serverless,topic:cloud-native,topic:devops,language:english
 2026-10-23-DevFest Troy, NY 2026,tech:python,topic:data,topic:open-source,language:english
 2026-11-07-DevFest 2026 - GDG Ourense,tech:python,topic:data,topic:open-source,language:spanish
+2026-10-15-KubeVirt Summit Virtual,tech:kubernetes,topic:virtualization,topic:cloud-native,language:english
