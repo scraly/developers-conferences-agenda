@@ -1,4 +1,5 @@
 event_id,attendees
+2026-02-10-Voxxed Days CERN,attendees:1200
 2026-02-11-Container Days London,attendees:1000
 2025-09-10-devopsdays Vilnius,attendees:700
 2026-02-03-Cloud Native Days France 2026,attendees:2000
@@ -65,7 +66,7 @@ event_id,attendees
 2026-10-12-SmashingConf Antwerp,attendees:400
 2026-11-05-Heapcon 2026,attendees:700
 2026-06-05-TechReady,attendees:450
-2026-06-27-Asynconf,attendees:300
+2026-06-27-Asynconf,attendees:300,discount:AURELIE15|15%
 2026-03-05-RootedCon,attendees:500
 2026-08-28-State of the Map,attendees:600
 2026-03-23-KubeAuto Day Amsterdam,attendees:400
