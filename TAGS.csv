@@ -3269,3 +3269,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-23-DevFest Troy, NY 2026,tech:python,topic:data,topic:open-source,language:english
 2026-11-07-DevFest 2026 - GDG Ourense,tech:python,topic:data,topic:open-source,language:spanish
 2026-10-15-KubeVirt Summit Virtual,tech:kubernetes,topic:virtualization,topic:cloud-native,language:english
+2026-07-02-Are You Measuring the Right Things? SLOs, Toil, and the Metrics That Matter,tech:cloud,topic:observability,topic:sre,language:english
+2026-11-07-Devfest Pescara 2026,tech:java,topic:android,topic:google,language:italian
+2026-11-28-The Repair Summit,tech:hardware,topic:repair,topic:circular-economy,language:english
+2026-12-01-JakartaOne Livestream 2026,tech:java,topic:ee,topic:livestream,language:english
