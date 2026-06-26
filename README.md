@@ -1215,6 +1215,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10: [BSidesPGH 2026](https://bsidespgh.com) - Pittsburgh, PA (USA) <a href="https://sessionize.com/bsidespgh-2026/"><img alt="CFP BSidesPGH 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-April-2026&color=red"></a>
 * 10-11: [Data Saturday Rheinland 2026](https://datasaturdays.com/Event/20260711-datasaturday0084) - Augustin (Germany) <a href="https://sessionize.com/data-saturday-rheinland-2026"><img alt="CFP Data Saturday Rheinland 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-March-2026&color=red"></a>
 * 10-11: [Summercon 2026](https://www.summercon.org) - New York, NY (USA) <a href="https://sessionize.com/summercon-2026"><img alt="CFP Summercon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-May-2026&color=red"></a>
+* 11: [n8n Pune Community Meetup: Launch Edition](https://luma.com/n8n-pune-m1?tk=bC9Iwc) - Pune, Maharashtra (India)
 * 11: [ACM Irving Tech Talk July 2026 (In-Person)](https://irving.acm.org/events/irving-acm-professional-chapter-monthly-tech-talk-july-2026/) - Irving, TX (USA) <a href="https://sessionize.com/acm-irving-tech-talk-july-2026"><img alt="CFP ACM Irving Tech Talk July 2026 (In-Person)" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-July-2026&color=green"></a>
 * 13-19: [SciPy 2026](https://www.scipy2026.scipy.org/) - Minneapolis, MN (USA)
 * 14: [UberConf](https://uberconf.com) - Denver, CO (USA)
