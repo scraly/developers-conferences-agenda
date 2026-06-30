@@ -8,7 +8,12 @@
 
 const fs = require('fs');
 const path = require('path');
-const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
+const fetch = globalThis.fetch;
+
+if (typeof fetch !== 'function') {
+  console.error('# Native fetch is not available. Please use Node.js >= 18.');
+  process.exit(1);
+}
 
 /*
  * Check the existence of mandatory OVH_AI_ENDPOINTS_* environment variables to connect and use OVHcloud AI Endpoints
