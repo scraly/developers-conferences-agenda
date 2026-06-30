@@ -32,7 +32,7 @@
     "@playwright/test": "^1.58.2",
     "@types/react": "^18.0.37",
     "@types/react-dom": "^18.0.11",
-    "@vitejs/plugin-react-swc": "^3.0.0",
+    "@vitejs/plugin-react-swc": "^4.3.1",
     "@vitest/ui": "^4.0.9",
     "eslint": "^9.39.2",
     "eslint-plugin-jsx-a11y": "^6.10.2",
@@ -42,7 +42,7 @@
     "globals": "^15.14.0",
     "prettier": "^1.19.1",
     "prettier-airbnb-config": "^1.0.0",
-    "vite": "^6.4.2",
+    "vite": "^8.1.1",
     "vitest": "^4.1.0"
   },
   "prettier": "prettier-airbnb-config",
