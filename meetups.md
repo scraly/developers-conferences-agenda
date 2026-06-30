@@ -87,6 +87,10 @@ Map: https://umap.openstreetmap.fr/en/map/meetups-france_1231721#6/47.078/3.296
 
 * [AI Builders Berlin](https://aibuilders.club) - Berlin <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
 
+## India
+
+* [n8n Pune Community Meetup](https://lu.ma/n8n) - Pune <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=Misc&color=pink" />
+
 ## Netherlands
 
 * [AI Builders Amsterdam](https://aibuilders.club) - Amsterdam <img alt="Category" src="https://img.shields.io/static/v1?label=Category&message=AI&color=gray" />
