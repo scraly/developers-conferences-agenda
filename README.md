@@ -1,5 +1,7 @@
 # Developers Conferences & CFP Agenda/List/Map
 
+[![Plumber Score](https://score.getplumber.io/github.com/scraly/developers-conferences-agenda.svg)](https://score.getplumber.io/github.com/scraly/developers-conferences-agenda)
+
 --> [developers.events](https://developers.events) <--
 
 This repository lists a maximum of conference dates to help conference organizers.
