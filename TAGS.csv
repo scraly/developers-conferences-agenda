@@ -3279,3 +3279,10 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-24-aMP Day Montpellier 2026,tech:python,topic:open-source,language:french
 2026-10-14-Virtual EnvoyCon 10 Year Anniversary Edition,tech:python,topic:open-source,language:english
 2026-11-07-OpenFest 2026,tech:python,topic:open-source,language:english
+2026-09-26-Kubernetes Community Days KCD São Paulo 2026,tech:kubernetes,topic:cloud-native,topic:open-source,language:english
+2026-10-06-Valkey Contributor Summit,tech:database,topic:open-source,language:czech
+2026-10-09-AWS DMV Community Day 2026,tech:aws,topic:cloud,language:english
+2026-10-16-Devopsdays Almaty,tech:devops,topic:community,language:kazakh
+2026-10-17-AWS Community Day Spain 2026,tech:aws,topic:cloud,language:spanish
+2026-11-01-DevFest Karlsruhe,tech:developer,topic:conference,language:german
+2026-12-01-Debezium Community Showcase,tech:database,topic:open-source,language:english
