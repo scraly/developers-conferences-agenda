@@ -1709,6 +1709,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15-16: [KotlinLeeds](https://kotlinleeds.com) - Leeds (UK)
 * 15-16: [Longhorn PHP](https://longhornphp.com) - Austin, TX (USA) <a href="https://cfp.longhornphp.com"><img alt="CFP Longhorn PHP" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=red"></a>
 * 15-16: [2nd International Conference on Artificial Intelligence and Big Data Analytics](https://vartusconferences.com/aibda) - Singapore (Singapore)
+* 15-17: [X-Ops Conference Dubai 2026](https://xopsconference.com/) - Dubai (United Arab Emirates) <a href="https://sessionize.com/x-ops-conference-2026/"><img alt="CFP X-Ops Conference Dubai 2026" src="https://img.shields.io/static/v1?label=CFP&message=Open&color=green"></a>
 * 16: [Just Product](https://www.justproduct.de) - Munich (Germany)
 * 16: [AWS Community Day Australia, 2026](https://awscommunitydayaus.com/) - Brisbane (Australia) <a href="https://sessionize.com/aws-community-day-australia-2026"><img alt="CFP AWS Community Day Australia, 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-August-2026&color=green"></a>
 * 16: [Umbraco UK Conference 2026](https://2026.umbracofoundation.co.uk) - London (UK) <a href="https://sessionize.com/umbraco-uk-conference-2026"><img alt="CFP Umbraco UK Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2026&color=red"></a>
@@ -1927,7 +1928,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19-20: [Devopsdays Portugal](https://devopsdays.org/events/2026-portugal) - Porto (Portugal) <a href="https://sessionize.com/kcd-porto-2026"><img alt="CFP Devopsdays Portugal" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2026&color=green"></a>
 * 19-20: [DefCamp 2026](https://def.camp) - Bucharest (Romania) <a href="https://sessionize.com/defcamp-2026"><img alt="CFP DefCamp 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2026&color=green"></a>
 * 19-20: [Analysis, Design & Architecture Conference 2026](https://adaconf.org) - Melbourne (Australia) <a href="https://sessionize.com/analysis-design-architecture-2026"><img alt="CFP Analysis, Design & Architecture Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=red"></a>
-* 19-21: [X-Ops Conference Madrid 2026](https://xopsconference.com/) - Móstoles (Spain) <a href="https://sessionize.com/x-ops-conference-mad-2026"><img alt="CFP X-Ops Conference Madrid 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2026&color=green"></a>
+* 19-21: [X-Ops Conference Madrid 2026](https://xopsconference.com/) - Móstoles (Spain) <a href="https://sessionize.com/x-ops-conference-2026/"><img alt="CFP X-Ops Conference Madrid 2026" src="https://img.shields.io/static/v1?label=CFP&message=Open&color=green"></a>
 * 20: [droidCon India](https://india.droidcon.com) - Bengaluru (India)
 * 20: [angularday 2026](https://www.angularday.it) - Verona (Italy) <a href="https://sessionize.com/angularday-2026"><img alt="CFP angularday 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-June-2026&color=red"></a>
 * 20: [Agentic Engineering Day Zurich](https://www.agenticdays.com/) - Zurich (Switzerland)
