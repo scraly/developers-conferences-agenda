@@ -1709,7 +1709,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15-16: [KotlinLeeds](https://kotlinleeds.com) - Leeds (UK)
 * 15-16: [Longhorn PHP](https://longhornphp.com) - Austin, TX (USA) <a href="https://cfp.longhornphp.com"><img alt="CFP Longhorn PHP" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=red"></a>
 * 15-16: [2nd International Conference on Artificial Intelligence and Big Data Analytics](https://vartusconferences.com/aibda) - Singapore (Singapore)
-* 15-17: [X-Ops Conference Dubai 2026](https://xopsconference.com/) - Dubai (United Arab Emirates) <a href="https://sessionize.com/x-ops-conference-2026/"><img alt="CFP X-Ops Conference Dubai 2026" src="https://img.shields.io/static/v1?label=CFP&message=Open&color=green"></a>
+* 15-17: [X-Ops Conference Dubai 2026](https://xopsconference.com/) - Dubai (United Arab Emirates) <a href="https://sessionize.com/x-ops-conference-2026/"><img alt="CFP X-Ops Conference Dubai 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=green"></a>
 * 16: [Just Product](https://www.justproduct.de) - Munich (Germany)
 * 16: [AWS Community Day Australia, 2026](https://awscommunitydayaus.com/) - Brisbane (Australia) <a href="https://sessionize.com/aws-community-day-australia-2026"><img alt="CFP AWS Community Day Australia, 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-August-2026&color=green"></a>
 * 16: [Umbraco UK Conference 2026](https://2026.umbracofoundation.co.uk) - London (UK) <a href="https://sessionize.com/umbraco-uk-conference-2026"><img alt="CFP Umbraco UK Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2026&color=red"></a>
