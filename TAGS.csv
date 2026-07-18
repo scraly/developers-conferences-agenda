@@ -3318,3 +3318,5 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-01-14-SnowCamp 2027,tech:cloud,topic:infrastructure,language:french
 2026-11-23-VibeKode Berlin 2026,topic:coding,topic:developer,topic:software-engineering
 2026-10-05-VibeKode Utrecht 2026,topic:coding,topic:software-engineering,topic:development
+2026-11-28-FOSS for All Conference 2026,tech:python,topic:data,topic:open-source,language:english
+2026-12-10-DevCon 28 : sécurité | post-quantique | hacking édition 2027,tech:cryptography,topic:security,topic:quantum-computing,language:french
