@@ -3324,3 +3324,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-26-IndiaFOSS 2026,topic:open-source,topic:open-data,topic:devops,topic:research
 2026-12-05-OpenSource Con India 2026,topic:open-source,topic:cloud-native,topic:linux
 2026-11-14-UbuCon India 2026,tech:ubuntu,topic:open-source,topic:linux,topic:devops
+2026-10-02-Compiler tech IICT 2026,tech:compiler,topic:programming-languages,topic:software-engineering,language:english
+2026-10-12-AIE NYC 2026,tech:artificial-intelligence,topic:machine-learning,topic:deep-learning,language:english
+2026-10-17-Devopsdays Juiz de Fora,tech:devops,topic:cloud-computing,topic:automation,language:portuguese
