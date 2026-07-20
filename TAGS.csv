@@ -3327,3 +3327,5 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-02-Compiler tech IICT 2026,tech:compiler,topic:programming-languages,topic:software-engineering,language:english
 2026-10-12-AIE NYC 2026,tech:artificial-intelligence,topic:machine-learning,topic:deep-learning,language:english
 2026-10-17-Devopsdays Juiz de Fora,tech:devops,topic:cloud-computing,topic:automation,language:portuguese
+2026-10-24-DevFest Callao 2026,tech:python,topic:data,topic:open-source,language:english
+2026-12-19-DevFest Cairo 2026,tech:python,topic:data,topic:open-source,language:english
