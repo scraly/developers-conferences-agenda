@@ -3331,3 +3331,8 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-12-19-DevFest Cairo 2026,tech:python,topic:data,topic:open-source,language:english
 2026-10-27-Black hat India 2026,topic:cybersecurity,tech:cloud-security,tech:ai-security,topic:web-security
 2026-10-10-unKonf 2026,topic:backend,topic:frontend,topic:devops,topic:ai
+2026-10-14-AI Engineer NYC 2026,tech:ai,tech:python,topic:data,topic:open-source,language:english
+2026-10-15-OPI Summit on DPU/IPUs,tech:hardware,tech:infrastructure,topic:dpu,topic:ipu,language:english
+2026-10-20-Conversations Roadshow: London by CTO Craft,tech:leadership,topic:cto,topic:innovation,language:english
+2026-11-02-CTO Craft Con: Fintech,tech:finance,tech:leadership,topic:cto,topic:fintech,language:english
+2026-12-08-Conversations Roadshow: New York by CTO Craft,tech:leadership,topic:cto,topic:innovation,language:english
