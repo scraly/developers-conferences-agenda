@@ -1910,7 +1910,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13: [Akademy 2026](https://akademy.kde.org/) - Graz (Austria)
 * 13: [pgDay México 2026](https://2026.pgday.com.mx/) - Mexico City (Mexico) <a href="https://sessionize.com/pgday-mexico-2026"><img alt="CFP pgDay México 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-August-2026&color=green"></a>
 * 13: [ffconf](https://2026.ffconf.org) - Brighton (UK) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfp1CznTTQey3bB0ALMq8OJpFZkWqrevlBhvAvWlRBlo4c6xg/viewform"><img alt="CFP ffconf" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-November-2026&color=green"></a>
-* 13-14: [Italian Agile Days 2026](https://www.agileday.it) - Cosenza (Italy) <a href="https://sessionize.com/italian-agile-days-2026"><img alt="CFP Italian Agile Days 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-July-2026&color=green"></a>
+* 13-14: [Italian Agile Days 2026](https://www.agileday.it) - Cosenza (Italy) <a href="https://sessionize.com/italian-agile-days-2026"><img alt="CFP Italian Agile Days 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-July-2026&color=red"></a>
 * 13-14: [Devopsdays Barcelona](https://devopsdays.org/events/2026-barcelona) - Barcelona (Spain) <a href="https://talks.devopsdays.org/devopsdays-barcelona-2026/cfp"><img alt="CFP Devopsdays Barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2026&color=red"></a>
 * 13-15: [CODE BLUE 2026](https://codeblue.jp/) - Tokyo (Japan) <a href="https://sessionize.com/CB26-TRAINING"><img alt="CFP CODE BLUE 2026 - TRAINING -" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2026&color=red"></a>
 * 14: [Black Alpaca 2026](https://www.blackalpaca.org/) - Lima (Peru) <a href="https://sessionize.com/black-alpaca-2026"><img alt="CFP Black Alpaca 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-October-2026&color=green"></a>
@@ -1991,7 +1991,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28: [FOSS for All Conference 2026](https://2026.fossforall.org) - Seoul (South Korea)
 * 28: [The Repair Summit](https://dublinmaker.ie/repair-summit-2026/) - Dublin (UK) <a href="https://sessionize.com/the-repair-summit/"><img alt="CFP The Repair Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-September-2026&color=green"></a>
 * 28-29: [GambiConf 2026](https://gambiconf.dev/) - São Paulo (Brazil) <a href="https://gambiconf.dev/cfp"><img alt="CFP GambiConf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-June-2026&color=red"></a>
-* 30-01/12: [Reversim Summit 2026](https://summit2026.reversim.com/) - Tel Aviv (Israel) <a href="https://sessionize.com/reversim-summit-2026"><img alt="CFP Reversim Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-July-2026&color=green"></a>
+* 30-01/12: [Reversim Summit 2026](https://summit2026.reversim.com/) - Tel Aviv (Israel) <a href="https://sessionize.com/reversim-summit-2026"><img alt="CFP Reversim Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-July-2026&color=red"></a>
 * 30-02/12: [APIConf](https://apiconf.io) - Clearwater, FL (USA)
 * 30-04/10: [IT Security Summit Munich 2026](https://it-security-summit.com/munich/) - Munich (Germany)
 
