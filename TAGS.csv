@@ -2627,7 +2627,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-24-OWASP AppSec Days France 2026,tech:security,topic:appsec,language:french
 2026-09-28-DevOpsDays Bogotá 2026,tech:devops,topic:cloud,language:spanish
 2026-10-01-Tiny Ruby Conf. 2026,tech:ruby,topic:conference,language:finnish
-2026-11-19-DevFest Toulouse 2026,tech:google,topic:developer,language:french
+2026-11-19-DevFest Toulouse 2026,topic:developer,language:french,topic:web,topic:mobile,topic:artificial-intelligence,topic:devops
 2026-03-24-OpenChain and Friends Stuttgart,tech:openchain,topic:open-source,language:english
 2026-03-28-International Women's Day Kiambu 2026 - Breaking the Pattern,tech:women,topic:diversity,language:english
 2026-04-10-IMPACT-THON,tech:innovation,topic:hackathon,language:english
@@ -3345,3 +3345,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-02-Nullcon Berlin,tech:security,topic:cybersecurity,topic:privacy,language:german
 2026-11-12-Seattle Day of Data 2026,tech:data-science,topic:data,topic:analytics,language:english
 2027-06-15-Accelerate Tomorrow AI Summit,tech:ai,topic:machine-learning,topic:artificial-intelligence,language:german
+2026-08-22-Cloud Native Summit Kerala 2026,topic:cloud-native,topic:kubernetes,topic:devops,tech:sre,topic:platform-engineering
