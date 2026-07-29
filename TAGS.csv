@@ -3346,3 +3346,5 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-12-Seattle Day of Data 2026,tech:data-science,topic:data,topic:analytics,language:english
 2027-06-15-Accelerate Tomorrow AI Summit,tech:ai,topic:machine-learning,topic:artificial-intelligence,language:german
 2026-08-22-Cloud Native Summit Kerala 2026,topic:cloud-native,topic:kubernetes,topic:devops,tech:sre,topic:platform-engineering
+2026-08-20-PyCon Ghana,tech:python,topic:data,topic:open-source,language:english
+2026-10-07-PyCon Africa,tech:python,topic:data,topic:open-source,language:english
