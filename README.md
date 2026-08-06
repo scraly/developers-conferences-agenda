@@ -2071,6 +2071,8 @@ All the data (past and coming) are available publicly in JSON:
 
 ### April
 
+* 1-4: [Southern California Linux Expo - SCaLE 24x](https://www.socallinuxexpo.org/) - Pasadena, California (USA) <a href="https://www.socallinuxexpo.org/scale/24x/cfp"><img alt="CFP Southern California Linux Expo - SCaLE 24x" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-November-2026&color=green"></a>
+
 * 7-9: [Devoxx France 2027](https://www.devoxx.fr/) - Paris (France)
 * 13-15: [Analytics and Data Summit 2027](http://andouc.org) - Redwood Shores, CA (USA) <a href="https://sessionize.com/analytics-and-data-summit-2027"><img alt="CFP Analytics and Data Summit 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-November-2026&color=green"></a>
 * 14-15: [Devopsdays Zurich](https://devopsdays.org/events/2027-zurich) - Zurich (Germany)
