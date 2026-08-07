@@ -85,11 +85,11 @@ event_id,attendees
 2026-09-28-API Conference NYC 2026,attendees:500
 2026-09-28-BASTA! Fall 2026,attendees:500
 2026-09-28-DevOpsCon NYC 2026,attendees:500
-2026-11-20-DevOpsCon Munich 2026,attendees:500
+2026-11-30-DevOpsCon Munich 2026,attendees:499
 2026-11-30-IT Security Summit Munich 2026,attendees:500
 2026-10-05-JAX London 2026,attendees:500
 2026-09-28-MLCon NYC 2026,attendees:498
-2026-11-23-MLCon Berlin 2026,attendees:499
+2026-11-16-MLcon Berlin 2026,attendees:500
 2026-09-28-International JavaScript Conference NYC 2026,attendees:500
 2026-10-26-International JavaScript Conference Munich 2026,attendees:500
 2026-10-26-International PHP Conference Munich 2026,attendees:500
@@ -140,7 +140,7 @@ event_id,attendees
 2026-11-05-bitcoin++ privacy edition,attendees:300
 2027-01-14-SnowCamp 2027,attendees:700
 2026-12-10-DevCon 28 : sécurité | post-quantique | hacking édition 2027,attendees:100
-2026-11-23-VibeKode Berlin 2026,attendees:500
+2026-11-16-VibeKode Berlin 2026,attendees:499
 2026-10-05-VibeKode Utrecht 2026,attendees:500
 2026-09-03-Commit Your Code Conference,attendees:1000
 2026-08-22-Containers Day Dominican Republic,attendees:600
@@ -150,3 +150,7 @@ event_id,attendees
 2026-11-11-J-Fall 2026,1920
 2026-09-28-ServerlessDays Milano 2026,200
 2026-08-22-Cloud Native Summit Kerala 2026,attendees:800
+2027-04-25-STAREAST 2027,attendees:1000
+2027-06-06-AI Con USA 2027,attendees:600
+2026-11-16-API Conference Berlin 2026,attendees:500
+2026-10-28-SoJava 2026,attendees:150

@@ -3348,3 +3348,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-08-22-Cloud Native Summit Kerala 2026,topic:cloud-native,topic:kubernetes,topic:devops,tech:sre,topic:platform-engineering
 2026-08-20-PyCon Ghana,tech:python,topic:data,topic:open-source,language:english
 2026-10-07-PyCon Africa,tech:python,topic:data,topic:open-source,language:english
+2027-04-25-STAREAST 2027,topic:software-quality,topic:software-testing,topic:testing
+2027-06-06-AI Con USA 2027,topic:agent-based-ai,topic:ai,topic:artificial-intelligence,topic:machine-learning
+2026-10-28-SoJava 2026,topic:java,topic:agentic-coding
