@@ -1670,7 +1670,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8: [Dapr Day Virtual](https://community2.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-dapr-day/) - Online <a href="https://sessionize.com/DaprDay_2026"><img alt="CFP Dapr Day Virtual" src="https://img.shields.io/static/v1?label=CFP&message=Open&color=green"></a>
 * 8: [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) - Prague (Czechia)
 * 8: [Linux Kernel Maintainer Summit](https://events.linuxfoundation.org/linux-kernel-maintainer-summit/) - Prague (Czechia)
-* 8: [Elastic{ON}](https://www.elastic.co/events/elasticon) - New York City, NY (USA) <a href="https://sessionize.com/elasticon-tour/"><img alt="CFP ElasticON" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=green"></a>
+* 8: [Elastic{ON}](https://www.elastic.co/events/elasticon) - New York, NY (USA) <a href="https://sessionize.com/elasticon-tour/"><img alt="CFP ElasticON" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=green"></a>
 * 8-9: [Pycon Estonia](https://pycon.ee) - Tallinn (Estonia)
 * 8-9: [Forum PHP 2026](https://event.afup.org/) - Marne-la-Vallée (France) <a href="https://afup.org/event/forumphp2026"><img alt="CFP Forum PHP 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-June-2026&color=red"></a>
 * 9: [AWS DMV Community Day 2026](https://www.dmvcommunityday.com/) - Arlington, VA (USA) <a href="https://sessionize.com/aws-dmv-community-day-2026"><img alt="CFP AWS DMV Community Day 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2026&color=green"></a>
