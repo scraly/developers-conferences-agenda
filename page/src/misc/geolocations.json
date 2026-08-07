@@ -727,6 +727,10 @@
     "latitude": 41.8755616,
     "longitude": -87.6244212
   },
+  "Chișinău (Moldova)": {
+    "latitude": 47.0245117,
+    "longitude": 28.8322923
+  },
   "Choisy-le-Roi (France)": {
     "latitude": 48.7630238,
     "longitude": 2.4093664
@@ -1706,6 +1710,10 @@
   "Krakow (Poland)": {
     "latitude": 50.0619474,
     "longitude": 19.9368564
+  },
+  "Kraków (Poland)": {
+    "latitude": 50.0469432,
+    "longitude": 19.9971534
   },
   "Krapina (Croatia)": {
     "latitude": 46.1640284,
