@@ -3351,3 +3351,52 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-04-25-STAREAST 2027,topic:software-quality,topic:software-testing,topic:testing
 2027-06-06-AI Con USA 2027,topic:agent-based-ai,topic:ai,topic:artificial-intelligence,topic:machine-learning
 2026-10-28-SoJava 2026,topic:java,topic:agentic-coding
+2026-09-14-Scrum Master Day,tech:agile,topic:scrum,topic:project-management,language:english
+2026-09-23-Tech Tactics in Education Fall 2026,tech:education,topic:technology,topic:innovation,language:english
+2026-09-30-Elastic{ON},tech:elasticsearch,topic:data,topic:search,language:english
+2026-10-06-betterCode() Agentic AI,tech:ai,topic:agentic-ai,topic:machine-learning,language:english
+2026-10-07-World Summit AI,tech:ai,topic:artificial-intelligence,topic:summit,language:english
+2026-10-08-Elastic{ON},tech:elasticsearch,topic:data,topic:search,language:english
+2026-10-15-AI Security Summit - San Francisco,tech:ai,topic:security,topic:cybersecurity,language:english
+2026-10-15-X-Ops Conference Dubai,tech:security,topic:cybersecurity,topic:conference,language:english
+2026-10-17-MIT AI Conference,tech:ai,topic:artificial-intelligence,topic:conference,language:english
+2026-10-17-Big Mountain Data and Dev Conference_2026,tech:data,topic:big-data,topic:conference,language:english
+2026-10-20-Elastic{ON},tech:elasticsearch,topic:data,topic:search,language:english
+2026-10-20-JDD,tech:java,topic:development,topic:conference,language:polish
+2026-10-20-Testcon,tech:testing,topic:quality-assurance,topic:conference,language:english
+2026-10-22-DevFest Ponferrada 2026,tech:google,topic:developer,topic:conference,language:spanish
+2026-10-23-MAUI Day Cologne,tech:dotnet,topic:development,topic:conference,language:german
+2026-10-23-NetCoreConf Madrid 2026,tech:dotnet,topic:development,topic:conference,language:spanish
+2026-10-24-Kubernetes Community Days KCD Indonesia 2026,tech:kubernetes,topic:cloud-native,topic:conference,language:indonesian
+2026-10-24-Atlanta Developers' Conference 2026,tech:development,topic:software,topic:conference,language:english
+2026-10-28-Futureproof Festival,tech:future,topic:technology,topic:festival,language:english
+2026-11-04-Elastic{ON},tech:elasticsearch,topic:data,topic:search,language:english
+2026-11-06-Moldova DevCon,tech:development,topic:programming,topic:conference,language:romanian
+2026-11-13-DevFest Nairobi 2026,tech:google,topic:developer,topic:conference,language:english
+2026-11-14-BSides Copenhagen 2026,tech:security,topic:cybersecurity,topic:conference,language:english
+2026-11-16-MLcon Berlin 2026,tech:ai,topic:machine-learning,topic:conference,language:german
+2026-11-16-API Conference Berlin 2026,tech:api,topic:development,topic:conference,language:english
+2026-11-16-VibeKode Berlin 2026,tech:web,topic:development,topic:conference,language:italian
+2026-11-19-inside agile Product Owner Day,tech:agile,topic:product-owner,topic:project-management,language:english
+2026-11-19-X-Ops Conference Madrid,tech:security,topic:cybersecurity,topic:conference,language:spanish
+2026-11-24-Big Data Europe,tech:data,topic:big-data,topic:conference,language:english
+2026-11-28-SoJava 2026,tech:java,topic:development,topic:conference,language:dutch
+2026-11-30-DevOpsCon Munich 2026,tech:devops,topic:cloud,topic:automation,language:english
+2026-12-03-betterCode() PHP,tech:php,topic:web,topic:development,language:english
+2026-12-04-AI Coding Summit Berlin Edition,tech:ai,topic:machine-learning,topic:coding,language:english
+2026-12-10-droidcon London,tech:android,topic:mobile,topic:development,language:english
+2027-02-09-ELDK27 - Experts Live Denmark,tech:software,topic:development,topic:community,language:english
+2027-02-09-AI DevWorld 2027,tech:ai,topic:development,topic:innovation,language:english
+2027-02-09-DeveloperWeek 2027,tech:software,topic:development,topic:conference,language:english
+2027-02-20-DDD Melbourne 2027,tech:software,topic:architecture,topic:design,language:english
+2027-02-25-Elastic{ON},tech:elasticsearch,topic:data,topic:search,language:english
+2027-02-27-Coderioja-2027,tech:software,topic:development,topic:community,language:spanish
+2027-03-09-INTED,education:higher-ed,topic:research,topic:learning,language:spanish
+2027-03-20-International Conference on Artificial Intelligence and Machine Learning,tech:ai,topic:ml,topic:research,language:english
+2027-03-22-FOSS-LÄND x OpenChain,tech:open-source,topic:legal,topic:compliance,language:german
+2027-03-23-Elastic{ON},tech:elasticsearch,topic:data,topic:search,language:english
+2027-04-01-Southern California Linux Expo - SCaLE 24x,tech:linux,topic:open-source,topic:community,language:english
+2027-04-05-PowerShell Summit 2027,tech:powershell,topic:automation,topic:scripting,language:english
+2027-04-15-GENAIX: Global Generative & Agentic AI Summit,tech:ai,topic:generative-ai,topic:agentic-ai,language:english
+2027-04-21-AiX Conference,tech:ai,topic:development,topic:innovation,language:english
+2027-06-09-International Conference on Robotics, Artificial Intelligence and Autonomous Systems,tech:ai,topic:robotics,topic:autonomous-systems,language:english
