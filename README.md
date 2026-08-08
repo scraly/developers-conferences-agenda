@@ -2165,7 +2165,7 @@ The content & the data are licensed under the [CC-BY-NC license](./LICENSE-CONTE
 
 [![typesense](https://avatars.githubusercontent.com/u/19822348?s=60&v=4)](https://github.com/typesense)
 [![Zenika](https://avatars.githubusercontent.com/u/630230?s=60&v=4)](https://github.com/Zenika)
-[![Retcon](https://retcon.app/images/app-icon-for-circle.png)](https://retcon.app/)
-[![Looties](https://looties.io/logos/looties-logo.png)](https://looties.io/)
+<a href="https://retcon.app/"><img src="https://retcon.app/images/app-icon-for-circle.png" alt="Retcon" width="60" height="60"></a>
+<a href="https://looties.io/"><img src="https://looties.io/logos/looties-logo.png" alt="Looties" width="60" height="60"></a>
 
 [![Github Sponsors](https://img.shields.io/badge/Sponsor%20developers.events%20!-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/scraly)
