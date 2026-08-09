@@ -2076,7 +2076,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17-18: [AI for Developers](https://aiconference.dev/) - Online <a href="https://aiconference.dev/cfp"><img alt="CFP AI for Developers" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=red"></a>
 * 18: [BSides RDU 2026](https://bsidesrdu.org) - Raleigh, NC (USA) <a href="https://sessionize.com/bsides-rdu-2026"><img alt="CFP BSides RDU 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2026&color=red"></a>
 * 19: [DevFest Cairo 2026](https://gdg.community.dev/events/details/google-gdg-cairo-presents-devfest-cairo-2026/) -  Abdeen (Egypt) <a href="https://app.advocu.com/events/6a5235429780e1cd15fb33a2"><img alt="CFP DevFest Cairo 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-October-2026&color=green"></a>
-* 22: [Devopsdays Tel Aviv](https://devopsdays.org/events/2026-tel-aviv) - Tel Aviv (Israel)
+* 22: [DevOpsDays Tel Aviv TLV 2026](https://devopsdays.org/events/2026-tel-aviv) - Tel Aviv (Israel) <a href="https://in10t.ai/cfp/devopsdays-tlv-2026"><img alt="CFP DevOpsDays Tel Aviv 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2025-September-2026&color=green"></a>
 
 ## 2027
 
@@ -2096,6 +2096,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20: [DDD Melbourne 2027](https://www.dddmelbourne.com/) - Melbourne (Australia) <a href="https://sessionize.com/ddd-melbourne-2027"><img alt="CFP DDD Melbourne 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2026&color=green"></a>
 * 22-24: [SQL Konferenz 2027](https://sqlkonferenz.de) - Hanau am Main (Germany) <a href="https://sessionize.com/sql-konferenz-2027"><img alt="CFP SQL Konferenz 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-October-2026&color=green"></a>
 * 24-26: [Norfolk Developers Conference 2027](https://nordevcon.com/) - Norwich (UK) <a href="https://sessionize.com/nordevcon-2027"><img alt="CFP Norfolk Developers Conference 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2026&color=green"></a>
+* 24-26: [Confoo 2027](https://confoo.ca/fr/2027) - Montreal (Canada)
 * 25: [Elastic{ON}](https://www.elastic.co/events/elasticon) - London (UK) <a href="https://sessionize.com/elasticon-tour/"><img alt="CFP ElasticON" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=green"></a>
 * 27: [Coderioja-2027](https://www.coderioja.com/) - Logroño (Spain) <a href="https://sessionize.com/coderioja-2027"><img alt="CFP Coderioja-2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2027&color=green"></a>
 
