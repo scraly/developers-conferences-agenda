@@ -1684,7 +1684,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10: [unKonf 2026](https://www.unKonf.de) - Mannheim (Germany)
 * 10: [Devfest Milano 2026](https://www.devfestmilano.it) - Milan (Italy) <a href="https://sessionize.com/devfest-milano-2026"><img alt="CFP Devfest Milano 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-July-2026&color=red"></a>
 * 10: [Lakehouse Day EU 2026](https://communityovercode.org/lakehouse-day/) - Glasgow (UK) <a href="https://sessionize.com/lakehouse-day-2026"><img alt="CFP Lakehouse Day EU 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-March-2026&color=red"></a>
-* 10: [DevFest Kraków 2026](https://devfest-krakow-2025.sessionize.com/) - Krakow (Poland) <a href="https://sessionize.com/devfest-krakow-2026/"><img alt="CFP DevFest Kraków 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-September-2026&color=green"></a>
+* 10: [DevFest Kraków 2026](https://devfestkrakow.pl/) - Krakow (Poland) <a href="https://sessionize.com/devfest-krakow-2026/"><img alt="CFP DevFest Kraków 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-September-2026&color=green"></a>
 * 11-14: [Community Over Code (The Apache Software Foundation)](https://communityovercode.org) - Glasgow (UK)
 * 11-14: [JavaCro'26](https://2026.javacro.hr/eng) - Rovinj (Croatia) <a href="https://sessionize.com/javacro26"><img alt="CFP JavaCro'26" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=red"></a>
 * 12: [The Nordic APIs UnConference](https://nordicapis.com/events/napis-unconference-2026) - Stockholm (Sweden)
@@ -1851,6 +1851,7 @@ All the data (past and coming) are available publicly in JSON:
 * 30: [DevFest.cz 2026](https://devfest.cz/) - Prague (Czechia) <a href="https://sessionize.com/devfest-cz-2026"><img alt="CFP DevFest.cz 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=red"></a>
 * 30: [Triangle InfoSeCon 2026](https://www.triangleinfosecon.com) - Raleigh, NC (USA) <a href="https://sessionize.com/triangle-infosecon-2026"><img alt="CFP Triangle InfoSeCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-October-2026&color=green"></a>
 * 30-31: [droidcon Uganda 2026](https://www.uganda.droidcon.com/) - Kampala (Uganda) <a href="https://sessionize.com/droidcon-uganda-2026"><img alt="CFP droidcon Uganda 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-October-2026&color=green"></a>
+* 30-31: [DevFest Arusha 2026](https://gdg.community.dev/e/m4t9bg/) - Arusha (Tanzania) <a href="https://sessionize.com/devfest-arusha-2026/"><img alt="CFP DevFest Arusha 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-September-2026&color=green"></a>
 
 ### November
 
