@@ -57,5 +57,6 @@ jobs:
           keep_history: true
           fqdn: developers.events # CNAME
           jekyll: false # Solve website 404
+          allow_empty_commit: true # will help handle scenarios where multiple workflows push concurrently by allowing the action to complete even if there are no actual changes to commit
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
