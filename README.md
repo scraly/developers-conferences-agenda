@@ -2093,6 +2093,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### February
 
+* 8-10: [Jfokus 2027](https://www.jfokus.se/) - Stockholm (Sweden) <a href="https://sessionize.com/jfokus-2027/"><img alt="CFP Jfokus 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2026&color=green"></a>
 * 9-10: [State of Open Conference 27 - SOOCON 27](https://stateofopencon.com/) - London (UK)
 * 9-10: [ELDK27 - Experts Live Denmark](https://eldk27.expertslive.dk) - Copenhagen (Denmark) <a href="https://sessionize.com/eldk27"><img alt="CFP ELDK27 - Experts Live Denmark" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=green"></a>
 * 9-11: [AI DevWorld 2027](https://www.developerweek.com/ai-devworld/) - Santa Clara, CA (USA) <a href="https://sessionize.com/aidevworld-2027"><img alt="CFP AI DevWorld 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-September-2026&color=green"></a>
