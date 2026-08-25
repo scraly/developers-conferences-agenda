@@ -1792,6 +1792,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21-22: [Agentic Build Day / New Zealand](https://www.agenticbuild.day/) - Auckland (New Zealand) <a href="https://cfp.agenticbuild.day/agentic-ai-build-day-2026/"><img alt="CFP ABD 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=red"></a>
 * 21-23: [CityJS Conference Athens](https://athens.cityjsconf.org) - Athens (Greece) <a href="https://docs.google.com/forms/d/e/1FAIpQLSejZUdKqdZo0fZtcqDEWOqkhTGgsnXx5KJOo5flW2E-Ej2a2A/viewform"><img alt="CFP CityJS Conference Athens" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=red"></a>
 * 21-22: [P99 CONF 2026](https://www.p99conf.io/) - Online <a href="https://sessionize.com/p99-conf-2026"><img alt="CFP P99 CONF 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-March-2026&color=red"></a>
+* 22: [DevFest Stockholm 2026](https://devfest-stockholm.com) - Stockholm (Sweden) <a href="https://sessionize.com/devfest-stockholm-2026/"><img alt="CFP DevFest Stockholm 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-September-2026&color=green"></a>
 * 22: [AWS Community Day Adria 2026](https://awscommunityadria.com/) - Ljubljana (Slovenia) <a href="https://sessionize.com/aws-community-day-adria-2026"><img alt="CFP AWS Community Day Adria 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2026&color=red"></a>
 * 22-23: [Agile Tour Bordeaux 2026](https://agiletourbordeaux.fr/) - Bordeaux (France) <a href="https://sessionize.com/agile-tour-bordeaux-2026"><img alt="CFP Agile Tour Bordeaux 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=red"></a>
 * 22-23: [PUSH UX](https://push-conference.com) - Munich (Germany) <a href="https://push-conference.com/#calls"><img alt="CFP PUSH UX" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-October-2026&color=green"></a>
@@ -1973,6 +1974,7 @@ All the data (past and coming) are available publicly in JSON:
 * 16-20: [VibeKode Berlin 2026](https://vibekode.it/berlin/) - Berlin (Germany)
 * 16-20: [AI Engineering Summit](https://ai-engineering-summit.de) - Berlin (Germany) <a href="https://sessionize.com/ai-engineering-summit"><img alt="CFP AI Engineering Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-July-2026&color=red"></a>
 * 17: [betterCode() .NET 11.0](https://net.bettercode.eu) - Online
+* 17: [VisugXL 2026](https://www.visug.be/) - Sint-Katelijne-Waver (Belgium) <a href="https://sessionize.com/visugxl-2026/"><img alt="CFP VisugXL 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2026&color=green"></a>
 * 17-19: [AI Poland](https://ai-poland.pl) - Warsaw (Poland) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform"><img alt="CFP AI Poland" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2026&color=green"></a>
 * 17-19: [JS Poland](https://js-poland.pl) - Warsaw (Poland) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform"><img alt="CFP JS Poland" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2026&color=green"></a>
 * 17-19: [NG Poland](https://ng-poland.pl) - Warsaw (Poland) <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform"><img alt="CFP NG Poland" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2026&color=green"></a>
@@ -2099,6 +2101,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-16: [SnowCamp 2027](https://snowcamp.io/) - Grenoble (France)
 * 18: [Data Community Day Austria 2027](https://datacommunity.at) - Vienna (Austria) <a href="https://sessionize.com/data-community-day-austria-2027/"><img alt="CFP Data Community Day Austria 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-October-2026&color=green"></a>
 * 19-20: [Governance & Security Summit 19.-20. Januar 2027](https://events.m365-summits.de/GovernanceSecuritySummit1920Januar2027) - Online <a href="https://sessionize.com/governance-security-summit-19-20-j"><img alt="CFP Governance & Security Summit 19.-20. Januar 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-August-2026&color=red"></a>
+* 23: [PHPBenelux](https://conference.phpbenelux.eu) - Edegem (Belgium) <a href="https://sessionize.com/phpbenelux-2027"><img alt="CFP PHPBenelux" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-October-2026&color=green"></a>
 
 ### February
 

@@ -1007,6 +1007,10 @@
     "latitude": 52.07168255,
     "longitude": 5.745510631034939
   },
+  "Edegem (Belgium)": {
+    "latitude": 51.1548066,
+    "longitude": 4.4458312
+  },
   "Edina, MN (USA)": {
     "latitude": 44.8897027,
     "longitude": -93.3501222
@@ -3086,6 +3090,10 @@
   "Singapore (Singapore)": {
     "latitude": 1.2899175,
     "longitude": 103.8519072
+  },
+  "Sint-Katelijne-Waver (Belgium)": {
+    "latitude": 51.0699542,
+    "longitude": 4.532238
   },
   "Skopje (Macedonia)": {
     "latitude": 41.9961816,
