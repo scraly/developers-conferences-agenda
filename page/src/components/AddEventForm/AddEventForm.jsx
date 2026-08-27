@@ -1,6 +1,7 @@
 import React, { useState, useCallback } from 'react';
 import TagMultiSelect from 'components/TagMultiSelect/TagMultiSelect';
 import { useTranslation } from 'contexts/LanguageContext';
+import { MAX_EVENT_TAGS, validateEventTags } from 'utils/tagValidation';
 import 'styles/AddEventForm.css';
 
 const AddEventForm = ({ isOpen, onClose }) => {
@@ -47,11 +48,23 @@ const AddEventForm = ({ isOpen, onClose }) => {
   };
 
   const handleTagsChange = useCallback((newTags) => {
+    const { normalizedTags, valid } = validateEventTags(newTags);
     setFormData(prev => ({
       ...prev,
-      tags: newTags
+      tags: normalizedTags
     }));
-  }, []);
+    if (!valid) {
+      setErrors(prev => ({
+        ...prev,
+        tags: t('addEvent.errors.tagsMax', { max: MAX_EVENT_TAGS })
+      }));
+    } else {
+      setErrors(prev => ({
+        ...prev,
+        tags: ''
+      }));
+    }
+  }, [t]);
 
   const validateForm = () => {
     const newErrors = {};
@@ -61,6 +74,11 @@ const AddEventForm = ({ isOpen, onClose }) => {
     if (!formData.startDate) newErrors.startDate = t('addEvent.errors.startDateRequired');
     if (!formData.endDate) newErrors.endDate = t('addEvent.errors.endDateRequired');
     if (!formData.eventUrl.trim()) newErrors.eventUrl = t('addEvent.errors.eventUrlRequired');
+    const { valid: tagsValid, normalizedTags } = validateEventTags(formData.tags);
+    if (!tagsValid) {
+      newErrors.tags = t('addEvent.errors.tagsMax', { max: MAX_EVENT_TAGS });
+      formData.tags = normalizedTags;
+    }
     
     // Attendees validation
     if (formData.attendees.trim()) {
@@ -510,11 +528,12 @@ ${generateMetadataCsvLine()}
 
 
           <div className="form-group">
-            <label>{t('addEvent.tags')}</label>
+            <label>{t('addEvent.tags')} {t('addEvent.errors.tagsLabelSuffix')}</label>
             <TagMultiSelect
               onChange={handleTagsChange}
               selectedTags={formData.tags}
             />
+            {errors.tags ? <span className="error-message">{errors.tags}</span> : null}
           </div>
 
           <div className="form-actions">
