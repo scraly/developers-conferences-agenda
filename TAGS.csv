@@ -3410,7 +3410,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-04-28-AGNTCon + MCPCon North America 2027,tech:cloud,topic:linux,topic:certification,language:english
 2026-10-10-DevFest Kraków 2026,tech:python,topic:data,topic:open-source,language:english
 2026-12-17-aMP Day Luxembourg 2026,tech:java,topic:mobile,topic:cloud,language:french
-2027-02-24-Confoo 2027,tech:javascript,topic:web,topic:api,language:english
+2027-02-24-Confoo 2027,tech:javascript,topic:web,topic:api,language:english,language:french
 2026-10-30-DevFest Arusha 2026,tech:python,topic:data,topic:open-source,language:english
 2026-08-27-Cost Alongside Quality: Proving the ROI of Your Coding Agents and AI Apps,tech:ai,tech:software-development,topic:roi,topic:automation,language:english
 2026-09-09-Global Security Bootcamp Melbourne 2026,security:cybersecurity,topic:global-security,language:english
