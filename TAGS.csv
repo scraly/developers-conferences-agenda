@@ -3438,3 +3438,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-06-DevFest Montréal,tech:cloud,topic:developer-conference,language:french
 2026-11-20-PyDay SDQ 2026,tech:python,topic:developer-conference,language:spanish
 2027-03-02-JavaLand,topic:java,language:english
+2026-10-03-KCD Argentina,tech:python,topic:data,topic:open-source,language:english
+2026-10-24-DevFest Panamá 2026,tech:cloud,topic:developer,language:spanish
+2027-04-20-Devopsdays Atlanta,tech:devops,topic:infrastructure,language:english
