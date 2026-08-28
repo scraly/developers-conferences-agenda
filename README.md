@@ -1439,7 +1439,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-15: [2026 Forth Roadmap Conference](https://www.roadmapforth.org/2026/home) - Washington D.C. (USA) <a href="https://sessionize.com/2026-forth-roadmap-conference"><img alt="CFP 2026 Forth Roadmap Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-February-2026&color=red"></a>
 * 14: [Scrum Master Day](https://scrum.inside-agile.de) - Online
 * 14-15: [Infobip Shift Zadar](https://shift.infobip.com) - Zadar (Croatia) <a href="https://sessionize.com/infobip-shift-2026"><img alt="CFP Infobip Shift Zadar" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-May-2026&color=red"></a>
-* 14-15: [Brains on Silicon](https://www.brainsonsilicon.com/) - Dresden (Germany) <a href="https://sessionize.com/brains-on-silicon"><img alt="CFP Brains on Silicon" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-August-2026&color=green"></a>
+* 14-15: [Brains on Silicon](https://www.brainsonsilicon.com/) - Dresden (Germany) <a href="https://sessionize.com/brains-on-silicon"><img alt="CFP Brains on Silicon" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-August-2026&color=red"></a>
 * 14-15: [Code Europe](https://www.codeeurope.pl/) - Warsaw (Poland) <a href="https://forms.gle/Q1uxna42kzuUhrYT7"><img alt="CFP Code Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=red"></a>
 * 14-16: [Disney Data & Analytics Conference (DDAC)](https://disneydataconference.com) - Orlando, FL (USA)
 * 14-16: [posit::conf(2026)](https://posit.co/conference/) - Houston, TX (USA)
