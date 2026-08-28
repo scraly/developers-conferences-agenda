@@ -2,6 +2,7 @@ import React, { useMemo } from 'react';
 import Select from 'react-select';
 import { useTags } from 'app.hooks';
 import { useTranslation } from 'contexts/LanguageContext';
+import { MAX_EVENT_TAGS } from 'utils/tagValidation';
 import 'styles/TagMultiSelect.css';
 
 const MODAL_Z_INDEX = 2147483647;
@@ -126,11 +127,12 @@ const TagMultiSelect = ({ selectedTags, onChange, showSelectedTags = true }) => 
         closeMenuOnSelect={false}
         hideSelectedOptions={true}
         isMulti
+        isOptionDisabled={() => (selectedTags || []).length >= MAX_EVENT_TAGS}
         menuPortalTarget={typeof document !== 'undefined' ? document.body : null}
         menuPosition="fixed"
         onChange={handleChange}
         options={options}
-        placeholder={t('addEvent.selectTags')}
+        placeholder={selectedTags && selectedTags.length >= MAX_EVENT_TAGS ? `${MAX_EVENT_TAGS} tags max` : t('addEvent.selectTags')}
         styles={customStyles}
         value={selectedValues}
       />
