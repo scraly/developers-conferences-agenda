@@ -50,10 +50,10 @@ const EditEventForm = ({ isOpen, onClose }) => {
   };
 
   const handleTagsChange = useCallback((newTags) => {
-    const { normalizedTags, valid } = validateEventTags(newTags);
+    const { valid } = validateEventTags(newTags);
     setFormData(prev => ({
       ...prev,
-      tags: normalizedTags
+      tags: newTags
     }));
     if (!valid) {
       setErrors(prev => ({
@@ -74,10 +74,9 @@ const EditEventForm = ({ isOpen, onClose }) => {
     if (!formData.startDate) newErrors.startDate = t('addEvent.errors.startDateRequired');
     if (!formData.endDate) newErrors.endDate = t('addEvent.errors.endDateRequired');
     if (!formData.eventUrl.trim()) newErrors.eventUrl = t('addEvent.errors.eventUrlRequired');
-    const { valid: tagsValid, normalizedTags } = validateEventTags(formData.tags);
+    const { valid: tagsValid } = validateEventTags(formData.tags);
     if (!tagsValid) {
       newErrors.tags = t('addEvent.errors.tagsMax', { max: MAX_EVENT_TAGS });
-      formData.tags = normalizedTags;
     }
     try { new URL(formData.eventUrl); } catch { if (formData.eventUrl.trim()) newErrors.eventUrl = t('addEvent.errors.eventUrlInvalid'); }
     if (formData.hasCfp) {

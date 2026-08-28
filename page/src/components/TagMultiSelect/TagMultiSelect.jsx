@@ -2,7 +2,7 @@ import React, { useMemo } from 'react';
 import Select from 'react-select';
 import { useTags } from 'app.hooks';
 import { useTranslation } from 'contexts/LanguageContext';
-import { MAX_EVENT_TAGS, normalizeTagsToMax } from 'utils/tagValidation';
+import { MAX_EVENT_TAGS } from 'utils/tagValidation';
 import 'styles/TagMultiSelect.css';
 
 const MODAL_Z_INDEX = 2147483647;
@@ -76,8 +76,7 @@ const TagMultiSelect = ({ selectedTags, onChange, showSelectedTags = true }) => 
 
   const handleChange = (selectedOptions) => {
     const values = selectedOptions ? selectedOptions.map(option => option.value) : [];
-    const limitedValues = normalizeTagsToMax(values);
-    onChange(limitedValues);
+    onChange(values);
   };
 
   const customStyles = {

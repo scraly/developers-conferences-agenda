@@ -31,8 +31,8 @@ const EditEventInlineForm = ({ event, onClose }) => {
   };
 
   const handleTagsChange = (newTags) => {
-    const { normalizedTags, valid } = validateEventTags(newTags);
-    setFormData(prev => ({ ...prev, tags: normalizedTags }));
+    const { valid } = validateEventTags(newTags);
+    setFormData(prev => ({ ...prev, tags: newTags }));
     if (!valid) {
       setErrors(prev => ({ ...prev, tags: t('addEvent.errors.tagsMax', { max: MAX_EVENT_TAGS }) }));
     } else {
@@ -46,10 +46,9 @@ const EditEventInlineForm = ({ event, onClose }) => {
     if (!formData.startDate) newErrors.startDate = t('addEvent.errors.startDateRequired');
     if (!formData.endDate) newErrors.endDate = t('addEvent.errors.endDateRequired');
     if (!formData.eventUrl.trim()) newErrors.eventUrl = t('addEvent.errors.eventUrlRequired');
-    const { valid: tagsValid, normalizedTags } = validateEventTags(formData.tags);
+    const { valid: tagsValid } = validateEventTags(formData.tags);
     if (!tagsValid) {
       newErrors.tags = t('addEvent.errors.tagsMax', { max: MAX_EVENT_TAGS });
-      formData.tags = normalizedTags;
     }
 
     // Attendees validation

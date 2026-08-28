@@ -38,7 +38,7 @@ export const LanguageProvider = ({ children }) => {
     document.documentElement.lang = language;
   }, [language]);
 
-  const t = (key) => {
+  const t = (key, variables = {}) => {
     const keys = key.split('.');
     let value = translations[language];
     
@@ -46,7 +46,13 @@ export const LanguageProvider = ({ children }) => {
       value = value?.[k];
     }
     
-    return value || key;
+    if (typeof value !== 'string') {
+      return key;
+    }
+
+    return value.replace(/{{(\w+)}}/g, (placeholder, name) => (
+      Object.hasOwn(variables, name) ? variables[name] : placeholder
+    ));
   };
 
   const changeLanguage = (newLanguage) => {
