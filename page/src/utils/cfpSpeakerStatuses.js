@@ -18,15 +18,34 @@ const saveStatuses = (statuses) => {
   }
 }
 
-export const getCfpSpeakerStatus = (eventId) => getStatuses()[eventId]
+const normalizeStatus = (status) => {
+  if (typeof status === 'string') {
+    return {
+      applied: status === 'applied',
+      outcome: status === 'accepted' || status === 'rejected' ? status : undefined
+    }
+  }
+
+  return status || { applied: false, outcome: undefined }
+}
+
+export const getCfpSpeakerStatus = (eventId) => normalizeStatus(getStatuses()[eventId])
 
 export const setCfpSpeakerStatus = (eventId, status) => {
   const statuses = getStatuses()
+  const currentStatus = normalizeStatus(statuses[eventId])
+  const nextStatus = { ...currentStatus }
 
-  if (statuses[eventId] === status) {
+  if (status === 'applied') {
+    nextStatus.applied = !currentStatus.applied
+  } else {
+    nextStatus.outcome = currentStatus.outcome === status ? undefined : status
+  }
+
+  if (!nextStatus.applied && !nextStatus.outcome) {
     delete statuses[eventId]
   } else {
-    statuses[eventId] = status
+    statuses[eventId] = nextStatus
   }
 
   saveStatuses(statuses)

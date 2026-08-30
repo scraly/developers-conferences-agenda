@@ -18,7 +18,7 @@ const CfpSpeakerStatus = ({ eventId }) => {
 
   const selectStatus = (nextStatus) => {
     setCfpSpeakerStatus(eventId, nextStatus)
-    setStatus(currentStatus => currentStatus === nextStatus ? undefined : nextStatus)
+    setStatus(getCfpSpeakerStatus(eventId))
   }
 
   return (
@@ -26,8 +26,8 @@ const CfpSpeakerStatus = ({ eventId }) => {
       {statuses.map(({ id, Icon }) => (
         <button
           aria-label={t(`cfp.${id}`)}
-          aria-pressed={status === id}
-          className={`cfp-speaker-status-button ${id} ${status === id ? 'selected' : ''}`}
+          aria-pressed={id === 'applied' ? status.applied : status.outcome === id}
+          className={`cfp-speaker-status-button ${id} ${(id === 'applied' ? status.applied : status.outcome === id) ? 'selected' : ''}`}
           key={id}
           onClick={() => selectStatus(id)}
           title={t(`cfp.${id}`)}

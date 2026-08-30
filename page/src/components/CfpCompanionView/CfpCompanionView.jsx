@@ -44,6 +44,7 @@ const CfpCompanionView = ({ events }) => {
 
               return (
                 <div className="event-list-entry" key={eventId}>
+                  <CfpSpeakerStatus eventId={eventId} />
                   <div className="event-details">
                     <div className="event-date-fav">
                       <ShortDate dates={event.date} />
@@ -55,7 +56,6 @@ const CfpCompanionView = ({ events }) => {
                     </div>
                   </div>
                   <TagBadges onTagClick={toggleTag} tags={event.tags} />
-                  <CfpSpeakerStatus eventId={eventId} />
                 </div>
               )
             })}
