@@ -63,7 +63,10 @@
     "anyTag": "IRGENDEINEN Tag zuordnen",
     "allTags": "ALLE Tags zuordnen",
     "excludeMode": "Ausgewählte Tags ausschließen",
-    "includeMode": "Ausgewählte Tags einschließen"
+    "includeMode": "Ausgewählte Tags einschließen",
+    "cfpPending": "Antwort ausstehend",
+    "cfpAccepted": "Angenommen",
+    "cfpRejected": "Abgelehnt"
   },
   "calendar": {
     "today": "Heute",

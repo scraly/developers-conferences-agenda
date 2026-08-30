@@ -31,6 +31,21 @@ const normalizeStatus = (status) => {
 
 export const getCfpSpeakerStatus = (eventId) => normalizeStatus(getStatuses()[eventId])
 
+export const filterEventsBySpeakerStatus = (events, selectedStatuses) => {
+  if (selectedStatuses.length === 0) {
+    return events
+  }
+
+  return events.filter(event => {
+    const status = getCfpSpeakerStatus(`${event.name}-${event.date[0]}`)
+    return (
+      (selectedStatuses.includes('pending') && status.applied && !status.outcome)
+      || (selectedStatuses.includes('accepted') && status.outcome === 'accepted')
+      || (selectedStatuses.includes('rejected') && status.outcome === 'rejected')
+    )
+  })
+}
+
 export const setCfpSpeakerStatus = (eventId, status) => {
   const statuses = getStatuses()
   const currentStatus = normalizeStatus(statuses[eventId])
@@ -39,6 +54,7 @@ export const setCfpSpeakerStatus = (eventId, status) => {
   if (status === 'applied') {
     nextStatus.applied = !currentStatus.applied
   } else {
+    nextStatus.applied = true
     nextStatus.outcome = currentStatus.outcome === status ? undefined : status
   }
 

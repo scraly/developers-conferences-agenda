@@ -63,7 +63,10 @@
     "anyTag": "Coincidir con CUALQUIER etiqueta",
     "allTags": "Coincidir con TODAS las etiquetas",
     "excludeMode": "Excluir etiquetas seleccionadas",
-    "includeMode": "Incluir etiquetas seleccionadas"
+    "includeMode": "Incluir etiquetas seleccionadas",
+    "cfpPending": "Pendiente de respuesta",
+    "cfpAccepted": "Aceptadas",
+    "cfpRejected": "Rechazadas"
   },
   "calendar": {
     "today": "Hoy",

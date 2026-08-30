@@ -63,7 +63,10 @@
     "anyTag": "Corresponder a QUALQUER tag",
     "allTags": "Corresponder a TODAS as tags",
     "excludeMode": "Excluir tags selecionadas",
-    "includeMode": "Incluir tags selecionadas"
+    "includeMode": "Incluir tags selecionadas",
+    "cfpPending": "Aguardando resposta",
+    "cfpAccepted": "Aceitas",
+    "cfpRejected": "Recusadas"
   },
   "calendar": {
     "today": "Hoje",

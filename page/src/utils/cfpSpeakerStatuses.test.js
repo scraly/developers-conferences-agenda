@@ -20,8 +20,7 @@ describe('CFP speaker statuses', () => {
     expect(getCfpSpeakerStatus(eventId)).toEqual({ applied: true, outcome: undefined })
   })
 
-  it('keeps an application when an outcome is selected', () => {
-    setCfpSpeakerStatus(eventId, 'applied')
+  it('activates an application when an outcome is selected', () => {
     setCfpSpeakerStatus(eventId, 'accepted')
 
     expect(getCfpSpeakerStatus(eventId)).toEqual({ applied: true, outcome: 'accepted' })
@@ -31,10 +30,10 @@ describe('CFP speaker statuses', () => {
     setCfpSpeakerStatus(eventId, 'accepted')
     setCfpSpeakerStatus(eventId, 'rejected')
 
-    expect(getCfpSpeakerStatus(eventId)).toEqual({ applied: false, outcome: 'rejected' })
+    expect(getCfpSpeakerStatus(eventId)).toEqual({ applied: true, outcome: 'rejected' })
 
     setCfpSpeakerStatus(eventId, 'rejected')
 
-    expect(getCfpSpeakerStatus(eventId)).toEqual({ applied: false, outcome: undefined })
+    expect(getCfpSpeakerStatus(eventId)).toEqual({ applied: true, outcome: undefined })
   })
 })

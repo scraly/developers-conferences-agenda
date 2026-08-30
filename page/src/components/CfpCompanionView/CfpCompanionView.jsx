@@ -3,18 +3,22 @@ import React from 'react'
 import 'styles/CfpCompanionView.css'
 
 import { useFilters } from 'app.hooks'
+import { useSearchParams } from 'react-router-dom'
 import { getMonthName, getMonthNames, getTranslatedMonthName } from 'utils'
 import ShortDate from 'components/ShortDate/ShortDate'
 import FavoriteButton from 'components/FavoriteButton/FavoriteButton'
 import TagBadges from 'components/TagBadges/TagBadges'
 import CfpSpeakerStatus from 'components/CfpSpeakerStatus/CfpSpeakerStatus'
 import { useTranslation } from 'contexts/LanguageContext'
+import { filterEventsBySpeakerStatus } from 'utils/cfpSpeakerStatuses'
 
 const CfpCompanionView = ({ events }) => {
   const { toggleTag } = useFilters()
   const { t } = useTranslation()
+  const [searchParams] = useSearchParams()
+  const selectedStatuses = (searchParams.get('cfpStatus') || '').split(',').filter(Boolean)
 
-  const sortedEvents = [...events].sort((firstEvent, secondEvent) => (
+  const sortedEvents = [...filterEventsBySpeakerStatus(events, selectedStatuses)].sort((firstEvent, secondEvent) => (
     new Date(firstEvent.date[0]) - new Date(secondEvent.date[0])
   ))
 

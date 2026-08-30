@@ -63,7 +63,10 @@
     "anyTag": "Match ANY tag",
     "allTags": "Match ALL tags",
     "excludeMode": "Exclude selected tags",
-    "includeMode": "Include selected tags"
+    "includeMode": "Include selected tags",
+    "cfpPending": "Pending response",
+    "cfpAccepted": "Accepted",
+    "cfpRejected": "Rejected"
   },
   "calendar": {
     "today": "Today",
