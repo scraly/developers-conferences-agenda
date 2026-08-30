@@ -5,6 +5,7 @@ import 'styles/CfpCompanionView.css'
 import { useFilters } from 'app.hooks'
 import { getMonthName, getMonthNames, getTranslatedMonthName } from 'utils'
 import ShortDate from 'components/ShortDate/ShortDate'
+import FavoriteButton from 'components/FavoriteButton/FavoriteButton'
 import TagBadges from 'components/TagBadges/TagBadges'
 import CfpSpeakerStatus from 'components/CfpSpeakerStatus/CfpSpeakerStatus'
 import { useTranslation } from 'contexts/LanguageContext'
@@ -44,6 +45,7 @@ const CfpCompanionView = ({ events }) => {
 
               return (
                 <div className="event-list-entry" key={eventId}>
+                  <FavoriteButton event={event} />
                   <CfpSpeakerStatus eventId={eventId} />
                   <div className="event-details">
                     <div className="event-date-fav">
