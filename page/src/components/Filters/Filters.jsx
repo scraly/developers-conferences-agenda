@@ -229,7 +229,8 @@ const Filters = ({ view }) => {
 
         <div className='filtersList'>
 
-          {view === 'cfp-companion' ? <>
+          {view === 'cfp-companion' ? <fieldset className='cfp-companion-status-filters'>
+            <legend>{t('filters.cfpStatus')}</legend>
             <div className='filtersItem'>
               <input checked={(search.cfpStatus || '').split(',').includes('pending')} id='filter-cfp-pending' onChange={(event) => {
                 const statuses = new Set((search.cfpStatus || '').split(',').filter(Boolean))
@@ -254,7 +255,7 @@ const Filters = ({ view }) => {
               }} type='checkbox' />
               <label htmlFor='filter-cfp-rejected'>{t('filters.cfpRejected')}</label>
             </div>
-          </> : null}
+          </fieldset> : null}
 
           {view != "cfp" && view !== 'cfp-companion' ?
           <div className='filtersItem'>
