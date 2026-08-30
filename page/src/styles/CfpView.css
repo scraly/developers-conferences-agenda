@@ -213,6 +213,45 @@
     color: var(--color-favorite);
 }
 
+.cfpView.cfp-companion .eventsGridDisplay {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    padding: 0;
+}
+
+.cfpView.cfp-companion .eventCell {
+    width: 100%;
+}
+
+.cfpView.cfp-companion .cfp-companion-row {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.cfpView.cfp-companion .cfp-companion-main {
+    flex: 1;
+    min-width: 0;
+}
+
+.cfpView.cfp-companion .cfp-speaker-status {
+    flex-shrink: 0;
+    margin: 0 1rem;
+}
+
+@media screen and (max-width: 660px) {
+    .cfpView.cfp-companion .cfp-companion-row {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .cfpView.cfp-companion .cfp-speaker-status {
+        margin: 0.75rem 1rem 0;
+    }
+}
+
 .sponsoring {
     text-decoration: none;
     font-size: 1.6rem;

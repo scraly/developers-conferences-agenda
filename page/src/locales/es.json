@@ -22,7 +22,8 @@
     "calendar": "Calendario",
     "map": "Mapa",
     "list": "Lista",
-    "cfp": "CFPs"
+    "cfp": "CFPs",
+    "cfpCompanion": "Asistente de CFP"
   },
   "filters": {
     "title": "Filtros",
@@ -118,7 +119,11 @@
     "submit": "Enviar propuesta",
     "viewCfp": "Ver CFP",
     "submitToCfp": "Enviar al CFP",
-    "until": "Hasta el"
+    "until": "Hasta el",
+    "companionStatus": "Mi estado CFP",
+    "applied": "Solicitud enviada",
+    "accepted": "Aceptada",
+    "rejected": "Rechazada"
   },
   "map": {
     "title": "Mapa de Conferencias",

@@ -1,0 +1,23 @@
+.cfp-companion-view .event-list-entry {
+  gap: 1rem;
+}
+
+.cfp-companion-view .event-date-fav {
+  padding-right: 0;
+  width: 10rem;
+}
+
+.cfp-companion-view .cfp-speaker-status {
+  flex-shrink: 0;
+  margin: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .cfp-companion-view .event-list-entry {
+    align-items: flex-start;
+  }
+
+  .cfp-companion-view .event-details {
+    width: 100%;
+  }
+}
