@@ -2072,6 +2072,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5: [Devopsdays salvador](https://devopsdays.org/events/2026-salvador) - Pituaçu (Salvador)
 * 5: [OpenSource Con India 2026](https://opensourcecon.in/) - Kolkata (India)
 * 5: [HTMD Conference 2026](https://htmdcommunity.org) - Bengaluru (India) <a href="https://sessionize.com/htmd-conference-2026-cfs"><img alt="CFP HTMD Conference 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=red"></a>
+* 6-7: [DistrictCon](https://www.districtcon.org/) - Washington, DC (USA) <a href="https://sessionize.com/districtcon"><img alt="CFP DistrictCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-October-2026&color=green"></a>
 * 7: [Automotive Linux Summit](https://events.linuxfoundation.org/automotive-linux-summit/) - Tokyo (Japan)
 * 7: [Embedded Linux Conference Asia](https://events.linuxfoundation.org/embedded-linux-conference-asia/) - Tokyo (Japan)
 * 7-9: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan/) - Tokyo (Japan)
