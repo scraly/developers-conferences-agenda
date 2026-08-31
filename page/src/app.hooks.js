@@ -4,6 +4,8 @@ import regions from 'misc/regions.json'
 import {useCallback, useMemo} from 'react'
 import {isFavorite} from './utils/favorites'
 import {useFavoritesContext} from 'contexts/FavoritesContext'
+import {useCfpSpeakerStatusContext} from 'contexts/CfpSpeakerStatusContext'
+import {filterEventsBySpeakerStatus} from 'utils/cfpSpeakerStatuses'
 import {getUTCDateValue, getUTCMonth, getUTCYear, isSameUTCDate, isUTCDateInRange} from './utils.js'
 
 // Controls which tag categories appear as filter dropdowns on the page.
@@ -222,12 +224,15 @@ export const useCfpCompanionEvents = () => {
   const [searchParams] = useSearchParams()
   const search = Object.fromEntries(searchParams)
   const regionsMap = useCountryToRegionMap()
-  const { updateTrigger } = useFavoritesContext()
+  const { updateTrigger: favUpdateTrigger } = useFavoritesContext()
+  const { updateTrigger: statusUpdateTrigger } = useCfpSpeakerStatusContext()
+  const selectedStatuses = (search.cfpStatus || '').split(',').filter(Boolean)
 
   return useMemo(() => {
-    const events = filterCfpCompanionEventsByYear(allEvents, year)
-    return applyCommonFilters(events, search, regionsMap)
-  }, [year, searchParams, regionsMap, updateTrigger])
+    let events = filterCfpCompanionEventsByYear(allEvents, year)
+    events = applyCommonFilters(events, search, regionsMap)
+    return filterEventsBySpeakerStatus(events, selectedStatuses)
+  }, [year, searchParams, regionsMap, favUpdateTrigger, statusUpdateTrigger])
 }
 
 /**

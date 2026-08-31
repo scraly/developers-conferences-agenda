@@ -3,32 +3,25 @@ import React, { useMemo } from 'react'
 import 'styles/CfpCompanionView.css'
 
 import { useCfpCompanionEvents, useFilters } from 'app.hooks'
-import { useSearchParams } from 'react-router-dom'
 import { getMonthName, getMonthNames, getTranslatedMonthName, getUTCMonth, getUTCDateValue } from 'utils'
 import ShortDate from 'components/ShortDate/ShortDate'
 import FavoriteButton from 'components/FavoriteButton/FavoriteButton'
 import TagBadges from 'components/TagBadges/TagBadges'
 import CfpSpeakerStatus from 'components/CfpSpeakerStatus/CfpSpeakerStatus'
 import { useFavoritesContext } from 'contexts/FavoritesContext'
-import { useCfpSpeakerStatusContext } from 'contexts/CfpSpeakerStatusContext'
 import { useTranslation } from 'contexts/LanguageContext'
-import { filterEventsBySpeakerStatus } from 'utils/cfpSpeakerStatuses'
 
 const CfpCompanionView = () => {
   const events = useCfpCompanionEvents()
   const { toggleTag } = useFilters()
   const { isFavorite } = useFavoritesContext()
-  const { updateTrigger } = useCfpSpeakerStatusContext()
   const { t } = useTranslation()
-  const [searchParams] = useSearchParams()
-  const selectedStatuses = (searchParams.get('cfpStatus') || '').split(',').filter(Boolean)
-  const selectedStatusesKey = selectedStatuses.join(',')
 
   const sortedEvents = useMemo(() => {
-    return [...filterEventsBySpeakerStatus(events, selectedStatuses)].sort((firstEvent, secondEvent) => (
+    return [...events].sort((firstEvent, secondEvent) => (
       getUTCDateValue(firstEvent.date[0]) - getUTCDateValue(secondEvent.date[0])
     ))
-  }, [events, selectedStatusesKey, updateTrigger])
+  }, [events])
 
   const eventsByMonth = useMemo(() => {
     return sortedEvents.reduce((result, event) => {
