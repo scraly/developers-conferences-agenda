@@ -22,7 +22,8 @@
     "calendar": "Kalender",
     "map": "Karte",
     "list": "Liste",
-    "cfp": "CFPs"
+    "cfp": "CFPs",
+    "cfpCompanion": "CFP-Begleiter"
   },
   "filters": {
     "title": "Filter",
@@ -62,7 +63,11 @@
     "anyTag": "IRGENDEINEN Tag zuordnen",
     "allTags": "ALLE Tags zuordnen",
     "excludeMode": "Ausgewählte Tags ausschließen",
-    "includeMode": "Ausgewählte Tags einschließen"
+    "includeMode": "Ausgewählte Tags einschließen",
+    "cfpPending": "Antwort ausstehend",
+    "cfpAccepted": "Angenommen",
+    "cfpRejected": "Abgelehnt",
+    "cfpStatus": "CFP-Status"
   },
   "calendar": {
     "today": "Heute",
@@ -118,7 +123,11 @@
     "submit": "Vorschlag einreichen",
     "viewCfp": "CFP ansehen",
     "submitToCfp": "CFP einreichen",
-    "until": "Bis zum"
+    "until": "Bis zum",
+    "companionStatus": "Mein CFP-Status",
+    "applied": "Beworben",
+    "accepted": "Angenommen",
+    "rejected": "Abgelehnt"
   },
   "map": {
     "title": "Konferenzkarte",

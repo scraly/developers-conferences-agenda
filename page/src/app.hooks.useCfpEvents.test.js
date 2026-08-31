@@ -1,5 +1,5 @@
 import { describe, it, expect, beforeEach, vi } from 'vitest'
-import { filterCfpEventsByYear } from './app.hooks.js'
+import { filterCfpCompanionEventsByYear, filterCfpEventsByYear } from './app.hooks.js'
 
 /**
  * The CFP view should show events with open CFPs where:
@@ -133,5 +133,26 @@ describe('useCfpEvents - CFP year filtering', () => {
     // Should only show the valid CFP event
     expect(result).toHaveLength(1)
     expect(result[0].name).toBe('Valid CFP')
+  })
+})
+
+describe('CFP Companion year filtering', () => {
+  it('keeps events with closed CFPs in the event year', () => {
+    const events = [
+      {
+        name: 'Past CFP',
+        cfp: { untilDate: '2025-12-01T00:00:00Z' },
+        date: ['2026-06-10T00:00:00Z']
+      },
+      {
+        name: 'Other Event Year',
+        cfp: { untilDate: '2026-01-20T00:00:00Z' },
+        date: ['2027-06-10T00:00:00Z']
+      }
+    ]
+
+    const result = filterCfpCompanionEventsByYear(events, '2026')
+
+    expect(result.map(event => event.name)).toEqual(['Past CFP'])
   })
 })

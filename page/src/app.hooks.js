@@ -204,6 +204,28 @@ export const useCfpEvents = () => {
   }, [year, searchParams, regionsMap])
 }
 
+export const filterCfpCompanionEventsByYear = (events, year) => {
+  const currentYear = parseInt(year, 10)
+
+  return events.filter(event => (
+    event.date[0]
+    && getUTCYear(event.date[0]) === currentYear
+    && event.cfp?.untilDate
+  ))
+}
+
+export const useCfpCompanionEvents = () => {
+  const { year } = useParams()
+  const [searchParams] = useSearchParams()
+  const search = Object.fromEntries(searchParams)
+  const regionsMap = useCountryToRegionMap()
+
+  return useMemo(() => {
+    const events = filterCfpCompanionEventsByYear(allEvents, year)
+    return applyCommonFilters(events, search, regionsMap)
+  }, [year, searchParams, regionsMap])
+}
+
 /**
  * Filter events by CFP until a particular date
  * Results are sorted by CFP deadline (earliest first)

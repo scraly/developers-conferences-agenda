@@ -22,7 +22,8 @@
     "calendar": "Calendar",
     "map": "Map",
     "list": "List",
-    "cfp": "CFPs"
+    "cfp": "CFPs",
+    "cfpCompanion": "CFP Companion"
   },
   "filters": {
     "title": "Filters",
@@ -62,7 +63,11 @@
     "anyTag": "Match ANY tag",
     "allTags": "Match ALL tags",
     "excludeMode": "Exclude selected tags",
-    "includeMode": "Include selected tags"
+    "includeMode": "Include selected tags",
+    "cfpPending": "Pending response",
+    "cfpAccepted": "Accepted",
+    "cfpRejected": "Rejected",
+    "cfpStatus": "CFP status"
   },
   "calendar": {
     "today": "Today",
@@ -118,7 +123,11 @@
     "submit": "Submit proposal",
     "viewCfp": "View CFP",
     "submitToCfp": "Submit to the CFP",
-    "until": "Until"
+    "until": "Until",
+    "companionStatus": "My CFP status",
+    "applied": "Applied",
+    "accepted": "Accepted",
+    "rejected": "Rejected"
   },
   "map": {
     "title": "Conference Map",

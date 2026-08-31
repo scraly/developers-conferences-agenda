@@ -145,6 +145,7 @@ const Filters = ({ view }) => {
     filterKeys.add('favorites')
     filterKeys.add('query')
     filterKeys.add('untilDate')
+    filterKeys.add('cfpStatus')
 
     Object.keys(search).forEach(k => {
       if (!filterKeys.has(k)) {
@@ -221,14 +222,42 @@ const Filters = ({ view }) => {
           />
         </> : null}
 
-        <div className='filtersItem'>
+        {view !== 'cfp-companion' ? <div className='filtersItem'>
           <label htmlFor='filter-until'>{t('filters.cfpUntil')}</label>
           <input id="filter-until" onChange={(e) => onChange('untilDate', e.target.value)} type="date" value={search.untilDate || ''} />
-        </div>
+        </div> : null}
 
         <div className='filtersList'>
 
-          {view != "cfp" ?
+          {view === 'cfp-companion' ? <fieldset className='cfp-companion-status-filters'>
+            <legend>{t('filters.cfpStatus')}</legend>
+            <div className='filtersItem'>
+              <input checked={(search.cfpStatus || '').split(',').includes('pending')} id='filter-cfp-pending' onChange={(event) => {
+                const statuses = new Set((search.cfpStatus || '').split(',').filter(Boolean))
+                event.target.checked ? statuses.add('pending') : statuses.delete('pending')
+                onChange('cfpStatus', Array.from(statuses).join(','))
+              }} type='checkbox' />
+              <label htmlFor='filter-cfp-pending'>{t('filters.cfpPending')}</label>
+            </div>
+            <div className='filtersItem'>
+              <input checked={(search.cfpStatus || '').split(',').includes('accepted')} id='filter-cfp-accepted' onChange={(event) => {
+                const statuses = new Set((search.cfpStatus || '').split(',').filter(Boolean))
+                event.target.checked ? statuses.add('accepted') : statuses.delete('accepted')
+                onChange('cfpStatus', Array.from(statuses).join(','))
+              }} type='checkbox' />
+              <label htmlFor='filter-cfp-accepted'>{t('filters.cfpAccepted')}</label>
+            </div>
+            <div className='filtersItem'>
+              <input checked={(search.cfpStatus || '').split(',').includes('rejected')} id='filter-cfp-rejected' onChange={(event) => {
+                const statuses = new Set((search.cfpStatus || '').split(',').filter(Boolean))
+                event.target.checked ? statuses.add('rejected') : statuses.delete('rejected')
+                onChange('cfpStatus', Array.from(statuses).join(','))
+              }} type='checkbox' />
+              <label htmlFor='filter-cfp-rejected'>{t('filters.cfpRejected')}</label>
+            </div>
+          </fieldset> : null}
+
+          {view != "cfp" && view !== 'cfp-companion' ?
           <div className='filtersItem'>
             <input checked={search.callForPapers == 'true'} id='filter-call-for-papers' onChange={(e) => onChange('callForPapers', e.target.checked)} type='checkbox' />
             <label htmlFor='filter-call-for-papers'>{t('filters.callForPapersOpen')}</label>

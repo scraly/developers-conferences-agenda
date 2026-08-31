@@ -10,6 +10,7 @@ import { DatePage } from 'routes/datepage';
 import { MapPage } from 'routes/mappage';
 import { ListPage } from 'routes/listpage';
 import { CfpPage } from 'routes/cfppage';
+import { CfpCompanionPage } from 'routes/cfpcompanionpage';
 import { FilterContext } from 'contexts/FilterContext';
 import { FavoritesProvider } from 'contexts/FavoritesContext';
 import { TagsProvider } from 'contexts/TagsContext';
@@ -75,6 +76,7 @@ const App = () => {
                   <Route Component={MapPage} path="/:year/map" />
                   <Route Component={ListPage} path="/:year/list" />
                   <Route Component={CfpPage} path="/:year/cfp" />
+                  <Route Component={CfpCompanionPage} path="/:year/cfp-companion" />
                 </Routes>
                 <ScrollToTopButton />
                 <Footer />

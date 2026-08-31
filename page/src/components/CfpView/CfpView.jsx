@@ -11,9 +11,11 @@ import { useFavoritesContext } from '../../contexts/FavoritesContext';
 import { useTranslation } from 'contexts/LanguageContext';
 import ShortDate from 'components/ShortDate/ShortDate';
 import CfpDeadline from 'components/CfpDeadline/CfpDeadline';
+import CfpSpeakerStatus from 'components/CfpSpeakerStatus/CfpSpeakerStatus';
 
-const CfpView = () => {
-  let events = useCfpEvents();
+const CfpView = ({ events: providedEvents, showSpeakerStatuses = false }) => {
+  const cfpEvents = useCfpEvents();
+  let events = providedEvents || cfpEvents;
   const { isFavorite } = useFavoritesContext();
   const { toggleTag } = useFilters();
   const { t } = useTranslation();
@@ -22,15 +24,15 @@ const CfpView = () => {
     toggleTag(key, value);
   };
 
-  // Sort CFPs based on the closing date
+  const groupingDate = event => showSpeakerStatuses ? event.date[0] : event.cfp.untilDate;
+
   events = events.sort((a, b) => {
-    if (!a.cfp?.untilDate || !b.cfp?.untilDate) return 0;
-    return new Date(a.cfp.untilDate) - new Date(b.cfp.untilDate);
+    return new Date(groupingDate(a)) - new Date(groupingDate(b));
   });
 
   const eventsByMonth = events.reduce((acc, cur) => {
     let monthKey;
-    monthKey = getMonthName(new Date(cur.cfp.untilDate).getMonth());
+    monthKey = getMonthName(new Date(groupingDate(cur)).getMonth());
     if (!acc[monthKey]) {
       acc[monthKey] = [];
     }
@@ -47,14 +49,14 @@ const CfpView = () => {
   });
 
   return (
-    <div className="cfpView">
+    <div className={`cfpView ${showSpeakerStatuses ? 'cfp-companion' : ''}`}>
       {monthOrder.map(month => {
         const monthIndex = getMonthNames().indexOf(month);
         const translatedMonth = getTranslatedMonthName(monthIndex, t);
         
         return (
           <React.Fragment key={month}>
-            <h1>{t('months.monthCfpDeadlines').replace('{month}', translatedMonth)}</h1>
+            <h1>{(showSpeakerStatuses ? t('months.monthEvents') : t('months.monthCfpDeadlines')).replace('{month}', translatedMonth)}</h1>
           <div className="eventsGridDisplay">
             {eventsByMonth[month].map((e, i) => {
               const eventId = `${e.name}-${e.date[0]}`;
@@ -64,14 +66,15 @@ const CfpView = () => {
                 <div className={`eventCell ${isFav ? 'favorite-event' : ''}`} key={`${month}_ev_${i}`}>
 
                   <div className="content">
-                    <div>
+                    <div className={showSpeakerStatuses ? 'cfp-companion-row' : ''}>
+                      <div className={showSpeakerStatuses ? 'cfp-companion-main' : ''}>
                       <span className="when"><ShortDate dates={e.date} /></span>
                       <div className="event-header">
                         <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''}</b>
                         <FavoriteButton event={e} />
                       </div>
 
-                      <CfpDeadline until={e.cfp.until} untilDate={e.cfp.untilDate} />
+                      {!showSpeakerStatuses ? <CfpDeadline until={e.cfp.until} untilDate={e.cfp.untilDate} /> : null}
 
                     <div className="country">
                       <span className="countryFlag">
@@ -92,11 +95,13 @@ const CfpView = () => {
                       <span>{e.sponsoring ? <a className="sponsoring" href={e.sponsoring} rel="noreferrer" target="_blank">💰</a> : null}</span>
                     </div>
                       <TagBadges onTagClick={handleTagClick} tags={e.tags} />
+                      </div>
+                      {showSpeakerStatuses ? <CfpSpeakerStatus eventId={eventId} /> : null}
                     </div>
-                    <a className="submitButton" href={e.cfp.link} rel="noreferrer" target="_blank" title={t('cfp.submitToCfp')}>
+                    {!showSpeakerStatuses ? <a className="submitButton" href={e.cfp.link} rel="noreferrer" target="_blank" title={t('cfp.submitToCfp')}>
                       <CalendarClock />
                       {t('cfp.submitToCfp')}
-                    </a>
+                    </a> : null}
                   </div>
                 </div>
               );

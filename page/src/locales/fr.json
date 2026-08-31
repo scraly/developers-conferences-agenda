@@ -22,7 +22,8 @@
     "calendar": "Calendrier",
     "map": "Carte",
     "list": "Liste",
-    "cfp": "CFPs"
+    "cfp": "CFPs",
+    "cfpCompanion": "Compagnon CFP"
   },
   "filters": {
     "title": "Filtres",
@@ -62,7 +63,11 @@
     "anyTag": "Correspondre à N'IMPORTE QUEL tag",
     "allTags": "Correspondre à TOUS les tags",
     "excludeMode": "Exclure les tags sélectionnés",
-    "includeMode": "Inclure les tags sélectionnés"
+    "includeMode": "Inclure les tags sélectionnés",
+    "cfpPending": "En attente",
+    "cfpAccepted": "Acceptés",
+    "cfpRejected": "Refusés",
+    "cfpStatus": "Statut CFP"
   },
   "calendar": {
     "today": "Aujourd'hui",
@@ -118,7 +123,11 @@
     "submit": "Soumettre une proposition",
     "viewCfp": "Voir le CFP",
     "submitToCfp": "Soumettre au CFP",
-    "until": "Jusqu'au"
+    "until": "Jusqu'au",
+    "companionStatus": "Mon statut CFP",
+    "applied": "Candidature envoyée",
+    "accepted": "Acceptée",
+    "rejected": "Refusée"
   },
   "map": {
     "title": "Carte des Conférences",

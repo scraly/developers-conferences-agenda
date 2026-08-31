@@ -4,12 +4,14 @@ import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
 
 
 import 'styles/YearSelector.css';
-import { useYearEvents, useCfpEvents } from 'app.hooks';
+import { useYearEvents, useCfpCompanionEvents, useCfpEvents } from 'app.hooks';
 import EventCount from 'components/EventCount/EventCount';
 import ViewSelector from 'components/ViewSelector/ViewSelector';
 
 const YearSelector = ({ isMap, year, onChange, view }) => {
-  const yearEvents = view === "cfp" ? useCfpEvents() : useYearEvents();
+  const yearEvents = view === "cfp" || view === "cfp-companion" ? useCfpEvents() : useYearEvents();
+  const companionEvents = useCfpCompanionEvents();
+  const displayedEvents = view === "cfp-companion" ? companionEvents : yearEvents;
   return (
     <div>
       <div className="yearNavigatorWrapper">
@@ -21,7 +23,7 @@ const YearSelector = ({ isMap, year, onChange, view }) => {
         <ViewSelector selected={view}/>
       </div>
       <div>
-        <EventCount events={yearEvents} isMap={isMap} />
+        <EventCount events={displayedEvents} isMap={isMap} />
       </div>
     </div>
   );

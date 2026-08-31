@@ -2,7 +2,7 @@ import React from 'react';
 import {useNavigate, useSearchParams, createSearchParams, useParams} from "react-router-dom";
 import { useTranslation } from 'contexts/LanguageContext';
 import 'styles/ViewSelector.css';
-import {Calendar, List, Map, Megaphone} from 'lucide-react';
+import {Calendar, List, Map, Megaphone, Mic} from 'lucide-react';
 
 const ViewSelector = ({selected}) => {
   const navigate = useNavigate();
@@ -18,6 +18,13 @@ const ViewSelector = ({selected}) => {
         onClick={() => navigate(`/${year}/cfp?${createSearchParams(searchParams)}`)}
         size="42px"
         title={t('nav.cfp')}
+      />
+      <Mic
+        aria-label={t('nav.cfpCompanion')}
+        className={selected === 'cfp-companion' ? 'view-selector cfp-companion-view selected' : 'view-selector cfp-companion-view'}
+        onClick={() => navigate(`/${year}/cfp-companion?${createSearchParams(searchParams)}`)}
+        size="42px"
+        title={t('nav.cfpCompanion')}
       />
       <Calendar
         aria-label={t('nav.calendar')}

@@ -104,6 +104,22 @@
     margin: 2rem 0;
 }
 
+.cfp-companion-status-filters {
+    border: 1px solid var(--border-color);
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin: 0 0 0.75rem;
+    padding: 0.75rem;
+}
+
+.cfp-companion-status-filters legend {
+    color: var(--text-secondary);
+    font-weight: 600;
+    padding: 0 0.4rem;
+}
+
 .filters .filtersItem {
     overflow: hidden;
     white-space: nowrap;

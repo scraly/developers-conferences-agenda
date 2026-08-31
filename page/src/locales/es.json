@@ -22,7 +22,8 @@
     "calendar": "Calendario",
     "map": "Mapa",
     "list": "Lista",
-    "cfp": "CFPs"
+    "cfp": "CFPs",
+    "cfpCompanion": "Asistente de CFP"
   },
   "filters": {
     "title": "Filtros",
@@ -62,7 +63,11 @@
     "anyTag": "Coincidir con CUALQUIER etiqueta",
     "allTags": "Coincidir con TODAS las etiquetas",
     "excludeMode": "Excluir etiquetas seleccionadas",
-    "includeMode": "Incluir etiquetas seleccionadas"
+    "includeMode": "Incluir etiquetas seleccionadas",
+    "cfpPending": "Pendiente de respuesta",
+    "cfpAccepted": "Aceptadas",
+    "cfpRejected": "Rechazadas",
+    "cfpStatus": "Estado del CFP"
   },
   "calendar": {
     "today": "Hoy",
@@ -118,7 +123,11 @@
     "submit": "Enviar propuesta",
     "viewCfp": "Ver CFP",
     "submitToCfp": "Enviar al CFP",
-    "until": "Hasta el"
+    "until": "Hasta el",
+    "companionStatus": "Mi estado CFP",
+    "applied": "Solicitud enviada",
+    "accepted": "Aceptada",
+    "rejected": "Rechazada"
   },
   "map": {
     "title": "Mapa de Conferencias",
