@@ -1,39 +1,51 @@
-import React from 'react'
+import React, { useMemo } from 'react'
 
 import 'styles/CfpCompanionView.css'
 
-import { useFilters } from 'app.hooks'
+import { useCfpCompanionEvents, useFilters } from 'app.hooks'
 import { useSearchParams } from 'react-router-dom'
-import { getMonthName, getMonthNames, getTranslatedMonthName } from 'utils'
+import { getMonthName, getMonthNames, getTranslatedMonthName, getUTCMonth, getUTCDateValue } from 'utils'
 import ShortDate from 'components/ShortDate/ShortDate'
 import FavoriteButton from 'components/FavoriteButton/FavoriteButton'
 import TagBadges from 'components/TagBadges/TagBadges'
 import CfpSpeakerStatus from 'components/CfpSpeakerStatus/CfpSpeakerStatus'
+import { useFavoritesContext } from 'contexts/FavoritesContext'
+import { useCfpSpeakerStatusContext } from 'contexts/CfpSpeakerStatusContext'
 import { useTranslation } from 'contexts/LanguageContext'
 import { filterEventsBySpeakerStatus } from 'utils/cfpSpeakerStatuses'
 
-const CfpCompanionView = ({ events }) => {
+const CfpCompanionView = () => {
+  const events = useCfpCompanionEvents()
   const { toggleTag } = useFilters()
+  const { isFavorite } = useFavoritesContext()
+  const { updateTrigger } = useCfpSpeakerStatusContext()
   const { t } = useTranslation()
   const [searchParams] = useSearchParams()
   const selectedStatuses = (searchParams.get('cfpStatus') || '').split(',').filter(Boolean)
+  const selectedStatusesKey = selectedStatuses.join(',')
 
-  const sortedEvents = [...filterEventsBySpeakerStatus(events, selectedStatuses)].sort((firstEvent, secondEvent) => (
-    new Date(firstEvent.date[0]) - new Date(secondEvent.date[0])
-  ))
+  const sortedEvents = useMemo(() => {
+    return [...filterEventsBySpeakerStatus(events, selectedStatuses)].sort((firstEvent, secondEvent) => (
+      getUTCDateValue(firstEvent.date[0]) - getUTCDateValue(secondEvent.date[0])
+    ))
+  }, [events, selectedStatusesKey, updateTrigger])
 
-  const eventsByMonth = sortedEvents.reduce((result, event) => {
-    const monthKey = getMonthName(new Date(event.date[0]).getMonth())
-    if (!result[monthKey]) {
-      result[monthKey] = []
-    }
-    result[monthKey].push(event)
-    return result
-  }, {})
+  const eventsByMonth = useMemo(() => {
+    return sortedEvents.reduce((result, event) => {
+      const monthKey = getMonthName(getUTCMonth(event.date[0]))
+      if (!result[monthKey]) {
+        result[monthKey] = []
+      }
+      result[monthKey].push(event)
+      return result
+    }, {})
+  }, [sortedEvents])
 
-  const monthOrder = Object.keys(eventsByMonth).sort((firstMonth, secondMonth) => (
-    getMonthNames().indexOf(firstMonth) - getMonthNames().indexOf(secondMonth)
-  ))
+  const monthOrder = useMemo(() => {
+    return Object.keys(eventsByMonth).sort((firstMonth, secondMonth) => (
+      getMonthNames().indexOf(firstMonth) - getMonthNames().indexOf(secondMonth)
+    ))
+  }, [eventsByMonth])
 
   return (
     <div className="listView cfp-companion-view">
@@ -44,11 +56,12 @@ const CfpCompanionView = ({ events }) => {
         return (
           <React.Fragment key={month}>
             <h1>{t('months.monthEvents').replace('{month}', translatedMonth)}</h1>
-            {eventsByMonth[month].map(event => {
+            {eventsByMonth[month].map((event, index) => {
               const eventId = `${event.name}-${event.date[0]}`
+              const isFav = isFavorite(eventId)
 
               return (
-                <div className="event-list-entry" key={eventId}>
+                <div className={`event-list-entry ${isFav ? 'favorite-event' : ''}`} key={`${month}_ev_${index}`}>
                   <FavoriteButton event={event} />
                   <CfpSpeakerStatus eventId={eventId} />
                   <div className="event-details">

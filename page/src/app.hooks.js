@@ -3,6 +3,7 @@ import allEvents from 'misc/all-events.json'
 import regions from 'misc/regions.json'
 import {useCallback, useMemo} from 'react'
 import {isFavorite} from './utils/favorites'
+import {useFavoritesContext} from 'contexts/FavoritesContext'
 import {getUTCDateValue, getUTCMonth, getUTCYear, isSameUTCDate, isUTCDateInRange} from './utils.js'
 
 // Controls which tag categories appear as filter dropdowns on the page.
@@ -134,6 +135,7 @@ export const useYearEvents = () => {
   const [searchParams] = useSearchParams()
   const search = Object.fromEntries(searchParams)
   const regionsMap = useCountryToRegionMap()
+  const { updateTrigger } = useFavoritesContext()
   const yearEvents = useMemo(() => allEvents.filter((e) => e.date[0] && getUTCYear(e.date[0]) === parseInt(year, 10)), [year])
 
   return useMemo(() => {
@@ -152,7 +154,7 @@ export const useYearEvents = () => {
     result = applyCommonFilters(result, search, regionsMap)
 
     return result
-  }, [yearEvents, searchParams, regionsMap])
+  }, [yearEvents, searchParams, regionsMap, updateTrigger])
 }
 
 /**
@@ -187,6 +189,7 @@ export const useCfpEvents = () => {
   const [searchParams] = useSearchParams()
   const search = Object.fromEntries(searchParams)
   const regionsMap = useCountryToRegionMap()
+  const { updateTrigger } = useFavoritesContext()
 
   return useMemo(() => {
     // Filter by year first
@@ -201,7 +204,7 @@ export const useCfpEvents = () => {
     result = applyCommonFilters(result, search, regionsMap)
 
     return result
-  }, [year, searchParams, regionsMap])
+  }, [year, searchParams, regionsMap, updateTrigger])
 }
 
 export const filterCfpCompanionEventsByYear = (events, year) => {
@@ -219,11 +222,12 @@ export const useCfpCompanionEvents = () => {
   const [searchParams] = useSearchParams()
   const search = Object.fromEntries(searchParams)
   const regionsMap = useCountryToRegionMap()
+  const { updateTrigger } = useFavoritesContext()
 
   return useMemo(() => {
     const events = filterCfpCompanionEventsByYear(allEvents, year)
     return applyCommonFilters(events, search, regionsMap)
-  }, [year, searchParams, regionsMap])
+  }, [year, searchParams, regionsMap, updateTrigger])
 }
 
 /**

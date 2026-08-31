@@ -11,11 +11,9 @@ import { useFavoritesContext } from '../../contexts/FavoritesContext';
 import { useTranslation } from 'contexts/LanguageContext';
 import ShortDate from 'components/ShortDate/ShortDate';
 import CfpDeadline from 'components/CfpDeadline/CfpDeadline';
-import CfpSpeakerStatus from 'components/CfpSpeakerStatus/CfpSpeakerStatus';
 
-const CfpView = ({ events: providedEvents, showSpeakerStatuses = false }) => {
-  const cfpEvents = useCfpEvents();
-  let events = providedEvents || cfpEvents;
+const CfpView = () => {
+  let events = useCfpEvents();
   const { isFavorite } = useFavoritesContext();
   const { toggleTag } = useFilters();
   const { t } = useTranslation();
@@ -24,15 +22,15 @@ const CfpView = ({ events: providedEvents, showSpeakerStatuses = false }) => {
     toggleTag(key, value);
   };
 
-  const groupingDate = event => showSpeakerStatuses ? event.date[0] : event.cfp.untilDate;
-
+  // Sort CFPs based on the closing date
   events = events.sort((a, b) => {
-    return new Date(groupingDate(a)) - new Date(groupingDate(b));
+    if (!a.cfp?.untilDate || !b.cfp?.untilDate) return 0;
+    return new Date(a.cfp.untilDate) - new Date(b.cfp.untilDate);
   });
 
   const eventsByMonth = events.reduce((acc, cur) => {
     let monthKey;
-    monthKey = getMonthName(new Date(groupingDate(cur)).getMonth());
+    monthKey = getMonthName(new Date(cur.cfp.untilDate).getMonth());
     if (!acc[monthKey]) {
       acc[monthKey] = [];
     }
@@ -49,14 +47,14 @@ const CfpView = ({ events: providedEvents, showSpeakerStatuses = false }) => {
   });
 
   return (
-    <div className={`cfpView ${showSpeakerStatuses ? 'cfp-companion' : ''}`}>
+    <div className="cfpView">
       {monthOrder.map(month => {
         const monthIndex = getMonthNames().indexOf(month);
         const translatedMonth = getTranslatedMonthName(monthIndex, t);
         
         return (
           <React.Fragment key={month}>
-            <h1>{(showSpeakerStatuses ? t('months.monthEvents') : t('months.monthCfpDeadlines')).replace('{month}', translatedMonth)}</h1>
+            <h1>{t('months.monthCfpDeadlines').replace('{month}', translatedMonth)}</h1>
           <div className="eventsGridDisplay">
             {eventsByMonth[month].map((e, i) => {
               const eventId = `${e.name}-${e.date[0]}`;
@@ -66,15 +64,14 @@ const CfpView = ({ events: providedEvents, showSpeakerStatuses = false }) => {
                 <div className={`eventCell ${isFav ? 'favorite-event' : ''}`} key={`${month}_ev_${i}`}>
 
                   <div className="content">
-                    <div className={showSpeakerStatuses ? 'cfp-companion-row' : ''}>
-                      <div className={showSpeakerStatuses ? 'cfp-companion-main' : ''}>
+                    <div>
                       <span className="when"><ShortDate dates={e.date} /></span>
                       <div className="event-header">
                         <b>{e.hyperlink ? <a className="title" href={e.hyperlink} rel="noreferrer" target="_blank">{e.name}</a> : ''}</b>
                         <FavoriteButton event={e} />
                       </div>
 
-                      {!showSpeakerStatuses ? <CfpDeadline until={e.cfp.until} untilDate={e.cfp.untilDate} /> : null}
+                      <CfpDeadline until={e.cfp.until} untilDate={e.cfp.untilDate} />
 
                     <div className="country">
                       <span className="countryFlag">
@@ -95,13 +92,11 @@ const CfpView = ({ events: providedEvents, showSpeakerStatuses = false }) => {
                       <span>{e.sponsoring ? <a className="sponsoring" href={e.sponsoring} rel="noreferrer" target="_blank">💰</a> : null}</span>
                     </div>
                       <TagBadges onTagClick={handleTagClick} tags={e.tags} />
-                      </div>
-                      {showSpeakerStatuses ? <CfpSpeakerStatus eventId={eventId} /> : null}
                     </div>
-                    {!showSpeakerStatuses ? <a className="submitButton" href={e.cfp.link} rel="noreferrer" target="_blank" title={t('cfp.submitToCfp')}>
+                    <a className="submitButton" href={e.cfp.link} rel="noreferrer" target="_blank" title={t('cfp.submitToCfp')}>
                       <CalendarClock />
                       {t('cfp.submitToCfp')}
-                    </a> : null}
+                    </a>
                   </div>
                 </div>
               );

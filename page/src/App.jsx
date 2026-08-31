@@ -13,6 +13,7 @@ import { CfpPage } from 'routes/cfppage';
 import { CfpCompanionPage } from 'routes/cfpcompanionpage';
 import { FilterContext } from 'contexts/FilterContext';
 import { FavoritesProvider } from 'contexts/FavoritesContext';
+import { CfpSpeakerStatusProvider } from 'contexts/CfpSpeakerStatusContext';
 import { TagsProvider } from 'contexts/TagsContext';
 import { LanguageProvider, useTranslation } from 'contexts/LanguageContext';
 import { ThemeProvider } from 'contexts/ThemeContext';
@@ -64,25 +65,27 @@ const App = () => {
     <LanguageProvider>
       <ThemeProvider>
         <FavoritesProvider>
-          <TagsProvider>
-            <FilterContext.Provider value={filtercontextdefaults}>
-              <Router>
-                <LastVisitedViewTracker />
-                <AppContent />
-                <Routes>
-                  <Route Component={Index} path="/" />
-                  <Route Component={Year} path=":year" />
-                  <Route Component={DatePage} path=":year/calendar/:month?/:date?" />
-                  <Route Component={MapPage} path="/:year/map" />
-                  <Route Component={ListPage} path="/:year/list" />
-                  <Route Component={CfpPage} path="/:year/cfp" />
-                  <Route Component={CfpCompanionPage} path="/:year/cfp-companion" />
-                </Routes>
-                <ScrollToTopButton />
-                <Footer />
-              </Router>
-            </FilterContext.Provider>
-          </TagsProvider>
+          <CfpSpeakerStatusProvider>
+            <TagsProvider>
+              <FilterContext.Provider value={filtercontextdefaults}>
+                <Router>
+                  <LastVisitedViewTracker />
+                  <AppContent />
+                  <Routes>
+                    <Route Component={Index} path="/" />
+                    <Route Component={Year} path=":year" />
+                    <Route Component={DatePage} path=":year/calendar/:month?/:date?" />
+                    <Route Component={MapPage} path="/:year/map" />
+                    <Route Component={ListPage} path="/:year/list" />
+                    <Route Component={CfpPage} path="/:year/cfp" />
+                    <Route Component={CfpCompanionPage} path="/:year/cfp-companion" />
+                  </Routes>
+                  <ScrollToTopButton />
+                  <Footer />
+                </Router>
+              </FilterContext.Provider>
+            </TagsProvider>
+          </CfpSpeakerStatusProvider>
         </FavoritesProvider>
       </ThemeProvider>
     </LanguageProvider>

@@ -1,8 +1,6 @@
-import { useState } from 'react'
-
 import { Check, FileText, X } from 'lucide-react'
 
-import { getCfpSpeakerStatus, setCfpSpeakerStatus } from 'utils/cfpSpeakerStatuses'
+import { useCfpSpeakerStatusContext } from 'contexts/CfpSpeakerStatusContext'
 import { useTranslation } from 'contexts/LanguageContext'
 import 'styles/CfpSpeakerStatus.css'
 
@@ -14,22 +12,18 @@ const statuses = [
 
 const CfpSpeakerStatus = ({ eventId }) => {
   const { t } = useTranslation()
-  const [status, setStatus] = useState(() => getCfpSpeakerStatus(eventId))
-
-  const selectStatus = (nextStatus) => {
-    setCfpSpeakerStatus(eventId, nextStatus)
-    setStatus(getCfpSpeakerStatus(eventId))
-  }
+  const { getStatus, updateStatus } = useCfpSpeakerStatusContext()
+  const status = getStatus(eventId)
 
   return (
     <div aria-label={t('cfp.companionStatus')} className="cfp-speaker-status">
       {statuses.map(({ id, Icon }) => (
         <button
           aria-label={t(`cfp.${id}`)}
-          aria-pressed={id === 'applied' ? status.applied : status.outcome === id}
+          aria-pressed={id === 'applied' ? Boolean(status.applied) : status.outcome === id}
           className={`cfp-speaker-status-button ${id} ${(id === 'applied' ? status.applied : status.outcome === id) ? 'selected' : ''}`}
           key={id}
-          onClick={() => selectStatus(id)}
+          onClick={() => updateStatus(eventId, id)}
           title={t(`cfp.${id}`)}
           type="button"
         >
