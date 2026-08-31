@@ -3315,7 +3315,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-09-Unhacked 360 Germany: FutureSec Summit,topic:cybersecurity,topic:security,language:english
 2026-11-18-gRPConf India,tech:cloud,topic:infrastructure,language:hindi
 2026-12-01-inside agile: Agile Leadership Conference,topic:agile,topic:leadership,language:english
-2027-01-14-SnowCamp 2027,tech:cloud,topic:infrastructure,language:french
+2027-01-14-SnowCamp 2027,language:french,topic:tech-conference,topic:software-engineering,tech:developers,topic:artificial-intelligence
 2026-11-23-VibeKode Berlin 2026,topic:coding,topic:developer,topic:software-engineering
 2026-10-05-VibeKode Utrecht 2026,topic:coding,topic:software-engineering,topic:development
 2026-11-28-FOSS for All Conference 2026,tech:python,topic:data,topic:open-source,language:english
