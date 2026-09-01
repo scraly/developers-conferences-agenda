@@ -115,9 +115,14 @@
 }
 
 .cfp-companion-status-filters legend {
-    color: var(--text-secondary);
+    color: var(--text-primary);
+    font-size: 0.875rem;
     font-weight: 600;
     padding: 0 0.4rem;
+}
+
+.cfp-companion-status-filters .filtersItem label {
+    font-size: 0.875rem;
 }
 
 .filters .filtersItem {
