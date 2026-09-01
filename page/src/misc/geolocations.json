@@ -1739,6 +1739,10 @@
     "latitude": 3.1319197,
     "longitude": 101.6840589
   },
+  "Kumasi (Ghana)": {
+    "latitude": 6.6985605,
+    "longitude": -1.6233086
+  },
   "Kutaisi (Georgia)": {
     "latitude": 42.2716078,
     "longitude": 42.7054475
@@ -3202,6 +3206,10 @@
   "São Paulo, SP (Brazil)": {
     "latitude": -23.682794700000002,
     "longitude": -46.716998204286014
+  },
+  "Tacna (Peru)": {
+    "latitude": -18.01386,
+    "longitude": -70.2511032
   },
   "Tacoma, WA (USA)": {
     "latitude": 47.2455013,
