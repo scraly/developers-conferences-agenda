@@ -3449,3 +3449,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-29-KubeAuto Day Las Vegas,tech:kubernetes,topic:cloud-native,topic:open-source,language:english
 2026-12-11-KCD Florida,tech:kubernetes,topic:cloud-native,topic:open-source,language:english
 2027-01-22-KCD Panama 2027,tech:kubernetes,topic:cloud-native,topic:open-source,language:english
+2026-11-13-GreHack,language:english,tech:security,topic:cybersecurity,topic:infosec
+2027-06-02-SSTIC,topic:cybersecurity,topic:infosec,tech:security
+2027-01-30-FOSDEM 2027,language:english,tech:free-software,tech:open-source
+2026-11-20-Odoo Hackathon #6,topic:hackathon,topic:code,tech:odoo,topic:java,tech:python
