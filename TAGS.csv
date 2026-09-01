@@ -2699,7 +2699,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-15-Jupyter Workshops: Demystifying MyST Markdown in Education,tech:education,topic:markdown,topic:open-source,language:english
 2026-08-25-techcamp 2026,tech:technology,topic:innovation,topic:startup,language:english
 2026-09-14-Brains on Silicon,tech:ai,topic:neuroscience,topic:technology,language:english
-2026-12-10-KCD Provence,tech:cloud-native,topic:kubernetes,topic:devops,language:french
+2026-12-10-KCD Provence,tech:cloud-native,topic:kubernetes,topic:devops,topic:open-source,topic:inclusion,language:french
 2026-06-08-Open Source Policy & Ecosystem Forum,tech:cloud-computing,topic:open-source,topic:policy,language:english
 2026-08-02-Deep Learning Indaba 2026,tech:ai,tech:machine-learning,topic:deep-learning,language:english
 2026-09-19-Devopsdays Campinas,tech:devops,topic:cloud-native,language:portuguese
@@ -2716,7 +2716,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-28-Birmingham Tech Week 2026,tech:software,tech:ai,topic:innovation,language:english
 2026-09-28-Birmingham Tech Week 2026: FairTech,tech:ai,topic:fair-tech,language:english
 2026-09-28-Birmingham Tech Week 2026: AI Symposium,tech:ai,topic:artificial-intelligence,language:english
-2026-12-10-KCD Provence,topic:cloud-native,topic:kubernetes,topic:open-source,topic:inclusion
 2026-05-12-AI SRE Summit 2026,topic:sre,topic:ai,topic:devops2026-04-18-Global Azure 2026 - Coimbatore,tech:cloud,topic:azure,location:india
 2026-04-18-Global Azure Bootcamp 2026 Atlanta,tech:cloud,topic:azure,location:usa
 2026-04-18-Global Azure  2026 - Chennai,tech:cloud,topic:azure,location:india
