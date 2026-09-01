@@ -23,7 +23,7 @@ const YearSelector = ({ isMap, year, onChange, view }) => {
         <ViewSelector selected={view}/>
       </div>
       <div>
-        <EventCount events={displayedEvents} isMap={isMap} />
+        <EventCount events={displayedEvents} isMap={isMap} view={view} />
       </div>
     </div>
   );
