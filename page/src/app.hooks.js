@@ -355,6 +355,11 @@ export const applyCommonFilters = (events, search, regionsMap) => {
     result = result.filter((e) => e.sponsoring)
   }
 
+  const minAttendees = Number(search.minAttendees)
+  if (search.minAttendees !== undefined && search.minAttendees !== '' && Number.isFinite(minAttendees)) {
+    result = result.filter((e) => typeof e.attendees === 'number' && e.attendees > minAttendees)
+  }
+
   // Handle multiselect tags filter (AND logic - all selected tags must match)
   if (search.tags) {
     const selectedTags = Array.isArray(search.tags) ? search.tags : search.tags.split(',')

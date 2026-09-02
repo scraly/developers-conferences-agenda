@@ -150,6 +150,12 @@
     border: solid 1px var(--border-dark);
 }
 
+.filters .filtersItem input[type="number"] {
+    padding: 0.5rem 1rem;
+    width: 100%;
+    border: solid 1px var(--border-dark);
+}
+
 .filters .filtersItem label {
     display: inline-block;
     width: 100%;
@@ -157,6 +163,10 @@
 
 .filters .filtersItem label[for=filter-query] {
     display: block;
+}
+
+.filters .filter-min-attendees {
+    margin-top: 10px;
 }
 
 .filters .filtersItem select {
@@ -173,6 +183,12 @@
 #filter-until{
     display: block !important;
     margin-top: 10px;
+}
+
+#filter-min-attendees {
+    display: block !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 #filter-query {

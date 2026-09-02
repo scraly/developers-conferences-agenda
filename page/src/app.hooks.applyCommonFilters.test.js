@@ -179,6 +179,33 @@ describe('applyCommonFilters', () => {
     })
   })
 
+  describe('minimum attendees filter', () => {
+    it('should only include events with more attendees than the configured threshold', () => {
+      const events = [
+        createEvent({ name: 'Small Event', attendees: 99 }),
+        createEvent({ name: 'Exact Threshold', attendees: 100 }),
+        createEvent({ name: 'Large Event', attendees: 101 }),
+        createEvent({ name: 'No Attendee Data' })
+      ]
+
+      const result = applyCommonFilters(events, { minAttendees: '100' }, mockRegionsMap)
+
+      expect(result).toHaveLength(1)
+      expect(result[0].name).toBe('Large Event')
+    })
+
+    it('should ignore invalid attendee thresholds', () => {
+      const events = [
+        createEvent({ name: 'Small Event', attendees: 10 }),
+        createEvent({ name: 'No Attendee Data' })
+      ]
+
+      const result = applyCommonFilters(events, { minAttendees: 'not-a-number' }, mockRegionsMap)
+
+      expect(result).toHaveLength(2)
+    })
+  })
+
   describe('tags filter (multiselect)', () => {
     it('should filter by single tag', () => {
       const events = [
