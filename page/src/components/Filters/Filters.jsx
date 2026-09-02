@@ -145,6 +145,7 @@ const Filters = ({ view }) => {
     filterKeys.add('favorites')
     filterKeys.add('query')
     filterKeys.add('untilDate')
+    filterKeys.add('minAttendees')
     filterKeys.add('cfpStatus')
 
     Object.keys(search).forEach(k => {
@@ -226,6 +227,11 @@ const Filters = ({ view }) => {
           <label htmlFor='filter-until'>{t('filters.cfpUntil')}</label>
           <input id="filter-until" onChange={(e) => onChange('untilDate', e.target.value)} type="date" value={search.untilDate || ''} />
         </div> : null}
+
+        <div className='filtersItem filter-min-attendees'>
+          <label htmlFor='filter-min-attendees'>{t('filters.minAttendees')}</label>
+          <input id='filter-min-attendees' min='0' onChange={(e) => onChange('minAttendees', e.target.value)} placeholder={t('filters.minAttendeesPlaceholder')} step='1' type='number' value={search.minAttendees || ''} />
+        </div>
 
         <div className='filtersList'>
 
@@ -336,6 +342,7 @@ const Filters = ({ view }) => {
           <select id='filter-sort' onChange={(e) => onChange('sort', e.target.value)} value={search.sort}>
             <option value='date'>{t('filters.sortEventStartDate')}</option>
             <option value='cfp'>{t('filters.sortCfpCloseDate')}</option>
+            <option value='attendees'>{t('filters.sortAttendees')}</option>
           </select>
         </div> : ''}
       </div>
