@@ -3,6 +3,7 @@ const fs=require('fs');
 const ROOT= "../"
 const MAIN_INPUT = ROOT+"README.md"
 const TAGS_CSV = ROOT + "TAGS.csv";
+const METADATA_CSV = ROOT + "METADATA.csv";
 const confIdentifierPattern = /^ *\* ?(\[.*\]\s?)?[0-9?x\/-]+/
 
 // Structure générale (date, nom, lien, lieu)
@@ -172,6 +173,41 @@ console.warn(`found ${duplicateTags?.length || 0} duplicate tags`)
 if(duplicateTags?.length > 0) {
     for(const tag of duplicateTags) {
         console.warn(`${tag}`)
+    }
+    process.exit(1)
+}
+
+const duplicateMetadataValidator = () => {
+    if (!fs.existsSync(METADATA_CSV)) {
+        return console.error("Metadata CSV not found");
+    }
+
+    const eventIds = fs.readFileSync(METADATA_CSV, "utf-8")
+        .split("\n")
+        .slice(1)
+        .map((line) => line.trim())
+        .filter((line) => line.length > 0 && !line.startsWith("#"))
+        .map((line) => line.split(",")[0]);
+    const uniqueEventIds = new Set();
+    const duplicates = [];
+
+    for (const eventId of eventIds) {
+        if (uniqueEventIds.has(eventId)) {
+            duplicates.push(eventId);
+        }
+
+        uniqueEventIds.add(eventId);
+    }
+
+    return duplicates;
+};
+
+const duplicateMetadata = duplicateMetadataValidator()
+console.warn(`found ${duplicateMetadata?.length || 0} duplicate metadata`)
+
+if(duplicateMetadata?.length > 0) {
+    for(const eventId of duplicateMetadata) {
+        console.warn(`${eventId}`)
     }
     process.exit(1)
 }
