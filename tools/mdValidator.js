@@ -4,6 +4,7 @@ const ROOT= "../"
 const MAIN_INPUT = ROOT+"README.md"
 const TAGS_CSV = ROOT + "TAGS.csv";
 const METADATA_CSV = ROOT + "METADATA.csv";
+const MONTHS_NAMES = "january,february,march,april,may,june,july,august,september,october,november,december".split(",");
 const confIdentifierPattern = /^ *\* ?(\[.*\]\s?)?[0-9?x\/-]+/
 
 // Structure générale (date, nom, lien, lieu)
@@ -16,14 +17,31 @@ const extractArchiveFiles = markdown => //eg: " * [2017](archives/2017.md)"
     [...markdown.matchAll(/^\s*\*\s*\[.*\]\(archives\/.*\.md\)\s*$/gm)].map( match => match[0])
     .map( archiveLine => ROOT + archiveLine.trim().replaceAll(/^.*(archives\/.*\.md).*$/g,'$1'));
 
-const findConfLines = (fileContent, fileName) => 
-    fileContent.toString().split(/\n/)
-    .map((lineContent,index) => ({
-      content: lineContent,
-      lineNum:index+1,
-      fileName:fileName
-    }))
-    .filter(line => !!line.content.match(confIdentifierPattern))
+const findConfLines = (fileContent, fileName) => {
+    let year;
+    let month;
+
+    return fileContent.toString().split(/\n/)
+        .map((content, index) => {
+            const yearMatch = content.match(/^## (\d{4})$/);
+            if (yearMatch) year = yearMatch[1];
+
+            const monthMatch = content.match(/^### (\w+)$/);
+            if (monthMatch) month = MONTHS_NAMES.indexOf(monthMatch[1].toLowerCase());
+
+            return { content, lineNum: index + 1, fileName, year, month };
+        })
+        .filter(line => !!line.content.match(confIdentifierPattern))
+}
+
+const getEventIdentifier = (confLine) => {
+    const dateMatch = confLine.content.match(/^\* (?:\[[^\]]+\] )?(\d{1,2})/);
+    const nameMatch = confLine.content.match(/\[([^\]]+)\]\(https?:\/\//);
+    if (!dateMatch || !nameMatch || confLine.month === -1 || !confLine.year) return null;
+
+    const date = new Date(Date.UTC(confLine.year, confLine.month, dateMatch[1]));
+    return `${date.toISOString().slice(0, 10)}-${nameMatch[1]}`;
+}
 
 const hasTrustedShieldsUrl = (text) => {
     const urls = text.match(/https?:\/\/[^\s"')>]+/g) || []
@@ -125,6 +143,30 @@ const openCfpLines = confLines.filter(confLine => hasOpenCfpBadge(confLine.conte
 console.warn(`found ${openCfpLines.length} conferences with CFP "message=Open"`)
 for (const openCfpLine of openCfpLines) {
     console.warn(`${openCfpLine.fileName}:${openCfpLine.lineNum} ${openCfpLine.content}`)
+}
+
+const findDuplicateEvents = () => {
+    const eventsByIdentifier = new Map();
+
+    for (const confLine of confLines) {
+        const eventIdentifier = getEventIdentifier(confLine);
+        if (!eventIdentifier) continue;
+
+        const events = eventsByIdentifier.get(eventIdentifier) || [];
+        events.push(confLine);
+        eventsByIdentifier.set(eventIdentifier, events);
+    }
+
+    return [...eventsByIdentifier.entries()].filter(([, events]) => events.length > 1);
+}
+
+const duplicateEvents = findDuplicateEvents()
+console.warn(`found ${duplicateEvents.length} duplicate events`)
+for (const [eventIdentifier, events] of duplicateEvents) {
+    console.warn(eventIdentifier)
+    for (const event of events) {
+        console.warn(`${event.fileName}:${event.lineNum} ${event.content}`)
+    }
 }
 
 const warnings = confLines.filter(line => {
