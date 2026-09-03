@@ -7,7 +7,6 @@ event_id,attendees
 2026-06-16-DevBCN,attendees:800
 2026-04-22-Devoxx France 2026,attendees:4600
 2026-06-17-Devoxx Poland,attendees:2700
-2026-06-17-Devoxx Poland,attendees:2700
 2026-05-06-Devoxx UK 2026,attendees:1200
 2026-04-23-Devoxx Greece,attendees:1200
 2026-07-06-Riviera Dev,attendees:700
@@ -124,9 +123,7 @@ event_id,attendees
 2026-06-12-ETHGlobal New York Hackathon,attendees:600
 2026-07-24-ETHGlobal Lisbon Hackathon,attendees:600
 2026-06-08-ETHConf,attendees:5000
-2026-11-13-Devopsdays Barcelona,attendees:220
 2026-10-29-Pycon FR,attendees:500
-2026-11-13-Devopsdays Barcelona,200
 2026-10-26-Agile Tour Montpellier,attendees:300
 2026-09-14-Code Europe,attendees:1800
 2027-06-03-Cloud Native Days France 2027,attendees:2500
