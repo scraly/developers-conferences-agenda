@@ -36,6 +36,18 @@ const hasTrustedShieldsUrl = (text) => {
     })
 }
 
+const hasOpenCfpBadge = (text) => {
+    const badgeUrls = [...text.matchAll(/<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/g)].map(match => match[1])
+    return badgeUrls.some((urlString) => {
+        try {
+            const url = new URL(urlString)
+            return url.searchParams.get("label") === "CFP" && url.searchParams.get("message") === "Open"
+        } catch {
+            return false
+        }
+    })
+}
+
 const addHints = confLine => {
     const hints = []
     if(!confLine.content.match(/^\*( \[(?<status>[\w ]+)\])? (?<date>\d{1,2}(\/\d{1,2})?(-\d{1,2})?(\/\d{1,2})?)/)){
@@ -107,6 +119,12 @@ const archives = extractArchiveFiles(mainContent)
 const confLines = mainLines.concat( archives.flatMap( archive => findConfLines(fs.readFileSync(archive).toString(), archive)) )
 
 console.info(`found ${confLines.length} conferences`)
+
+const openCfpLines = confLines.filter(confLine => hasOpenCfpBadge(confLine.content))
+console.warn(`found ${openCfpLines.length} conferences with CFP "message=Open"`)
+for (const openCfpLine of openCfpLines) {
+    console.warn(`${openCfpLine.fileName}:${openCfpLine.lineNum} ${openCfpLine.content}`)
+}
 
 const warnings = confLines.filter(line => {
     if (line.content.match(confValidationPattern)) return false;
