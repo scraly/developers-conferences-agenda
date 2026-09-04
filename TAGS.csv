@@ -2806,7 +2806,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-21-AppSec Days India 2026 Virtual Conference,tech:security,topic:appsec,location:online,language:english
 2026-11-27-DevFest Paris 2026,tech:developer,topic:fest,location:paris,language:french
 2026-12-04-DevFest Dijon 2026,tech:developer,topic:fest,location:dijon,language:french
-2027-05-31-JCON EUROPE,tech:java,topic:conference,location:koln,language:german
+2027-04-26-JCON EUROPE 2027,tech:java,topic:conference,location:koln,language:german,language:english
 2026-09-18-WordCamp Bretagne,tech:wordpress,topic:ai,location:france,topic:web-development,topic:web
 2026-04-17-Build With AI Kivu & Bukavu,tech:ai,tech:machine-learning,topic:developer-tools,language:english
 2026-05-05-GOSIM Paris 2026,tech:cloud,topic:devops,language:french
@@ -3484,3 +3484,4 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-05-13-phpday 2027,tech:php,topic:developer,language:italian
 2027-05-25-Web Rebels 2027,tech:developer,language:norwegian
 2027-08-21-Devopsdays Curitiba,tech:devops,topic:developer,language:portuguese
+2027-04-05-dev/nexus,topic:java,language:english,topic:ai
