@@ -2174,6 +2174,7 @@ All the data (past and coming) are available publicly in JSON:
 
 * 1-4: [Southern California Linux Expo - SCaLE 24x](https://www.socallinuxexpo.org/) - Pasadena, CA (USA) <a href="https://www.socallinuxexpo.org/scale/24x/cfp"><img alt="CFP Southern California Linux Expo - SCaLE 24x" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-November-2026&color=green"></a>
 * 2: [Devopsdays Los Angeles](https://devopsdays.org/events/2027-los-angeles) - Los Angeles, CA (USA)
+* 5-7: [dev/nexus](https://devnexus.com) - Atlanta, GA (USA) <a href="https://sessionize.com/devnexus-2027/"><img alt="CFP dev/nexus" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-September-2026&color=green"></a>
 * 5-8: [PowerShell Summit 2027](https://PowerShellSummit.org) - Orlando, FL (USA) <a href="https://sessionize.com/pshsummit27"><img alt="CFP PowerShell Summit 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=red"></a>
 * 7-9: [Devoxx France 2027](https://www.devoxx.fr/) - Paris (France)
 * 13-14: [DevOpsDays Tokyo 2027](https://www.devopsdaystokyo.org/) - Tokyo (Japan) 
@@ -2184,6 +2185,7 @@ All the data (past and coming) are available publicly in JSON:
 * 21: [AiX Conference](https://aixconf.co.uk) - Newcastle upon Tyne (UK)
 * 20-21: [Devopsdays Atlanta](https://devopsdays.org/events/2027-atlanta) - Atlanta, GA (USA)
 * 25-30: [STAREAST 2027](https://stareast.techwell.com/) - Orlando, FL (USA) <a href="https://stareast.techwell.com/speak-stareast"><img alt="CFP STAREAST 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-September-2026&color=green"></a>
+* 26-29: [JCON EUROPE 2027](https://2027.europe.jcon.one) - Köln (Germany)
 * 27-28: [Devopsdays Raleigh](https://devopsdays.org/events/2027-raleigh) - Raleigh, NC (USA)
 * 27-29: [PHP Tek](https://phptek.io) - Chicago, IL (USA) <a href="https://cfp.phptek.io"><img alt="CFP PHP Tek" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2026&color=green"></a> <a href="https://partnership-program.phparch.com/ala-cart#phptek"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 27-30: [Great International Developer Summit (GIDS)](https://developersummit.com/) - Bengaluru (India) <a href="https://developersummit.com/cfp"><img alt="CFP Great International Developer Summit (GIDS)" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2026&color=green"></a> <a href="https://saltmarch.com/contact-us"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
@@ -2196,7 +2198,6 @@ All the data (past and coming) are available publicly in JSON:
 * 25-26: [Web Rebels 2027](https://webrebels.org/) - Oslo (Norway) <a href="https://sessionize.com/web-rebels-2027"><img alt="CFP Web Rebels 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-September-2026&color=green"></a>
 * 25-26: [Devopsdays Geneva](https://devopsdays.org/events/2027-geneva) - Geneva (Switzerland)
 * 26-27: [GITEX AI SERBIA](https://www.gitexserbia.com) - Belgrade (Serbia)
-* 31-03/06: [JCON EUROPE](https://2027.europe.jcon.one) - Köln (Germany)
 
 ### June
 
@@ -2206,6 +2207,10 @@ All the data (past and coming) are available publicly in JSON:
 * 6-11: [AI Con USA 2027](https://aiconusa.techwell.com/) - Seattle, WA (USA) <a href="https://aiconusa.techwell.com/speak-ai-con-usa"><img alt="CFP AI Con USA 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-October-2026&color=green"></a>
 * 9-11: [International Conference on Robotics, Artificial Intelligence and Autonomous Systems](https://icraias2027.com) - Singapore (Singapore)
 * 15-16: [Accelerate Tomorrow AI Summit](https://www.acceleratetomorrow.com) - Berlin (Germany)
+
+### July
+
+* 14-16: [WeAreDevelopers World Congress 2027 - Europe](https://www.wearedevelopers.com/world-congress) - Berlin (Germany)
 
 ### August
 
