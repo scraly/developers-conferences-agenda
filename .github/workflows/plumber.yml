@@ -1,0 +1,21 @@
+name: Plumber
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  security-events: write
+  id-token: write   # required to publish the Plumber Score badge
+
+jobs:
+  plumber:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v6
+      - uses: getplumber/plumber@a697e9c316b058d279861719c73b87093fb5a60f # v0.3.86
+        with:
+          threshold: 60      # fail under a 60% Plumber Score
+          score-push: true   # publishes a public Plumber Score badge
