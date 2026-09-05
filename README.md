@@ -1688,7 +1688,7 @@ All the data (past and coming) are available publicly in JSON:
 * 10: [unKonf 2026](https://www.unKonf.de) - Mannheim (Germany)
 * 10: [Devfest Milano 2026](https://www.devfestmilano.it) - Milan (Italy) <a href="https://sessionize.com/devfest-milano-2026"><img alt="CFP Devfest Milano 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-July-2026&color=red"></a>
 * 10: [Lakehouse Day EU 2026](https://communityovercode.org/lakehouse-day/) - Glasgow (UK) <a href="https://sessionize.com/lakehouse-day-2026"><img alt="CFP Lakehouse Day EU 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-March-2026&color=red"></a>
-* 10: [DevFest Kraków 2026](https://devfestkrakow.pl/) - Krakow (Poland) <a href="https://sessionize.com/devfest-krakow-2026/"><img alt="CFP DevFest Kraków 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-September-2026&color=green"></a>
+* 10: [DevFest Kraków 2026](https://devfestkrakow.pl/) - Krakow (Poland) <a href="https://sessionize.com/devfest-krakow-2026/"><img alt="CFP DevFest Kraków 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-September-2026&color=red"></a>
 * 11-14: [Community Over Code (The Apache Software Foundation)](https://communityovercode.org) - Glasgow (UK)
 * 11-14: [JavaCro'26](https://2026.javacro.hr/eng) - Rovinj (Croatia) <a href="https://sessionize.com/javacro26"><img alt="CFP JavaCro'26" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=red"></a>
 * 12: [The Nordic APIs UnConference](https://nordicapis.com/events/napis-unconference-2026) - Stockholm (Sweden)
