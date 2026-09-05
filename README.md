@@ -1683,7 +1683,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8-9: [Forum PHP 2026](https://event.afup.org/) - Marne-la-Vallée (France) <a href="https://afup.org/event/forumphp2026"><img alt="CFP Forum PHP 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-June-2026&color=red"></a>
 * 9: [AWS DMV Community Day 2026](https://www.dmvcommunityday.com/) - Arlington, VA (USA) <a href="https://sessionize.com/aws-dmv-community-day-2026"><img alt="CFP AWS DMV Community Day 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2026&color=red"></a>
 * 9: [Cloud Security Space 2026](https://cloudsecurityspace.org/es) - Buenos Aires (Argentina)
-* 9: [Forum ouvert automne 2026](https://www.billetweb.fr/unconf-automne-2026) - Lyon (France)
+* 9: [Forum ouvert automne 2026 - Software Crafters Lyon](https://www.billetweb.fr/unconf-automne-2026) - Lyon (France)
 * 9-10: [Data Saturday Holland 2026](https://datasaturday.nl) - Utrecht (Netherlands) <a href="https://sessionize.com/data-saturday-holland-2026"><img alt="CFP Data Saturday Holland 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=red"></a>
 * 10: [Data Saturdays Sofia 2026](https://datasaturday-2025.eventbrite.nl) - Sofia (Bulgaria) <a href="https://sessionize.com/data-saturdays-sofia-2026"><img alt="CFP Data Saturdays Sofia 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=red"></a>
 * 10: [unKonf 2026](https://www.unKonf.de) - Mannheim (Germany)
