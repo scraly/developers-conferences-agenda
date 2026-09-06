@@ -1676,6 +1676,7 @@ All the data (past and coming) are available publicly in JSON:
 * 7-9: [swiftcon@next.app devcon](https://www.nextappcon.com/swiftcon) - Berlin (Germany)
 * 7-9: [FlutterCon Europe](https://www.nextappcon.com/fluttercon) - Berlin (Germany)
 * 7-9: [next.app devcon](https://nextappcon.com) - Berlin (Germany) <a href="https://sessionize.com/nextapp26"><img alt="CFP next.app devcon" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2026&color=red"></a>
+* 7-9: [agentic coding](https://www.nextappcon.com/agentic-coding-con) - Berlin (Germany) <a href="https://sessionize.com/nextapp26"><img alt="CFP next.app devcon" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-July-2026&color=red"></a>
 * 7-11: [PyCon Africa](https://africa.pycon.org) - Kampala (Uganda)
 * 8: [Dapr Day Virtual](https://community2.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-dapr-day/) - Online <a href="https://sessionize.com/DaprDay_2026"><img alt="CFP Dapr Day Virtual" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-July-2026&color=red"></a>
 * 8: [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) - Prague (Czechia)
