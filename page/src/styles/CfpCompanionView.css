@@ -12,6 +12,13 @@
   margin: 0;
 }
 
+.cfp-companion-view .cfp-durations {
+  color: var(--text-secondary);
+  font-size: 0.85em;
+  margin-left: auto;
+  white-space: nowrap;
+}
+
 @media screen and (max-width: 1024px) {
   .cfp-companion-view .event-list-entry {
     align-items: flex-start;

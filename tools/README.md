@@ -79,3 +79,22 @@ END:VCALENDAR
 ### Known Issues
 
 Not yet 😉
+
+## generateCfpDurations.js
+
+### Mission
+
+Reads CFP links from `page/src/misc/all-events.json`, extracts explicit talk and workshop durations from CFP pages, and appends them to `CFP.csv`.
+
+### Usage
+
+```sh
+node generateCfpDurations.js
+```
+
+Only durations that can be identified explicitly are written. Each event uses separate CSV cells, for example:
+
+```csv
+event_id,duration1,duration2,duration3,duration4
+2026-06-11-DevLille 2026,talk:5,talk:30,talk:45,workshop:160
+```

@@ -240,6 +240,10 @@
       "cityRequiredWithCountry": "La ville est requise lorsque le pays est fourni"
     }
   },
+  "cfpCompanion": {
+    "talks": "Talks",
+    "workshops": "Ateliers"
+  },
   "year": {
     "selectYear": "Sélectionner l'année",
     "currentYear": "Année en cours",

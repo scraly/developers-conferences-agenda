@@ -11,6 +11,14 @@ import CfpSpeakerStatus from 'components/CfpSpeakerStatus/CfpSpeakerStatus'
 import { useFavoritesContext } from 'contexts/FavoritesContext'
 import { useTranslation } from 'contexts/LanguageContext'
 
+const formatDurations = (durations, type) => durations
+  .filter(duration => duration.startsWith(`${type}:`))
+  .map(duration => {
+    const value = duration.slice(type.length + 1)
+    return /^\d+$/.test(value) ? `${value} min` : value
+  })
+  .join(', ')
+
 const CfpCompanionView = () => {
   const events = useCfpCompanionEvents()
   const { toggleTag } = useFilters()
@@ -67,6 +75,13 @@ const CfpCompanionView = () => {
                       {typeof event.attendees === 'number' ? <span className="attendees">👥 {event.attendees}</span> : null}
                     </div>
                   </div>
+                  {event.cfp?.durations?.length > 0 && (
+                    <span className="cfp-durations">
+                      {formatDurations(event.cfp.durations, 'talk') && `${t('cfpCompanion.talks')}: ${formatDurations(event.cfp.durations, 'talk')}`}
+                      {formatDurations(event.cfp.durations, 'talk') && formatDurations(event.cfp.durations, 'workshop') && ' · '}
+                      {formatDurations(event.cfp.durations, 'workshop') && `${t('cfpCompanion.workshops')}: ${formatDurations(event.cfp.durations, 'workshop')}`}
+                    </span>
+                  )}
                   <TagBadges
                     onTagClick={toggleTag}
                     tags={(event.tags || []).filter(tag => typeof tag === 'object' && tag.key === 'language')}

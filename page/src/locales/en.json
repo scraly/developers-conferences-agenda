@@ -243,6 +243,10 @@
       "sponsoringUrlInvalid": "Please enter a valid Sponsoring URL"
     }
   },
+  "cfpCompanion": {
+    "talks": "Talks",
+    "workshops": "Workshops"
+  },
   "year": {
     "selectYear": "Select Year",
     "currentYear": "Current Year",
