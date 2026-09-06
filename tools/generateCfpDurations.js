@@ -8,7 +8,10 @@ const EVENTS_JSON = path.join(__dirname, '../page/src/misc/all-events.json');
 const REQUEST_TIMEOUT_MS = 15000;
 const REQUEST_DELAY_MS = 500;
 const yearArgument = process.argv.find(argument => argument.startsWith('--year='));
-const TARGET_YEAR = Number(yearArgument?.slice('--year='.length)) || 2027;
+const CURRENT_YEAR = new Date().getUTCFullYear();
+const TARGET_YEARS = yearArgument
+  ? [Number(yearArgument.slice('--year='.length))]
+  : [CURRENT_YEAR, CURRENT_YEAR + 1];
 
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -144,14 +147,14 @@ async function main() {
   const knownEventIds = refresh ? new Set() : readKnownEventIds();
   const cfpEvents = allEvents.filter(event => (
     event.cfp?.link
-    && new Date(event.date[0]).getUTCFullYear() === TARGET_YEAR
+    && TARGET_YEARS.includes(new Date(event.date[0]).getUTCFullYear())
   ));
   const events = cfpEvents.filter(event => (
     !knownEventIds.has(eventId(event))
   ));
   let entriesWritten = 0;
 
-  console.error(`# Searching talk durations for ${events.length} CFPs in ${TARGET_YEAR}`);
+  console.error(`# Searching talk durations for ${events.length} CFPs in ${TARGET_YEARS.join(' and ')}`);
   if (!refresh) console.error(`# Skipping ${cfpEvents.length - events.length} CFPs already recorded in CFP.csv`);
   for (const event of events) {
     try {
