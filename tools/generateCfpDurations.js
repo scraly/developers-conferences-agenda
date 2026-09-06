@@ -65,7 +65,7 @@ const htmlToText = html => html
   .replace(/\s+/g, ' ');
 
 const getDurations = (text, type) => {
-  const talkLabel = 'talk|session|presentation|lecture|keynote|conference|conférence|short|demo|demos|démo|démos';
+  const talkLabel = 'talk|session|presentation|lecture|keynote|conference|conférence|short|quickie|demo|demos|démo|démos';
   const workshopLabel = 'workshop|training|atelier';
   const label = type === 'talk' ? talkLabel : workshopLabel;
   const allLabels = `${talkLabel}|${workshopLabel}`;
