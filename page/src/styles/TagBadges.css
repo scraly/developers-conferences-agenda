@@ -20,6 +20,10 @@
   box-sizing: border-box;
 }
 
+.tag-badge.language-flag {
+  font-size: 1.25em;
+}
+
 .tag-badge.clickable {
   cursor: pointer;
   transition: all 0.2s ease;

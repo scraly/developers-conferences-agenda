@@ -67,7 +67,10 @@ const CfpCompanionView = () => {
                       {typeof event.attendees === 'number' ? <span className="attendees">👥 {event.attendees}</span> : null}
                     </div>
                   </div>
-                  <TagBadges onTagClick={toggleTag} tags={event.tags} />
+                  <TagBadges
+                    onTagClick={toggleTag}
+                    tags={(event.tags || []).filter(tag => typeof tag === 'object' && tag.key === 'language')}
+                  />
                 </div>
               )
             })}
