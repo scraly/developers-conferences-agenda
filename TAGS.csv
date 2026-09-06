@@ -3506,3 +3506,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-02-03-TechEx Global,tech:software,topic:development,language:english
 2027-04-05-dev/nexus,tech:java,topic:development,language:english
 2027-07-14-WeAreDevelopers World Congress 2027 - Europe,tech:software,topic:development,language:english
+2026-09-09-DevOps 2.0,tech:devops,topic:cloud,topic:automation,language:english
+2026-09-24-Edgecase 2026,tech:software-engineering,topic:architecture,topic:developer-tools,language:english
+2026-10-09-Forum ouvert automne 2026 - Software Crafters Lyon,tech:software-craft,topic:programming,topic:community,language:french
+2027-03-11-DevFest Nantes 2027,tech:google-developer-events,topic:android,topic:cloud,language:french
