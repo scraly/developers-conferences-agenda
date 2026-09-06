@@ -9,6 +9,8 @@
 const fs = require('fs');
 const path = require('path');
 const fetch = globalThis.fetch;
+const MAX_EVENT_TAGS = 6;
+const ALLOWED_TAG_PATTERN = /^(tech|topic|language):[a-z0-9][a-z0-9.-]*$/;
 
 if (typeof fetch !== 'function') {
   console.error('# Native fetch is not available. Please use Node.js >= 18.');
@@ -67,6 +69,19 @@ function readConferences(allEventsFile) {
     .sort((a, b) => a.date.localeCompare(b.date));
 }
 
+function normalizeGeneratedTags(rawTags) {
+  const tags = rawTags
+    .split(',')
+    .map(tag => tag.trim().toLowerCase())
+    .filter(tag => ALLOWED_TAG_PATTERN.test(tag));
+  const uniqueTags = [...new Set(tags)];
+  const languageTags = uniqueTags.filter(tag => tag.startsWith('language:'));
+  const otherTags = uniqueTags.filter(tag => !tag.startsWith('language:'));
+  const normalizedTags = languageTags.length > 0 ? [...languageTags, ...otherTags] : ['language:english', ...otherTags];
+
+  return normalizedTags.slice(0, MAX_EVENT_TAGS).join(',');
+}
+
 /*
  * Build system prompt with history
  */
@@ -78,6 +93,7 @@ Your goal is to assign relevant tags to each conference using the format and tag
 
 Tag format rules:
 - Use comma-separated key:value tags.
+- Generate no more than ${MAX_EVENT_TAGS} tags per conference.
 - Always include at least:
   - 1+ \`tech\`: tags (technology stack or tools)
   - 1+ \`topic\`: tags (themes, content areas, or focus)
@@ -87,6 +103,8 @@ Only use these tag categories (strictly):
 - tech: (python, java, javascript, rust, go, php, ruby, docker, kubernetes, aws, azure, gcp, etc.)
 - topic: (web-development, devops, security, testing, ai, cloud, data, open-source, software-development, mobile, etc.)
 - language: (english, french, german, spanish, dutch, italian, portuguese, etc.)
+
+Every output line must include at least one \`language:\` tag.
 
 Forbidden tags:
 - Never generate: location:*, country:*, region:*, city:*, continent:*, place:*
@@ -162,6 +180,7 @@ Return only the tag line in this exact format:
 1. tech:python,topic:data,topic:open-source,language:english
 
 Ignore the location field when generating tags. It is only used to help guess the language.
+Use only tech:, topic: and language: tags, include language: on every line, and generate no more than ${MAX_EVENT_TAGS} tags per line.
 
 Only return the numbered list with comma-separated tags. No extra explanation or formatting.
 `;
@@ -196,8 +215,8 @@ try {
     const json = await res.json();
     const text = json.choices[0]?.message?.content || '';
     return text.trim().split('\n').map(line => {
-      const [, tags] = line.split('. ');
-      return tags?.trim() || 'language:english';
+      const tags = line.replace(/^\d+\.\s*/, '');
+      return normalizeGeneratedTags(tags);
     });
 
   } catch (err) {
