@@ -18,10 +18,12 @@
 5. ✅ **Badges/Shields** - Validates CFP, Closed Captions, Scholarship, Sponsoring badges
 6. ✅ **Badge ordering** - Ensures correct badge order
 7. ✅ **Duplicate tags** - Checks TAGS.csv for duplicates
+8. ✅ **Tag limit** - Checks TAGS.csv for events with more than 6 tags
 
 ### Exit Behavior:
 - Exits with code `1` if more than 1 validation error found
 - Exits with code `1` if duplicate tags found
+- Exits with code `1` if an event has more than 6 tags
 - Allows workflow to continue if validation passes
 
 ---

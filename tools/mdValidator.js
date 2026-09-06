@@ -4,6 +4,7 @@ const ROOT= "../"
 const MAIN_INPUT = ROOT+"README.md"
 const TAGS_CSV = ROOT + "TAGS.csv";
 const METADATA_CSV = ROOT + "METADATA.csv";
+const MAX_EVENT_TAGS = 6;
 const MONTHS_NAMES = "january,february,march,april,may,june,july,august,september,october,november,december".split(",");
 const confIdentifierPattern = /^ *\* ?(\[.*\]\s?)?[0-9?x\/-]+/
 
@@ -215,6 +216,28 @@ console.warn(`found ${duplicateTags?.length || 0} duplicate tags`)
 if(duplicateTags?.length > 0) {
     for(const tag of duplicateTags) {
         console.warn(`${tag}`)
+    }
+}
+
+const findEventsWithTooManyTags = () => {
+    if (!fs.existsSync(TAGS_CSV)) {
+        return [];
+    }
+
+    return fs.readFileSync(TAGS_CSV, "utf-8")
+        .split("\n")
+        .slice(1)
+        .map((line, index) => ({ content: line.trim(), lineNum: index + 2 }))
+        .filter(line => line.content.length > 0 && !line.content.startsWith("#"))
+        .filter(line => line.content.split(",").filter(tag => /^(topic|tech|language):/.test(tag)).length > MAX_EVENT_TAGS);
+};
+
+const eventsWithTooManyTags = findEventsWithTooManyTags()
+console.warn(`found ${eventsWithTooManyTags.length} events with more than ${MAX_EVENT_TAGS} tags`)
+
+if(duplicateTags?.length > 0 || eventsWithTooManyTags.length > 0) {
+    for(const event of eventsWithTooManyTags) {
+        console.warn(`${TAGS_CSV}:${event.lineNum} ${event.content}`)
     }
     process.exit(1)
 }
