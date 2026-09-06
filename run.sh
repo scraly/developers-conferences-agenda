@@ -17,7 +17,7 @@ node generateRSS.js
 node geoCodes.js
 node validateGeolocations.js
 node checkCountries.js
-node generateCfpDurations.js
+#node generateCfpDurations.js
 
 cd ../page
 # npm run lint

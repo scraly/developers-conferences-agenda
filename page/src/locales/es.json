@@ -242,7 +242,8 @@
   },
   "cfpCompanion": {
     "talks": "Charlas",
-    "workshops": "Talleres"
+    "workshops": "Talleres",
+    "submittedFormats": "Formatos enviados"
   },
   "year": {
     "selectYear": "Seleccionar año",

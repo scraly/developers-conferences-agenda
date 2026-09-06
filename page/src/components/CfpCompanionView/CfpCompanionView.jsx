@@ -8,16 +8,9 @@ import ShortDate from 'components/ShortDate/ShortDate'
 import FavoriteButton from 'components/FavoriteButton/FavoriteButton'
 import TagBadges from 'components/TagBadges/TagBadges'
 import CfpSpeakerStatus from 'components/CfpSpeakerStatus/CfpSpeakerStatus'
+import CfpSubmissionDurations from 'components/CfpSubmissionDurations/CfpSubmissionDurations'
 import { useFavoritesContext } from 'contexts/FavoritesContext'
 import { useTranslation } from 'contexts/LanguageContext'
-
-const formatDurations = (durations, type) => durations
-  .filter(duration => duration.startsWith(`${type}:`))
-  .map(duration => {
-    const value = duration.slice(type.length + 1)
-    return /^\d+$/.test(value) ? `${value} min` : value
-  })
-  .join(', ')
 
 const CfpCompanionView = () => {
   const events = useCfpCompanionEvents()
@@ -76,11 +69,7 @@ const CfpCompanionView = () => {
                     </div>
                   </div>
                   {event.cfp?.durations?.length > 0 && (
-                    <span className="cfp-durations">
-                      {formatDurations(event.cfp.durations, 'talk') && `${t('cfpCompanion.talks')}: ${formatDurations(event.cfp.durations, 'talk')}`}
-                      {formatDurations(event.cfp.durations, 'talk') && formatDurations(event.cfp.durations, 'workshop') && ' · '}
-                      {formatDurations(event.cfp.durations, 'workshop') && `${t('cfpCompanion.workshops')}: ${formatDurations(event.cfp.durations, 'workshop')}`}
-                    </span>
+                    <CfpSubmissionDurations eventId={eventId} durations={event.cfp.durations} />
                   )}
                   <TagBadges
                     onTagClick={toggleTag}

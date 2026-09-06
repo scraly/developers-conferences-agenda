@@ -62,8 +62,8 @@ const htmlToText = html => html
   .replace(/\s+/g, ' ');
 
 const getDurations = (text, type) => {
-  const talkLabel = 'talk|session|presentation|lecture|keynote|conference|conférence';
-  const workshopLabel = 'workshop|training|hands-on|atelier';
+  const talkLabel = 'talk|session|presentation|lecture|keynote|conference|conférence|short|demo|demos|démo|démos';
+  const workshopLabel = 'workshop|training|atelier';
   const label = type === 'talk' ? talkLabel : workshopLabel;
   const allLabels = `${talkLabel}|${workshopLabel}`;
   const durationUnit = 'min|mins|minute|minutes|hour|hours|heure|heures|h';
@@ -74,6 +74,7 @@ const getDurations = (text, type) => {
     new RegExp(`(?:${label})\\b(?:(?!\\b(?:${allLabels})\\b)[^.,;]){0,100}?(\\d{1,3})\\s*(?:-|–)?\\s*(${durationUnit})\\b`, 'gi'),
     new RegExp(`(\\d{1,3})\\s*(?:-|–)?\\s*(${durationUnit})\\b(?:\\s+[a-z-]+){0,3}?\\s+(?:${label})\\b`, 'gi'),
   ];
+  const durationRangePattern = new RegExp(`(?:${label})\\b(?:(?!\\b(?:${allLabels})\\b)[^.,;]){0,100}?(\\d{1,3})\\s*(?:h|hour|hours|heure|heures)\\s*(?:-|–|to|à)\\s*(\\d{1,3})\\s*(?:h|hour|hours|heure|heures)\\b`, 'gi');
 
   for (const match of text.matchAll(questionDurationPattern)) {
     const duration = (/(?:hour|hours|heure|heures|h)/i.test(match[2]) ? Number(match[1]) * 60 : Number(match[1]))
@@ -89,6 +90,11 @@ const getDurations = (text, type) => {
     const fullDayPattern = new RegExp(`(?:${workshopLabel})\\b[^.,;]{0,40}?\\bfull[- ]day\\b`, 'gi');
     if (halfDayPattern.test(text)) matches.add('half-day');
     if (fullDayPattern.test(text)) matches.add('full-day');
+  }
+
+  for (const match of text.matchAll(durationRangePattern)) {
+    matches.add(Number(match[1]) * 60);
+    matches.add(Number(match[2]) * 60);
   }
 
   for (const pattern of patterns) {
@@ -117,7 +123,11 @@ const fetchCfpPage = async url => {
 
   try {
     const response = await fetch(url, {
-      headers: { 'User-Agent': 'developers-events-cfp-duration-bot/1.0' },
+      headers: {
+        Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+      },
       redirect: 'follow',
       signal: controller.signal,
     });
@@ -132,19 +142,23 @@ async function main() {
   const refresh = process.argv.includes('--refresh');
   const allEvents = JSON.parse(fs.readFileSync(EVENTS_JSON, 'utf8'));
   const knownEventIds = refresh ? new Set() : readKnownEventIds();
-  const events = allEvents.filter(event => (
+  const cfpEvents = allEvents.filter(event => (
     event.cfp?.link
     && new Date(event.date[0]).getUTCFullYear() === TARGET_YEAR
-    && !knownEventIds.has(eventId(event))
   ));
-  const entries = [];
+  const events = cfpEvents.filter(event => (
+    !knownEventIds.has(eventId(event))
+  ));
+  let entriesWritten = 0;
 
   console.error(`# Searching talk durations for ${events.length} CFPs in ${TARGET_YEAR}`);
+  if (!refresh) console.error(`# Skipping ${cfpEvents.length - events.length} CFPs already recorded in CFP.csv`);
   for (const event of events) {
     try {
       const durations = extractDurations(await fetchCfpPage(event.cfp.link));
       if (durations.length > 0) {
-        entries.push(`${eventId(event)},${durations.join(',')}`);
+        upsertEntries([`${eventId(event)},${durations.join(',')}`]);
+        entriesWritten++;
         console.error(`# Found ${durations.join(', ')} for ${event.name}`);
       }
     } catch (error) {
@@ -153,8 +167,7 @@ async function main() {
     await sleep(REQUEST_DELAY_MS);
   }
 
-  upsertEntries(entries);
-  console.error(`# Added or updated ${entries.length} CFP duration entries`);
+  console.error(`# Added or updated ${entriesWritten} CFP duration entries`);
 }
 
 if (require.main === module) {
