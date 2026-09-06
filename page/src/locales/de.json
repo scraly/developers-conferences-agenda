@@ -240,6 +240,11 @@
       "countryNeedsCity": "Stadt ist erforderlich, wenn Land angegeben ist"
     }
   },
+  "cfpCompanion": {
+    "talks": "Vorträge",
+    "workshops": "Workshops",
+    "submittedFormats": "Eingereichte Formate"
+  },
   "year": {
     "selectYear": "Jahr auswählen",
     "currentYear": "Aktuelles Jahr",

@@ -1,0 +1,476 @@
+event_id,duration1,duration2,duration3,duration4,duration5,duration6
+2027-01-14-SnowCamp 2027,talk:20,talk:45,workshop:120
+2027-01-18-Data Community Day Austria 2027,talk:60
+2027-01-23-PHPBenelux,talk:40
+2027-02-04-Cloud Tech Tallinn 2027,talk:45
+2027-02-08-Jfokus 2027,talk:15,talk:40,talk:45,talk:90
+2027-02-09-ELDK27 - Experts Live Denmark,talk:60
+2027-02-20-DDD Melbourne 2027,talk:20,workshop:105
+2027-02-22-SQL Konferenz 2027,talk:60
+2027-02-24-PlatformCon Live Day San Francisco,talk:25
+2027-02-24-Norfolk Developers Conference 2027,talk:5,talk:40,workshop:half-day,workshop:full-day
+2027-02-24-Confoo 2027,talk:45
+2027-02-25-Elastic{ON},talk:30
+2027-03-02-JavaLand,talk:40,talk:105
+2027-03-09-Incontro DevOps Italia (IDI) 2027,talk:40
+2027-03-09-INTED,talk:15
+2027-03-15-Buildpacks Summit Europe 2027,talk:10,talk:25
+2027-03-15-Cloud Native AI + Inference Day Europe 2027,talk:10,talk:25
+2027-03-15-Open Sovereign AI + Cloud Day Europe 2027,talk:10,talk:25
+2027-03-15-KubeCon + CloudNativeCon Europe 2027,talk:5,talk:30
+2027-03-23-Elastic{ON},talk:30
+2027-04-05-dev/nexus,talk:55,workshop:360
+2027-04-05-PowerShell Summit 2027,talk:25,talk:45,talk:90,workshop:240
+2027-04-13-Analytics and Data Summit 2027,talk:45
+2027-04-27-Great International Developer Summit (GIDS),talk:30,talk:60
+2027-05-24-Planview Connect 2027,talk:30
+2027-03-22-DrupalCon Orlando,talk:10,talk:50
+2027-04-25-STAREAST 2027,talk:60
+2027-06-06-AI Con USA 2027,talk:45
+2026-01-10-wwktm: AI Conf 2026,talk:10,talk:25
+2026-01-14-SnowCamp 2026,talk:20,talk:45,talk:180,workshop:180
+2026-01-22-DevCon #26 : sécurité / post-quantique / hacking,talk:45,talk:300
+2026-01-23-AICD - São Paulo 2026,talk:30,workshop:120
+2026-01-29-Epitech Summit 2026 - Paris,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-01-31-M365 Saturday, Pune 2026 (In-Person),talk:60
+2026-02-01-Cloud Native Valencia,talk:10,talk:30,workshop:45
+2026-02-02-CfgMgmtCamp 2026 Ghent,talk:25,talk:45,workshop:480
+2026-02-02-Epitech Summit 2026 - Moulins,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-02-03-Swetugg Stockholm 2026,talk:50
+2026-02-03-Epitech Summit 2026 - La Réunion,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-02-03-Epitech Summit 2026 - Lille,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-02-03-Epitech Summit 2026 - Mulhouse,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-02-03-Epitech Summit 2026 - Nancy,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-02-03-Epitech Summit 2026 - Nantes,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-02-03-Epitech Summit 2026 - Marseille,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-02-03-Epitech Summit 2026 - Rennes,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-02-03-Epitech Summit 2026 - Montpellier,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-02-03-Epitech Summit 2026 - Strasbourg,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-02-03-Epitech Summit 2026 - Toulouse,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-02-04-Epitech Summit 2026 - Bordeaux,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-02-04-Epitech Summit 2026 - Lyon,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-02-04-Epitech Summit 2026 - Nice,talk:20,talk:30,talk:45,workshop:120,workshop:240
+2026-02-04-Fabric February 2026,workshop:45
+2026-02-05-Web Days Convention,talk:45
+2026-02-11-Container Days London,talk:15,talk:35,workshop:180
+2026-02-12-CityJS New Delhi,talk:30
+2026-02-12-Touraine Tech #26,talk:50,workshop:120
+2026-02-17-Global Power Platform Bootcamp Houston 2026,talk:50,workshop:110
+2026-02-20-Global Power Platform Bootcamp Barcelona 2026,workshop:45,workshop:240
+2026-02-21-AgentCon Bangkok,talk:45,workshop:90
+2026-02-21-Global Security Tour 2026 | Microsoft Keynote + Women in Tech + Hackathon,talk:45
+2026-02-21-Global Power Platform Bootcamp Istanbul 2026,talk:10,talk:40,talk:50,workshop:110
+2026-02-21-Global Power Platform Bootcamp, Ahmedabad 2026 (In-Person),talk:120
+2026-02-21-Global Power Platform & Agent Bootcamp 2026 - Colombo,talk:10,talk:35,talk:45
+2026-02-21-Global Power Platform Bootcamp, Pune 2026 (In-Person),talk:60
+2026-02-24-Azure AI Winter Jam,talk:30
+2026-02-25-Norfolk Developers Conference 2026,talk:40,talk:180
+2026-02-26-Cloud Native Birmingham Online Meetup: Kicking Off 2026 Together,talk:30
+2026-02-26-AI Memory and Founders Night,talk:30
+2026-02-28-SharePoint at 25: A Legacy of Collaboration,talk:45
+2026-02-28-AWS User Group Trichy – Inaugural Meetup (Online Edition),talk:15
+2026-02-28-SECCON 14 OpenConference,talk:20
+2026-01-31-TechMang 2026,talk:25
+2026-03-05-Planet Nix 2026,talk:5,talk:25,talk:45,workshop:90
+2026-03-06-BSidesZagreb 2026,talk:40
+2026-03-06-Break the Pattern: Disrupt, Lead, Inspire,talk:5,talk:20
+2026-03-07-Data Saturday Romania 2026,talk:50
+2026-03-07-Microsoft Purview and Defender Days, 2026,talk:45
+2026-03-09-AgentCon New York,talk:45,workshop:90
+2026-03-09-DataPopkorn - a bite-sized knowledge! (2026),talk:5
+2026-03-10-Dutch PHP Conference 2026,talk:35,talk:45
+2026-03-10-Appdevcon Conference 2026,talk:35,talk:45
+2026-03-10-Webdevcon Conference 2026,talk:35,talk:45
+2026-03-12-AzureDay Poland 2026,talk:45
+2026-03-12-Modern Business Building with Microsoft Dynamics 365 and AI,talk:30
+2026-03-13-Security BSidesLjubljana 0x7EA,talk:20
+2026-03-14-Data & AI Community Day Durban: AI Unplugged,talk:20,talk:50
+2026-03-14-AgentCon Toronto,talk:45,workshop:90
+2026-03-14-AgentCamp Barcelona 2026,talk:50
+2026-03-14-AgentCamp - Coimbatore,talk:30
+2026-03-16-FOSS Backstage,talk:30,workshop:60
+2026-03-16-HPSF Conference,talk:35
+2026-03-17-Programmable 2026 - Melbourne,talk:20,talk:40
+2026-03-18-Agile Niort 2026,talk:55
+2026-03-18-North America MCT Summit 2026,talk:60
+2026-03-19-Programmable 2026 - Sydney,talk:20,talk:40
+2026-03-20-Atlantique Day 2026,talk:40
+2026-03-21-International Women's Day Kisii 2026 - Breaking the Pattern,talk:30,workshop:30
+2026-03-21-SQL Saturday Atlanta 2026 - AI & BI,talk:10,talk:60
+2026-03-21-Code Camp Wellington 2026,talk:10
+2026-03-21-Security BSides Sofia 2026,talk:45
+2026-03-22-Agentic Conf Hamburg,talk:10
+2026-03-23-SRECon 26 Americas,talk:15
+2026-03-23-KubeCon + CloudNativeCon Europe 2026,talk:5,talk:30,talk:80
+2026-03-26-Data Days Lille,talk:50
+2026-03-26-Swiss Testing Day 2026,talk:30,talk:60,workshop:60
+2026-03-27-DevConf 2026,talk:20
+2026-03-28-BSides Belgrade 2026,talk:5,talk:15,talk:25,talk:45
+2026-03-31-ParisTestConf,talk:45,workshop:45
+2026-04-01-M365 COMMUNITY DAYS QUEBEC 2026,talk:45
+2026-04-02-MCP Dev Summit,talk:25
+2026-04-02-Xen Spring Meetup 2026,talk:30
+2026-04-07-AgentCon Seoul,talk:10,talk:45,workshop:90
+2026-04-08-Microsoft JDConf 2026,talk:5,talk:25
+2026-04-09-Android Makers by droidcon 2026,talk:20,talk:40
+2026-04-11-AgentCon Hong Kong,talk:10,talk:45,workshop:90
+2026-04-13-Global AI Milwaukee AgentCamp 2026,talk:50,workshop:180
+2026-04-13-Spring I/O 2026,workshop:120
+2026-04-14-Open Source in Finance Forum Toronto,talk:15,talk:30
+2026-04-15-AI in The New Era,talk:30
+2026-04-15-NODES AI,talk:25,talk:120
+2026-04-15-ColorCloud Hamburg 2026,talk:45
+2026-04-16-Lost in a Lightfield Online Conference 2026,talk:20
+2026-04-16-L8Conf,talk:15
+2026-04-16-SUGCON Europe 2026,talk:15,talk:45
+2026-04-16-OWASP SnowFROC 2026 - CFP,talk:25
+2026-04-17-Global Azure Bootcamp Singapore 2026,talk:45,talk:60
+2026-04-17-Build With AI Kivu & Bukavu,talk:120
+2026-04-18-Global Azure 2026 - Coimbatore,talk:15
+2026-04-18-Global Azure Bootcamp 2026 Atlanta,talk:30,workshop:45
+2026-04-18-Global Azure Angola 2026,talk:40
+2026-04-18-GlobalAzure Bootcamp 2026 - Wellington NZ,talk:20,talk:60,workshop:120
+2026-04-18-Build With AI Owerri 2026,talk:30
+2026-04-18-Global Azure  2026 - Chennai,talk:45
+2026-04-20-JCON EUROPE 2026,talk:15,talk:20,talk:35,talk:45
+2026-04-20-MLcon Amsterdam,talk:25,talk:45,talk:120
+2026-04-20-DevOpsCon Amsterdam,talk:25,talk:45,talk:120
+2026-04-21-GS UK Virtual 2026,talk:45
+2026-04-21-KCD Panama 2026,talk:5,talk:25
+2026-04-22-AgentCon London,talk:45,workshop:90
+2026-04-22-ElixirConf EU 2026,talk:40
+2026-04-23-BSides Manama Community Meetup 001,talk:5,talk:10,talk:15
+2026-04-23-Security BSides Prague 2026,talk:5
+2026-04-24-Open Source Day 2026,talk:45
+2026-04-25-AgentCamp, Pune 2026 (In-Person),talk:45
+2026-04-25-AI Mobile Hackathon AI Expert Session,talk:60
+2026-04-25-ÖzgürKon 2026 III. International Free Software Conference,talk:50
+2026-04-30-Blue Ridge Ruby 2026,talk:30
+2026-05-01-Stir Trek 2026,talk:45
+2026-05-01-Day of Data Jacksonville 2026,talk:60
+2026-05-02-Devfest Georgia 2026,talk:35
+2026-05-03-WiDS TLV 2026,talk:10,talk:30
+2026-05-04-AgentCon San Francisco,talk:45,workshop:90
+2026-05-05-LangTalks AI Engineering Conference 2026,talk:30
+2026-05-05-Devopsdays Austin,talk:5,talk:20,talk:90
+2026-05-06-AgentCon - Raleigh,talk:45,workshop:90
+2026-05-06-DevOpsDays Zurich 2026,talk:5,talk:25
+2026-05-06-Security BSides Luxembourg,talk:30
+2026-05-07-aMP Day Luxembourg 2026,talk:45
+2026-05-07-Unlocked Seattle,talk:30
+2026-05-08-New Stars of Data #10,talk:60
+2026-05-11-Techorama Belgium,talk:60
+2026-05-11-LACNIC 45,talk:40
+2026-05-13-KCD Toronto 2026,talk:10,talk:25
+2026-05-14-AI Security Summit - London,talk:20
+2026-05-14-IaCConf,talk:10,talk:30,talk:40
+2026-05-14-GeeCon,talk:15,talk:50
+2026-05-15-MN Microsoft 365 User Group,talk:25,workshop:120
+2026-05-15-BSides Nashville 2026,workshop:60
+2026-05-15-AgentCon Rome,talk:45,workshop:90
+2026-05-15-KCD Istanbul 2026,talk:30
+2026-05-16-AgentCamp Bangkok,talk:25,talk:60
+2026-05-17-MSPGeekCon 2026,talk:15,talk:30,talk:45
+2026-05-18-Code BEAM Lite Stockholm 2026,talk:25
+2026-05-18-AgentCon Nairobi,talk:45,workshop:90
+2026-05-18-Cloud Native Days Romania,talk:5,talk:30,workshop:90
+2026-05-18-Cloud Native Days Italy,talk:5,talk:25
+2026-05-18-Budapest Data+AI Forum 2026,talk:80
+2026-05-19-Ai-fokus,talk:40,talk:45
+2026-05-19-AgentCon Berlin,talk:45,workshop:90
+2026-05-19-AI fokus 2026,talk:40,talk:45
+2026-05-20-KotlinConf 2026,talk:45
+2026-05-20-GopherCon Singapore 2026,talk:20,talk:35
+2026-05-21-Christchurch AI Techweek Conference,talk:5,workshop:25
+2026-05-21-AgentCon 2025 - Mukono,talk:20,talk:30,talk:45
+2026-05-21-KCD Czech & Slovak 2026,talk:5,talk:35,workshop:120
+2026-05-21-Ekoparty Miami 2026 - DevSecOps Space,talk:30
+2026-05-22-AgentCamp - Tulsa,talk:15
+2026-05-22-BSides Prishtina 2026,talk:5,talk:25,talk:40
+2026-05-23-Code To Cloud Summit 2026,talk:15,talk:45
+2026-05-25-AgentCon - Utrecht,talk:25
+2026-05-26-Platmosphere Chapter 2026 Master the Vibe,talk:35
+2026-05-26-JNation 2026,talk:50,workshop:half-day
+2026-05-27-aMP Day Strasbourg 2026,talk:45
+2026-05-27-MakeIT 2026 & JCON Slovenia 2026,talk:30
+2026-05-28-Data TLV 2026,talk:45
+2026-05-28-Cloud Toulouse 2026,talk:15,talk:45
+2026-05-28-Data Point Prague 2026,talk:50
+2026-05-29-CzechDreamin 2026,talk:50
+2026-05-29-NG Baguette Conf 2026,talk:30
+2026-05-30-JJUG CCC 2026 Spring,talk:20
+2026-05-30-Atlanta Cloud+AI Conference 2026,talk:60
+2026-06-01-AgentCon - Austin,talk:45,workshop:90
+2026-06-01-Agile Trends Nordeste 2026,talk:60
+2026-06-02-OW2Con,talk:20
+2026-06-02-PDUG 2026 in Gdansk,talk:55
+2026-06-03-IA–NA,talk:45,workshop:15,workshop:45
+2026-06-04-J-Spring 2026,talk:25,talk:50,talk:110
+2026-06-04-CollabDays Madrid 2026,talk:50
+2026-06-05-TechReady,talk:20,talk:40
+2026-06-05-Memphis Microsoft Community Days 2026,talk:50
+2026-06-06-AWS Community Day Bengaluru 2026,talk:30
+2026-06-06-Polycloud,talk:25,talk:50
+2026-06-07-Berlin Buzzwords,talk:20,talk:40
+2026-06-08-Domain-Driven Design Europe,talk:50
+2026-06-09-MCP Dev Summit Bengaluru,talk:25
+2026-06-09-C:\aen\Tech,talk:45
+2026-06-09-VMUGNL Summer Sessions - VCF 9,talk:15,talk:45
+2026-06-09-BC TechDays 2026,talk:90,workshop:full-day
+2026-06-10-AgentCon - Phoenix,talk:45,workshop:90
+2026-06-10-KCD New York 2026,talk:10,talk:25,talk:30,talk:50
+2026-06-11-DevQuest Niort,workshop:120
+2026-06-11-DataMeshLive,talk:50
+2026-06-11-x33fcon conference 2026,talk:45
+2026-06-11-DevLille 2026,workshop:120
+2026-06-11-JSNation,talk:7,talk:20
+2026-06-11-State of the Map US 2026,talk:15
+2026-06-12-Tech F'Est 2026,talk:20,talk:40
+2026-06-12-AgentCon - Miami,talk:45,workshop:90
+2026-06-12-BSides Boulder 2026,talk:25
+2026-06-12-QA or the Highway 2026,talk:50
+2026-06-13-Houston Fabric Day,talk:15,talk:45,talk:60
+2026-06-13-AWS User Group Trichy – Security Edition (Online),talk:15
+2026-06-13-AgentCon - Rio de Janeiro,talk:45,workshop:90
+2026-06-13-Applied AI Conference 2026,talk:10,talk:30
+2026-06-14-MCP Dev Summit Mumbai,talk:25
+2026-06-14-Microsoft Build //localhost:Bangkok,talk:30
+2026-06-15-JSNation - Online,talk:7,talk:20
+2026-06-15-EuroSTAR Conference,talk:45
+2026-06-16-Mobilis In Mobile 2026,talk:60
+2026-06-16-Hackmiami 2026,talk:55
+2026-06-17-AI Community Days (AICD) Montréal 2026,talk:20,talk:45,workshop:half-day,workshop:full-day,workshop:90,workshop:180,workshop:360
+2026-06-18-TEDxDhahran,talk:18
+2026-06-18-KubeCon + CloudNativeCon India 2026,talk:30,talk:75
+2026-06-20-BSides Aarhus 2026,talk:5,talk:40,talk:45
+2026-06-20-AgentCon - Bengaluru,talk:25
+2026-06-22-AI Community Days (AICD) Québec 2026,talk:20,talk:45,workshop:half-day,workshop:full-day,workshop:90,workshop:180,workshop:360
+2026-06-22-Beam Summit 2026,talk:25,talk:50
+2026-06-23-Confidential Computing Summit,talk:35
+2026-06-24-AgentCon - Lincoln,talk:45,workshop:90
+2026-06-24-AWS Community Day Midwest 2026,talk:15,talk:25,talk:30
+2026-06-24-Agi'Lille 2026,talk:20,talk:45,workshop:45
+2026-06-24-BreizhCamp 2026,talk:55,talk:120
+2026-06-25-SecureChainCon 2026,talk:20
+2026-06-25-BSidesTLV 2026,talk:25,talk:70
+2026-06-25-AgentCon - Saint Louis,talk:45,workshop:90
+2026-06-25-IEEE Cloud Summit 2026,talk:25
+2026-06-25-Swiss PGDay,talk:5,talk:10,talk:50
+2026-06-26-AgentCon - Orlando,talk:45,workshop:90
+2026-06-26-BSides Porto - 2026 - 2nd,talk:50
+2026-06-26-ThreatModCon 2026 Vienna,talk:30,workshop:70
+2026-06-27-AgentCon -  Panamá City,talk:45,workshop:90
+2026-06-29-DWX,talk:60
+2026-06-29-AI Engineer World's Fair 2026,talk:10,talk:20,talk:55
+2026-07-02-Azur Tech Summer 2026,talk:5,talk:25,talk:30,talk:60,workshop:60,workshop:120
+2026-07-03-Perl Community Conference, Summer 2026,talk:5,talk:25,talk:50
+2026-07-06-Riviera Dev,talk:20,talk:25,talk:50,talk:180,workshop:50,workshop:180
+2026-07-09-VMUGNL Summer Sessions - VCF 9,talk:15,talk:45
+2026-07-10-BSidesPGH 2026,talk:45
+2026-07-10-Data Saturday Rheinland 2026,talk:60,talk:90
+2026-07-14-eduWeb Summit 2026,talk:15,talk:45,talk:60,talk:90
+2026-07-14-RubyConf Las Vegas 2026,talk:30
+2026-07-15-Grand Salon de la Data en AFrique(GSDA),talk:15,talk:40,workshop:90
+2026-07-18-AWS GenAI Security Day,talk:20,talk:45
+2026-07-23-Developers Conference 2026,talk:45
+2026-07-25-KCD & OpenInfra Days Vietnam 2026,talk:10,talk:30
+2026-07-25-Data & AI Community Day Durban: AI Unplugged - The Maskandi Sessions,talk:20,talk:50
+2026-07-29-KubeCon + CloudNativeCon Japan 2026,talk:30,talk:75
+2026-08-01-Perth 2026,talk:30
+2026-08-03-Association for Software Testing - CAST 2026,talk:10,talk:120
+2026-08-04-Data and AI Bootcamp - Brisbane 2026,talk:40
+2026-08-06-N00b Village Speaker Event!,talk:30,talk:60
+2026-08-07-Recon Village @ DEFCON 2026,talk:25,talk:40
+2026-08-07-AppSec Village - DEF CON 34,talk:20
+2026-08-08-Beer City Code 2026,talk:50,talk:360
+2026-08-11-GopherCon UK,talk:60
+2026-08-12-London Tech Community Days - August 2026 Virtual Skills Session,talk:25
+2026-08-12-Hands-On Testing 2026,talk:10,talk:40,talk:50,workshop:180
+2026-08-13-MCP Dev Summit Seoul,talk:35
+2026-08-14-Carolina Code Conference 2026,talk:60
+2026-08-14-CaribeConf 2026,talk:5,talk:20,talk:40
+2026-08-21-HITCON 2026,talk:40,talk:80
+2026-08-22-Cloud Native Summit Kerala 2026,talk:5,talk:15,talk:30
+2026-08-22-Global Security Bootcamp Adelaide 2026,talk:30
+2026-08-22-Global Data & AI Virtual Tech Conference 2026,talk:15,talk:30,talk:45,workshop:45
+2026-08-24-U.S. Travel's ESTO 2026,talk:25,talk:75
+2026-08-25-DynamicsCon Regional: Ohio Valley 2026,talk:45
+2026-08-28-Umbraco India Festival,talk:15,talk:60
+2026-08-29-Data Saturday Oslo  2026,talk:60
+2026-09-01-KCD SF Bay Area 2026,talk:5,talk:25
+2026-09-02-Container Days Hamburg 2026,talk:15,talk:35
+2026-09-03-Vancouver Microsoft 365 Summit,talk:40
+2026-09-03-Days of Knowledge ANZ 2026,talk:45
+2026-09-03-PWNED CR 0x9 2025,talk:20,talk:40,workshop:180
+2026-09-04-JUG Summer Camp 2026,talk:40
+2026-09-06-MCP Dev Summit Shanghai,talk:25
+2026-09-07-fwd:cloudsec Europe 2026,talk:20,talk:40
+2026-09-08-AI Builders #1 - Agentic,talk:5,talk:30
+2026-09-08-RustConf 2026,talk:40
+2026-09-08-Circle Of Bytes - Innovate & Inspire - 2026,talk:45
+2026-09-09-International Testers Week by Cypress Cameroon,talk:15,talk:45,workshop:90
+2026-09-10-MCP Dev Summit Tokyo,talk:35
+2026-09-10-BeyondConf 2026,talk:45
+2026-09-10-AGNTCon + MCPCon Japan,talk:35
+2026-09-10-Nantes Craft,talk:25,talk:50,workshop:120
+2026-09-10-ZurichJS Conf 2026,talk:15,talk:30,workshop:480
+2026-09-10-Difinity Conference - Toronto - 2026,talk:45
+2026-09-10-ElixirConf® US 2026,talk:40
+2026-09-11-Go Conference 2026,talk:20,talk:40,workshop:40,workshop:90
+2026-09-11-BSides Zadar 2026,talk:5,talk:25,talk:40
+2026-09-12-AWS Community Day Vadodara 2026,talk:15,talk:30
+2026-09-12-INIT 2026 Dev Conference,talk:45
+2026-09-12-PWNEDCR 0x9,talk:20,talk:40,workshop:180
+2026-09-14-NDC Oslo,talk:60
+2026-09-15-AWS Community Day DACH,talk:10,talk:30
+2026-09-16-DC State of the Stack 2026,talk:30
+2026-09-17-Swiss Cloud Native Day 2026,talk:15
+2026-09-17-AGNTCon + MCPCon Europe,talk:25
+2026-09-17-HELish Summit 2026,talk:45
+2026-09-18-M365 Twin Cities 2026,talk:60
+2026-09-19-KCD Gujarat 2026,talk:5,talk:10,talk:20,talk:25,workshop:90
+2026-09-20-AMTSO Cyber Research Conference,talk:15,talk:30,talk:45
+2026-09-22-Java Forum Nord 2026,talk:45
+2026-09-22-Devopsdays Denver,talk:30
+2026-09-23-Azure Fest 2026,talk:45
+2026-09-23-bit summit 2026,talk:10,talk:15,talk:45,workshop:120
+2026-09-23-Directions for Enterprise 2026,talk:45,talk:105
+2026-09-24-aMP Day Montpellier 2026,talk:45
+2026-09-24-PlatformCon Paris,talk:30
+2026-09-24-React Native Connection 2026,talk:5
+2026-09-24-UX Y’all 2026,talk:10,talk:45,workshop:45
+2026-09-24-SQLDay Lite 2026,talk:20,workshop:45,workshop:480
+2026-09-24-BSides Edmonton 2026,talk:45
+2026-09-25-The AI Pivot Conference,talk:60
+2026-09-25-SAP Inside Track Paris 2026,talk:30,talk:60
+2026-09-25-BSides Orlando 2026,talk:15,talk:25,talk:45,workshop:240
+2026-09-25-BSides Krakow 2026,talk:15,talk:45
+2026-09-25-Security BSides Albuquerque 2026,talk:5,talk:25,talk:40
+2026-09-26-MCP Community Connect - Bengaluru,talk:25
+2026-09-28-DevOpsDays Dallas 2026,talk:45
+2026-09-28-Chicago Women in Technology Conference 2026,talk:25,talk:30
+2026-09-30-Umbraco US Festival 2026,talk:15,talk:30
+2026-10-01-WAX 2026,talk:20
+2026-10-01-Volcamp,talk:45,workshop:120
+2026-10-01-SFK 2026,talk:10,talk:20,talk:30,workshop:120
+2026-10-01-DesignUp Festival 2026,talk:15
+2026-10-02-DevFest Perros-Guirec 2026,talk:15,talk:45
+2026-10-02-ServerlessDays Cardiff 2026,talk:10,talk:25
+2026-10-03-RenderCon Kenya 2026,talk:5,talk:10,talk:20,talk:30
+2026-10-03-DDD Perth 2026,talk:20
+2026-10-03-Ash Conference 2026,talk:25
+2026-10-05-MCP Dev Summit Toronto,talk:25
+2026-10-05-IIBA Poland Summit 2026,talk:20
+2026-10-05-Experts Live Saudi 2026,talk:50
+2026-10-06-OpenGov Africa Summit 2026,talk:15,talk:20,talk:30,talk:90,workshop:90
+2026-10-07-next.app devcon,talk:20,talk:40,workshop:80
+2026-10-09-Data Saturday Holland 2026,talk:60
+2026-10-10-Lakehouse Day EU 2026,talk:15,talk:30
+2026-10-11-JavaCro'26,talk:45
+2026-10-12-Dev With AI,talk:10,talk:20
+2026-10-12-dataMinds Connect 2026,talk:60,talk:90
+2026-10-12-AIE NYC 2026,talk:10,talk:20,talk:55,workshop:120
+2026-10-13-Experts Live Sweden 2026,talk:30,talk:50
+2026-10-13-DNN Virtual Summit 2026,talk:55
+2026-10-13-BazelCon,talk:30
+2026-10-14-The Autonomous Production Ops Summit 2026 | NeuBird AI,talk:20
+2026-10-14-NIC 2026,talk:60
+2026-10-14-Daten-WG 2026,talk:60
+2026-10-14-KanDDDinsky 2026,talk:50
+2026-10-14-HrOUG 2026,talk:45
+2026-10-15-Momentum 2026,talk:5,talk:45
+2026-10-15-AI Security Summit - San Francisco,talk:20
+2026-10-16-AWS Community Day Australia, 2026,talk:25
+2026-10-16-2026 Data in the D Conference,talk:45
+2026-10-18-All Things Open,talk:8,talk:10,talk:30
+2026-10-20-OCUDU Ecosystem Developer Summit,talk:35
+2026-10-20-Umbracokalaset 2026,talk:10,talk:30
+2026-10-21-Code BEAM Europe 2026,talk:20
+2026-10-21-Agentic Build Day / New Zealand,talk:25
+2026-10-21-CityJS Conference Athens,talk:30
+2026-10-21-P99 CONF 2026,talk:20
+2026-10-22-DevFest Stockholm 2026,talk:30
+2026-10-22-AWS Community Day Adria 2026,talk:10,talk:30
+2026-10-23-2026 Provincial Intermediate and Middle Years Teachers' Association (myPITA) Fall Conference,workshop:half-day,workshop:75
+2026-10-23-BSides Tirana 2026,talk:20,talk:30
+2026-10-23-DevFest Mbarara 2026,talk:30,talk:45
+2026-10-24-BSides Colorado Springs 2026,talk:10,talk:25,talk:50
+2026-10-24-Day of Data St. Louis,talk:60
+2026-10-24-SQLSaturday - Minnesota 2026,talk:60
+2026-10-26-Agile Tour Montpellier,talk:30,talk:50,workshop:30,workshop:50,workshop:90
+2026-10-26-SAINTCON Training 2026,workshop:240,workshop:480
+2026-10-26-Cloud Native Days Norway,talk:10,talk:20,talk:40,workshop:120,workshop:240
+2026-10-27-ContainerDays & AI Context Singapore,talk:15,talk:35,workshop:60
+2026-10-27-Directions EMEA 2026,talk:45,talk:105
+2026-10-28-PlatformCon Live Day Sydney,talk:25
+2026-10-28-Cloud Native Summit - APAC 2026,talk:10,talk:25
+2026-10-28-Michigan Technology Conference 2026,talk:60,workshop:full-day
+2026-10-29-AWS Community Day 2026 - Switzerland,talk:10,talk:30
+2026-10-29-JSConf Mexico,talk:30
+2026-10-29-BDX I/O 2026,talk:30,talk:45
+2026-10-29-Dutch Cloud Native Day 2026,talk:10,workshop:90,workshop:180
+2026-10-29-Agile Tour Nantais 2026,talk:50
+2026-10-30-Cloud Nord 2026,talk:50
+2026-10-30-Ticino Data Conference 2026,talk:45
+2026-10-30-DevFest.cz 2026,talk:20,talk:40
+2026-10-30-droidcon Uganda 2026,talk:20,talk:40
+2026-11-01-GoLab 2026,talk:5,talk:30
+2026-11-01-RustLab 2026,talk:5,talk:30
+2026-11-03-Cloud Identity Summit '26,talk:50
+2026-11-03-The AI Conf,talk:40
+2026-11-04-rvatech/ Women in Technology Conference,talk:45
+2026-11-04-AutomationSTAR Conference,talk:15,talk:30,talk:180
+2026-11-05-bitcoin++ privacy edition,talk:5,workshop:120
+2026-11-05-Droidcon & Fluttercon Kenya 2026,talk:20,talk:40
+2026-11-05-237HackFest,talk:25,talk:40,workshop:90
+2026-11-07-PlatformCon Live Day São Paulo,talk:25
+2026-11-07-DevFest KC 2026,talk:50
+2026-11-08-Simply Cyber Con 2026,workshop:120
+2026-11-09-CloudCon SYD 2026,talk:5,talk:20
+2026-11-09-KubeCon + CloudNativeCon NA 2026,talk:5,talk:30
+2026-11-11-J-Fall 2026,talk:5,talk:25,talk:50,talk:120
+2026-11-11-CLC,workshop:full-day
+2026-11-11-Experts Live Emirates 2026,talk:30,talk:50
+2026-11-12-NODES 2026,talk:25,talk:120
+2026-11-12-Tokyo Test Fest,talk:10,talk:25,talk:240
+2026-11-12-Update Conference Prague 2026,talk:60
+2026-11-12-SpiceWorld 2026,talk:45
+2026-11-12-CMS Conf 2026,talk:25
+2026-11-13-pgDay México 2026,talk:45
+2026-11-13-Devopsdays Barcelona,talk:5,talk:25,talk:30
+2026-11-13-DevFest Nairobi 2026,talk:10,talk:45
+2026-11-14-BSides Copenhagen 2026,talk:35
+2026-11-14-BC Waves Barcelona 2026,talk:35
+2026-11-14-Capitole du Libre,talk:5,talk:25,talk:55
+2026-11-15-CyberMarketingCon & CyberCEO Summit 2026,talk:15
+2026-11-16-Budapest BI & Analytics Forum 2026,workshop:80
+2026-11-16-Agile Testing Days,talk:25
+2026-11-16-iSAQB Software Architecture Gathering 2026,talk:45,workshop:360
+2026-11-16-Software Architecture Gathering,talk:45,workshop:360
+2026-11-19-reactjsday 2026,talk:40
+2026-11-19-MCP Dev Summit Nairobi,talk:25
+2026-11-19-Codeurs en Seine,talk:50
+2026-11-19-Analysis, Design & Architecture Conference 2026,talk:45,talk:120,workshop:120
+2026-11-20-angularday 2026,talk:40
+2026-11-21-flutterCon India 2026,talk:20,talk:40,workshop:80
+2026-11-27-DevFest Paris 2026,talk:20,talk:45,workshop:120
+2026-11-27-DevFest Belgium,workshop:120
+2026-11-27-Conférence /dev/mtl 2026,talk:40
+2026-11-27-Women in Agile EU Launching New Voices 2026,talk:7
+2026-11-27-Workplace Ninjas India 2026,talk:60
+2026-12-01-JakartaOne Livestream 2026,talk:45
+2026-12-02-Cloud Native AI Summit Europe,talk:10,talk:25
+2026-12-02-Power Conference 2026,talk:50,workshop:full-day
+2026-12-03-DevDay 2026 - Alchemy,talk:15,talk:30,talk:45
+2026-12-03-Difinity Conference - Auckland - 2026,talk:45
+2026-12-04-DevFest Lyon 2026,talk:50
+2026-12-04-DevFest Dijon 2026,talk:20,talk:50
+2026-12-06-DistrictCon,talk:50
+2026-12-07-APE 2026,talk:50
+2026-12-09-OpenSource Expérience,talk:20
+2026-12-10-KCD Provence,talk:5,talk:10,talk:30
+2026-12-10-DevCon 28 : sécurité | post-quantique | hacking édition 2027,talk:45,talk:300
+2026-12-10-droidcon London,talk:20,talk:40,workshop:80
+2026-12-10-Difinity Conference - Melbourne - 2026,talk:45
+2026-12-12-GHI CON,talk:480
+2026-12-17-aMP Day Luxembourg 2026,talk:45

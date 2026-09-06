@@ -241,6 +241,11 @@
       "eventUrlInvalid": "Por favor, insira uma URL válida"
     }
   },
+  "cfpCompanion": {
+    "talks": "Palestras",
+    "workshops": "Workshops",
+    "submittedFormats": "Formatos enviados"
+  },
   "year": {
     "selectYear": "Selecionar ano",
     "currentYear": "Ano atual",

@@ -4,6 +4,7 @@ const ROOT = "../";
 const MAIN_INPUT = ROOT + "README.md";
 const TAGS_INPUT = ROOT + "TAGS.csv";
 const METADATA_INPUT = ROOT + "METADATA.csv";
+const CFP_INPUT = ROOT + "CFP.csv";
 const MAIN_OUTPUT = ROOT + "page/src/misc/all-events.json";
 const CFP_OUTPUT = ROOT + "page/src/misc/all-cfps.json";
 const MONTHS_NAMES =
@@ -194,6 +195,27 @@ const extractEvents = (monthMarkdown, year, month) => {
   });
 }
 
+const parseCfpDurations = () => {
+  try {
+    const lines = fs.readFileSync(CFP_INPUT, 'utf8').split('\n').slice(1);
+    const durationsMap = new Map();
+
+    for (const line of lines) {
+      const match = line.trim().match(/^(.*?),(?=(?:talk|workshop):)/);
+      if (!match) continue;
+      const durations = line.slice(match[0].length).split(',')
+        .map(duration => duration.trim())
+        .filter(duration => /^(talk|workshop):(?:\d+|half-day|full-day)$/.test(duration));
+      if (durations.length > 0) durationsMap.set(match[1], durations);
+    }
+
+    return durationsMap;
+  } catch (error) {
+    console.warn('CFP.csv not found or invalid, continuing without CFP durations');
+    return new Map();
+  }
+}
+
 const getTimeSpan = (year, month, datespan) => {
   const [startDay, endDay] = datespan.split("-").map((d) => d.trim());
   if (!endDay) {
@@ -266,16 +288,21 @@ const tagsMap = parseTags();
 //metadata parsing
 const metadataMap = parseMetadata();
 
+// CFP durations parsing
+const cfpDurationsMap = parseCfpDurations();
+
 //aggregation and tags integration
 const allConfs = archiveConfs.concat(currentConfs).map((conf) => {
   const eventId = generateEventId(conf);
   const tags = tagsMap.get(eventId) || [];
   const metadata = metadataMap.get(eventId) || {};
+  const cfpDurations = cfpDurationsMap.get(eventId);
 
   return {
     ...conf,
     tags,
-    ...metadata
+    ...metadata,
+    cfp: cfpDurations ? { ...conf.cfp, durations: cfpDurations } : conf.cfp,
   };
 });
 

@@ -12,6 +12,31 @@
   margin: 0;
 }
 
+.cfp-companion-view .cfp-submission-durations {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin-left: auto;
+  max-width: 40%;
+}
+
+.cfp-companion-view .cfp-submission-duration {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 3px;
+  color: var(--text-secondary);
+  cursor: pointer;
+  font-size: 0.85em;
+  padding: 0.2rem 0.4rem;
+  white-space: nowrap;
+}
+
+.cfp-companion-view .cfp-submission-duration.selected {
+  background: var(--color-cta);
+  border-color: var(--color-cta);
+  color: white;
+}
+
 @media screen and (max-width: 1024px) {
   .cfp-companion-view .event-list-entry {
     align-items: flex-start;

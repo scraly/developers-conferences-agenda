@@ -8,6 +8,7 @@ import ShortDate from 'components/ShortDate/ShortDate'
 import FavoriteButton from 'components/FavoriteButton/FavoriteButton'
 import TagBadges from 'components/TagBadges/TagBadges'
 import CfpSpeakerStatus from 'components/CfpSpeakerStatus/CfpSpeakerStatus'
+import CfpSubmissionDurations from 'components/CfpSubmissionDurations/CfpSubmissionDurations'
 import { useFavoritesContext } from 'contexts/FavoritesContext'
 import { useTranslation } from 'contexts/LanguageContext'
 
@@ -67,6 +68,9 @@ const CfpCompanionView = () => {
                       {typeof event.attendees === 'number' ? <span className="attendees">👥 {event.attendees}</span> : null}
                     </div>
                   </div>
+                  {event.cfp?.durations?.length > 0 && (
+                    <CfpSubmissionDurations eventId={eventId} durations={event.cfp.durations} />
+                  )}
                   <TagBadges
                     onTagClick={toggleTag}
                     tags={(event.tags || []).filter(tag => typeof tag === 'object' && tag.key === 'language')}

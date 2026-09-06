@@ -1,0 +1,49 @@
+name: Generate CFP Durations
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  generate:
+    if: github.repository == 'scraly/developers-conferences-agenda'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
+        with:
+          persist-credentials: false
+      - name: Setup Node
+        uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: tools/package-lock.json
+      - name: Generate CFP durations
+        working-directory: tools
+        run: |
+          npm ci
+          node generateCfpDurations.js
+          node mdParser.js
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v8 # v8
+        with:
+          token: ${{ secrets.PAT }}
+          commit-message: generate CFP durations
+          title: Generate CFP durations
+          base: main
+          committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>
+          signoff: false
+          branch: generate-cfp-durations
+          delete-branch: true
+          body: |
+            This PR was generated via GitHub Actions.
+            - Adds talk and workshop durations found in CFP pages
+            - Regenerates the events data
+          draft: false
