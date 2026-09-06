@@ -1853,7 +1853,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-01-WAX 2026,tech:web-development,language:french
 2026-11-20-Swiftsonic '26,tech:swift,language:english
 2027-02-09-State of Open Conference 27 - SOOCON 27,tech:open-source,language:english
-2026-01-06-CES,tech:electronics,topic:consumer-tech
+2026-01-06-CES,tech:electronics,topic:consumer-tech,language:english
 2026-01-15-.NET Conf 2025 Catania,tech:.net,topic:software-development,language:italian
 2026-01-21-AI Salon,tech:artificial-intelligence,topic:innovation
 2026-01-21-Bett UK,tech:education,topic:technology
