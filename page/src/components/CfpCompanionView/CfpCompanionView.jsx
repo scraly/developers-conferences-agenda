@@ -1,4 +1,5 @@
 import React, { useMemo } from 'react'
+import { ExternalLink } from 'lucide-react'
 
 import 'styles/CfpCompanionView.css'
 
@@ -58,6 +59,18 @@ const CfpCompanionView = () => {
                 <div className={`event-list-entry ${isFav ? 'favorite-event' : ''}`} key={`${month}_ev_${index}`}>
                   <FavoriteButton event={event} />
                   <CfpSpeakerStatus eventId={eventId} />
+                  {event.cfp?.link && (
+                    <a
+                      aria-label={t('cfpCompanion.openCfp')}
+                      className="cfp-link"
+                      href={event.cfp.link}
+                      rel="noreferrer"
+                      target="_blank"
+                      title={t('cfpCompanion.openCfp')}
+                    >
+                      <ExternalLink aria-hidden="true" size={18} />
+                    </a>
+                  )}
                   <div className="event-details">
                     <div className="event-date-fav">
                       <ShortDate dates={event.date} />

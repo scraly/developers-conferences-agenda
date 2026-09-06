@@ -243,7 +243,8 @@
   "cfpCompanion": {
     "talks": "Talks",
     "workshops": "Ateliers",
-    "submittedFormats": "Formats soumis"
+    "submittedFormats": "Formats soumis",
+    "openCfp": "Ouvrir le CFP"
   },
   "year": {
     "selectYear": "Sélectionner l'année",
