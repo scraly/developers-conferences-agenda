@@ -54,8 +54,8 @@ const upsertEntries = entries => {
 };
 
 const htmlToText = html => html
-  .replace(/<script\b[^>]*>[\s\S]*?<\/script\s*>/gi, ' ')
-  .replace(/<style\b[^>]*>[\s\S]*?<\/style\s*>/gi, ' ')
+  .replace(/<script\b[^>]*>[\s\S]*?<\/script(?:\s+[^>]*)?>/gi, ' ')
+  .replace(/<style\b[^>]*>[\s\S]*?<\/style(?:\s+[^>]*)?>/gi, ' ')
   .replace(/<[^>]+>/g, ' ')
   .replace(/&nbsp;/gi, ' ')
   .replace(/&#39;|&apos;/gi, "'")
