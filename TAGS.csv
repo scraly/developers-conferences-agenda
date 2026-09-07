@@ -2967,7 +2967,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-11-04-Devoxx Morocco,tech:java,topic:cloud,topic:devops,language:french
 2026-12-03-Difinity Conference - Auckland - 2026,tech:software-development,topic:architecture,topic:design,language:english
 2026-12-10-Difinity Conference - Melbourne - 2026,tech:software-development,topic:architecture,topic:design,language:english
-2027-04-07-Devoxx France 2027,tech:java,topic:cloud,topic:devops,language:french
+2027-04-07-Devoxx France 2027,tech:java,topic:cloud,topic:devops,language:french,language:english
 2028-04-24-KubeCon + CloudNativeCon Europe 2028,tech:kubernetes,topic:cloud-native,topic:containers,language:english
 2026-12-09-OpenSource Expérience,topic:open-source
 2026-11-19-Devopsdays Portugal,tech:devops,topic:cloud,topic:automation,language:english
@@ -3173,7 +3173,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-07-16-From Code to Insight: Agentic AI, MCP, and Automation in Practice,tech:python,topic:data,topic:automation,language:english
 2026-10-03-BSides Cheltenham 2026,tech:security,topic:cybersecurity,language:english
 2026-10-26-Agile Tour Montpellier,tech:agile,topic:project-management,language:french
-2027-01-18-Data Community Day Austria 2027,tech:data,topic:analytics,language:german
+2027-01-18-Data Community Day Austria 2027,tech:data,topic:analytics,language:german,language:english
 2027-04-14-Devopsdays Zurich,tech:devops,topic:cloud,language:english
 2027-05-24-Planview Connect 2027,tech:project-management,topic:planning,language:english
 2026-06-20-Microsoft Build //localhost:Curitiba 2026,tech:cloud,topic:ai,topic:big-data,language:english
@@ -3427,7 +3427,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-31-DevFest Kisii 2026,tech:developer,topic:fest,topic:google,language:english
 2026-10-22-DevFest Stockholm 2026,tech:cloud,topic:developer-tools,topic:open-source,language:english
 2026-11-17-VisugXL 2026,tech:dotnet,topic:developer-tools,topic:architecture,language:dutch
-2027-01-23-PHPBenelux,tech:php,topic:web-development,topic:open-source,language:dutch
+2027-01-23-PHPBenelux,tech:php,topic:web-development,topic:open-source,language:english
 2027-02-16-Dynatrace Perform 2027,tech:performance,topic:monitoring,topic:cloud,language:english
 2026-10-02-Supabase Select 26,tech:python,topic:data,topic:open-source,language:english
 2026-10-16-Open Source AI Week,tech:ai,topic:machine-learning,topic:open-source,language:english
@@ -3507,6 +3507,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-09-DevOps 2.0,tech:devops,topic:cloud,topic:automation,language:english
 2026-09-24-Edgecase 2026,tech:software-engineering,topic:architecture,topic:developer-tools,language:english
 2026-10-09-Forum ouvert automne 2026 - Software Crafters Lyon,tech:software-craft,topic:programming,topic:community,language:french
-2027-03-11-DevFest Nantes 2027,tech:google-developer-events,topic:android,topic:cloud,language:french
+2027-03-11-DevFest Nantes 2027,tech:google-developer-events,topic:android,topic:cloud,language:french,language:english
 2026-09-24-Git Hub Dev Days Ponferrada 2026,language:english,tech:python,topic:data,topic:open-source
 2026-10-07-agentic coding,language:english,tech:ai,topic:programming,topic:software-development
