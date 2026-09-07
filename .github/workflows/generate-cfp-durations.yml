@@ -2,6 +2,7 @@ name: Generate CFP Durations
 
 on:
   schedule:
+    # Runs every day
     - cron: '0 6 * * *'
   workflow_dispatch:
 
@@ -22,19 +23,25 @@ jobs:
         with:
           node-version: 24
           cache: npm
-          cache-dependency-path: tools/package-lock.json
-      - name: Generate CFP durations
+          cache-dependency-path: '**/package-lock.json'
+      - working-directory: page
+        run: npm ci
+      - name: Generate CFP Durations
         working-directory: tools
         run: |
           npm ci
-          node generateCfpDurations.js
+          node mdValidator.js
           node mdParser.js
+          node generateCFPDurations.js
+      - name: Run Tests
+        working-directory: page
+        run: npm test -- --run
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v8 # v8
         with:
           token: ${{ secrets.PAT }}
-          commit-message: generate CFP durations
+          commit-message: generate new CFP durations
           title: Generate CFP durations
           base: main
           committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
@@ -43,7 +50,6 @@ jobs:
           branch: generate-cfp-durations
           delete-branch: true
           body: |
-            This PR was generated via GitHub Actions.
-            - Adds talk and workshop durations found in CFP pages
-            - Regenerates the events data
+            This PR was generated via GH action
+            - Generates CFP durations
           draft: false
