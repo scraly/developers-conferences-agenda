@@ -65,11 +65,11 @@ const htmlToText = html => html
   .replace(/\s+/g, ' ');
 
 const getDurations = (text, type) => {
-  const talkLabel = 'talk|session|presentation|lecture|keynote|conference|conférence|short|quickie|demo|demos|démo|démos';
+  const talkLabel = 'talk|session|presentation|lecture|keynote|conference|conférence|short|quickie|demo|demos|démo|démos|vortrag|vorträge';
   const workshopLabel = 'workshop|training|atelier';
   const label = type === 'talk' ? talkLabel : workshopLabel;
   const allLabels = `${talkLabel}|${workshopLabel}`;
-  const durationUnit = 'min|mins|minute|minutes|hour|hours|heure|heures|h';
+  const durationUnit = 'min|mins|minute|minutes|minuten|hour|hours|heure|heures|h';
   const matches = new Set();
   const componentDurations = new Set();
   const questionDurationPattern = new RegExp(`(?:${label})\\b(?:(?!\\b(?:${allLabels})\\b)[^.,;]){0,100}?(\\d{1,3})\\s*(?:-|–)?\\s*(${durationUnit})\\b\\s*(?:\\+|plus|and)\\s*(\\d{1,3})\\s*(?:-|–)?\\s*(${durationUnit})\\b[^.,;]{0,30}?(?:questions?|q\\s*&\\s*a)`, 'gi');
