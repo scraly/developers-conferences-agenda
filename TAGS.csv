@@ -3508,3 +3508,5 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-09-24-Edgecase 2026,tech:software-engineering,topic:architecture,topic:developer-tools,language:english
 2026-10-09-Forum ouvert automne 2026 - Software Crafters Lyon,tech:software-craft,topic:programming,topic:community,language:french
 2027-03-11-DevFest Nantes 2027,tech:google-developer-events,topic:android,topic:cloud,language:french
+2026-09-24-Git Hub Dev Days Ponferrada 2026,language:english,tech:python,topic:data,topic:open-source
+2026-10-07-agentic coding,language:english,tech:ai,topic:programming,topic:software-development
