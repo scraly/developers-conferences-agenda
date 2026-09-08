@@ -3,8 +3,9 @@ event_id,duration1,duration2,duration3,duration4,duration5,duration6
 2027-01-18-Data Community Day Austria 2027,talk:60
 2027-01-23-PHPBenelux,talk:40
 2027-02-04-Cloud Tech Tallinn 2027,talk:45
-2027-02-08-Jfokus 2027,talk:15,talk:40,talk:45,talk:90
-2027-02-09-ELDK27 - Experts Live Denmark,talk:60
+2027-02-08-Jfokus 2027,talk:15,talk:40,talk:45,talk:90,talk:210
+2027-02-09-AI DevWorld 2027,talk:25,talk:50,workshop:50
+2027-02-09-ELDK27 - Experts Live Denmark,talk:60,talk:10
 2027-02-20-DDD Melbourne 2027,talk:20,workshop:105
 2027-02-22-SQL Konferenz 2027,talk:60
 2027-02-24-PlatformCon Live Day San Francisco,talk:25
@@ -13,11 +14,11 @@ event_id,duration1,duration2,duration3,duration4,duration5,duration6
 2027-02-25-Elastic{ON},talk:30
 2027-03-02-JavaLand,talk:40,talk:105
 2027-03-09-Incontro DevOps Italia (IDI) 2027,talk:40
-2027-03-09-INTED,talk:15
-2027-03-15-Buildpacks Summit Europe 2027,talk:10,talk:25
-2027-03-15-Cloud Native AI + Inference Day Europe 2027,talk:10,talk:25
-2027-03-15-Open Sovereign AI + Cloud Day Europe 2027,talk:10,talk:25
-2027-03-15-KubeCon + CloudNativeCon Europe 2027,talk:5,talk:30
+2027-03-09-INTED,talk:15,talk:240
+2027-03-15-Buildpacks Summit Europe 2027,talk:10,talk:25,talk:35
+2027-03-15-Cloud Native AI + Inference Day Europe 2027,talk:10,talk:25,talk:35
+2027-03-15-Open Sovereign AI + Cloud Day Europe 2027,talk:10,talk:25,talk:35
+2027-03-15-KubeCon + CloudNativeCon Europe 2027,talk:5,talk:30,workshop:80
 2027-03-23-Elastic{ON},talk:30
 2027-04-05-dev/nexus,talk:55,workshop:360
 2027-04-05-PowerShell Summit 2027,talk:25,talk:45,talk:90,workshop:240
@@ -481,3 +482,8 @@ event_id,duration1,duration2,duration3,duration4,duration5,duration6
 2027-01-22-Bitbash 2027,talk:15,talk:50
 2027-01-19-Governance & Security Summit 19.-20. Januar 2027,talk:30
 2027-03-11-DevFest Nantes 2027,talk:20,talk:50
+2027-02-16-Power BI Summit 16. - 17. Februar 2027,talk:30
+2027-03-11-DecompileD 2027,talk:30
+2027-03-16-North American M365 Summit 16.- 17. March 2027,talk:30
+2027-04-01-Southern California Linux Expo - SCaLE 24x,talk:45,talk:240
+2027-06-01-AI & Copilot Summit 01.-02. Juni 2027,talk:30

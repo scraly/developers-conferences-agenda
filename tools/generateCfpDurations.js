@@ -65,25 +65,28 @@ const htmlToText = html => html
   .replace(/\s+/g, ' ');
 
 const getDurations = (text, type) => {
-  const talkLabel = 'talk|session|presentation|lecture|keynote|conference|conférence|short|quickie|demo|demos|démo|démos|vortrag|vorträge';
-  const workshopLabel = 'workshop|training|atelier';
+  const talkLabel = 'talk|session|presentation|lecture|keynote|conference|conférence|short|quickie|demo|demos|démo|démos|vortrag|vorträge|regular|standard|lightning|panel';
+  const workshopLabel = 'workshop|training|atelier|tutorial';
   const label = type === 'talk' ? talkLabel : workshopLabel;
   const allLabels = `${talkLabel}|${workshopLabel}`;
   const durationUnit = 'min|mins|minute|minutes|minuten|hour|hours|heure|heures|h';
   const matches = new Set();
   const componentDurations = new Set();
-  const questionDurationPattern = new RegExp(`(?:${label})\\b(?:(?!\\b(?:${allLabels})\\b)[^.,;]){0,100}?(\\d{1,3})\\s*(?:-|–)?\\s*(${durationUnit})\\b\\s*(?:\\+|plus|and)\\s*(\\d{1,3})\\s*(?:-|–)?\\s*(${durationUnit})\\b[^.,;]{0,30}?(?:questions?|q\\s*&\\s*a)`, 'gi');
+  const decimalNumber = '\\d{1,3}(?:[.,]\\d+)?';
+  const toMinutes = (value, unit) => (/(?:hour|hours|heure|heures|h)/i.test(unit)
+    ? Math.round(Number(value.replace(',', '.')) * 60)
+    : Number(value));
+  const questionDurationPattern = new RegExp(`(?:${label})s?\\b(?:(?!\\b(?:${allLabels})s?\\b)[^.,;]){0,100}?(${decimalNumber})\\s*(?:-|–)?\\s*(${durationUnit})\\b\\.?\\s*(?:\\+|plus|and)\\s*(${decimalNumber})\\s*(?:-|–)?\\s*(${durationUnit})\\b[^,;]{0,30}?(?:questions?|q\\s*&\\s*a)`, 'gi');
   const patterns = [
-    new RegExp(`(?:${label})\\b(?:(?!\\b(?:${allLabels})\\b)[^.,;]){0,100}?(\\d{1,3})\\s*(?:-|–)?\\s*(${durationUnit})\\b`, 'gi'),
-    new RegExp(`(\\d{1,3})\\s*(?:-|–)?\\s*(${durationUnit})\\b(?:\\s+[a-z-]+){0,3}?\\s+(?:${label})\\b`, 'gi'),
+    new RegExp(`(?:${label})s?\\b(?:(?!\\b(?:${allLabels})s?\\b)[^.,;]){0,100}?(${decimalNumber})\\s*(?:-|–)?\\s*(${durationUnit})\\b`, 'gi'),
+    new RegExp(`(${decimalNumber})\\s*(?:-|–)?\\s*(${durationUnit})\\b(?:\\s+[a-z-]+){0,3}?\\s+(?:${label})s?\\b`, 'gi'),
   ];
-  const durationRangePattern = new RegExp(`(?:${label})\\b(?:(?!\\b(?:${allLabels})\\b)[^.,;]){0,100}?(\\d{1,3})\\s*(?:h|hour|hours|heure|heures)\\s*(?:-|–|to|à)\\s*(\\d{1,3})\\s*(?:h|hour|hours|heure|heures)\\b`, 'gi');
+  const durationRangePattern = new RegExp(`(?:${label})s?\\b(?:(?!\\b(?:${allLabels})s?\\b)[^.,;]){0,100}?(${decimalNumber})\\s*(?:h|hour|hours|heure|heures)\\s*(?:-|–|to|à)\\s*(${decimalNumber})\\s*(?:h|hour|hours|heure|heures)\\b`, 'gi');
 
   for (const match of text.matchAll(questionDurationPattern)) {
-    const duration = (/(?:hour|hours|heure|heures|h)/i.test(match[2]) ? Number(match[1]) * 60 : Number(match[1]))
-      + (/(?:hour|hours|heure|heures|h)/i.test(match[4]) ? Number(match[3]) * 60 : Number(match[3]));
+    const duration = toMinutes(match[1], match[2]) + toMinutes(match[3], match[4]);
     if (duration > 0 && duration <= 480) {
-      componentDurations.add(Number(match[1]));
+      componentDurations.add(Number(match[1].replace(',', '.')));
       matches.add(duration);
     }
   }
@@ -96,14 +99,14 @@ const getDurations = (text, type) => {
   }
 
   for (const match of text.matchAll(durationRangePattern)) {
-    matches.add(Number(match[1]) * 60);
-    matches.add(Number(match[2]) * 60);
+    matches.add(Math.round(Number(match[1].replace(',', '.')) * 60));
+    matches.add(Math.round(Number(match[2].replace(',', '.')) * 60));
   }
 
   for (const pattern of patterns) {
     for (const match of text.matchAll(pattern)) {
-      const value = Number(match[1]);
-      const minutes = /^(hour|hours|heure|heures|h)$/i.test(match[2]) ? value * 60 : value;
+      const value = Number(match[1].replace(',', '.'));
+      const minutes = toMinutes(match[1], match[2]);
       const precedingText = text.slice(Math.max(0, match.index - 50), match.index);
       const followsTalk = type === 'workshop'
         && new RegExp(`\\b(?:${talkLabel})\\b[^.,;]{0,50}$`, 'i').test(precedingText)
