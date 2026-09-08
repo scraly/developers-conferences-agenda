@@ -482,8 +482,10 @@ event_id,duration1,duration2,duration3,duration4,duration5,duration6
 2027-01-22-Bitbash 2027,talk:15,talk:50
 2027-01-19-Governance & Security Summit 19.-20. Januar 2027,talk:30
 2027-03-11-DevFest Nantes 2027,talk:20,talk:50
-2027-02-16-Power BI Summit 16. - 17. Februar 2027,talk:30
+2027-02-16-Power BI Summit 16. - 17. Februar 2027,talk:20,talk:40,workshop:120,workshop:180,workshop:210,workshop:240
 2027-03-11-DecompileD 2027,talk:30
 2027-03-16-North American M365 Summit 16.- 17. March 2027,talk:30
 2027-04-01-Southern California Linux Expo - SCaLE 24x,talk:45,talk:240
 2027-06-01-AI & Copilot Summit 01.-02. Juni 2027,talk:30
+2027-05-13-phpday 2027,talk:30,talk:45,talk:50
+2027-04-27-PHP Tek,talk:15,talk:30,workshop:180
