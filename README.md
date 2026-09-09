@@ -1442,7 +1442,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15: [AWS Community Day DACH](https://www.aws-community-day.de/) - Berlin (Germany) <a href="https://sessionize.com/aws-community-day-dach-2026"><img alt="CFP AWS Community Day DACH" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=red"></a>
 * 15: [LF Energy Summit Europe](https://events.linuxfoundation.org/lfenergysummit-europe/) - Berlin (Germany)
 * 15: [AGNTCon + MCPCon Europe 2027](https://events.linuxfoundation.org/agntcon-mcpcon-europe-2027/) - London (UK)
-* 15: [Claude Torino #4 - Typo da Spiaggia](https://claudetorino.dev/evento.html) - Turin (Italy) <a href="https://sessionize.com/claude-torino-4-typo-da-spiaggia/"><img alt="CFP Claude Torino #4 - Typo da Spiaggia" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-September-2026&color=green"></a>
+* 15: [Claude Torino #4 - Typo da Spiaggia](https://claudetorino.dev/evento.html) - Turin (Italy) <a href="https://sessionize.com/claude-torino-4-typo-da-spiaggia/"><img alt="CFP Claude Torino #4 - Typo da Spiaggia" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-September-2026&color=red"></a>
 * 15: [KCD Washington DC 2026](https://community2.cncf.io/events/details/cncf-kcd-washington-dc-presents-kcd-washington-dc-1/) - Washington, DC (USA) <a href="https://sessionize.com/kcd-washington-dc-2026"><img alt="CFP KCD Washington DC 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=red"></a>
 * 15-16: [LDX3 New York](https://leaddev.com/leaddev-new-york) - New York, NY (USA)
 * 15-16: [2026 ISPE Nordic-Baltic Validation Summit](https://ispe.org/conferences/ispe-nordic-baltic-conference-2026) - Riga (Latvia) <a href="https://sessionize.com/ispe-nordic-baltic-validation-summit-2026"><img alt="CFP 2026 ISPE Nordic-Baltic Validation Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=red"></a>
@@ -2088,7 +2088,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### December
 
-* 1: [JakartaOne Livestream 2026](https://jakartaone.jakarta.ee/jakartaone-livestream-2026/) - Online <a href="https://sessionize.com/jakartaone-livestream-2026/"><img alt="CFP JakartaOne Livestream 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-September-2026&color=green"></a>
+* 1: [JakartaOne Livestream 2026](https://jakartaone.jakarta.ee/jakartaone-livestream-2026/) - Online <a href="https://sessionize.com/jakartaone-livestream-2026/"><img alt="CFP JakartaOne Livestream 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-September-2026&color=red"></a>
 * 1: [Debezium Community Showcase](https://debezium.io) - Online <a href="https://sessionize.com/debezium-community-showcase/"><img alt="CFP Debezium Community Showcase" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2026&color=green"></a>
 * 1-2: [inside agile: Agile Leadership Conference](https://alc.inside-agile.de) - Online
 * 1-3: [Apidays Paris](https://www.apidays.global/paris) - Paris (France) <a href="https://apidays.typeform.com/to/ILJeAaV8"><img alt="CFP Apidays Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2026&color=green"></a>
