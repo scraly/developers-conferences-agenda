@@ -1891,6 +1891,7 @@ All the data (past and coming) are available publicly in JSON:
 * 2: [Open Source Analytics Conference](https://osacon.io) - San Francisco, CA (USA)
 * 2-3: [CTO Craft Con: Fintech](https://conference.ctocraft.com/fintech) - London (UK)
 * 2-4: [OWASP Global AppSec USA (SF) 2026 - CFT](https://owasp.glueup.com/event/owasp-2026-global-appsec-usa-san-francisco-ca-167174/) - San Francisco, CA (USA) <a href="https://sessionize.com/owasp-global-appsec-USA-SF-2026-c"><img alt="CFP OWASP Global AppSec USA (SF) 2026 - CFT" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-April-2026&color=red"></a>
+* 2-4: [AI DevCon NYC](https://tessl.io/devcon) - New York, NY (USA) & Online
 * 2-6: [W-JAX München](https://jax.de/muenchen) - Munich (Germany)
 * 2-6: [Nullcon Berlin](https://nullcon.net/event/nullcon-berlin-2026) - Berlin (Germany) <a href="https://nullcon.net/event/nullcon-berlin-2026/cfp"><img alt="CFP Nullcon Berlin" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-July-2026&color=red"></a>
 * 2-6: [Microsoft TechCon 365 Dallas 2026](https://www.techcon365.com/Dallas) - Dallas, TX (USA) <a href="https://sessionize.com/microsoft-techcon-365-dallas-2026/"><img alt="CFP Microsoft TechCon 365 Dallas 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-May-2026&color=red"></a>
