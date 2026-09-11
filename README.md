@@ -2213,6 +2213,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-15: [Analytics and Data Summit 2027](http://andouc.org) - Redwood Shores, CA (USA) <a href="https://sessionize.com/analytics-and-data-summit-2027"><img alt="CFP Analytics and Data Summit 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-November-2026&color=green"></a>
 * 14-15: [Devopsdays Zurich](https://devopsdays.org/events/2027-zurich) - Zurich (Germany)
 * 15-16: [GENAIX: Global Generative & Agentic AI Summit](https://genaixworld.com) - Singapore (Singapore) <a href="https://www.cfp.net"><img alt="CFP GENAIX: Global Generative & Agentic AI Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2026&color=green"></a>
+* 16: [Digital Crafts Day 2027](https://dc-nordoberpfalz.de/DigitalCraftsDay/2027) - Weiden in der Oberpfalz (Germany) <a href="https://sessionize.com/digital-crafts-day-2027/"><img alt="CFP Digital Crafts Day 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2026&color=green"></a>
 * 17: [ELC Conference](https://elc-conference.io/) - Prague (Czechia)
 * 21: [AiX Conference](https://aixconf.co.uk) - Newcastle upon Tyne (UK)
 * 20-21: [Devopsdays Atlanta](https://devopsdays.org/events/2027-atlanta) - Atlanta, GA (USA)
