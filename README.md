@@ -1591,6 +1591,7 @@ All the data (past and coming) are available publicly in JSON:
 * 28-03/10: [Goatmire Elixir 2026](https://2026.goatmire.com) - Varberg (Sweden) <a href="https://sessionize.com/goatmire-elixir-2026"><img alt="CFP Goatmire Elixir 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-April-2026&color=red"></a>
 * 29: [KCD Sofia 2026](https://kcd.bg/) - Sofia (Bulgaria) <a href="https://sessionize.com/kcd-sofia-2026/"><img alt="CFP KCD Sofia 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-July-2026&color=red"></a>
 * 29: [Devopsdays Halifax](https://devopsdays.org/events/2026-halifax) - Halifax, NS (Canada)
+* 29: [LF Energy Summit Europe 2027](https://events.linuxfoundation.org/lfenergysummit-europe-2027/) - Amsterdam (Netherlands)
 * 29-30: [Cloud Native Days Austria](https://cloudnativedays.at/) - Vienna (Austria) <a href="https://sessionize.com/cloud-native-days-austria-2026"><img alt="CFP Cloud Native Days Austria 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=red"></a>
 * 29-30: [CTO Craft Con: Europe](https://conference.ctocraft.com/europe-2026) - Amsterdam (Netherlands)
 * 29-30: [Tech Week Singapore](https://www.singaporetechnologyweek.com) - Singapore (Singapore)
@@ -1887,6 +1888,7 @@ All the data (past and coming) are available publicly in JSON:
 * 30-31: [droidcon Uganda 2026](https://www.uganda.droidcon.com/) - Kampala (Uganda) <a href="https://sessionize.com/droidcon-uganda-2026"><img alt="CFP droidcon Uganda 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-October-2026&color=green"></a>
 * 30-31: [DevFest Arusha 2026](https://gdg.community.dev/e/m4t9bg/) - Arusha (Tanzania) <a href="https://sessionize.com/devfest-arusha-2026/"><img alt="CFP DevFest Arusha 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-September-2026&color=red"></a>
 * 31: [AWS Community Day Jakarta 2026](https://jakarta.awscommunity.id/comday-26) - Jakarta (Indonesia) <a href="https://sessionize.com/AWSComDayJakarta26/"><img alt="CFP AWS Community Day Jakarta 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-September-2026&color=green"></a>
+* 31: [Data and AI Community Day - Johannesburg 31 October 2026](https://www.dataandaicommunity.co.za/events/JHB-202610.html) - Johannesburg (South Africa) <a href="https://sessionize.com/data-and-ai-community-day-johannesburg-oct2026/"><img alt="CFP Data and AI Community Day - Johannesburg 31 October 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2026&color=green"></a>
 * 31: [DevFest Kisii 2026](https://gdg.community.dev/events/details/google-gdg-kisii-presents-devfest-kisii-2026/) - Kisii (Kenya) <a href="https://sessionize.com/devfest-kisii-2026/"><img alt="CFP DevFest Kisii 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-September-2026&color=green"></a>
 
 ### November
