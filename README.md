@@ -2241,7 +2241,7 @@ All the data (past and coming) are available publicly in JSON:
 * 13-14: [phpday 2027](https://www.phpday.it/) - Verona (Italy) <a href="https://sessionize.com/phpday-2027"><img alt="CFP phpday 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-December-2026&color=green"></a>
 * 24-26: [Planview Connect 2027](https://www.planviewconnect.com/) - San Diego, CA (USA) <a href="https://sessionize.com/planview-connect-2027"><img alt="CFP Planview Connect 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-March-2027&color=green"></a>
 * 25-26: [Web Rebels 2027](https://webrebels.org/) - Oslo (Norway) <a href="https://sessionize.com/web-rebels-2027"><img alt="CFP Web Rebels 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-September-2026&color=green"></a>
-* 25-26: [Devopsdays Geneva](https://devopsdays.org/events/2027-geneva) - Geneva (Switzerland)
+* 25-26: [Devopsdays Geneva](https://devopsdays.org/events/2027-geneva) - Geneva (Switzerland) <a href="https://devopsdays-geneva.ch/cfp_submit.php"><img alt="CFP Devopsdays Geneva 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-February-2027&color=green"></a>
 * 26-27: [GITEX AI SERBIA](https://www.gitexserbia.com) - Belgrade (Serbia)
 
 ### June
