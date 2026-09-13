@@ -1707,7 +1707,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12-13: [PyCon Greece 2026](https://2026.pycon.gr) - Athens (Greece)
 * 12-14: [SwiftLeeds](https://swiftleeds.co.uk) - Leeds (UK)
 * 12-14: [dataMinds Connect 2026](http://datamindsconnect.be) - Mechelen (Belgium) <a href="https://sessionize.com/dataminds-connect-2026"><img alt="CFP dataMinds Connect 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-May-2026&color=red"></a>
-* 12-14: [AIE NYC 2026](https://ai.engineer/nyc) - New York, NY (USA) <a href="https://sessionize.com/aienyc2026/"><img alt="CFP AIE NYC 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-September-2026&color=green"></a>
+* 12-14: [AIE NYC 2026](https://ai.engineer/nyc) - New York, NY (USA) <a href="https://sessionize.com/aienyc2026/"><img alt="CFP AIE NYC 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-September-2026&color=red"></a>
 * 12-14: [M365 Summit Mainz](https://events.m365-summits.de/M365SummitMainzOktober#/) - Online <a href="https://sessionize.com/m365-summit-mainz-12-14-oktober-2026/"><img alt="CFP M365 Summit Mainz 12.-14. Oktober 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-August-2026&color=red"></a>
 * 12-15: [dev2next](https://www.dev2next.com) - Lone Tree, CO (USA)
 * 12-15: [SmashingConf Antwerp](https://smashingconf.com/antwerp-2026) - Antwerp (Belgium) <a href="https://smashingconf.com/antwerp-2026/partners"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
@@ -1819,7 +1819,7 @@ All the data (past and coming) are available publicly in JSON:
 * 23: [Data Day Edinburgh 2026](https://dayofdata.org/2026-10-23-dayofdata1157/) - Edinburgh (UK) <a href="https://sessionize.com/data-day-edinburgh-2026"><img alt="CFP Data Day Edinburgh 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-July-2026&color=red"></a>
 * 23: [Open Source Observability Day](https://osoday.com) - Online <a href="https://osoday.com/call-for-papers"><img alt="CFP Open Source Observability Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=red"></a>
 * 23: [BSides Tirana 2026](https://bsidestirana.al) - Tirana (Albania) <a href="https://sessionize.com/bsides-tirana-2026"><img alt="CFP BSides Tirana 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2026&color=red"></a>
-* 23: [NetCoreConf Madrid 2026](https://www.netcoreconf.com/) - Pozuelo de Alarcón (Spain) <a href="https://sessionize.com/netcoreconf-madrid-2026"><img alt="CFP NetCoreConf Madrid 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-September-2026&color=green"></a>
+* 23: [NetCoreConf Madrid 2026](https://www.netcoreconf.com/) - Pozuelo de Alarcón (Spain) <a href="https://sessionize.com/netcoreconf-madrid-2026"><img alt="CFP NetCoreConf Madrid 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-September-2026&color=red"></a>
 * 23-24: [Security BSides Querétaro 2026](https://bsidesqueretaro.org.mx/) - Santiago de Querétaro (Mexico) <a href="https://sessionize.com/bsidesqueretaro"><img alt="CFP Security BSides Querétaro 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=red"></a>
 * 23-24: [PyHo 2026](https://2026.pythonho.com/) - Ho (Ghana) <a href="https://sessionize.com/pyho-2026"><img alt="CFP PyHo 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2026&color=red"></a>
 * 23-24: [DevFest Mbarara 2026](https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-devfest-mbarara-2026/) - Mbarara (Uganda) <a href="https://sessionize.com/devfest-mbarara-2026"><img alt="CFP DevFest Mbarara 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-September-2026&color=red"></a>
@@ -1893,7 +1893,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### November
 
-* 1: [Devfest Gandhinagar 2026](https://gdg.community.dev/gdg-gandhinagar/) - Gandhinagar (India) <a href="https://sessionize.com/devfest-gandhinagar-26"><img alt="CFP DevFest Gandhinagar 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-September-2026&color=green"></a>
+* 1: [Devfest Gandhinagar 2026](https://gdg.community.dev/gdg-gandhinagar/) - Gandhinagar (India) <a href="https://sessionize.com/devfest-gandhinagar-26"><img alt="CFP DevFest Gandhinagar 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-September-2026&color=red"></a>
 * 1: [DevFest Karlsruhe](https://devfestka.de) - Karlsruhe (Germany)
 * 1-3: [GoLab 2026](https://golab.io) - Bologna (Italy) <a href="https://sessionize.com/golab-2026"><img alt="CFP GoLab 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-April-2026&color=red"></a>
 * 1-3: [RustLab 2026](https://rustlab.it) - Bologna (Italy) <a href="https://sessionize.com/rustlab-2026"><img alt="CFP RustLab 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-April-2026&color=red"></a>
