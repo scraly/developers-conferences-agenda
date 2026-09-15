@@ -1735,7 +1735,7 @@ All the data (past and coming) are available publicly in JSON:
 * 14-16: [KanDDDinsky 2026](https://kandddinsky.com) - Berlin (Germany) <a href="https://sessionize.com/kandddinsky-2026"><img alt="CFP KanDDDinsky 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-March-2026&color=red"></a>
 * 14-17: [EuroRust](https://eurorust.eu) - Barcelona (Spain)
 * 14-17: [HrOUG 2026](https://2026.hroug.hr/) - Rovinj (Croatia) <a href="https://sessionize.com/hroug-2026"><img alt="CFP HrOUG 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2026&color=red"></a>
-* 15: [Conf42 DevSecOps 2026](https://www.conf42.com/devsecops2026) - Online <a href="https://www.papercall.io/conf42-devsecops-2026"><img alt="CFP Conf42 DevSecOps 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2026&color=green"></a>
+* 15: [Conf42 DevSecOps 2026](https://www.conf42.com/devsecops2026) - Online <a href="https://www.papercall.io/conf42-devsecops-2026"><img alt="CFP Conf42 DevSecOps 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2026&color=red"></a>
 * 15: [AWS North Community Conference](https://www.northcommunityconf.com/) - Newcastle upon Tyne (UK) <a href="https://sessionize.com/aws-north-community-conference-2026"><img alt="CFP AWS North Community Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2026&color=red"></a>
 * 15: [Momentum 2026](https://momentumdevcon.com) - Cincinnati, OH (USA) <a href="https://sessionize.com/momentum-2026"><img alt="CFP Momentum 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-June-2026&color=red"></a>
 * 15: [Minds Mastering Machines - M3: LLMs im Unternehmen](https://m3-konferenz.de/llm.php) - Online
@@ -2038,7 +2038,7 @@ All the data (past and coming) are available publicly in JSON:
 * 19: [inside agile Product Owner Day](https://pod.inside-agile.de) - Online
 * 19: [OVHcloud Summit](https://summit.ovhcloud.com/en/) - Paris (France)
 * 19: [BSides Amsterdam 2026](https://www.bsidesams.org) - Amsterdam (Netherlands) <a href="https://sessionize.com/bsides-amsterdam-2026"><img alt="CFP BSides Amsterdam 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-August-2026&color=red"></a>
-* 19: [Codeurs en Seine](https://www.codeursenseine.com/2026) - Rouen (France) <a href="https://conference-hall.io/codeurs-en-seine-19-novembre-2026"><img alt="CFP Codeurs en Seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2026&color=green"></a>
+* 19: [Codeurs en Seine](https://www.codeursenseine.com/2026) - Rouen (France) <a href="https://conference-hall.io/codeurs-en-seine-19-novembre-2026"><img alt="CFP Codeurs en Seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2026&color=red"></a>
 * 19: [Lead27](https://lead-27.com) - Zurich (Switzerland) <a href="https://sessionize.com/lead27"><img alt="CFP Lead27" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-April-2026&color=red"></a>
 * 19: [Conf42 MLOps 2026](https://www.conf42.com/mlops2026) - Online <a href="https://www.papercall.io/conf42-mlops-2026"><img alt="CFP Conf42 MLOps 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-October-2026&color=green"></a>
 * 19-20: [Cloud Native Denmark 2026](https://cloudnativedenmark.dk) - Copenhagen (Denmark) <a href="https://sessionize.com/cloud-native-denmark-2026"><img alt="CFP Cloud Native Denmark 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-June-2026&color=red"></a>
@@ -2194,7 +2194,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### March
 
-* 2-4: [JavaLand](https://www.javaland.eu/en/home/) - Rust (Germany) <a href="https://www.javaland.eu/en/speaking/"><img alt="CFP JavaLand" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2026&color=green"></a>
+* 2-4: [JavaLand](https://www.javaland.eu/en/home/) - Rust (Germany) <a href="https://www.javaland.eu/en/speaking/"><img alt="CFP JavaLand" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-September-2026&color=red"></a>
 * 2-4: [Mountain Camp](https://drupalmountaincamp.ch) - Davos (Switzerland) <a href="https://event.drupalmountaincamp.ch/mountain-camp-2027"><img alt="CFP Mountain Camp" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-October-2026&color=green"></a>
 * 8-10: [Annual Global Summit on Artificial Intelligence and Machine Learning](https://vividglobalsummits.com/2027/artificial-intelligence) - Barcelona (Spain)
 * 9: [Incontro DevOps Italia (IDI) 2027](https://incontrodevops.it/) - Bologna (Italy) <a href="https://sessionize.com/incontro-devops-italia-idi-2027"><img alt="CFP Incontro DevOps Italia" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-December-2026&color=green"></a>
