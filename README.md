@@ -38,6 +38,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### January
 
+* 1-2: [RCS](https://sdfsdf) Reading Computer Science Conference
 * 5-6: [ICSTM 2026](https://waset.org/software-testing-and-methods-conference-in-january-2026-in-bali) - Bali (Indonesia)
 * 6-9: [CES](https://www.ces.tech) - Las Vegas, NV (USA)
 * 8-10: [CUSEC - Canadian University Software Engineering Conference](https://2026.cusec.net/) - Montreal (Canada)
