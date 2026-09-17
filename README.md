@@ -1749,6 +1749,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15: [X-Ops Conference](https://www.xopsconference.com/) - Dubai (United Arab Emirates)
 * 15-16: [Tech Fuse Des Moines 2026](https://techfusedsm.com/) - Des Moines, IA (USA) <a href="https://sessionize.com/tech-fuse-des-moines-2026"><img alt="CFP Tech Fuse Des Moines 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=red"></a>
 * 15-16: [KotlinLeeds](https://kotlinleeds.com) - Leeds (UK)
+* 15-16: [TalosCon](https://www.taloscon.com/) - Amsterdam (Netherlands)
 * 15-16: [Longhorn PHP](https://longhornphp.com) - Austin, TX (USA) <a href="https://cfp.longhornphp.com"><img alt="CFP Longhorn PHP" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-June-2026&color=red"></a> <a href="https://longhornphp.com/sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 15-16: [2nd International Conference on Artificial Intelligence and Big Data Analytics](https://vartusconferences.com/aibda) - Singapore (Singapore)
 * 15-17: [X-Ops Conference Dubai](https://dubai.xopsconference.com/) - Dubai (United Arab Emirates) <a href="https://sessionize.com/x-ops-conference-2026"><img alt="CFP X-Ops Conference Dubai" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=red"></a>
@@ -2092,6 +2093,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27: [Women in Agile EU Launching New Voices 2026](https://womeninagile.eu/#home) - Barcelona (Spain) <a href="https://sessionize.com/women-in-agile-eu-launching-new-voices-27107"><img alt="CFP Women in Agile EU Launching New Voices 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-June-2026&color=red"></a>
 * 27-28: [Workplace Ninjas India 2026](https://www.wpninjas-india.com/) - Delhi (India) <a href="https://sessionize.com/workplace-ninjas-india-2026/"><img alt="CFP Workplace Ninjas India 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-September-2026&color=red"></a>
 * 28: [FOSS for All Conference 2026](https://2026.fossforall.org) - Seoul (South Korea)
+* 28: [DevFest Ireland 2026](https://devfestireland.com/) - Dublin (Ireland)
 * 28: [SoJava 2026](https://forms.office.com/e/ZYZb9juRhx) - Groningen (Netherlands) <a href="https://forms.office.com/e/ZYZb9juRhx"><img alt="CFP SoJava 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-September-2026&color=red"></a>
 * 28: [The Repair Summit](https://dublinmaker.ie/repair-summit-2026/) - Dublin (UK) <a href="https://sessionize.com/the-repair-summit/"><img alt="CFP The Repair Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-September-2026&color=red"></a>
 * 28-29: [GambiConf 2026](https://gambiconf.dev/) - São Paulo (Brazil) <a href="https://gambiconf.dev/cfp"><img alt="CFP GambiConf 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-June-2026&color=red"></a>
