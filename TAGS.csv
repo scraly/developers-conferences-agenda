@@ -3538,3 +3538,12 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-09-15-Annual Global Summit on Robotics, AI and Machine Learning,language:english,tech:ai,topic:robotics,topic:ml
 2027-05-15-Devopsdays Belo Horizonte,language:english,tech:devops,topic:cloud,topic:open-source
 2026-10-14-Odoo Tech Evening #5 - Odoo 20,tech:odoo,topic:tech-conference,topic:enterprise-software
+2026-09-28-BSides YXE,language:english,tech:cybersecurity,topic:security,topic:conference
+2026-10-15-TalosCon,language:english,tech:cybersecurity,topic:security,topic:conference
+2026-11-09-LearnKube Day: Salt Lake City 2026,language:english,tech:kubernetes,topic:cloud,topic:devops
+2026-11-28-DevFest Ireland 2026,language:english,tech:web-development,topic:conference,topic:google
+2026-12-11-DevFest Kinshasa 2026,language:french,tech:web-development,topic:conference,topic:google
+2027-02-19-Voxxed Days Ticino,language:english,tech:java,topic:programming,topic:conference
+2027-03-05-Voxxed Days CERN,language:english,tech:java,topic:programming,topic:conference
+2027-03-09-Voxxed Days Zurich,language:english,tech:java,topic:programming,topic:conference
+2027-08-10-Devopsdays Chicago,language:english,tech:devops,topic:cloud,topic:conference
