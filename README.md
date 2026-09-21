@@ -1796,7 +1796,7 @@ All the data (past and coming) are available publicly in JSON:
 * 20-21: [.NET DeveloperDays 2026 Warsaw](https://net.developerdays.pl/) - Warsaw (Poland) <a href="https://sessionize.com/net-developerdays-2026"><img alt="CFP .NET DeveloperDays 2026 Warsaw" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2026&color=red"></a>
 * 20-22: [swampUP Europe](https://swampup.jfrog.com/europe) - Barcelona (Spain) <a href="https://sessionize.com/swampup-europe-2026"><img alt="CFP swampUP Europe" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-May-2026&color=red"></a>
 * 20-23: [Testcon](https://testcon.lt) - Vilnius (Lithuania) <a href="https://airtable.com/appwHoM853A0uvnaR/pag6bCDEHgNxguykQ/form"><img alt="CFP Testcon" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-October-2026&color=green"></a>
-* 20-23: [PGconf.EU](https://2026.pgconf.eu) - Valencia (Spain)
+* 20-23: [PostgreSQL Conference Europe 2026](https://2026.pgconf.eu/) - Valencia (Spain)
 * 21: [Resend Forward](https://resend.com/forward) - San Francisco, CA (USA) <a href="https://sessionize.com/resend"><img alt="CFP Resend Forward" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-May-2026&color=red"></a>
 * 21: [KubeAuto Day Tel Aviv](https://kubeauto.day/tel-aviv) - Tel Aviv (Israel)
 * 21: [ThunderPlains 2026](https://2026.thunderplainsconf.com) - Oklahoma City, OK (USA) <a href="https://sessionize.com/thunderplains-2026"><img alt="CFP ThunderPlains 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2026&color=red"></a>
@@ -1817,6 +1817,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22: [DevFest Ponferrada 2026](https://gdg.community.dev/events/details/google-gdg-ponferrada-presents-devfest-ponferrada-2026/) - Ponferrada (Spain) <a href="https://sessionize.com/ponfest-2026"><img alt="CFP DevFest Ponferrada 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=red"></a>
 * 22-23: [DevFest 2026 Monterrey](https://gdg.community.dev/events/details/google-gdg-monterrey-presents-devfest-2026-monterrey-innovacion-con-ia/) - Monterrey (Mexico) <a href="https://app.advocu.com/events/6a90c9cfc24cfe1f147e78b6"><img alt="CFP DevFest 2026 Monterrey" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-October-2026&color=green"></a>
 * 22-23: [Great Lakes Software Symposium](https://nofluffjuststuff.com/chicago) - Chicago, IL (USA)
+* 22-23: [PyCon Panamá 2026](https://pycon.pa/2026/) - Panama City (Panama)
 * 23: [MAUI Day Cologne](https://mauiday.net/cologne) - Köln (Germany) <a href="https://sessionize.com/mauiday-cologne-2026"><img alt="CFP MAUI Day Cologne" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-August-2026&color=red"></a>
 * 23: [2026 Provincial Intermediate and Middle Years Teachers' Association (myPITA) Fall Conference](https://mypita.ca/) - Vancouver, BC (Canada) <a href="https://sessionize.com/mypita"><img alt="CFP 2026 Provincial Intermediate and Middle Years Teachers' Association (myPITA) Fall Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-March-2026&color=red"></a>
 * 23: [Devopsdays bogota](https://devopsdays.org/events/2026-bogota) - Bogotá (Colombia)
@@ -1986,6 +1987,7 @@ All the data (past and coming) are available publicly in JSON:
 * 12: [NODES 2026](https://neo4j.com/nodes) - Online <a href="https://sessionize.com/nodes26/"><img alt="CFP NODES 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2026&color=red"></a>
 * 12: [Seattle Day of Data 2026](https://dayofdata.org/2026-11-12-dayofdata1155/) - Seattle, WA (USA) <a href="https://sessionize.com/seattle-day-of-data-2026/"><img alt="CFP Seattle Day of Data 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-August-2026&color=red"></a>
 * 12: [Experts Live Emirates 2026](https://expertslive.ae/) - Dubai (United Arab Emirates)
+* 12: [Odoo Mini Hackathon #2 - Luxembourg](https://www.odoo.com/r/TRV) - Koerich (Luxembourg)
 * 12-13: [Tokyo Test Fest](https://tokyotestfest.com/en/) - Tokyo (Japan) <a href="https://tokyotestfest.com/en/cfp_2026/"><img alt="CFP Tokyo Test Fest" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-April-2026&color=red"></a>
 * 12-13: [Update Conference Prague 2026](https://prague.updateconf.net) - Prague (Czechia) <a href="https://sessionize.com/update-conference-prague-2026"><img alt="CFP Update Conference Prague 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2026&color=red"></a>
 * 12-13: [SpiceWorld 2026](https://www.spiceworks.com/spiceworld/) - Austin, TX (USA) <a href="https://sessionize.com/spiceworld-2026"><img alt="CFP SpiceWorld 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-May-2026&color=red"></a>
