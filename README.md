@@ -1690,6 +1690,7 @@ All the data (past and coming) are available publicly in JSON:
 * 8: [Linux Kernel Maintainer Summit](https://events.linuxfoundation.org/linux-kernel-maintainer-summit/) - Prague (Czechia)
 * 8: [KubeAuto Day Paris](https://kubeauto.day/paris) - Paris (France)
 * 8: [Elastic{ON}](https://www.elastic.co/events/elasticon) - New York, NY (USA) <a href="https://sessionize.com/elasticon-tour/"><img alt="CFP ElasticON" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=red"></a>
+* 8: [How to turn agent traces and evals into EU AI Act evidence](https://luma.com/arizeai-EU-AI-Act) - Online
 * 8-9: [Pycon Estonia](https://pycon.ee) - Tallinn (Estonia)
 * 8-9: [Forum PHP 2026](https://event.afup.org/) - Marne-la-Vallée (France) <a href="https://afup.org/event/forumphp2026"><img alt="CFP Forum PHP 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-June-2026&color=red"></a>
 * 9: [AWS DMV Community Day 2026](https://www.dmvcommunityday.com/) - Arlington, VA (USA) <a href="https://sessionize.com/aws-dmv-community-day-2026"><img alt="CFP AWS DMV Community Day 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-August-2026&color=red"></a>

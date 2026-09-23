@@ -539,6 +539,10 @@
     "latitude": 45.1004807,
     "longitude": -93.3443585
   },
+  "Brooklyn, NY (USA)": {
+    "latitude": 40.6526006,
+    "longitude": -73.9497211
+  },
   "Broomfield, CO (USA)": {
     "latitude": 39.9403995,
     "longitude": -105.05208
@@ -3562,6 +3566,10 @@
   "Wroclaw (Poland)": {
     "latitude": 51.1089776,
     "longitude": 17.0326689
+  },
+  "Wylie, TX (USA)": {
+    "latitude": 33.0151561,
+    "longitude": -96.5388038
   },
   "Yamoussoukro (Ivory Coast)": {
     "latitude": 6.8200066,
