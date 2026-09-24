@@ -362,7 +362,6 @@ All the data (past and coming) are available publicly in JSON:
 * 17-18: [North American M365 Summit](https://events.m365-summits.de/NorthAmericanTeamsSummit1718Mrz2026#/) - Online <a href="https://sessionize.com/north-american-m365-summit-17-18-mar/"><img alt="CFP North American M365 Summit 17.- 18. März 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-November-2025&color=red"></a>
 * 17-18: [OpenSearchCon China](https://www.lfasiallc.com/opensearchcon-china/) - Shanghai (China) <a href="https://sessionize.com/opensearchcon-china-2026"><img alt="CFP OpenSearchCon 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2026&color=red"></a>
 * 17-18: [ScanAgile](https://www.scan-agile.org/) - Helsinki (Finland)
-* 17-19: [JavaOne](https://www.oracle.com/javaone) - Redwood City, CA (USA)
 * 17-19: [Chatbot Europe](https://theeuropeanchatbot.com/) - Edinburgh (UK)
 * 18: [Supply Chain Security and Third-Party Risk Summit | 2026](https://www.securitysummits.com/event/supply-chain-security-summit/) - Online <a href="https://sessionize.com/supply-chain-cybersecurity-summit"><img alt="CFP Supply Chain Security and Third-Party Risk Summit | 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-January-2026&color=red"></a>
 * 18: [Jupyter Workshops: AI in Jupyter: Building Extensible AI Capabilities for Interactive Computing](https://events.linuxfoundation.org/ai-in-jupyter/) - Seattle, WA (USA)
@@ -2254,6 +2253,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22-24: [FOSS-LÄND x OpenChain](https://openchainproject.org/foss-land-x-openchain-2027) - Stuttgart (Germany)
 * 22-25: [DrupalCon Orlando](https://events.drupal.org/orlando2027) - Orlando, FL (USA) <a href="https://sessionize.com/drupalcon-orlando2027"><img alt="CFP DrupalCon Orlando" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2026&color=green"></a>
 * 23: [Elastic{ON}](https://www.elastic.co/events/elasticon) - Singapore (Singapore) <a href="https://sessionize.com/elasticon-tour/"><img alt="CFP ElasticON" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=red"></a>
+* 23-25: [JavaOne 2027](https://javaone.com) - Redwood City, CA (USA) <a href="https://reg.rf.oracle.com/flow/oracle/javaone27/cfpwelcome"><img alt="CFP JavaOne 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-October-2026&color=green"></a>
 * 24-25: [CypherCon 10 (2027)](https://cyphercon.com) - Milwaukee, WI (USA) <a href="https://sessionize.com/CypherCon2027"><img alt="CFP CypherCon 10 (2027)" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-January-2027&color=green"></a>
 
 ### April
