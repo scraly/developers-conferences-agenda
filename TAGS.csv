@@ -1756,7 +1756,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-03-16-QCon London,tech:software-development,tech:conference,topic:programming,language:english
 2026-03-16-Programming 2026,tech:programming,tech:conference,topic:programming,language:german
 2026-03-17-JavaOne,tech:java,tech:conference,topic:programming,language:english
-2027-03-23-JavaOne 2027,tech:java,tech:conference,topic:programming,language:english
+2027-03-23-JavaOne,tech:java,tech:conference,topic:programming,language:english
 2026-03-21-Python Asia,tech:python,tech:conference,topic:programming,language:english
 2026-03-23-SAFe and AI Summit,tech:saas,tech:ai,tech:conference,topic:ai,language:dutch
 2026-04-01-AWS Summit Paris,tech:cloud,topic:aws,topic:summit,language:french
