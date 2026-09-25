@@ -3561,3 +3561,27 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-20-PostgreSQL Conference Europe 2026,topic:postgresql,topic:open-source,topic:sql
 2026-11-12-Odoo Mini Hackathon #2 - Luxembourg,topic:hackathon
 2026-10-22-PyCon Panamá 2026,language:english,tech:python,topic:data,topic:open-source
+2026-10-08-How to turn agent traces and evals into EU AI Act evidence,language:english,tech:ai,topic:regulation,topic:compliance
+2026-10-10-AWS Student Community Day Cochabamba Bolivia,language:spanish,tech:cloud,topic:education
+2026-10-17-Azure Tour 2026 - Zaragoza,language:english,tech:cloud,topic:azure
+2026-11-03-AI Native DevCon New York 2026,language:english,tech:ai,topic:devops
+2026-11-05-DataSaturday Madrid 2026 (SQLSatMadrid),language:spanish,tech:database,topic:sqldatascience
+2026-11-10-AIE CODE Summit SF 2026,language:english,tech:ai,topic:developer
+2026-11-12-BADCamp 2026,language:english,tech:cloud,topic:community
+2026-11-13-VallaTech Summit 2026 (DevFest Valladolid),language:spanish,tech:devops,topic:technology
+2026-11-14-DevFest Bangkok 2026,language:english,tech:cloud,topic:developer
+2026-11-16-HalfStack Vienna,language:english,tech:software,topic:architecture
+2026-11-21-2026 IEEE Smart City USA Conference,language:english,tech:smartcity,topic:iot
+2026-12-02-Non Profit Community Day Spain 2026,language:spanish,tech:nonprofit,topic:community
+2026-12-04-Day of Data and AI - Houston,language:english,tech:data,topic:ai
+2026-12-08-Cyber AI & Automation Summit 2026,language:english,tech:security,topic:ai
+2027-02-02-Fabric February 2027,language:norwegian,tech:cloud,topic:developer
+2027-02-05-HalfStack Phoenix,language:english,tech:software,topic:developer
+2027-03-08-FABCON 2027 & SQLCON 2027 - WORKSHOPS,language:english,tech:cloud,topic:sql
+2027-03-08-FABCON 2027 & SQLCON 2027 - SESSIONS,language:english,tech:cloud,topic:sql
+2027-03-09-NAVIGATE 2027,language:english,tech:ai,topic:conference
+2027-03-10-Future Tech 2027,language:dutch,tech:futuretech,topic:innovation
+2027-03-16-Dawn Conferences 2027,language:dutch,tech:ai,topic:developer
+2027-03-24-CypherCon 10 (2027),language:english,tech:database,topic:security
+2027-04-06-Adaptive Organizations meet Architecture,language:german,tech:architecture,topic:organization
+2027-04-14-MODERN ENDPOINT MANAGEMENT EMEA SUMMIT 2027,language:french,tech:cloud,topic:management
