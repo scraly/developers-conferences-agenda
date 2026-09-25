@@ -2254,6 +2254,7 @@ All the data (past and coming) are available publicly in JSON:
 * 22-24: [FOSS-LÄND x OpenChain](https://openchainproject.org/foss-land-x-openchain-2027) - Stuttgart (Germany)
 * 22-25: [DrupalCon Orlando](https://events.drupal.org/orlando2027) - Orlando, FL (USA) <a href="https://sessionize.com/drupalcon-orlando2027"><img alt="CFP DrupalCon Orlando" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-October-2026&color=green"></a>
 * 23: [Elastic{ON}](https://www.elastic.co/events/elasticon) - Singapore (Singapore) <a href="https://sessionize.com/elasticon-tour/"><img alt="CFP ElasticON" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2026&color=red"></a>
+* 23-25: [JavaOne 2027](http://javaone.com) - Redwood City, CA (USA) <a href="https://reg.rf.oracle.com/flow/oracle/javaone27/cfpwelcome"><img alt="CFP JavaOne 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-October-2026&color=green"></a>
 * 24-25: [CypherCon 10 (2027)](https://cyphercon.com) - Milwaukee, WI (USA) <a href="https://sessionize.com/CypherCon2027"><img alt="CFP CypherCon 10 (2027)" src="https://img.shields.io/static/v1?label=CFP&message=until%2009-January-2027&color=green"></a>
 
 ### April
