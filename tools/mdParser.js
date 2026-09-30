@@ -94,19 +94,26 @@ const extractArchiveFiles = (
         ROOT + archiveLine.trim().replaceAll(/^.*(archives\/.*\.md).*$/g, "$1")
     );
 
-const extractConfs = (markdown) =>
-  extractYearBlocks(markdown).flatMap((y) =>
-    extractMonthBlocks(y.markdown).flatMap((m) =>
+const extractConfs = (markdown, source) =>
+  extractYearBlocks(markdown, source).flatMap((y) =>
+    extractMonthBlocks(y.markdown, source, y.year).flatMap((m) =>
       extractEvents(m.markdown, y.year, m.month)
     )
   );
 
-const extractYearBlocks = (markdown) => {
+const extractYearBlocks = (markdown, source) => {
   const years = [...markdown.matchAll(/^## \d+$/gm)].map((m) => ({
     start: m.index,
     year: m[0].replaceAll(/^\D*(\d+)\D*$/g, "$1"),
   }));
-  if (!years) return;
+  if (years.length === 0) {
+    const wrongLevel = markdown.match(/^(#|#{3,}) *\d{4} *$/m);
+    throw new Error(
+      wrongLevel
+        ? `${source}: titre d'année "${wrongLevel[0].trim()}" au mauvais niveau, utilisez "## ${wrongLevel[0].replaceAll(/\D/g, "")}"`
+        : `${source}: aucun titre d'année "## YYYY" trouvé`
+    );
+  }
   for (let index = 0; index < years.length - 1; index++) {
     const year = years[index];
     year.markdown = markdown.slice(year.start, years[index + 1].start);
@@ -116,7 +123,7 @@ const extractYearBlocks = (markdown) => {
   return years;
 };
 
-const extractMonthBlocks = (yearMarkdown) => {
+const extractMonthBlocks = (yearMarkdown, source, year) => {
   const months = [...yearMarkdown.matchAll(/^### \w+$/gm)]
     .map((m) => ({
       start: m.index,
@@ -126,7 +133,16 @@ const extractMonthBlocks = (yearMarkdown) => {
       ...month,
       month: MONTHS_NAMES.indexOf(month.month_en.toLowerCase()),
     }));
-  if (!months) return;
+  if (months.length === 0) {
+    const wrongLevel = yearMarkdown.match(
+      new RegExp(`^(#{1,2}|#{4,}) *(${MONTHS_NAMES.join("|")}) *$`, "im")
+    );
+    throw new Error(
+      wrongLevel
+        ? `${source} (${year}): titre de mois "${wrongLevel[0].trim()}" au mauvais niveau, utilisez "### Month"`
+        : `${source} (${year}): aucun titre de mois "### Month" trouvé`
+    );
+  }
   for (let index = 0; index < months.length - 1; index++) {
     const month = months[index];
     month.markdown = yearMarkdown.slice(month.start, months[index + 1].start);
@@ -274,12 +290,12 @@ const extractCfp = (shieldCode) => {
 
 //main file parsing
 const mainContent = fs.readFileSync(MAIN_INPUT).toString();
-const currentConfs = extractConfs(mainContent);
+const currentConfs = extractConfs(mainContent, MAIN_INPUT);
 
 //archives parsing
 const archives = extractArchiveFiles(mainContent);
 const archiveConfs = archives.flatMap((archive) =>
-  extractConfs(fs.readFileSync(archive).toString())
+  extractConfs(fs.readFileSync(archive).toString(), archive)
 );
 
 //tags parsing
