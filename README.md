@@ -309,6 +309,7 @@ All the data (past and coming) are available publicly in JSON:
 * 1: [kcpCON](https://community2.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-kcpcon-2026/) - Online <a href="https://sessionize.com/kcpcon-2026/"><img alt="CFP kcpCON" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-July-2026&color=red"></a>
 * 1: [Modern Work Conference Kuala Lumpur 2026](https://ampkl.com/) - Kuala Lumpur (Malaysia) <a href="https://sessionize.com/MWCKL2026"><img alt="CFP Modern Work Conference Kuala Lumpur 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-May-2026&color=red"></a>
 * 1: [Applied AI Technology Conference](https://wearecommunity.io/events/applied-ai) - Online
+* 1: [Open Tech Day](https://opentechday.de/) - Nuremberg (Germany)
 * 1-2: [Volcamp](https://www.volcamp.io) - Clermont-Ferrand (France) <a href="https://conference-hall.io/volcamp-2026"><img alt="CFP Volcamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-May-2026&color=red"></a> <a href="https://www.volcamp.io/sponsors/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 1-2: [GITEX VIETNAM 2026](https://gitexvietnam.com) - Hanoi (Vietnam)
 * 1-2: [Devopsdays Philadelphia](https://devopsdays.org/events/2026-philadelphia) - Philadelphia, PA (USA)
@@ -1025,6 +1026,7 @@ All the data (past and coming) are available publicly in JSON:
 
 ### May
 
+* 5-6: [Re:Build](https://rebuildcon.uk/) - London (UK) <a href="https://rebuildcon.uk/#sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 10-12: [Connect+ 2027](https://www.paycor.com/connectplus) - Orlando, FL (USA) <a href="https://sessionize.com/connect-2027/"><img alt="CFP Connect+ 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2026&color=green"></a>
 * 13-14: [phpday 2027](https://www.phpday.it/) - Verona (Italy) <a href="https://sessionize.com/phpday-2027"><img alt="CFP phpday 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-December-2026&color=green"></a>
 * 15: [Devopsdays Belo Horizonte](https://devopsdays.org/events/2027-belo-horizonte) - Belo Horizonte (Brazil)
