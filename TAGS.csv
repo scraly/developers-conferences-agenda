@@ -3605,3 +3605,42 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-05-25-WeTest Athens,language:greek,tech:testing,topic:quality-assurance,topic:software-testing
 2027-05-26-WebExpo,language:czech,tech:web,topic:development,topic:conferences
 2027-09-25-Devopsdays Cairo,language:english,tech:devops,topic:cloud,topic:automation
+2026-10-14-FLOCK '26: The Autonomous Ops Summit,language:english,tech:cloud,topic:devops,topic:autonomous-systems
+2026-10-15-AWS Community Day Australia 2026,language:english,tech:cloud,topic:aws,topic:community
+2026-10-23-React Advanced,language:english,tech:javascript,topic:react,topic:frontend
+2026-10-31-GitHub Copilot Dev Days Newcastle 2026,language:english,tech:ai,topic:copilot,topic:development
+2026-11-12-AIE CODE Summit SF 2026,language:english,tech:ai,topic:machine-learning,topic:code
+2026-11-14-DevFest Berlin 2026,language:german,tech:cloud,topic:devops,topic:community
+2026-11-14-DevFest × SunHacks ASU 2026,language:english,tech:cloud,topic:devops,topic:community
+2026-12-12-Agile En Med Casablanca 2026,language:french,tech:agile,topic:management,topic:workshop
+2026-12-13-Devfest Pune 2026,language:hindi,tech:cloud,topic:devops,topic:community
+2027-01-21-JChampions Conference,language:english,tech:software,topic:development,topic:online
+2027-01-23-.NET Saturday 2027 Pordenone,language:italian,topic:development,topic:workshop
+2027-02-01-CfgMgmtCamp 2027 Ghent,language:english,tech:devops,topic:automation,topic:community
+2027-02-18-Open Source Forum,language:english,tech:open-source,topic:security,topic:forum
+2027-02-19-Global Power Platform Bootcamp Barcelona 2027,language:spanish,tech:cloud,topic:platform,topic:development
+2027-02-22-The Linux Foundation Member Summit,language:english,tech:linux,topic:open-source,topic:summit
+2027-03-15-Agentics Day: MCP + Agents Europe,language:spanish,tech:cloud,topic:agents,topic:devops
+2027-03-15-ArgoCon Europe,language:spanish,tech:cloud,topic:argo,topic:kubernetes
+2027-03-15-BackstageCon Europe,language:spanish,tech:cloud,topic:backstage,topic:devops
+2027-03-15-CiliumCon Europe,language:spanish,tech:cloud,topic:cilium,topic:networking
+2027-03-15-FluxCon Europe,language:spanish,tech:cloud,topic:flux,topic:kubernetes
+2027-03-15-KeyCloakCon Europe,language:spanish,tech:cloud,topic:keycloak,topic:security
+2027-03-15-Kubernetes on Edge Day Europe,language:spanish,tech:cloud,topic:kubernetes,topic:edge-computing
+2027-03-15-Observability Day Europe,language:spanish,tech:cloud,topic:observability,topic:monitoring
+2027-03-15-Open Source SecurityCon Europe,language:spanish,tech:open-source,topic:security,topic:con
+2027-03-15-OpenTofu Day Europe,language:spanish,tech:open-source,topic:infrastructure,topic:devops
+2027-03-15-Platform Engineering Day Europe,language:spanish,tech:cloud,topic:platform-engineering,topic:devops
+2027-03-15-CTO Craft Con: London,language:english,tech:cloud,topic:leadership,topic:platform
+2027-03-16-Webdevcon,language:dutch,tech:web,topic:development,topic:conference
+2027-03-16-Appdevcon,language:dutch,tech:web,topic:development,topic:conference
+2027-03-16-Dutch PHP Conference,language:dutch,tech:php,topic:development,topic:conference
+2027-03-16-Dutch AI Conference,language:english,tech:ai,topic:data,topic:ml
+2027-03-20-Day of Data - Richmond 2027,language:english,tech:data,topic:analytics
+2027-04-12-HPSF Conference,language:english,tech:linux,topic:open-source
+2027-04-27-Linux Storage, Filesystem, MM & BPF Summit,language:english,tech:linux,topic:storage
+2027-04-30-MinuteCon,language:english,tech:devops,topic:cloud
+2027-05-10-Connect+ 2027,language:english,tech:hrtech,topic:business
+2027-05-17-Open Source Summit North America,language:english,tech:linux,topic:open-source
+2027-05-18-Overture Member Summit,language:english,tech:open-source,topic:collaboration
+2027-06-16-Data Centre North America,language:english,tech:data-center,topic:infrastructure
