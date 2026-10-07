@@ -902,6 +902,7 @@ All the data (past and coming) are available publicly in JSON:
 ### January
 
 * 9-10: [AI Conf Asia](https://aiconf.asia) - Kathmandu (Nepal) <a href="https://aiconf.asia/2027/#cfs"><img alt="CFP AI Conf Asia" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-November-2026&color=green"></a>
+* 11-22: [M365 Con 27](https://m365con.net) - Online
 * 14-16: [SnowCamp 2027](https://snowcamp.io/) - Grenoble (France) <a href="https://conference-hall.io/snowcamp-2027"><img alt="CFP SnowCamp 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2026&color=green"></a> <a href="https://snowcamp.io/sponsors/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 18: [Data Community Day Austria 2027](https://datacommunity.at) - Vienna (Austria) <a href="https://sessionize.com/data-community-day-austria-2027/"><img alt="CFP Data Community Day Austria 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-October-2026&color=red"></a>
 * 19-20: [Governance & Security Summit 19.-20. Januar 2027](https://events.m365-summits.de/GovernanceSecuritySummit1920Januar2027) - Online <a href="https://sessionize.com/governance-security-summit-19-20-j"><img alt="CFP Governance & Security Summit 19.-20. Januar 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-August-2026&color=red"></a>
@@ -911,7 +912,7 @@ All the data (past and coming) are available publicly in JSON:
 * 23: [PHPBenelux](https://conference.phpbenelux.eu) - Edegem (Belgium) <a href="https://sessionize.com/phpbenelux-2027"><img alt="CFP PHPBenelux" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-October-2026&color=green"></a>
 * 23: [Devopsdays Vitoria](https://devopsdays.org/events/2027-vitoria) - Vitoria (Spain)
 * 23: [.NET Saturday 2027 Pordenone](https://dotnetsat2027pn.1nn0va.it/) - Pordenone (Italy) <a href="https://sessionize.com/dotnetsat2027pn/"><img alt="CFP .NET Saturday 2027 Pordenone" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-November-2026&color=green"></a>
-* 30-31: [FOSDEM 2027](https://fosdem.org/2027/) - Brussels (Belgium)
+* 30-31: [FOSDEM 2027](https://fosdem.org/2027/) - Brussels (Belgium) <a href="https://fosdem.org/2027/news/call-for-main-track/"><img alt="CFP FOSDEM 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-November-2026&color=green"></a>
 
 ### February
 
