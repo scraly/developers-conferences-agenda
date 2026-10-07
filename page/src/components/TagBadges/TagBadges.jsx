@@ -1,59 +1,7 @@
 import { useTagsVisibility } from 'contexts/TagsContext';
 import { useFilters } from 'app.hooks';
+import { isLanguageFlag, languageFlags, orderTagsForDisplay } from 'utils/languageFlags';
 import 'styles/TagBadges.css';
-
-const languageFlags = {
-  albanian: '🇦🇱',
-  amharic: '🇪🇹',
-  arabic: '🇸🇦',
-  armenian: '🇦🇲',
-  'bahasa-indonesia': '🇮🇩',
-  'bahasa-melayu': '🇲🇾',
-  bulgarian: '🇧🇬',
-  catalan: '🇪🇸',
-  chinese: '🇨🇳',
-  croatian: '🇭🇷',
-  czech: '🇨🇿',
-  danish: '🇩🇰',
-  dutch: '🇳🇱',
-  english: '🇬🇧',
-  estonian: '🇪🇪',
-  finnish: '🇫🇮',
-  french: '🇫🇷',
-  german: '🇩🇪',
-  greek: '🇬🇷',
-  hebrew: '🇮🇱',
-  hindi: '🇮🇳',
-  hungarian: '🇭🇺',
-  indonesian: '🇮🇩',
-  italian: '🇮🇹',
-  japanese: '🇯🇵',
-  kazakh: '🇰🇿',
-  kinyarwanda: '🇷🇼',
-  korean: '🇰🇷',
-  latvian: '🇱🇻',
-  lithuanian: '🇱🇹',
-  macedonian: '🇲🇰',
-  malay: '🇲🇾',
-  nigerian: '🇳🇬',
-  norwegian: '🇳🇴',
-  polish: '🇵🇱',
-  portuguese: '🇵🇹',
-  romanian: '🇷🇴',
-  russian: '🇷🇺',
-  serbian: '🇷🇸',
-  sinhala: '🇱🇰',
-  slovak: '🇸🇰',
-  slovenian: '🇸🇮',
-  spanish: '🇪🇸',
-  swedish: '🇸🇪',
-  tagalog: '🇵🇭',
-  tamil: '🇮🇳',
-  thai: '🇹🇭',
-  turkish: '🇹🇷',
-  ukrainian: '🇺🇦',
-  vietnamese: '🇻🇳',
-};
 
 const getTagDisplay = (tag) => {
   if (typeof tag === 'object' && tag.key === 'language' && languageFlags[tag.value]) {
@@ -63,7 +11,6 @@ const getTagDisplay = (tag) => {
   return typeof tag === 'object' ? `${tag.key}: ${tag.value}` : tag;
 };
 
-const isLanguageFlag = (tag) => typeof tag === 'object' && tag.key === 'language' && languageFlags[tag.value];
 
 const TagBadges = ({tags = [], onTagClick}) => {
   const { tagsVisible } = useTagsVisibility();
@@ -93,7 +40,7 @@ const TagBadges = ({tags = [], onTagClick}) => {
 
   return (
     <div className="tag-badges">
-      {tags.map((tag, index) => (
+      {orderTagsForDisplay(tags).map((tag, index) => (
         <span 
           className={`tag-badge ${isLanguageFlag(tag) ? 'language-flag' : ''} ${onTagClick ? 'clickable' : ''} ${isSelected(tag) ? 'selected' : ''}`} 
           key={index}
