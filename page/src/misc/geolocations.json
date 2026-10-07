@@ -223,6 +223,10 @@
     "latitude": 33.7489924,
     "longitude": -84.3902644
   },
+  "Atyrau (Kazakhstan)": {
+    "latitude": 47.6605827,
+    "longitude": 50.806203
+  },
   "Auckland (New Zealand)": {
     "latitude": -36.5412811,
     "longitude": 174.5506104914412
@@ -3122,6 +3126,10 @@
   "Singapore (Singapore)": {
     "latitude": 1.2899175,
     "longitude": 103.8519072
+  },
+  "Sinop (Brazil)": {
+    "latitude": -11.857701,
+    "longitude": -55.4967824
   },
   "Sint-Katelijne-Waver (Belgium)": {
     "latitude": 51.0699542,
