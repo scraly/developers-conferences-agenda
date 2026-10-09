@@ -7,6 +7,13 @@
   width: 10rem;
 }
 
+.cfp-companion-view .cfp-entry-actions {
+  align-items: center;
+  display: flex;
+  flex-shrink: 0;
+  gap: 1rem;
+}
+
 .cfp-companion-view .cfp-speaker-status {
   flex-shrink: 0;
   margin: 0;
@@ -57,5 +64,36 @@
 
   .cfp-companion-view .event-details {
     width: 100%;
+  }
+}
+
+/* Phones: the list view stacks every child of an entry, which spread one
+   event over a whole screen (the heart, the status buttons and the CFP link
+   each on a line of their own). Keep the controls on one row, put the date
+   above the name, and let the durations wrap under the details instead of
+   hanging in a 40% right-hand column. */
+@media screen and (max-width: 768px) {
+  .cfp-companion-view .cfp-entry-actions {
+    gap: 0.5rem;
+  }
+
+  .cfp-companion-view .event-details {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .cfp-companion-view .event-date-fav {
+    padding-right: 0;
+    width: auto;
+  }
+
+  .cfp-companion-view .event-list-header {
+    align-items: flex-start;
+    gap: 0;
+  }
+
+  .cfp-companion-view .cfp-submission-durations {
+    margin-left: 0;
+    max-width: none;
   }
 }
