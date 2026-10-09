@@ -3647,3 +3647,10 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-05-05-Re:Build,topic:tech-conference,topic:software-craftsmanship,topic:software-development,topic:software-engineering
 2027-04-30-Mobile Makers 2027,language:french,tech:mobile,topic:development,topic:open-source
 2027-01-11-M365 Con 27,topic:microsoft-365,tech:microsoft-power-platform,topic:azure
+2026-11-04-React Conf Ghana 2026,language:english,tech:react,topic:javascript,topic:frontend,topic:web-development,topic:open-source
+2026-11-11-DevFest Atyrau 2026,language:russian,tech:android,topic:google,topic:developer,topic:mobile-development
+2026-12-05-DevFest Nortão 2026 - Mato Grosso,language:portuguese,tech:android,topic:google,topic:developer,topic:mobile-development
+2026-12-05-DevFest 2026: Nova Scotia Edition,language:english,tech:android,topic:google,topic:developer,topic:mobile-development
+2026-12-12-PyTorch Day China,language:chinese,tech:pytorch,tech:python,topic:machine-learning,topic:deep-learning,topic:open-source
+2026-12-12-DevFest Cloud Jakarta 2026,language:indonesian,tech:google-cloud,topic:cloud-computing,topic:google,topic:developer
+2026-12-12-DevFest George Town 2026,language:english,tech:android,topic:google,topic:developer,topic:mobile-development
