@@ -204,18 +204,46 @@ export const Footer = () => {
               <span className="sponsor-name">Zenika</span>
             </a>
             <a
-              href="https://looties.io/"
+              href="https://github.com/joshleecreates"
               target="_blank"
               rel="noopener noreferrer"
               className="sponsor-card"
-              title="Looties"
+              title="joshleecreates"
             >
               <img
-                src="https://looties.io/logos/looties-logo.png"
-                alt="Looties"
+                src="https://avatars.githubusercontent.com/u/11478793?s=52&v=4"
+                alt="joshleecreates"
                 className="sponsor-avatar"
               />
-              <span className="sponsor-name">Looties</span>
+              <span className="sponsor-name">joshleecreates</span>
+            </a>
+            <a
+              href="https://everythingdevops.io/join-for-free"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="sponsor-card"
+              title="EverythingDevOps"
+            >
+              <img
+                src="https://media.licdn.com/dms/image/v2/D4D0BAQEBW7WR046sPw/company-logo_200_200/company-logo_200_200/0/1738282423099/everythingdevops_logo?e=1793232000&v=beta&t=Dhys0BQdgkr4mBFpwnM6VTwx9e8FUNKDiBxD33K6rgc"
+                alt="EverythingDevOps"
+                className="sponsor-avatar"
+              />
+              <span className="sponsor-name">EverythingDevOps</span>
+            </a>
+            <a
+              href="superheavy.io"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="sponsor-card"
+              title="superheavy"
+            >
+              <img
+                src="https://superheavy.io/assets/superheavy-logo-D138k3iq.png"
+                alt="superheavy"
+                className="sponsor-avatar"
+              />
+              <span className="sponsor-name">superheavy</span>
             </a>
           </div>
 
