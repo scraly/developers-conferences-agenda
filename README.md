@@ -1103,7 +1103,8 @@ The content & the data are licensed under the [CC-BY-NC license](./LICENSE-CONTE
 
 [![typesense](https://avatars.githubusercontent.com/u/19822348?s=60&v=4)](https://github.com/typesense)
 [![Zenika](https://avatars.githubusercontent.com/u/630230?s=60&v=4)](https://github.com/Zenika)
-<a href="https://retcon.app/"><img src="https://retcon.app/images/app-icon-for-circle.png" alt="Retcon" width="60" height="60"></a>
-<a href="https://looties.io/"><img src="https://looties.io/logos/looties-logo.png" alt="Looties" width="60" height="60"></a>
+[![joshleecreates](https://avatars.githubusercontent.com/u/11478793?s=52&v=4)](https://github.com/joshleecreates)
+<a href="https://everythingdevops.io/join-for-free"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQEBW7WR046sPw/company-logo_200_200/company-logo_200_200/0/1738282423099/everythingdevops_logo?e=1793232000&v=beta&t=Dhys0BQdgkr4mBFpwnM6VTwx9e8FUNKDiBxD33K6rgc" alt="EverythingDevOps" width="60" height="60"></a>
+<a href="superheavy.io"><img src="https://superheavy.io/assets/superheavy-logo-D138k3iq.png" alt="superheavy" width="60" height="60"></a>
 
 [![Github Sponsors](https://img.shields.io/badge/Sponsor%20developers.events%20!-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/scraly)

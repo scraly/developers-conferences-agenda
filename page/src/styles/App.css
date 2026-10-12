@@ -283,7 +283,7 @@ input[type=text] {
 }
 
 .sponsor-card:hover .sponsor-name {
-  color: var(--text-footer);
+  color: #000;
 }
 
 .sponsors-badge {
