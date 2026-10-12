@@ -1015,6 +1015,10 @@
     "latitude": 44.811349,
     "longitude": -91.4984941
   },
+  "Echirolles (France)": {
+    "latitude": 45.1481694,
+    "longitude": 5.718687
+  },
   "Ede (Netherlands)": {
     "latitude": 52.07168255,
     "longitude": 5.745510631034939
@@ -1510,6 +1514,10 @@
   "Indore (India)": {
     "latitude": 22.7195687,
     "longitude": 75.8577258
+  },
+  "Innsbruck (Austria)": {
+    "latitude": 47.2654296,
+    "longitude": 11.3927685
   },
   "Ioannina (Greece)": {
     "latitude": 39.6639818,
@@ -3034,6 +3042,10 @@
   "Santa Fe (Argentina)": {
     "latitude": -30.3154739,
     "longitude": -61.1645076
+  },
+  "Santa Monica, CA (USA)": {
+    "latitude": 34.0194704,
+    "longitude": -118.491227
   },
   "Santiago (Chile)": {
     "latitude": -33.4377756,
