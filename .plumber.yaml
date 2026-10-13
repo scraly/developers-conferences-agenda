@@ -1,0 +1,1008 @@
+# Plumber Configuration - Trust Policy Manager for GitLab CI/CD
+# This file is required for 'plumber analyze' to work.
+# Default file name: .plumber.yaml
+# Reference: https://github.com/getplumber/plumber/blob/main/.plumber.yaml
+# Can be generated with: plumber config generate
+
+version: "2.0"
+
+# Plumber Score publishing is controlled by your CI pipeline, not this file:
+# set the `score-push` input on the Plumber GitHub Action / GitLab component
+# (or pass --score-push / PLUMBER_ANALYZE_SCORE_PUSH). Publishing happens ONLY
+# in CI (it needs a CI-native OIDC id-token, so a local run never publishes and
+# can't spoof another repo's badge). Docs: https://getplumber.io/docs/plumber-score
+# To target a self-hosted score service, uncomment and set the endpoint:
+# score:
+#   endpoint: https://score.example.com
+
+gitlab:
+  controls:
+    # ===========================================
+    # Container images must not use forbidden tags
+    # ===========================================
+    # Detects CI/CD jobs using Docker images with forbidden tags.
+    # Forbidden tags (like 'latest') can point to different images over time,
+    # making builds non-reproducible and potentially introducing security risks.
+    #
+    # Best practice: Use immutable tags (e.g., specific versions or SHA digests) and not forbidden tags
+    containerImageMustNotUseForbiddenTags:
+      # Set to false to disable this control
+      enabled: true
+      # Tags considered "forbidden" - images using these will be flagged
+      tags:
+        - latest
+        - dev
+        - development
+        - staging
+        - main
+        - master
+        # v8.15.0
+        # Add your organization's custom mutable tags below:
+        # - nightly
+        # - edge
+        # - canary
+        # - unstable
+      # When true, ALL images must be pinned by digest (e.g., alpine@sha256:...).
+      # This takes precedence over the forbidden tags list — any image not using
+      # an immutable digest reference will be flagged, including standard version
+      # tags like alpine:3.19 or node:20.
+      containerImagesMustBePinnedByDigest: true
+    # ===========================================
+    # Container images must come from authorized sources
+    # ===========================================
+    # Detects CI/CD jobs using Docker images from untrusted registries.
+    # Only images from explicitly trusted sources should be used in pipelines
+    # to prevent supply chain attacks.
+    #
+    # Best practice: Maintain a list of approved registries and image patterns
+    containerImageMustComeFromAuthorizedSources:
+      # Set to false to disable this control
+      enabled: true
+      # Trust official Docker Hub images (e.g., nginx, alpine, python)
+      # These are images without a username prefix on Docker Hub
+      trustDockerHubOfficialImages: true
+      # Trusted registry URLs and patterns (supports wildcards)
+      # Images matching these patterns will be considered trusted
+      trustedUrls:
+        # Docker Hub official images (if trustDockerHubOfficialImages is false)
+        # - docker.io/library/*
+
+        # Common CI/CD tool images
+        - docker.io/docker:*
+        - docker.io/getplumber/plumber:*
+        - getplumber/plumber:*
+        - docker.io/getplumber/plumber@sha256:*
+        # GitLab registry patterns
+        - $CI_REGISTRY_IMAGE:*
+        - $CI_REGISTRY_IMAGE/*
+        - $CI_REGISTRY/*
+        - ${CI_REGISTRY}/*
+        - ${CI_REGISTRY_IMAGE}:*
+        - ${CI_REGISTRY_IMAGE}/*
+        # GitLab Dependency Proxy
+        - ${CI_DEPENDENCY_PROXY_DIRECT_GROUP_IMAGE_PREFIX}/*
+        # GitLab official registries
+        - registry.gitlab.com/security-products/*
+        - registry.gitlab.com/gitlab-org/*
+        - registry.gitlab.com/pipeline-components/*
+        # Do NOT use host-wide patterns such as ghcr.io/*, gcr.io/*, quay.io/*, mcr.microsoft.com/*,
+        # nvcr.io/* — anyone can publish images on those registries; wildcards would trust all of them.
+        # Prefer org-scoped patterns instead, e.g. ghcr.io/my-org/*, quay.io/prometheus/*
+
+        # Docker Hub — well-known publishers (DevOps / CI tooling)
+        # Each entry below corresponds to a Docker Hub Verified Publisher,
+        # the upstream project's own namespace, or an officially recognised
+        # community publisher for that tool. See docs/trusted-registries.md
+        # for verification notes.
+        - docker.io/curlimages/* # curl docker team (curl/curl-container)
+        - docker.io/alpine/* # Alpine Linux maintainers (alpinelinux org)
+        - docker.io/golangci/* # golangci-lint upstream
+        - docker.io/koalaman/* # ShellCheck author (Vidar Holen)
+        - docker.io/hadolint/* # hadolint upstream
+        - docker.io/semgrep/* # Semgrep, Inc.
+        - docker.io/sonarsource/* # SonarSource verified publisher
+        - docker.io/cypress/* # Cypress.io verified publisher
+        - docker.io/gittools/* # GitTools (GitVersion) upstream
+        - docker.io/renovate/* # Renovate Bot (Mend.io) verified publisher
+        - docker.io/gitlab/* # GitLab verified publisher
+        - docker.io/lycheeverse/* # lychee link checker upstream
+        - docker.io/hugomods/* # HugoMods Hugo container project
+        - docker.io/fsfe/* # Free Software Foundation Europe (REUSE)
+        - docker.io/hashicorp/* # HashiCorp (IBM) verified publisher
+        - docker.io/cimg/* # CircleCI convenience images
+        - docker.io/circleci/* # CircleCI legacy convenience images
+        # Docker Hub — cloud vendor official images
+        - docker.io/amazon/* # Amazon Web Services
+        - docker.io/google/* # Google
+        - docker.io/nvidia/* # NVIDIA verified publisher
+        - docker.io/bitnami/* # Bitnami / VMware (Broadcom) verified publisher
+        # Docker Hub — OS / distro official images
+        - docker.io/redhat/* # Red Hat
+        - docker.io/opensuse/* # openSUSE Project
+        - docker.io/gentoo/* # Gentoo Linux maintainers
+        - docker.io/nixos/* # NixOS Foundation
+        - docker.io/rustlang/* # Rust Programming Language official
+        # Microsoft Container Registry — official Microsoft products
+        - mcr.microsoft.com/dotnet/* # .NET official images
+        - mcr.microsoft.com/playwright/* # Playwright (Microsoft) browser images
+        - mcr.microsoft.com/playwright # tag-only ref form (no path suffix)
+        # Quay.io — well-known projects with their own organisation
+        - quay.io/buildah/* # Containers project (Buildah)
+        - quay.io/podman/* # Containers project (Podman)
+        - quay.io/containers/* # Containers project umbrella org
+        - quay.io/centos/* # CentOS Project (CentOS Stream)
+        - quay.io/pypa/* # Python Packaging Authority (manylinux)
+        - quay.io/gnome_infrastructure/* # GNOME Infrastructure team
+        # GitHub Container Registry — well-known upstream organisations
+        # ghcr.io/<org>/* is scoped to a single GitHub organisation, so each
+        # entry must be the actual org that publishes the upstream tool.
+        - ghcr.io/astral-sh/* # Astral (uv, ruff)
+        - ghcr.io/renovatebot/* # Renovate Bot upstream
+        - ghcr.io/containerbase/* # containerbase (Renovate base images)
+        - ghcr.io/canonical/* # Canonical (snapcraft-rocks etc.)
+        - ghcr.io/graalvm/* # Oracle GraalVM team
+        - ghcr.io/terraform-linters/* # tflint upstream organisation
+        - ghcr.io/prefix-dev/* # prefix.dev (pixi)
+        # Google Container Registry — Google-owned projects
+        - gcr.io/kaniko-project/* # Kaniko (Google Cloud Build)
+        - gcr.io/go-containerregistry/* # google/go-containerregistry (crane, gcrane)
+        - gcr.io/google.com/cloudsdktool/* # Google Cloud SDK (gcloud) official
+    # ===========================================
+    # Branch must be protected
+    # ===========================================
+    # Checks that repository branches have proper protection settings.
+    # Ensures critical branches (like main/master) are protected
+    # from force pushes and require code reviews.
+    #
+    # Best practice: Protect default branch and release branches
+    branchMustBeProtected:
+      # Set to false to disable this control
+      enabled: true
+      # Require the default branch to be protected
+      defaultMustBeProtected: true
+      # Branch name patterns that must be protected (supports wildcards)
+      namePatterns:
+        - main
+        - master
+        - release/*
+        - production
+        - dev
+        # Add your organization's protected branch patterns below:
+        # - develop
+        # - staging
+      # When false, force push must be disabled on protected branches
+      allowForcePush: false
+      # Require code owner approval for changes
+      codeOwnerApprovalRequired: false
+      # Minimum access level required to merge (0=No one, 30=Developer, 40=Maintainer)
+      minMergeAccessLevel: 30
+      # Minimum access level required to push (0=No one, 30=Developer, 40=Maintainer)
+      minPushAccessLevel: 40
+    # ===========================================
+    # Pipeline must not include hardcoded jobs
+    # ===========================================
+    # Detects CI/CD jobs that are defined directly in the .gitlab-ci.yml file
+    # instead of being included from reusable components or templates.
+    #
+    # Hardcoded jobs make pipelines harder to maintain and don't benefit from
+    # centralized updates when best practices change.
+    #
+    # Best practice: Use CI/CD components, templates, or includes for job definitions
+    pipelineMustNotIncludeHardcodedJobs:
+      # Set to false to disable this control
+      enabled: true
+    # ===========================================
+    # Includes must not use ambiguous tag/branch refs
+    # ===========================================
+    # Flags `include:` references whose ref resolves upstream as BOTH a tag
+    # and a branch: an `include:project` with `ref: v1`, or a CI/CD component
+    # `@v1`, where the source project keeps both a `v1` tag and a `v1` branch.
+    # GitLab resolves the tag first, so the pipeline runs today — but a tag
+    # deletion, rename, or typo silently switches the include onto the mutable
+    # branch, and the reviewer cannot tell from the YAML which revision runs.
+    #
+    # API-backed: the collector probes the source project's tag and branch
+    # namespaces and flags only a confirmed double-hit. Requires a token;
+    # without one (or on a failed probe) the control abstains. Pin to a
+    # 40-char commit SHA to remove the ambiguity.
+    externalRefsMustNotCollide:
+      enabled: true
+    # ===========================================
+    # Includes must be up to date
+    # ===========================================
+    # Detects CI/CD includes (components, templates, project files) from the
+    # GitLab CI Catalog that are not using the latest available version.
+    #
+    # Outdated includes may miss important bug fixes, security patches,
+    # or new features.
+    #
+    # Best practice: Regularly update includes to their latest versions
+    includesMustBeUpToDate:
+      # Set to false to disable this control
+      enabled: true
+    # ===========================================
+    # Includes must not use forbidden versions
+    # ===========================================
+    # Detects CI/CD includes (components, templates, project files) using
+    # mutable/forbidden version references like 'latest', 'main', 'master', or 'HEAD'.
+    #
+    # Mutable versions can change unexpectedly, making builds non-reproducible
+    # and potentially introducing breaking changes without warning.
+    #
+    # Best practice: Use specific version tags (e.g., v1.2.3, ~1.0) for includes
+    includesMustNotUseForbiddenVersions:
+      # Set to false to disable this control
+      enabled: true
+      # Version patterns considered forbidden: includes using these will be flagged
+      forbiddenVersions:
+        - latest
+        - "~latest"
+        - main
+        - master
+        - HEAD
+        # Add your organization's custom forbidden versions below:
+        # - dev
+        # - develop
+        # - staging
+      # When true, adds the project's default branch to forbidden versions
+      defaultBranchIsForbiddenVersion: false
+    # ============================================================================
+    # Pipeline must include component
+    # ============================================================================
+    # Ensures pipelines include required GitLab CI/CD components.
+    # Useful for enforcing security scanning, compliance, or utility components.
+    #
+    # Override detection: components that are imported but have their jobs
+    # overridden with forbidden CI/CD keywords (script, image, rules, etc.)
+    # are flagged as overridden. They still count as imported but produce a
+    # separate ISSUE-409 finding. Per-control compliance is binary today
+    # (any finding → 0%); inspect "Satisfied Groups" in the stats block
+    # for the granular view.
+    #
+    # Two ways to define requirements (use one, not both):
+    #
+    # Option 1 — Expression syntax ('required'):
+    #   A natural boolean expression using AND, OR, and parentheses.
+    #   AND binds tighter than OR, so "a AND b OR c" means "(a AND b) OR c".
+    #
+    #   required: components/sast/sast AND components/secret-detection/secret-detection
+    #   required: (components/sast/sast AND components/secret-detection/secret-detection) OR your-org/full-security/full-security
+    #
+    # Option 2 — Array syntax ('requiredGroups'):
+    #   A list of groups using "OR of ANDs" logic:
+    #     - Each inner array = components that must ALL be present (AND)
+    #     - Outer array = only ONE group needs to be satisfied (OR)
+    #
+    #   requiredGroups:
+    #     - ["components/sast/sast", "components/secret-detection/secret-detection"]
+    #     - ["your-org/full-security-pipeline/full-security"]
+    #
+    # For more expression examples, see https://github.com/getplumber/plumber/blob/main/configuration/expression_test.go
+    #
+    pipelineMustIncludeComponent:
+      enabled: false
+      # required: components/sast/sast AND components/secret-detection/secret-detection AND getplumber/plumber/plumber
+      requiredGroups: []
+    # ============================================================================
+    # Pipeline must include template
+    # ============================================================================
+    # Ensures pipelines include required templates (project file includes).
+    # Useful for enforcing organization-specific CI templates.
+    #
+    # Override detection: templates that are imported but have their jobs
+    # overridden with forbidden CI/CD keywords (script, image, rules, etc.)
+    # are flagged as overridden. They still count as imported but produce a
+    # separate ISSUE-406 finding. Per-control compliance is binary today
+    # (any finding → 0%); inspect "Satisfied Groups" in the stats block
+    # for the granular view.
+    #
+    # Two ways to define requirements (use one, not both):
+    #
+    # Option 1 — Expression syntax ('required'):
+    #   required: templates/go/go AND templates/trivy/trivy
+    #   required: (templates/go/go AND templates/trivy/trivy) OR templates/full-go-pipeline
+    #
+    # Option 2 — Array syntax ('requiredGroups'):
+    #   requiredGroups:
+    #     - ["templates/go/go", "templates/trivy/trivy"]
+    #     - ["templates/full-go-pipeline"]
+    #
+    # For more expression examples, see https://github.com/getplumber/plumber/blob/main/configuration/expression_test.go
+    #
+    pipelineMustIncludeTemplate:
+      enabled: false
+      # required: templates/go/go AND templates/trivy/trivy AND templates/iso27001/iso27001
+      requiredGroups: []
+    # ===========================================
+    # Pipeline must not enable debug trace
+    # ===========================================
+    # Detects CI/CD pipelines that set CI_DEBUG_TRACE or CI_DEBUG_SERVICES
+    # to "true" in global or job-level variables.
+    #
+    # When CI_DEBUG_TRACE is enabled, GitLab prints ALL environment variables
+    # in the job logs, including masked secrets like CI_JOB_TOKEN and any
+    # custom CI/CD variables. This is a critical security risk.
+    #
+    # Best practice: Never enable CI_DEBUG_TRACE in committed CI configuration
+    pipelineMustNotEnableDebugTrace:
+      # Set to false to disable this control
+      enabled: true
+      # CI/CD variable names that must not be set to "true"
+      forbiddenVariables:
+        - CI_DEBUG_TRACE
+        - CI_DEBUG_SERVICES
+    # ===========================================
+    # Pipeline must not use unsafe variable expansion
+    # ===========================================
+    # Detects user-controlled CI variables passed to commands that
+    # re-interpret their input as shell code. This is OWASP CICD-SEC-1.
+    #
+    # GitLab sets CI variables as environment variables. The shell does
+    # NOT re-parse expanded values for command substitution, so normal
+    # usage is safe. Only commands that re-interpret arguments as code
+    # create an injection surface.
+    #
+    # Flagged (re-interpretation contexts):
+    #   - eval "$CI_COMMIT_BRANCH"
+    #   - sh -c "$CI_MERGE_REQUEST_TITLE"
+    #   - bash -c "$CI_COMMIT_MESSAGE"
+    #   - dash -c / zsh -c / ksh -c
+    #   - source <(echo "$CI_COMMIT_REF_NAME")
+    #   - envsubst '$CI_COMMIT_MESSAGE' < tpl.sh | sh
+    #   - echo "$CI_COMMIT_BRANCH" | xargs sh
+    #
+    # Not flagged (safe — shell doesn't re-parse env var values):
+    #   - echo $CI_COMMIT_BRANCH
+    #   - echo "$CI_COMMIT_MESSAGE"
+    #   - curl -d "$CI_MERGE_REQUEST_TITLE" https://...
+    #   - git checkout $CI_COMMIT_REF_NAME
+    #   - printf '%s' "$CI_COMMIT_MESSAGE"
+    #
+    # Not caught (known limitation):
+    #   - sh -c $BRANCH  (where BRANCH: $CI_COMMIT_BRANCH in variables:)
+    #   Indirect aliasing is not tracked; only direct variable names.
+    pipelineMustNotUseUnsafeVariableExpansion:
+      # Set to false to disable this control
+      enabled: true
+      # CI/CD variables whose values come from user input and must not
+      # appear in shell re-interpretation contexts (eval, sh -c, bash -c, etc.)
+      dangerousVariables:
+        - CI_MERGE_REQUEST_TITLE
+        - CI_MERGE_REQUEST_DESCRIPTION
+        - CI_COMMIT_MESSAGE
+        - CI_COMMIT_TITLE
+        - CI_COMMIT_TAG_MESSAGE
+        - CI_COMMIT_REF_NAME
+        - CI_COMMIT_REF_SLUG
+        - CI_COMMIT_BRANCH
+        - CI_MERGE_REQUEST_SOURCE_BRANCH_NAME
+        - CI_EXTERNAL_PULL_REQUEST_SOURCE_BRANCH_NAME
+      # Script lines
+      #   sh -c "terraform workspace select $CI_COMMIT_REF_SLUG"
+      #   sh -c "docker build --build-arg BRANCH=$CI_COMMIT_BRANCH ."
+      #   sh -c "aws s3 sync dist/ s3://my-bucket/$CI_COMMIT_REF_SLUG/"
+      #   bash -c "make deploy BRANCH=$CI_COMMIT_BRANCH"
+      #
+      # Allow with patterns:
+      # (Escape $ as \\$, {} as \\{ \\} in patterns.)
+      # allowedPatterns:
+      #   - "helm.*--set.*\\$CI_"
+      #   - "terraform workspace select.*\\$CI_"
+      #   - "docker build.*--build-arg.*\\$CI_"
+      #   - "aws s3 sync.*\\$CI_"
+      #   - "make deploy.*\\$CI_"
+      allowedPatterns: []
+    # ===========================================
+    # Security jobs must not be weakened
+    # ===========================================
+    # Detects GitLab CI security scanning jobs (SAST, Secret Detection,
+    # Container Scanning, Dependency Scanning, DAST, License Scanning)
+    # that have been weakened through overrides in .gitlab-ci.yml.
+    #
+    # Even when security templates are properly included, a developer
+    # (or attacker) can silently neutralize them by:
+    #   - Setting allow_failure: true (failures become invisible)
+    #   - Overriding rules: with when: never or when: manual
+    #   - Setting when: manual at job level (job never runs automatically)
+    #
+    # The pipeline still "includes" the security template, giving a false
+    # sense of compliance while the actual scanning is disabled.
+    #
+    # Maps to OWASP CICD-SEC-4 (Poisoned Pipeline Execution).
+    #
+    # Best practice: Security jobs should run automatically and block the
+    # pipeline on failure.
+    securityJobsMustNotBeWeakened:
+      # Set to false to disable this control
+      enabled: true
+      # Job name patterns considered "security jobs" (supports wildcards).
+      # or any other jobs you want to be considered security jobs.
+      securityJobPatterns:
+        - "*-sast"
+        - "secret_detection"
+        - "container_scanning"
+        - "*_dependency_scanning"
+        - "gemnasium-*"
+        - "dast"
+        - "dast_*"
+        - "license_scanning"
+      # Detects security jobs with allow_failure: true.
+      # Example:
+      #   semgrep-sast:
+      #     allow_failure: true
+      # Off by default because GitLab templates ship with allow_failure: true.
+      # Opt-in for orgs that want security checks to block the pipeline.
+      allowFailureMustBeFalse:
+        enabled: false
+      # Detects security jobs whose rules: block is overridden with
+      # when: never (job will never run) or when: manual (requires manual click).
+      # Example:
+      #   semgrep-sast:
+      #     rules:
+      #       - when: never
+      # Example:
+      #   secret_detection:
+      #     rules:
+      #       - when: manual
+      rulesMustNotBeRedefined:
+        enabled: false
+      # Detects security jobs with when: manual set at job level.
+      # Same effect as a rules override, but written differently.
+      # Example:
+      #   semgrep-sast:
+      #     when: manual
+      whenMustNotBeManual:
+        enabled: false
+    # ===========================================
+    # Pipeline must not override job variables
+    # ===========================================
+    # Detects CI/CD variables that are redefined in the pipeline configuration
+    # file (.gitlab-ci.yml) when they should only be set in GitLab CI/CD
+    # Settings > Variables.
+    #
+    # An attacker who can modify .gitlab-ci.yml could override variables like
+    # SECURE_ANALYZERS_PREFIX to point to a fake registry, or set
+    # SAST_DISABLED: "true" to silently disable security scanners. The pipeline
+    # still appears green, but no actual scanning occurs.
+    #
+    # This control is generic: add any variable name you want to protect,
+    # not just security-related ones.
+    #
+    # Best practice: Set controlled variables in GitLab CI/CD Settings as
+    # protected/masked variables, never in the YAML file.
+    pipelineMustNotOverrideJobVariables:
+      # Set to false to disable this control
+      enabled: true
+      # CI/CD variable names that must not be defined in the pipeline config.
+      # They should only be set in GitLab CI/CD Settings > Variables or defined in the imported templates or components.
+      variables:
+        - SECURE_ANALYZERS_PREFIX
+        - SAST_DISABLED
+        - SAST_EXCLUDED_PATHS
+        - SAST_EXCLUDED_ANALYZERS
+        - SECRET_DETECTION_DISABLED
+        - SECRET_DETECTION_EXCLUDED_PATHS
+        - CONTAINER_SCANNING_DISABLED
+        - DAST_DISABLED
+        - DEPENDENCY_SCANNING_DISABLED
+        - LICENSE_SCANNING_DISABLED
+        # Add your organization's controlled variables below:
+        # - MY_CUSTOM_PROTECTED_VAR
+    # ── Pipeline must not execute unverified scripts ─────────────────
+    #
+    # Detects jobs that download or inline-execute scripts without integrity
+    # verification (curl | bash, wget | sh, curl -o … && bash, echo … |
+    # base64 -d | bash, and any `| sh` / `| bash` pipe).
+    #
+    # This is a well-documented supply chain attack vector: an attacker who
+    # compromises the remote URL can serve a modified script that exfiltrates
+    # CI/CD secrets ($CI_JOB_TOKEN, deploy keys, custom variables).
+    #
+    # Maps to OWASP CICD-SEC-3 (Dependency Chain Abuse) and CICD-SEC-8
+    # (Ungoverned Usage of 3rd Party Services).
+    #
+    # Best practice: download scripts to a file, verify a checksum against a
+    # known-good value, then execute. Or vendor the script into your repo.
+    pipelineMustNotExecuteUnverifiedScripts:
+      # Set to false to disable this control
+      enabled: true
+      # URLs that are trusted and should not trigger findings.
+      # Supports wildcards (e.g., https://internal-artifacts.example.com/*).
+      trustedUrls: []
+      # - https://internal-artifacts.example.com/*
+    # ── Pipeline must not leak secrets in configuration ─────────────
+    #
+    # Runs gitleaks against the resolved pipeline YAML to detect hardcoded
+    # secrets (API tokens, private keys, passwords) committed directly in
+    # the CI configuration. Requires gitleaks to be installed and available
+    # on PATH (or configured via gitleaksPath).
+    pipelineMustNotLeakSecretsInConfig:
+      # Set to true to enable this control (requires gitleaks)
+      enabled: false
+      # Path to the gitleaks binary. Defaults to "gitleaks" (PATH lookup).
+      # gitleaksPath: /usr/local/bin/gitleaks
+      # Optional path to a custom gitleaks configuration file.
+      # gitleaksConfigPath: /path/to/gitleaks.toml
+    # ── Pipeline must not use Docker-in-Docker ──────────────────────
+    #
+    # Detects CI/CD jobs that use Docker-in-Docker (dind) services.
+    # Running a Docker daemon inside a CI container on shared runners
+    # in privileged mode enables container escape, lateral movement,
+    # and access to secrets from other jobs on the same runner.
+    #
+    # This is a well-known attack vector documented in GitLab CI
+    # security best practices.
+    #
+    # Best practice: Use Kaniko or Buildah for container image builds
+    # instead of Docker-in-Docker.
+    pipelineMustNotUseDockerInDocker:
+      # Set to false to disable this control
+      enabled: true
+      # When true, also flags insecure daemon configuration
+      # (DOCKER_TLS_CERTDIR="" or DOCKER_HOST tcp://...:2375)
+      # in jobs that use a DinD service.
+      detectInsecureDaemon: true
+
+# ============================================================================
+# GitHub Actions controls
+# ============================================================================
+github:
+  controls:
+    # ── Pipeline must not leak secrets in configuration ─────────────
+    #
+    # Runs gitleaks against every workflow file under
+    # .github/workflows/ to detect hardcoded secrets (API tokens,
+    # private keys, passwords) committed directly into the YAML.
+    # Requires gitleaks to be installed and available on PATH (or
+    # configured via gitleaksPath). Disabled by default because
+    # gitleaks is an external dependency.
+    pipelineMustNotLeakSecretsInConfig:
+      # Set to true to enable this control (requires gitleaks)
+      enabled: false
+      # Path to the gitleaks binary. Defaults to "gitleaks" (PATH lookup).
+      # gitleaksPath: /usr/local/bin/gitleaks
+      # Optional path to a custom gitleaks configuration file.
+      # gitleaksConfigPath: /path/to/gitleaks.toml
+
+    # ===========================================
+    # Actions must be pinned by commit SHA
+    # ===========================================
+    # Flags workflow steps whose `uses:` reference is not a 40-character
+    # commit SHA. Tag/branch refs (v4, main) are mutable: if the action's
+    # maintainer is compromised or retags a release, the caller workflow
+    # silently runs new code with its secrets. This is the vector behind
+    # the March 2025 tj-actions/changed-files compromise (CVE-2025-30066).
+    #
+    # The default trustedOwners list exempts first-party (`actions/*`,
+    # `github/*`) actions so the initial signal on a fresh repo stays
+    # focused on the third-party surface. Pair with Dependabot
+    # (`version-update-strategy: sha-and-version`) to keep pins fresh.
+    actionsMustBePinnedByCommitSha:
+      enabled: true
+      # Action-owner prefixes exempt from the pin-by-SHA requirement.
+      # Only list owners already inside the workflow's trust boundary.
+      trustedOwners:
+        - actions
+        - github
+
+    # ===========================================
+    # Actions must come from authorized sources
+    # ===========================================
+    # Restrict which `uses:` action sources are allowed. Every third-
+    # party action runs with the caller workflow's token and secrets, so
+    # limiting actions to vetted owners shrinks the supply-chain surface.
+    githubActionMustComeFromAuthorizedSources:
+      enabled: true
+      # Trust the first-party GitHub-owned actions (actions/*, github/*)
+      # that any workflow already executes implicitly. Defaults to true.
+      trustGithubOfficialActions: true
+      # Trust actions whose owner is the same org/user as the scanned
+      # repository — an org's own actions are inside its trust boundary.
+      # Defaults to true.
+      trustSameOrgActions: true
+      # When > 0, also trust any action whose upstream repository has at
+      # least this many GitHub stars. Catches rename/re-creation squats
+      # where a once-trusted name is re-registered with no history.
+      # Requires GitHub API access; 0 disables the star check.
+      minimumStars: 0
+      # Allowlist of trusted action sources. Each entry is either an
+      # exact `owner/repo` or an `owner/*` wildcard for a whole org.
+      trustedGithubActions:
+        - docker/setup-qemu-action
+        - docker/setup-buildx-action
+        - docker/login-action
+        - docker/metadata-action
+        - docker/build-push-action
+        - ossf/scorecard-action
+        - anchore/scan-action
+        - getplumber/*
+
+    # ===========================================
+    # Container images must not use forbidden tags
+    # ===========================================
+    # Same control as GitLab; values are GitHub-side. Pinning by digest
+    # protects against tag-retag supply-chain attacks. The forbidden tag
+    # list catches the common cases of mutable references.
+    containerImageMustNotUseForbiddenTags:
+      enabled: true
+      tags:
+        - latest
+        - dev
+        - development
+        - staging
+        - main
+        - master
+      # When true, ALL images must be pinned by digest (e.g.,
+      # alpine@sha256:...). Takes precedence over the forbidden tags
+      # list — any image not using an immutable digest reference is
+      # flagged.
+      containerImagesMustBePinnedByDigest: true
+
+    # ===========================================
+    # Pipeline must not use Docker-in-Docker
+    # ===========================================
+    # Workflows on GitHub-hosted runners that spin up `docker:dind`
+    # services have the same privilege-escalation risk as on GitLab.
+    # detectInsecureDaemon also flags plaintext DOCKER_HOST and empty
+    # DOCKER_TLS_CERTDIR values.
+    pipelineMustNotUseDockerInDocker:
+      enabled: true
+      detectInsecureDaemon: true
+
+    # ===========================================
+    # Pipeline must not execute unverified scripts
+    # ===========================================
+    # Same control as GitLab (ISSUE-411). Scans every workflow `run:` step
+    # for pipe-to-shell, download-then-exec, redirect-then-exec, and Megalodon-
+    # style base64 obfuscation. Maps to OWASP CICD-SEC-3 / CICD-SEC-8.
+    pipelineMustNotExecuteUnverifiedScripts:
+      enabled: true
+      trustedUrls: []
+      # - https://internal-artifacts.example.com/*
+
+    # ===========================================
+    # Reusable workflows must not inherit secrets
+    # ===========================================
+    # Detects `jobs.<name>.secrets: inherit` calls. Inherit forwards
+    # every secret visible to the caller — repo, organisation,
+    # environment — to the reusable workflow regardless of what it
+    # actually needs. Use an explicit secrets map instead.
+    reusableWorkflowsMustNotInheritSecrets:
+      enabled: true
+
+    # ===========================================
+    # Security jobs must not be weakened
+    # ===========================================
+    # Jobs matching the security-scanner naming patterns must not be
+    # neutralised via `continue-on-error: true` (mapped to the same
+    # IR field as GitLab's allow_failure: true) or manual-dispatch-only
+    # triggers. The pattern set covers the GitHub-native scanners
+    # users actually run — `codeql`, `dependency-review`, `trufflehog`,
+    # `gitleaks`, `osv-scanner`, plus generic fallbacks like
+    # `*scan*`, `*audit*`, `*security*` so SAST jobs named with
+    # project-specific prefixes still match.
+    securityJobsMustNotBeWeakened:
+      enabled: true
+      # How patterns are matched
+      # ────────────────────────
+      # Each pattern is a glob (`*` matches any substring) compared
+      # against the job name plumber builds for every job in your
+      # workflows. That name is:
+      #
+      #     <workflow filename, .yml/.yaml stripped>/<job id in YAML>
+      #
+      # Examples:
+      #   .github/workflows/codeql-analysis.yml + jobs.analyze
+      #       -> codeql-analysis/analyze
+      #   .github/workflows/ci.yml             + jobs.lint
+      #       -> ci/lint
+      #   .github/workflows/workflow.yml       + jobs.my-sast
+      #       -> workflow/my-sast
+      #
+      # The namespace exists so two workflow files defining a job
+      # with the same id do not collide. Patterns can target whichever
+      # part of that name is stable for your repo:
+      #   "*<token>*"           token anywhere in the name (resilient)
+      #   "<workflow>/*"        every job in one workflow file
+      #   "*/<jobid>"           specific job id, any workflow
+      #   "<workflow>/<jobid>"  exact match, no wildcard
+      #
+      # The defaults below ship wildcard-wrapped because plumber does
+      # not know your repo's workflow-file convention. If your jobs
+      # follow a known layout you can drop the wildcards for tighter
+      # matching.
+      securityJobPatterns:
+        - "*codeql*"
+        - "*dependency-review*"
+        - "*trufflehog*"
+        - "*gitleaks*"
+        - "*osv-scanner*"
+        - "*-sast"
+        - "*-sast-*"
+        - "*-scan"
+        - "*scan*"
+        - "*-security"
+        - "*-security-*"
+        - "*-audit"
+        - "*-audit-*"
+        # Real-world slash-form examples (commented; uncomment / adapt
+        # to your repo for a tighter match than the wildcards above).
+        # Format reminder: <workflow-filename-without-extension>/<job-id>.
+        #
+        # - codeql-analysis/analyze              # GitHub's default CodeQL template
+        # - dependency-review/dependency-review  # GitHub's default Dependency Review template
+        # - security/gitleaks                    # gitleaks job in security.yml
+        # - security/trufflehog                  # trufflehog job in security.yml
+        # - security/*                           # every job in security.yml
+        # - "*/sast"                             # any job named "sast", any workflow
+        # - ci/semgrep-sast                      # exact match, no wildcard
+      allowFailureMustBeFalse:
+        enabled: true
+      rulesMustNotBeRedefined:
+        enabled: true
+      whenMustNotBeManual:
+        enabled: true
+
+    # ===========================================
+    # Workflow must not inject user input in scripts
+    # ===========================================
+    # Catches the canonical script-injection class: `${{ github.event.* }}`
+    # / `${{ github.head_ref }}` / `${{ github.actor }}` interpolated
+    # directly into a `run:` shell. Attacker-controlled values like PR
+    # title or branch name can break out of the intended string and
+    # execute arbitrary commands with the job's secrets. Bind through
+    # `env:` first, then reference the env var from the shell.
+    workflowMustNotInjectUserInputInScripts:
+      enabled: true
+
+    # ===========================================
+    # Workflow must not use dangerous triggers
+    # ===========================================
+    # Flags `pull_request_target` and `workflow_run` triggers, which
+    # run with the base repository's secrets while being influenceable
+    # by an unprivileged caller. Combined with any user-content
+    # checkout this becomes a direct exfiltration path (CVE-2025-30066).
+    # Use the standard `pull_request` trigger unless secrets are
+    # required.
+    workflowMustNotUseDangerousTriggers:
+      enabled: true
+
+    # ===========================================
+    # pull_request_target must not check out PR head
+    # ===========================================
+    # Flags a workflow triggered by `pull_request_target` that checks
+    # out the pull-request head (github.event.pull_request.head.sha or
+    # github.head_ref). Base-repo secrets and fork-controlled code then
+    # run together, which is the tj-actions / CVE-2025-30066 vector.
+    # Keep fork code under a plain `pull_request` trigger instead.
+    pullRequestTargetMustNotCheckoutHead:
+      enabled: true
+
+    # ===========================================
+    # Workflows must declare permissions
+    # ===========================================
+    # Workflows without an explicit `permissions:` block fall back to
+    # the repo-wide GITHUB_TOKEN default — often `contents: write` or
+    # `read-all`. Declaring `permissions: { contents: read }` at the
+    # workflow level enforces least-privilege regardless of the repo
+    # default.
+    workflowsMustDeclarePermissions:
+      enabled: true
+
+    # ===========================================
+    # Branch must be protected (project governance)
+    # ===========================================
+    # The first project-governance control on the GitHub path. Every
+    # other shipping rule is pipeline-governance (workflow content);
+    # this one inspects repository settings via the GitHub branch-
+    # protection API. Requires a token with `repo` scope (classic
+    # PAT) or "Administration: read" (fine-grained PAT) — content-
+    # only read access is NOT enough. Without scope the collector
+    # returns an empty branch list and the rule emits no findings,
+    # same degraded contract as missing API auth elsewhere.
+    branchMustBeProtected:
+      enabled: true
+      defaultMustBeProtected: true
+      namePatterns:
+        - main
+        - master
+        - release/*
+        - production
+        - dev
+      allowForcePush: false
+      codeOwnerApprovalRequired: true
+
+    # ============================================================================
+    # Workflows must include required actions
+    # ============================================================================
+    # Asserts that every workflow file under .github/workflows/
+    # collectively references a set of required actions or reusable
+    # workflows. The GitHub counterpart of
+    # pipelineMustIncludeComponent / pipelineMustIncludeTemplate on
+    # the GitLab side.
+    #
+    # GitHub has two ways to "include" something external; the
+    # control treats both the same so you do not have to declare
+    # which is which:
+    #
+    #   Step-level action:
+    #     steps:
+    #       - uses: myorg/sast-scan@v2
+    #
+    #   Job-level reusable workflow call:
+    #     jobs:
+    #       security:
+    #         uses: myorg/policy/.github/workflows/scan.yml@v2
+    #
+    # Each required entry is an `owner/repo[/path]` string. Matching
+    # is ref-agnostic so bumping a pinned SHA does not invalidate
+    # the policy. A slash-guard prevents accidental prefix
+    # collisions: `myorg/sast-scan` matches
+    # `myorg/sast-scan@<anything>` and
+    # `myorg/sast-scan/sub@<anything>`, but NOT
+    # `myorg/sast-scan-fork@<anything>`.
+    #
+    # Two ways to define requirements (use one, not both):
+    #
+    # Option 1, Expression syntax ('required'):
+    #   A natural boolean expression using AND, OR, and parentheses.
+    #   AND binds tighter than OR, so "a AND b OR c" means
+    #   "(a AND b) OR c".
+    #
+    #   required: myorg/sast-scan AND myorg/dependency-review
+    #   required: (myorg/sast-scan AND myorg/secret-scan) OR myorg/full-security-suite
+    #
+    # Option 2, Array syntax ('requiredGroups'):
+    #   A list of groups using "OR of ANDs" logic:
+    #     - Each inner array = items that must ALL be present (AND)
+    #     - Outer array = only ONE group needs to be satisfied (OR)
+    #
+    #   requiredGroups:
+    #     - ["myorg/sast-scan", "myorg/dependency-review"]
+    #     - ["myorg/full-security-suite"]
+    #
+    # Disabled by default; opt in once your organization has settled
+    # on the action set every repo is expected to wire up.
+    workflowMustIncludeRequiredActions:
+      enabled: false
+      # required: myorg/sast-scan AND myorg/policy/.github/workflows/scan.yml
+      requiredGroups: []
+
+    # ===========================================
+    # Workflow must not grant write-all permissions
+    # ===========================================
+    # Flags workflows and jobs whose effective `permissions:` block is the
+    # literal `write-all` shortcut. write-all gives GITHUB_TOKEN every
+    # scope (contents, packages, deployments, id-token, …) at the same
+    # time, so any compromise in the workflow — a malicious dependency,
+    # a script-injection bug, a third-party action turning evil — gets
+    # to do anything the repo allows: push to main, publish releases,
+    # mint OIDC tokens for cloud accounts, mark deployments succeeded.
+    #
+    # Workflow-level `permissions: write-all` is propagated to every
+    # job by the GitHub Actions runner; the rule reads the per-job
+    # effective permissions, so a workflow-level grant is caught the
+    # same way as a job-level one.
+    #
+    # Scope: static `permissions:` in committed workflow YAML only.
+    # Flags the literal string shortcut `write-all` on a job's effective
+    # permissions (workflow-level `write-all` is propagated to every job).
+    #
+    # Does not flag: `permissions: { contents: write, … }` maps, `read-all`,
+    # or missing `permissions:` (see `workflowsMustDeclarePermissions` /
+    # ISSUE-801). Does not evaluate `${{ }}` expressions or permissions
+    # inside callee reusable-workflow files Plumber did not fetch.
+    #
+    # Pair with `workflowsMustDeclarePermissions` for the full story.
+    workflowMustNotGrantPermissionsWriteAll:
+      enabled: true
+
+    # ===========================================
+    # Actions must not use ambiguous tag/branch refs
+    # ===========================================
+    # Flags `uses: owner/repo@ref` references whose symbolic name resolves
+    # upstream as BOTH a tag and a branch (e.g. a tag `v1` kept alongside a
+    # long-lived `v1` branch). GitHub Actions resolves tags first, so the
+    # workflow runs the tagged commit today — but a tag deletion, rename, or
+    # a workflow typo silently switches which revision executes, and the
+    # reviewer cannot tell from the YAML alone. Pin to a 40-char commit SHA
+    # to remove the ambiguity.
+    #
+    # Scope: committed `.github/workflows/*.{yml,yaml}` only; step-level
+    # `uses: owner/repo@ref`. Requires GitHub API auth: the collector probes
+    # both the tag and branch namespaces, and without auth the rule abstains.
+    #
+    # Fail-safe: the finding fires only on a positive tag+branch double-hit;
+    # any probe failure leaves the ref unflagged (no false positive).
+    externalRefsMustNotCollide:
+      enabled: true
+
+    # ===========================================
+    # Actions must not reference archived repositories
+    # ===========================================
+    # Flags `uses: owner/repo@ref` references whose upstream repository
+    # is archived on GitHub. Archived repos no longer receive
+    # maintenance: open vulnerabilities stay open, dependency bumps
+    # stop, runtime compatibility regressions accumulate. Pinning by
+    # SHA does not save the caller — the last maintainer (or someone
+    # who later acquires the namespace) can still push new code under
+    # the original repository name.
+    #
+    # Scope: committed `.github/workflows/*.{yml,yaml}` only; step-level
+    # `uses: owner/repo@ref` (not reusable-workflow `jobs.*.uses`, not
+    # local `./.github/actions/*`). Requires GitHub API auth; without it
+    # the rule abstains (no finding).
+    #
+    # How it works: `GET /repos/{owner}/{repo}` → `archived` flag, one
+    # cached lookup per `owner/repo` (all refs share the same result).
+    #
+    # Does not see: callee reusable-workflow files, deleted/private repos
+    # (lookup may fail silently → abstain).
+    actionsMustNotBeArchived:
+      enabled: true
+
+    # ===========================================
+    # Actions must not carry known CVEs
+    # ===========================================
+    # Cross-references every `uses: owner/repo@ref` against the GitHub
+    # Advisory Database under the `actions` ecosystem. A positive hit
+    # means at least one published advisory targets the action's
+    # repository. This is the rule that catches the published-CVE
+    # supply-chain class — tj-actions/changed-files (CVE-2025-30066),
+    # reviewdog/action-setup (March 2025), unpatched versions of
+    # `actions/artifact`.
+    #
+    # Scope: committed `.github/workflows/*.{yml,yaml}` only; step-level
+    # `uses: owner/repo@ref` (not reusable-workflow `jobs.*.uses`, not
+    # `./.github/actions/*`, not `docker://`). Requires GitHub API auth
+    # (`gh` / GH_TOKEN); without it the rule abstains (no finding).
+    #
+    # How it works: one Advisory Database query per `owner/repo`
+    # (`ecosystem=actions`), cached. When the pinned ref resolves to a
+    # semver tag, Plumber filters advisories by `vulnerable_version_range`.
+    # A ref that cannot be resolved to a release version — a commit SHA
+    # with no matching release tag, or a mutable non-numeric tag such as
+    # `rc` / `main` / `latest` — abstains and surfaces a "could not verify"
+    # warning rather than matching every advisory for that repo. Upgrade
+    # past the fixed-in version and re-pin the SHA to clear the finding.
+    #
+    # Does not see: org/repo Variables, runtime `$GITHUB_ENV` writes, or
+    # actions nested inside composite actions you do not call directly.
+    actionsMustNotCarryKnownCVEs:
+      enabled: true
+
+    # ===========================================
+    # Pipeline must not enable debug trace
+    # ===========================================
+    # GitHub-side parallel of the GitLab `pipelineMustNotEnableDebugTrace`
+    # control. Flags workflows or jobs that set the GitHub Actions
+    # debug-trace toggles to a truthy value (`true`, `1`, `yes`).
+    #
+    # When `ACTIONS_STEP_DEBUG=true` or `ACTIONS_RUNNER_DEBUG=true`,
+    # the runner prints every environment variable (including masked
+    # secrets) and every internal action SDK call into the job log.
+    # The masking layer is bypassed for the dump itself, so any
+    # secret consumed by the workflow lands in plaintext in the run
+    # log and is then visible to anyone with `actions: read` on the
+    # repository, plus indefinitely on log artefacts.
+    #
+    # Scope: static `env:` in committed `.github/workflows/*.{yml,yaml}`.
+    # The collector merges workflow-, job-, and step-level `env:` into
+    # each job (step > job > workflow precedence on name collisions).
+    #
+    # Truthy values: `true`, `1`, `yes` (case-insensitive, trimmed).
+    # Variable names: case-insensitive match against `forbiddenVariables`.
+    #
+    # Also flags: `${{ }}` values on forbidden names in static `env:`
+    # (cannot verify off statically), and `run:` lines that write a
+    # forbidden name to `$GITHUB_ENV`. All ISSUE-203 findings are critical.
+    #
+    # Does not see: org/repo/environment Variables with no YAML reference,
+    # env inside callee reusable workflows Plumber did not fetch, or GitHub
+    # UI "Re-run with debug logging" (not in YAML).
+    pipelineMustNotEnableDebugTrace:
+      enabled: true
+      forbiddenVariables:
+        - ACTIONS_STEP_DEBUG
+        - ACTIONS_RUNNER_DEBUG
+
