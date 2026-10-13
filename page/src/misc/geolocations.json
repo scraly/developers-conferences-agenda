@@ -375,6 +375,10 @@
     "latitude": 38.5411928,
     "longitude": -0.1233831
   },
+  "Bergamo (Italy)": {
+    "latitude": 45.7566557,
+    "longitude": 9.7542192
+  },
   "Bergen (Norway)": {
     "latitude": 60.3943055,
     "longitude": 5.3259192
@@ -967,6 +971,10 @@
     "latitude": 48.4539775,
     "longitude": -2.047687
   },
+  "Doetinchem (Netherlands)": {
+    "latitude": 51.9585348,
+    "longitude": 6.2814551
+  },
   "Doha (Qatar)": {
     "latitude": 25.2856329,
     "longitude": 51.5264162
@@ -1154,6 +1162,10 @@
   "Fulton, MO (USA)": {
     "latitude": 38.84670819999999,
     "longitude": -91.94795859999999
+  },
+  "Gaborone (Botswana)": {
+    "latitude": -24.6581357,
+    "longitude": 25.9088474
   },
   "Gabrovo (Bulgaria)": {
     "latitude": 42.9638895,
@@ -1811,6 +1823,10 @@
     "latitude": 46.1591126,
     "longitude": -1.1520434
   },
+  "Lafia (Nigeria)": {
+    "latitude": 8.4960459,
+    "longitude": 8.5147636
+  },
   "Lagos (Nigeria)": {
     "latitude": 6.4550575,
     "longitude": 3.3941795
@@ -2458,6 +2474,10 @@
   "Omni La Costa Resort & Spa Carlsbad, California (USA)": {
     "latitude": 33.091985449999996,
     "longitude": -117.26610534145561
+  },
+  "Onitsha (Nigeria)": {
+    "latitude": 6.1461619,
+    "longitude": 6.8019088
   },
   "Opatija (Croatia)": {
     "latitude": 45.3376197,
@@ -3614,6 +3634,10 @@
   "Wroclaw (Poland)": {
     "latitude": 51.1089776,
     "longitude": 17.0326689
+  },
+  "Wrocław (Poland)": {
+    "latitude": 51.1263106,
+    "longitude": 16.9781963
   },
   "Wylie, TX (USA)": {
     "latitude": 33.0151561,
