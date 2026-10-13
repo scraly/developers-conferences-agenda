@@ -1096,6 +1096,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-11: [International Conference on Robotics, Artificial Intelligence and Autonomous Systems](https://icraias2027.com) - Singapore (Singapore)
 * 9-11: [Cybersecurity, AI & Future Digital Infrastructure](https://cyberfuture2027.com) - Singapore (Singapore)
 * 10-11: [AI in Production](https://ai-in-production.jumpingrivers.com) - Newcastle upon Tyne (UK) <a href="https://ai-in-production.jumpingrivers.com/#abstracts"><img alt="CFP AI in Production" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-January-2027&color=green"></a>
+* 14-17: [GopherCon Europe 2027](https://www.gophercon.eu/) - Berlin (Germany) <a href="https://www.gophercon.eu/sponsors/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 15-16: [Accelerate Tomorrow AI Summit](https://www.acceleratetomorrow.com) - Berlin (Germany)
 * 14-24: [Nürnberg Digital Festival](https://nuernberg.digital/de) - Nuremberg (Germany)
 * 16-17: [Data Centre North America](https://datacentrecongress.com/northamerica) - San Jose, CA (USA)
