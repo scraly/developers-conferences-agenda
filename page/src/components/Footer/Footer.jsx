@@ -245,6 +245,20 @@ export const Footer = () => {
               />
               <span className="sponsor-name">superheavy</span>
             </a>
+            <a
+              href="https://github.com/acrudin"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="sponsor-card"
+              title="acrudin"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/48157072?s=52&v=4"
+                alt="acrudin"
+                className="sponsor-avatar"
+              />
+              <span className="sponsor-name">acrudin</span>
+            </a>
           </div>
 
           <p className="become-sponsor-description">

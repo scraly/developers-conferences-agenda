@@ -206,7 +206,7 @@ input[type=text] {
 .become-sponsor {
   margin: 2rem auto 1.5rem;
   padding: 1rem;
-  max-width: 700px;
+  max-width: 780px;
   border: 1px solid var(--border-color);
   border-radius: 8px;
   background: var(--bg-footer);

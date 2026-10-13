@@ -1145,5 +1145,6 @@ The content & the data are licensed under the [CC-BY-NC license](./LICENSE-CONTE
 [![joshleecreates](https://avatars.githubusercontent.com/u/11478793?s=52&v=4)](https://github.com/joshleecreates)
 <a href="https://everythingdevops.io/join-for-free"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQEBW7WR046sPw/company-logo_200_200/company-logo_200_200/0/1738282423099/everythingdevops_logo?e=1793232000&v=beta&t=Dhys0BQdgkr4mBFpwnM6VTwx9e8FUNKDiBxD33K6rgc" alt="EverythingDevOps" width="60" height="60"></a>
 <a href="superheavy.io"><img src="https://superheavy.io/assets/superheavy-logo-D138k3iq.png" alt="superheavy" width="60" height="60"></a>
+[![acrudin](https://avatars.githubusercontent.com/u/48157072?s=52&v=4)](https://github.com/acrudin)
 
 [![Github Sponsors](https://img.shields.io/badge/Sponsor%20developers.events%20!-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/scraly)
