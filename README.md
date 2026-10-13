@@ -1139,6 +1139,7 @@ All the data (past and coming) are available publicly in JSON:
 * 15: [Devopsdays Belo Horizonte](https://devopsdays.org/events/2027-belo-horizonte) - Belo Horizonte (Brazil)
 * 17: [Open Source Summit North America](https://events.linuxfoundation.org/open-source-summit-north-america/) - Vancouver, BC (Canada)
 * 18: [Overture Member Summit](https://events.linuxfoundation.org/overture-member-summit/) - San Juan (Puerto Rico)
+* 20: [Workplace Ninjas 2027](https://wpninjas.no) - Oslo (Norway) <a href="https://sessionize.com/workplace-ninjas-norway-2027/"><img alt="CFP Workplace Ninjas 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-January-2027&color=green"></a> <a href="https://wpninjas.no/sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 20-21: [DevOpsDays Nashville 2027](https://dodnashville.com) - Murfreesboro, TN (USA) <a href="https://sessionize.com/devopsdays-nashville-2027/"><img alt="CFP DevOpsDays Nashville 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2027&color=green"></a> <a href="https://dodnashville.com/sponsors.html"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 24-26: [Planview Connect 2027](https://www.planviewconnect.com/) - San Diego, CA (USA) <a href="https://sessionize.com/planview-connect-2027"><img alt="CFP Planview Connect 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-March-2027&color=green"></a>
 * 24-29: [RustWeek 2027](https://2027.rustweek.org) - Utrecht (Netherlands) <a href="https://sessionize.com/rustweek-2027/"><img alt="CFP RustWeek 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2027&color=green"></a> <a href="https://2027.rustweek.org/#sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
@@ -1170,16 +1171,20 @@ All the data (past and coming) are available publicly in JSON:
 ### July
 
 * 2: [Normandie.ai 2026](https://normandie.ai) - Rouen (France) <a href="https://conference-hall.io/normandie-ai-2026"><img alt="CFP Normandie.ai 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-May-2027&color=green"></a> <a href="https://strapi.normandie.ai/uploads/Dossier_de_Sponsoring_2025_Light_c14c656945.pdf"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
+* 13-14: [Power Summit](https://events.m365-summits.de/PowerSummit1415Juli2026#/) - Online <a href="https://sessionize.com/power-summit-14-15-juli-2026-copy/"><img alt="CFP Power Summit" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-January-2027&color=green"></a>
 * 14-16: [WeAreDevelopers World Congress 2027 - Europe](https://www.wearedevelopers.com/world-congress) - Berlin (Germany)
 
 ### August
 
 * 10-11: [Devopsdays Chicago](https://devopsdays.org/events/2027-chicago) - Chicago, IL (USA)
 * 21: [Devopsdays Curitiba](https://devopsdays.org/events/2027-curitiba) - Curitiba (Brazil)
+* 31-01/09: [DynamicsCon Regional Midwest 2027](https://www.eventbrite.com/e/2000484907209?aff=oddtdtcreator) - Columbus, OH (USA) <a href="https://sessionize.com/dynamicscon-regional-midwest-USA/"><img alt="CFP DynamicsCon Regional Midwest 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2027&color=green"></a> <a href="https://share.hsforms.com/1rvm2GMeFSjOputhUKAOdvQraai5"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 
 ### September
 
+* 9: [Escape 2027](https://escconf.com/) - Johannesburg (South Africa) <a href="https://sessionize.com/escape-2027/"><img alt="CFP Escape 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2027&color=green"></a>
 * 15-17: [Annual Global Summit on Robotics, AI and Machine Learning](https://vividglobalsummits.com/2027/agsrobot) - Rome (Italy)
+* 18: [BSides Kraków 2027](https://bsideskrakow.pl) - Kraków (Poland) <a href="https://sessionize.com/bsides-krakow-2027/"><img alt="CFP BSides Kraków 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2027&color=green"></a>
 * 25: [Devopsdays Cairo](https://devopsdays.org/events/2027-cairo) - Cairo (Egypt)
 * 27: [Civo Navigate 2027](https://www.civo.com/navigate/london/2027) - London (UK) <a href="https://sessionize.com/civo-navigate-london-2027/"><img alt="CFP Civo Navigate 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-November-2026&color=green"></a> <a href="https://www.civo.com/navigate/london/2027/sponsor"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 
