@@ -1475,6 +1475,10 @@
     "latitude": 53.7435722,
     "longitude": -0.3394758
   },
+  "Huntsville, AL (USA)": {
+    "latitude": 34.729847,
+    "longitude": -86.5859011
+  },
   "Hyderabad (India)": {
     "latitude": 17.406498,
     "longitude": 78.47724389999999
@@ -3690,10 +3694,6 @@
   "Zlin (Czechia)": {
     "latitude": 49.226766,
     "longitude": 17.6667415
-  },
-  "Zurich (Germany)": {
-    "latitude": 52.4465937,
-    "longitude": 13.3257359
   },
   "Zurich (Switzerland)": {
     "latitude": 47.3744489,
