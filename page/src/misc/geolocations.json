@@ -1239,6 +1239,10 @@
     "latitude": 35.9553523,
     "longitude": -96.008778
   },
+  "Glenside, PA (USA)": {
+    "latitude": 40.103196,
+    "longitude": -75.1515534
+  },
   "Gliwice (Poland)": {
     "latitude": 50.294113,
     "longitude": 18.6657306
@@ -1654,6 +1658,10 @@
   "Karlsruhe (Germany)": {
     "latitude": 49.0068901,
     "longitude": 8.4036527
+  },
+  "Kassel (Germany)": {
+    "latitude": 51.3157833,
+    "longitude": 9.4978479
   },
   "Kathmandu (Nepal)": {
     "latitude": 27.708317,
@@ -2563,6 +2571,10 @@
     "latitude": 48.811223,
     "longitude": 2.3021311
   },
+  "Park (UK)": {
+    "latitude": 54.865111,
+    "longitude": -7.0807098
+  },
   "Park City, UT (USA)": {
     "latitude": 40.6460622,
     "longitude": -111.4979729
@@ -2639,7 +2651,7 @@
     "latitude": 40.4416941,
     "longitude": -79.9900861
   },
-  "Pituaçu (Salvador)": {
+  "Pituaçu (Brazil)": {
     "latitude": -12.9651749,
     "longitude": -38.4143371
   },
@@ -2926,6 +2938,10 @@
   "Rust (Germany)": {
     "latitude": 48.2659347,
     "longitude": 7.7263213
+  },
+  "Sacramento, CA (USA)": {
+    "latitude": 38.5810606,
+    "longitude": -121.493895
   },
   "Saint Paul, MN (USA)": {
     "latitude": 44.9537029,
