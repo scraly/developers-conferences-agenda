@@ -902,7 +902,7 @@ All the data (past and coming) are available publicly in JSON:
 * 11-12: [DevFest Agreste'26](https://gdg.community.dev/events/details/google-gdg-arapiraca-presents-google-devfest-agreste26-build-secure-and-scale-in-the-agentic-era/) - Arapiraca (Brazil) <a href="https://app.advocu.com/events/6a8bc2e7f9315568f1952916"><img alt="DevFest Agreste" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-October-2026&color=green"></a>
 * 11-12: [DevFest Kinshasa 2026](https://gdg.community.dev/events/details/google-gdg-kinshasa-presents-lancement-du-grand-devfest-kinshasa-2026/) - Kinshasa (Republic of the Congo) <a href="https://sessionize.com/devfest-kinshasa-2026/"><img alt="CFP DevFest Kinshasa 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2026&color=red"></a>
 * 11-12: [Christmas Power Data Platform 2026](https://christmaspowerdataplatform.com/) - Online <a href="https://sessionize.com/christmas-power-data-platform-2026/"><img alt="CFP Christmas Power Data Platform 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2026&color=green"></a>
-* 12: [Devopsdays Recife](https://devopsdays.org/events/2026-recife) - Recife (Brazil)
+* 12: [DevOpsDays Recife 2026](https://talks.devopsdays.org/devopsdays-recife-2026/) - Recife (Brazil) <a href="https://talks.devopsdays.org/devopsdays-recife-2026/cfp"><img alt="CFP DevOpsDays Recife 2026" src="https://img.shields.io/static/v1?label=CFP&message=Closed&color=red"></a>
 * 12: [PyTorch Day China](https://www.lfopensource.cn/pytorch-day-china/) - Beijing (China)
 * 12: [Agile En Med Casablanca 2026](https://agileenmed.com) - Casablanca (Morocco) <a href="https://sessionize.com/agile-en-med-casablanca-20242478/"><img alt="CFP Agile En Med Casablanca 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-October-2026&color=green"></a>
 * 12: [GHI CON](https://gingerhacker.org/) - Online <a href="https://sessionize.com/ghi-con"><img alt="CFP GHI CON" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-August-2026&color=red"></a>
@@ -1057,7 +1057,7 @@ All the data (past and coming) are available publicly in JSON:
 * 17: [ELC Conference](https://elc-conference.io/) - Prague (Czechia)
 * 21: [AiX Conference](https://aixconf.co.uk) - Newcastle upon Tyne (UK)
 * 21-22: [GITEX AI MEDITERRANEAN](https://www.gitexitaly.com) - Rome (Italy)
-* 20-21: [Devopsdays Atlanta](https://devopsdays.org/events/2027-atlanta) - Atlanta, GA (USA)
+* 20-21: [DevOpsDays Atlanta 2027](https://talks.devopsdays.org/devopsdays-atlanta-2027/) - Atlanta, GA (USA) <a href="https://talks.devopsdays.org/devopsdays-atlanta-2027/cfp"><img alt="CFP DevOpsDays Atlanta 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2019-January-2027&color=green"></a>
 * 25-30: [STAREAST 2027](https://stareast.techwell.com/) - Orlando, FL (USA) <a href="https://stareast.techwell.com/speak-stareast"><img alt="CFP STAREAST 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-September-2026&color=red"></a>
 * 26-29: [JCON EUROPE 2027](https://2027.europe.jcon.one) - Köln (Germany) <a href="https://sessionize.com/jcon-europe-2027"><img alt="CFP JCON EUROPE 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-October-2026&color=green"></a>
 * 27: [Linux Storage, Filesystem, MM & BPF Summit](https://events.linuxfoundation.org/lsfmmbpf/) - Porto (Portugal)
