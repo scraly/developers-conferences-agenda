@@ -2871,6 +2871,10 @@
     "latitude": 47.2266239,
     "longitude": 8.818437399999999
   },
+  "Rapperswil-Jona (Switzerland)": {
+    "latitude": 47.229817,
+    "longitude": 8.8597003
+  },
   "Reading (UK)": {
     "latitude": 51.4564242,
     "longitude": -0.9700664
@@ -3678,6 +3682,10 @@
   "Yokohama (Japan)": {
     "latitude": 35.4443947,
     "longitude": 139.6367727
+  },
+  "Yverdon-les-Bains (Switzerland)": {
+    "latitude": 46.7785711,
+    "longitude": 6.6409158
   },
   "Zadar (Croatia)": {
     "latitude": 44.1168594,
