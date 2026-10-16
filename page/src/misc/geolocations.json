@@ -923,6 +923,10 @@
     "latitude": -31.42008329999999,
     "longitude": -64.1887761
   },
+  "Córdoba (Spain)": {
+    "latitude": 37.8845813,
+    "longitude": -4.7760138
+  },
   "Da Nang (Vietnam)": {
     "latitude": 16.068,
     "longitude": 108.212
@@ -3514,6 +3518,10 @@
   "Ukraine": {
     "latitude": 37.9382413,
     "longitude": 58.38798095730337
+  },
+  "Umuahia (Nigeria)": {
+    "latitude": 5.5324032,
+    "longitude": 7.4924165
   },
   "Utrecht (Netherlands)": {
     "latitude": 52.080985600000005,
