@@ -79,6 +79,10 @@
     "latitude": 43.5298424,
     "longitude": 5.4474738
   },
+  "Albacete (Spain)": {
+    "latitude": 38.9950921,
+    "longitude": -1.8559154
+  },
   "Albany, NY (USA)": {
     "latitude": 42.6525793,
     "longitude": -73.7562317
@@ -354,6 +358,10 @@
   "Bellevue, WA (USA)": {
     "latitude": 47.6144219,
     "longitude": -122.192337
+  },
+  "Bellingham, WA (USA)": {
+    "latitude": 48.7544012,
+    "longitude": -122.478836
   },
   "Belo Horizonte (Brazil)": {
     "latitude": -19.919052,
@@ -3410,6 +3418,10 @@
   "Toronto (Canada)": {
     "latitude": 43.6534817,
     "longitude": -79.3839347
+  },
+  "Torremolinos (Spain)": {
+    "latitude": 36.6242841,
+    "longitude": -4.4995448
   },
   "Toulouse (France)": {
     "latitude": 43.6044622,
