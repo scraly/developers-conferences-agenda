@@ -371,6 +371,10 @@
     "latitude": 12.98815675,
     "longitude": 77.62260003796
   },
+  "Beni Suef (Egypt)": {
+    "latitude": 28.8382688,
+    "longitude": 30.8544768
+  },
   "Benidorm (Spain)": {
     "latitude": 38.5411928,
     "longitude": -0.1233831
@@ -730,6 +734,10 @@
   "Chattanooga, TN (USA)": {
     "latitude": 35.0457984,
     "longitude": -85.3093995
+  },
+  "Chelmsford (UK)": {
+    "latitude": 51.7345329,
+    "longitude": 0.4730532
   },
   "Cheltenham (UK)": {
     "latitude": 51.8995685,
