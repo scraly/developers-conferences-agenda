@@ -27,6 +27,10 @@
     "latitude": 52.4143113,
     "longitude": -4.0816846
   },
+  "Abia (Nigeria)": {
+    "latitude": 5.4540953,
+    "longitude": 7.5153071
+  },
   "Abomey-Calavi (Benin)": {
     "latitude": 6.51096225,
     "longitude": 2.3303076367454025
@@ -1311,6 +1315,10 @@
     "latitude": 47.5976972,
     "longitude": -2.7533397586005415
   },
+  "Goma (Republic of the Congo)": {
+    "latitude": -3.4202177,
+    "longitude": 12.3951821
+  },
   "Granada (Spain)": {
     "latitude": 37.1774605,
     "longitude": -3.5984368
@@ -1366,6 +1374,10 @@
   "Gurugram (India)": {
     "latitude": 28.4646148,
     "longitude": 77.0299194
+  },
+  "Gusau (Nigeria)": {
+    "latitude": 12.1658358,
+    "longitude": 6.6606398
   },
   "Gwalior (India)": {
     "latitude": 26.2037247,
@@ -2022,6 +2034,10 @@
   "Luanda (Angola)": {
     "latitude": -8.8272699,
     "longitude": 13.2439512
+  },
+  "Lubumbashi (Democratic Republic of the Congo)": {
+    "latitude": -11.6642316,
+    "longitude": 27.4826264
   },
   "Lucknow (India)": {
     "latitude": 26.8381,
@@ -3730,6 +3746,10 @@
   "Yokohama (Japan)": {
     "latitude": 35.4443947,
     "longitude": 139.6367727
+  },
+  "Yola (Nigeria)": {
+    "latitude": 9.2089255,
+    "longitude": 12.4802485
   },
   "Yverdon-les-Bains (Switzerland)": {
     "latitude": 46.7785711,
