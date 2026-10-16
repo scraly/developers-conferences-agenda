@@ -439,6 +439,10 @@
     "latitude": 43.62685099999999,
     "longitude": 7.09808
   },
+  "Birkirkara (Malta)": {
+    "latitude": 35.8994577,
+    "longitude": 14.4649552
+  },
   "Birmingham (UK)": {
     "latitude": 52.4796992,
     "longitude": -1.9026911
@@ -1707,6 +1711,10 @@
     "latitude": 27.708317,
     "longitude": 85.3205817
   },
+  "Keffi (Nigeria)": {
+    "latitude": 8.8453176,
+    "longitude": 7.876834
+  },
   "Kerala (India)": {
     "latitude": 10.3528744,
     "longitude": 76.5120396
@@ -1750,6 +1758,10 @@
   "Kisii (Kenya)": {
     "latitude": -0.7389425,
     "longitude": 34.7539855
+  },
+  "Kisumu (Kenya)": {
+    "latitude": -0.1029109,
+    "longitude": 34.7541761
   },
   "Kitwe (Zambia)": {
     "latitude": -12.8104186,
@@ -2122,6 +2134,10 @@
   "Maputo (Mozambique)": {
     "latitude": -25.966213,
     "longitude": 32.56745
+  },
+  "Marbella (Spain)": {
+    "latitude": 36.5074781,
+    "longitude": -4.8047219
   },
   "Marburg (Germany)": {
     "latitude": 50.8090106,
@@ -2578,6 +2594,10 @@
   "Oyo State (Nigeria)": {
     "latitude": 8.2151249,
     "longitude": 3.5642897
+  },
+  "Paderborn (Germany)": {
+    "latitude": 51.7177044,
+    "longitude": 8.752653
   },
   "Palaiseau (France)": {
     "latitude": 48.714509,
