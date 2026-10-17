@@ -403,6 +403,10 @@
     "latitude": 38.5411928,
     "longitude": -0.1233831
   },
+  "Benin City (Nigeria)": {
+    "latitude": 6.3330586,
+    "longitude": 5.6221058
+  },
   "Bergamo (Italy)": {
     "latitude": 45.7566557,
     "longitude": 9.7542192
@@ -1298,6 +1302,10 @@
   "Gilbert, AZ (USA)": {
     "latitude": 33.3527632,
     "longitude": -111.789037
+  },
+  "Girona (Spain)": {
+    "latitude": 41.9793006,
+    "longitude": 2.8199439
   },
   "Gladstone (Australia)": {
     "latitude": -23.8431724,
