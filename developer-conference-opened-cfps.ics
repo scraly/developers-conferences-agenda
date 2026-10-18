@@ -2,306 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:DCA
 BEGIN:VEVENT
-UID:Hackumenta 2026@dca-2026
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Kassel (Germany)
-SUMMARY:Hackumenta 2026
-URL:https://talks.hackumenta.de/2026/cfp
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://talks.hack
- umenta.de/2026/cfp\nEvent: https://hackumenta.de/
-END:VEVENT
-BEGIN:VEVENT
-UID:React Conf Ghana 2026@dca-2026
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Accra (Ghana)
-SUMMARY:React Conf Ghana 2026
-URL:https://sessionize.com/react-conf-ghana-2026/
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://sessionize
- .com/react-conf-ghana-2026/\nEvent: https://ghana2026.react.foundation/
-END:VEVENT
-BEGIN:VEVENT
-UID:DevFest Santiago de Compostela 2026@dca-2026
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Santiago de Compostela (Spain)
-SUMMARY:DevFest Santiago de Compostela 2026
-URL:https://sessionize.com/devfest-santiago-de-compostela-2026
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://sessionize
- .com/devfest-santiago-de-compostela-2026\nEvent: https://devfest.gdg-sdc.or
- g/
-END:VEVENT
-BEGIN:VEVENT
-UID:DevCon 2026@dca-2026
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Bucharest (Romania)
-SUMMARY:DevCon 2026
-URL:https://www.papercall.io/devcon2026
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://www.paperc
- all.io/devcon2026\nEvent: https://www.dev-con.ro/
-END:VEVENT
-BEGIN:VEVENT
-UID:Dakar Bitcoin Days 2026@dca-2026
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Dakar (Senegal)
-SUMMARY:Dakar Bitcoin Days 2026
-URL:https://sessionize.com/dakar-bitcoin-days-iv/
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://sessionize
- .com/dakar-bitcoin-days-iv/\nEvent: https://dakarbitcoindays.com
-END:VEVENT
-BEGIN:VEVENT
-UID:DevFest Umuahia 2026@dca-2026
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Umuahia (Nigeria)
-SUMMARY:DevFest Umuahia 2026
-URL:https://app.advocu.com/events/6a7ac262c6826aa25725c3d2
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://app.advocu
- .com/events/6a7ac262c6826aa25725c3d2\nEvent: https://gdg.community.dev/even
- ts/details/google-gdg-umuahia-presents-devfest-umuahia-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:DevFest Córdoba 2026@dca-2026
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Córdoba (Spain)
-SUMMARY:DevFest Córdoba 2026
-URL:https://app.advocu.com/events/6abb79c96e9fde4efc75840b
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://app.advocu
- .com/events/6abb79c96e9fde4efc75840b\nEvent: https://gdg.community.dev/even
- ts/details/google-gdg-cordoba-presents-devfest-cordoba/
-END:VEVENT
-BEGIN:VEVENT
-UID:OWASP Korea Day 2026@dca-2026
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Seoul (South Korea)
-SUMMARY:OWASP Korea Day 2026
-URL:https://sessionize.com/owaspseoul/
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://sessionize
- .com/owaspseoul/\nEvent: https://owaspkr.org/2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:BizTech Conf Online 2026@dca-2026
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Online
-SUMMARY:BizTech Conf Online 2026
-URL:https://sessionize.com/biztech-conf-2026/
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://sessionize
- .com/biztech-conf-2026/\nEvent: https://www.biztechconf.africa/
-END:VEVENT
-BEGIN:VEVENT
-UID:Mountain Camp@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Davos (Switzerland)
-SUMMARY:Mountain Camp
-URL:https://pretalx.com/mountain-camp-2027/cfp
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://pretalx.co
- m/mountain-camp-2027/cfp\nEvent: https://drupalmountaincamp.ch
-END:VEVENT
-BEGIN:VEVENT
-UID:Agentics Day: MCP + Agents Europe@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Barcelona (Spain)
-SUMMARY:Agentics Day: MCP + Agents Europe
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-loc
- ated-events/agentics-day-mcp-agents/#call-for-proposals
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://events.lin
- uxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/agentics-d
- ay-mcp-agents/#call-for-proposals\nEvent: https://events.linuxfoundation.or
- g/kubecon-cloudnativecon-europe/co-located-events/agentics-day-mcp-agents/
-END:VEVENT
-BEGIN:VEVENT
-UID:ArgoCon Europe@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Barcelona (Spain)
-SUMMARY:ArgoCon Europe
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-loc
- ated-events/argocon/#call-for-proposals
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://events.lin
- uxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/argocon/#c
- all-for-proposals\nEvent: https://events.linuxfoundation.org/kubecon-cloudn
- ativecon-europe/co-located-events/argocon/
-END:VEVENT
-BEGIN:VEVENT
-UID:BackstageCon Europe@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Barcelona (Spain)
-SUMMARY:BackstageCon Europe
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-loc
- ated-events/backstagecon/#call-for-proposals
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://events.lin
- uxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/backstagec
- on/#call-for-proposals\nEvent: https://events.linuxfoundation.org/kubecon-c
- loudnativecon-europe/co-located-events/backstagecon/
-END:VEVENT
-BEGIN:VEVENT
-UID:Buildpacks Summit Europe 2027@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Barcelona (Spain)
-SUMMARY:Buildpacks Summit Europe 2027
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-loc
- ated-events/buildpacks-summit/#call-for-proposals
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://events.lin
- uxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/buildpacks
- -summit/#call-for-proposals\nEvent: https://events.linuxfoundation.org/kube
- con-cloudnativecon-europe/co-located-events/buildpacks-summit/
-END:VEVENT
-BEGIN:VEVENT
-UID:CiliumCon Europe@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Barcelona (Spain)
-SUMMARY:CiliumCon Europe
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-loc
- ated-events/ciliumcon/#call-for-proposals
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://events.lin
- uxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/ciliumcon/
- #call-for-proposals\nEvent: https://events.linuxfoundation.org/kubecon-clou
- dnativecon-europe/co-located-events/ciliumcon/
-END:VEVENT
-BEGIN:VEVENT
-UID:Cloud Native AI + Inference Day Europe 2027@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Barcelona (Spain)
-SUMMARY:Cloud Native AI + Inference Day Europe 2027
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-loc
- ated-events/cloud-native-ai-inference-day-europe/#call-for-proposals
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://events.lin
- uxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cloud-nati
- ve-ai-inference-day-europe/#call-for-proposals\nEvent: https://events.linux
- foundation.org/kubecon-cloudnativecon-europe/co-located-events/cloud-native
- -ai-inference-day-europe/
-END:VEVENT
-BEGIN:VEVENT
-UID:FluxCon Europe@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Barcelona (Spain)
-SUMMARY:FluxCon Europe
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-loc
- ated-events/fluxcon/#call-for-proposals
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://events.lin
- uxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/fluxcon/#c
- all-for-proposals\nEvent: https://events.linuxfoundation.org/kubecon-cloudn
- ativecon-europe/co-located-events/fluxcon/
-END:VEVENT
-BEGIN:VEVENT
-UID:KeyCloakCon Europe@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Barcelona (Spain)
-SUMMARY:KeyCloakCon Europe
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-loc
- ated-events/keycloakcon/#call-for-proposals
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://events.lin
- uxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/keycloakco
- n/#call-for-proposals\nEvent: https://events.linuxfoundation.org/kubecon-cl
- oudnativecon-europe/co-located-events/keycloakcon/
-END:VEVENT
-BEGIN:VEVENT
-UID:Kubernetes on Edge Day Europe@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Barcelona (Spain)
-SUMMARY:Kubernetes on Edge Day Europe
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-loc
- ated-events/kubernetes-on-edge-day/#call-for-proposals
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://events.lin
- uxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/kubernetes
- -on-edge-day/#call-for-proposals\nEvent: https://events.linuxfoundation.org
- /kubecon-cloudnativecon-europe/co-located-events/kubernetes-on-edge-day/
-END:VEVENT
-BEGIN:VEVENT
-UID:Observability Day Europe@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Barcelona (Spain)
-SUMMARY:Observability Day Europe
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-loc
- ated-events/observability-day/#call-for-proposals
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://events.lin
- uxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/observabil
- ity-day/#call-for-proposals\nEvent: https://events.linuxfoundation.org/kube
- con-cloudnativecon-europe/co-located-events/observability-day/
-END:VEVENT
-BEGIN:VEVENT
-UID:Open Source SecurityCon Europe@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Barcelona (Spain)
-SUMMARY:Open Source SecurityCon Europe
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-loc
- ated-events/open-source-securitycon/#call-for-proposals
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://events.lin
- uxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/open-sourc
- e-securitycon/#call-for-proposals\nEvent: https://events.linuxfoundation.or
- g/kubecon-cloudnativecon-europe/co-located-events/open-source-securitycon/
-END:VEVENT
-BEGIN:VEVENT
-UID:Open Sovereign AI + Cloud Day Europe 2027@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Barcelona (Spain)
-SUMMARY:Open Sovereign AI + Cloud Day Europe 2027
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-loc
- ated-events/open-sovereign-ai-cloud-day/#call-for-proposals
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://events.lin
- uxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/open-sover
- eign-ai-cloud-day/#call-for-proposals\nEvent: https://events.linuxfoundatio
- n.org/kubecon-cloudnativecon-europe/co-located-events/open-sovereign-ai-clo
- ud-day/
-END:VEVENT
-BEGIN:VEVENT
-UID:OpenTofu Day Europe@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Barcelona (Spain)
-SUMMARY:OpenTofu Day Europe
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-loc
- ated-events/opentofu-day/#call-for-proposals
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://events.lin
- uxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/opentofu-d
- ay/#call-for-proposals\nEvent: https://events.linuxfoundation.org/kubecon-c
- loudnativecon-europe/co-located-events/opentofu-day/
-END:VEVENT
-BEGIN:VEVENT
-UID:Platform Engineering Day Europe@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Barcelona (Spain)
-SUMMARY:Platform Engineering Day Europe
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-loc
- ated-events/platform-engineering-day/#call-for-proposals
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://events.lin
- uxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/platform-e
- ngineering-day/#call-for-proposals\nEvent: https://events.linuxfoundation.o
- rg/kubecon-cloudnativecon-europe/co-located-events/platform-engineering-day
- /
-END:VEVENT
-BEGIN:VEVENT
-UID:AI Con USA 2027@dca-2027
-DTSTAMP:20261017T120040
-DTSTART:20261018
-LOCATION:Seattle, WA (USA)
-SUMMARY:AI Con USA 2027
-URL:https://aiconusa.techwell.com/speak-ai-con-usa
-DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://aiconusa.t
- echwell.com/speak-ai-con-usa\nEvent: https://aiconusa.techwell.com/
-END:VEVENT
-BEGIN:VEVENT
 UID:Testcon@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261019
 LOCATION:Vilnius (Lithuania)
 SUMMARY:Testcon
@@ -311,7 +13,7 @@ DESCRIPTION:CFP Opened Until: 19-October-2026\nCFP Link: https://airtable.c
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Sousse 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261019
 LOCATION:Sousse (Tunisia)
 SUMMARY:DevFest Sousse 2026
@@ -322,7 +24,7 @@ DESCRIPTION:CFP Opened Until: 19-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:Conf42 MLOps 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261019
 LOCATION:Online
 SUMMARY:Conf42 MLOps 2026
@@ -332,7 +34,7 @@ DESCRIPTION:CFP Opened Until: 19-October-2026\nCFP Link: https://www.paperc
 END:VEVENT
 BEGIN:VEVENT
 UID:SciPy India 2026 Conference@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261019
 LOCATION:Chennai (India)
 SUMMARY:SciPy India 2026 Conference
@@ -342,7 +44,7 @@ DESCRIPTION:CFP Opened Until: 19-October-2026\nCFP Link: https://pretalx.co
 END:VEVENT
 BEGIN:VEVENT
 UID:MangaloreFOSS 2.0@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261019
 LOCATION:Mangalore (India)
 SUMMARY:MangaloreFOSS 2.0
@@ -353,7 +55,7 @@ DESCRIPTION:CFP Opened Until: 19-October-2026\nCFP Link: https://fossunited
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Essex 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261020
 LOCATION:Chelmsford (UK)
 SUMMARY:DevFest Essex 2026
@@ -364,7 +66,7 @@ DESCRIPTION:CFP Opened Until: 20-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFestMN@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261020
 LOCATION:Minneapolis, MN (USA)
 SUMMARY:DevFestMN
@@ -374,7 +76,7 @@ DESCRIPTION:CFP Opened Until: 20-October-2026\nCFP Link: https://devfest.mn
 END:VEVENT
 BEGIN:VEVENT
 UID:GDG Ahmedabad DevFest 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261020
 LOCATION:Ahmedabad (India)
 SUMMARY:GDG Ahmedabad DevFest 2026
@@ -385,7 +87,7 @@ DESCRIPTION:CFP Opened Until: 20-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Meetup Ikot Ekpene 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261020
 LOCATION:Ikot Ekpene (Nigeria)
 SUMMARY:DevFest Meetup Ikot Ekpene 2026
@@ -396,7 +98,7 @@ DESCRIPTION:CFP Opened Until: 20-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:GDG Aqaba@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261020
 LOCATION:Aqaba (Jordan)
 SUMMARY:GDG Aqaba
@@ -407,7 +109,7 @@ DESCRIPTION:CFP Opened Until: 20-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:CfgMgmtCamp 2027 Ghent@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261020
 LOCATION:Ghent (Belgium)
 SUMMARY:CfgMgmtCamp 2027 Ghent
@@ -417,7 +119,7 @@ DESCRIPTION:CFP Opened Until: 20-October-2026\nCFP Link: https://cfp.cfgmgm
 END:VEVENT
 BEGIN:VEVENT
 UID:Test Automation Days@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261020
 LOCATION:Hilversum (Netherlands)
 SUMMARY:Test Automation Days
@@ -427,7 +129,7 @@ DESCRIPTION:CFP Opened Until: 20-October-2026\nCFP Link: https://www.testau
 END:VEVENT
 BEGIN:VEVENT
 UID:Digital Workplace Conference 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261020
 LOCATION:Auckland (New Zealand)
 SUMMARY:Digital Workplace Conference 2027
@@ -437,7 +139,7 @@ DESCRIPTION:CFP Opened Until: 20-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DrupalCon Orlando@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261020
 LOCATION:Orlando, FL (USA)
 SUMMARY:DrupalCon Orlando
@@ -447,7 +149,7 @@ DESCRIPTION:CFP Opened Until: 20-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Banjul 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261021
 LOCATION:Banjul (Gambia)
 SUMMARY:DevFest Banjul 2026
@@ -459,7 +161,7 @@ DESCRIPTION:CFP Opened Until: 21-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Bamenda 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261021
 LOCATION:Bamenda (Cameroon)
 SUMMARY:DevFest Bamenda 2026
@@ -470,7 +172,7 @@ DESCRIPTION:CFP Opened Until: 21-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:PHPBenelux@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261021
 LOCATION:Edegem (Belgium)
 SUMMARY:PHPBenelux
@@ -480,7 +182,7 @@ DESCRIPTION:CFP Opened Until: 21-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:PyBeach 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261022
 LOCATION:Santa Monica, CA (USA)
 SUMMARY:PyBeach 2026
@@ -490,7 +192,7 @@ DESCRIPTION:CFP Opened Until: 22-October-2026\nCFP Link: https://pretalx.co
 END:VEVENT
 BEGIN:VEVENT
 UID:Devfest Gaborone 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261022
 LOCATION:Gaborone (Botswana)
 SUMMARY:Devfest Gaborone 2026
@@ -500,7 +202,7 @@ DESCRIPTION:CFP Opened Until: 22-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Beni-Suef@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261022
 LOCATION:Beni Suef (Egypt)
 SUMMARY:DevFest Beni-Suef
@@ -511,7 +213,7 @@ DESCRIPTION:CFP Opened Until: 22-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:Dev Days Students | Madrid@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261023
 LOCATION:Madrid (Spain)
 SUMMARY:Dev Days Students | Madrid
@@ -522,7 +224,7 @@ DESCRIPTION:CFP Opened Until: 23-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Jalingo 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261023
 LOCATION:Jalingo (Nigeria)
 SUMMARY:DevFest Jalingo 2026
@@ -533,7 +235,7 @@ DESCRIPTION:CFP Opened Until: 23-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:BSides Newcastle 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261023
 LOCATION:Newcastle upon Tyne (UK)
 SUMMARY:BSides Newcastle 2026
@@ -543,7 +245,7 @@ DESCRIPTION:CFP Opened Until: 23-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Voxxed Days Ticino@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261023
 LOCATION:Lugano (Switzerland)
 SUMMARY:Voxxed Days Ticino
@@ -553,7 +255,7 @@ DESCRIPTION:CFP Opened Until: 23-October-2026\nCFP Link: https://vdt27.cfp.
 END:VEVENT
 BEGIN:VEVENT
 UID:Voxxed Days CERN@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261023
 LOCATION:Geneva (Switzerland)
 SUMMARY:Voxxed Days CERN
@@ -563,7 +265,7 @@ DESCRIPTION:CFP Opened Until: 23-October-2026\nCFP Link: https://vdcern27.c
 END:VEVENT
 BEGIN:VEVENT
 UID:Voxxed Days Zurich@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261023
 LOCATION:Zurich (Switzerland)
 SUMMARY:Voxxed Days Zurich
@@ -573,7 +275,7 @@ DESCRIPTION:CFP Opened Until: 23-October-2026\nCFP Link: https://vdz27.cfp.
 END:VEVENT
 BEGIN:VEVENT
 UID:Adaptive Organizations meet Architecture@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261023
 LOCATION:Berlin (Germany)
 SUMMARY:Adaptive Organizations meet Architecture
@@ -583,7 +285,7 @@ DESCRIPTION:CFP Opened Until: 23-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Onitsha 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261024
 LOCATION:Onitsha (Nigeria)
 SUMMARY:DevFest Onitsha 2026
@@ -594,7 +296,7 @@ DESCRIPTION:CFP Opened Until: 24-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Kocaeli 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261024
 LOCATION:Izmit (Turkey)
 SUMMARY:DevFest Kocaeli 2026
@@ -605,7 +307,7 @@ DESCRIPTION:CFP Opened Until: 24-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:VCFTechcon 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261024
 LOCATION:Bunnik (Netherlands)
 SUMMARY:VCFTechcon 2026
@@ -615,7 +317,7 @@ DESCRIPTION:CFP Opened Until: 24-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:NET Conference 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261024
 LOCATION:Milan (Italy)
 SUMMARY:NET Conference 2026
@@ -625,7 +327,7 @@ DESCRIPTION:CFP Opened Until: 24-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:KEYCLOAK DevDay 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261024
 LOCATION:Darmstadt (Germany)
 SUMMARY:KEYCLOAK DevDay 2027
@@ -635,7 +337,7 @@ DESCRIPTION:CFP Opened Until: 24-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:openEuler Summit 2026 - 技术沙龙@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261025
 LOCATION:Beijing (China)
 SUMMARY:openEuler Summit 2026 - 技术沙龙
@@ -646,7 +348,7 @@ DESCRIPTION:CFP Opened Until: 25-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:PWNORDIE 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261025
 LOCATION:Quito (Ecuador)
 SUMMARY:PWNORDIE 2026
@@ -656,7 +358,7 @@ DESCRIPTION:CFP Opened Until: 25-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Dakar 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261025
 LOCATION:Dakar (Senegal)
 SUMMARY:DevFest Dakar 2026
@@ -668,7 +370,7 @@ DESCRIPTION:CFP Opened Until: 25-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:Devfest Mumbai 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261025
 LOCATION:Mumbai (India)
 SUMMARY:Devfest Mumbai 2026
@@ -678,7 +380,7 @@ DESCRIPTION:CFP Opened Until: 25-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Yocto Project Summit 2026.12@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261026
 LOCATION:Online
 SUMMARY:Yocto Project Summit 2026.12
@@ -689,7 +391,7 @@ DESCRIPTION:CFP Opened Until: 26-October-2026\nCFP Link: https://pretalx.co
 END:VEVENT
 BEGIN:VEVENT
 UID:PyCascades@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261026
 LOCATION:Seattle, WA (USA)
 SUMMARY:PyCascades
@@ -699,7 +401,7 @@ DESCRIPTION:CFP Opened Until: 26-October-2026\nCFP Link: https://pretalx.co
 END:VEVENT
 BEGIN:VEVENT
 UID:Apidays Australia@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261027
 LOCATION:Melbourne (Australia)
 SUMMARY:Apidays Australia
@@ -709,7 +411,7 @@ DESCRIPTION:CFP Opened Until: 27-October-2026\nCFP Link: https://apidays.ty
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Marbella 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261027
 LOCATION:Marbella (Spain)
 SUMMARY:DevFest Marbella 2026
@@ -721,7 +423,7 @@ DESCRIPTION:CFP Opened Until: 27-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest × SunHacks ASU 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261028
 LOCATION:Tempe, AZ (USA)
 SUMMARY:DevFest × SunHacks ASU 2026
@@ -732,7 +434,7 @@ DESCRIPTION:CFP Opened Until: 28-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Paderborn 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261030
 LOCATION:Paderborn (Germany)
 SUMMARY:DevFest Paderborn 2026
@@ -743,7 +445,7 @@ DESCRIPTION:CFP Opened Until: 30-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Jaén 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261030
 LOCATION:Jaén (Spain)
 SUMMARY:DevFest Jaén 2026
@@ -754,7 +456,7 @@ DESCRIPTION:CFP Opened Until: 30-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:Data Pulse 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261030
 LOCATION:Reading (UK)
 SUMMARY:Data Pulse 2026
@@ -764,7 +466,7 @@ DESCRIPTION:CFP Opened Until: 30-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DistrictCon@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261030
 LOCATION:Washington, DC (USA)
 SUMMARY:DistrictCon
@@ -774,7 +476,7 @@ DESCRIPTION:CFP Opened Until: 30-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Trends in Testing 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261030
 LOCATION:Online
 SUMMARY:Trends in Testing 2026
@@ -785,7 +487,7 @@ DESCRIPTION:CFP Opened Until: 301-October-2026\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:NAVIGATE 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261030
 LOCATION:Online
 SUMMARY:NAVIGATE 2027
@@ -795,7 +497,7 @@ DESCRIPTION:CFP Opened Until: 30-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:JCON EUROPE 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261030
 LOCATION:Köln (Germany)
 SUMMARY:JCON EUROPE 2027
@@ -805,7 +507,7 @@ DESCRIPTION:CFP Opened Until: 30-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Malta 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Birkirkara (Malta)
 SUMMARY:DevFest Malta 2026
@@ -816,7 +518,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Atyrau 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Atyrau (Kazakhstan)
 SUMMARY:DevFest Atyrau 2026
@@ -828,7 +530,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:BC Day Dubai 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Dubai (United Arab Emirates)
 SUMMARY:BC Day Dubai 2026
@@ -838,7 +540,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Community Days 2026 Guadalajara@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Guadalajara (Mexico)
 SUMMARY:Community Days 2026 Guadalajara
@@ -849,7 +551,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Armenia 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Yerevan (Armenia)
 SUMMARY:DevFest Armenia 2026
@@ -860,7 +562,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Johannesburg 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Johannesburg (South Africa)
 SUMMARY:DevFest Johannesburg 2026
@@ -871,7 +573,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Kumasi 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Kumasi (Ghana)
 SUMMARY:DevFest Kumasi 2026
@@ -882,7 +584,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Stuttgart 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Stuttgart (Germany)
 SUMMARY:DevFest Stuttgart 2026
@@ -893,7 +595,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Yaoundé 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Yaoundé (Cameroon)
 SUMMARY:DevFest Yaoundé 2026
@@ -904,7 +606,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Barcelona 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Barcelona (Spain)
 SUMMARY:DevFest Barcelona 2026
@@ -915,7 +617,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:Build It Summit@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Paris (France)
 SUMMARY:Build It Summit
@@ -925,7 +627,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://builditsum
 END:VEVENT
 BEGIN:VEVENT
 UID:Non Profit Community Day Spain 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Madrid (Spain)
 SUMMARY:Non Profit Community Day Spain 2026
@@ -936,7 +638,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Aix 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Aix-en-Provence (France)
 SUMMARY:DevFest Aix 2026
@@ -948,7 +650,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://app.advocu
 END:VEVENT
 BEGIN:VEVENT
 UID:BSides Birmingham 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Birmingham, AL (USA)
 SUMMARY:BSides Birmingham 2026
@@ -959,7 +661,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://pretalx.co
 END:VEVENT
 BEGIN:VEVENT
 UID:Cyber AI & Automation Summit 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Online
 SUMMARY:Cyber AI & Automation Summit 2026
@@ -970,7 +672,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:XmasDev 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Rome (Italy)
 SUMMARY:XmasDev 2026
@@ -980,7 +682,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Christmas Power Data Platform 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Online
 SUMMARY:Christmas Power Data Platform 2026
@@ -991,7 +693,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Agile En Med Casablanca 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Casablanca (Morocco)
 SUMMARY:Agile En Med Casablanca 2026
@@ -1001,7 +703,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:ParisTestconf@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Paris (France)
 SUMMARY:ParisTestconf
@@ -1011,7 +713,7 @@ DESCRIPTION:CFP Opened Until: 31October-2026\nCFP Link: https://sessionize.
 END:VEVENT
 BEGIN:VEVENT
 UID:Swiss Testing Day 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Zurich (Switzerland)
 SUMMARY:Swiss Testing Day 2027
@@ -1021,7 +723,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:MODERN ENDPOINT MANAGEMENT EMEA SUMMIT 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Paris (France)
 SUMMARY:MODERN ENDPOINT MANAGEMENT EMEA SUMMIT 2027
@@ -1031,7 +733,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Digital Crafts Day 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Weiden in der Oberpfalz (Germany)
 SUMMARY:Digital Crafts Day 2027
@@ -1042,7 +744,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Java Day Istanbul@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Istanbul (Turkey)
 SUMMARY:Java Day Istanbul
@@ -1052,7 +754,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://bilgi711.w
 END:VEVENT
 BEGIN:VEVENT
 UID:PHP Tek@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261031
 LOCATION:Chicago, IL (USA)
 SUMMARY:PHP Tek
@@ -1062,7 +764,7 @@ DESCRIPTION:CFP Opened Until: 31-October-2026\nCFP Link: https://cfp.phptek
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Berlin 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261101
 LOCATION:Berlin (Germany)
 SUMMARY:DevFest Berlin 2026
@@ -1072,7 +774,7 @@ DESCRIPTION:CFP Opened Until: 01-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Guadalajara 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261101
 LOCATION:Guadalajara (Mexico)
 SUMMARY:DevFest Guadalajara 2026
@@ -1083,7 +785,7 @@ DESCRIPTION:CFP Opened Until: 01-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:Devfest Douala 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261101
 LOCATION:Douala (Cameroon)
 SUMMARY:Devfest Douala 2026
@@ -1093,7 +795,7 @@ DESCRIPTION:CFP Opened Until: 01-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Nortão 2026 - Mato Grosso@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261101
 LOCATION:Sinop (Brazil)
 SUMMARY:DevFest Nortão 2026 - Mato Grosso
@@ -1104,7 +806,7 @@ DESCRIPTION:CFP Opened Until: 01-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Luanda@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261101
 LOCATION:Luanda (Angola)
 SUMMARY:DevFest Luanda
@@ -1115,7 +817,7 @@ DESCRIPTION:CFP Opened Until: 01-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:AI Conf Asia@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261101
 LOCATION:Kathmandu (Nepal)
 SUMMARY:AI Conf Asia
@@ -1125,7 +827,7 @@ DESCRIPTION:CFP Opened Until: 01-November-2026\nCFP Link: https://aiconf.as
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest London 2026@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261101
 LOCATION:London (UK)
 SUMMARY:DevFest London 2026
@@ -1138,7 +840,7 @@ DESCRIPTION:CFP Opened Until: 01-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:Touraine Tech 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261101
 LOCATION:Tours (France)
 SUMMARY:Touraine Tech 2027
@@ -1148,7 +850,7 @@ DESCRIPTION:CFP Opened Until: 01-November-2026\nCFP Link: https://conferenc
 END:VEVENT
 BEGIN:VEVENT
 UID:FOSSGIS-Konferenz 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261101
 LOCATION:Heidelberg (Germany)
 SUMMARY:FOSSGIS-Konferenz 2027
@@ -1158,7 +860,7 @@ DESCRIPTION:CFP Opened Until: 01-November-2026\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:JSWorld Conference@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261101
 LOCATION:Amsterdam (Netherlands)
 SUMMARY:JSWorld Conference
@@ -1168,7 +870,7 @@ DESCRIPTION:CFP Opened Until: 01-November-2026\nCFP Link: https://tally.so/
 END:VEVENT
 BEGIN:VEVENT
 UID:Southern California Linux Expo - SCaLE 24x@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261101
 LOCATION:Pasadena, CA (USA)
 SUMMARY:Southern California Linux Expo - SCaLE 24x
@@ -1178,7 +880,7 @@ DESCRIPTION:CFP Opened Until: 01-November-2026\nCFP Link: https://www.socal
 END:VEVENT
 BEGIN:VEVENT
 UID:DevOpsDays Los Angeles 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261101
 LOCATION:Los Angeles, CA (USA)
 SUMMARY:DevOpsDays Los Angeles 2027
@@ -1190,7 +892,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Apac Microsoft Fabric + Microsoft SQL Community Conference 2027@dca-202
  7
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261101
 LOCATION:Sydney (Australia)
 SUMMARY:Apac Microsoft Fabric + Microsoft SQL Community Conference 2027
@@ -1201,7 +903,7 @@ DESCRIPTION:CFP Opened Until: 01-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Transform Together 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261101
 LOCATION:Leipzig (Germany)
 SUMMARY:Transform Together 2027
@@ -1212,7 +914,7 @@ DESCRIPTION:CFP Opened Until: 01-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Conf42: Chaos Engineering 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261102
 LOCATION:Online
 SUMMARY:Conf42: Chaos Engineering 2026
@@ -1222,7 +924,7 @@ DESCRIPTION:CFP Opened Until: 02-November-2026\nCFP Link: https://www.paper
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Aba 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261102
 LOCATION:Abia (Nigeria)
 SUMMARY:DevFest Aba 2026
@@ -1233,7 +935,7 @@ DESCRIPTION:CFP Opened Until: 02-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:AlpOSS 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261102
 LOCATION:Echirolles (France)
 SUMMARY:AlpOSS 2027
@@ -1243,7 +945,7 @@ DESCRIPTION:CFP Opened Until: 02-November-2026\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:BOB 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261102
 LOCATION:Berlin (Germany)
 SUMMARY:BOB 2027
@@ -1253,7 +955,7 @@ DESCRIPTION:CFP Opened Until: 02-November-2026\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:Devfest Strasbourg@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261102
 LOCATION:Strasbourg (France)
 SUMMARY:Devfest Strasbourg
@@ -1263,7 +965,7 @@ DESCRIPTION:CFP Opened Until: 02-November-2026\nCFP Link: https://conferenc
 END:VEVENT
 BEGIN:VEVENT
 UID:Voice Agents Forum@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261105
 LOCATION:San Francisco, CA (USA) & Online
 SUMMARY:Voice Agents Forum
@@ -1273,7 +975,7 @@ DESCRIPTION:CFP Opened Until: 05-November-2026\nCFP Link: https://aaif.live
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Kosova 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261105
 LOCATION:Pristina (Kosovo)
 SUMMARY:DevFest Kosova 2026
@@ -1284,7 +986,7 @@ DESCRIPTION:CFP Opened Until: 05-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Cochabamba 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261105
 LOCATION:Cochabamba (Bolivia)
 SUMMARY:DevFest Cochabamba 2026
@@ -1295,7 +997,7 @@ DESCRIPTION:CFP Opened Until: 05-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest George Town 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261106
 LOCATION:George Town (Malaysia)
 SUMMARY:DevFest George Town 2026
@@ -1306,7 +1008,7 @@ DESCRIPTION:CFP Opened Until: 06-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:Colorado Applied Machine Learning Mini Conference 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261107
 LOCATION:Denver, CO (USA)
 SUMMARY:Colorado Applied Machine Learning Mini Conference 2026
@@ -1317,7 +1019,7 @@ DESCRIPTION:CFP Opened Until: 07-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Analytics and Data Summit 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261107
 LOCATION:Redwood Shores, CA (USA)
 SUMMARY:Analytics and Data Summit 2027
@@ -1327,7 +1029,7 @@ DESCRIPTION:CFP Opened Until: 07-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Reality Check - Delhi Edition@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261108
 LOCATION:New Delhi (India)
 SUMMARY:Reality Check - Delhi Edition
@@ -1338,7 +1040,7 @@ DESCRIPTION:CFP Opened Until: 08-November-2026\nCFP Link: https://www.commu
 END:VEVENT
 BEGIN:VEVENT
 UID:FOSS Backstage 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261108
 LOCATION:Berlin (Germany)
 SUMMARY:FOSS Backstage 2027
@@ -1348,7 +1050,7 @@ DESCRIPTION:CFP Opened Until: 08-November-2026\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Lafia 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261110
 LOCATION:Lafia (Nigeria)
 SUMMARY:DevFest Lafia 2026
@@ -1359,7 +1061,7 @@ DESCRIPTION:CFP Opened Until: 10-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest South London 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261110
 LOCATION:London (UK)
 SUMMARY:DevFest South London 2026
@@ -1371,7 +1073,7 @@ DESCRIPTION:CFP Opened Until: 10-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Cloud Jakarta 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261110
 LOCATION:Jakarta (Indonesia)
 SUMMARY:DevFest Cloud Jakarta 2026
@@ -1382,7 +1084,7 @@ DESCRIPTION:CFP Opened Until: 10-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:OSSFE 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261111
 LOCATION:Madison, WI (USA)
 SUMMARY:OSSFE 2027
@@ -1392,7 +1094,7 @@ DESCRIPTION:CFP Opened Until: 11-November-2026\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Lubumbashi 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261112
 LOCATION:Lubumbashi (Democratic Republic of the Congo)
 SUMMARY:DevFest Lubumbashi 2026
@@ -1403,7 +1105,7 @@ DESCRIPTION:CFP Opened Until: 12-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:.NET Saturday 2027 Pordenone@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261112
 LOCATION:Pordenone (Italy)
 SUMMARY:.NET Saturday 2027 Pordenone
@@ -1413,7 +1115,7 @@ DESCRIPTION:CFP Opened Until: 12-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Bsides Limburg 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261112
 LOCATION:Hasselt (Belgium)
 SUMMARY:Bsides Limburg 2027
@@ -1423,7 +1125,7 @@ DESCRIPTION:CFP Opened Until: 12-November-2026\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:ffconf@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261113
 LOCATION:Brighton (UK)
 SUMMARY:ffconf
@@ -1435,7 +1137,7 @@ DESCRIPTION:CFP Opened Until: 13-November-2026\nCFP Link: https://docs.goog
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Thessaloniki 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261113
 LOCATION:Thessaloniki (Greece)
 SUMMARY:DevFest Thessaloniki 2026
@@ -1446,7 +1148,7 @@ DESCRIPTION:CFP Opened Until: 13-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:ILA Women and Leadership Conference 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261113
 LOCATION:Saint Paul, MN (USA)
 SUMMARY:ILA Women and Leadership Conference 2027
@@ -1457,7 +1159,7 @@ DESCRIPTION:CFP Opened Until: 13-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:PyCon Hong Kong 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261114
 LOCATION:Hong Kong (Hong Kong)
 SUMMARY:PyCon Hong Kong 2026
@@ -1467,7 +1169,7 @@ DESCRIPTION:CFP Opened Until: 14-November-2026\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest New Cairo '26@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261114
 LOCATION:New Cairo 1 (Egypt)
 SUMMARY:DevFest New Cairo '26
@@ -1478,7 +1180,7 @@ DESCRIPTION:CFP Opened Until: 14-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:Data Saturday 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261114
 LOCATION:Kongens Lyngby (Denmark)
 SUMMARY:Data Saturday 2027
@@ -1489,7 +1191,7 @@ DESCRIPTION:CFP Opened Until: 14-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:PyDay SDQ 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261115
 LOCATION:Santo Domingo (Dominican Republic)
 SUMMARY:PyDay SDQ 2026
@@ -1499,7 +1201,7 @@ DESCRIPTION:CFP Opened Until: 15-November-2026\nCFP Link: https://www.paper
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest 2026: Nova Scotia Edition@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261115
 LOCATION:Halifax, NS (Canada)
 SUMMARY:DevFest 2026: Nova Scotia Edition
@@ -1510,7 +1212,7 @@ DESCRIPTION:CFP Opened Until: 15-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:Devfest Pune 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261115
 LOCATION:Pune (India)
 SUMMARY:Devfest Pune 2026
@@ -1520,7 +1222,7 @@ DESCRIPTION:CFP Opened Until: 15-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Istanbul 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261115
 LOCATION:Şişli (Turkey)
 SUMMARY:DevFest Istanbul 2026
@@ -1531,7 +1233,7 @@ DESCRIPTION:CFP Opened Until: 15-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:Drupal 4 Gov 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261115
 LOCATION:Brussels (Belgium)
 SUMMARY:Drupal 4 Gov 2027
@@ -1541,7 +1243,7 @@ DESCRIPTION:CFP Opened Until: 15-November-2026\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:BSides Tirol@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261115
 LOCATION:Innsbruck (Austria)
 SUMMARY:BSides Tirol
@@ -1551,7 +1253,7 @@ DESCRIPTION:CFP Opened Until: 15-November-2026\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:Adaptive Organizations meet Architecture 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261115
 LOCATION:Berlin (Germany)
 SUMMARY:Adaptive Organizations meet Architecture 2027
@@ -1562,7 +1264,7 @@ DESCRIPTION:CFP Opened Until: 15-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:HalfStack Vienna@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261116
 LOCATION:Vienna (Austria)
 SUMMARY:HalfStack Vienna
@@ -1572,7 +1274,7 @@ DESCRIPTION:CFP Opened Until: 16-November-2026\nCFP Link: https://halfstack
 END:VEVENT
 BEGIN:VEVENT
 UID:FOSDEM 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261116
 LOCATION:Brussels (Belgium)
 SUMMARY:FOSDEM 2027
@@ -1582,7 +1284,7 @@ DESCRIPTION:CFP Opened Until: 16-November-2026\nCFP Link: https://fosdem.or
 END:VEVENT
 BEGIN:VEVENT
 UID:F2 - Future of Fintech 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261118
 LOCATION:Zagreb (Croatia)
 SUMMARY:F2 - Future of Fintech 2026
@@ -1592,7 +1294,7 @@ DESCRIPTION:CFP Opened Until: 18-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:INTED@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261119
 LOCATION:Valencia (Spain)
 SUMMARY:INTED
@@ -1602,7 +1304,7 @@ DESCRIPTION:CFP Opened Until: 19-November-2026\nCFP Link: https://iated.org
 END:VEVENT
 BEGIN:VEVENT
 UID:ARIA Community@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261120
 LOCATION:Online
 SUMMARY:ARIA Community
@@ -1612,7 +1314,7 @@ DESCRIPTION:CFP Opened Until: 20-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Singapore 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261120
 LOCATION:Singapore (Singapore)
 SUMMARY:DevFest Singapore 2026
@@ -1622,7 +1324,7 @@ DESCRIPTION:CFP Opened Until: 20-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Apres-Cyber Slopes Summit 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261120
 LOCATION:Park City, UT (USA)
 SUMMARY:Apres-Cyber Slopes Summit 2027
@@ -1632,7 +1334,7 @@ DESCRIPTION:CFP Opened Until: 20-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:FABCON 2027 & SQLCON 2027 - SESSIONS@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261122
 LOCATION:Atlanta, GA (USA)
 SUMMARY:FABCON 2027 & SQLCON 2027 - SESSIONS
@@ -1642,7 +1344,7 @@ DESCRIPTION:CFP Opened Until: 22-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Nantes 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261122
 LOCATION:Nantes (France)
 SUMMARY:DevFest Nantes 2027
@@ -1652,7 +1354,7 @@ DESCRIPTION:CFP Opened Until: 22-November-2026\nCFP Link: https://conferenc
 END:VEVENT
 BEGIN:VEVENT
 UID:Big Data Europe@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261123
 LOCATION:Vilnius (Lithuania)
 SUMMARY:Big Data Europe
@@ -1663,7 +1365,7 @@ DESCRIPTION:CFP Opened Until: 23-November-2026\nCFP Link: https://airtable.
 END:VEVENT
 BEGIN:VEVENT
 UID:Programmable 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261127
 LOCATION:Melbourne (Australia)
 SUMMARY:Programmable 2027
@@ -1673,7 +1375,7 @@ DESCRIPTION:CFP Opened Until: 27-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Programmable Sydney 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261127
 LOCATION:Sydney (Australia)
 SUMMARY:Programmable Sydney 2027
@@ -1683,7 +1385,7 @@ DESCRIPTION:CFP Opened Until: 27-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest 2026 Ahlen@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261128
 LOCATION:Ahlen (Germany)
 SUMMARY:DevFest 2026 Ahlen
@@ -1694,7 +1396,7 @@ DESCRIPTION:CFP Opened Until: 28-November-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:Embedded Testing 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261129
 LOCATION:Munich (Germany)
 SUMMARY:Embedded Testing 2027
@@ -1704,7 +1406,7 @@ DESCRIPTION:CFP Opened Until: 29-November-2026\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:Infra Friday 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261129
 LOCATION:Pordenone (Italy)
 SUMMARY:Infra Friday 2027
@@ -1714,7 +1416,7 @@ DESCRIPTION:CFP Opened Until: 29-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:HACK Conference 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261129
 LOCATION:Seoul (South Korea)
 SUMMARY:HACK Conference 2027
@@ -1724,7 +1426,7 @@ DESCRIPTION:CFP Opened Until: 29-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Apidays Paris@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261130
 LOCATION:Paris (France)
 SUMMARY:Apidays Paris
@@ -1734,7 +1436,7 @@ DESCRIPTION:CFP Opened Until: 30-November-2026\nCFP Link: https://apidays.t
 END:VEVENT
 BEGIN:VEVENT
 UID:"12 Reasons Why" with Tech Experts  - Season 2@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261130
 LOCATION:Online
 SUMMARY:"12 Reasons Why" with Tech Experts  - Season 2
@@ -1745,7 +1447,7 @@ DESCRIPTION:CFP Opened Until: 30-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Power Platform Days Barcelona 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261130
 LOCATION:Online
 SUMMARY:Power Platform Days Barcelona 2026
@@ -1755,7 +1457,7 @@ DESCRIPTION:CFP Opened Until: 30-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:MySQL Belgian Days 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261130
 LOCATION:Brussels (Belgium)
 SUMMARY:MySQL Belgian Days 2027
@@ -1766,7 +1468,7 @@ DESCRIPTION:CFP Opened Until: 30-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:AzureDay 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261130
 LOCATION:Warsaw (Poland)
 SUMMARY:AzureDay 2027
@@ -1776,7 +1478,7 @@ DESCRIPTION:CFP Opened Until: 30-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:dxday AI Edition 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261130
 LOCATION:Bologna (Italy)
 SUMMARY:dxday AI Edition 2027
@@ -1786,7 +1488,7 @@ DESCRIPTION:CFP Opened Until: 30-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:TokioConf 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261130
 LOCATION:Portland, OR (USA)
 SUMMARY:TokioConf 2027
@@ -1796,7 +1498,7 @@ DESCRIPTION:CFP Opened Until: 30-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Connect+ 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261130
 LOCATION:Orlando, FL (USA)
 SUMMARY:Connect+ 2027
@@ -1806,7 +1508,7 @@ DESCRIPTION:CFP Opened Until: 30-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Experts Live UK 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261130
 LOCATION:London (UK)
 SUMMARY:Experts Live UK 2027
@@ -1816,7 +1518,7 @@ DESCRIPTION:CFP Opened Until: 30-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Craft Conference 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261130
 LOCATION:Budapest (Hungary)
 SUMMARY:Craft Conference 2027
@@ -1826,7 +1528,7 @@ DESCRIPTION:CFP Opened Until: 30-November-2026\nCFP Link: https://craft-con
 END:VEVENT
 BEGIN:VEVENT
 UID:Civo Navigate 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261130
 LOCATION:London (UK)
 SUMMARY:Civo Navigate 2027
@@ -1837,7 +1539,7 @@ DESCRIPTION:CFP Opened Until: 30-November-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Libreville 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261201
 LOCATION:Libreville (Gabon)
 SUMMARY:DevFest Libreville 2026
@@ -1849,7 +1551,7 @@ DESCRIPTION:CFP Opened Until: 01-December-2026\nCFP Link: https://app.advoc
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Kigali 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261201
 LOCATION:Kigali (Rwanda)
 SUMMARY:DevFest Kigali 2026
@@ -1861,7 +1563,7 @@ DESCRIPTION:CFP Opened Until: 01-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:ContainerDays & AI Context London 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261201
 LOCATION:London (UK)
 SUMMARY:ContainerDays & AI Context London 2027
@@ -1872,7 +1574,7 @@ DESCRIPTION:CFP Opened Until: 01-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Maintainer Summit: KubeCon + CloudNativeCon Europe 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261201
 LOCATION:Barcelona (Spain)
 SUMMARY:Maintainer Summit: KubeCon + CloudNativeCon Europe 2027
@@ -1883,7 +1585,7 @@ DESCRIPTION:CFP Opened Until: 01-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Printemps Agile 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261201
 LOCATION:Caen (France)
 SUMMARY:Printemps Agile 2027
@@ -1893,7 +1595,7 @@ DESCRIPTION:CFP Opened Until: 01-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Voxxed Days Amsterdam@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261201
 LOCATION:Amsterdam (Netherlands)
 SUMMARY:Voxxed Days Amsterdam
@@ -1903,7 +1605,7 @@ DESCRIPTION:CFP Opened Until: 01-December-2026\nCFP Link: https://amsterdam
 END:VEVENT
 BEGIN:VEVENT
 UID:SeaQL 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261201
 LOCATION:Ouddorp (Netherlands)
 SUMMARY:SeaQL 2027
@@ -1913,7 +1615,7 @@ DESCRIPTION:CFP Opened Until: 01-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:EUCtech 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261201
 LOCATION:Billund (Denmark)
 SUMMARY:EUCtech 2027
@@ -1924,7 +1626,7 @@ DESCRIPTION:CFP Opened Until: 01-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:DevFest Bujumbura 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261205
 LOCATION:Bujumbura (Burundi)
 SUMMARY:DevFest Bujumbura 2026
@@ -1935,7 +1637,7 @@ DESCRIPTION:CFP Opened Until: 05-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Autoresearch Berlin Conference@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261205
 LOCATION:Berlin (Germany)
 SUMMARY:Autoresearch Berlin Conference
@@ -1946,7 +1648,7 @@ DESCRIPTION:CFP Opened Until: 05-December-2026\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:M365 Summit 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261205
 LOCATION:Online
 SUMMARY:M365 Summit 2027
@@ -1957,7 +1659,7 @@ DESCRIPTION:CFP Opened Until: 05-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Open Community Experience@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261206
 LOCATION:Brussels (Belgium)
 SUMMARY:Open Community Experience
@@ -1967,7 +1669,7 @@ DESCRIPTION:CFP Opened Until: 06-December-2026\nCFP Link: https://ocxconf.o
 END:VEVENT
 BEGIN:VEVENT
 UID:DevSum 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261208
 LOCATION:Stockholm (Sweden)
 SUMMARY:DevSum 2027
@@ -1977,7 +1679,7 @@ DESCRIPTION:CFP Opened Until: 08-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:PyTexas 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261211
 LOCATION:Austin, TX (USA)
 SUMMARY:PyTexas 2027
@@ -1987,7 +1689,7 @@ DESCRIPTION:CFP Opened Until: 11-December-2026\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:APE 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261212
 LOCATION:Apenheul (Netherlands)
 SUMMARY:APE 2026
@@ -1997,7 +1699,7 @@ DESCRIPTION:CFP Opened Until: 12-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:dataMinds Saturday 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261213
 LOCATION:Mechelen (Belgium)
 SUMMARY:dataMinds Saturday 2027
@@ -2007,7 +1709,7 @@ DESCRIPTION:CFP Opened Until: 13-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Incontro DevOps Italia (IDI) 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261213
 LOCATION:Bologna (Italy)
 SUMMARY:Incontro DevOps Italia (IDI) 2027
@@ -2017,7 +1719,7 @@ DESCRIPTION:CFP Opened Until: 13-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Webdevcon@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261213
 LOCATION:Amsterdam (Netherlands)
 SUMMARY:Webdevcon
@@ -2027,7 +1729,7 @@ DESCRIPTION:CFP Opened Until: 13-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:phpday 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261213
 LOCATION:Verona (Italy)
 SUMMARY:phpday 2027
@@ -2037,7 +1739,7 @@ DESCRIPTION:CFP Opened Until: 13-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Eventos Albacete 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261215
 LOCATION:Albacete (Spain)
 SUMMARY:Eventos Albacete 2026
@@ -2048,7 +1750,7 @@ DESCRIPTION:CFP Opened Until: 15-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Global Power Platform Bootcamp Barcelona 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261215
 LOCATION:Barcelona (Spain)
 SUMMARY:Global Power Platform Bootcamp Barcelona 2027
@@ -2059,7 +1761,7 @@ DESCRIPTION:CFP Opened Until: 15-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:ContainerDays AI Context Warsaw 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261215
 LOCATION:Warsaw (Poland)
 SUMMARY:ContainerDays AI Context Warsaw 2027
@@ -2070,7 +1772,7 @@ DESCRIPTION:CFP Opened Until: 15-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Dawn Conferences 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261218
 LOCATION:Amsterdam (Netherlands)
 SUMMARY:Dawn Conferences 2027
@@ -2080,7 +1782,7 @@ DESCRIPTION:CFP Opened Until: 18-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Appdevcon@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261218
 LOCATION:Amsterdam (Netherlands)
 SUMMARY:Appdevcon
@@ -2090,7 +1792,7 @@ DESCRIPTION:CFP Opened Until: 18-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Dutch AI Conference@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261218
 LOCATION:Amsterdam (Netherlands)
 SUMMARY:Dutch AI Conference
@@ -2100,7 +1802,7 @@ DESCRIPTION:CFP Opened Until: 18-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:eduWeb Summit 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261218
 LOCATION:Charleston, SC (USA)
 SUMMARY:eduWeb Summit 2027
@@ -2110,7 +1812,7 @@ DESCRIPTION:CFP Opened Until: 18-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:BSides San Diego 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261220
 LOCATION:San Diego, CA (USA)
 SUMMARY:BSides San Diego 2027
@@ -2120,7 +1822,7 @@ DESCRIPTION:CFP Opened Until: 20-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:BSidesSF 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261220
 LOCATION:San Francisco, CA (USA)
 SUMMARY:BSidesSF 2027
@@ -2130,7 +1832,7 @@ DESCRIPTION:CFP Opened Until: 20-December-2026\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:DataGrillen 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261220
 LOCATION:Lingen (Germany)
 SUMMARY:DataGrillen 2027
@@ -2140,7 +1842,7 @@ DESCRIPTION:CFP Opened Until: 20-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:AI & Copilot Summit 01.-02. Juni 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261221
 LOCATION:Online
 SUMMARY:AI & Copilot Summit 01.-02. Juni 2027
@@ -2151,7 +1853,7 @@ DESCRIPTION:CFP Opened Until: 21-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:PlanetNix 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261223
 LOCATION:Pasadena, CA (USA)
 SUMMARY:PlanetNix 2027
@@ -2161,7 +1863,7 @@ DESCRIPTION:CFP Opened Until: 23-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Cloud Native Perú 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261231
 LOCATION:Lima (Peru)
 SUMMARY:Cloud Native Perú 2026
@@ -2171,7 +1873,7 @@ DESCRIPTION:CFP Opened Until: 31-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Debezium Community Showcase@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261231
 LOCATION:Online
 SUMMARY:Debezium Community Showcase
@@ -2181,7 +1883,7 @@ DESCRIPTION:CFP Opened Until: 31-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:M365 Community Day St. Louis 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261231
 LOCATION:St. Louis, MO (USA)
 SUMMARY:M365 Community Day St. Louis 2027
@@ -2192,7 +1894,7 @@ DESCRIPTION:CFP Opened Until: 31-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:BSides Rocket City 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261231
 LOCATION:Huntsville, AL (USA)
 SUMMARY:BSides Rocket City 2027
@@ -2202,7 +1904,7 @@ DESCRIPTION:CFP Opened Until: 31-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Social Developers Conference 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261231
 LOCATION:Hamburg (Germany)
 SUMMARY:Social Developers Conference 2027
@@ -2213,7 +1915,7 @@ DESCRIPTION:CFP Opened Until: 31-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:BSidesOK 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261231
 LOCATION:Glenpool, OK (USA)
 SUMMARY:BSidesOK 2027
@@ -2223,7 +1925,7 @@ DESCRIPTION:CFP Opened Until: 31-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:BSides Prague Czechia 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261231
 LOCATION:Prague (Czechia)
 SUMMARY:BSides Prague Czechia 2027
@@ -2233,7 +1935,7 @@ DESCRIPTION:CFP Opened Until: 31-December-2026\nCFP Link: https://cfp.bside
 END:VEVENT
 BEGIN:VEVENT
 UID:DevOpsDays Zurich 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261231
 LOCATION:Winterthur (Switzerland)
 SUMMARY:DevOpsDays Zurich 2027
@@ -2243,7 +1945,7 @@ DESCRIPTION:CFP Opened Until: 31-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:SQLDay 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261231
 LOCATION:Wrocław (Poland)
 SUMMARY:SQLDay 2027
@@ -2253,7 +1955,7 @@ DESCRIPTION:CFP Opened Until: 31-December-2026\nCFP Link: https://sqlday.pl
 END:VEVENT
 BEGIN:VEVENT
 UID:Data Saturday 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20261231
 LOCATION:Zagreb (Croatia)
 SUMMARY:Data Saturday 2027
@@ -2264,7 +1966,7 @@ DESCRIPTION:CFP Opened Until: 31-December-2026\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:AtlSecCon 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270101
 LOCATION:Halifax, NS (Canada)
 SUMMARY:AtlSecCon 2027
@@ -2274,7 +1976,7 @@ DESCRIPTION:CFP Opened Until: 01-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DevOpsDays Raleigh 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270101
 LOCATION:Raleigh, NC (USA)
 SUMMARY:DevOpsDays Raleigh 2027
@@ -2285,7 +1987,7 @@ DESCRIPTION:CFP Opened Until: 01-January-2027\nCFP Link: https://devopsdays
 END:VEVENT
 BEGIN:VEVENT
 UID:Power Summit@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270101
 LOCATION:Online
 SUMMARY:Power Summit
@@ -2296,7 +1998,7 @@ DESCRIPTION:CFP Opened Until: 01-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:AI Context New York 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270104
 LOCATION:New York, NY (USA)
 SUMMARY:AI Context New York 2027
@@ -2306,7 +2008,7 @@ DESCRIPTION:CFP Opened Until: 04-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:React Summit Asia 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270104
 LOCATION:Singapore (Singapore)
 SUMMARY:React Summit Asia 2027
@@ -2316,7 +2018,7 @@ DESCRIPTION:CFP Opened Until: 04-January-2027\nCFP Link: https://gitnation.
 END:VEVENT
 BEGIN:VEVENT
 UID:Workplace Ninjas 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270108
 LOCATION:Oslo (Norway)
 SUMMARY:Workplace Ninjas 2027
@@ -2326,7 +2028,7 @@ DESCRIPTION:CFP Opened Until: 08-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:TechMang27 Professional Edition 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270109
 LOCATION:Mangaluru (India)
 SUMMARY:TechMang27 Professional Edition 2027
@@ -2336,7 +2038,7 @@ DESCRIPTION:CFP Opened Until: 09-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:CypherCon 10 (2027)@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270109
 LOCATION:Milwaukee, WI (USA)
 SUMMARY:CypherCon 10 (2027)
@@ -2346,7 +2048,7 @@ DESCRIPTION:CFP Opened Until: 09-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Web Day 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270110
 LOCATION:Milan (Italy)
 SUMMARY:Web Day 2027
@@ -2356,7 +2058,7 @@ DESCRIPTION:CFP Opened Until: 10-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:RustWeek 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270110
 LOCATION:Utrecht (Netherlands)
 SUMMARY:RustWeek 2027
@@ -2366,7 +2068,7 @@ DESCRIPTION:CFP Opened Until: 10-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:GrafanaCON 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270111
 LOCATION:New York, NY (USA)
 SUMMARY:GrafanaCON 2027
@@ -2376,7 +2078,7 @@ DESCRIPTION:CFP Opened Until: 11-January-2027\nCFP Link: https://pretalx.co
 END:VEVENT
 BEGIN:VEVENT
 UID:PG DATA 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270111
 LOCATION:Chicago, IL (USA)
 SUMMARY:PG DATA 2027
@@ -2386,7 +2088,7 @@ DESCRIPTION:CFP Opened Until: 11-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:AI Coding Summit Asia@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270112
 LOCATION:Singapore (Singapore)
 SUMMARY:AI Coding Summit Asia
@@ -2397,7 +2099,7 @@ DESCRIPTION:CFP Opened Until: 12-January-2027\nCFP Link: https://gitnation.
 END:VEVENT
 BEGIN:VEVENT
 UID:PyCon Lithuania 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270113
 LOCATION:Vilnius (Lithuania)
 SUMMARY:PyCon Lithuania 2027
@@ -2407,7 +2109,7 @@ DESCRIPTION:CFP Opened Until: 13-January-2027\nCFP Link: https://pycon.lt/2
 END:VEVENT
 BEGIN:VEVENT
 UID:East of England Summit 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270114
 LOCATION:Norwich (UK)
 SUMMARY:East of England Summit 2027
@@ -2417,7 +2119,7 @@ DESCRIPTION:CFP Opened Until: 14-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Day of Data - Richmond 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270115
 LOCATION:Richmond, VA (USA)
 SUMMARY:Day of Data - Richmond 2027
@@ -2427,7 +2129,7 @@ DESCRIPTION:CFP Opened Until: 15-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:CityAI 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270115
 LOCATION:London (UK)
 SUMMARY:CityAI 2027
@@ -2437,7 +2139,7 @@ DESCRIPTION:CFP Opened Until: 15-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:LinuxFest Northwest 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270115
 LOCATION:Bellingham, WA (USA)
 SUMMARY:LinuxFest Northwest 2027
@@ -2447,7 +2149,7 @@ DESCRIPTION:CFP Opened Until: 15-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:MinuteCon@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270115
 LOCATION:Boston, MA (USA)
 SUMMARY:MinuteCon
@@ -2457,7 +2159,7 @@ DESCRIPTION:CFP Opened Until: 15-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:HPSF Conference@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270117
 LOCATION:Montreal (Canada)
 SUMMARY:HPSF Conference
@@ -2468,7 +2170,7 @@ DESCRIPTION:CFP Opened Until: 17-January-2027\nCFP Link: https://events.lin
 END:VEVENT
 BEGIN:VEVENT
 UID:HPSF Conference 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270117
 LOCATION:Montreal (Canada)
 SUMMARY:HPSF Conference 2027
@@ -2479,7 +2181,7 @@ DESCRIPTION:CFP Opened Until: 17-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Domain-Driven Design Europe and Data Mesh Live 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270117
 LOCATION:Amsterdam (Netherlands)
 SUMMARY:Domain-Driven Design Europe and Data Mesh Live 2027
@@ -2489,7 +2191,7 @@ DESCRIPTION:CFP Opened Until: 17-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Mobile Makers 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270118
 LOCATION:Paris (France)
 SUMMARY:Mobile Makers 2027
@@ -2499,7 +2201,7 @@ DESCRIPTION:CFP Opened Until: 18-January-2027\nCFP Link: https://mobilemake
 END:VEVENT
 BEGIN:VEVENT
 UID:Mobile Makers@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270118
 LOCATION:Paris (France)
 SUMMARY:Mobile Makers
@@ -2509,7 +2211,7 @@ DESCRIPTION:CFP Opened Until: 18-January-2027\nCFP Link: https://mobilemake
 END:VEVENT
 BEGIN:VEVENT
 UID:DevOpsDays Atlanta 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270119
 LOCATION:Atlanta, GA (USA)
 SUMMARY:DevOpsDays Atlanta 2027
@@ -2520,7 +2222,7 @@ DESCRIPTION:CFP Opened Until: 19-January-2027\nCFP Link: https://talks.devo
 END:VEVENT
 BEGIN:VEVENT
 UID:BSidesZagreb 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270123
 LOCATION:Zagreb (Croatia)
 SUMMARY:BSidesZagreb 2027
@@ -2530,7 +2232,7 @@ DESCRIPTION:CFP Opened Until: 23-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:AI in Production@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270129
 LOCATION:Newcastle upon Tyne (UK)
 SUMMARY:AI in Production
@@ -2541,7 +2243,7 @@ DESCRIPTION:CFP Opened Until: 29-January-2027\nCFP Link: https://ai-in-prod
 END:VEVENT
 BEGIN:VEVENT
 UID:Melbourne Data Saturday 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270130
 LOCATION:Melbourne (Australia)
 SUMMARY:Melbourne Data Saturday 2027
@@ -2552,7 +2254,7 @@ DESCRIPTION:CFP Opened Until: 30-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Coderioja-2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270131
 LOCATION:Logroño (Spain)
 SUMMARY:Coderioja-2027
@@ -2562,7 +2264,7 @@ DESCRIPTION:CFP Opened Until: 31-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Security BSides Sofia 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270131
 LOCATION:Sofia (Bulgaria)
 SUMMARY:Security BSides Sofia 2027
@@ -2572,7 +2274,7 @@ DESCRIPTION:CFP Opened Until: 31-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Data Saturday #93 Brisbane 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270131
 LOCATION:Brisbane (Australia)
 SUMMARY:Data Saturday #93 Brisbane 2027
@@ -2583,7 +2285,7 @@ DESCRIPTION:CFP Opened Until: 31-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:BSides Groningen 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270131
 LOCATION:Groningen (Netherlands)
 SUMMARY:BSides Groningen 2027
@@ -2593,7 +2295,7 @@ DESCRIPTION:CFP Opened Until: 31-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Replay 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270131
 LOCATION:San Francisco, CA (USA)
 SUMMARY:Replay 2027
@@ -2603,7 +2305,7 @@ DESCRIPTION:CFP Opened Until: 31-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:DevOpsDays Nashville 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270131
 LOCATION:Murfreesboro, TN (USA)
 SUMMARY:DevOpsDays Nashville 2027
@@ -2613,7 +2315,7 @@ DESCRIPTION:CFP Opened Until: 31-January-2027\nCFP Link: https://sessionize
 END:VEVENT
 BEGIN:VEVENT
 UID:Adopting Bitcoin Cape Town 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270201
 LOCATION:Cape Town (South Africa)
 SUMMARY:Adopting Bitcoin Cape Town 2027
@@ -2623,7 +2325,7 @@ DESCRIPTION:CFP Opened Until: 01-February-2027\nCFP Link: https://pretalx.c
 END:VEVENT
 BEGIN:VEVENT
 UID:HalfStack Phoenix@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270205
 LOCATION:Gilbert, AZ (USA)
 SUMMARY:HalfStack Phoenix
@@ -2633,7 +2335,7 @@ DESCRIPTION:CFP Opened Until: 05-February-2027\nCFP Link: https://halfstack
 END:VEVENT
 BEGIN:VEVENT
 UID:Span Cyber Security Arena 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270214
 LOCATION:Poreč (Croatia)
 SUMMARY:Span Cyber Security Arena 2027
@@ -2643,7 +2345,7 @@ DESCRIPTION:CFP Opened Until: 14-February-2027\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:jPrime@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270215
 LOCATION:Sofia (Bulgaria)
 SUMMARY:jPrime
@@ -2653,7 +2355,7 @@ DESCRIPTION:CFP Opened Until: 15-February-2027\nCFP Link: https://jprime.io
 END:VEVENT
 BEGIN:VEVENT
 UID:Devopsdays Geneva@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270216
 LOCATION:Geneva (Switzerland)
 SUMMARY:Devopsdays Geneva
@@ -2664,7 +2366,7 @@ DESCRIPTION:CFP Opened Until: 16-February-2027\nCFP Link: https://devopsday
 END:VEVENT
 BEGIN:VEVENT
 UID:Optimized AI Conference 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270228
 LOCATION:Atlanta, GA (USA)
 SUMMARY:Optimized AI Conference 2027
@@ -2674,7 +2376,7 @@ DESCRIPTION:CFP Opened Until: 28-February-2027\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Cloud Native Summit 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270228
 LOCATION:Munich (Germany)
 SUMMARY:Cloud Native Summit 2027
@@ -2684,7 +2386,7 @@ DESCRIPTION:CFP Opened Until: 28-February-2027\nCFP Link: https://sessioniz
 END:VEVENT
 BEGIN:VEVENT
 UID:Planview Connect 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270324
 LOCATION:San Diego, CA (USA)
 SUMMARY:Planview Connect 2027
@@ -2694,7 +2396,7 @@ DESCRIPTION:CFP Opened Until: 24-March-2027\nCFP Link: https://sessionize.c
 END:VEVENT
 BEGIN:VEVENT
 UID:Escape 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270331
 LOCATION:Johannesburg (South Africa)
 SUMMARY:Escape 2027
@@ -2704,7 +2406,7 @@ DESCRIPTION:CFP Opened Until: 31-March-2027\nCFP Link: https://sessionize.c
 END:VEVENT
 BEGIN:VEVENT
 UID:Normandie.ai 2026@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270513
 LOCATION:Rouen (France)
 SUMMARY:Normandie.ai 2026
@@ -2714,7 +2416,7 @@ DESCRIPTION:CFP Opened Until: 13-May-2027\nCFP Link: https://conference-hal
 END:VEVENT
 BEGIN:VEVENT
 UID:EUCTech Oslo 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270514
 LOCATION:Oslo (Norway)
 SUMMARY:EUCTech Oslo 2027
@@ -2724,7 +2426,7 @@ DESCRIPTION:CFP Opened Until: 14-May-2027\nCFP Link: https://sessionize.com
 END:VEVENT
 BEGIN:VEVENT
 UID:DynamicsCon Regional Midwest 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270531
 LOCATION:Columbus, OH (USA)
 SUMMARY:DynamicsCon Regional Midwest 2027
@@ -2735,7 +2437,7 @@ DESCRIPTION:CFP Opened Until: 31-May-2027\nCFP Link: https://sessionize.com
 END:VEVENT
 BEGIN:VEVENT
 UID:BSides Kraków 2027@dca-2027
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270630
 LOCATION:Kraków (Poland)
 SUMMARY:BSides Kraków 2027
@@ -2745,7 +2447,7 @@ DESCRIPTION:CFP Opened Until: 30-June-2027\nCFP Link: https://sessionize.co
 END:VEVENT
 BEGIN:VEVENT
 UID:Cloud & Code Oost 2026@dca-2026
-DTSTAMP:20261017T120040
+DTSTAMP:20261018T082947
 DTSTART:20270922
 LOCATION:Doetinchem (Netherlands)
 SUMMARY:Cloud & Code Oost 2026
