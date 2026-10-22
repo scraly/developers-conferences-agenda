@@ -15,6 +15,10 @@
     "latitude": 5.1215877,
     "longitude": 7.3732655
   },
+  "Abakaliki (Nigeria)": {
+    "latitude": 6.3208897,
+    "longitude": 8.1133202
+  },
   "Abdeen (Egypt)": {
     "latitude": 30.0386242,
     "longitude": 31.4538405
@@ -34,6 +38,10 @@
   "Abomey-Calavi (Benin)": {
     "latitude": 6.51096225,
     "longitude": 2.3303076367454025
+  },
+  "Abomey-calavi (Benin)": {
+    "latitude": 6.4538637,
+    "longitude": 2.354245
   },
   "Abraka (Nigeria)": {
     "latitude": 5.7836006,
@@ -286,6 +294,10 @@
   "Bahia Blanca (Argentina)": {
     "latitude": -38.7176522,
     "longitude": -62.2654871
+  },
+  "Baku (Azerbaijan)": {
+    "latitude": 40.3755885,
+    "longitude": 49.8328009
   },
   "Bali (Indonesia)": {
     "latitude": -8.456018100000001,
@@ -1075,6 +1087,10 @@
     "latitude": 51.2254018,
     "longitude": 6.7763137
   },
+  "Dutse (Nigeria)": {
+    "latitude": 11.6909859,
+    "longitude": 9.3390747
+  },
   "Eau Claire, WI (USA)": {
     "latitude": 44.811349,
     "longitude": -91.4984941
@@ -1559,6 +1575,10 @@
     "latitude": 34.729847,
     "longitude": -86.5859011
   },
+  "Hurghada (Egypt)": {
+    "latitude": 27.222556,
+    "longitude": 33.8307062
+  },
   "Hyderabad (India)": {
     "latitude": 17.406498,
     "longitude": 78.47724389999999
@@ -1602,6 +1622,10 @@
   "Illinois (USA)": {
     "latitude": 40.0796606,
     "longitude": -89.4337288
+  },
+  "Ilorin (Nigeria)": {
+    "latitude": 8.4963657,
+    "longitude": 4.5480484
   },
   "Imola (Italy)": {
     "latitude": 44.3535145,
@@ -1738,6 +1762,10 @@
   "Jyväskylä (Finland)": {
     "latitude": 62.2417066,
     "longitude": 25.7495727
+  },
+  "Kaduna (Nigeria)": {
+    "latitude": 10.3825318,
+    "longitude": 7.8533226
   },
   "Kampala (Uganda)": {
     "latitude": 0.3177137,
@@ -1938,6 +1966,10 @@
   "Lagos (Nigeria)": {
     "latitude": 6.4550575,
     "longitude": 3.3941795
+  },
+  "Lagos (Portugal)": {
+    "latitude": 37.1027964,
+    "longitude": -8.6728689
   },
   "Lahore (Pakistan)": {
     "latitude": 31.5656822,
@@ -2158,6 +2190,10 @@
   "Makassar (Indonesia)": {
     "latitude": -5.1342962,
     "longitude": 119.4124282
+  },
+  "Makurdi (Nigeria)": {
+    "latitude": 7.7312634,
+    "longitude": 8.538425
   },
   "Malaga (Spain)": {
     "latitude": 36.7213028,
@@ -2439,6 +2475,10 @@
     "latitude": 12.3041464,
     "longitude": 76.6529521
   },
+  "Málaga (Spain)": {
+    "latitude": 36.7647913,
+    "longitude": -4.4422005
+  },
   "Móstoles (Spain)": {
     "latitude": 40.3232129,
     "longitude": -3.8676291
@@ -2539,6 +2579,10 @@
     "latitude": 43.7009358,
     "longitude": 7.2683912
   },
+  "Nicosia (Cyprus)": {
+    "latitude": 35.1746503,
+    "longitude": 33.3638783
+  },
   "Nieuwegein (Netherlands)": {
     "latitude": 52.0367152,
     "longitude": 5.0836117
@@ -2626,6 +2670,10 @@
   "Orsay (France)": {
     "latitude": 48.699184,
     "longitude": 2.187457
+  },
+  "Ortahisar (Turkey)": {
+    "latitude": 41.0062151,
+    "longitude": 39.7257588
   },
   "Osaka (Japan)": {
     "latitude": 34.6937569,
@@ -3038,6 +3086,10 @@
   "Rhineland Palatinate (Germany)": {
     "latitude": 49.9531599,
     "longitude": 7.310646
+  },
+  "Rhondda Cynon Taf (UK)": {
+    "latitude": 51.6651636,
+    "longitude": -3.4577558
   },
   "Richmond (Australia)": {
     "latitude": -37.8238936,
@@ -3862,6 +3914,10 @@
   "Zwolle (Netherlands)": {
     "latitude": 52.5089759,
     "longitude": 6.0943765
+  },
+  "Çankaya (Turkey)": {
+    "latitude": 39.8853321,
+    "longitude": 32.8554966
   },
   "Łódź (Poland)": {
     "latitude": 51.7728245,
