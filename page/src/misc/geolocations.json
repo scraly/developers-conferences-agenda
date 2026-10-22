@@ -347,6 +347,10 @@
     "latitude": 37.7884969,
     "longitude": -122.3558473
   },
+  "Bayraklı (Turkey)": {
+    "latitude": 38.4639144,
+    "longitude": 27.1644029
+  },
   "Beijing (China)": {
     "latitude": 39.904211,
     "longitude": 116.407395
@@ -619,7 +623,7 @@
     "latitude": -3.3638125,
     "longitude": 29.3675028
   },
-  "Bukavu (Republic of the Congo)": {
+  "Bukavu (Democratic Republic of the Congo)": {
     "latitude": -2.4982396,
     "longitude": 28.8549055
   },
@@ -1898,6 +1902,10 @@
   "Köln (Germany)": {
     "latitude": 50.938361,
     "longitude": 6.959974
+  },
+  "Kütahya Merkez (Turkey)": {
+    "latitude": 39.4199106,
+    "longitude": 29.9857886
   },
   "Kırklareli Merkez (Turkey)": {
     "latitude": 41.7370223,
@@ -3251,6 +3259,10 @@
     "latitude": 43.8562586,
     "longitude": 18.4130763
   },
+  "Sarıçam (Turkey)": {
+    "latitude": 37.0197412,
+    "longitude": 35.3989919
+  },
   "Saskatoon (Canada)": {
     "latitude": 52.131802,
     "longitude": -106.660767
@@ -3862,5 +3874,9 @@
   "Šibenik (Croatia)": {
     "latitude": 43.7340647,
     "longitude": 15.8944767
+  },
+  "Нарын (Kyrgyzstan)": {
+    "latitude": 41.4285987,
+    "longitude": 75.997631
   }
 }
