@@ -3925,3 +3925,47 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-06-14-ILA Women and Leadership Conference 2027,language:english,topic:leadership,topic:women,topic:networking
 2027-06-19-eduWeb Summit 2027,language:english,tech:web,topic:education
 2027-10-04-Devoxx Belgium,language:english,tech:java,topic:java
+2026-10-28-DevFest is coming to Wales,language:english,tech:google,topic:devfest,topic:developers,topic:community
+2026-10-29-Hackfest - Level UP,language:english,tech:web,topic:hackathon,topic:developers,topic:community
+2026-10-31-DevFest Trabzon 2026,language:turkish,tech:google,topic:devfest,topic:developers,topic:community
+2026-10-31-DevFest Baku 2026,language:azerbaijani,tech:google,topic:devfest,topic:developers,topic:community
+2026-10-31-DevFest Ankara 2026,language:turkish,tech:google,topic:devfest,topic:developers,topic:community
+2026-10-31-DevFest’26 Ankara,language:turkish,tech:google,topic:devfest,topic:developers,topic:community
+2026-10-31-DevFest Abeokuta 2026,language:english,tech:google,tech:ai,topic:devfest,topic:security,topic:developers
+2026-10-31-DevFest Cyprus 2026,language:english,tech:google,topic:devfest,topic:developers,topic:community
+2026-10-31-GDG Arusha DevFest 2026,language:english,tech:google,tech:ai,topic:devfest,topic:security,topic:developers
+2026-10-31-DevFest Kaduna City '26,language:english,tech:google,topic:devfest,topic:developers,topic:community
+2026-10-31-DevFest Ebonyi 2026,language:english,tech:google,topic:devfest,topic:developers,topic:community
+2026-10-31-DevFest Trabzon,language:turkish,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-05-DevFest Red Sea,language:arabic,tech:google,topic:devfest,topic:beginners,topic:developers
+2026-11-06-DevFest Ilorin 2026,language:english,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-07-DevFest Nuremberg 2026,language:german,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-07-DevFest Lagos, Portugal 2026,language:portuguese,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-07-DevFest Dutse '26,language:english,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-07-DevFest 2026 Malta,language:english,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-07-DevFest GDG Abomey-Calavi 2026,language:french,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-07-DevFest 2026 by GDG Abu Dhabi,language:english,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-07-DevFest Makurdi 2026,language:english,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-07-Devfest Jinja 2026,language:english,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-07-DevFest Accra 2026 (Day 2),language:english,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-07-GDG DevFest Karlsruhe 2026,language:german,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-07-BiznagaFest 2026,language:spanish,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-07-DevFest Vienna 2026,language:german,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-12-DevFest Marseille 2026,language:french,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-13-DevFest Lagos 2026,language:english,tech:google,topic:devfest,topic:developers,topic:community
+2026-11-18-Nerdearla Mexico,language:spanish,tech:web,topic:developers,topic:community
+2026-12-04-Build, Secure, Scale,language:french,tech:google,tech:ai,topic:devfest,topic:security,topic:developers
+2026-12-05-DevFest Nepal 2026: Agents of Change - Buildathon,language:nepali,tech:google,topic:ai,topic:developers,topic:buildathon
+2026-12-05-DevFest Zagreb 2026,language:croatian,tech:google,topic:ai,topic:developers,topic:agentic-ai
+2026-12-05-Devfest Kütahya 2926,language:turkish,tech:google,topic:developers,topic:ai
+2026-12-05-DevFest Naryn 2026,language:kyrgyz,tech:google,topic:developers,topic:ai
+2026-12-05-DevFest Izmir 2026,language:turkish,tech:google,topic:developers,topic:ai
+2026-12-11-DevFest Adana 2026,language:turkish,tech:google,topic:developers,topic:ai
+2027-03-10-Futurebuild Queensland,language:english,tech:construction,topic:construction,topic:technology
+2027-04-15-Devoxx Greece,language:greek,tech:java,topic:jvm,topic:developers
+2027-04-22-Gophercamp Czechia 2027,language:czech,tech:go,topic:open-source,topic:developers
+2027-05-04-Innovate QA 2027,language:english,tech:testing,topic:quality-assurance,topic:software-testing
+2027-05-18-Platmosphere 2027,language:italian,tech:platform-engineering,topic:devops,topic:cloud
+2027-05-19-Data Point Prague Czechia 2027,language:czech,tech:data,topic:data,topic:analytics
+2027-05-20-Milan0day 2027,language:italian,tech:security,topic:cybersecurity,topic:offensive-security
+2027-06-14-European Power Platform Conference 2027,language:english,tech:microsoft,topic:power-platform,topic:low-code
