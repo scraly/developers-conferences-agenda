@@ -13,15 +13,15 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
 		alias: {
-			utils: join(__dirname, 'src', 'utils'),
-			components: join(__dirname, 'src', 'components'),
-			contexts: join(__dirname, 'src', 'contexts'),
-            routes: join(__dirname, 'src', 'routes'),
-			"app.context": join(__dirname, 'src', 'app.context'),
-			"app.hooks": join(__dirname, 'src', 'app.hooks'),
-			"app.reducer": join(__dirname, 'src', 'app.reducer'),
-			misc: join(__dirname, 'src', 'misc'),
-			styles: join(__dirname, 'src', 'styles')
+			utils: join(import.meta.dirname, 'src', 'utils'),
+			components: join(import.meta.dirname, 'src', 'components'),
+			contexts: join(import.meta.dirname, 'src', 'contexts'),
+            routes: join(import.meta.dirname, 'src', 'routes'),
+			"app.context": join(import.meta.dirname, 'src', 'app.context'),
+			"app.hooks": join(import.meta.dirname, 'src', 'app.hooks'),
+			"app.reducer": join(import.meta.dirname, 'src', 'app.reducer'),
+			misc: join(import.meta.dirname, 'src', 'misc'),
+			styles: join(import.meta.dirname, 'src', 'styles')
 		}
   },
   build: {

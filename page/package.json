@@ -34,7 +34,7 @@
     "@types/react": "^18.0.37",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^5.1.0",
-    "@vitest/ui": "^4.0.9",
+    "@vitest/ui": "^5.0.5",
     "eslint": "^9.39.2",
     "eslint-plugin-jsx-a11y": "^6.10.2",
     "eslint-plugin-react": "^7.37.3",
@@ -43,8 +43,8 @@
     "globals": "^15.14.0",
     "prettier": "^1.19.1",
     "prettier-airbnb-config": "^1.0.0",
-    "vite": "^8.1.1",
-    "vitest": "^4.1.11"
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
   },
   "prettier": "prettier-airbnb-config",
   "overrides": {
