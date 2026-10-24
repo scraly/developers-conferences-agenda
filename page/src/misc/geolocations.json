@@ -75,6 +75,10 @@
     "latitude": 7.6232482,
     "longitude": 5.22274
   },
+  "Afyonkarahisar Merkez (Turkey)": {
+    "latitude": 38.7568597,
+    "longitude": 30.5387044
+  },
   "Agadir (Morocco)": {
     "latitude": 30.4205162,
     "longitude": -9.5838532
@@ -599,10 +603,6 @@
     "latitude": 45.1004807,
     "longitude": -93.3443585
   },
-  "Brooklyn, NY (USA)": {
-    "latitude": 40.6526006,
-    "longitude": -73.9497211
-  },
   "Broomfield, CO (USA)": {
     "latitude": 39.9403995,
     "longitude": -105.05208
@@ -646,6 +646,10 @@
   "Burgos (Spain)": {
     "latitude": 42.3504659,
     "longitude": -3.689354499999999
+  },
+  "Burlingame, CA (USA)": {
+    "latitude": 37.5780965,
+    "longitude": -122.3473099
   },
   "Burlington, MA (USA)": {
     "latitude": 42.5047161,
