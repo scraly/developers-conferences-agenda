@@ -53,3 +53,8 @@ jobs:
             This PR was generated via GH action
             - Generates CFP durations
           draft: false
+      - if: steps.cpr.outputs.pull-request-number != ''
+        name: Enable Pull Request Automerge
+        run: gh pr merge ${{ steps.cpr.outputs.pull-request-number }} --admin --squash 
+        env:
+          GH_TOKEN: ${{ secrets.PAT }}
