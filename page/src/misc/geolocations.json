@@ -803,6 +803,10 @@
     "latitude": 48.8526892,
     "longitude": 2.6027219
   },
+  "Chania (Greece)": {
+    "latitude": 35.5120831,
+    "longitude": 24.0191544
+  },
   "Chapecó (Brazil)": {
     "latitude": -27.1110472,
     "longitude": -52.5958977
@@ -1554,6 +1558,10 @@
   "Harare (Zimbabwe)": {
     "latitude": -17.8567035,
     "longitude": 31.0601584
+  },
+  "Harcourt (Nigeria)": {
+    "latitude": 4.7676576,
+    "longitude": 7.0188527
   },
   "Haringhata (India)": {
     "latitude": 22.96077,

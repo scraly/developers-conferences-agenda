@@ -4036,3 +4036,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-03-03-Software Quality Summit Austin,language:english,tech:testing,topic:quality
 2027-04-08-RPLL 2027,language:french,tech:linux,topic:open-source
 2027-04-27-Public IT 2027,language:german,tech:it,topic:public-sector
+2027-03-01-BASTA! Spring 2027,topic:.net,topic:agent-based-ai,topic:software-development
+2027-05-10-JAX Mainz 2027,topic:java,tech:artificial-intelligence,topic:developer
+2027-05-27-Security Fest,tech:cybersecurity,tech:security,topic:offensive-security,tech:ai-security,topic:information-security,tech:cloud-security
