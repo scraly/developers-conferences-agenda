@@ -1647,6 +1647,10 @@
     "latitude": 29.7589382,
     "longitude": -95.3676974
   },
+  "Huelva (Spain)": {
+    "latitude": 37.2575874,
+    "longitude": -6.9484945
+  },
   "Hull (UK)": {
     "latitude": 53.7435722,
     "longitude": -0.3394758
@@ -2991,6 +2995,10 @@
     "latitude": -5,
     "longitude": -80.333333
   },
+  "Plovdiv (Bulgaria)": {
+    "latitude": 42.1418541,
+    "longitude": 24.7499297
+  },
   "Plymouth (UK)": {
     "latitude": 50.3712659,
     "longitude": -4.1425658
@@ -4027,6 +4035,10 @@
     "latitude": 3.8616853,
     "longitude": 11.5202292
   },
+  "Yenagoa (Nigeria)": {
+    "latitude": 4.9334651,
+    "longitude": 6.2747786
+  },
   "Yerevan (Armenia)": {
     "latitude": 40.1777112,
     "longitude": 44.5126233
@@ -4090,6 +4102,10 @@
   "Évora (Portugal)": {
     "latitude": 38.5714,
     "longitude": -7.9135
+  },
+  "İskenderun (Turkey)": {
+    "latitude": 36.5902266,
+    "longitude": 36.1710354
   },
   "Łódź (Poland)": {
     "latitude": 51.7728245,
