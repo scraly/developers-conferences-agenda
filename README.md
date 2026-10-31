@@ -1548,7 +1548,7 @@ The content & the data are licensed under the [CC-BY-NC license](./LICENSE-CONTE
 [![typesense](https://avatars.githubusercontent.com/u/19822348?s=60&v=4)](https://github.com/typesense)
 [![Zenika](https://avatars.githubusercontent.com/u/630230?s=60&v=4)](https://github.com/Zenika)
 [![joshleecreates](https://avatars.githubusercontent.com/u/11478793?s=52&v=4)](https://github.com/joshleecreates)
-<a href="https://everythingdevops.io/join-for-free"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQEBW7WR046sPw/company-logo_200_200/company-logo_200_200/0/1738282423099/everythingdevops_logo?e=1793232000&v=beta&t=Dhys0BQdgkr4mBFpwnM6VTwx9e8FUNKDiBxD33K6rgc" alt="EverythingDevOps" width="60" height="60"></a>
+<a href="https://everythingdevops.io/join-for-free"><img src="https://media.beehiiv.com/cdn-cgi/image/format=auto,fit=scale-down,onerror=redirect/uploads/asset/file/471526ac-d978-4730-b42d-f9db1e2eab07/apple-touch-icon.png?t=1787240334" alt="EverythingDevOps" width="60" height="60"></a>
 <a href="superheavy.io"><img src="https://superheavy.io/assets/superheavy-logo-D138k3iq.png" alt="superheavy" width="60" height="60"></a>
 [![acrudin](https://avatars.githubusercontent.com/u/48157072?s=52&v=4)](https://github.com/acrudin)
 
