@@ -1128,6 +1128,7 @@ All the data (past and coming) are available publicly in JSON:
 * 5: [DevFest Izmir 2026](https://gdg.community.dev/events/details/google-gdg-izmir-presents-devfest-izmir-2026/) - Bayraklı (Turkey)
 * 5: [DevFest 2026 Cluj-Napoca](https://gdg.community.dev/events/details/google-gdg-cluj-napoca-presents-devfest-2026-cluj-napoca-1/) - Cluj-Napoca (Romania) <a href="https://app.advocu.com/events/6ad236e692f0839a37b75d3a"><img alt="CFP DevFest 2026 Cluj-Napoca" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2026&color=green"></a>
 * 5-6: [DevFest Fresno 2026](https://gdg.community.dev/events/details/google-gdg-fresno-presents-devfest-fresno-2026/cohost-gdg-fresno) - Fresno, CA (USA) <a href="https://sessionize.com/devfest-fresno-2026/"><img alt="CFP DevFest Fresno 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-October-2026&color=red"></a>
+* 5-6: [AICD Summit 2026](https://aicommunitydays.ai/events/aicd-summit-2026) - Tunis (Tunisia)
 * 6-7: [DistrictCon](https://www.districtcon.org/) - Washington, DC (USA) <a href="https://sessionize.com/districtcon"><img alt="CFP DistrictCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-October-2026&color=red"></a>
 * 7: [DevFest AIngular TLV](https://gdg.community.dev/events/details/google-gdg-tel-aviv-presents-devfest-aingular-tlv/) - Tel Aviv (Israel)
 * 7: [Automotive Linux Summit](https://events.linuxfoundation.org/automotive-linux-summit/) - Tokyo (Japan)
