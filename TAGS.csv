@@ -4039,3 +4039,31 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-03-01-BASTA! Spring 2027,topic:.net,topic:agent-based-ai,topic:software-development
 2027-05-10-JAX Mainz 2027,topic:java,tech:artificial-intelligence,topic:developer
 2027-05-27-Security Fest,tech:cybersecurity,tech:security,topic:offensive-security,tech:ai-security,topic:information-security,tech:cloud-security
+2026-11-05-Dev Fest Plovdiv 2026 & EduHack Final,language:bulgarian,tech:google,topic:developer,topic:education,topic:hackathon
+2026-11-07-Viaja con el GDGoC UHU al BignafaFest Málaga 2026!,language:spanish,tech:google,topic:developer,topic:education,topic:community
+2026-11-19-PIKSEL26,language:norwegian,topic:technology,topic:innovation,topic:conference
+2026-11-20-Voxxed Days Thessaloniki,language:english,tech:java,tech:kotlin,topic:developer,topic:conference
+2026-11-27-DevFest Budapest 2026 - On Campus Conference,language:hungarian,tech:google,topic:developer,topic:education,topic:campus
+2026-11-28-DevFest Beirut 2026,language:arabic,tech:google,topic:developer,topic:conference
+2026-11-28-DevFest Hatay 2026,language:turkish,tech:google,topic:developer,topic:conference
+2026-11-28-DevFest Chiatura 2026,language:georgian,tech:google,topic:developer,topic:conference
+2026-12-01-Agentic AI Foundation ( AAIF ) December Talks,language:english,tech:ai,topic:agentic-ai,topic:talks
+2026-12-12-AWS Community Day Nigeria 2026,language:english,tech:aws,tech:cloud,topic:community,topic:developer
+2026-12-12-DevFest GDG Kyiv 2026,language:ukrainian,tech:google,topic:developer,topic:conference
+2026-12-18-DevFest Yenagoa 2026,language:english,tech:google,topic:developer,topic:conference
+2026-12-19-DevFest EL Jadida 2026,language:french,tech:google,topic:developer,topic:conference
+2026-12-26-Alexandria DevFest 2026,language:arabic,tech:google,topic:developer,topic:conference
+2027-01-29-FOSSapalooza,language:english,tech:linux,topic:open-source,topic:conference
+2027-02-22-Code Remix Summit,language:english,tech:ai,topic:developer,topic:summit
+2027-03-05-Winterkongress,language:german,topic:technology,topic:conference
+2027-03-15-NeoCloudCon Europe,language:english,tech:cloud,tech:kubernetes,topic:cloud-native
+2027-03-18-RubyConf AU 2027,language:english,tech:ruby,topic:developer,topic:conference
+2027-04-01-SunSecCon,language:english,tech:security,topic:security,topic:conference
+2027-04-21-Strategy Ateliers,language:portuguese,topic:strategy,topic:design,topic:workshop
+2027-04-21-KotlinConf,language:english,tech:kotlin,topic:developer,topic:conference
+2027-04-23-KCD Texas 2027,language:english,tech:kubernetes,topic:cloud-native,topic:community
+2027-05-06-SecretCon 2027,language:english,tech:security,topic:security,topic:conference
+2027-05-13-Agentic Ateliers,language:german,tech:ai,topic:agentic-ai,topic:workshop
+2027-05-20-Leadership Ateliers,language:dutch,topic:leadership,topic:management,topic:workshop
+2027-05-25-JNation,language:portuguese,tech:java,topic:developer,topic:conference
+2027-07-19-JCrete®,language:greek,tech:java,topic:developer,topic:conference
