@@ -391,6 +391,10 @@
     "latitude": 38.4639144,
     "longitude": 27.1644029
   },
+  "Beer-Sheva (Israel)": {
+    "latitude": 31.2457442,
+    "longitude": 34.7925181
+  },
   "Beijing (China)": {
     "latitude": 39.904211,
     "longitude": 116.407395
@@ -727,6 +731,10 @@
     "latitude": 30.0443879,
     "longitude": 31.2357257
   },
+  "Cairo Governorate Desert (Egypt)": {
+    "latitude": 30.301867,
+    "longitude": 31.8141442
+  },
   "Cakovec (Croatia)": {
     "latitude": 46.3892305,
     "longitude": 16.4368593
@@ -878,6 +886,10 @@
   "Château de Massillan’ - Drome (France)": {
     "latitude": 44.2330208,
     "longitude": 4.793006999999999
+  },
+  "Châtillon (France)": {
+    "latitude": 46.6591772,
+    "longitude": 5.7302769
   },
   "Chía (Colombia)": {
     "latitude": 4.8660334,
