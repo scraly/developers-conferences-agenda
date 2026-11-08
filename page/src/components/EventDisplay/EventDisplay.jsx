@@ -7,8 +7,8 @@ import ShortDate from 'components/ShortDate/ShortDate';
 import TagBadges from 'components/TagBadges/TagBadges';
 import { useFilters } from 'app.hooks';
 
-const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, dateOnTop=false, country, tags, sponsoring, attendees}) => {
-  const event = {name, hyperlink, location, misc, closedCaptions, date, country, tags, sponsoring, attendees};
+const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, dateOnTop=false, country, tags, sponsoring, attendees, recording}) => {
+  const event = {name, hyperlink, location, misc, closedCaptions, date, country, tags, sponsoring, attendees, recording};
   const eventId = `${name}-${date[0]}`;
   const { isFavorite } = useFavoritesContext();
   const isFav = isFavorite(eventId);
@@ -38,6 +38,14 @@ const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, da
         {attendees ? (
           <div className="attendees">
             👥 {attendees}
+          </div>
+        ) : null}
+
+        {recording ? (
+          <div className="recording">
+            <a href={recording} target="_blank" rel="noopener noreferrer">
+              ▶ Watch Recording
+            </a>
           </div>
         ) : null}
 

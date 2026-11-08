@@ -55,13 +55,41 @@ const parseMetadata = () => {
       const line = lines[i].trim();
       if (!line) continue;
 
-      const [eventId, attendeesPart] = line.split(',');
+      const [rawEventId, ...metadataParts] = line.split(',');
+      const eventId = rawEventId.trim();
+      const metadata = {};
 
-      if (attendeesPart && attendeesPart.startsWith('attendees:')) {
-        const attendees = parseInt(attendeesPart.replace('attendees:', ''), 10);
-        if (!isNaN(attendees)) {
-          metadataMap.set(eventId, { attendees });
+      metadataParts.forEach((part) => {
+        const separatorIndex = part.indexOf(':');
+        if (separatorIndex === -1) return;
+
+        const key = part.slice(0, separatorIndex).trim();
+        const value = part.slice(separatorIndex + 1).trim();
+
+        if (key === 'attendees') {
+          const attendees = parseInt(value, 10);
+          if (!isNaN(attendees)) {
+            metadata.attendees = attendees;
+          }
         }
+
+        if (key === 'recording' && value) {
+          const markdownMatch = value.match(/^\[([^\]]+)\]\((https?:\/\/[^)]+)\)$/);
+          const recordingUrl = markdownMatch ? markdownMatch[2] : value;
+
+          try {
+            const url = new URL(recordingUrl);
+            if (url.protocol === 'http:' || url.protocol === 'https:') {
+              metadata.recording = recordingUrl;
+            }
+          } catch {
+            // Ignore invalid recording URLs.
+          }
+        }
+      });
+
+      if (Object.keys(metadata).length > 0) {
+        metadataMap.set(eventId, metadata);
       }
     }
 
