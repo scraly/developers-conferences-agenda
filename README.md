@@ -860,7 +860,7 @@ All the data (past and coming) are available publicly in JSON:
 ### June
 
 * 1-2: [AI & Copilot Summit 01.-02. Juni 2027](https://events.m365-summits.de/AICopilotSummit0102Juni2027) - Online <a href="https://sessionize.com/ai-copilot-summit-01-02-juni-2027"><img alt="CFP AI & Copilot Summit 01.-02. Juni 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-December-2026&color=green"></a>
-* 1-4: [OSSFE 2027](https://ossfe.org/) - Madison, WI (USA) <a href="https://pretalx.com/ossfe2027/cfp"><img alt="CFP OSSFE 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2026&color=green"></a>
+* 1-4: [OSSFE 2027](https://ossfe.org/) - Madison, WI (USA) <a href="https://pretalx.com/ossfe2027/cfp"><img alt="CFP OSSFE 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-November-2026&color=red"></a>
 * 2: [SSTIC](https://www.sstic.org) - Rennes (France)
 * 2-4: [EUCTech Oslo 2027](https://euctech.no/) - Oslo (Norway) <a href="https://sessionize.com/euctech-2027/"><img alt="CFP EUCTech 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-May-2027&color=green"></a> <a href="https://euctech.no/#sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 3: [Cloud Native Days France 2027](https://www.cloudnativedays.fr/) - Paris (France)
