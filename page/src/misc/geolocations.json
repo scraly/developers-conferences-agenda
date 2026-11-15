@@ -103,6 +103,14 @@
     "latitude": 7.2525595,
     "longitude": 5.1932647
   },
+  "Al Mansura (Yemen)": {
+    "latitude": 12.8432146,
+    "longitude": 44.9712778
+  },
+  "Alaior (Spain)": {
+    "latitude": 39.9337077,
+    "longitude": 4.1397673
+  },
   "Albacete (Spain)": {
     "latitude": 38.9950921,
     "longitude": -1.8559154
@@ -258,6 +266,10 @@
   "Asunción (Paraguay)": {
     "latitude": -25.2800459,
     "longitude": -57.6343814
+  },
+  "Aswan (Egypt)": {
+    "latitude": 24.091071,
+    "longitude": 32.897306
   },
   "Atakum (Turkey)": {
     "latitude": 41.3311,
@@ -1251,6 +1263,10 @@
     "latitude": 31.5118281,
     "longitude": -9.7620903
   },
+  "Essen (Germany)": {
+    "latitude": 51.4582235,
+    "longitude": 7.0158171
+  },
   "Exeter (UK)": {
     "latitude": 50.72603669999999,
     "longitude": -3.5274889
@@ -1775,7 +1791,7 @@
     "latitude": 33.6938118,
     "longitude": 73.0651511
   },
-  "Ismailia 3 (Egypt)": {
+  "Ismailia (Egypt)": {
     "latitude": 30.6043775,
     "longitude": 32.2770825
   },
@@ -2503,6 +2519,10 @@
     "latitude": 43.0410344,
     "longitude": -87.9096783
   },
+  "Minato (Japan)": {
+    "latitude": 35.6580089,
+    "longitude": 139.7515137
+  },
   "Minna (Nigeria)": {
     "latitude": 9.6187093,
     "longitude": 6.5475752
@@ -2574,6 +2594,10 @@
   "Morocco": {
     "latitude": 28.3347722,
     "longitude": -10.371337908392647
+  },
+  "Moschato (Greece)": {
+    "latitude": 37.9552355,
+    "longitude": 23.6802925
   },
   "Moscow (Russia)": {
     "latitude": 55.7505412,
@@ -2902,6 +2926,10 @@
   "Palermo (Italy)": {
     "latitude": 38.1112268,
     "longitude": 13.3524434
+  },
+  "Palma de Mallorca (Spain)": {
+    "latitude": 39.5695818,
+    "longitude": 2.6500745
   },
   "Palo Alto (USA)": {
     "latitude": 37.4443293,
@@ -3447,6 +3475,10 @@
     "latitude": 34.0194704,
     "longitude": -118.491227
   },
+  "Santander (Spain)": {
+    "latitude": 43.4618932,
+    "longitude": -3.8100255
+  },
   "Santiago (Chile)": {
     "latitude": -33.4377756,
     "longitude": -70.6504502
@@ -3498,6 +3530,10 @@
   "Seattle, WA (USA)": {
     "latitude": 47.6038321,
     "longitude": -122.330062
+  },
+  "Second Al Sheikh Zayed (Egypt)": {
+    "latitude": 30.0463696,
+    "longitude": 31.0519374
   },
   "Selçuklu (Turkey)": {
     "latitude": 37.8768663,
@@ -4151,8 +4187,16 @@
     "latitude": 43.7340647,
     "longitude": 15.8944767
   },
+  "Актобе (Kazakhstan)": {
+    "latitude": 50.2836938,
+    "longitude": 57.2298129
+  },
   "Нарын (Kyrgyzstan)": {
     "latitude": 41.4285987,
     "longitude": 75.997631
+  },
+  "صنعاء‎ (Yemen)": {
+    "latitude": 15.3538569,
+    "longitude": 44.2058841
   }
 }
