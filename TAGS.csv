@@ -4114,3 +4114,54 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-06-16-AGNTSummit Sydney,language:english,topic:ai,topic:agents,topic:open-source
 2027-11-01-AGNTSummit New York City,language:english,topic:ai,topic:agents,topic:open-source
 2026-11-20-DevTalks 2026: Where AI Takes Us Next,topic:agentic-ai,topic:architecture,topic:infrastructure,topic:ai,topic:ai-coding,topic:agent-based-ai
+2026-11-21-WordCamp Bengaluru 2026,language:english,tech:wordpress,topic:web,topic:cms
+2026-11-25-NET Conf Online 2026,language:spanish,tech:dotnet,topic:programming
+2026-11-28-Microsoft Foundry Day,language:spanish,tech:microsoft,topic:ai,topic:cloud
+2026-12-05-.NET Conf GT Online 2026,language:spanish,tech:dotnet,topic:programming
+2026-12-09-Global AI Community Helsinki 2026,language:english,tech:ai,topic:ai,topic:community
+2026-12-10-.NET Conf 2026,language:english,tech:dotnet,topic:programming
+2026-12-15-Global AI Nights Sofia 2026,language:english,tech:ai,topic:ai
+2026-12-18-.NET Conf 2026,language:italian,tech:dotnet,topic:programming
+2027-01-28-FOSSapalooza 2027,language:english,tech:linux,topic:open-source,topic:community
+2027-02-19-Global Power Platform & Agent Bootcamp Polish Edition Online 2027,language:polish,tech:powerplatform,topic:ai,topic:low-code
+2027-02-19-Experience Global Power Platform & Agent Bootcamp 2027,language:english,tech:powerplatform,topic:ai,topic:low-code
+2027-02-20-Global Power Platform & Agent Bootcamp 2027,language:english,tech:powerplatform,topic:ai,topic:low-code
+2027-02-20-Global AI Bootcamp 2027,language:spanish,tech:ai,topic:ai
+2027-02-20-Global Power Platform Bootcamp Castelló de la Plana 2027,language:spanish,tech:powerplatform,topic:low-code
+2027-02-20-Global Power Platform Bootcamp Alicante 2027,language:spanish,tech:powerplatform,topic:low-code
+2027-03-05-Winterkongress 2027,language:german,tech:software-development,topic:technology
+2027-03-10-JChateau,language:french,tech:java,topic:programming
+2027-03-30-BsidesSGF 2027,language:english,tech:cybersecurity,topic:security
+2027-04-03-OWASP BASC 2027,language:english,tech:web-security,topic:security
+2027-04-13-Southwest Food Security and Technology Summit 2027,language:english,tech:agritech,topic:food-security
+2027-04-15-NODES AI Online 2027,language:english,tech:neo4j,topic:ai,topic:graph-databases
+2027-04-17-Directions North America 2027,language:english,tech:gis,topic:geospatial
+2027-04-19-foss-north 2027,language:english,tech:linux,topic:open-source
+2027-04-23-BSidesCharm 2027,language:english,tech:cybersecurity,topic:security
+2027-04-28-AGNTCon + MCPCon 2027,language:english,tech:agents,topic:ai,topic:llm
+2027-05-11-Percona Live Bay Area 2027,language:english,tech:mysql,topic:databases
+2027-05-12-Open Nexus China Featuring: AGNTSummit + KubeCon + CloudNativeCon + PyTorch Conference,language:chinese,tech:kubernetes,tech:pytorch,topic:cloud-native,topic:ai,topic:open-source
+2027-05-12-Codemotion Madrid 2027,language:spanish,tech:software-development,topic:technology
+2027-05-18-BA & Beyond Europe Luxembourg 2027,language:english,topic:business-analysis,topic:agile
+2027-05-18-BA & Beyond Europe Utrecht 2027,language:english,topic:business-analysis,topic:agile
+2027-05-20-BA & Beyond Europe Budapest 2027,language:english,tech:python,topic:business-analytics,topic:data,topic:ai
+2027-05-21-BA & Beyond Europe Cluj-Napoca 2027,language:english,tech:python,topic:business-analytics,topic:data,topic:ai
+2027-05-21-OffensiveCon 2027,language:english,topic:security,topic:offensive-security,topic:cybersecurity
+2027-05-24-BA & Beyond Europe Stockholm 2027,language:english,tech:python,topic:business-analytics,topic:data,topic:ai
+2027-05-25-BA & Beyond Europe Copenhagen 2027,language:english,tech:python,topic:business-analytics,topic:data,topic:ai
+2027-05-27-BA & Beyond Europe Mechelen 2027,language:english,tech:python,topic:business-analytics,topic:data,topic:ai
+2027-05-31-Cloudland 2027,language:english,topic:cloud,topic:devops
+2027-06-02-NTD 2027,language:english,topic:technology,topic:software
+2027-06-04-BSides Kristiansand 2027,language:english,topic:security,topic:cybersecurity
+2027-06-08-21st Silicon Saxony Days 2027,language:english,topic:semiconductors,topic:electronics
+2027-06-08-University:Future Festival 2027,language:english,topic:education,topic:higher-education,topic:digital-transformation
+2027-06-14-GopherCon Europe + HeyAI 2027,language:english,tech:go,topic:programming,topic:ai,topic:software
+2027-07-16-Security BSides CDMX 2027,language:english,topic:security,topic:cybersecurity
+2027-07-16-Homebrew Con 2027,language:english,topic:homebrewing,topic:beer
+2027-07-22-Scenic City Summit 2027,language:english,topic:technology,topic:business,topic:innovation
+2027-08-02-Visual Studio Live! & Artificial Intelligence Live! 2027,language:english,tech:visual-studio,tech:dotnet,topic:ai,topic:software
+2027-08-09-TechMentor & Cybersecurity Live 2027,language:english,topic:cybersecurity,topic:technology
+2027-09-09-Open Nexus India Featuring: AGNTSummit + KubeCon + CloudNativeCon + Open Source Summit + PyTorch Conference,language:english,tech:kubernetes,tech:pytorch,topic:cloud-native,topic:open-source,topic:ai
+2027-11-09-AGNTSummit Tokyo,language:english,topic:ai,topic:agents
+2027-11-17-AGNTSummit Nairobi,language:english,topic:ai,topic:agents
+2028-12-11-KubeCon + CloudNativeCon North America 2028,language:english,tech:kubernetes,topic:cloud-native,topic:open-source
