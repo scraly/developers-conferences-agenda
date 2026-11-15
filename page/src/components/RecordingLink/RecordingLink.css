@@ -1,15 +1,34 @@
 .recording-link {
   align-items: center;
-  color: var(--color-primary);
+  color: #ef5350;
   display: inline-flex;
+  flex-shrink: 0;
   line-height: 1;
   text-decoration: none;
   vertical-align: middle;
 }
 
 .recording-link:hover {
-  color: var(--color-primary-dark);
+  color: #e53935;
   transform: scale(1.08);
+}
+
+.eventCell .recording-link,
+.listView .event-links .recording-link,
+.mapView .event-map-entry .recording-link {
+  color: #ef5350;
+}
+
+.eventCell .recording-link:hover,
+.listView .event-links .recording-link:hover,
+.mapView .event-map-entry .recording-link:hover {
+  color: #e53935;
+}
+
+.eventCell .recording-link svg,
+.listView .event-links .recording-link svg {
+  height: 18px;
+  width: 18px;
 }
 
 .recording-link:focus-visible {

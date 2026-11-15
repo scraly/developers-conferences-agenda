@@ -11,7 +11,6 @@ import { useFavoritesContext } from '../../contexts/FavoritesContext';
 import { useTranslation } from 'contexts/LanguageContext';
 import ShortDate from 'components/ShortDate/ShortDate';
 import CfpDeadline from 'components/CfpDeadline/CfpDeadline';
-import RecordingLink from 'components/RecordingLink/RecordingLink';
 
 const CfpView = () => {
   let events = useCfpEvents();
@@ -90,7 +89,6 @@ const CfpView = () => {
                     </div>
 
                     <div>
-                      <RecordingLink recording={e.recording} />
                       <span>{e.sponsoring ? <a className="sponsoring" href={e.sponsoring} rel="noreferrer" target="_blank">💰</a> : null}</span>
                     </div>
                       <TagBadges onTagClick={handleTagClick} tags={e.tags} />

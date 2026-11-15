@@ -136,21 +136,21 @@ const ListView = () => {
                         </span>
                       )}
                     </span>
-                    <RecordingLink recording={e.recording} />
-
-
                   <span dangerouslySetInnerHTML={{ __html: cleanMisc(e.misc) }} />
 
-                  {e.sponsoring ? (
-                    <span>
-                      <a
-                        className="sponsoring"
-                        href={e.sponsoring}
-                        rel="noreferrer"
-                        target="_blank"
-                      >
-                        💰
-                      </a>
+                  {(e.sponsoring || e.recording) ? (
+                    <span className="event-links">
+                      {e.sponsoring ? (
+                        <a
+                          className="sponsoring"
+                          href={e.sponsoring}
+                          rel="noreferrer"
+                          target="_blank"
+                        >
+                          💰
+                        </a>
+                      ) : null}
+                      <RecordingLink recording={e.recording} />
                     </span>
                   ) : null}
 

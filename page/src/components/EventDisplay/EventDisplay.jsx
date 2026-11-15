@@ -42,13 +42,12 @@ const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, da
           </div>
         ) : null}
 
-        {recording ? (
-          <div className="recording">
-            <RecordingLink recording={recording} />
-          </div>
+        {(sponsoring || recording) ? (
+          <span className="event-links">
+            {sponsoring ? <a className="sponsoring" href={sponsoring} rel="noreferrer" target="_blank">💰</a> : null}
+            {recording ? <RecordingLink recording={recording} /> : null}
+          </span>
         ) : null}
-
-        {sponsoring ? <span><a class="sponsoring" href={sponsoring} rel="noreferrer" target="_blank">💰</a></span> : null}
         <p className="cfp" dangerouslySetInnerHTML={{__html: misc}} />
         {closedCaptions ? <span><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /></span> : null}
         <TagBadges onTagClick={handleTagClick} tags={tags} />
