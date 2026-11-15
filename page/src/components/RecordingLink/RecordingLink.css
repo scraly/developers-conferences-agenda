@@ -1,0 +1,19 @@
+.recording-link {
+  align-items: center;
+  color: var(--color-primary);
+  display: inline-flex;
+  line-height: 1;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+.recording-link:hover {
+  color: var(--color-primary-dark);
+  transform: scale(1.08);
+}
+
+.recording-link:focus-visible {
+  border-radius: 2px;
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}

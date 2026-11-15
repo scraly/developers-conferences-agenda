@@ -6,6 +6,7 @@ import { flag } from 'country-emoji';
 import ShortDate from 'components/ShortDate/ShortDate';
 import TagBadges from 'components/TagBadges/TagBadges';
 import { useFilters } from 'app.hooks';
+import RecordingLink from 'components/RecordingLink/RecordingLink';
 
 const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, dateOnTop=false, country, tags, sponsoring, attendees, recording}) => {
   const event = {name, hyperlink, location, misc, closedCaptions, date, country, tags, sponsoring, attendees, recording};
@@ -43,9 +44,7 @@ const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, da
 
         {recording ? (
           <div className="recording">
-            <a href={recording} target="_blank" rel="noopener noreferrer">
-              ▶ Watch Recording
-            </a>
+            <RecordingLink recording={recording} />
           </div>
         ) : null}
 

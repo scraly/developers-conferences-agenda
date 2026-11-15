@@ -12,6 +12,7 @@ import CfpSpeakerStatus from 'components/CfpSpeakerStatus/CfpSpeakerStatus'
 import CfpSubmissionDurations from 'components/CfpSubmissionDurations/CfpSubmissionDurations'
 import { useFavoritesContext } from 'contexts/FavoritesContext'
 import { useTranslation } from 'contexts/LanguageContext'
+import RecordingLink from 'components/RecordingLink/RecordingLink'
 
 const CfpCompanionView = () => {
   const events = useCfpCompanionEvents()
@@ -60,6 +61,7 @@ const CfpCompanionView = () => {
                   <div className="cfp-entry-actions">
                     <FavoriteButton event={event} />
                     <CfpSpeakerStatus eventId={eventId} />
+                    <RecordingLink recording={event.recording} />
                     {event.cfp?.link && (
                       <a
                         aria-label={t('cfpCompanion.openCfp')}

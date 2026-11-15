@@ -28,6 +28,10 @@
   white-space: nowrap;
 }
 
+.recording {
+  align-self: flex-start;
+  margin-left: 1rem;
+}
 
 .eventsGridDisplay .eventCell .event-header {
   align-items: flex-start;
