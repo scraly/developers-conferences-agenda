@@ -2023,6 +2023,10 @@
     "latitude": 46.1640284,
     "longitude": 15.8700586
   },
+  "Kristiansand (Norway)": {
+    "latitude": 58.0856276,
+    "longitude": 7.931858
+  },
   "Kuala Lumpur (Malaysia)": {
     "latitude": 3.1319197,
     "longitude": 101.6840589
@@ -2102,6 +2106,10 @@
   "Larvik (Norway)": {
     "latitude": 59.0967308,
     "longitude": 10.021929959972812
+  },
+  "Las Cruces, NM (USA)": {
+    "latitude": 32.3140354,
+    "longitude": -106.779807
   },
   "Las Vegas, NV (USA)": {
     "latitude": 36.1672559,
