@@ -4165,3 +4165,20 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-11-09-AGNTSummit Tokyo,language:english,topic:ai,topic:agents
 2027-11-17-AGNTSummit Nairobi,language:english,topic:ai,topic:agents
 2028-12-11-KubeCon + CloudNativeCon North America 2028,language:english,tech:kubernetes,topic:cloud-native,topic:open-source
+2026-11-20-Africa DevOps Summit 2026,language:english,tech:devops,topic:cloud,topic:automation
+2026-11-21-DevFest Ismailia 2026,language:english,tech:android,topic:ai,topic:agents
+2026-11-28-EnsaïmadaConf - DevFest Mallorca 2026,language:spanish,tech:android,topic:ai,topic:cloud
+2026-11-29-DevFest Niamey 2026,language:french,tech:android,topic:ai,topic:agriculture
+2026-12-05-Devfest Giza 2026,language:english,tech:android,topic:ai,topic:cloud
+2026-12-05-DevFest Munich 2026,language:english,tech:android,topic:ai,topic:cloud
+2026-12-08-GDG Aix DevFest 2026,language:french,tech:android,topic:ai,topic:cloud
+2026-12-09-DevFest Kırklareli'26,language:turkish,tech:android,topic:ai,topic:cloud
+2026-12-11-🚀 DevFest Santander 2026,language:spanish,tech:android,topic:ai,topic:cloud
+2026-12-12-DevFest Athens 2026,language:greek,tech:android,topic:ai,topic:cloud
+2026-12-12-DevFest Aktobe 2026,language:english,tech:android,topic:ai,topic:cloud
+2026-12-12-DevFest Aswan'26,language:english,tech:android,topic:ai,topic:cloud
+2026-12-12-DevFest Al Mansura 26,language:arabic,tech:android,topic:ai,topic:inclusion
+2026-12-17-Dev Fest Essen,language:german,tech:android,topic:ai,topic:cloud
+2026-12-18-DevFest Menorca 2026,language:spanish,tech:android,topic:ai,topic:cloud
+2026-12-26-DevFest Sana'a 2026,language:arabic,tech:android,topic:ai,topic:cloud
+2027-10-27-OffensiveCon27 - Tokyo,language:english,topic:security,topic:offensive-security,topic:ctf
