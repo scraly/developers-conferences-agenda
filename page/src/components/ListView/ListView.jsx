@@ -11,6 +11,7 @@ import { useFavoritesContext } from '../../contexts/FavoritesContext';
 import { useTranslation } from 'contexts/LanguageContext';
 import { Edit } from 'lucide-react';
 import EditEventInlineForm from 'components/EditEventForm/EditEventInlineForm';
+import RecordingLink from 'components/RecordingLink/RecordingLink';
 
 const cleanMisc = (misc) => {
   // Remove Closed Captions img tag to avoid duplicates
@@ -135,20 +136,21 @@ const ListView = () => {
                         </span>
                       )}
                     </span>
-
-
                   <span dangerouslySetInnerHTML={{ __html: cleanMisc(e.misc) }} />
 
-                  {e.sponsoring ? (
-                    <span>
-                      <a
-                        className="sponsoring"
-                        href={e.sponsoring}
-                        rel="noreferrer"
-                        target="_blank"
-                      >
-                        💰
-                      </a>
+                  {(e.sponsoring || e.recording) ? (
+                    <span className="event-links">
+                      {e.sponsoring ? (
+                        <a
+                          className="sponsoring"
+                          href={e.sponsoring}
+                          rel="noreferrer"
+                          target="_blank"
+                        >
+                          💰
+                        </a>
+                      ) : null}
+                      <RecordingLink recording={e.recording} />
                     </span>
                   ) : null}
 

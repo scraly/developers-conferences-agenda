@@ -41,6 +41,14 @@ Examples of rejected conferences:
 ```
 YYYY-MM-DD-Conference Name,attendees:NUMBER
 ```
+* If you know a recording URL for a conference, add it to the `METADATA.csv` file. It can be added alongside other metadata such as the number of attendees:
+```
+YYYY-MM-DD-Conference Name,attendees:NUMBER,recording:https://example.com/recording
+```
+For example:
+```
+2026-04-22-Devoxx France 2026,attendees:4600,recording:https://www.youtube.com/@DevoxxFRvideos/playlists
+```
 * Make sure the PR title is in the format of `Add Conference Name`
 * Check your spelling and grammar
 * Remove any trailing whitespace
