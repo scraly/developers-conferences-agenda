@@ -1,6 +1,7 @@
 import React from 'react';
 import {useNavigate, useSearchParams, createSearchParams, useParams} from "react-router-dom";
 import { useTranslation } from 'contexts/LanguageContext';
+import RecordingsToggle from 'components/RecordingsToggle/RecordingsToggle';
 import 'styles/ViewSelector.css';
 import {Calendar, List, Map, Megaphone, Mic} from 'lucide-react';
 
@@ -12,6 +13,7 @@ const ViewSelector = ({selected}) => {
 
   return (
     <div className="view-type-selector">
+      <RecordingsToggle />
       <Megaphone
         aria-label={t('nav.cfp')}
         className={selected === 'cfp' ? 'view-selector cfp-view selected' : 'view-selector cfp-view'}
