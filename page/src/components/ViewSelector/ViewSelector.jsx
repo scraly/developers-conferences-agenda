@@ -10,36 +10,34 @@ const ViewSelector = ({selected}) => {
   const {year} = useParams();
   const { t } = useTranslation();
 
+  const views = [
+    { key: 'cfp',      Icon: Megaphone, label: t('nav.cfp'),      path: `/${year}/cfp` },
+    { key: 'calendar', Icon: Calendar,  label: t('nav.calendar'), path: `/${year}/calendar` },
+    { key: 'list',     Icon: List,      label: t('nav.list'),     path: `/${year}/list` },
+    { key: 'map',      Icon: Map,       label: t('nav.map'),      path: `/${year}/map` },
+  ];
+
   return (
     <div className="view-type-selector">
-      <Megaphone
-        aria-label={t('nav.cfp')}
-        className={selected === 'cfp' ? 'view-selector cfp-view selected' : 'view-selector cfp-view'}
-        onClick={() => navigate(`/${year}/cfp?${createSearchParams(searchParams)}`)}
-        size="42px"
-        title={t('nav.cfp')}
-      />
-      <Calendar
-        aria-label={t('nav.calendar')}
-        className={selected === 'calendar' ? 'view-selector calendar-view selected' :  'view-selector calendar-view'}
-        onClick={() => navigate(`/${year}/calendar?${createSearchParams(searchParams)}`)}
-        size="42px"
-        title={t('nav.calendar')}
-      />
-      <List
-        aria-label={t('nav.list')}
-        className={selected === 'list' ? 'view-selector list-view selected' : 'view-selector list-view'}
-        onClick={() => navigate(`/${year}/list?${createSearchParams(searchParams)}`)}
-        size="42px"
-        title={t('nav.list')}
-      />
-      <Map
-        aria-label={t('nav.map')}
-        className={selected === 'map' ? 'view-selector map-view selected' : 'view-selector map-view'}
-        onClick={() => navigate(`/${year}/map?${createSearchParams(searchParams)}`)}
-        size="42px"
-        title={t('nav.map')}
-      />
+      {views.map(({ key, Icon, label, path }) => (
+        <div
+          aria-label={label}
+          className={`view-selector ${key}-view view-selector-tooltip ${selected === key ? 'selected' : ''}`}
+          data-tooltip={label}
+          key={key}
+          onClick={() => navigate(`${path}?${createSearchParams(searchParams)}`)}
+          role="button"
+          tabIndex={0}
+          onKeyDown={(e) => {
+            if (e.key === 'Enter' || e.key === ' ') {
+              e.preventDefault();
+              navigate(`${path}?${createSearchParams(searchParams)}`);
+            }
+          }}
+        >
+          <Icon size="42px" />
+        </div>
+      ))}
     </div>
   );
 };
