@@ -51,6 +51,49 @@ describe('applyCommonFilters', () => {
     })
   })
 
+  describe('recordings filter', () => {
+    const recordingEvents = [
+      createEvent({ name: 'YouTube recording', recording: 'https://youtube.com/example' }),
+      createEvent({ name: 'Vimeo recording', recording: 'https://vimeo.com/example' }),
+      createEvent({ name: 'Without recording' }),
+      createEvent({ name: 'Empty recording', recording: '' }),
+      createEvent({ name: 'Null recording', recording: null }),
+      createEvent({ name: 'Wrong property', recordings: 'https://youtube.com/not-the-field' })
+    ]
+
+    it('should include only events with a recording when enabled', () => {
+      const result = applyCommonFilters(recordingEvents, { recordings: 'true' }, mockRegionsMap)
+
+      expect(result.map(event => event.name)).toEqual(['YouTube recording', 'Vimeo recording'])
+    })
+
+    it.each([
+      ['missing', {}],
+      ['empty', { recordings: '' }],
+      ['false', { recordings: 'false' }],
+      ['noncanonical', { recordings: '1' }],
+      ['wrong case', { recordings: 'TRUE' }],
+      ['non-string', { recordings: true }],
+      ['singular parameter', { recording: 'true' }]
+    ])('should not filter for %s parameter values', (_label, search) => {
+      const result = applyCommonFilters(recordingEvents, search, mockRegionsMap)
+
+      expect(result).toEqual(recordingEvents)
+    })
+
+    it('should compose with other filters using AND logic', () => {
+      const events = [
+        createEvent({ name: 'Recorded in France', country: 'FR', recording: 'https://example.com/video' }),
+        createEvent({ name: 'Recorded in US', country: 'US', recording: 'https://example.com/video' }),
+        createEvent({ name: 'Not recorded in France', country: 'FR' })
+      ]
+
+      const result = applyCommonFilters(events, { recordings: 'true', country: 'FR' }, mockRegionsMap)
+
+      expect(result.map(event => event.name)).toEqual(['Recorded in France'])
+    })
+  })
+
   describe('scholarship filter', () => {
     it('should filter events with scholarships when enabled', () => {
       const events = [

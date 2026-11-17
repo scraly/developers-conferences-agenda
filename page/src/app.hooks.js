@@ -284,6 +284,10 @@ export const isCfpOpen = (cfpUntilDate) => {
 export const applyCommonFilters = (events, search, regionsMap) => {
   let result = events
 
+  if (search.recordings === 'true') {
+    result = result.filter((e) => e.recording)
+  }
+
   if (search.closedCaptions === 'true') {
     result = result.filter((e) => e.closedCaptions)
   }
