@@ -105,6 +105,15 @@
   text-decoration: underline;
 }
 
+.mapView .event-map-entry .recording-link {
+  color: #ef5350;
+}
+
+.mapView .event-map-entry .recording-link:hover {
+  color: #e53935;
+  text-decoration: none;
+}
+
 .mapView .event-map-entry .favorite-button {
   margin-left: auto;
   flex-shrink: 0;

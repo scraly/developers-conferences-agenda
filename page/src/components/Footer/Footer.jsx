@@ -204,32 +204,60 @@ export const Footer = () => {
               <span className="sponsor-name">Zenika</span>
             </a>
             <a
-              href="https://retcon.app/"
+              href="https://github.com/joshleecreates"
               target="_blank"
               rel="noopener noreferrer"
               className="sponsor-card"
-              title="Retcon"
+              title="joshleecreates"
             >
               <img
-                src="https://retcon.app/images/app-icon-for-circle.png"
-                alt="Retcon"
+                src="https://avatars.githubusercontent.com/u/11478793?s=52&v=4"
+                alt="joshleecreates"
                 className="sponsor-avatar"
               />
-              <span className="sponsor-name">Retcon</span>
+              <span className="sponsor-name">joshleecreates</span>
             </a>
             <a
-              href="https://looties.io/"
+              href="https://everythingdevops.io/join-for-free"
               target="_blank"
               rel="noopener noreferrer"
               className="sponsor-card"
-              title="Looties"
+              title="EverythingDevOps"
             >
               <img
-                src="https://looties.io/logos/looties-logo.png"
-                alt="Looties"
+                src="https://media.beehiiv.com/cdn-cgi/image/format=auto,fit=scale-down,onerror=redirect/uploads/asset/file/471526ac-d978-4730-b42d-f9db1e2eab07/apple-touch-icon.png?t=1787240334"
+                alt="EverythingDevOps"
                 className="sponsor-avatar"
               />
-              <span className="sponsor-name">Looties</span>
+              <span className="sponsor-name">EverythingDevOps</span>
+            </a>
+            <a
+              href="superheavy.io"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="sponsor-card"
+              title="superheavy"
+            >
+              <img
+                src="https://superheavy.io/assets/superheavy-logo-D138k3iq.png"
+                alt="superheavy"
+                className="sponsor-avatar"
+              />
+              <span className="sponsor-name">superheavy</span>
+            </a>
+            <a
+              href="https://github.com/acrudin"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="sponsor-card"
+              title="acrudin"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/48157072?s=52&v=4"
+                alt="acrudin"
+                className="sponsor-avatar"
+              />
+              <span className="sponsor-name">acrudin</span>
             </a>
           </div>
 

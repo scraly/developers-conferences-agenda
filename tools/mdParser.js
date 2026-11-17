@@ -4,6 +4,7 @@ const ROOT = "../";
 const MAIN_INPUT = ROOT + "README.md";
 const TAGS_INPUT = ROOT + "TAGS.csv";
 const METADATA_INPUT = ROOT + "METADATA.csv";
+const CFP_INPUT = ROOT + "CFP.csv";
 const MAIN_OUTPUT = ROOT + "page/src/misc/all-events.json";
 const CFP_OUTPUT = ROOT + "page/src/misc/all-cfps.json";
 const MONTHS_NAMES =
@@ -54,13 +55,41 @@ const parseMetadata = () => {
       const line = lines[i].trim();
       if (!line) continue;
 
-      const [eventId, attendeesPart] = line.split(',');
+      const [rawEventId, ...metadataParts] = line.split(',');
+      const eventId = rawEventId.trim();
+      const metadata = {};
 
-      if (attendeesPart && attendeesPart.startsWith('attendees:')) {
-        const attendees = parseInt(attendeesPart.replace('attendees:', ''), 10);
-        if (!isNaN(attendees)) {
-          metadataMap.set(eventId, { attendees });
+      metadataParts.forEach((part) => {
+        const separatorIndex = part.indexOf(':');
+        if (separatorIndex === -1) return;
+
+        const key = part.slice(0, separatorIndex).trim();
+        const value = part.slice(separatorIndex + 1).trim();
+
+        if (key === 'attendees') {
+          const attendees = parseInt(value, 10);
+          if (!isNaN(attendees)) {
+            metadata.attendees = attendees;
+          }
         }
+
+        if (key === 'recording' && value) {
+          const markdownMatch = value.match(/^\[([^\]]+)\]\((https?:\/\/[^)]+)\)$/);
+          const recordingUrl = markdownMatch ? markdownMatch[2] : value;
+
+          try {
+            const url = new URL(recordingUrl);
+            if (url.protocol === 'http:' || url.protocol === 'https:') {
+              metadata.recording = recordingUrl;
+            }
+          } catch {
+            // Ignore invalid recording URLs.
+          }
+        }
+      });
+
+      if (Object.keys(metadata).length > 0) {
+        metadataMap.set(eventId, metadata);
       }
     }
 
@@ -93,19 +122,26 @@ const extractArchiveFiles = (
         ROOT + archiveLine.trim().replaceAll(/^.*(archives\/.*\.md).*$/g, "$1")
     );
 
-const extractConfs = (markdown) =>
-  extractYearBlocks(markdown).flatMap((y) =>
-    extractMonthBlocks(y.markdown).flatMap((m) =>
+const extractConfs = (markdown, source) =>
+  extractYearBlocks(markdown, source).flatMap((y) =>
+    extractMonthBlocks(y.markdown, source, y.year).flatMap((m) =>
       extractEvents(m.markdown, y.year, m.month)
     )
   );
 
-const extractYearBlocks = (markdown) => {
+const extractYearBlocks = (markdown, source) => {
   const years = [...markdown.matchAll(/^## \d+$/gm)].map((m) => ({
     start: m.index,
     year: m[0].replaceAll(/^\D*(\d+)\D*$/g, "$1"),
   }));
-  if (!years) return;
+  if (years.length === 0) {
+    const wrongLevel = markdown.match(/^(#|#{3,}) *\d{4} *$/m);
+    throw new Error(
+      wrongLevel
+        ? `${source}: titre d'année "${wrongLevel[0].trim()}" au mauvais niveau, utilisez "## ${wrongLevel[0].replaceAll(/\D/g, "")}"`
+        : `${source}: aucun titre d'année "## YYYY" trouvé`
+    );
+  }
   for (let index = 0; index < years.length - 1; index++) {
     const year = years[index];
     year.markdown = markdown.slice(year.start, years[index + 1].start);
@@ -115,7 +151,7 @@ const extractYearBlocks = (markdown) => {
   return years;
 };
 
-const extractMonthBlocks = (yearMarkdown) => {
+const extractMonthBlocks = (yearMarkdown, source, year) => {
   const months = [...yearMarkdown.matchAll(/^### \w+$/gm)]
     .map((m) => ({
       start: m.index,
@@ -125,7 +161,16 @@ const extractMonthBlocks = (yearMarkdown) => {
       ...month,
       month: MONTHS_NAMES.indexOf(month.month_en.toLowerCase()),
     }));
-  if (!months) return;
+  if (months.length === 0) {
+    const wrongLevel = yearMarkdown.match(
+      new RegExp(`^(#{1,2}|#{4,}) *(${MONTHS_NAMES.join("|")}) *$`, "im")
+    );
+    throw new Error(
+      wrongLevel
+        ? `${source} (${year}): titre de mois "${wrongLevel[0].trim()}" au mauvais niveau, utilisez "### Month"`
+        : `${source} (${year}): aucun titre de mois "### Month" trouvé`
+    );
+  }
   for (let index = 0; index < months.length - 1; index++) {
     const month = months[index];
     month.markdown = yearMarkdown.slice(month.start, months[index + 1].start);
@@ -194,6 +239,27 @@ const extractEvents = (monthMarkdown, year, month) => {
   });
 }
 
+const parseCfpDurations = () => {
+  try {
+    const lines = fs.readFileSync(CFP_INPUT, 'utf8').split('\n').slice(1);
+    const durationsMap = new Map();
+
+    for (const line of lines) {
+      const match = line.trim().match(/^(.*?),(?=(?:talk|workshop):)/);
+      if (!match) continue;
+      const durations = line.slice(match[0].length).split(',')
+        .map(duration => duration.trim())
+        .filter(duration => /^(talk|workshop):(?:\d+|half-day|full-day)$/.test(duration));
+      if (durations.length > 0) durationsMap.set(match[1], durations);
+    }
+
+    return durationsMap;
+  } catch (error) {
+    console.warn('CFP.csv not found or invalid, continuing without CFP durations');
+    return new Map();
+  }
+}
+
 const getTimeSpan = (year, month, datespan) => {
   const [startDay, endDay] = datespan.split("-").map((d) => d.trim());
   if (!endDay) {
@@ -252,12 +318,12 @@ const extractCfp = (shieldCode) => {
 
 //main file parsing
 const mainContent = fs.readFileSync(MAIN_INPUT).toString();
-const currentConfs = extractConfs(mainContent);
+const currentConfs = extractConfs(mainContent, MAIN_INPUT);
 
 //archives parsing
 const archives = extractArchiveFiles(mainContent);
 const archiveConfs = archives.flatMap((archive) =>
-  extractConfs(fs.readFileSync(archive).toString())
+  extractConfs(fs.readFileSync(archive).toString(), archive)
 );
 
 //tags parsing
@@ -266,16 +332,21 @@ const tagsMap = parseTags();
 //metadata parsing
 const metadataMap = parseMetadata();
 
+// CFP durations parsing
+const cfpDurationsMap = parseCfpDurations();
+
 //aggregation and tags integration
 const allConfs = archiveConfs.concat(currentConfs).map((conf) => {
   const eventId = generateEventId(conf);
   const tags = tagsMap.get(eventId) || [];
   const metadata = metadataMap.get(eventId) || {};
+  const cfpDurations = cfpDurationsMap.get(eventId);
 
   return {
     ...conf,
     tags,
-    ...metadata
+    ...metadata,
+    cfp: cfpDurations ? { ...conf.cfp, durations: cfpDurations } : conf.cfp,
   };
 });
 

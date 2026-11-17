@@ -1,6 +1,16 @@
 import { useTagsVisibility } from 'contexts/TagsContext';
 import { useFilters } from 'app.hooks';
+import { isLanguageFlag, languageFlags, orderTagsForDisplay } from 'utils/languageFlags';
 import 'styles/TagBadges.css';
+
+const getTagDisplay = (tag) => {
+  if (typeof tag === 'object' && tag.key === 'language' && languageFlags[tag.value]) {
+    return languageFlags[tag.value];
+  }
+
+  return typeof tag === 'object' ? `${tag.key}: ${tag.value}` : tag;
+};
+
 
 const TagBadges = ({tags = [], onTagClick}) => {
   const { tagsVisible } = useTagsVisibility();
@@ -30,13 +40,15 @@ const TagBadges = ({tags = [], onTagClick}) => {
 
   return (
     <div className="tag-badges">
-      {tags.map((tag, index) => (
+      {orderTagsForDisplay(tags).map((tag, index) => (
         <span 
-          className={`tag-badge ${onTagClick ? 'clickable' : ''} ${isSelected(tag) ? 'selected' : ''}`} 
+          className={`tag-badge ${isLanguageFlag(tag) ? 'language-flag' : ''} ${onTagClick ? 'clickable' : ''} ${isSelected(tag) ? 'selected' : ''}`} 
           key={index}
           onClick={() => handleTagClick(tag)}
+          title={typeof tag === 'object' && tag.key === 'language' ? tag.value : undefined}
+          aria-label={typeof tag === 'object' && tag.key === 'language' ? tag.value : undefined}
         >
-          {typeof tag === 'object' ? `${tag.key}: ${tag.value}` : tag}
+          {getTagDisplay(tag)}
         </span>
       ))}
     </div>

@@ -48,7 +48,7 @@ const TagMultiSelect = ({ selectedTags, onChange, showSelectedTags = true }) => 
     Object.keys(tags).forEach(key => {
       const groupOptions = tags[key].map(value => ({
         value: `${key}:${value}`,
-        label: value,
+        label: `${key}: ${value}`,
         groupKey: key
       }));
       
@@ -68,7 +68,7 @@ const TagMultiSelect = ({ selectedTags, onChange, showSelectedTags = true }) => 
       const [key, value] = tagString.split(':');
       return {
         value: tagString,
-        label: value,
+        label: `${key}: ${value}`,
         groupKey: key
       };
     });

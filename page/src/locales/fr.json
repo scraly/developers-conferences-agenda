@@ -22,13 +22,14 @@
     "calendar": "Calendrier",
     "map": "Carte",
     "list": "Liste",
-    "cfp": "CFPs"
+    "cfp": "CFPs",
+    "cfpCompanion": "Compagnon CFP"
   },
   "filters": {
     "title": "Filtres",
     "open": "Ouvrir les filtres",
     "close": "Fermer les filtres",
-    "query": "Requête :",
+    "query": "Requête",
     "location": "Localisation",
     "tags": "Tags :",
     "dateRange": "Période",
@@ -36,23 +37,27 @@
     "showInPerson": "Afficher les événements en présentiel",
     "showHybrid": "Afficher les événements hybrides",
     "continent": "Continent",
-    "country": "Pays :",
+    "country": "Pays",
     "city": "Ville",
     "eventType": "Type d'événement",
     "searchPlaceholder": "Rechercher des conférences...",
-    "cfpUntil": "CFP ouvert jusqu’au :",
+    "cfpUntil": "CFP ouvert jusqu’au",
+    "minAttendees": "Nombre de participants",
+    "minAttendeesPlaceholder": "ex. 500",
     "callForPapersOpen": "CFP ouvert",
     "closedCaptions": "Sous-titres",
     "scholarship": "Scholarship",
     "sponsoring": "Sponsoring",
     "online": "En ligne",
+    "inPerson": "Présentiel",
     "favorites": "Favoris",
-    "region": "Région :",
+    "region": "Région",
     "all": "Tous",
     "sorting": "Tri",
-    "sort": "Trier :",
+    "sort": "Trier",
     "sortEventStartDate": "Date de début",
     "sortCfpCloseDate": "Date de clôture CFP",
+    "sortAttendees": "Nombre de participants",
     "showTags": "Afficher les tags",
     "hideTags": "Masquer les tags",
     "showOnlyFavorites": "Afficher uniquement les favoris",
@@ -62,7 +67,11 @@
     "anyTag": "Correspondre à N'IMPORTE QUEL tag",
     "allTags": "Correspondre à TOUS les tags",
     "excludeMode": "Exclure les tags sélectionnés",
-    "includeMode": "Inclure les tags sélectionnés"
+    "includeMode": "Inclure les tags sélectionnés",
+    "cfpPending": "En attente",
+    "cfpAccepted": "Acceptés",
+    "cfpRejected": "Refusés",
+    "cfpStatus": "Statut CFP"
   },
   "calendar": {
     "today": "Aujourd'hui",
@@ -118,7 +127,11 @@
     "submit": "Soumettre une proposition",
     "viewCfp": "Voir le CFP",
     "submitToCfp": "Soumettre au CFP",
-    "until": "Jusqu'au"
+    "until": "Jusqu'au",
+    "companionStatus": "Mon statut CFP",
+    "applied": "Candidature envoyée",
+    "accepted": "Acceptée",
+    "rejected": "Refusée"
   },
   "map": {
     "title": "Carte des Conférences",
@@ -218,8 +231,8 @@
       "sponsoringUrlInvalid": "Veuillez entrer une URL de sponsoring valide",
       "attendeesInvalid": "Le nombre de participants doit être un nombre entier positif",
       "tagsMax": "Vous pouvez sélectionner jusqu'à {{max}} tags maximum",
-      "tagsLimitHint": "Maximum 5 tags",
-      "tagsLabelSuffix": "(5 max.)",
+      "tagsLimitHint": "Maximum 6 tags",
+      "tagsLabelSuffix": "(6 max.)",
       "endDateBeforeStart": "La date de fin doit être après la date de début",
       "cfpEndDateAfterStart": "La date de fin du CFP doit être avant la date de début de l'événement",
       "cityRequired": "La ville est requise pour les événements non en ligne",
@@ -227,6 +240,12 @@
       "countryRequiredWithCity": "Le pays est requis lorsque la ville est fournie",
       "cityRequiredWithCountry": "La ville est requise lorsque le pays est fourni"
     }
+  },
+  "cfpCompanion": {
+    "talks": "Talks",
+    "workshops": "Ateliers",
+    "submittedFormats": "Formats soumis",
+    "openCfp": "Ouvrir le CFP"
   },
   "year": {
     "selectYear": "Sélectionner l'année",

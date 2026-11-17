@@ -2,7 +2,7 @@ import React from 'react';
 import {useNavigate, useSearchParams, createSearchParams, useParams} from "react-router-dom";
 import { useTranslation } from 'contexts/LanguageContext';
 import 'styles/ViewSelector.css';
-import {Calendar, List, Map, Megaphone} from 'lucide-react';
+import {Calendar, List, Map, Megaphone, Mic} from 'lucide-react';
 
 const ViewSelector = ({selected}) => {
   const navigate = useNavigate();
@@ -11,10 +11,11 @@ const ViewSelector = ({selected}) => {
   const { t } = useTranslation();
 
   const views = [
-    { key: 'cfp',      Icon: Megaphone, label: t('nav.cfp'),      path: `/${year}/cfp` },
-    { key: 'calendar', Icon: Calendar,  label: t('nav.calendar'), path: `/${year}/calendar` },
-    { key: 'list',     Icon: List,      label: t('nav.list'),     path: `/${year}/list` },
-    { key: 'map',      Icon: Map,       label: t('nav.map'),      path: `/${year}/map` },
+    { key: 'cfp',           Icon: Megaphone, label: t('nav.cfp'),          path: `/${year}/cfp` },
+    { key: 'cfp-companion', Icon: Mic,       label: t('nav.cfpCompanion'), path: `/${year}/cfp-companion` },
+    { key: 'calendar',      Icon: Calendar,  label: t('nav.calendar'),     path: `/${year}/calendar` },
+    { key: 'list',          Icon: List,      label: t('nav.list'),         path: `/${year}/list` },
+    { key: 'map',           Icon: Map,       label: t('nav.map'),          path: `/${year}/map` },
   ];
 
   return (

@@ -1,0 +1,38 @@
+.cfp-speaker-status {
+  align-items: center;
+  display: flex;
+  gap: 0.4rem;
+  margin: 0.75rem 1rem 0;
+}
+
+.cfp-speaker-status-button {
+  align-items: center;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 3px;
+  color: var(--text-secondary);
+  cursor: pointer;
+  display: inline-flex;
+  height: 2.25rem;
+  justify-content: center;
+  padding: 0;
+  width: 2.25rem;
+}
+
+.cfp-speaker-status-button.selected.applied {
+  background: var(--color-cta);
+  border-color: var(--color-cta);
+  color: white;
+}
+
+.cfp-speaker-status-button.selected.accepted {
+  background: #287a4e;
+  border-color: #287a4e;
+  color: white;
+}
+
+.cfp-speaker-status-button.selected.rejected {
+  background: #b53636;
+  border-color: #b53636;
+  color: white;
+}
