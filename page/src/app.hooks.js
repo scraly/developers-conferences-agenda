@@ -3,6 +3,9 @@ import allEvents from 'misc/all-events.json'
 import regions from 'misc/regions.json'
 import {useCallback, useMemo} from 'react'
 import {isFavorite} from './utils/favorites'
+import {useFavoritesContext} from 'contexts/FavoritesContext'
+import {useCfpSpeakerStatusContext} from 'contexts/CfpSpeakerStatusContext'
+import {filterEventsBySpeakerStatus} from 'utils/cfpSpeakerStatuses'
 import {getUTCDateValue, getUTCMonth, getUTCYear, isSameUTCDate, isUTCDateInRange} from './utils.js'
 
 // Controls which tag categories appear as filter dropdowns on the page.
@@ -134,6 +137,7 @@ export const useYearEvents = () => {
   const [searchParams] = useSearchParams()
   const search = Object.fromEntries(searchParams)
   const regionsMap = useCountryToRegionMap()
+  const { updateTrigger } = useFavoritesContext()
   const yearEvents = useMemo(() => allEvents.filter((e) => e.date[0] && getUTCYear(e.date[0]) === parseInt(year, 10)), [year])
 
   return useMemo(() => {
@@ -152,7 +156,7 @@ export const useYearEvents = () => {
     result = applyCommonFilters(result, search, regionsMap)
 
     return result
-  }, [yearEvents, searchParams, regionsMap])
+  }, [yearEvents, searchParams, regionsMap, updateTrigger])
 }
 
 /**
@@ -187,6 +191,7 @@ export const useCfpEvents = () => {
   const [searchParams] = useSearchParams()
   const search = Object.fromEntries(searchParams)
   const regionsMap = useCountryToRegionMap()
+  const { updateTrigger } = useFavoritesContext()
 
   return useMemo(() => {
     // Filter by year first
@@ -201,7 +206,33 @@ export const useCfpEvents = () => {
     result = applyCommonFilters(result, search, regionsMap)
 
     return result
-  }, [year, searchParams, regionsMap])
+  }, [year, searchParams, regionsMap, updateTrigger])
+}
+
+export const filterCfpCompanionEventsByYear = (events, year) => {
+  const currentYear = parseInt(year, 10)
+
+  return events.filter(event => (
+    event.date[0]
+    && getUTCYear(event.date[0]) === currentYear
+    && event.cfp?.untilDate
+  ))
+}
+
+export const useCfpCompanionEvents = () => {
+  const { year } = useParams()
+  const [searchParams] = useSearchParams()
+  const search = Object.fromEntries(searchParams)
+  const regionsMap = useCountryToRegionMap()
+  const { updateTrigger: favUpdateTrigger } = useFavoritesContext()
+  const { updateTrigger: statusUpdateTrigger } = useCfpSpeakerStatusContext()
+  const selectedStatuses = (search.cfpStatus || '').split(',').filter(Boolean)
+
+  return useMemo(() => {
+    let events = filterCfpCompanionEventsByYear(allEvents, year)
+    events = applyCommonFilters(events, search, regionsMap)
+    return filterEventsBySpeakerStatus(events, selectedStatuses)
+  }, [year, searchParams, regionsMap, favUpdateTrigger, statusUpdateTrigger])
 }
 
 /**
@@ -322,6 +353,11 @@ export const applyCommonFilters = (events, search, regionsMap) => {
 
   if (search.sponsoring === 'true') {
     result = result.filter((e) => e.sponsoring)
+  }
+
+  const minAttendees = Number(search.minAttendees)
+  if (search.minAttendees !== undefined && search.minAttendees !== '' && Number.isFinite(minAttendees)) {
+    result = result.filter((e) => typeof e.attendees === 'number' && e.attendees > minAttendees)
   }
 
   // Handle multiselect tags filter (AND logic - all selected tags must match)

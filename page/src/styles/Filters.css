@@ -104,6 +104,27 @@
     margin: 2rem 0;
 }
 
+.cfp-companion-status-filters {
+    border: 1px solid var(--border-color);
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin: 0 0 0.75rem;
+    padding: 0.75rem;
+}
+
+.cfp-companion-status-filters legend {
+    color: var(--text-primary);
+    font-size: 0.875rem;
+    font-weight: 600;
+    padding: 0 0.4rem;
+}
+
+.cfp-companion-status-filters .filtersItem label {
+    font-size: 0.875rem;
+}
+
 .filters .filtersItem {
     overflow: hidden;
     white-space: nowrap;
@@ -129,6 +150,12 @@
     border: solid 1px var(--border-dark);
 }
 
+.filters .filtersItem input[type="number"] {
+    padding: 0.5rem 1rem;
+    width: 100%;
+    border: solid 1px var(--border-dark);
+}
+
 .filters .filtersItem label {
     display: inline-block;
     width: 100%;
@@ -136,6 +163,10 @@
 
 .filters .filtersItem label[for=filter-query] {
     display: block;
+}
+
+.filters .filter-min-attendees {
+    margin-top: 10px;
 }
 
 .filters .filtersItem select {
@@ -152,6 +183,12 @@
 #filter-until{
     display: block !important;
     margin-top: 10px;
+}
+
+#filter-min-attendees {
+    display: block !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 #filter-query {

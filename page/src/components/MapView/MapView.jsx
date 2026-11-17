@@ -58,6 +58,7 @@ import { useFavoritesContext } from '../../contexts/FavoritesContext';
 
 import ShortDate from 'components/ShortDate/ShortDate';
 import FavoriteButton from '../FavoriteButton/FavoriteButton';
+import RecordingLink from 'components/RecordingLink/RecordingLink';
 
 const MapView = () => {
   let events = useYearEvents()
@@ -126,6 +127,8 @@ const marker = eventsByLocation[loc].map((e, i) => {
           💰
         </a>
       ) : null}
+
+      <RecordingLink recording={e.recording} />
 
       {e.closedCaptions ? (
         <span>

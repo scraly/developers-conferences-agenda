@@ -11,6 +11,7 @@ import { useFavoritesContext } from '../../contexts/FavoritesContext';
 import { useTranslation } from 'contexts/LanguageContext';
 import { Edit } from 'lucide-react';
 import EditEventInlineForm from 'components/EditEventForm/EditEventInlineForm';
+import RecordingLink from 'components/RecordingLink/RecordingLink';
 
 const cleanMisc = (misc) => {
   // Remove Closed Captions img tag to avoid duplicates
@@ -33,12 +34,19 @@ const ListView = () => {
       if (!a.cfp?.untilDate || !b.cfp?.untilDate) return 0;
       return new Date(a.cfp.untilDate) - new Date(b.cfp.untilDate);
     }
+    if (filters.sort === 'attendees') {
+      const attendeesA = typeof a.attendees === 'number' ? a.attendees : -1;
+      const attendeesB = typeof b.attendees === 'number' ? b.attendees : -1;
+      return attendeesB - attendeesA;
+    }
     return new Date(a.date[0]) - new Date(b.date[0]);
   });
 
   const eventsByMonth = events.reduce((acc, cur) => {
     let monthKey;
-    if (filters.sort === 'cfp' && cur.cfp?.untilDate) {
+    if (filters.sort === 'attendees') {
+      monthKey = 'attendees';
+    } else if (filters.sort === 'cfp' && cur.cfp?.untilDate) {
       monthKey = getMonthName(new Date(cur.cfp.untilDate).getMonth());
     } else {
       monthKey = getMonthName(new Date(cur.date[0]).getMonth());
@@ -50,7 +58,7 @@ const ListView = () => {
     acc[monthKey].push(cur);
 
     // Only add to next month if it's not CFP sort and has multiple dates
-    if (filters.sort !== 'cfp' && cur.date.length > 1) {
+    if (filters.sort !== 'cfp' && filters.sort !== 'attendees' && cur.date.length > 1) {
       const nextMonth = getMonthName(new Date(cur.date[1]).getMonth());
       if (monthKey !== nextMonth) {
         if (!acc[nextMonth]) {
@@ -63,7 +71,7 @@ const ListView = () => {
   }, {});
 
   // Get the month names in the correct order based on sort type
-  const monthOrder = Object.keys(eventsByMonth).sort((a, b) => {
+  const monthOrder = filters.sort === 'attendees' ? ['attendees'] : Object.keys(eventsByMonth).sort((a, b) => {
     const monthA = getMonthNames().indexOf(a);
     const monthB = getMonthNames().indexOf(b);
     return monthA - monthB;
@@ -90,7 +98,9 @@ const ListView = () => {
         
         return (
           <React.Fragment key={month}>
-            <h1 ref={month === currentMonthName ? currentMonthRef : null}>{filters.sort === 'cfp' 
+            <h1 ref={month === currentMonthName ? currentMonthRef : null}>{filters.sort === 'attendees'
+              ? t('filters.sortAttendees')
+              : filters.sort === 'cfp' 
               ? t('months.monthCfpDeadlines').replace('{month}', translatedMonth)
               : t('months.monthEvents').replace('{month}', translatedMonth)
             }</h1>
@@ -126,20 +136,21 @@ const ListView = () => {
                         </span>
                       )}
                     </span>
-
-
                   <span dangerouslySetInnerHTML={{ __html: cleanMisc(e.misc) }} />
 
-                  {e.sponsoring ? (
-                    <span>
-                      <a
-                        className="sponsoring"
-                        href={e.sponsoring}
-                        rel="noreferrer"
-                        target="_blank"
-                      >
-                        💰
-                      </a>
+                  {(e.sponsoring || e.recording) ? (
+                    <span className="event-links">
+                      {e.sponsoring ? (
+                        <a
+                          className="sponsoring"
+                          href={e.sponsoring}
+                          rel="noreferrer"
+                          target="_blank"
+                        >
+                          💰
+                        </a>
+                      ) : null}
+                      <RecordingLink recording={e.recording} />
                     </span>
                   ) : null}
 

@@ -7,6 +7,7 @@
     "Cameroon",
     "Burundi",
     "Republic of the Congo",
+    "Democratic Republic of the Congo",
     "Egypt",
     "Gambia",
     "Ivory Coast",
@@ -50,7 +51,8 @@
     "Cabo Verde",
     "São Tomé and Príncipe",
     "Comoros",
-    "Seychelles"
+    "Seychelles",
+    "Gabon"
   ],
   "Asia": [
     "Russia",
@@ -101,7 +103,8 @@
     "North Korea",
     "Azerbaijan",
     "Kyrgyzstan",
-    "Tajikistan"
+    "Tadjikistan",
+    "Cyprus"
   ],
   "Central America": [
     "Costa Rica",
@@ -182,7 +185,8 @@
     "USA",
     "Canada",
     "Mexico",
-    "Martinique"
+    "Martinique",
+    "Puerto Rico"
   ],
   "Oceania": [
     "Australia",

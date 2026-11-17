@@ -15,6 +15,10 @@
     "latitude": 5.1215877,
     "longitude": 7.3732655
   },
+  "Abakaliki (Nigeria)": {
+    "latitude": 6.3208897,
+    "longitude": 8.1133202
+  },
   "Abdeen (Egypt)": {
     "latitude": 30.0386242,
     "longitude": 31.4538405
@@ -27,9 +31,17 @@
     "latitude": 52.4143113,
     "longitude": -4.0816846
   },
+  "Abia (Nigeria)": {
+    "latitude": 5.4540953,
+    "longitude": 7.5153071
+  },
   "Abomey-Calavi (Benin)": {
     "latitude": 6.51096225,
     "longitude": 2.3303076367454025
+  },
+  "Abomey-calavi (Benin)": {
+    "latitude": 6.4538637,
+    "longitude": 2.354245
   },
   "Abraka (Nigeria)": {
     "latitude": 5.7836006,
@@ -59,6 +71,14 @@
     "latitude": 6.6,
     "longitude": 2.933333
   },
+  "Ado Ekiti (Nigeria)": {
+    "latitude": 7.6232482,
+    "longitude": 5.22274
+  },
+  "Afyonkarahisar Merkez (Turkey)": {
+    "latitude": 38.7568597,
+    "longitude": 30.5387044
+  },
   "Agadir (Morocco)": {
     "latitude": 30.4205162,
     "longitude": -9.5838532
@@ -79,6 +99,22 @@
     "latitude": 43.5298424,
     "longitude": 5.4474738
   },
+  "Akure (Nigeria)": {
+    "latitude": 7.2525595,
+    "longitude": 5.1932647
+  },
+  "Al Mansura (Yemen)": {
+    "latitude": 12.8432146,
+    "longitude": 44.9712778
+  },
+  "Alaior (Spain)": {
+    "latitude": 39.9337077,
+    "longitude": 4.1397673
+  },
+  "Albacete (Spain)": {
+    "latitude": 38.9950921,
+    "longitude": -1.8559154
+  },
   "Albany, NY (USA)": {
     "latitude": 42.6525793,
     "longitude": -73.7562317
@@ -90,6 +126,10 @@
   "Albuquerque, NM (USA)": {
     "latitude": 35.0841034,
     "longitude": -106.650985
+  },
+  "Alexandria (Egypt)": {
+    "latitude": 31.1991806,
+    "longitude": 29.8951716
   },
   "Alexandria, VA (USA)": {
     "latitude": 38.8051095,
@@ -151,9 +191,17 @@
     "latitude": 36.8872942,
     "longitude": 30.7074549
   },
+  "Antananarivo (Madagascar)": {
+    "latitude": -18.9100122,
+    "longitude": 47.5255809
+  },
   "Antigua Guatemala (Guatemala)": {
     "latitude": 14.5567814,
     "longitude": -90.7337346
+  },
+  "Antsirabé (Madagascar)": {
+    "latitude": -19.871403,
+    "longitude": 47.034667
   },
   "Antwerp (Belgium)": {
     "latitude": 51.2211097,
@@ -166,6 +214,10 @@
   "Apenheul (Netherlands)": {
     "latitude": 52.215326,
     "longitude": 5.9187439
+  },
+  "Aqaba (Jordan)": {
+    "latitude": 29.5266483,
+    "longitude": 35.0075433
   },
   "Aracaju (Brazil)": {
     "latitude": -10.9266526,
@@ -215,6 +267,14 @@
     "latitude": -25.2800459,
     "longitude": -57.6343814
   },
+  "Aswan (Egypt)": {
+    "latitude": 24.091071,
+    "longitude": 32.897306
+  },
+  "Atakum (Turkey)": {
+    "latitude": 41.3311,
+    "longitude": 36.2667
+  },
   "Athens (Greece)": {
     "latitude": 37.9755648,
     "longitude": 23.7348324
@@ -222,6 +282,10 @@
   "Atlanta, GA (USA)": {
     "latitude": 33.7489924,
     "longitude": -84.3902644
+  },
+  "Atyrau (Kazakhstan)": {
+    "latitude": 47.6605827,
+    "longitude": 50.806203
   },
   "Auckland (New Zealand)": {
     "latitude": -36.5412811,
@@ -262,6 +326,10 @@
   "Bahia Blanca (Argentina)": {
     "latitude": -38.7176522,
     "longitude": -62.2654871
+  },
+  "Baku (Azerbaijan)": {
+    "latitude": 40.3755885,
+    "longitude": 49.8328009
   },
   "Bali (Indonesia)": {
     "latitude": -8.456018100000001,
@@ -319,9 +387,25 @@
     "latitude": 5.270447,
     "longitude": 100.4196629
   },
+  "Batumi (Georgia)": {
+    "latitude": 41.6509502,
+    "longitude": 41.6360085
+  },
+  "Bauchi (Nigeria)": {
+    "latitude": 10.6228284,
+    "longitude": 10.0287754
+  },
   "Bay Area, CA (USA)": {
     "latitude": 37.7884969,
     "longitude": -122.3558473
+  },
+  "Bayraklı (Turkey)": {
+    "latitude": 38.4639144,
+    "longitude": 27.1644029
+  },
+  "Beer-Sheva (Israel)": {
+    "latitude": 31.2457442,
+    "longitude": 34.7925181
   },
   "Beijing (China)": {
     "latitude": 39.904211,
@@ -351,6 +435,10 @@
     "latitude": 47.6144219,
     "longitude": -122.192337
   },
+  "Bellingham, WA (USA)": {
+    "latitude": 48.7544012,
+    "longitude": -122.478836
+  },
   "Belo Horizonte (Brazil)": {
     "latitude": -19.919052,
     "longitude": -43.9386685
@@ -367,9 +455,25 @@
     "latitude": 12.98815675,
     "longitude": 77.62260003796
   },
+  "Benha (Egypt)": {
+    "latitude": 30.4624974,
+    "longitude": 31.184063
+  },
+  "Beni Suef (Egypt)": {
+    "latitude": 28.8382688,
+    "longitude": 30.8544768
+  },
   "Benidorm (Spain)": {
     "latitude": 38.5411928,
     "longitude": -0.1233831
+  },
+  "Benin City (Nigeria)": {
+    "latitude": 6.3330586,
+    "longitude": 5.6221058
+  },
+  "Bergamo (Italy)": {
+    "latitude": 45.7566557,
+    "longitude": 9.7542192
   },
   "Bergen (Norway)": {
     "latitude": 60.3943055,
@@ -419,6 +523,10 @@
     "latitude": 43.62685099999999,
     "longitude": 7.09808
   },
+  "Birkirkara (Malta)": {
+    "latitude": 35.8994577,
+    "longitude": 14.4649552
+  },
   "Birmingham (UK)": {
     "latitude": 52.4796992,
     "longitude": -1.9026911
@@ -462,6 +570,10 @@
   "Bonn (Germany)": {
     "latitude": 50.73743,
     "longitude": 7.0982068
+  },
+  "Bonny (Nigeria)": {
+    "latitude": 4.505781,
+    "longitude": 7.203466
   },
   "Bordeaux (France)": {
     "latitude": 44.841225,
@@ -571,13 +683,21 @@
     "latitude": -3.3638125,
     "longitude": 29.3675028
   },
-  "Bukavu (Republic of the Congo)": {
+  "Bukavu (Democratic Republic of the Congo)": {
     "latitude": -2.4982396,
     "longitude": 28.8549055
+  },
+  "Bunnik (Netherlands)": {
+    "latitude": 52.0391518,
+    "longitude": 5.2203198
   },
   "Burgos (Spain)": {
     "latitude": 42.3504659,
     "longitude": -3.689354499999999
+  },
+  "Burlingame, CA (USA)": {
+    "latitude": 37.5780965,
+    "longitude": -122.3473099
   },
   "Burlington, MA (USA)": {
     "latitude": 42.5047161,
@@ -594,6 +714,10 @@
   "Bydgoszcz (Poland)": {
     "latitude": 53.12974625,
     "longitude": 18.029369658534854
+  },
+  "Béja (Tunisia)": {
+    "latitude": 36.7236755,
+    "longitude": 9.185382
   },
   "Caceres (Spain)": {
     "latitude": 39.759172500000005,
@@ -618,6 +742,10 @@
   "Cairo (Egypt)": {
     "latitude": 30.0443879,
     "longitude": 31.2357257
+  },
+  "Cairo Governorate Desert (Egypt)": {
+    "latitude": 30.301867,
+    "longitude": 31.8141442
   },
   "Cakovec (Croatia)": {
     "latitude": 46.3892305,
@@ -695,9 +823,17 @@
     "latitude": 48.8526892,
     "longitude": 2.6027219
   },
+  "Chania (Greece)": {
+    "latitude": 35.5120831,
+    "longitude": 24.0191544
+  },
   "Chapecó (Brazil)": {
     "latitude": -27.1110472,
     "longitude": -52.5958977
+  },
+  "Charleroi (Belgium)": {
+    "latitude": 50.4116233,
+    "longitude": 4.444528
   },
   "Charleston, SC (USA)": {
     "latitude": 32.7884363,
@@ -714,6 +850,10 @@
   "Chattanooga, TN (USA)": {
     "latitude": 35.0457984,
     "longitude": -85.3093995
+  },
+  "Chelmsford (UK)": {
+    "latitude": 51.7345329,
+    "longitude": 0.4730532
   },
   "Cheltenham (UK)": {
     "latitude": 51.8995685,
@@ -743,6 +883,10 @@
     "latitude": 48.7630238,
     "longitude": 2.4093664
   },
+  "Chongwe (Zambia)": {
+    "latitude": -15.3292,
+    "longitude": 28.682
+  },
   "Christchurch (New Zealand)": {
     "latitude": -43.530955,
     "longitude": 172.6364343
@@ -754,6 +898,10 @@
   "Château de Massillan’ - Drome (France)": {
     "latitude": 44.2330208,
     "longitude": 4.793006999999999
+  },
+  "Châtillon (France)": {
+    "latitude": 46.6591772,
+    "longitude": 5.7302769
   },
   "Chía (Colombia)": {
     "latitude": 4.8660334,
@@ -887,6 +1035,10 @@
     "latitude": -31.42008329999999,
     "longitude": -64.1887761
   },
+  "Córdoba (Spain)": {
+    "latitude": 37.8845813,
+    "longitude": -4.7760138
+  },
   "Da Nang (Vietnam)": {
     "latitude": 16.068,
     "longitude": 108.212
@@ -902,6 +1054,10 @@
   "Dallas/Irving, Texas (USA)": {
     "latitude": 32.891402049999996,
     "longitude": -96.97086265455442
+  },
+  "Damanhour (Egypt)": {
+    "latitude": 31.0374982,
+    "longitude": 30.4710625
   },
   "Dar es Salaam (Tanzania)": {
     "latitude": -6.8165054,
@@ -959,6 +1115,10 @@
     "latitude": 48.4539775,
     "longitude": -2.047687
   },
+  "Doetinchem (Netherlands)": {
+    "latitude": 51.9585348,
+    "longitude": 6.2814551
+  },
   "Doha (Qatar)": {
     "latitude": 25.2856329,
     "longitude": 51.5264162
@@ -999,13 +1159,33 @@
     "latitude": 35.996653,
     "longitude": -78.9018053
   },
+  "Dushanbe (Tadjikistan)": {
+    "latitude": 38.5767045,
+    "longitude": 68.785433
+  },
   "Dusseldorf (Germany)": {
     "latitude": 51.2254018,
     "longitude": 6.7763137
   },
+  "Dutse (Nigeria)": {
+    "latitude": 11.6909859,
+    "longitude": 9.3390747
+  },
+  "Döşemealtı (Turkey)": {
+    "latitude": 37.022956,
+    "longitude": 30.6013333
+  },
   "Eau Claire, WI (USA)": {
     "latitude": 44.811349,
     "longitude": -91.4984941
+  },
+  "Echirolles (France)": {
+    "latitude": 45.1481694,
+    "longitude": 5.718687
+  },
+  "Ecublens (Switzerland)": {
+    "latitude": 46.5258,
+    "longitude": 6.5621137
   },
   "Ede (Netherlands)": {
     "latitude": 52.07168255,
@@ -1027,6 +1207,10 @@
     "latitude": 53.5462055,
     "longitude": -113.491241
   },
+  "Effurun (Nigeria)": {
+    "latitude": 5.5555007,
+    "longitude": 5.7850099
+  },
   "Eindhoven (Netherlands)": {
     "latitude": 51.4392648,
     "longitude": 5.478633
@@ -1043,9 +1227,21 @@
     "latitude": -16.5048228,
     "longitude": -68.1624337
   },
+  "El Basatin (Egypt)": {
+    "latitude": 29.9828354,
+    "longitude": 31.2825654
+  },
   "El Jadida (Morocco)": {
     "latitude": 33.2293229,
     "longitude": -8.4993567
+  },
+  "El-Fath (Egypt)": {
+    "latitude": 30.8103584,
+    "longitude": 33.6318014
+  },
+  "Elazığ (Turkey)": {
+    "latitude": 38.5824771,
+    "longitude": 39.396179
   },
   "Eldoret (Kenya)": {
     "latitude": 0.5142774999999999,
@@ -1066,6 +1262,10 @@
   "Essaouira (Morocco)": {
     "latitude": 31.5118281,
     "longitude": -9.7620903
+  },
+  "Essen (Germany)": {
+    "latitude": 51.4582235,
+    "longitude": 7.0158171
   },
   "Exeter (UK)": {
     "latitude": 50.72603669999999,
@@ -1143,9 +1343,17 @@
     "latitude": 38.84670819999999,
     "longitude": -91.94795859999999
   },
+  "Gaborone (Botswana)": {
+    "latitude": -24.6581357,
+    "longitude": 25.9088474
+  },
   "Gabrovo (Bulgaria)": {
     "latitude": 42.9638895,
     "longitude": 25.211953846464205
+  },
+  "Gandhinagar (India)": {
+    "latitude": 23.2232877,
+    "longitude": 72.6492267
   },
   "Garanhuns (Brazil)": {
     "latitude": -8.8905889,
@@ -1199,6 +1407,10 @@
     "latitude": 34.895926,
     "longitude": -83.4665496
   },
+  "Ghardaia (Algeria)": {
+    "latitude": 32.440827,
+    "longitude": 3.5618209
+  },
   "Ghent (Belgium)": {
     "latitude": 51.0538286,
     "longitude": 3.7250121
@@ -1211,6 +1423,10 @@
     "latitude": 33.3527632,
     "longitude": -111.789037
   },
+  "Girona (Spain)": {
+    "latitude": 41.9793006,
+    "longitude": 2.8199439
+  },
   "Gladstone (Australia)": {
     "latitude": -23.8431724,
     "longitude": 151.256132
@@ -1222,6 +1438,10 @@
   "Glenpool, OK (USA)": {
     "latitude": 35.9553523,
     "longitude": -96.008778
+  },
+  "Glenside, PA (USA)": {
+    "latitude": 40.103196,
+    "longitude": -75.1515534
   },
   "Gliwice (Poland)": {
     "latitude": 50.294113,
@@ -1246,6 +1466,14 @@
   "Golfe du morbihan (France)": {
     "latitude": 47.5976972,
     "longitude": -2.7533397586005415
+  },
+  "Goma (Republic of the Congo)": {
+    "latitude": -3.4202177,
+    "longitude": 12.3951821
+  },
+  "Gombe (Nigeria)": {
+    "latitude": 10.4304018,
+    "longitude": 11.2065408
   },
   "Granada (Spain)": {
     "latitude": 37.1774605,
@@ -1303,6 +1531,10 @@
     "latitude": 28.4646148,
     "longitude": 77.0299194
   },
+  "Gusau (Nigeria)": {
+    "latitude": 12.1658358,
+    "longitude": 6.6606398
+  },
   "Gwalior (India)": {
     "latitude": 26.2037247,
     "longitude": 78.1573628
@@ -1322,6 +1554,10 @@
   "Halifax, NS (Canada)": {
     "latitude": 44.648618,
     "longitude": -63.5859487
+  },
+  "Halle (Germany)": {
+    "latitude": 51.4824354,
+    "longitude": 11.9712985
   },
   "Hamburg (Germany)": {
     "latitude": 53.550341,
@@ -1351,9 +1587,17 @@
     "latitude": -17.8567035,
     "longitude": 31.0601584
   },
+  "Harcourt (Nigeria)": {
+    "latitude": 4.7676576,
+    "longitude": 7.0188527
+  },
   "Haringhata (India)": {
     "latitude": 22.96077,
     "longitude": 88.5674629
+  },
+  "Hasselt (Belgium)": {
+    "latitude": 50.9303735,
+    "longitude": 5.3378043
   },
   "Hawai (USA)": {
     "latitude": 19.593801499999998,
@@ -1431,9 +1675,21 @@
     "latitude": 29.7589382,
     "longitude": -95.3676974
   },
+  "Huelva (Spain)": {
+    "latitude": 37.2575874,
+    "longitude": -6.9484945
+  },
   "Hull (UK)": {
     "latitude": 53.7435722,
     "longitude": -0.3394758
+  },
+  "Huntsville, AL (USA)": {
+    "latitude": 34.729847,
+    "longitude": -86.5859011
+  },
+  "Hurghada (Egypt)": {
+    "latitude": 27.222556,
+    "longitude": 33.8307062
   },
   "Hyderabad (India)": {
     "latitude": 17.406498,
@@ -1467,6 +1723,10 @@
     "latitude": 6.6191233,
     "longitude": 3.5041271
   },
+  "Ikot Ekpene (Nigeria)": {
+    "latitude": 5.181975,
+    "longitude": 7.7132177
+  },
   "Ilanz (Switzerland)": {
     "latitude": 46.775575,
     "longitude": 9.2054956
@@ -1474,6 +1734,10 @@
   "Illinois (USA)": {
     "latitude": 40.0796606,
     "longitude": -89.4337288
+  },
+  "Ilorin (Nigeria)": {
+    "latitude": 8.4963657,
+    "longitude": 4.5480484
   },
   "Imola (Italy)": {
     "latitude": 44.3535145,
@@ -1494,6 +1758,10 @@
   "Indore (India)": {
     "latitude": 22.7195687,
     "longitude": 75.8577258
+  },
+  "Innsbruck (Austria)": {
+    "latitude": 47.2654296,
+    "longitude": 11.3927685
   },
   "Ioannina (Greece)": {
     "latitude": 39.6639818,
@@ -1523,6 +1791,10 @@
     "latitude": 33.6938118,
     "longitude": 73.0651511
   },
+  "Ismailia (Egypt)": {
+    "latitude": 30.6043775,
+    "longitude": 32.2770825
+  },
   "Issy-les-Moulineaux (France)": {
     "latitude": 48.8250508,
     "longitude": 2.273457
@@ -1530,6 +1802,10 @@
   "Istanbul (Turkey)": {
     "latitude": 41.0091982,
     "longitude": 28.9662187
+  },
+  "Italy": {
+    "latitude": 42.6384261,
+    "longitude": 12.674297
   },
   "Izmit (Turkey)": {
     "latitude": 40.7721138,
@@ -1566,6 +1842,10 @@
   "Jaén (Spain)": {
     "latitude": 37.7795941,
     "longitude": -3.784905699999999
+  },
+  "Jerez de la Frontera (Spain)": {
+    "latitude": 36.6816936,
+    "longitude": -6.1377402
   },
   "Jersey City (USA)": {
     "latitude": 40.7215682,
@@ -1607,6 +1887,10 @@
     "latitude": 62.2417066,
     "longitude": 25.7495727
   },
+  "Kaduna (Nigeria)": {
+    "latitude": 10.3825318,
+    "longitude": 7.8533226
+  },
   "Kampala (Uganda)": {
     "latitude": 0.3177137,
     "longitude": 32.5813539
@@ -1631,9 +1915,21 @@
     "latitude": 49.0068901,
     "longitude": 8.4036527
   },
+  "Kassel (Germany)": {
+    "latitude": 51.3157833,
+    "longitude": 9.4978479
+  },
+  "Kastamonu Merkez (Turkey)": {
+    "latitude": 41.3765359,
+    "longitude": 33.7770087
+  },
   "Kathmandu (Nepal)": {
     "latitude": 27.708317,
     "longitude": 85.3205817
+  },
+  "Keffi (Nigeria)": {
+    "latitude": 8.8453176,
+    "longitude": 7.876834
   },
   "Kerala (India)": {
     "latitude": 10.3528744,
@@ -1667,6 +1963,10 @@
     "latitude": 53.7674909,
     "longitude": -0.3273025
   },
+  "Kinshasa (Republic of the Congo)": {
+    "latitude": -4.8093214,
+    "longitude": 11.8710397
+  },
   "Kirklareli (Turkey)": {
     "latitude": 41.7078046,
     "longitude": 27.6051334
@@ -1674,6 +1974,10 @@
   "Kisii (Kenya)": {
     "latitude": -0.7389425,
     "longitude": 34.7539855
+  },
+  "Kisumu (Kenya)": {
+    "latitude": -0.1029109,
+    "longitude": 34.7541761
   },
   "Kitwe (Zambia)": {
     "latitude": -12.8104186,
@@ -1686,6 +1990,10 @@
   "Kobe (Japan)": {
     "latitude": 38.9888851,
     "longitude": -76.9893733
+  },
+  "Kocasinan (Turkey)": {
+    "latitude": 38.7362583,
+    "longitude": 35.4949806
   },
   "Kochi (India)": {
     "latitude": 9.9674277,
@@ -1731,9 +2039,17 @@
     "latitude": 46.1640284,
     "longitude": 15.8700586
   },
+  "Kristiansand (Norway)": {
+    "latitude": 58.0856276,
+    "longitude": 7.931858
+  },
   "Kuala Lumpur (Malaysia)": {
     "latitude": 3.1319197,
     "longitude": 101.6840589
+  },
+  "Kumasi (Ghana)": {
+    "latitude": 6.6985605,
+    "longitude": -1.6233086
   },
   "Kutaisi (Georgia)": {
     "latitude": 42.2716078,
@@ -1750,6 +2066,14 @@
   "Köln (Germany)": {
     "latitude": 50.938361,
     "longitude": 6.959974
+  },
+  "Kütahya Merkez (Turkey)": {
+    "latitude": 39.4199106,
+    "longitude": 29.9857886
+  },
+  "Kırklareli Merkez (Turkey)": {
+    "latitude": 41.7370223,
+    "longitude": 27.2235523
   },
   "L'aquila (Italy)": {
     "latitude": 42.1368853,
@@ -1771,9 +2095,17 @@
     "latitude": 46.1591126,
     "longitude": -1.1520434
   },
+  "Lafia (Nigeria)": {
+    "latitude": 8.4960459,
+    "longitude": 8.5147636
+  },
   "Lagos (Nigeria)": {
     "latitude": 6.4550575,
     "longitude": 3.3941795
+  },
+  "Lagos (Portugal)": {
+    "latitude": 37.1027964,
+    "longitude": -8.6728689
   },
   "Lahore (Pakistan)": {
     "latitude": 31.5656822,
@@ -1790,6 +2122,10 @@
   "Larvik (Norway)": {
     "latitude": 59.0967308,
     "longitude": 10.021929959972812
+  },
+  "Las Cruces, NM (USA)": {
+    "latitude": 32.3140354,
+    "longitude": -106.779807
   },
   "Las Vegas, NV (USA)": {
     "latitude": 36.1672559,
@@ -1834,6 +2170,10 @@
   "Liberia (Costa Rica)": {
     "latitude": 10.62967,
     "longitude": -85.4382519
+  },
+  "Libreville (Gabon)": {
+    "latitude": 0.4086518,
+    "longitude": 9.4418849
   },
   "Lihue, HI (USA)": {
     "latitude": 21.9742235,
@@ -1891,6 +2231,10 @@
     "latitude": 42.4627195,
     "longitude": -2.4449852
   },
+  "Loire Valley (France)": {
+    "latitude": 47.4492772,
+    "longitude": -0.349549
+  },
   "Lokoja (Nigeria)": {
     "latitude": 7.802355,
     "longitude": 6.7430327
@@ -1922,6 +2266,10 @@
   "Luanda (Angola)": {
     "latitude": -8.8272699,
     "longitude": 13.2439512
+  },
+  "Lubumbashi (Democratic Republic of the Congo)": {
+    "latitude": -11.6642316,
+    "longitude": 27.4826264
   },
   "Lucknow (India)": {
     "latitude": 26.8381,
@@ -1963,6 +2311,10 @@
     "latitude": 45.7578137,
     "longitude": 4.8320114
   },
+  "MASERU (Lesotho)": {
+    "latitude": -29.310054,
+    "longitude": 27.478222
+  },
   "Maceió (Brazil)": {
     "latitude": -9.6660417,
     "longitude": -35.7352167
@@ -1979,6 +2331,10 @@
     "latitude": 39.5095681,
     "longitude": 2.535724
   },
+  "Maiduguri (Nigeria)": {
+    "latitude": 11.8395375,
+    "longitude": 13.1536214
+  },
   "Mainz (Germany)": {
     "latitude": 50.0012314,
     "longitude": 8.2762513
@@ -1986,6 +2342,10 @@
   "Makassar (Indonesia)": {
     "latitude": -5.1342962,
     "longitude": 119.4124282
+  },
+  "Makurdi (Nigeria)": {
+    "latitude": 7.7312634,
+    "longitude": 8.538425
   },
   "Malaga (Spain)": {
     "latitude": 36.7213028,
@@ -2038,6 +2398,14 @@
   "Maputo (Mozambique)": {
     "latitude": -25.966213,
     "longitude": 32.56745
+  },
+  "Maradi (Niger)": {
+    "latitude": 13.501206,
+    "longitude": 7.102534
+  },
+  "Marbella (Spain)": {
+    "latitude": 36.5074781,
+    "longitude": -4.8047219
   },
   "Marburg (Germany)": {
     "latitude": 50.8090106,
@@ -2131,6 +2499,10 @@
     "latitude": 46.2283226,
     "longitude": 6.0712016
   },
+  "Mezitli (Turkey)": {
+    "latitude": 36.7495289,
+    "longitude": 34.5307018
+  },
   "Miami, FL (USA)": {
     "latitude": 25.7741728,
     "longitude": -80.19362
@@ -2146,6 +2518,14 @@
   "Milwaukee, WI (USA)": {
     "latitude": 43.0410344,
     "longitude": -87.9096783
+  },
+  "Minato (Japan)": {
+    "latitude": 35.6580089,
+    "longitude": 139.7515137
+  },
+  "Minna (Nigeria)": {
+    "latitude": 9.6187093,
+    "longitude": 6.5475752
   },
   "Minneapolis, MN (USA)": {
     "latitude": 44.9772995,
@@ -2215,6 +2595,10 @@
     "latitude": 28.3347722,
     "longitude": -10.371337908392647
   },
+  "Moschato (Greece)": {
+    "latitude": 37.9552355,
+    "longitude": 23.6802925
+  },
   "Moscow (Russia)": {
     "latitude": 55.7505412,
     "longitude": 37.6174782
@@ -2258,6 +2642,14 @@
   "Murten (Switzerland)": {
     "latitude": 46.9288643,
     "longitude": 7.1163909
+  },
+  "Mysuru (India)": {
+    "latitude": 12.3041464,
+    "longitude": 76.6529521
+  },
+  "Málaga (Spain)": {
+    "latitude": 36.7647913,
+    "longitude": -4.4422005
   },
   "Móstoles (Spain)": {
     "latitude": 40.3232129,
@@ -2315,6 +2707,10 @@
     "latitude": 39.5158825,
     "longitude": -116.853722
   },
+  "New Cairo 1 (Egypt)": {
+    "latitude": 29.9878661,
+    "longitude": 31.5707655
+  },
   "New Delhi (India)": {
     "latitude": 28.6419258,
     "longitude": 77.2217499
@@ -2355,6 +2751,10 @@
     "latitude": 43.7009358,
     "longitude": 7.2683912
   },
+  "Nicosia (Cyprus)": {
+    "latitude": 35.1746503,
+    "longitude": 33.3638783
+  },
   "Nieuwegein (Netherlands)": {
     "latitude": 52.0367152,
     "longitude": 5.0836117
@@ -2366,6 +2766,10 @@
   "Norwich (UK)": {
     "latitude": 52.6292567,
     "longitude": 1.2978802
+  },
+  "Nsugbe (Nigeria)": {
+    "latitude": 6.22312,
+    "longitude": 6.8048261
   },
   "Nuevo Chimbote (Peru)": {
     "latitude": -9.105264799999999,
@@ -2403,6 +2807,10 @@
     "latitude": 55.40375599999999,
     "longitude": 10.40237
   },
+  "Ogbomoso (Nigeria)": {
+    "latitude": 8.133,
+    "longitude": 4.25
+  },
   "Ogun (Nigeria)": {
     "latitude": 6.997974699999999,
     "longitude": 3.4737378
@@ -2414,6 +2822,10 @@
   "Omni La Costa Resort & Spa Carlsbad, California (USA)": {
     "latitude": 33.091985449999996,
     "longitude": -117.26610534145561
+  },
+  "Onitsha (Nigeria)": {
+    "latitude": 6.1461619,
+    "longitude": 6.8019088
   },
   "Opatija (Croatia)": {
     "latitude": 45.3376197,
@@ -2439,6 +2851,10 @@
     "latitude": 48.699184,
     "longitude": 2.187457
   },
+  "Ortahisar (Turkey)": {
+    "latitude": 41.0062151,
+    "longitude": 39.7257588
+  },
   "Osaka (Japan)": {
     "latitude": 34.6937569,
     "longitude": 135.5014539
@@ -2446,6 +2862,10 @@
   "Oslo (Norway)": {
     "latitude": 59.9133301,
     "longitude": 10.7389701
+  },
+  "Osmangazi̇ (Turkey)": {
+    "latitude": 40.7992416,
+    "longitude": 29.3801162
   },
   "Osogbo (Nigeria)": {
     "latitude": 7.7583223,
@@ -2483,9 +2903,17 @@
     "latitude": 5.489736,
     "longitude": 7.0341973
   },
+  "Oxfordshire (UK)": {
+    "latitude": 51.833333,
+    "longitude": -1.25
+  },
   "Oyo State (Nigeria)": {
     "latitude": 8.2151249,
     "longitude": 3.5642897
+  },
+  "Paderborn (Germany)": {
+    "latitude": 51.7177044,
+    "longitude": 8.752653
   },
   "Palaiseau (France)": {
     "latitude": 48.714509,
@@ -2498,6 +2926,10 @@
   "Palermo (Italy)": {
     "latitude": 38.1112268,
     "longitude": 13.3524434
+  },
+  "Palma de Mallorca (Spain)": {
+    "latitude": 39.5695818,
+    "longitude": 2.6500745
   },
   "Palo Alto (USA)": {
     "latitude": 37.4443293,
@@ -2527,6 +2959,10 @@
     "latitude": 48.811223,
     "longitude": 2.3021311
   },
+  "Park (UK)": {
+    "latitude": 54.865111,
+    "longitude": -7.0807098
+  },
   "Park City, UT (USA)": {
     "latitude": 40.6460622,
     "longitude": -111.4979729
@@ -2538,6 +2974,10 @@
   "Pasadena, CA (USA)": {
     "latitude": 34.1476507,
     "longitude": -118.1441551
+  },
+  "Pavlodar (Kazakhstan)": {
+    "latitude": 51.8111545,
+    "longitude": 76.4285287
   },
   "Pelotas (Brazil)": {
     "latitude": -31.7699736,
@@ -2603,13 +3043,17 @@
     "latitude": 40.4416941,
     "longitude": -79.9900861
   },
-  "Pituaçu (Salvador)": {
+  "Pituaçu (Brazil)": {
     "latitude": -12.9651749,
     "longitude": -38.4143371
   },
   "Piura (Peru)": {
     "latitude": -5,
     "longitude": -80.333333
+  },
+  "Plovdiv (Bulgaria)": {
+    "latitude": 42.1418541,
+    "longitude": 24.7499297
   },
   "Plymouth (UK)": {
     "latitude": 50.3712659,
@@ -2638,6 +3082,10 @@
   "Pordenone (Italy)": {
     "latitude": 45.9562503,
     "longitude": 12.6597197
+  },
+  "Poreč (Croatia)": {
+    "latitude": 45.2271961,
+    "longitude": 13.5957333
   },
   "Porirua (New Zealand)": {
     "latitude": -41.1354217,
@@ -2787,6 +3235,14 @@
     "latitude": 47.2266239,
     "longitude": 8.818437399999999
   },
+  "Rapperswil-Jona (Switzerland)": {
+    "latitude": 47.229817,
+    "longitude": 8.8597003
+  },
+  "Reading (UK)": {
+    "latitude": 51.4564242,
+    "longitude": -0.9700664
+  },
   "Recife (Brazil)": {
     "latitude": -8.0584933,
     "longitude": -34.8848193
@@ -2822,6 +3278,10 @@
   "Rhineland Palatinate (Germany)": {
     "latitude": 49.9531599,
     "longitude": 7.310646
+  },
+  "Rhondda Cynon Taf (UK)": {
+    "latitude": 51.6651636,
+    "longitude": -3.4577558
   },
   "Richmond (Australia)": {
     "latitude": -37.8238936,
@@ -2887,6 +3347,10 @@
     "latitude": 48.2659347,
     "longitude": 7.7263213
   },
+  "Sacramento, CA (USA)": {
+    "latitude": 38.5810606,
+    "longitude": -121.493895
+  },
   "Saint Paul, MN (USA)": {
     "latitude": 44.9537029,
     "longitude": -93.0899578
@@ -2902,10 +3366,6 @@
   "Saint-Louis, MI (USA)": {
     "latitude": 43.4083637,
     "longitude": -84.6066704
-  },
-  "Saint-Maur-des-Fossés (France)": {
-    "latitude": 48.8033057,
-    "longitude": 2.4853015
   },
   "Salford (UK)": {
     "latitude": 53.4877463,
@@ -2955,6 +3415,10 @@
     "latitude": 9.9280694,
     "longitude": -84.0907246
   },
+  "San Juan (Puerto Rico)": {
+    "latitude": 18.384239,
+    "longitude": -66.05344
+  },
   "San Miguel (El Salvador)": {
     "latitude": 13.4803899,
     "longitude": -88.17722
@@ -2966,6 +3430,10 @@
   "San Salvador (El Salvador)": {
     "latitude": 13.6929403,
     "longitude": -89.2181911
+  },
+  "San Vicente del Raspeig (Spain)": {
+    "latitude": 38.3964248,
+    "longitude": -0.5250339
   },
   "Sandusky, OH (USA)": {
     "latitude": 41.2951563,
@@ -3003,6 +3471,14 @@
     "latitude": -30.3154739,
     "longitude": -61.1645076
   },
+  "Santa Monica, CA (USA)": {
+    "latitude": 34.0194704,
+    "longitude": -118.491227
+  },
+  "Santander (Spain)": {
+    "latitude": 43.4618932,
+    "longitude": -3.8100255
+  },
   "Santiago (Chile)": {
     "latitude": -33.4377756,
     "longitude": -70.6504502
@@ -3035,6 +3511,10 @@
     "latitude": 43.8562586,
     "longitude": 18.4130763
   },
+  "Sarıçam (Turkey)": {
+    "latitude": 37.0197412,
+    "longitude": 35.3989919
+  },
   "Saskatoon (Canada)": {
     "latitude": 52.131802,
     "longitude": -106.660767
@@ -3051,6 +3531,14 @@
     "latitude": 47.6038321,
     "longitude": -122.330062
   },
+  "Second Al Sheikh Zayed (Egypt)": {
+    "latitude": 30.0463696,
+    "longitude": 31.0519374
+  },
+  "Selçuklu (Turkey)": {
+    "latitude": 37.8768663,
+    "longitude": 32.4873945
+  },
   "Seoul (South Korea)": {
     "latitude": 37.5666791,
     "longitude": 126.9782914
@@ -3059,9 +3547,17 @@
     "latitude": 44.024322850000004,
     "longitude": 21.07657433209902
   },
+  "Setif (Algeria)": {
+    "latitude": 36.1893494,
+    "longitude": 5.4046876
+  },
   "Sevilla (Spain)": {
     "latitude": 37.3890924,
     "longitude": -5.9844589
+  },
+  "Sfax (Tunisia)": {
+    "latitude": 34.7394361,
+    "longitude": 10.7604024
   },
   "Shanghai (China)": {
     "latitude": 31.2312707,
@@ -3095,6 +3591,10 @@
     "latitude": 1.2899175,
     "longitude": 103.8519072
   },
+  "Sinop (Brazil)": {
+    "latitude": -11.857701,
+    "longitude": -55.4967824
+  },
   "Sint-Katelijne-Waver (Belgium)": {
     "latitude": 51.0699542,
     "longitude": 4.532238
@@ -3119,7 +3619,11 @@
     "latitude": 35.8288175,
     "longitude": 10.6405392
   },
-  "Springfield (USA)": {
+  "Soweto (South Africa)": {
+    "latitude": -26.2227778,
+    "longitude": 27.89
+  },
+  "Springfield, IL (USA)": {
     "latitude": 39.7990175,
     "longitude": -89.6439575
   },
@@ -3199,6 +3703,10 @@
     "latitude": -23.682794700000002,
     "longitude": -46.716998204286014
   },
+  "Tacna (Peru)": {
+    "latitude": -18.01386,
+    "longitude": -70.2511032
+  },
   "Tacoma, WA (USA)": {
     "latitude": 47.2455013,
     "longitude": -122.438329
@@ -3227,6 +3735,10 @@
     "latitude": 59.4372155,
     "longitude": 24.7453688
   },
+  "Tamale (Ghana)": {
+    "latitude": 9.4051992,
+    "longitude": -0.8423986
+  },
   "Tampa Bay, FL (USA)": {
     "latitude": 27.6886419,
     "longitude": -82.5723193
@@ -3251,6 +3763,10 @@
     "latitude": 32.0852997,
     "longitude": 34.7818064
   },
+  "Tempe, AZ (USA)": {
+    "latitude": 33.4255117,
+    "longitude": -111.940016
+  },
   "Tenerife (Spain)": {
     "latitude": 28.2935785,
     "longitude": -16.621447121144122
@@ -3258,6 +3774,10 @@
   "Tennessee (USA)": {
     "latitude": 35.7730076,
     "longitude": -86.2820081
+  },
+  "Tepebaşı (Turkey)": {
+    "latitude": 39.7809893,
+    "longitude": 30.5140549
   },
   "The Hague Marriott Hotel (Netherlands)": {
     "latitude": 52.0898995,
@@ -3270,6 +3790,10 @@
   "Ticino (Switzerland)": {
     "latitude": 46.3351913,
     "longitude": 8.7525902
+  },
+  "Tilburg (Netherlands)": {
+    "latitude": 51.5856185,
+    "longitude": 5.0660616
   },
   "Timisoara (Romania)": {
     "latitude": 45.7538355,
@@ -3291,6 +3815,10 @@
     "latitude": 43.6534817,
     "longitude": -79.3839347
   },
+  "Torremolinos (Spain)": {
+    "latitude": 36.6242841,
+    "longitude": -4.4995448
+  },
   "Toulouse (France)": {
     "latitude": 43.6044622,
     "longitude": 1.4442469
@@ -3310,6 +3838,10 @@
   "Trieste (Italy)": {
     "latitude": 45.6496485,
     "longitude": 13.7772781
+  },
+  "Tripoli (Lebanon)": {
+    "latitude": 34.4373616,
+    "longitude": 35.8348551
   },
   "Tripoli (Libya)": {
     "latitude": 32.896672,
@@ -3362,6 +3894,14 @@
   "Ukraine": {
     "latitude": 37.9382413,
     "longitude": 58.38798095730337
+  },
+  "Ulaanbaatar (Mongolia)": {
+    "latitude": 47.9184,
+    "longitude": 106.9177
+  },
+  "Umuahia (Nigeria)": {
+    "latitude": 5.5324032,
+    "longitude": 7.4924165
   },
   "Utrecht (Netherlands)": {
     "latitude": 52.080985600000005,
@@ -3459,6 +3999,10 @@
     "latitude": -20.3200917,
     "longitude": -40.3376682
   },
+  "Vitoria (Spain)": {
+    "latitude": 42.8505845,
+    "longitude": -2.66145
+  },
   "Volta (Ghana)": {
     "latitude": 6.5781373,
     "longitude": 0.4502368
@@ -3471,7 +4015,11 @@
     "latitude": 52.2337172,
     "longitude": 21.071432235636493
   },
-  "Washington D.C. (USA)": {
+  "Warszawa (Poland)": {
+    "latitude": 52.2319581,
+    "longitude": 21.0067249
+  },
+  "Washington, DC (USA)": {
     "latitude": 38.8950368,
     "longitude": -77.0365427
   },
@@ -3539,6 +4087,14 @@
     "latitude": 51.1089776,
     "longitude": 17.0326689
   },
+  "Wrocław (Poland)": {
+    "latitude": 51.1263106,
+    "longitude": 16.9781963
+  },
+  "Wylie, TX (USA)": {
+    "latitude": 33.0151561,
+    "longitude": -96.5388038
+  },
   "Yamoussoukro (Ivory Coast)": {
     "latitude": 6.8200066,
     "longitude": -5.2776034
@@ -3546,6 +4102,10 @@
   "Yaoundé (Cameroon)": {
     "latitude": 3.8616853,
     "longitude": 11.5202292
+  },
+  "Yenagoa (Nigeria)": {
+    "latitude": 4.9334651,
+    "longitude": 6.2747786
   },
   "Yerevan (Armenia)": {
     "latitude": 40.1777112,
@@ -3558,6 +4118,14 @@
   "Yokohama (Japan)": {
     "latitude": 35.4443947,
     "longitude": 139.6367727
+  },
+  "Yola (Nigeria)": {
+    "latitude": 9.2089255,
+    "longitude": 12.4802485
+  },
+  "Yverdon-les-Bains (Switzerland)": {
+    "latitude": 46.7785711,
+    "longitude": 6.6409158
   },
   "Zadar (Croatia)": {
     "latitude": 44.1168594,
@@ -3579,13 +4147,13 @@
     "latitude": 50.4844179,
     "longitude": 19.4333887
   },
+  "Zinder (Niger)": {
+    "latitude": 13.8069,
+    "longitude": 8.9881
+  },
   "Zlin (Czechia)": {
     "latitude": 49.226766,
     "longitude": 17.6667415
-  },
-  "Zurich (Germany)": {
-    "latitude": 52.4465937,
-    "longitude": 13.3257359
   },
   "Zurich (Switzerland)": {
     "latitude": 47.3744489,
@@ -3595,12 +4163,44 @@
     "latitude": 52.5089759,
     "longitude": 6.0943765
   },
+  "Çankaya (Turkey)": {
+    "latitude": 39.8853321,
+    "longitude": 32.8554966
+  },
+  "Évora (Portugal)": {
+    "latitude": 38.5714,
+    "longitude": -7.9135
+  },
+  "İskenderun (Turkey)": {
+    "latitude": 36.5902266,
+    "longitude": 36.1710354
+  },
   "Łódź (Poland)": {
     "latitude": 51.7728245,
     "longitude": 19.4784857
   },
+  "Şehitkamil (Turkey)": {
+    "latitude": 37.0727587,
+    "longitude": 37.3949769
+  },
+  "Şişli (Turkey)": {
+    "latitude": 37.2357526,
+    "longitude": 42.5452101
+  },
   "Šibenik (Croatia)": {
     "latitude": 43.7340647,
     "longitude": 15.8944767
+  },
+  "Актобе (Kazakhstan)": {
+    "latitude": 50.2836938,
+    "longitude": 57.2298129
+  },
+  "Нарын (Kyrgyzstan)": {
+    "latitude": 41.4285987,
+    "longitude": 75.997631
+  },
+  "صنعاء‎ (Yemen)": {
+    "latitude": 15.3538569,
+    "longitude": 44.2058841
   }
 }

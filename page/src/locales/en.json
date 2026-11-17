@@ -22,13 +22,14 @@
     "calendar": "Calendar",
     "map": "Map",
     "list": "List",
-    "cfp": "CFPs"
+    "cfp": "CFPs",
+    "cfpCompanion": "CFP Companion"
   },
   "filters": {
     "title": "Filters",
     "open": "Open filters",
     "close": "Close filters",
-    "query": "Query:",
+    "query": "Query",
     "location": "Location",
     "tags": "Tags",
     "dateRange": "Date Range",
@@ -40,19 +41,23 @@
     "city": "City",
     "eventType": "Event Type",
     "searchPlaceholder": "Search conferences...",
-    "cfpUntil": "CFP Until:",
+    "cfpUntil": "CFP Until",
+    "minAttendees": "Number of attendees",
+    "minAttendeesPlaceholder": "e.g. 500",
     "callForPapersOpen": "Call For Papers Open",
     "closedCaptions": "Closed Captions",
     "scholarship": "Scholarship",
     "sponsoring": "Sponsoring",
     "online": "Online",
+    "inPerson": "In-person",
     "favorites": "Favorites",
-    "region": "Region:",
+    "region": "Region",
     "all": "All",
     "sorting": "Sorting",
-    "sort": "Sort:",
+    "sort": "Sort",
     "sortEventStartDate": "Event Start Date",
     "sortCfpCloseDate": "CFP Close Date",
+    "sortAttendees": "Number of attendees",
     "showTags": "Show tags",
     "hideTags": "Hide tags",
     "showOnlyFavorites": "Show only favorites",
@@ -62,7 +67,11 @@
     "anyTag": "Match ANY tag",
     "allTags": "Match ALL tags",
     "excludeMode": "Exclude selected tags",
-    "includeMode": "Include selected tags"
+    "includeMode": "Include selected tags",
+    "cfpPending": "Pending response",
+    "cfpAccepted": "Accepted",
+    "cfpRejected": "Rejected",
+    "cfpStatus": "CFP status"
   },
   "calendar": {
     "today": "Today",
@@ -118,7 +127,11 @@
     "submit": "Submit proposal",
     "viewCfp": "View CFP",
     "submitToCfp": "Submit to the CFP",
-    "until": "Until"
+    "until": "Until",
+    "companionStatus": "My CFP status",
+    "applied": "Applied",
+    "accepted": "Accepted",
+    "rejected": "Rejected"
   },
   "map": {
     "title": "Conference Map",
@@ -218,8 +231,8 @@
       "invalidSponsoringUrl": "Please enter a valid Sponsoring URL",
       "attendeesInvalid": "Number of attendees must be a positive whole number",
       "tagsMax": "You can select up to {{max}} tags maximum",
-      "tagsLimitHint": "Maximum 5 tags",
-      "tagsLabelSuffix": "(5 max.)",
+      "tagsLimitHint": "Maximum 6 tags",
+      "tagsLabelSuffix": "(6 max.)",
       "endDateBeforeStart": "End date must be after start date",
       "cfpEndDateAfterStart": "CFP end date should be before event start date",
       "cityRequired": "City is required for non-online events",
@@ -230,6 +243,12 @@
       "cfpUrlInvalid": "Please enter a valid CFP URL",
       "sponsoringUrlInvalid": "Please enter a valid Sponsoring URL"
     }
+  },
+  "cfpCompanion": {
+    "talks": "Talks",
+    "workshops": "Workshops",
+    "submittedFormats": "Submitted formats",
+    "openCfp": "Open CFP"
   },
   "year": {
     "selectYear": "Select Year",

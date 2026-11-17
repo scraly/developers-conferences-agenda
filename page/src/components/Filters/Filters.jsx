@@ -145,6 +145,8 @@ const Filters = ({ view }) => {
     filterKeys.add('favorites')
     filterKeys.add('query')
     filterKeys.add('untilDate')
+    filterKeys.add('minAttendees')
+    filterKeys.add('cfpStatus')
 
     Object.keys(search).forEach(k => {
       if (!filterKeys.has(k)) {
@@ -221,14 +223,47 @@ const Filters = ({ view }) => {
           />
         </> : null}
 
-        <div className='filtersItem'>
+        {view !== 'cfp-companion' ? <div className='filtersItem'>
           <label htmlFor='filter-until'>{t('filters.cfpUntil')}</label>
           <input id="filter-until" onChange={(e) => onChange('untilDate', e.target.value)} type="date" value={search.untilDate || ''} />
+        </div> : null}
+
+        <div className='filtersItem filter-min-attendees'>
+          <label htmlFor='filter-min-attendees'>{t('filters.minAttendees')}</label>
+          <input id='filter-min-attendees' min='0' onChange={(e) => onChange('minAttendees', e.target.value)} placeholder={t('filters.minAttendeesPlaceholder')} step='1' type='number' value={search.minAttendees || ''} />
         </div>
 
         <div className='filtersList'>
 
-          {view != "cfp" ?
+          {view === 'cfp-companion' ? <fieldset className='cfp-companion-status-filters'>
+            <legend>{t('filters.cfpStatus')}</legend>
+            <div className='filtersItem'>
+              <input checked={(search.cfpStatus || '').split(',').includes('pending')} id='filter-cfp-pending' onChange={(event) => {
+                const statuses = new Set((search.cfpStatus || '').split(',').filter(Boolean))
+                event.target.checked ? statuses.add('pending') : statuses.delete('pending')
+                onChange('cfpStatus', Array.from(statuses).join(','))
+              }} type='checkbox' />
+              <label htmlFor='filter-cfp-pending'>{t('filters.cfpPending')}</label>
+            </div>
+            <div className='filtersItem'>
+              <input checked={(search.cfpStatus || '').split(',').includes('accepted')} id='filter-cfp-accepted' onChange={(event) => {
+                const statuses = new Set((search.cfpStatus || '').split(',').filter(Boolean))
+                event.target.checked ? statuses.add('accepted') : statuses.delete('accepted')
+                onChange('cfpStatus', Array.from(statuses).join(','))
+              }} type='checkbox' />
+              <label htmlFor='filter-cfp-accepted'>{t('filters.cfpAccepted')}</label>
+            </div>
+            <div className='filtersItem'>
+              <input checked={(search.cfpStatus || '').split(',').includes('rejected')} id='filter-cfp-rejected' onChange={(event) => {
+                const statuses = new Set((search.cfpStatus || '').split(',').filter(Boolean))
+                event.target.checked ? statuses.add('rejected') : statuses.delete('rejected')
+                onChange('cfpStatus', Array.from(statuses).join(','))
+              }} type='checkbox' />
+              <label htmlFor='filter-cfp-rejected'>{t('filters.cfpRejected')}</label>
+            </div>
+          </fieldset> : null}
+
+          {view != "cfp" && view !== 'cfp-companion' ?
           <div className='filtersItem'>
             <input checked={search.callForPapers == 'true'} id='filter-call-for-papers' onChange={(e) => onChange('callForPapers', e.target.checked)} type='checkbox' />
             <label htmlFor='filter-call-for-papers'>{t('filters.callForPapersOpen')}</label>
@@ -259,7 +294,7 @@ const Filters = ({ view }) => {
 
           <div className='filtersItem'>
             <input checked={search.inPerson == 'true'} id='filter-in-person' onChange={(e) => onChange('inPerson', e.target.checked)} type='checkbox' />
-            <label htmlFor='filter-in-person'>In Person</label>
+            <label htmlFor='filter-in-person'>{t('filters.inPerson')}</label>
           </div>
 
           <div className='filtersItem'>
@@ -307,6 +342,7 @@ const Filters = ({ view }) => {
           <select id='filter-sort' onChange={(e) => onChange('sort', e.target.value)} value={search.sort}>
             <option value='date'>{t('filters.sortEventStartDate')}</option>
             <option value='cfp'>{t('filters.sortCfpCloseDate')}</option>
+            <option value='attendees'>{t('filters.sortAttendees')}</option>
           </select>
         </div> : ''}
       </div>

@@ -57,6 +57,17 @@
   margin-right: 10px;
 }
 
+.listView .event-links {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.5rem;
+  margin-right: 0;
+}
+
+.listView .event-links a {
+  margin-right: 0;
+}
+
 .listView .eventsGridDisplay {
   border: 0px;
   width: 100%;

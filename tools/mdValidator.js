@@ -3,6 +3,9 @@ const fs=require('fs');
 const ROOT= "../"
 const MAIN_INPUT = ROOT+"README.md"
 const TAGS_CSV = ROOT + "TAGS.csv";
+const METADATA_CSV = ROOT + "METADATA.csv";
+const MAX_EVENT_TAGS = 6;
+const MONTHS_NAMES = "january,february,march,april,may,june,july,august,september,october,november,december".split(",");
 const confIdentifierPattern = /^ *\* ?(\[.*\]\s?)?[0-9?x\/-]+/
 
 // Structure générale (date, nom, lien, lieu)
@@ -15,14 +18,31 @@ const extractArchiveFiles = markdown => //eg: " * [2017](archives/2017.md)"
     [...markdown.matchAll(/^\s*\*\s*\[.*\]\(archives\/.*\.md\)\s*$/gm)].map( match => match[0])
     .map( archiveLine => ROOT + archiveLine.trim().replaceAll(/^.*(archives\/.*\.md).*$/g,'$1'));
 
-const findConfLines = (fileContent, fileName) => 
-    fileContent.toString().split(/\n/)
-    .map((lineContent,index) => ({
-      content: lineContent,
-      lineNum:index+1,
-      fileName:fileName
-    }))
-    .filter(line => !!line.content.match(confIdentifierPattern))
+const findConfLines = (fileContent, fileName) => {
+    let year;
+    let month;
+
+    return fileContent.toString().split(/\n/)
+        .map((content, index) => {
+            const yearMatch = content.match(/^## (\d{4})$/);
+            if (yearMatch) year = yearMatch[1];
+
+            const monthMatch = content.match(/^### (\w+)$/);
+            if (monthMatch) month = MONTHS_NAMES.indexOf(monthMatch[1].toLowerCase());
+
+            return { content, lineNum: index + 1, fileName, year, month };
+        })
+        .filter(line => !!line.content.match(confIdentifierPattern))
+}
+
+const getEventIdentifier = (confLine) => {
+    const dateMatch = confLine.content.match(/^\* (?:\[[^\]]+\] )?(\d{1,2})/);
+    const nameMatch = confLine.content.match(/\[([^\]]+)\]\(https?:\/\//);
+    if (!dateMatch || !nameMatch || confLine.month === -1 || !confLine.year) return null;
+
+    const date = new Date(Date.UTC(confLine.year, confLine.month, dateMatch[1]));
+    return `${date.toISOString().slice(0, 10)}-${nameMatch[1]}`;
+}
 
 const hasTrustedShieldsUrl = (text) => {
     const urls = text.match(/https?:\/\/[^\s"')>]+/g) || []
@@ -30,6 +50,18 @@ const hasTrustedShieldsUrl = (text) => {
         try {
             const host = new URL(urlString).hostname.toLowerCase()
             return host === "img.shields.io" || host === "shields.io"
+        } catch {
+            return false
+        }
+    })
+}
+
+const hasOpenCfpBadge = (text) => {
+    const badgeUrls = [...text.matchAll(/<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/g)].map(match => match[1])
+    return badgeUrls.some((urlString) => {
+        try {
+            const url = new URL(urlString)
+            return url.searchParams.get("label") === "CFP" && url.searchParams.get("message") === "Open"
         } catch {
             return false
         }
@@ -108,6 +140,36 @@ const confLines = mainLines.concat( archives.flatMap( archive => findConfLines(f
 
 console.info(`found ${confLines.length} conferences`)
 
+const openCfpLines = confLines.filter(confLine => hasOpenCfpBadge(confLine.content))
+console.warn(`found ${openCfpLines.length} conferences with CFP "message=Open"`)
+for (const openCfpLine of openCfpLines) {
+    console.warn(`${openCfpLine.fileName}:${openCfpLine.lineNum} ${openCfpLine.content}`)
+}
+
+const findDuplicateEvents = () => {
+    const eventsByIdentifier = new Map();
+
+    for (const confLine of confLines) {
+        const eventIdentifier = getEventIdentifier(confLine);
+        if (!eventIdentifier) continue;
+
+        const events = eventsByIdentifier.get(eventIdentifier) || [];
+        events.push(confLine);
+        eventsByIdentifier.set(eventIdentifier, events);
+    }
+
+    return [...eventsByIdentifier.entries()].filter(([, events]) => events.length > 1);
+}
+
+const duplicateEvents = findDuplicateEvents()
+console.warn(`found ${duplicateEvents.length} duplicate events`)
+for (const [eventIdentifier, events] of duplicateEvents) {
+    console.warn(eventIdentifier)
+    for (const event of events) {
+        console.warn(`${event.fileName}:${event.lineNum} ${event.content}`)
+    }
+}
+
 const warnings = confLines.filter(line => {
     if (line.content.match(confValidationPattern)) return false;
     if (line.content.match(confValidationPatternLoose)) return false;
@@ -154,6 +216,63 @@ console.warn(`found ${duplicateTags?.length || 0} duplicate tags`)
 if(duplicateTags?.length > 0) {
     for(const tag of duplicateTags) {
         console.warn(`${tag}`)
+    }
+}
+
+const findEventsWithTooManyTags = () => {
+    if (!fs.existsSync(TAGS_CSV)) {
+        return [];
+    }
+
+    return fs.readFileSync(TAGS_CSV, "utf-8")
+        .split("\n")
+        .slice(1)
+        .map((line, index) => ({ content: line.trim(), lineNum: index + 2 }))
+        .filter(line => line.content.length > 0 && !line.content.startsWith("#"))
+        .filter(line => line.content.split(",").filter(tag => /^(topic|tech|language):/.test(tag)).length > MAX_EVENT_TAGS);
+};
+
+const eventsWithTooManyTags = findEventsWithTooManyTags()
+console.warn(`found ${eventsWithTooManyTags.length} events with more than ${MAX_EVENT_TAGS} tags`)
+
+if(duplicateTags?.length > 0 || eventsWithTooManyTags.length > 0) {
+    for(const event of eventsWithTooManyTags) {
+        console.warn(`${TAGS_CSV}:${event.lineNum} ${event.content}`)
+    }
+    process.exit(1)
+}
+
+const duplicateMetadataValidator = () => {
+    if (!fs.existsSync(METADATA_CSV)) {
+        return console.error("Metadata CSV not found");
+    }
+
+    const eventIds = fs.readFileSync(METADATA_CSV, "utf-8")
+        .split("\n")
+        .slice(1)
+        .map((line) => line.trim())
+        .filter((line) => line.length > 0 && !line.startsWith("#"))
+        .map((line) => line.split(",")[0]);
+    const uniqueEventIds = new Set();
+    const duplicates = [];
+
+    for (const eventId of eventIds) {
+        if (uniqueEventIds.has(eventId)) {
+            duplicates.push(eventId);
+        }
+
+        uniqueEventIds.add(eventId);
+    }
+
+    return duplicates;
+};
+
+const duplicateMetadata = duplicateMetadataValidator()
+console.warn(`found ${duplicateMetadata?.length || 0} duplicate metadata`)
+
+if(duplicateMetadata?.length > 0) {
+    for(const eventId of duplicateMetadata) {
+        console.warn(`${eventId}`)
     }
     process.exit(1)
 }

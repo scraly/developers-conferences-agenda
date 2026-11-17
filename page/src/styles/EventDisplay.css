@@ -28,6 +28,12 @@
   white-space: nowrap;
 }
 
+.event-links {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.5rem;
+  margin-left: 1rem;
+}
 
 .eventsGridDisplay .eventCell .event-header {
   align-items: flex-start;

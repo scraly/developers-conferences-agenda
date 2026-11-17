@@ -6,7 +6,7 @@ import {
 } from './utils/tagValidation';
 
 describe('event tag validation', () => {
-  it('allows up to five tags', () => {
+  it('allows up to six tags', () => {
     const tags = Array.from({ length: MAX_EVENT_TAGS }, (_, index) => `tag:${index}`);
 
     const result = validateEventTags(tags);

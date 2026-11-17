@@ -1,7 +1,7 @@
 export const LAST_VISITED_VIEW_KEY = 'dca:lastVisitedView'
 export const DEFAULT_VIEW = 'calendar'
 
-const VALID_VIEWS = ['cfp', 'calendar', 'list', 'map']
+const VALID_VIEWS = ['cfp', 'cfp-companion', 'calendar', 'list', 'map']
 const VALID_VIEWS_SET = new Set(VALID_VIEWS)
 
 export const isValidView = (view) => VALID_VIEWS_SET.has(view)
@@ -11,7 +11,7 @@ export const extractViewFromPath = (pathname = '') => {
     return null
   }
 
-  const match = pathname.match(/^\/\d{4}\/(cfp|calendar|list|map)(?:\/|$)/)
+  const match = pathname.match(/^\/\d{4}\/(cfp-companion|cfp|calendar|list|map)(?:\/|$)/)
   return match ? match[1] : null
 }
 
