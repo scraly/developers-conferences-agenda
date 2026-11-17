@@ -294,7 +294,7 @@ const Filters = ({ view }) => {
 
           <div className='filtersItem'>
             <input checked={search.inPerson == 'true'} id='filter-in-person' onChange={(e) => onChange('inPerson', e.target.checked)} type='checkbox' />
-            <label htmlFor='filter-in-person'>In Person</label>
+            <label htmlFor='filter-in-person'>{t('filters.inPerson')}</label>
           </div>
 
           <div className='filtersItem'>
