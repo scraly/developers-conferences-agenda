@@ -417,7 +417,7 @@ All the data (past and coming) are available publicly in JSON:
 * 29: [DevFest Niamey 2026](https://gdg.community.dev/events/details/google-gdg-niamey-presents-devfest-niamey-2026-lia-au-service-de-lagriculture-au-niger/) - Niamey (Niger)
 * 29: [DevFest Eskişehir 2026](https://gdg.community.dev/events/details/google-gdg-eskisehir-presents-devfest-eskisehir-2026/) - Tepebaşı (Turkey)
 * 29: [KubeAuto Day Las Vegas](https://kubeauto.day/las-vegas) - Las Vegas, NV (USA)
-* 30: [Global Security Bootcamp Melbourne 2026](https://globalsecurity.community/events/global-security-bootcamp-melbourne-2026-nov/) - Melbourne (Australia) <a href="https://sessionize.com/global-security-bootcamp-melbourne-20261177/"><img alt="CFP Global Security Bootcamp Melbourne 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2026&color=green"></a>
+* 30: [Global Security Bootcamp Melbourne 2026](https://globalsecurity.community/events/global-security-bootcamp-melbourne-2026-nov/) - Melbourne (Australia) <a href="https://sessionize.com/global-security-bootcamp-melbourne-20261177/"><img alt="CFP Global Security Bootcamp Melbourne 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-November-2026&color=red"></a>
 * 30-01/12: [Reversim Summit 2026](https://summit2026.reversim.com/) - Tel Aviv (Israel) <a href="https://sessionize.com/reversim-summit-2026"><img alt="CFP Reversim Summit 2026" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-July-2026&color=red"></a>
 * 30-02/12: [APIConf](https://apiconf.io) - Clearwater, FL (USA)
 * 30-04/10: [IT Security Summit Munich 2026](https://it-security-summit.com/munich/) - Munich (Germany)
