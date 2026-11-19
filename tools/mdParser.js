@@ -44,6 +44,25 @@ const parseTags = () => {
   }
 }
 
+// Event ids may contain commas (e.g.
+// "2025-06-27-The Perl & Raku Conference in Greenville, SC 2025"), so split
+// metadata lines at the field boundaries instead of at every comma.
+const METADATA_FIELD_SEPARATOR = /,(?=(?:attendees|recording):)/;
+
+const splitMetadataLine = (line) => {
+  const separatorIndex = line.search(METADATA_FIELD_SEPARATOR);
+  if (separatorIndex === -1) {
+    // Legacy rows may use a bare value, e.g. "2026-10-22-Event,200".
+    const [eventId, ...fields] = line.split(',');
+    return { eventId: eventId.trim(), fields };
+  }
+
+  return {
+    eventId: line.slice(0, separatorIndex).trim(),
+    fields: line.slice(separatorIndex + 1).split(METADATA_FIELD_SEPARATOR),
+  };
+};
+
 const parseMetadata = () => {
   try {
     const content = fs.readFileSync(METADATA_INPUT, 'utf8');
@@ -55,11 +74,10 @@ const parseMetadata = () => {
       const line = lines[i].trim();
       if (!line) continue;
 
-      const [rawEventId, ...metadataParts] = line.split(',');
-      const eventId = rawEventId.trim();
+      const { eventId, fields } = splitMetadataLine(line);
       const metadata = {};
 
-      metadataParts.forEach((part) => {
+      fields.forEach((part) => {
         const separatorIndex = part.indexOf(':');
         if (separatorIndex === -1) return;
 
