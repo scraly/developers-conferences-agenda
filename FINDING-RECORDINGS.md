@@ -7,15 +7,14 @@ This guide covers finding, verifying, and removing recording links in
 
 ### What to look for
 
-Prefer, in this order:
+Use one of these:
 
 1. A playlist for the specific edition (title contains event name and year).
 2. A specific video of a talk or the full stream from the edition.
-3. The official channel, as a last resort.
 
-A bare channel link is weak evidence: a recent upload there does not prove the
-event was recorded. Use one only after confirming the channel belongs to the
-event and that it contains the edition's content.
+Do **not** add a bare channel link (`/@handle`, `/channel/...`, `/c/...`,
+`/user/...`). A recent upload there does not prove the event was recorded, and
+these links are removed even when the channel is active.
 
 ### Sources
 
@@ -66,6 +65,7 @@ newest-first, but scan the titles rather than trusting the order.
 
 Before writing it into `METADATA.csv`, confirm:
 
+- The link is a playlist or a specific video, not a channel.
 - The channel or playlist belongs to the event, not to a sponsor, a single
   speaker, or a different conference with a similar name.
 - The playlist title or video titles match this edition (name **and** year).
@@ -193,8 +193,9 @@ curl -s 'https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VIDE
 - **Recently held events may simply not be uploaded yet.** A `STALE` verdict
   for an event from the last few weeks can be premature. Re-check before
   removing, or flag it for a later pass.
-- **Channel links are the weakest option.** The channel's newest upload may be
-  unrelated to this event. Prefer an edition playlist or a specific video.
+- **Bare channel links are not kept.** The channel's newest upload may be
+  unrelated to this event; only edition playlists and specific videos are
+  accepted.
 - **One URL can serve several events.** Audit each unique URL once; every row
   using it gets the same verdict.
 - **Do not trust a bulk run with `--ignore-errors`.** Capture stderr, compare
