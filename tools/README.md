@@ -98,3 +98,24 @@ Only durations that can be identified explicitly are written. Each event uses se
 event_id,duration1,duration2,duration3,duration4
 2026-06-11-DevLille 2026,talk:5,talk:30,talk:45,workshop:160
 ```
+
+## auditRecordingDates.py
+
+### Mission
+
+Checks every `recording:` link in `METADATA.csv` against its event date. A link
+is valid when a video on the linked channel or playlist was published after the
+event. Uses YouTube RSS as a fallback when yt-dlp is blocked.
+
+See [FINDING-RECORDINGS.md](../FINDING-RECORDINGS.md) for the full workflow.
+
+### Usage
+
+Run from the repository root:
+
+```sh
+python3 tools/auditRecordingDates.py METADATA.csv --deep --workers 8
+```
+
+Writes `tmp/recording-date-report.tsv` and caches results in
+`tmp/recording-dates.json`.
