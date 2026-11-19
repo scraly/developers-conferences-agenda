@@ -29,12 +29,12 @@ const Filters = ({ view }) => {
   const search = Object.fromEntries(searchParams)
 
   const updateParams = useCallback((updates) => {
-    const current = Object.fromEntries(searchParams);
-    const next = { ...current, ...updates };
-    // Remove empty keys
-    Object.keys(next).forEach(k => {
-      if (next[k] === '' || next[k] === null || next[k] === undefined) {
-        delete next[k];
+    const next = new URLSearchParams(searchParams);
+    Object.entries(updates).forEach(([key, value]) => {
+      if (value === '' || value === null || value === undefined) {
+        next.delete(key);
+      } else {
+        next.set(key, String(value));
       }
     });
     setSearchParams(next);
@@ -125,8 +125,7 @@ const Filters = ({ view }) => {
 
   // Clear All Filters
   const handleClearAll = useCallback(() => {
-    const cleared = {}
-    // Keep non-filter params (view-related)
+    const cleared = new URLSearchParams(searchParams)
     const filterKeys = new Set()
     const allDims = [...TAG_FILTER_CONFIG.allowed, 'country', 'region']
     allDims.forEach(dim => {
@@ -139,6 +138,7 @@ const Filters = ({ view }) => {
     filterKeys.add('inPerson')
     filterKeys.add('notOnline')
     filterKeys.add('closedCaptions')
+    filterKeys.add('recordings')
     filterKeys.add('scholarship')
     filterKeys.add('sponsoring')
     filterKeys.add('callForPapers')
@@ -148,13 +148,9 @@ const Filters = ({ view }) => {
     filterKeys.add('minAttendees')
     filterKeys.add('cfpStatus')
 
-    Object.keys(search).forEach(k => {
-      if (!filterKeys.has(k)) {
-        cleared[k] = search[k]
-      }
-    })
+    filterKeys.forEach(key => cleared.delete(key))
     setSearchParams(cleared)
-  }, [search, setSearchParams])
+  }, [searchParams, setSearchParams])
 
   // Country and Region options for FilterMultiSelect
   const countryOptions = useMemo(() => {
@@ -286,6 +282,11 @@ const Filters = ({ view }) => {
             <input checked={search.sponsoring == 'true'} id='filter-sponsoring' onChange={(e) => onChange('sponsoring', e.target.checked)} type='checkbox' />
             <label htmlFor='filter-sponsoring'>{t('filters.sponsoring')}</label>
           </div> : ''}
+
+          <div className='filtersItem'>
+            <input checked={search.recordings === 'true'} id='filter-recordings' onChange={(e) => onChange('recordings', e.target.checked ? 'true' : '')} type='checkbox' />
+            <label htmlFor='filter-recordings'>{t('filters.recordings')}</label>
+          </div>
 
           <div className='filtersItem'>
             <input checked={search.online == 'true'} id='filter-online' onChange={(e) => onChange('online', e.target.checked)} type='checkbox' />

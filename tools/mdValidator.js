@@ -252,7 +252,9 @@ const duplicateMetadataValidator = () => {
         .slice(1)
         .map((line) => line.trim())
         .filter((line) => line.length > 0 && !line.startsWith("#"))
-        .map((line) => line.split(",")[0]);
+        // Event ids may contain commas, so split at the first metadata field
+        // boundary instead of at every comma.
+        .map((line) => line.split(/,(?=(?:attendees|recording):)/)[0]);
     const uniqueEventIds = new Set();
     const duplicates = [];
 
