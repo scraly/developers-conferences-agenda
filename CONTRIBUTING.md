@@ -55,4 +55,12 @@ For example:
 * Use Prettier to format the code: `npm run format`
 * Use ESLint for linters: `npm run lint`
 
+## Updating recordings with an agent
+
+Recording links (`recording:` fields in `METADATA.csv`) can be updated by an AI coding agent. Prompt:
+
+> update recordings for events in 2026
+
+See [FINDING-RECORDINGS.md](FINDING-RECORDINGS.md) for the workflow.
+
 Thanks! ❤️
