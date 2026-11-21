@@ -17,6 +17,45 @@
     left: 100%;
 }
 
+.filters-active-indicator {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    width: 12px;
+    height: 12px;
+    background: var(--color-primary);
+    border: 2px solid var(--bg-tertiary);
+    border-radius: 50%;
+    animation: filters-active-pulse 2.8s ease-out infinite;
+}
+
+@keyframes filters-active-pulse {
+    0% {
+        box-shadow: 0 0 0 0 var(--color-primary-focus);
+    }
+    70%, 100% {
+        box-shadow: 0 0 0 7px transparent;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .filters-active-indicator {
+        animation: none;
+    }
+}
+
+.filters .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
 .filters-header {
     white-space: nowrap;
     display: flex;

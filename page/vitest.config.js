@@ -9,6 +9,7 @@ export default defineConfig({
   },
   resolve: {
     alias: {
+      'app.hooks': path.resolve(__dirname, './src/app.hooks.js'),
       'components': path.resolve(__dirname, './src/components'),
       'contexts': path.resolve(__dirname, './src/contexts'),
       'hooks': path.resolve(__dirname, './src/hooks'),
