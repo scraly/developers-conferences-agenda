@@ -1,59 +1,59 @@
 event_id,attendees
 2026-02-11-Container Days London,attendees:1000
 2025-09-10-devopsdays Vilnius,attendees:700
-2026-02-03-Cloud Native Days France 2026,attendees:2000
-2026-03-23-CloudFest,attendees:10000
+2026-02-03-Cloud Native Days France 2026,attendees:2000,recording:https://youtu.be/lJXUhqHWCDo
+2026-03-23-CloudFest,attendees:10000,recording:https://www.youtube.com/playlist?list=PLO0wSiFUivkc
+2026-06-16-DevBCN,attendees:800,recording:https://www.youtube.com/playlist?list=PLzJFNZtyAbyzlUsubhbfVo5t4ntQZPVyc
 2025-07-08-DevBCN,attendees:800,recording:https://www.youtube.com/playlist?list=PLzJFNZtyAbyyfUadLCuSc-8CdHct8NeSa
-2026-06-16-DevBCN,attendees:800
 2026-04-22-Devoxx France 2026,attendees:4600,recording:https://www.youtube.com/@DevoxxFRvideos/playlists
 2026-06-17-Devoxx Poland,attendees:2700
 2026-05-06-Devoxx UK 2026,attendees:1200
 2026-04-23-Devoxx Greece,attendees:1200
-2026-07-06-Riviera Dev,attendees:700,recording:https://www.youtube.com/@RivieraDEV/videos
-2026-07-02-Sunny Tech,attendees:550,recording:https://www.youtube.com/@SunnyTechMtp/playlists
-2026-06-11-DevLille 2026,attendees:1500
-2026-05-15-KCD Texas 2026,attendees:250
+2026-07-06-Riviera Dev,attendees:700
+2026-07-02-Sunny Tech,attendees:550,recording:https://www.youtube.com/playlist?list=PLKyiu9tvD998
+2026-06-11-DevLille 2026,attendees:1500,recording:https://www.youtube.com/playlist?list=PLXbqr_rv1t4N3LXk2aP80NQjIbymwpA2S
+2026-05-15-KCD Texas 2026,attendees:250,recording:https://youtube.com/playlist?list=PL4UW_RgvzVcgZfg1SBz6_J6L8jchHvoX7
 2026-05-18-Cloud Native Days Romania,attendees:500
-2026-05-20-KCD Helsinki,attendees:500
+2026-05-20-KCD Helsinki,attendees:500,recording:https://www.youtube.com/playlist?list=PL09s8ZalKQe-wyZFJLBhE-3jaN42g8tcS
 2026-06-11-DevQuest Niort,attendees:500
-2026-03-23-KubeCon + CloudNativeCon Europe 2026,attendees:12000
+2026-03-23-KubeCon + CloudNativeCon Europe 2026,attendees:12000,recording:https://youtube.com/playlist?list=PLj6h78yzYM2MXCOWSN9CqqID6OOvF7wxL
 2026-05-21-Observability Summit North America,attendees:200
-2026-06-18-KubeCon + CloudNativeCon India 2026,attendees:4000
-2026-07-29-KubeCon + CloudNativeCon Japan 2026,attendees:2000
-2026-09-08-KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China,attendees:1000
+2026-06-18-KubeCon + CloudNativeCon India 2026,attendees:4000,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2PmaTdAzefPqjawTlop1lgG
+2026-07-29-KubeCon + CloudNativeCon Japan 2026,attendees:2000,recording:https://www.youtube.com/playlist?list=PLH1zduub3WrE
+2026-09-08-KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China,attendees:1000,recording:https://www.youtube.com/playlist?list=PLGcxfZT6qI-w
 2026-10-26-KubeCon + CloudNativeCon NA 2026,attendees:10000
 2026-07-08-WeAreDevelopers World Congress 2026 - Europe,attendees:15000
-2026-09-23-WeAreDevelopers World Congress 2026 - North America,attendees:10000
-2026-10-05-Devoxx Belgium,attendees:3000
-2026-10-07-Open Source Summit Europe,attendees:2000
-2026-10-18-All Things Open,attendees:6500
+2026-09-23-WeAreDevelopers World Congress 2026 - North America,attendees:10000,recording:https://www.youtube.com/playlist?list=PLa4765rkkpw0
+2026-10-05-Devoxx Belgium,attendees:3000,recording:https://www.youtube.com/playlist?list=PLKlmOVksNGoE
+2026-10-07-Open Source Summit Europe,attendees:2000,recording:https://www.youtube.com/playlist?list=PLeGlGrJwr9P8
+2026-10-18-All Things Open,attendees:6500,recording:https://www.youtube.com/playlist?list=PLEOzKi40focs
 2026-03-23-All Things AI 2026,attendees:2000
 2026-05-11-Web Summit Vancouver,attendees:20000
-2026-10-01-WAX 2026,attendees:600
+2026-10-01-WAX 2026,attendees:600,recording:https://youtube.com/playlist?list=PLL2NPnDVUzPI
 2026-11-04-DevCon 2026,attendees:2500
 2026-12-07-Open Source Summit Japan 2026,attendees:900
 2026-12-09-droidcon London,attendees:1000
 2026-06-16-droidcon USA,attendees:900
 2026-06-17-VivaTech,attendees:180000
 2026-06-18-Tech'Work,attendees:200
-2026-06-18-VoxxedDays Luxembourg,attendees:500
+2026-06-18-VoxxedDays Luxembourg,attendees:500,recording:https://www.youtube.com/playlist?list=PLJgwPhYIR6h4
 2026-06-29-Cloud Native Summit 2026,attendees:600
-2026-09-02-Container Days Hamburg 2026,attendees:1500
-2026-06-10-KCD New York 2026,attendees:500
+2026-09-02-Container Days Hamburg 2026,attendees:1500,recording:https://www.youtube.com/playlist?list=PLJOh_Ljqg4Yg
+2026-06-10-KCD New York 2026,attendees:500,recording:https://www.youtube.com/playlist?list=PLWw7nF2XaPfU
 2026-06-16-Mobilis In Mobile 2026,attendees:200
-2026-04-09-WordCamp Asia 2026,attendees:3000
+2026-04-09-WordCamp Asia 2026,attendees:3000,recording:https://www.youtube.com/playlist?list=PL1pJFUVKQ7ER52veMr5wJiv7xiLRMpx1l
 2026-02-24-The Linux Foundation Member Summit 2026,attendees:330
 2026-09-04-DevOpsDays Graz 2026,attendees:200
 2026-02-24-Winter Data & AI Meetup 2026,attendees:1000
-2026-03-02-Talent Arena,attendees:20000
-2026-06-02-Agile Tour Rennes 2026,attendees:300
+2026-03-02-Talent Arena,attendees:20000,recording:https://www.youtube.com/playlist?list=PLVD-pHmVZF2YfnlJ0rBjPdLHKfxCp9a_B
+2026-06-02-Agile Tour Rennes 2026,attendees:300,recording:https://www.youtube.com/playlist?list=PLCQxouXApMcHtvAKoDP1R6XxLOpOpSF0h
 2026-05-06-Security BSides Luxembourg,attendees:300
 2026-09-19-WhatTheStack,attendees:800
 2026-05-14-GeeCon,attendees:800
 2026-09-25-Confitura 2026,attendees:1300
 2026-05-28-DevCon 27 : I.A. & Vibe Coding,attendees:100
 2026-11-03-The AI Conf,attendees:800
-2026-05-22-MadVue,attendees:200
+2026-05-22-MadVue,attendees:200,recording:https://www.youtube.com/playlist?list=PL4bHd5WrBTFg6w7wU3GvinYlP6IcR0yv1
 2026-06-09-C:\aen\Tech,attendees:200
 2026-02-28-AI Beyond Apps: Lucknow 2026,attendees:200
 2026-02-25-Odoo Tech Evening - #4 Edition,attendees:50
@@ -66,7 +66,7 @@ event_id,attendees
 2026-06-05-TechReady,attendees:450
 2026-06-27-Asynconf,attendees:300
 2026-03-05-RootedCon,attendees:500
-2026-08-28-State of the Map,attendees:600
+2026-08-28-State of the Map,attendees:600,recording:https://www.youtube.com/playlist?list=PLDMLlWm7x6aA
 2026-03-23-KubeAuto Day Amsterdam,attendees:400
 2026-09-24-PlatformCon Paris,attendees:600
 2026-03-13-Infra structure Basse,attendees:50
@@ -80,7 +80,7 @@ event_id,attendees
 2026-10-26-Cloud Native Days Norway,attendees:500
 2026-05-12-AI SRE Summit 2026,attendees:2000
 2026-11-19-KCD Porto 2026 | Collab with DevOps Days Portugal,attendees:500
-2026-05-11-API Conference London 2026,attendees:500
+2026-05-11-API Conference London 2026,attendees:500,recording:https://www.youtube.com/playlist?list=PLn-I3ID9C6aqSsll_n5JmDJOhkl7OJgJ8
 2026-09-28-API Conference NYC 2026,attendees:500
 2026-09-28-BASTA! Fall 2026,attendees:500
 2026-09-28-DevOpsCon NYC 2026,attendees:500
@@ -96,12 +96,12 @@ event_id,attendees
 2026-09-18-dotJS,attendees:1000
 2026-12-04-DevFest Dijon 2026,attendees:600
 2026-09-18-WordCamp Bretagne,attendees:600
-2026-10-28-GitHub Universe 2026,attendees:3400
-2026-09-29-KCD Sofia 2026,attendees:2000
+2026-10-28-GitHub Universe 2026,attendees:3400,recording:https://www.youtube.com/playlist?list=PLENrlACZ7mnU
+2026-09-29-KCD Sofia 2026,attendees:2000,recording:https://www.youtube.com/playlist?list=PLWrYttWJ4hT4
 2026-06-11-Cloud Native & Open Source AI Conference,attendees:120
 2026-12-04-DevFest Lyon 2026,attendees:400
-2026-08-11-GopherCon UK,attendees:350
-2026-04-16-MiXiT 2026,attendees:750
+2026-08-11-GopherCon UK,attendees:350,recording:https://www.youtube.com/playlist?list=PLGZGLmEvGK8I
+2026-04-16-MiXiT 2026,attendees:750,recording:https://www.youtube.com/playlist?list=PLUmDV88wF1rykTxAAYfzLqtYhX-6YMH92
 2026-10-28-Mozilla Festival 2026,attendees:2500
 2026-10-06-FrontKon 2026,attendees:900
 2026-11-03-Humanoid Robots Summit North America 2026,attendees:500
@@ -114,12 +114,12 @@ event_id,attendees
 2026-05-19-Green Code Challenge 2026,attendees:120
 2026-06-09-France API 2026,attendees:600
 2026-07-22-DevRelCon New York 2026,attendees:300
-2026-10-29-BDX I/O 2026,attendees:1000
-2026-09-09-EuroBSDCon,attendees:300
+2026-10-29-BDX I/O 2026,attendees:1000,recording:https://www.youtube.com/playlist?list=PLN03NIvP8Mp8
+2026-09-09-EuroBSDCon,attendees:300,recording:https://www.youtube.com/playlist?list=PLH7c4r_PrD7U
 2026-11-19-OVHcloud Summit,attendees:1500
 2026-10-10-Devfest Milano 2026,attendees:300
 2026-12-02-Cloud Native AI Summit Europe,attendees:8000
-2026-10-13-BazelCon,attendees:500
+2026-10-13-BazelCon,attendees:500,recording:https://www.youtube.com/playlist?list=PLH0fMKiAG8uQ
 2026-06-12-ETHGlobal New York Hackathon,attendees:600
 2026-07-24-ETHGlobal Lisbon Hackathon,attendees:600
 2026-06-08-ETHConf,attendees:5000
@@ -156,7 +156,7 @@ event_id,attendees
 2026-08-27-Cost Alongside Quality: Proving the ROI of Your Coding Agents and AI Apps,attendees:200
 2027-04-22-ELC Conference,attendees:500
 2027-03-15-KubeCon + CloudNativeCon Europe 2027,attendees:13000
-2026-11-06-DevFest Montréal,attendees:300
+2026-11-06-DevFest Montréal,attendees:300,recording:https://youtube.com/playlist?list=PLXCrBqYJblI4
 2027-03-02-JavaLand,attendees:1500
 2026-11-29-KubeAuto Day Las Vegas,attendees:250
 2026-11-09-KubeAuto Day North America,attendees:300
@@ -195,6 +195,484 @@ event_id,attendees
 2027-05-10-JAX Mainz 2027,attendees:500
 2027-02-09-AI DevWorld 2027,attendees:2500
 2026-11-20-DevTalks 2026: Where AI Takes Us Next,attendees:1000
+2026-01-06-CES,recording:https://www.youtube.com/playlist?list=PLm9O7GKkPgEQ-9dnBIDr1lPwDtFvhy1m8
+2026-01-13-CodeMash 2026,recording:https://www.youtube.com/playlist?list=PL_G_ImM6b7_dIlhEPsMQ7KYUMCpBN32wm
+2026-01-15-MongoDB.local San Francisco,recording:https://www.youtube.com/playlist?list=PL4RCxklHWZ9s7IrElTzddaZ2w5uupd6TQ
+2026-01-21-Bett UK
+2026-01-21-Everything Open 2026,recording:https://www.youtube.com/playlist?list=PLI3yu3oBYCpgqhrsZJ07U1UJacYO5TvL4
+2026-01-22-Conf42 DevOps 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrB6SG3pv3bmTo7NWFlCGiNx
+2026-01-23-WordCamp Nepal 2026
+2026-01-24-Cloud Native Days Bangladesh 2026,recording:https://www.youtube.com/playlist?list=PL2B9-fD7srNn-oTt8EpBtN837ueK6pIMv
+2026-01-24-DistrictCon,recording:https://www.youtube.com/playlist?list=PLILSGbVWGGPwuqdZhFrsf2sjEMPjIlceH
+2026-01-26-NDC London,recording:https://www.youtube.com/playlist?list=PL03Lrmd9CiGee3FdYOtDorJgFSWrk1Ecj
+2026-01-28-LF Decentralized Trust Member Summit
+2026-01-29-Agile Austria Conference 2026,recording:https://www.youtube.com/playlist?list=PL0ZI-r3j7LbWgKG3axab-pkdABz1EfgmN
+2026-01-29-CHAOSSCon EU 2026,recording:https://www.youtube.com/playlist?list=PL60k37cxI-HT4eJrJd1LJcLfhjeQ8zT-o
+2026-01-29-Cloud Tech Tallinn
+2026-01-29-The European Open Source Awards,recording:https://www.youtube.com/playlist?list=PL5wPUz5V53R-15GYXWp6HUX0AAsUDJYqA
+2026-02-01-Cloud Native Valencia
+2026-02-02-Jfokus,recording:https://www.youtube.com/playlist?list=PLUQORQEatnJflEzaKxmnn2EH0eKPTVBI8
+2026-02-03-Integrated Systems Europe
+2026-02-04-CityJS Singapore
+2026-02-04-Fabric February 2026
+2026-02-06-Voxxed Days Ticino,recording:https://www.youtube.com/playlist?list=PLRsbF2sD7JVpDSBrObmIks-0_X8Szf8B6
+2026-02-10-Voxxed Days CERN,recording:https://www.youtube.com/playlist?list=PLRsbF2sD7JVq9Y7_i6uCWlxwoEIte7S8S
+2026-02-11-Africa Tech Summit Nairobi,recording:https://www.youtube.com/playlist?list=PLNkBipGVeSEbyJ99ULTqsZSpDXJ99wk4B
+2026-02-11-Ai Everything
+2026-02-12-LLMday Warsaw 2026 Q1,recording:https://www.youtube.com/playlist?list=PLABWk6YlOnWmcsTPJ9wTDtLbx99Y6RT5L
+2026-02-12-Strasbourg Craft #1,recording:https://www.youtube.com/watch?v=nBYPkk7po48
+2026-02-12-Touraine Tech #26,recording:https://www.youtube.com/playlist?list=PLl0xIhYGSdm-Y-xRPwCrr8GKjCrzXD0DJ
+2026-02-13-DevConf.IN 2026,recording:https://www.youtube.com/playlist?list=PLU1vS0speL2Z6ye8yTW9lWG-GlairkWA0
+2026-02-17-Hedera DevDay,recording:https://www.youtube.com/playlist?list=PLcaTa5RR9SuBKShKcruAnvBZ7Dx3JU9EV
+2026-02-19-Conf42 Machine Learning 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrAxRHbUdOPlp1-OnsVso-nC
+2026-02-20-PHP UK,recording:https://www.youtube.com/playlist?list=PL_aPVo2HeGF-XZUyYfc5-lvPuspRdP85u
+2026-02-20-PyCon Namibia 2026,recording:https://www.youtube.com/playlist?list=PLe4u6Mr764o4OLlwKIjWRqol1WYX66uBT
+2026-02-21-DDD Melbourne 2026,recording:https://www.youtube.com/playlist?list=PL-KON16CNxTw5M3Y8S9jgDAaPRR_GrmAm
+2026-02-21-WordCamp Port Harcourt 2026,recording:https://www.youtube.com/playlist?list=PLfzVTVxw6LBeQ2toB7xIGXKH3t0e4qy-x
+2026-02-24-ProductCon London 2026,recording:https://youtu.be/Vst5miQ0xA4
+2026-02-24-The Linux Foundation Member Summit,recording:https://www.youtube.com/playlist?list=PLe0RSvsPP0OY
+2026-02-28-Global Power Platform & Agent Bootcamp Bulgaria 2026
+2026-02-28-KubeFest 2026,recording:https://www.youtube.com/watch?v=7Wr18DneBa0
+2026-03-02-Basta! Frankfurt
+2026-03-02-Laracon EU,recording:https://www.youtube.com/playlist?list=PLJ-dCbJnj3ls
+2026-03-02-NDC Security,recording:https://www.youtube.com/playlist?list=PL03Lrmd9CiGdciZ4thY_jinE4IbSzLCc8
+2026-03-04-Devnexus,recording:https://www.youtube.com/playlist?list=PLid93BOrASLONoZUIX1i0rXqCji5FUw9V
+2026-03-04-Python Unplugged,recording:https://www.youtube.com/watch?v=qKkyBhXIJJU
+2026-03-05-Power BI Gebruikersdagen 2026
+2026-03-05-SunSecCon 2026
+2026-03-06-BSidesZagreb 2026
+2026-03-06-LLMday NYC 2026 Q1,recording:https://www.youtube.com/playlist?list=PLABWk6YlOnWmUnPb5rOhDTCqlSyyLNCN4
+2026-03-07-Fork it! - Vietnam,recording:https://www.youtube.com/playlist?list=PLnfCgE11xujv3P40-qSKu5FE_fXyR2hqB
+2026-03-07-Women Techmakers Belfast 2026,recording:https://www.youtube.com/playlist?list=PLAJPXfWlHOoMKD2EXQzwZo6SDNrZwk_r2
+2026-03-09-FOSSASIA Summit 2026
+2026-03-10-CTO Craft Con: London,recording:https://www.youtube.com/playlist?list=PLm5-Fe8V720sJnvlwMi_nVBZqiih3CgwV
+2026-03-10-Dutch PHP Conference 2026
+2026-03-10-PyAI Conf,recording:https://www.youtube.com/watch?v=aZXHhLz71aY
+2026-03-11-PGConf India 2026,recording:https://www.youtube.com/playlist?list=PLAe40eo3BfWCqDPwFwCIq3_xBhrDMSANn
+2026-03-12-DrupalCamp NJ 2026,recording:https://www.youtube.com/playlist?list=PLc4s2QFXB7lX6gYsWqh3OfnQfbxhZ8I1B
+2026-03-12-SREday London 2026 Q1,recording:https://www.youtube.com/playlist?list=PLP913T0NeiOY
+2026-03-12-T3chfest,recording:https://www.youtube.com/playlist?list=PLqgZDFdwyB8bTJIx9j-oQbCgmWxptwP1y
+2026-03-12-Vuejs Amsterdam,recording:https://www.youtube.com/playlist?list=PLCxzy-hmQq9FXSiPXPy60R5D7QrrkjOra
+2026-03-14-Conf42 Site Reliability Engineering (SRE) 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrBHJy4EUSvaBe0-wtyjtbaa
+2026-03-16-AI Conference,recording:https://www.youtube.com/playlist?list=PLfBAZ1op490w
+2026-03-16-FOSS Backstage,recording:https://www.youtube.com/playlist?list=PLq-odUc2x7i_CkIlwiKrIKXLdmQgFxhCL
+2026-03-16-HPSF Conference,recording:https://www.youtube.com/playlist?list=PLRKq_yxxHw29hEjH7LywjxFLbCftLpImF
+2026-03-16-Microsoft Fabric Community Conference - FABCON 2026 - SESSIONS
+2026-03-17-Chatbot Europe,recording:https://www.youtube.com/watch?v=1rxIqDiH3dk
+2026-03-17-NAVIGATE 2026,recording:https://www.youtube.com/playlist?list=PL7GT1z184FcaTjoFgOepjPLQr3Muva9Z0
+2026-03-17-Programmable 2026 - Melbourne,recording:https://youtube.com/watch?v=Xh3d0aFb1G0
+2026-03-18-Agile Niort 2026,recording:https://www.youtube.com/playlist?list=PLPsX3YIuXp4Q
+2026-03-19-Programmable 2026 - Sydney,recording:https://youtube.com/watch?v=Xh3d0aFb1G0
+2026-03-19-Wasm I/O 2026,recording:https://www.youtube.com/playlist?list=PLP3xGl7Eb-4P9UDywG2NOJLBtcch_Ry7A
+2026-03-20-PyCascades 2026,recording:https://www.youtube.com/playlist?list=PLcNrB7gPa-NeyTIFSdtjnREcW6X9uxwsN
+2026-03-21-Python Asia
+2026-03-21-Security BSides Sofia 2026
+2026-03-22-Agentic Conf Hamburg,recording:https://www.youtube.com/playlist?list=PLV2w1CY5txlQ
+2026-03-23-Cloud Native Telco Day,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2N_B1HGXUyfn4HjjydZctPA
+2026-03-24-Voxxed Days Zurich,recording:https://www.youtube.com/playlist?list=PLRsbF2sD7JVrH2IcCB1mdAUJMFr8ukKRS
+2026-03-25-Springfield Tech Council's STC Squared Conference
+2026-03-27-HackConRD 2026,recording:https://www.youtube.com/playlist?list=PLrFNETQcCMzAR7RvfN2_v4jCnCk8iK94m
+2026-03-27-Sem Servidor Conf 2026
+2026-03-27-Shift,recording:https://www.youtube.com/watch?v=OrxnalgEYlw
+2026-03-28-BSides Belgrade 2026,recording:https://www.youtube.com/playlist?list=PLnucSfkOmayXOwFs_9T4_RDIk3W-noivx
+2026-03-30-Optimized AI Conference 2026
+2026-03-31-Codemotion Roma
+2026-04-02-MCP Dev Summit,recording:https://youtube.com/playlist?list=PLjULwdJUtFdhIBhibLEogtK1XYCNaFyFl
+2026-04-08-CityJS London,recording:https://www.youtube.com/playlist?list=PLYDCh9vbt8_KLsFjnFnskuy9yHDD8c7cd
+2026-04-08-Microsoft JDConf 2026,recording:https://www.youtube.com/watch?v=cJ1odDNflEA
+2026-04-08-PyCon Lithuania
+2026-04-09-BSidesSLC,recording:https://www.youtube.com/playlist?list=PLqVzh0_XpLfTzm5b8a4Bapsl5WBw5jpiP
+2026-04-09-GITEX ASIA,recording:https://www.youtube.com/playlist?list=PLo-_3pwTmpv1G_LREIdFDkPQjNCqCR4Hk
+2026-04-09-Tropical on Rails 26
+2026-04-13-Global Azure Milano 2026
+2026-04-13-Leap 2026
+2026-04-13-SO-CON 2026,recording:https://www.youtube.com/playlist?list=PLJK0fZNGiFU_3wSvgL7sZg2BqJomSys5t
+2026-04-13-Spring I/O 2026,recording:https://www.youtube.com/playlist?list=PLe6FX2SlkJdQZ3N0SW9Abo4cN7eO5dU-U
+2026-04-13-VulnCon 2026,recording:https://www.youtube.com/playlist?list=PLCaCxpa_JH7g
+2026-04-14-Copilot Community Conference Europe 2026,recording:https://www.youtube.com/playlist?list=PLqltgxuKDmc07QlWmLC438Y-9hEi0dYQr
+2026-04-14-Green IO Singapore
+2026-04-14-SREday San Francisco 2026 Q2,recording:https://www.youtube.com/playlist?list=PLCtzHheAYuz4
+2026-04-15-AI in The New Era,recording:https://www.youtube.com/playlist?list=PLJrXFjVmJk9o
+2026-04-15-DjangoCon Europe 2026,recording:https://www.youtube.com/playlist?list=PLZV2vUxca48w
+2026-04-15-NODES AI
+2026-04-16-Mastering Observability
+2026-04-16-UX Rotterdam
+2026-04-17-BSides Groningen 2026,recording:https://www.youtube.com/watch?v=oSM-_VduJHM
+2026-04-17-Global Azure Veneto 2026
+2026-04-17-PyTexas 2026,recording:https://www.youtube.com/playlist?list=PL0MRiRrXAvRh0bfHGatkL10oI682zH0-F
+2026-04-17-wroclove.rb 2026,recording:https://www.youtube.com/watch?v=Q6owchf4WEo
+2026-04-18-DevFest Pisa
+2026-04-18-Fork it! - Tunisia,recording:https://www.youtube.com/playlist?list=PLnfCgE11xujuLoDFmFnAei5wgH-Un-tWC
+2026-04-18-Global Azure Torino 2026,recording:https://www.youtube.com/playlist?list=PL9omBSNBNBtlWot3rYDBeqJUmVDeSQ9yo
+2026-04-18-KCD Guadalajara 2026,recording:https://www.youtube.com/watch?v=Uli4cyITNZQ
+2026-04-19-Conf42 Cloud Native 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrAk91tnHP48BKjDFW9jzf1V
+2026-04-19-PyCon Austria 2026
+2026-04-19-SREday Seattle 2026 Q2,recording:https://www.youtube.com/playlist?list=PL2CAJ_jforK5D2pFxAjp-H1U728dXI8Kb
+2026-04-20-MLcon Amsterdam
+2026-04-20-TokioConf,recording:https://youtube.com/playlist?list=PLgVIJ9TpEgOmHj0ADDpf-qGckYEJs4QCE
+2026-04-21-Beam College Online Training
+2026-04-21-GS UK Virtual 2026
+2026-04-21-Open Community Experience (OCX)
+2026-04-21-Overture Member Summit
+2026-04-22-ElixirConf EU 2026,recording:https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsIgecSexrk26--PBWiEyUy
+2026-04-22-NDC Sydney,recording:https://www.youtube.com/playlist?list=PL03Lrmd9CiGfMhtZNWxXb8UjzEG2XVzXw
+2026-04-22-RubyKaigi 2026,recording:https://www.youtube.com/playlist?list=PLbFmgWm555ybx99aWeqKQvCc5kmZwTuMv
+2026-04-22-SQLBits 2026
+2026-04-23-Gophercamp 2026,recording:https://www.youtube.com/playlist?list=PLnTRDQ9SeGBZJnW7-d8AVNcHcs_UONhs7
+2026-04-23-Gophercamp.cz 2026,recording:https://www.youtube.com/playlist?list=PLnTRDQ9SeGBZJnW7-d8AVNcHcs_UONhs7
+2026-04-23-Security BSides Prague 2026
+2026-04-24-BSIDES COLOMBIA 2026
+2026-04-28-Azure Cosmos DB Conf 2026,recording:https://www.youtube.com/watch?v=OdPFriVuKtU
+2026-04-30-Devopsdays Raleigh,recording:https://www.youtube.com/playlist?list=PLBMvmJ8UbNIU
+2026-04-30-KubeCrash,recording:https://www.youtube.com/playlist?list=PLZgTmEGkVjxFkqtFhGvRZNPKm0tvOAJWO
+2026-05-03-Write the Docs,recording:https://www.youtube.com/playlist?list=PLZAeFn6dfHpkMzZFXFye22pKbafhhC3Cp
+2026-05-04-JAX,recording:https://www.youtube.com/playlist?list=PLiK5kRCY2dazD23i00-gA-k_iy1zUvN5z
+2026-05-04-Namakaný deň 2026
+2026-05-05-Data Makers Fest 2026,recording:https://www.youtube.com/playlist?list=PLRGBzFp8IfLc
+2026-05-05-GISEC GLOBAL,recording:https://www.youtube.com/playlist?list=PL7yJ08v7DzQfDpM3RmKsUeolTcpb4TV94
+2026-05-05-GOSIM Paris 2026,recording:https://www.youtube.com/playlist?list=PLx2fLm_Sb4FHwZqr1Ltbo8qSgjGoz3n5p
+2026-05-05-MenderCon 2026
+2026-05-05-NDC Toronto,recording:https://www.youtube.com/playlist?list=PLIOV11cZAeQ8
+2026-05-05-SREday Austin 2026 Q2,recording:https://www.youtube.com/playlist?list=PLLOT_X_KTyPE
+2026-05-06-DevOpsDays Zurich 2026
+2026-05-06-Devopsdays Zurich
+2026-05-07-Uphill Conf
+2026-05-08-Weblica 2026
+2026-05-09-Dutch Clojure Days 2026
+2026-05-09-Java Day Istanbul 2026,recording:https://www.youtube.com/playlist?list=PLXGQwsKFAJqY
+2026-05-11-IndabaX Nigeria
+2026-05-11-International JavaScript Conference London
+2026-05-11-MLcon London
+2026-05-11-Red Hat Summit,recording:https://www.youtube.com/playlist?list=PLbMP1JcGBmSHf7RbiTFrsI6PqtMSZMPiX
+2026-05-11-Windows Server Virtual Summit,recording:https://www.youtube.com/watch?v=LdDj6DsExKw
+2026-05-12-DPDK Summit 2026,recording:https://www.youtube.com/playlist?list=PLo97Rhbj4ceL54ZJHxxcpZljm-Wlx3g4W
+2026-05-12-Lead Innovation Day - Leadership Edition
+2026-05-12-Lyon Craft,recording:https://www.youtube.com/playlist?list=PLX1-AzP_orsOZP1yUUTJ52ooDcFYo_BYA
+2026-05-12-MidCamp 2026,recording:https://www.youtube.com/playlist?list=PLmBnjy9dJJXfhjm_CM_is6jqGD3uXzSRj
+2026-05-12-UXLx: User Experience Lisbon
+2026-05-13-PyCon US,recording:https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYg5fYUg9tzVrY3zCT7W7Y7
+2026-05-13-UPSCALE CONF 2026,recording:https://www.youtube.com/playlist?list=PLDgkLQZvWsA9otzk4pkPfCKCUEyq5blOD
+2026-05-14-AI Security Summit - London,recording:https://www.youtube.com/playlist?list=PLLIJ0iQnyVB8
+2026-05-14-DevOpsDays Medellin 2026
+2026-05-14-IaCConf,recording:https://www.youtube.com/playlist?list=PLocaoeyiLZlU_w5e_uxzWqWVlJPpAY_Hg
+2026-05-14-JSHeroes,recording:https://www.youtube.com/playlist?list=PLB9NqTp0uKrR4o4yUvMJPSAf2Qfo8ZgmH
+2026-05-14-SREday Munich 2026 Q2,recording:https://www.youtube.com/playlist?list=PLO8YIHpZfDac
+2026-05-15-Devopsdays TASHKENT,recording:https://www.youtube.com/playlist?list=PLfxac9SJZ5QZfUnEkLscL6PbL3vs7HsgT
+2026-05-15-NZ Tech Rally,recording:https://www.youtube.com/playlist?list=PLoryLutFPmRDEyABLmLrnmZrQ0bOQpJec
+2026-05-18-Cloud Native Days Italy
+2026-05-18-Code BEAM Lite Stockholm 2026,recording:https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsO47bB1V65xElZOYyLW-VJ
+2026-05-19-CyberWiseCon Europe 2026
+2026-05-19-DevOps Pro Europe 2026
+2026-05-19-MAU Vegas
+2026-05-19-PHP Tek 2026
+2026-05-19-XtremeJS 2026,recording:https://www.youtube.com/playlist?list=PLQGiusQMOi10
+2026-05-20-DevDays Europe
+2026-05-20-KotlinConf 2026,recording:https://www.youtube.com/watch?v=MmwBJbzWbV0
+2026-05-20-ProductCon,recording:https://youtu.be/KxsdtSqlBGE
+2026-05-21-Conf42 Golang 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrCKzSYaULw7l2nLQKxk2IkS
+2026-05-21-DataGrillen 2026
+2026-05-21-DevOpsDays Geneva 2026,recording:https://www.youtube.com/playlist?list=PLIPCG6ubeZbk
+2026-05-21-Ekoparty Miami 2026 - DevSecOps Space
+2026-05-21-Ekoparty Security Conference 2026 MIAMI
+2026-05-21-Flupa UX Days 2026
+2026-05-21-Istanbul Software Testing Conference (ISTC) 2026
+2026-05-21-Linux Security Summit North America,recording:https://www.youtube.com/playlist?list=PLbzoR-pLrL6qbAlrVizrYd2_Z3RWCKmfk
+2026-05-22-BSides Prishtina 2026
+2026-05-22-Cloud Native Days Amsterdam
+2026-05-23-Code To Cloud Summit 2026
+2026-05-23-Security BSides Dublin 2026,recording:https://www.youtube.com/playlist?list=PLP_UWr1tek1Q
+2026-05-25-Toronto Tech Week,recording:https://www.youtube.com/watch?v=OYE-QobjSH0
+2026-05-26-JNation 2026,recording:https://www.youtube.com/playlist?list=PLXADOFXCGUmUfs4oRL3Y-Mik23Pdjkarg
+2026-05-26-PlatforMa 2026,recording:https://www.youtube.com/playlist?list=PL0EYRrL38c3S8UgkO8qPunRZJC2oMQ_c4
+2026-05-26-WeAreDevelopers Conference 2026 - India
+2026-05-26-XtremePython 2026,recording:https://www.youtube.com/playlist?list=PL9XJvIlpSqodTrb7zGh_ctj0AGBP7ncm7
+2026-05-27-App.js Conf,recording:https://youtu.be/2OS8omLvkbE
+2026-05-27-CTO Craft Con: Toronto 2026
+2026-05-27-Devopsdays Medellín
+2026-05-27-PyCon Italia 2026,recording:https://www.youtube.com/playlist?list=PLUWPlMGp2t18
+2026-05-27-SlashNEW
+2026-05-27-Update Conference Krakow 2026,recording:https://www.youtube.com/playlist?list=PLP_PCOYG9yJ8
+2026-05-28-LLMday London 2026 Q2,recording:https://www.youtube.com/playlist?list=PLacushtZhEMs
+2026-05-28-Qld AI Festival,recording:https://www.youtube.com/playlist?list=PL4OfVtVmEVAZPuYJeXDGO2Cr-Ib1uEXrl
+2026-05-28-Security Fest,recording:https://www.youtube.com/playlist?list=PL0Jph6SmWIuMUu5O_5r9K-xX3MNK2o9ts
+2026-05-29-Africa Tech Summit London,recording:https://www.youtube.com/playlist?list=PLNkBipGVeSEYpTBPE5m7hjsUgRfwK9YeX
+2026-05-29-Agile Tour Strasbourg 2026,recording:https://www.youtube.com/playlist?list=PLSopNY9VsFxIcNniePtFp2Y-GbON2yDjZ
+2026-05-29-Hardwear.io USA,recording:https://youtube.com/playlist?list=PLWAG1Gbib488
+2026-05-29-Pwnterrey 2026
+2026-05-29-RubyConf Austria 2026,recording:https://www.youtube.com/playlist?list=PLfo_lSts5dBhAdoXZH9Akq0cUCF6L8Bm2
+2026-05-30-The Diana Initiative 2026 (Online Event)
+2026-06-01-AI Native DevCon London 2026,recording:https://youtube.com/watch?v=b9izY52Yzkk
+2026-06-01-CascadiaJS 2026,recording:https://www.youtube.com/playlist?list=PLLiioAbFTbKP3F7TnwsIN_-FVAiuBSSoy
+2026-06-01-DevTalks Romania 2026,recording:https://www.youtube.com/playlist?list=PLWkNEdWu-Ug8
+2026-06-01-International JavaScript Conference San Diego
+2026-06-01-Neos Conference 2026,recording:https://www.youtube.com/playlist?list=PLmMUGpq3yu-gir0jz_xqHbzNCXzjMj0rU
+2026-06-01-SREday NYC 2026 Q2,recording:https://youtu.be/Y0M-ZmEj2Xs
+2026-06-01-fwd:cloudsec North America 2026,recording:https://www.youtube.com/playlist?list=PLCPCP1pNWD7O2zbp9sao2mNInjpvHWsnR
+2026-06-02-AI Native DevCon London 2026,recording:https://youtube.com/watch?v=b9izY52Yzkk
+2026-06-03-DevTalks,recording:https://www.youtube.com/playlist?list=PLTkKWAKC66E8
+2026-06-03-Nordic Testing Days
+2026-06-04-Conf42 Database DevOps 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrCwmGmMnd2P7QS42DFYdMUU
+2026-06-04-WordCamp Europe 2026,recording:https://www.youtube.com/playlist?list=PLn4WQ16NLqNDuCwEf6G8d6rC0mWwV7w2Z
+2026-06-05-Commit Conf,recording:https://www.youtube.com/playlist?list=PLu976vDeELBqSVNb7MX4oO3DGA5B8c6m3
+2026-06-05-Fork it! - Rouen,recording:https://www.youtube.com/playlist?list=PLUGFZ3s2tgJ8
+2026-06-05-PyData London 2026,recording:https://www.youtube.com/playlist?list=PLGVZCDnMOq0rFQykYJg7t441AEpN4SszE
+2026-06-06-Polycloud,recording:https://www.youtube.com/playlist?list=PLAuRNrEDx0jakH3xmKntDKVAYNk0DaP5Q
+2026-06-07-Berlin Buzzwords,recording:https://www.youtube.com/playlist?list=PLq-odUc2x7i82TFm2NLewyoGOsHRkBLsq
+2026-06-08-Dev.Play Conference,recording:https://www.youtube.com/playlist?list=PLd_CKlXLg_AA
+2026-06-08-Domain-Driven Design Europe
+2026-06-08-Future Frontend,recording:https://www.youtube.com/playlist?list=PLKGgD1M40S4jYyNy0baFgSgdZ-W7a11eU
+2026-06-08-International PHP Conference Berlin,recording:https://www.youtube.com/playlist?list=PLjODKYi0WiE4cpj1hmoYDTYA8SX-i3VuW
+2026-06-08-London Tech Week 2026,recording:https://www.youtube.com/playlist?list=PLGpv4XKvm8tc
+2026-06-08-Webinale,recording:https://www.youtube.com/playlist?list=PLNOZzQ57obp8
+2026-06-09-JetBrains PHPverse,recording:https://youtube.com/playlist?list=PL0bgkxUS9EaK45-0M742u1WfK2G7FKXZQ
+2026-06-09-MCP Dev Summit Bengaluru,recording:https://youtube.com/playlist?list=PLjULwdJUtFdjh2SthxGyO4e3woXej5FIu
+2026-06-10-Cloud Native Zürich,recording:https://www.youtube.com/playlist?list=PLA_kepINgW45gj99Ks9dcJ3IaAn_Snm8u
+2026-06-10-Nexus Luxembourg
+2026-06-10-Umbraco Codegarden,recording:https://www.youtube.com/playlist?list=PLG_nqaT-rbpzzDDJqfXsLxMpF9ir9zjO3
+2026-06-11-x33fcon conference 2026,recording:https://www.youtube.com/playlist?list=PL7ZDZo2Xu331YBC_jYYUvN-CSiPFI4hoP
+2026-06-12-Coderful,recording:https://www.youtube.com/playlist?list=PLEropIh7qVdM
+2026-06-12-React Summit,recording:https://www.youtube.com/playlist?list=PLA76OmM6S084
+2026-06-12-Tech F'Est 2026
+2026-06-13-Applied AI Conference 2026,recording:https://youtube.com/playlist?list=PLET8-WBrXEPw
+2026-06-13-BSides SATX 2026,recording:https://www.youtube.com/playlist?list=PLeCLyUqavaZM
+2026-06-14-MCP Dev Summit Mumbai,recording:https://youtube.com/playlist?list=PLGFvGPsdd5yA
+2026-06-15-Claude Torino #2 - Tech Talks
+2026-06-15-GopherCon Europe 2026 in Berlin,recording:https://www.youtube.com/playlist?list=PLcG0prD6kA3o
+2026-06-15-OpenSearchCon India,recording:https://www.youtube.com/playlist?list=PLzgr9zSpws17gzkIHcJkBC2wGVHv2d1rU
+2026-06-17-BSDCan,recording:https://www.youtube.com/playlist?list=PLeF8ZihVdpFcyO__zr8LDj0j0AaDaIqd-
+2026-06-17-EUC TechCon 2026,recording:https://www.youtube.com/playlist?list=PLdOmgmveYT2Q
+2026-06-17-OWASP Italy Day 2026
+2026-06-18-CFCamp 2026,recording:https://www.youtube.com/playlist?list=PL_Sa3nE0FaDRDPsH7hHN42nypmGgV4Y9D
+2026-06-18-Conf42 Large Language Models (LLMs) 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrAbZ-MTonX2gERed7dTODjm
+2026-06-18-DevConf.CZ,recording:https://www.youtube.com/playlist?list=PLPFRIschHNCw
+2026-06-19-Pixel Pioneers,recording:https://youtu.be/dJcN1bGiPZQ
+2026-06-20-PuneFOSS 4.0
+2026-06-22-Beam Summit 2026
+2026-06-22-MLcon Munich
+2026-06-23-Confidential Computing Summit,recording:https://youtube.com/playlist?list=PLbzoR-pLrL6o_u78x-LyxIYwjSTQk1KSd
+2026-06-23-ReactNext 2026,recording:https://www.youtube.com/playlist?list=PLdlbTHnLUQ5I
+2026-06-23-VibeKode
+2026-06-24-AWS Community Day Midwest 2026,recording:https://www.youtube.com/playlist?list=PLRQF_Yb_5c9E
+2026-06-24-BreizhCamp 2026,recording:https://www.youtube.com/playlist?list=PLEVsFwFmRJeM
+2026-06-24-Ghana Data Science Summit (IndabaX Ghana)
+2026-06-24-NodeTLV 2026
+2026-06-24-Sloss Tech 2026,recording:https://www.youtube.com/playlist?list=PLF_tickFOLg0
+2026-06-25-BSidesTLV 2026
+2026-06-25-DAM Europe
+2026-06-25-Experts Live Austria 2026
+2026-06-25-IEEE Cloud Summit 2026
+2026-06-26-Isle of Wonders - Cres 2026
+2026-07-02-AI Engineer World's Fair 2026,recording:https://www.youtube.com/playlist?list=PLDyBmFH9HlVc
+2026-07-02-Agile On The Beach 2026,recording:https://www.youtube.com/playlist?list=PLWKxDWZaOuHY
+2026-07-03-Agile Lyon 2026,recording:https://www.youtube.com/playlist?list=PLU1jsr2DsrIw
+2026-07-03-HackElValle 2026
+2026-07-13-SciPy 2026,recording:https://www.youtube.com/playlist?list=PLfHvtFe7Iegw
+2026-07-14-Develop Conference
+2026-07-15-Swift Rockies,recording:https://www.youtube.com/playlist?list=PLDq7blgJmS0k
+2026-07-18-EuroSciPy 2026,recording:https://www.youtube.com/playlist?list=PLYqi92iCr_sU
+2026-07-21-Ruby Conf Africa 2026
+2026-07-24-API Conf Lagos 2026
+2026-07-30-Kuber Community Day,recording:https://youtube.com/playlist?list=PLROeTHghJa5U
+2026-07-31-Azure Cloud Lab - Sesiones Junior mentorizadas
+2026-07-31-M365 Community Days NYC
+2026-08-02-Deep Learning Indaba 2026,recording:https://www.youtube.com/playlist?list=PLAnk_NyGavxA
+2026-08-07-AppSec Village - DEF CON 34
+2026-08-07-Recon Village @ DEFCON 2026
+2026-08-07-Red Team Village at DEFCON 34
+2026-08-08-PyCon Indonesia 2026
+2026-08-12-Render (RenderATL) 2026
+2026-08-13-MCP Dev Summit Seoul,recording:https://youtube.com/playlist?list=PLffifCuGDZQo
+2026-08-14-Carolina Code Conference 2026,recording:https://www.youtube.com/playlist?list=PLByUtaayjHPM
+2026-08-15-Hack Glasgow,recording:https://youtube.com/playlist?list=PLVTR0aGsuw1s
+2026-08-20-Laravel Live Denmark,recording:https://www.youtube.com/playlist?list=PLTUtXGcdc1_E
+2026-08-21-GDevCon#7,recording:https://www.youtube.com/playlist?list=PLDarKsmeyTE4
+2026-08-21-GopherCon Latam 2026
+2026-08-21-HITCON 2026
+2026-08-21-MCT Summit 2026
+2026-08-22-Devopsdays Curitiba
+2026-08-24-DjangoCon US,recording:https://www.youtube.com/playlist?list=PLFQg7E3if2as
+2026-08-29-AWS Community Day Bolivia 2026
+2026-09-01-DroidKaigi 2026,recording:https://www.youtube.com/playlist?list=PLIvD3RPkoPvA
+2026-09-01-KCD SF Bay Area 2026,recording:https://youtube.com/playlist?list=PLQYdzzICWra0
+2026-09-01-seL4 Summit,recording:https://www.youtube.com/playlist?list=PLd7rrADYxxQQ
+2026-09-03-Flutter & Friends
+2026-09-04-CyBe AI Summit 2026
+2026-09-07-iOSDevUK
+2026-09-08-RustConf 2026,recording:https://youtube.com/playlist?list=PLCIkLZab-UIM
+2026-09-09-Sooner Safer Happier LIVE 2026
+2026-09-10-AGNTCon + MCPCon Japan,recording:https://youtube.com/playlist?list=PLBiiOf3GGsdk
+2026-09-10-BSides Belfast 2026,recording:https://www.youtube.com/playlist?list=PLYr2nGcviosw
+2026-09-10-Conf42 Observability 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrBA6AiE2f0hmsnFk5oGfFjb
+2026-09-10-Escape 2026,recording:https://youtube.com/playlist?list=PLTOclmFZdtOA
+2026-09-10-Signals Conference
+2026-09-12-AWS Community Day Vadodara 2026,recording:https://www.youtube.com/playlist?list=PLXXn3pfBEfe4
+2026-09-12-CppCon 2026,recording:https://www.youtube.com/playlist?list=PLHTh1InhhwT4dQuHLWnSL14pZMo6-cBx_
+2026-09-14-Brains on Silicon
+2026-09-14-NDC Oslo,recording:https://www.youtube.com/playlist?list=PLIUsisVeO5Wc
+2026-09-14-posit::conf(2026)
+2026-09-15-LF Energy Summit Europe,recording:https://www.youtube.com/playlist?list=PLDE13Lw0b5KY
+2026-09-15-Xen Summit 2026,recording:https://www.youtube.com/playlist?list=PLGe6RWOETgTQ
+2026-09-16-DC State of the Stack 2026,recording:https://www.youtube.com/playlist?list=PLP4XmS3XP1kg
+2026-09-16-Hatch Conference,recording:https://www.youtube.com/playlist?list=PLHaM8N04zP9w
+2026-09-16-The AI-Native Workplace Summit 2026,recording:https://www.youtube.com/playlist?list=PLeJg-k0PTuSI
+2026-09-16-uxcon
+2026-09-17-AGNTCon + MCPCon Europe,recording:https://youtube.com/playlist?list=PLYQhaaSJGN4U
+2026-09-17-Devopsdays London
+2026-09-17-Swiss Cloud Native Day 2026,recording:https://www.youtube.com/playlist?list=PLK5U5TmbkYQ8
+2026-09-18-Future Builders
+2026-09-18-UtahJS Conf 2026,recording:https://www.youtube.com/playlist?list=PLUMGDr9B2pYs
+2026-09-19-SAP Inside Track Weinheim 2026,recording:https://www.youtube.com/playlist?list=PLA16RmgDzT40
+2026-09-21-BruCON 0x12
+2026-09-21-CityJS Athens
+2026-09-21-Cloud Foundry Summit,recording:https://www.youtube.com/playlist?list=PLfuhJizDu3R0
+2026-09-21-Explore DDD 2026
+2026-09-21-devdays 2026
+2026-09-22-Agile en Seine & IA 2026,recording:https://www.youtube.com/playlist?list=PLWnPeMNwhki0
+2026-09-22-Future Product Days
+2026-09-22-Nerdearla Argentina,recording:https://www.youtube.com/playlist?list=PLSIhVPGaUbi8
+2026-09-22-OpenSearchCon North America,recording:https://youtube.com/playlist?list=PLOZAsMYNWb40
+2026-09-22-Salon Data 2026,recording:https://www.youtube.com/playlist?list=PLPJ1o3CXM1Ng
+2026-09-23-AI horizons 2026,recording:https://www.youtube.com/playlist?list=PLHGOyldFH3Mo
+2026-09-23-Directions for Enterprise 2026,recording:https://www.youtube.com/playlist?list=PLB_qC2qByEo4
+2026-09-23-NSW AI Bonanza 2026
+2026-09-23-Rails World 2026,recording:https://www.youtube.com/playlist?list=PLdMRFKO1zSBE
+2026-09-23-bit summit 2026,recording:https://www.youtube.com/playlist?list=PLYRymzJVXIDE
+2026-09-24-BSides Edmonton 2026
+2026-09-24-Conf42 AI Agents 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrCZ8u5VHJAm9eOB9KJTCZT8
+2026-09-25-BSides Krakow 2026
+2026-09-25-BSides Orlando 2026
+2026-09-28-Birmingham Tech Week 2026
+2026-09-28-Birmingham Tech Week 2026: AI Symposium
+2026-09-28-Birmingham Tech Week 2026: Scale Up Summit
+2026-09-28-DevOpsDays Bogotá 2026,recording:https://www.youtube.com/playlist?list=PLaQaLHYWESIg
+2026-09-28-Extremadura Digital Day 2026
+2026-09-29-CTO Craft Con: Europe,recording:https://www.youtube.com/playlist?list=PLFBqJb07FBRk
+2026-09-29-Tech Week Singapore
+2026-09-30-Devopsdays Vilnius
+2026-09-30-Elastic{ON}
+2026-10-01-DesignUp Festival 2026
+2026-10-01-GITEX VIETNAM 2026
+2026-10-01-SFK 2026
+2026-10-01-Volcamp,recording:https://www.youtube.com/playlist?list=PLd211O2boFMQ
+2026-10-02-DevFest Egypt
+2026-10-02-Kubernetes Community Day's Argentina 2026
+2026-10-03-AWS Community Day Bulgaria 2026,recording:https://www.youtube.com/playlist?list=PLCyIILT6s0s8
+2026-10-03-BSides Cheltenham 2026,recording:https://www.youtube.com/playlist?list=PLAn045YTJ4ME
+2026-10-03-DDD Perth 2026,recording:https://www.youtube.com/playlist?list=PLCXichuJGtY0
+2026-10-03-RenderCon Kenya 2026
+2026-10-03-Scottish Summit 2026
+2026-10-05-Linux Plumbers Conference,recording:https://www.youtube.com/playlist?list=PLd3Gjl51NPg0
+2026-10-05-MCP Dev Summit Toronto,recording:https://youtube.com/playlist?list=PLQCdLuOqrWZU
+2026-10-05-Nordic Integration Summit 2026
+2026-10-06-OpenGov Africa Summit 2026
+2026-10-07-Cloud Security Space 2026
+2026-10-07-Frontmania 2026
+2026-10-07-WordPress Accessibility Day
+2026-10-07-World Summit AI
+2026-10-07-next.app devcon,recording:https://youtube.com/playlist?list=PLSqKLdsvBULU
+2026-10-08-Elastic{ON}
+2026-10-08-Forum PHP 2026,recording:https://www.youtube.com/playlist?list=PLIT7Te-ZvJlc
+2026-10-09-Cloud Security Space 2026
+2026-10-12-PyCon Greece 2026
+2026-10-12-SwiftLeeds
+2026-10-12-The Nordic APIs UnConference
+2026-10-13-Experts Live Sweden 2026
+2026-10-13-TechCrunch Disrupt,recording:https://www.youtube.com/playlist?list=PLQi30ak2-7D8
+2026-10-13-Techbash
+2026-10-14-AI Engineer NYC 2026,recording:https://www.youtube.com/playlist?list=PLPrARbQ6iscE
+2026-10-14-BaselOne 2026
+2026-10-14-Daten-WG 2026
+2026-10-14-EuroRust,recording:https://www.youtube.com/playlist?list=PLDiH7Ix4u0ZA
+2026-10-14-HrOUG 2026
+2026-10-14-KanDDDinsky 2026
+2026-10-14-NIC 2026,recording:https://www.youtube.com/playlist?list=PL5U4HI1vS6ocrY0ks5VN8G0HZei_zfhyr
+2026-10-15-AI Security Summit - San Francisco
+2026-10-15-AWS Community Day Australia 2026,recording:https://www.youtube.com/playlist?list=PLHt9prFuepCo
+2026-10-15-Conf42 DevSecOps 2026
+2026-10-15-X-Ops Conference
+2026-10-16-JawnCon 0x3
+2026-10-16-Just Product
+2026-10-17-MIT AI Conference
+2026-10-17-PyCon Ireland 2026
+2026-10-18-GopherCon Israel 2026
+2026-10-20-Elastic{ON}
+2026-10-20-OCUDU Ecosystem Developer Summit,recording:https://www.youtube.com/playlist?list=PLd8yLVthsuIo
+2026-10-20-PyTorch Conference 2026,recording:https://www.youtube.com/playlist?list=PLVqjs87Mef-U
+2026-10-20-The Linux Foundation Legal Summit
+2026-10-20-hayaData 2026,recording:https://www.youtube.com/playlist?list=PLRpmpMRb0PME
+2026-10-21-Apache Doris Summit 2026
+2026-10-21-CityJS Conference Athens
+2026-10-21-Code BEAM Europe 2026,recording:https://www.youtube.com/playlist?list=PLB7ZTubBnAhw
+2026-10-21-HelloStavanger 2026,recording:https://www.youtube.com/playlist?list=PLCH701MSjZeQ
+2026-10-21-Resend Forward,recording:https://www.youtube.com/playlist?list=PLbCmkdOLnaeI
+2026-10-22-AGNTCon + MCPCon,recording:https://www.youtube.com/playlist?list=PLFBM09st9BIg
+2026-10-22-AWS Community Day Adria 2026
+2026-10-22-Agile Tour Bordeaux 2026
+2026-10-22-Swiss Python Summit 2026
+2026-10-23-BSides Tirana 2026
+2026-10-23-DevOpsDays Bogotá 2026,recording:https://www.youtube.com/playlist?list=PLaQaLHYWESIg
+2026-10-23-Encode London 2026
+2026-10-23-Security BSides Querétaro 2026
+2026-10-24-Day of Data St. Louis
+2026-10-24-DevOpsDays Floripa 2026
+2026-10-24-PyBeach 2026
+2026-10-25-2026 Power Platform Community Conference
+2026-10-26-SAINTCON Training 2026,recording:https://www.youtube.com/playlist?list=PLN606zckiqwI
+2026-10-26-Techorama 2026 Netherlands
+2026-10-26-webinale Munich 2026
+2026-10-28-Cloud Native Summit - APAC 2026
+2026-10-29-Conf42 Prompt Engineering 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrDzNtWZ0n1t5hBRAnvvhOpl
+2026-10-29-J On The Beach
+2026-10-29-Lambda World
+2026-10-29-React India,recording:https://www.youtube.com/playlist?list=PLJVXgbxYJDSI
+2026-10-29-Recursion
+2026-10-29-Wey Wey Web
+2026-10-30-DevFest.cz 2026,recording:https://www.youtube.com/playlist?list=PLchJVBxcMcWU
+2026-10-30-KCD Budapest 2026
+2026-11-01-GoLab 2026
+2026-11-01-RustLab 2026
+2026-11-02-CTO Craft Con: Fintech,recording:https://www.youtube.com/playlist?list=PLB2vkWIbSEng
+2026-11-02-FOSS4G NA 2026
+2026-11-02-Nullcon Berlin
+2026-11-02-Open Source Analytics Conference,recording:https://www.youtube.com/playlist?list=PLTLtCE72XvgI
+2026-11-02-W-JAX München
+2026-11-04-2026 ACSA Leadership Summit
+2026-11-04-Devoxx Morocco
+2026-11-04-Elastic{ON}
+2026-11-04-KCD Budapest 2026
+2026-11-04-Nerdearla Madrid
+2026-11-04-code.talks
+2026-11-04-Øredev,recording:https://www.youtube.com/playlist?list=PLZ5dhgROsU_w
+2026-11-05-BlackAlps 2026
+2026-11-05-Conf42 Platform Engineering 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrASkIvm2yEw5xkOVrx3cUOw
+2026-11-05-Games Ground 2026
+2026-11-06-Dakar Bitcoin Days 2026
+2026-11-06-Texas Linux Fest 2026
+2026-11-06-UX Brighton
+2026-11-07-OpenFest 2026
+2026-11-08-OpenFest 2026
+2026-11-08-Simply Cyber Con 2026,recording:https://www.youtube.com/playlist?list=PLc9O2NA4idZ8
+2026-11-09-KubeCon + CloudNativeCon NA 2026,recording:https://www.youtube.com/playlist?list=PLBwvgN48cfx8
+2026-11-10-Porto Tech Hub Conference 2026,recording:https://www.youtube.com/playlist?list=PLBukrQJj-BUc
+2026-11-12-KVM Forum 2026
+2026-11-12-Nordic APIs Summit 2026
+2026-11-12-Tokyo Test Fest
+2026-11-12-Ubuntu Summit
+2026-11-12-Update Conference Prague 2026
+2026-11-13-Update Conference Prague 2026
+2026-11-13-VIC AI Boom
+2026-11-13-pgDay México 2026
+2026-11-14-Capitole du Libre
+2026-11-14-DevFest Berlin 2026
+2026-11-14-PyCon Hong Kong 2026
+2026-11-14-UbuCon India 2026
+2026-11-16-Agile Testing Days
+2026-11-17-AI Poland
+2026-11-17-JS Poland
+2026-11-17-React Summit US
+2026-11-18-Nerdearla Mexico,recording:https://www.youtube.com/playlist?list=PLJACC8Jd7ToE
+2026-11-18-Nerdearla México 2026,recording:https://www.youtube.com/playlist?list=PLJACC8Jd7ToE
+2026-11-18-Wagtail Space 2026
 2025-02-04-State Of Open Con 2025,recording:https://www.youtube.com/@openuk_uk/playlists
 2025-05-14-PyConUS 2025,recording:https://www.youtube.com/playlist?list=PL2Uw4_HvXqvb98mQjN0-rYQjdDxJ_hcrs
 2025-06-03-AI Engineer World's Fair,recording:https://www.youtube.com/@aiDotEngineer/playlists

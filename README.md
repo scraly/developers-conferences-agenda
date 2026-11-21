@@ -22,6 +22,14 @@ All the data (past and coming) are available publicly in JSON:
 - conferences: https://developers.events/all-events.json
 - CFPs: https://developers.events/all-cfps.json
 
+## Updating recordings with an agent
+
+Recording links (`recording:` fields in `METADATA.csv`) can be updated by an AI coding agent. Prompt:
+
+> update recordings for events in 2026
+
+See [FINDING-RECORDINGS.md](FINDING-RECORDINGS.md) for the workflow.
+
 ## Archives
 
 * [2017](archives/2017.md)
