@@ -9,7 +9,7 @@ event_id,attendees
 2026-06-17-Devoxx Poland,attendees:2700
 2026-05-06-Devoxx UK 2026,attendees:1200
 2026-04-23-Devoxx Greece,attendees:1200
-2026-07-06-Riviera Dev,attendees:700
+2026-07-06-Riviera Dev,attendees:700,recording:https://www.youtube.com/@RivieraDEV/videos
 2026-07-02-Sunny Tech,attendees:550,recording:https://www.youtube.com/playlist?list=PLKyiu9tvD998
 2026-06-11-DevLille 2026,attendees:1500,recording:https://www.youtube.com/playlist?list=PLXbqr_rv1t4N3LXk2aP80NQjIbymwpA2S
 2026-05-15-KCD Texas 2026,attendees:250,recording:https://youtube.com/playlist?list=PL4UW_RgvzVcgZfg1SBz6_J6L8jchHvoX7
@@ -199,12 +199,12 @@ event_id,attendees
 2025-05-14-PyConUS 2025,recording:https://www.youtube.com/playlist?list=PL2Uw4_HvXqvb98mQjN0-rYQjdDxJ_hcrs
 2025-06-03-AI Engineer World's Fair,recording:https://www.youtube.com/playlist?list=PLcfpQ4tk2k0W3ORTR-Cr4Ppw6UrN8kfMh
 2025-06-09-InfoQ Dev Summit Boston,recording:https://www.youtube.com/playlist?list=PLndbWGuLoHebIpeLhavitZyOalsVkraqn
-2025-06-10-NVIDIA GTC Paris
+2025-06-10-NVIDIA GTC Paris,recording:https://www.nvidia.com/en-us/on-demand/playlist/playList-0dc0b10a-eb85-47fe-a6b2-e5a7757d5480/
 2025-06-23-Open Source Summit North America,recording:https://www.youtube.com/playlist?list=PLbzoR-pLrL6oVKdG6lLVXeCYVbt_NnS4c
 2025-07-07-SciPy 2025,recording:https://www.youtube.com/playlist?list=PL1PbeFStIOoOktqbbHagv5IjOSJmocQ5m
 2025-08-05-Open Source Summit India,recording:https://www.youtube.com/playlist?list=PLbzoR-pLrL6oLXnSt1EBhzNJU7HYbB-Nu
 2025-03-14-AI Dev 2025,recording:https://www.youtube.com/playlist?list=PLkDaE6sCZn6EYD2iP6x7c3zSbJXi0_jZT
-2025-03-17-NVIDIA GTC 2025
+2025-03-17-NVIDIA GTC 2025,recording:https://www.nvidia.com/en-us/on-demand/playlist/playList-79f11c8a-c249-4bc5-b27f-a8ebcf18497a/
 2025-04-14-Optimized AI Conference 2025,recording:https://www.youtube.com/playlist?list=PLRJL9rjwb40kHHsQgj_v5YdUmiQuq3wDu
 2025-04-21-Haystack US 2025,recording:https://www.youtube.com/playlist?list=PLCoJWKqBHERtDelFM5c3Qp99CuBd5DyQo
 2025-04-28-RSAC 2025,recording:https://www.youtube.com/playlist?list=PLeUGLKUYzh_jpyt_GNBgdOl59F7asEvOK
