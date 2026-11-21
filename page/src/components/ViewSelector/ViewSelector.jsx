@@ -23,23 +23,14 @@ const ViewSelector = ({selected}) => {
     <div className="view-type-selector">
       <RecordingsToggle />
       {views.map(({ key, Icon, label, path }) => (
-        <div
-          aria-label={label}
-          className={`view-selector ${key}-view view-selector-tooltip ${selected === key ? 'selected' : ''}`}
-          data-tooltip={label}
-          key={key}
-          onClick={() => navigate(`${path}?${createSearchParams(searchParams)}`)}
-          role="button"
-          tabIndex={0}
-          onKeyDown={(e) => {
-            if (e.key === 'Enter' || e.key === ' ') {
-              e.preventDefault();
-              navigate(`${path}?${createSearchParams(searchParams)}`);
-            }
-          }}
-        >
-          <Icon size="42px" />
-        </div>
+        <span className="view-selector-tooltip" data-tooltip={label} key={key}>
+          <Icon
+            aria-label={label}
+            className={`view-selector ${key}-view${selected === key ? ' selected' : ''}`}
+            onClick={() => navigate(`${path}?${createSearchParams(searchParams)}`)}
+            size="42px"
+          />
+        </span>
       ))}
     </div>
   );
