@@ -190,6 +190,8 @@ export const useCfpEvents = () => {
   const { year } = useParams()
   const [searchParams] = useSearchParams()
   const search = Object.fromEntries(searchParams)
+  // Recordings filtering only applies to list, calendar, and map views.
+  delete search.recordings
   const regionsMap = useCountryToRegionMap()
   const { updateTrigger } = useFavoritesContext()
 
@@ -223,6 +225,8 @@ export const useCfpCompanionEvents = () => {
   const { year } = useParams()
   const [searchParams] = useSearchParams()
   const search = Object.fromEntries(searchParams)
+  // Recordings filtering only applies to list, calendar, and map views.
+  delete search.recordings
   const regionsMap = useCountryToRegionMap()
   const { updateTrigger: favUpdateTrigger } = useFavoritesContext()
   const { updateTrigger: statusUpdateTrigger } = useCfpSpeakerStatusContext()

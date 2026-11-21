@@ -283,10 +283,10 @@ const Filters = ({ view }) => {
             <label htmlFor='filter-sponsoring'>{t('filters.sponsoring')}</label>
           </div> : ''}
 
-          <div className='filtersItem'>
+          {['list', 'calendar', 'map'].includes(view) ? <div className='filtersItem'>
             <input checked={search.recordings === 'true'} id='filter-recordings' onChange={(e) => onChange('recordings', e.target.checked ? 'true' : '')} type='checkbox' />
             <label htmlFor='filter-recordings'>{t('filters.recordings')}</label>
-          </div>
+          </div> : null}
 
           <div className='filtersItem'>
             <input checked={search.online == 'true'} id='filter-online' onChange={(e) => onChange('online', e.target.checked)} type='checkbox' />

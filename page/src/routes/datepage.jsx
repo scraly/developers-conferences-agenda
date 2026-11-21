@@ -16,7 +16,7 @@ export const DatePage = () => {
 
     return (
         <div className="dcaGrid">
-          <Filters/>
+          <Filters view="calendar"/>
           <div className="dcaContent">
             <YearSelector
               isMap={false}
