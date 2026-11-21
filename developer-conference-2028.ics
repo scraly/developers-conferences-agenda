@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:DCA
+BEGIN:VEVENT
+UID:KubeCon + CloudNativeCon Europe 2028@dca-2028
+DTSTAMP:20261121T150210
+DTSTART:20280424
+LOCATION:Berlin (Germany)
+SUMMARY:KubeCon + CloudNativeCon Europe 2028
+URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2028/
+END:VEVENT
+BEGIN:VEVENT
+UID:KubeCon + CloudNativeCon North America 2028@dca-2028
+DTSTAMP:20261121T150210
+DTSTART:20281211
+LOCATION:Denver, CO (USA)
+SUMMARY:KubeCon + CloudNativeCon North America 2028
+URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america
+ -2028/
+END:VEVENT
+END:VCALENDAR
