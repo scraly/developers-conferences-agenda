@@ -13,6 +13,7 @@ import { useTranslation } from 'contexts/LanguageContext';
 
 import 'styles/Filters.css';
 import { FilterContext } from 'contexts/FilterContext';
+import { getFilterParamKeys, hasActiveFilters } from './Filters.utils';
 
 const Filters = ({ view }) => {
   const context = useContext(FilterContext);
@@ -27,6 +28,8 @@ const Filters = ({ view }) => {
   }, [searchParams, open]);
 
   const search = Object.fromEntries(searchParams)
+  const filtersActive = hasActiveFilters(search)
+  const filtersTitle = `${open ? t('filters.close') : t('filters.open')}${filtersActive ? ' (Filters active)' : ''}`
 
   const updateParams = useCallback((updates) => {
     const next = new URLSearchParams(searchParams);
@@ -125,29 +128,10 @@ const Filters = ({ view }) => {
 
   // Clear All Filters
   const handleClearAll = useCallback(() => {
+    // Clear filter keys from the live URLSearchParams so repeated and empty
+    // values of unrelated parameters are preserved as-is.
     const cleared = new URLSearchParams(searchParams)
-    const filterKeys = new Set()
-    const allDims = [...TAG_FILTER_CONFIG.allowed, 'country', 'region']
-    allDims.forEach(dim => {
-      filterKeys.add(dim)
-      filterKeys.add(`${dim}_not`)
-      filterKeys.add(`${dim}_mode`)
-    })
-    filterKeys.add('tags')
-    filterKeys.add('online')
-    filterKeys.add('inPerson')
-    filterKeys.add('notOnline')
-    filterKeys.add('closedCaptions')
-    filterKeys.add('recordings')
-    filterKeys.add('scholarship')
-    filterKeys.add('sponsoring')
-    filterKeys.add('callForPapers')
-    filterKeys.add('favorites')
-    filterKeys.add('query')
-    filterKeys.add('untilDate')
-    filterKeys.add('minAttendees')
-    filterKeys.add('cfpStatus')
-
+    const filterKeys = getFilterParamKeys()
     filterKeys.forEach(key => cleared.delete(key))
     setSearchParams(cleared)
   }, [searchParams, setSearchParams])
@@ -172,10 +156,14 @@ const Filters = ({ view }) => {
           }
           setOpen(true);
         }}
-        title={open ? t('filters.close') : t('filters.open')}
+        title={filtersTitle}
       >
-        <div className='filters-icon'>{open ? <FilterX size="42px" /> : <Filter size="42px" />}</div>
+        <div className='filters-icon'>
+          {open ? <FilterX size="42px" /> : <Filter size="42px" />}
+          {filtersActive ? <span className='filters-active-indicator' aria-hidden='true' /> : null}
+        </div>
         <span className='filters-title'>{t('filters.title')}</span>
+        <span className='sr-only' aria-live='polite'>{filtersActive ? 'Filters active' : ''}</span>
       </div>
 
       <div className='tags-toggle-container'>

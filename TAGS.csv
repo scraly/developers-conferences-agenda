@@ -4194,3 +4194,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-06-14-webinale Berlin,language:english,tech:web,topic:web-development
 2027-06-24-AWS Community Summit Birmingham 2027,language:english,tech:aws,topic:cloud
 2027-08-09-JuliaCon 2027,language:english,tech:julia,topic:programming
+2027-02-05-DevFest Stockholm,language:english,tech:android,tech:google,topic:development,topic:mobile
+2027-04-09-BSides OT UK 2027,language:english,tech:security,topic:security,topic:operational-technology
+2027-05-12-PyCon US 2027,language:english,tech:python,topic:python,topic:open-source
+2027-06-13-Berlin Buzzwords 2027,language:english,tech:architecture,topic:software-architecture,topic:design
