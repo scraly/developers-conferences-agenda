@@ -27,8 +27,57 @@
   box-shadow: inset 0 -2px 0 var(--color-primary), inset 0 0 0 1px var(--border-dark);
 }
 
-.view-type-selector .view-selector:first-child {
+.view-type-selector .view-selector-tooltip:first-child .view-selector {
   border-left: 0;
+}
+
+/* Styled tooltip on view selector buttons. The wrapper is a flex item that
+   shrink-wraps the icon, so the buttons keep their original size. */
+.view-selector-tooltip {
+  position: relative;
+  display: flex;
+}
+
+.view-selector-tooltip::after,
+.view-selector-tooltip::before {
+  position: absolute;
+  left: 50%;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease-in-out, transform 0.15s ease-in-out;
+  transform: translate(-50%, 4px);
+  z-index: 1000;
+}
+
+.view-selector-tooltip::before {
+  content: '';
+  top: 100%;
+  margin-top: 6px;
+  border: 5px solid transparent;
+  border-bottom-color: var(--bg-inverse, #222);
+}
+
+.view-selector-tooltip::after {
+  content: attr(data-tooltip);
+  top: 100%;
+  margin-top: 16px;
+  background: var(--bg-inverse, #222);
+  color: var(--text-inverse, #fff);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.2;
+  padding: 6px 10px;
+  border-radius: 4px;
+  white-space: nowrap;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.view-selector-tooltip:hover::after,
+.view-selector-tooltip:hover::before,
+.view-selector-tooltip:focus-visible::after,
+.view-selector-tooltip:focus-visible::before {
+  opacity: 1;
+  transform: translate(-50%, 0);
 }
 
 @media (max-width: 768px) {
