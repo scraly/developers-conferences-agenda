@@ -159,6 +159,10 @@
     "latitude": 31.9515694,
     "longitude": 35.9239625
   },
+  "Amravati (India)": {
+    "latitude": 21.1545412,
+    "longitude": 77.6442962
+  },
   "Amsterdam (Netherlands)": {
     "latitude": 52.3730796,
     "longitude": 4.8924534
@@ -1074,6 +1078,10 @@
   "Dead Sea (Jordan)": {
     "latitude": 31.6406337,
     "longitude": 35.5746844
+  },
+  "Delft (Netherlands)": {
+    "latitude": 51.9994572,
+    "longitude": 4.3627245
   },
   "Delhi (India)": {
     "latitude": 28.6273928,
@@ -3986,6 +3994,10 @@
   "Vigo (Spain)": {
     "latitude": 42.1964491,
     "longitude": -8.7117809
+  },
+  "Vijayawada (India)": {
+    "latitude": 16.5191525,
+    "longitude": 80.6238204
   },
   "Vila Nova de Gaia (Portugal)": {
     "latitude": 41.1300103,
