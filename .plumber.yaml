@@ -1,0 +1,13 @@
+# Plumber overlay: inherits the built-in defaults, only the deltas are listed.
+extends: plumber:default
+version: "2.0"
+
+github:
+  controls:
+    githubActionMustComeFromAuthorizedSources:
+      # keep the curated list of well-known publishers and add the two
+      # actions these workflows already use, locked in actions.lock
+      includePlumberDefaults: true
+      trustedGithubActions:
+        - crazy-max/ghaction-github-pages
+        - peter-evans/create-pull-request

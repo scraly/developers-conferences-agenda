@@ -147,6 +147,10 @@
     "latitude": 34.0753762,
     "longitude": -84.2940899
   },
+  "Amarah (Iraq)": {
+    "latitude": 31.8497708,
+    "longitude": 47.1496466
+  },
   "Amboise (France)": {
     "latitude": 47.4110351,
     "longitude": 0.983698
@@ -1939,6 +1943,10 @@
     "latitude": 8.8453176,
     "longitude": 7.876834
   },
+  "Kenitra (Morocco)": {
+    "latitude": 34.26457,
+    "longitude": -6.570169
+  },
   "Kerala (India)": {
     "latitude": 10.3528744,
     "longitude": 76.5120396
@@ -3690,6 +3698,10 @@
   "Surakarta (Indonesia)": {
     "latitude": -7.5692489,
     "longitude": 110.828448
+  },
+  "Surat (India)": {
+    "latitude": 21.2094892,
+    "longitude": 72.8317058
   },
   "Sydney (Australia)": {
     "latitude": -33.8698439,
