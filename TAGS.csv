@@ -1752,7 +1752,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-03-11-PGConf India 2026,tech:postgres,tech:database,tech:conference,topic:databases,language:english
 2026-03-12-DrupalCamp NJ 2026,tech:drupal,tech:conference,topic:cms,language:english
 2026-03-14-Android Bangkok Conference 2026,tech:android,tech:mobile,tech:conference,topic:mobile,language:english
-2026-03-16-AI Conference,tech:ai,tech:conference,topic:ai,language:english
+2026-03-16-NVIDIA GTC 2026 - San Jose,tech:ai,tech:conference,topic:ai,language:english
 2026-03-16-QCon London,tech:software-development,tech:conference,topic:programming,language:english
 2026-03-16-Programming 2026,tech:programming,tech:conference,topic:programming,language:german
 2026-03-17-JavaOne,tech:java,tech:conference,topic:programming,language:english
@@ -2996,7 +2996,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-24-AgentCon - Lincoln,tech:python,topic:data,topic:open-source,language:english
 2026-06-27-Global Fabric Community Tunisia,tech:python,topic:data,topic:open-source,language:english
 2026-06-27-AWS Community Day Brasil 2026 - Edição Centro-Oeste,tech:python,topic:data,topic:open-source,language:portuguese
-2026-06-29-AI Engineer World's Fair 2026,tech:python,topic:data,topic:open-source,language:english
+2026-06-29-AI Engineer World's Fair 2026,topic:ai,language:english
 2026-10-15-Longhorn PHP,topic:data,topic:open-source,language:english,topic:php
 2026-10-24-SQLSaturday - Minnesota 2026,tech:python,topic:data,topic:open-source,language:english
 2026-05-19-Backstage Finland User Group Meetup,tech:backstage,topic:open-source,language:english
@@ -3019,7 +3019,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-13-Microsoft Build : Localhost LIMA 2026,tech:cloud,topic:developer-tools,language:english
 2026-06-19-Charlemos de SQL Server,tech:database,topic:sql,language:english
 2026-06-27-Global Fabric Day 2026 - LIMA,tech:cloud,topic:devops,language:english
-2026-07-02-AI Engineer World's Fair 2026,tech:ai,topic:machine-learning,language:english
 2026-08-22-AWS Community Day Sudeste - Belo Horizonte,tech:cloud,topic:aws,language:portuguese
 2026-09-17-AWS Community Day CEE 2026,tech:cloud,topic:aws,language:english
 2026-09-18-M365 Twin Cities 2026,tech:productivity,topic:microsoft-365,language:english
@@ -3323,13 +3322,12 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-12-05-OpenSource Con India 2026,topic:open-source,topic:cloud-native,topic:linux
 2026-11-14-UbuCon India 2026,tech:ubuntu,topic:open-source,topic:linux,topic:devops
 2026-10-02-Compiler tech IICT 2026,tech:compiler,topic:programming-languages,topic:software-engineering,language:english
-2026-10-12-AIE NYC 2026,tech:artificial-intelligence,topic:machine-learning,topic:deep-learning,language:english
+2026-10-12-AI Engineer NYC 2026,tech:artificial-intelligence,topic:machine-learning,topic:deep-learning,topic:ai,language:english
 2026-10-17-Devopsdays Juiz de Fora,tech:devops,topic:cloud-computing,topic:automation,language:portuguese
 2026-10-24-DevFest Callao 2026,tech:python,topic:data,topic:open-source,language:english
 2026-12-19-DevFest Cairo 2026,tech:python,topic:data,topic:open-source,language:english
 2026-10-27-Black hat India 2026,topic:cybersecurity,tech:cloud-security,tech:ai-security,topic:web-security
 2026-10-10-unKonf 2026,topic:backend,topic:frontend,topic:devops,topic:ai
-2026-10-14-AI Engineer NYC 2026,tech:ai,tech:python,topic:data,topic:open-source,language:english
 2026-10-15-OPI Summit on DPU/IPUs,tech:hardware,tech:infrastructure,topic:dpu,topic:ipu,language:english
 2026-10-20-Conversations Roadshow: London by CTO Craft,tech:leadership,topic:cto,topic:innovation,language:english
 2026-11-02-CTO Craft Con: Fintech,tech:finance,tech:leadership,topic:cto,topic:fintech,language:english
@@ -3567,7 +3565,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-17-Azure Tour 2026 - Zaragoza,language:english,tech:cloud,topic:azure
 2026-11-03-AI Native DevCon New York 2026,language:english,tech:ai,topic:devops
 2026-11-05-DataSaturday Madrid 2026 (SQLSatMadrid),language:spanish,tech:database,topic:sqldatascience
-2026-11-10-AIE CODE Summit SF 2026,language:english,tech:ai,topic:developer
+2026-11-10-AI Engineer CODE Summit SF 2026,language:english,tech:ai,topic:ai,topic:developer,topic:machine-learning,topic:code
 2026-11-12-BADCamp 2026,language:english,tech:cloud,topic:community
 2026-11-13-VallaTech Summit 2026 (DevFest Valladolid),language:spanish,tech:devops,topic:technology
 2026-11-14-DevFest Bangkok 2026,language:english,tech:cloud,topic:developer
@@ -3609,7 +3607,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-10-15-AWS Community Day Australia 2026,language:english,tech:cloud,topic:aws,topic:community
 2026-10-23-React Advanced,language:english,tech:javascript,topic:react,topic:frontend
 2026-10-31-GitHub Copilot Dev Days Newcastle 2026,language:english,tech:ai,topic:copilot,topic:development
-2026-11-12-AIE CODE Summit SF 2026,language:english,tech:ai,topic:machine-learning,topic:code
 2026-11-14-DevFest Berlin 2026,language:german,tech:cloud,topic:devops,topic:community
 2026-11-14-DevFest × SunHacks ASU 2026,language:english,tech:cloud,topic:devops,topic:community
 2026-12-12-Agile En Med Casablanca 2026,language:french,tech:agile,topic:management,topic:workshop
@@ -4214,3 +4211,13 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-11-01-Arcasiles Community Talks 2027,language:spanish,topic:community,topic:technology
 2027-03-09-FOSSASIA PGDay 2027,topic:postgresql,topic:database
 2027-03-08-FOSSASIA Summit 2027 ,tech:opensource,topic:ai,topic:cybersecurity,topic:hardware,topic:web3
+2024-06-25-AI Engineer World's Fair 2024,topic:ai,topic:machine-learning,language:english
+2025-02-19-AI Engineer Summit 2025,tech:agents,topic:ai,topic:agents,language:english
+2025-11-19-AIE CODE Summit NYC 2025,topic:ai,topic:agents,language:english
+2026-04-08-AI Engineer Europe 2026,topic:ai,topic:software-engineering,language:english
+2023-10-08-AI Engineer Summit,topic:ai,language:english
+2026-04-20-AI Engineer Miami 2026,topic:ai,language:english
+2026-05-15-AI Engineer Singapore 2026,topic:ai,language:english
+2026-06-03-AI Engineer Melbourne 2026,topic:ai,language:english
+2026-09-23-AI Engineer Paris 2026,topic:ai,language:english
+2026-11-05-AI Engineer Shanghai 2026,topic:ai,language:english

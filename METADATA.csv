@@ -198,7 +198,7 @@ event_id,attendees
 2026-11-20-DevTalks 2026: Where AI Takes Us Next,attendees:1000
 2025-02-04-State Of Open Con 2025,recordings:https://www.youtube.com/playlist?list=PL0U2cL1JGPZe8TIJpkkkECHnnM5KYAM2D
 2025-05-14-PyConUS 2025,recordings:https://www.youtube.com/playlist?list=PL2Uw4_HvXqvb98mQjN0-rYQjdDxJ_hcrs
-2025-06-03-AI Engineer World's Fair,recordings:https://www.youtube.com/playlist?list=PLcfpQ4tk2k0W3ORTR-Cr4Ppw6UrN8kfMh
+2025-06-03-AI Engineer World's Fair,recordings:[Complete playlist](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0W3ORTR-Cr4Ppw6UrN8kfMh) | [Online track](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0Vu8ZKg_5TzN87mRhRJt71Y) | [Full workshops](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0XfT3YLdjLXKHAaBJ9MX6re)
 2025-06-09-InfoQ Dev Summit Boston,recordings:https://www.youtube.com/playlist?list=PLndbWGuLoHebIpeLhavitZyOalsVkraqn
 2025-06-10-NVIDIA GTC Paris,recordings:https://www.nvidia.com/en-us/on-demand/playlist/playList-0dc0b10a-eb85-47fe-a6b2-e5a7757d5480/
 2025-06-23-Open Source Summit North America,recordings:https://www.youtube.com/playlist?list=PLbzoR-pLrL6oVKdG6lLVXeCYVbt_NnS4c
@@ -1021,8 +1021,7 @@ event_id,attendees
 2026-06-25-PlatformCON Live day NYC,recordings:https://www.youtube.com/playlist?list=PLMLdPpPfENQg
 2026-06-24-Sloss Tech 2026,recordings:https://www.youtube.com/playlist?list=PLF_tickFOLg0
 2026-06-25-The Perl & Raku Conference in Greenville, SC 2026,recordings:https://www.youtube.com/playlist?list=PLWmGBGYq6fEQ
-2026-06-29-AI Engineer World's Fair 2026,recordings:[Complete in-person playlist](https://www.youtube.com/playlist?list=PLDyBmFH9HlVc) | [Online Track](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [Full Workshops](https://www.youtube.com/playlist?list=PLdaH-g_u9XSM) | [Generative Media](https://www.youtube.com/playlist?list=PLKfy8g4yBtRY)
-2026-07-02-AI Engineer World's Fair 2026,recordings:[Complete playlist](https://www.youtube.com/playlist?list=PLDyBmFH9HlVc) | [Online Track](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn)
+2026-06-29-AI Engineer World's Fair 2026,recordings:[Complete playlist](https://www.youtube.com/playlist?list=PLDyBmFH9HlVc) | [Online track](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [Full workshops](https://www.youtube.com/playlist?list=PLdaH-g_u9XSM)
 2026-07-02-Agile On The Beach 2026,recordings:https://www.youtube.com/playlist?list=PLWKxDWZaOuHY
 2026-07-02-ReactNexus,recordings:https://www.youtube.com/playlist?list=PLO5wzmXXAXyQ
 2026-07-03-Agile Lyon 2026,recordings:[Introduction](https://www.youtube.com/watch?v=A_rsgVPe-30) | [Keynote](https://www.youtube.com/watch?v=hYTFKag-j3w) | [Dessine-moi ton mouton](https://www.youtube.com/playlist?list=PLU1jsr2DsrIw)
@@ -1120,7 +1119,7 @@ event_id,attendees
 2026-10-10-DevFest Kraków 2026,recordings:https://www.youtube.com/playlist?list=PLIonWHYguUas
 2026-10-10-Lakehouse Day EU 2026,recordings:https://www.youtube.com/playlist?list=PLc5WYDCFHAoE
 2026-10-11-Community Over Code (The Apache Software Foundation),recordings:[Keynotes](https://www.youtube.com/playlist?list=PLL0QHxgXmVlk) | [Community](https://www.youtube.com/playlist?list=PLVekp4-xL9QE) | [Data Infra and Engineering](https://www.youtube.com/playlist?list=PLKxRdx0rB-uw) | [AI Plumbing](https://www.youtube.com/playlist?list=PLKcabJh9qnPg)
-2026-10-12-AIE NYC 2026,recordings:[All sessions](https://www.youtube.com/playlist?list=PLLKkCXQeuCis) | [Online talks](https://www.youtube.com/playlist?list=PLVanfCmVOgIg)
+2026-10-12-AI Engineer NYC 2026,recordings:[Complete playlist](https://www.youtube.com/playlist?list=PLLKkCXQeuCis) | [Online talks](https://www.youtube.com/playlist?list=PLVanfCmVOgIg) | [Workshops](https://www.youtube.com/playlist?list=PLPrARbQ6iscE)
 2026-10-05-MCP Dev Summit Toronto,recordings:https://youtube.com/playlist?list=PLQCdLuOqrWZU
 2026-10-07-next.app devcon,recordings:https://youtube.com/playlist?list=PLSqKLdsvBULU
 2026-10-08-Forum PHP 2026,recordings:https://www.youtube.com/playlist?list=PLIT7Te-ZvJlc
@@ -1128,7 +1127,6 @@ event_id,attendees
 2026-10-12-SwiftLeeds,recordings:[Day One live stream](https://www.youtube.com/watch?v=DiISlF0xtrY)
 2026-10-13-SRECon EMEA,recordings:[The Future of Operations](https://www.youtube.com/watch?v=nj9-3F_usYs) | [AGI and SRE](https://www.youtube.com/watch?v=CzT29WhP404)
 2026-10-13-TechCrunch Disrupt,recordings:https://www.youtube.com/playlist?list=PLQi30ak2-7D8
-2026-10-14-AI Engineer NYC 2026,recordings:https://www.youtube.com/playlist?list=PLPrARbQ6iscE
 2026-10-14-EuroRust,recordings:https://www.youtube.com/playlist?list=PLDiH7Ix4u0ZA
 2026-10-14-Python Brazil 2026,recordings:https://www.youtube.com/playlist?list=PLIbygL199-cI
 2026-10-14-Virtual EnvoyCon 10 Year Anniversary Edition,recordings:https://www.youtube.com/playlist?list=PLUynla4qtA9w
@@ -1175,3 +1173,15 @@ event_id,attendees
 2026-11-12-Nordic APIs Summit 2026,recordings:https://www.youtube.com/playlist?list=PLCPtVszuNWsw
 2026-11-18-Nerdearla Mexico,recordings:https://www.youtube.com/playlist?list=PLJACC8Jd7ToE
 2026-11-18-Nerdearla México 2026,recordings:https://www.youtube.com/playlist?list=PLJACC8Jd7ToE
+2023-10-08-AI Engineer Summit,recordings:[Talks](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0VfsL23518EQF5lkA2QIIsJ) | [Remote talks](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0UkITX5LuOtcrSYwiqfQNin) | [Workshops](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0U3Nr2KKWJsVnjF5S9bTXY-)
+2025-09-23-AI Engineer Paris,recordings:[Day 1 opening keynotes](https://www.youtube.com/watch?v=d6dp_dwgpYQ) | [Day 2](https://www.youtube.com/watch?v=wyUdpmj9-64)
+2026-11-10-AI Engineer CODE Summit SF 2026,recordings:[Complete playlist](https://www.youtube.com/playlist?list=PLZUQJ1aon-40) | [Online talks](https://www.youtube.com/playlist?list=PLbhiZl98JSQI) | [Day 1 livestream](https://www.youtube.com/watch?v=ZZ19zhYnDKY) | [Day 2 livestream](https://www.youtube.com/watch?v=y9JtCCZP2MQ)
+2024-06-25-AI Engineer World's Fair 2024,recordings:[Keynotes](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0UCW1hhTRZr_gmt_VILjiIO) | [Agents](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0WO4zlwpGVeQOqV1Z_QbRIh) | [RAG & LLM frameworks](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0WRU8OLzC80g0lSw6PZeRxj) | [Evals & LLM Ops](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0U7f6OGAGa64ck6RbzMxsKW) | [Multimodality](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0W9MogYqgUzGY7DeuspKNvr) | [AI leadership](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0WIh-HLjzW8SPk7cyTSone_) | [AI in the Fortune 500](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0X9inDiRhePTO98dr466EHo) | [Workshops](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0W2xRgkV4PUnC-oYGjZez8L) | [Expo sessions](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0UL1fkEq90SxR9iQ_MW4swP)
+2025-02-19-AI Engineer Summit 2025,recordings:[Complete playlist](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0VGHcZxjSoAe_r5VbdHXmjy) | [Workshops](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0XRs4DnHwh3yzH0Yca4yIHH) | [Online track](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0VetQVGT1EqTbcr-qcgbfFs)
+2025-11-19-AIE CODE Summit NYC 2025,recordings:[Coding model and agent labs](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0Xq5OF1xbCsMrABt5LnbKuo) | [AI leadership](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0WWjA7f5DuTgLOUyy93xsNH) | [Online track](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0WQMXP87G_uVYQdSFVAiVUZ)
+2026-04-08-AI Engineer Europe 2026,recordings:[Complete playlist](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0W4IhTx8dgBjTEYRmbEHcpP) | [Keynotes](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0V3a6nNCVfYxVRfcJ-BNQo7) | [Workshops](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0VntjlYzeRZR3ay9wAMbAbb) | [Online track](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0VZNoUvSBmLBCbM1lMmpug2)
+2026-04-20-AI Engineer Miami 2026,recordings:[Day 1](https://www.youtube.com/watch?v=6IxSbMhT7v4) | [Day 2](https://www.youtube.com/watch?v=DeM_u2Ik0sk)
+2026-05-15-AI Engineer Singapore 2026,recordings:[Day 1](https://www.youtube.com/watch?v=_xQnSNlBP_w) | [Day 2](https://www.youtube.com/watch?v=m12vGjfbNlo)
+2026-06-03-AI Engineer Melbourne 2026,recordings:[Day 1](https://www.youtube.com/watch?v=wjXowoQ7E8c) | [Day 2](https://www.youtube.com/watch?v=NmjGfdZLNIs)
+2026-09-23-AI Engineer Paris 2026,recordings:[Day 1 opening keynotes](https://www.youtube.com/watch?v=CGq9KRSb9Kc) | [Day 2](https://www.youtube.com/watch?v=g0vqT_wZtXA)
+2026-11-05-AI Engineer Shanghai 2026,recordings:[Ryo Lu talk](https://www.youtube.com/watch?v=y9Sg--RDtks)
