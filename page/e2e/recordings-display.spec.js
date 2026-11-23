@@ -64,7 +64,7 @@ test('single-recording event shows a direct link without a badge', async ({ page
   await expect(link).toHaveAttribute('href', /youtube\.com/)
 })
 
-test('popup becomes a bottom sheet on a phone viewport', async ({ page }) => {
+test('popup becomes a full-width bottom sheet on a phone viewport', async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 800 })
   await page.goto(`${LIST_URL}?query=All%20Things%20AI`)
   const entry = allThingsAiEntry(page)
@@ -73,6 +73,29 @@ test('popup becomes a bottom sheet on a phone viewport', async ({ page }) => {
   const menu = page.locator('.rec-menu')
   await expect(menu).toBeVisible()
   await expect(menu).toHaveCSS('position', 'fixed')
+  const bounds = await menu.boundingBox()
+  expect(bounds.x).toBe(0)
+  expect(bounds.x + bounds.width).toBe(390)
+  expect(bounds.y + bounds.height).toBe(800)
+  await expect(menu.locator('.rec-item')).toHaveCount(3)
+})
+
+test('phone map bottom sheet survives Leaflet focus scrolling and scrolls long lists', async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 667 })
+  await page.goto('/#/2025/map?query=IndiaFOSS')
+  await page.locator('.leaflet-marker-icon').click()
+  await page.locator('.leaflet-popup .rec-trigger').click()
+
+  const menu = page.locator('.rec-menu')
+  await expect(menu).toBeVisible()
+  await page.evaluate(() => new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve))))
+  await expect(menu).toBeVisible()
+  await expect(menu.locator('.rec-item')).toHaveCount(11)
+
+  const lastItem = menu.locator('.rec-item').last()
+  await lastItem.scrollIntoViewIfNeeded()
+  await expect(lastItem).toBeVisible()
+  await expect(menu).toBeVisible()
 })
 
 test('recording popup is not clipped by the map popup', async ({ page }) => {
@@ -87,6 +110,11 @@ test('recording popup is not clipped by the map popup', async ({ page }) => {
   await expect(menu).toBeVisible()
   await expect(menu).toHaveCSS('position', 'fixed')
   await expect(menu.locator('.rec-item')).toHaveCount(11)
+
+  // Focusing the first item must not scroll Leaflet and immediately close the
+  // recordings popup. Flush animation frames so any focus-induced scroll runs.
+  await page.evaluate(() => new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve))))
+  await expect(menu).toBeVisible()
 
   // An item below the map popup's 350 px content limit must be hit-testable,
   // not hidden behind a clipping ancestor.

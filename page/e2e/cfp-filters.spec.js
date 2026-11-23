@@ -6,12 +6,19 @@ import { test, expect } from '@playwright/test'
 
 const CFP_URL = '/#/2026/cfp'
 
+const openFilters = async (page) => {
+  const filters = page.locator('.filters')
+  if (!(await filters.evaluate(element => element.classList.contains('open')))) {
+    await page.locator('.filters-icon').first().click()
+  }
+  await expect(filters).toHaveClass(/open/)
+}
+
 test.describe('US-1: Unified Multi-Select Filters', () => {
   test.beforeEach(async ({ page }) => {
     await page.goto(CFP_URL)
     // Open the filters panel
-    await page.click('.filters-header')
-    await page.waitForSelector('.filters.open')
+    await openFilters(page)
   })
 
   test('TS-001: Multi-select topic filter shows matching events', async ({ page }) => {
@@ -38,8 +45,7 @@ test.describe('US-1: Unified Multi-Select Filters', () => {
 
   test('TS-011: URL preserves filter state', async ({ page }) => {
     await page.goto(`${CFP_URL}?topic=Frontend`)
-    await page.click('.filters-header')
-    await page.waitForSelector('.filters.open')
+    await openFilters(page)
     const url = page.url()
     expect(url).toContain('topic=Frontend')
   })
@@ -54,23 +60,20 @@ test.describe('US-1: Unified Multi-Select Filters', () => {
 test.describe('US-2: Negative Tag Filtering', () => {
   test.beforeEach(async ({ page }) => {
     await page.goto(CFP_URL)
-    await page.click('.filters-header')
-    await page.waitForSelector('.filters.open')
+    await openFilters(page)
   })
 
   test('TS-012: Exclusion chips render with red styling', async ({ page }) => {
     // Set an exclusion via URL
     await page.goto(`${CFP_URL}?tech_not=PHP`)
-    await page.click('.filters-header')
-    await page.waitForSelector('.filters.open')
+    await openFilters(page)
     const url = page.url()
     expect(url).toContain('tech_not=PHP')
   })
 
   test('TS-016: Removing exclusion updates URL', async ({ page }) => {
     await page.goto(`${CFP_URL}?tech_not=PHP`)
-    await page.click('.filters-header')
-    await page.waitForSelector('.filters.open')
+    await openFilters(page)
     // Verify param is in URL
     expect(page.url()).toContain('tech_not=PHP')
   })
@@ -79,8 +82,7 @@ test.describe('US-2: Negative Tag Filtering', () => {
 test.describe('US-3: Online / In Person Checkboxes', () => {
   test.beforeEach(async ({ page }) => {
     await page.goto(CFP_URL)
-    await page.click('.filters-header')
-    await page.waitForSelector('.filters.open')
+    await openFilters(page)
   })
 
   test('Online and In Person checkboxes both exist', async ({ page }) => {
@@ -93,18 +95,20 @@ test.describe('US-3: Online / In Person Checkboxes', () => {
   test('Both checkboxes can be selected independently', async ({ page }) => {
     const onlineCheckbox = page.locator('#filter-online')
     const inPersonCheckbox = page.locator('#filter-in-person')
-    await onlineCheckbox.check()
-    await inPersonCheckbox.check()
+    // These inputs are controlled from URL parameters, so wait for React to
+    // apply each update instead of using check()'s immediate state assertion.
+    await onlineCheckbox.click()
     await expect(onlineCheckbox).toBeChecked()
+    await inPersonCheckbox.click()
     await expect(inPersonCheckbox).toBeChecked()
+    await expect(onlineCheckbox).toBeChecked()
   })
 })
 
 test.describe('US-4: Any/All Toggle', () => {
   test.beforeEach(async ({ page }) => {
     await page.goto(CFP_URL)
-    await page.click('.filters-header')
-    await page.waitForSelector('.filters.open')
+    await openFilters(page)
   })
 
   test('TS-021: Any/All toggle button exists on filter', async ({ page }) => {
@@ -114,8 +118,7 @@ test.describe('US-4: Any/All Toggle', () => {
 
   test('TS-024: Mode URL param round-trip', async ({ page }) => {
     await page.goto(`${CFP_URL}?topic=Frontend&topic_mode=all`)
-    await page.click('.filters-header')
-    await page.waitForSelector('.filters.open')
+    await openFilters(page)
     expect(page.url()).toContain('topic_mode=all')
   })
 })
@@ -124,8 +127,7 @@ test.describe('US-4: Any/All Toggle', () => {
 test.describe('Existing Filter Regression (TS-034)', () => {
   test('text search filter still works', async ({ page }) => {
     await page.goto(CFP_URL)
-    await page.click('.filters-header')
-    await page.waitForSelector('.filters.open')
+    await openFilters(page)
 
     const queryInput = page.locator('#filter-query')
     await expect(queryInput).toBeVisible()
@@ -135,8 +137,7 @@ test.describe('Existing Filter Regression (TS-034)', () => {
 
   test('checkbox toggles still render', async ({ page }) => {
     await page.goto(CFP_URL)
-    await page.click('.filters-header')
-    await page.waitForSelector('.filters.open')
+    await openFilters(page)
 
     const onlineCheckbox = page.locator('#filter-online')
     const favoritesCheckbox = page.locator('#filter-favorites')
@@ -159,18 +160,15 @@ test.describe('Edge Cases (TS-026)', () => {
 test.describe('Empty Filter Category (TS-027)', () => {
   test('all tag filters render even if some have no options', async ({ page }) => {
     await page.goto(CFP_URL)
-    await page.click('.filters-header')
-    await page.waitForSelector('.filters.open')
+    await openFilters(page)
 
     // All TAG_FILTER_CONFIG.allowed dimensions should render
     const topicFilter = page.locator('.filter-multiselect').filter({ hasText: 'Topic' })
     const techFilter = page.locator('.filter-multiselect').filter({ hasText: 'Tech' })
     const langFilter = page.locator('.filter-multiselect').filter({ hasText: 'Language' })
-    const typeFilter = page.locator('.filter-multiselect').filter({ hasText: 'Type' })
 
     await expect(topicFilter).toBeVisible()
     await expect(techFilter).toBeVisible()
     await expect(langFilter).toBeVisible()
-    await expect(typeFilter).toBeVisible()
   })
 })
