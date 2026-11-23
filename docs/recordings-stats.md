@@ -16,13 +16,13 @@ inside a playlist.
 
 | Metric | Value |
 |---|---:|
-| Event entries | 6,865 |
-| Events with at least one recording | 1,046 (15.24%) |
-| Recording links | 1,233 |
-| Events with multiple recordings | 73 |
-| Playlist links | 1,009 (81.83%) |
-| Video or other links | 224 (18.17%) |
-| YouTube links | 1,187 (96.27%) |
+| Event entries | 6,877 |
+| Events with at least one recording | 1,055 (15.34%) |
+| Recording links | 1,268 |
+| Events with multiple recordings | 84 |
+| Playlist links | 1,031 (81.31%) |
+| Video or other links | 237 (18.69%) |
+| YouTube links | 1,222 (96.37%) |
 
 ![Conference events and recordings across all event years](images/recordings-overall-events.png)
 
@@ -33,11 +33,11 @@ Events are grouped by the year of their start date.
 | Event year | Event entries | With recordings | Coverage | Recording links | Multiple recordings | Playlists | Videos / other |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | 2017–2020 | 407 | 0 | 0.00% | 0 | 0 | 0 | 0 |
-| 2021–2024 | 2,241 | 27 | 1.20% | 27 | 0 | 27 | 0 |
-| 2025 | 1,347 | 502 | 37.27% | 539 | 12 | 483 | 56 |
-| 2026 | 2,504 | 517 | 20.65% | 667 | 61 | 499 | 168 |
-| 2027–2028 | 366 | 0 | 0.00% | 0 | 0 | 0 | 0 |
-| **Total** | **6,865** | **1,046** | **15.24%** | **1,233** | **73** | **1,009** | **224** |
+| 2021–2024 | 2,242 | 29 | 1.29% | 39 | 2 | 39 | 0 |
+| 2025 | 1,349 | 505 | 37.44% | 549 | 16 | 491 | 58 |
+| 2026 | 2,511 | 521 | 20.75% | 680 | 66 | 501 | 179 |
+| 2027–2028 | 368 | 0 | 0.00% | 0 | 0 | 0 | 0 |
+| **Total** | **6,877** | **1,055** | **15.34%** | **1,268** | **84** | **1,031** | **237** |
 
 Future years are included in the event-entry totals but naturally have no
 recordings yet. Coverage therefore describes the current metadata snapshot, not
@@ -53,6 +53,7 @@ by date and event name.
 | IndiaFOSS 2026 | 2026-09-26 | 16 |
 | IndiaFOSS 2025 | 2025-09-19 | 11 |
 | Commit Your Code Conference | 2026-09-03 | 10 |
+| AI Engineer World's Fair 2024 | 2024-06-25 | 9 |
 | FOSSASIA Summit 2026 | 2026-03-09 | 8 |
 | Craft Conference 2026 | 2026-06-02 | 8 |
 | BDX I/O 2026 | 2026-10-29 | 8 |
