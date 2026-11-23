@@ -97,3 +97,34 @@
     max-width: none;
   }
 }
+
+/* Phones: the entry is a single narrow column, and the row rules inherited
+   from the shared list view leave its text hugging the left edge while the
+   controls above it sit in a 36px-high row. Centre the details and the
+   duration chips in the card and give the controls a thumb-sized target. */
+@media screen and (max-width: 660px) {
+  .cfp-companion-view .event-details,
+  .cfp-companion-view .event-list-header {
+    align-items: center;
+    text-align: center;
+  }
+
+  .cfp-companion-view .cfp-submission-durations,
+  .cfp-companion-view .tag-badges {
+    align-self: stretch;
+    justify-content: center;
+  }
+
+  .cfp-companion-view .cfp-speaker-status-button {
+    height: 2.75rem;
+    width: 2.75rem;
+  }
+
+  .cfp-companion-view .cfp-link {
+    padding: 0.75rem;
+  }
+
+  .cfp-companion-view .favorite-button {
+    padding: 0.75rem;
+  }
+}
