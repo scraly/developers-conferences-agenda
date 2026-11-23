@@ -41,26 +41,34 @@ Examples of rejected conferences:
 ```
 YYYY-MM-DD-Conference Name,attendees:NUMBER
 ```
-* If you know a recording URL for a conference, add it to the `METADATA.csv` file. It can be added alongside other metadata such as the number of attendees:
-```
-YYYY-MM-DD-Conference Name,attendees:NUMBER,recording:https://example.com/recording
-```
-For example:
-```
-2026-04-22-Devoxx France 2026,attendees:4600,recording:https://www.youtube.com/@DevoxxFRvideos/playlists
-```
 * Make sure the PR title is in the format of `Add Conference Name`
 * Check your spelling and grammar
 * Remove any trailing whitespace
 * Use Prettier to format the code: `npm run format`
 * Use ESLint for linters: `npm run lint`
 
+## Recordings
+
+If you know the recording URL(s) of a conference, add them to the `METADATA.csv` file with the `recordings:` key. A single link may also be written as `recording:` — both are accepted. It can be added alongside other metadata such as the number of attendees:
+
+```
+YYYY-MM-DD-Conference Name,attendees:NUMBER,recordings:https://example.com/recording
+```
+
+An event can have several recordings, for example per-day or per-track playlists. Separate entries with ` | ` and label each one with `[label](url)`:
+
+```
+2026-04-22-Devoxx France 2026,attendees:4600,recordings:[Keynotes](https://www.youtube.com/playlist?list=PLTbQvx84FrARmATtGZ-lPoT0fPV49seWw) | [Deep Dive](https://www.youtube.com/playlist?list=PLTbQvx84FrASQQ2rugdm8IMq1ceA0mWGv)
+```
+
+The row must start with the event's date and exact name as listed in `README.md` or `archives/YYYY.md` — otherwise the metadata is silently ignored. See [docs/recordings-design.md](docs/recordings-design.md) for the full processing rules.
+
 ## Updating recordings with an agent
 
-Recording links (`recording:` fields in `METADATA.csv`) can be updated by an AI coding agent. Prompt:
+Recording links (`recordings:` fields in `METADATA.csv`) can be updated by an AI coding agent. Prompt:
 
 > update recordings for events in 2026
 
-See [FINDING-RECORDINGS.md](FINDING-RECORDINGS.md) for the workflow.
+See [FINDING-RECORDINGS.md](FINDING-RECORDINGS.md) for the research workflow and [docs/recordings-discovery.md](docs/recordings-discovery.md) for verification steps.
 
 Thanks! ❤️

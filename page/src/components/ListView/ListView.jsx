@@ -138,7 +138,7 @@ const ListView = () => {
                     </span>
                   <span dangerouslySetInnerHTML={{ __html: cleanMisc(e.misc) }} />
 
-                  {(e.sponsoring || e.recording) ? (
+                  {(e.sponsoring || e.recordings?.length || e.recording) ? (
                     <span className="event-links">
                       {e.sponsoring ? (
                         <a
@@ -150,7 +150,7 @@ const ListView = () => {
                           💰
                         </a>
                       ) : null}
-                      <RecordingLink recording={e.recording} />
+                      <RecordingLink eventName={e.name} recordings={e.recordings} recording={e.recording} />
                     </span>
                   ) : null}
 

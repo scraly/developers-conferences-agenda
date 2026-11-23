@@ -6,6 +6,15 @@
 - Before creating a worktree, make sure `upstream-main` is up to date with `upstream/main` and `main` is up to date with `origin/main`.
 - When creating a new worktree, ask whether to branch from `origin/main` (your fork's main, which may intentionally diverge) or `upstream-main` (clean mirror of `upstream/main` — the right base for PRs against `scraly/developers-conferences-agenda`).
 
+## Project conventions
+
+- Keep research reports under `docs/reports/`, explanatory documentation under `docs/`, and images under `docs/images/`.
+- Do not use spaces in new filenames; use hyphens or underscores consistently with neighboring files.
+- Do not commit or push changes unless the user explicitly asks.
+
 ## Finding event recordings
 
-See [FINDING-RECORDINGS.md](FINDING-RECORDINGS.md).
+Recording research guidance is in [FINDING-RECORDINGS.md](FINDING-RECORDINGS.md).
+The metadata format and UI behavior are documented in
+[docs/recordings-design.md](docs/recordings-design.md), with discovery and
+validation steps in [docs/recordings-discovery.md](docs/recordings-discovery.md).

@@ -8,7 +8,7 @@ import TagBadges from 'components/TagBadges/TagBadges';
 import { useFilters } from 'app.hooks';
 import RecordingLink from 'components/RecordingLink/RecordingLink';
 
-const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, dateOnTop=false, country, tags, sponsoring, attendees, recording}) => {
+const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, dateOnTop=false, country, tags, sponsoring, attendees, recording, recordings}) => {
   const event = {name, hyperlink, location, misc, closedCaptions, date, country, tags, sponsoring, attendees, recording};
   const eventId = `${name}-${date[0]}`;
   const { isFavorite } = useFavoritesContext();
@@ -42,10 +42,10 @@ const EventDisplay = ({name, hyperlink, location, misc, closedCaptions, date, da
           </div>
         ) : null}
 
-        {(sponsoring || recording) ? (
+        {(sponsoring || recording || recordings?.length) ? (
           <span className="event-links">
             {sponsoring ? <a className="sponsoring" href={sponsoring} rel="noreferrer" target="_blank">💰</a> : null}
-            {recording ? <RecordingLink recording={recording} /> : null}
+            <RecordingLink eventName={name} recordings={recordings} recording={recording} />
           </span>
         ) : null}
         <p className="cfp" dangerouslySetInnerHTML={{__html: misc}} />
