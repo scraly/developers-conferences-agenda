@@ -29,7 +29,7 @@ const recordingsCheckbox = page => page.getByLabel('Recordings available', { exa
 
 const expectOnlyRecordingEditions = async (page) => {
   await expect(page.locator('.event-list-entry').first()).toBeVisible()
-  await expect(page.locator('.event-list-entry:not(:has(.recording-link))')).toHaveCount(0)
+  await expect(page.locator('.event-list-entry:not(:has(.recording-link)):not(:has(.rec-trigger))')).toHaveCount(0)
 }
 
 test('recordings checkbox filters recording editions without losing ordering or duplicating entries', async ({ page }) => {

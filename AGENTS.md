@@ -12,6 +12,11 @@
 - Do not use spaces in new filenames; use hyphens or underscores consistently with neighboring files.
 - Do not commit or push changes unless the user explicitly asks.
 
+## Development requirements
+
+- Verify every UI change in mobile view as well as desktop.
+- Ensure all tests pass before completing a change.
+
 ## Finding event recordings
 
 Recording research guidance is in [docs/recordings-workflow.md](docs/recordings-workflow.md).

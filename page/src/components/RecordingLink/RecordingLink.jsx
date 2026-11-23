@@ -70,7 +70,9 @@ const RecordingLink = ({ recordings, recording, eventName }) => {
   useEffect(() => {
     if (!open) return undefined;
 
-    menuRef.current?.querySelector('.rec-item')?.focus();
+    // Do not let focus scroll the page or a Leaflet container. The scroll
+    // handler would interpret that focus-induced scroll as a reason to close.
+    menuRef.current?.querySelector('.rec-item')?.focus({ preventScroll: true });
 
     const handleKeyDown = (event) => {
       if (event.key === 'Escape') {
@@ -91,7 +93,10 @@ const RecordingLink = ({ recordings, recording, eventName }) => {
       setOpen(false);
     };
     // A fixed popup would no longer point at its trigger if an ancestor scrolls.
+    // A phone bottom sheet stays viewport-anchored, so it has no such dependency.
+    // This also ignores the scroll events Leaflet emits when the menu takes focus.
     const handleScroll = (event) => {
+      if (window.matchMedia(MOBILE_MENU_QUERY).matches) return;
       if (menuRef.current?.contains(event.target)) return;
       setOpen(false);
     };
