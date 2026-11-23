@@ -69,6 +69,6 @@ Recording links (`recordings:` fields in `METADATA.csv`) can be updated by an AI
 
 > update recordings for events in 2026
 
-See [FINDING-RECORDINGS.md](FINDING-RECORDINGS.md) for the research workflow and [docs/recordings-discovery.md](docs/recordings-discovery.md) for verification steps.
+See [docs/recordings-workflow.md](docs/recordings-workflow.md) for the research workflow and [docs/recordings-discovery.md](docs/recordings-discovery.md) for verification steps.
 
 Thanks! ❤️

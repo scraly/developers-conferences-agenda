@@ -14,7 +14,7 @@
 
 ## Finding event recordings
 
-Recording research guidance is in [FINDING-RECORDINGS.md](FINDING-RECORDINGS.md).
+Recording research guidance is in [docs/recordings-workflow.md](docs/recordings-workflow.md).
 The metadata format and UI behavior are documented in
-[docs/recordings-design.md](docs/recordings-design.md), with discovery and
-validation steps in [docs/recordings-discovery.md](docs/recordings-discovery.md).
+[docs/recordings-design.md](docs/recordings-design.md), with the short checklist
+and validation steps in [docs/recordings-discovery.md](docs/recordings-discovery.md).

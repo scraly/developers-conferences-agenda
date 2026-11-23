@@ -1,5 +1,8 @@
 # Recording discovery
 
+For sources, commands, date verification, and stale-link removal, see
+[recordings-workflow.md](recordings-workflow.md).
+
 ## Instructions
 
 1. **Start with the repository event.** Use the exact date and name from `README.md` or `archives/YYYY.md`. Preserve existing attendees and unrelated metadata.
@@ -29,6 +32,7 @@ Run from `tools/` after metadata changes:
 node mdParser.js
 node mdValidator.js
 node --test test-mdParser.js
+python3 generateRecordingsStats.py
 ```
 
 Confirm new IDs match generated events, check for duplicates, and run `git diff --check`. Keep the [recording statistics](recordings-stats.md) and its infographic consistent with the regenerated data.

@@ -4,7 +4,8 @@ Last updated: 23 November 2026
 
 This page summarizes recording coverage in the current repository data.
 `METADATA.csv` is the source of record; `tools/mdParser.js` derives the event
-data used by the website.
+data used by the website. Regenerate this page with
+`python3 tools/generateRecordingsStats.py` after metadata changes.
 
 An event counts as recorded when it has at least one public recording link.
 Recording links include playlists, individual videos, archives, and organizer
@@ -16,12 +17,12 @@ inside a playlist.
 | Metric | Value |
 |---|---:|
 | Event entries | 6,865 |
-| Events with at least one recording | 910 (13.26%) |
-| Recording links | 1,097 |
+| Events with at least one recording | 1,046 (15.24%) |
+| Recording links | 1,233 |
 | Events with multiple recordings | 73 |
-| Playlist links | 889 (81.04%) |
-| Video or other links | 208 (18.96%) |
-| YouTube links | 1,051 (95.81%) |
+| Playlist links | 1,009 (81.83%) |
+| Video or other links | 224 (18.17%) |
+| YouTube links | 1,187 (96.27%) |
 
 ![Conference events and recordings across all event years](images/recordings-overall-events.png)
 
@@ -34,9 +35,9 @@ Events are grouped by the year of their start date.
 | 2017–2020 | 407 | 0 | 0.00% | 0 | 0 | 0 | 0 |
 | 2021–2024 | 2,241 | 27 | 1.20% | 27 | 0 | 27 | 0 |
 | 2025 | 1,347 | 502 | 37.27% | 539 | 12 | 483 | 56 |
-| 2026 | 2,504 | 381 | 15.22% | 531 | 61 | 379 | 152 |
+| 2026 | 2,504 | 517 | 20.65% | 667 | 61 | 499 | 168 |
 | 2027–2028 | 366 | 0 | 0.00% | 0 | 0 | 0 | 0 |
-| **Total** | **6,865** | **910** | **13.26%** | **1,097** | **73** | **889** | **208** |
+| **Total** | **6,865** | **1,046** | **15.24%** | **1,233** | **73** | **1,009** | **224** |
 
 Future years are included in the event-entry totals but naturally have no
 recordings yet. Coverage therefore describes the current metadata snapshot, not
@@ -71,6 +72,6 @@ individual videos contained within a playlist.
 
 Recording numbers are a snapshot of the public links currently recorded in
 `METADATA.csv`. Missing links mean no public recording has been recorded in the
-metadata, not that no recording exists. Re-run the metadata parser after data
-changes and keep this page and its infographic synchronized with the generated
-event data.
+metadata, not that no recording exists. Re-run the metadata parser and this
+script after data changes to keep this page and its infographic synchronized
+with the generated event data.

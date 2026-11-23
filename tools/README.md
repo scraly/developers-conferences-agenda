@@ -103,11 +103,13 @@ event_id,duration1,duration2,duration3,duration4
 
 ### Mission
 
-Checks every `recording:` link in `METADATA.csv` against its event date. A link
-is valid when a video on the linked channel or playlist was published after the
-event. Uses YouTube RSS as a fallback when yt-dlp is blocked.
+Checks every recording link (`recording:` or `recordings:` field) in
+`METADATA.csv` against its event date. A link is valid when a video on the
+linked channel or playlist was published after the event. Uses YouTube RSS as a
+fallback when yt-dlp is blocked.
 
-See [FINDING-RECORDINGS.md](../FINDING-RECORDINGS.md) for the full workflow.
+See [recordings-workflow.md](../docs/recordings-workflow.md) for the full
+workflow.
 
 ### Usage
 
@@ -119,3 +121,26 @@ python3 tools/auditRecordingDates.py METADATA.csv --deep --workers 8
 
 Writes `tmp/recording-date-report.tsv` and caches results in
 `tmp/recording-dates.json`.
+
+## generateRecordingsStats.py
+
+### Mission
+
+Regenerates [docs/recordings-stats.md](../docs/recordings-stats.md) and
+`docs/images/recordings-overall-events.png` from the parsed event data, so the
+coverage numbers are derived rather than hand-maintained.
+
+### Usage
+
+Run from the repository root after `node mdParser.js`:
+
+```sh
+python3 tools/generateRecordingsStats.py
+```
+
+Options:
+
+- `--date YYYY-MM-DD` — snapshot date shown on the page (default: today)
+- `--no-image` — skip the PNG infographic
+
+Requires Pillow for the infographic: `pip install pillow`.

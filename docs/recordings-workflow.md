@@ -1,7 +1,9 @@
-# Conference recordings
+# Recording workflow
 
 This guide covers finding, verifying, and removing recording links in
-`METADATA.csv`.
+`METADATA.csv`. For the short checklist see
+[recordings-discovery.md](recordings-discovery.md), and for the metadata format
+and rendering rules see [recordings-design.md](recordings-design.md).
 
 ## Finding event recordings
 
@@ -205,18 +207,26 @@ curl -s 'https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VIDE
 
 ## Removing a stale link
 
-Delete only the `recording:` field and its leading comma; keep `attendees:`
-and other fields. Edit line by line, never with a global `sed`:
+Delete only the `recording:`/`recordings:` field and its leading comma; keep
+`attendees:` and other fields. Split at field boundaries, never at every comma,
+because event ids and labels may contain commas. Edit line by line, never with a
+global `sed`:
 
 ```bash
 python3 - <<'EOF'
 import re
 drop = {"2026-06-17-Devoxx Poland"}  # event_id prefixes
-lines = open("METADATA.csv").readlines()
-open("METADATA.csv", "w").writelines(
-    re.sub(r",recording:\S+", "", ln.rstrip("\n")) + "\n"
-    if ln.split(",", 1)[0] in drop else ln
-    for ln in lines)
+field = re.compile(r",(?=(?:attendees|recordings?):)")
+lines = []
+for line in open("METADATA.csv"):
+    line = line.rstrip("\n")
+    parts = field.split(line)
+    if parts[0] in drop:
+        parts = [parts[0]] + [
+            p for p in parts[1:] if not p.startswith(("recording:", "recordings:"))
+        ]
+    lines.append(",".join(parts))
+open("METADATA.csv", "w").write("\n".join(lines) + "\n")
 EOF
 ```
 
