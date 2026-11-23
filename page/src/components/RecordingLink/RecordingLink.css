@@ -36,3 +36,229 @@
   outline: 2px solid var(--color-primary);
   outline-offset: 2px;
 }
+
+/* Multi-recording trigger + popup */
+.rec-wrap {
+  display: inline-flex;
+  position: relative;
+}
+
+.rec-trigger {
+  align-items: center;
+  background: none;
+  border: 0;
+  color: #ef5350;
+  cursor: pointer;
+  display: inline-flex;
+  font: inherit;
+  line-height: 1;
+  padding: 2px;
+  position: relative;
+  text-decoration: none;
+}
+
+.rec-trigger:hover {
+  color: #e53935;
+  transform: scale(1.08);
+}
+
+.rec-trigger:focus-visible,
+.rec-item:focus-visible {
+  border-radius: 3px;
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+.rec-trigger svg {
+  display: block;
+  height: 18px;
+  width: 18px;
+}
+
+.rec-wrap .rec-trigger .badge {
+  align-items: center;
+  background: #ef5350;
+  border: 2px solid var(--bg-secondary);
+  border-radius: 999px;
+  color: #ffffff;
+  display: inline-flex;
+  font-size: 9px;
+  font-weight: 800;
+  height: 15px;
+  justify-content: center;
+  line-height: 1;
+  margin-right: 0;
+  min-width: 15px;
+  padding: 0 3px;
+  position: absolute;
+  right: -7px;
+  top: -6px;
+}
+
+.eventCell .rec-trigger .badge {
+  border-color: var(--bg-tertiary);
+}
+
+.listView .event-list-entry.favorite-event .rec-trigger .badge {
+  border-color: var(--color-favorite-bg);
+}
+
+/* Some container rules style every link/span in a row; keep the trigger and
+   popup rows unaffected. */
+.eventCell .rec-trigger,
+.mapView .event-map-entry .rec-trigger,
+.listView .event-links .rec-trigger {
+  color: #ef5350;
+  margin-right: 0;
+  overflow: visible;
+  text-overflow: clip;
+}
+
+.rec-menu {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  box-shadow: var(--shadow-md);
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+  max-height: calc(100dvh - 16px);
+  max-width: calc(100vw - 16px);
+  overflow: hidden;
+  position: fixed;
+  right: 8px;
+  top: 64px;
+  width: 330px;
+  z-index: 1000;
+}
+
+.rec-menu-head {
+  align-items: center;
+  border-bottom: 1px solid var(--border-light);
+  color: var(--text-muted);
+  display: flex;
+  font-size: 10.5px;
+  font-weight: 800;
+  justify-content: space-between;
+  letter-spacing: 0.1em;
+  padding: 9px 12px;
+  text-transform: uppercase;
+}
+
+.rec-menu-count {
+  color: var(--text-faint);
+}
+
+.rec-menu-head .event-name {
+  color: var(--text-secondary);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0;
+  max-width: 190px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-transform: none;
+  white-space: nowrap;
+}
+
+.rec-list {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  max-height: 264px;
+  min-height: 0;
+  overflow-y: auto;
+  padding: 5px;
+}
+
+.rec-menu .rec-item {
+  align-items: center;
+  border-radius: 6px;
+  color: var(--text-primary);
+  display: flex;
+  gap: 10px;
+  margin-right: 0;
+  overflow: visible;
+  padding: 9px 10px;
+  text-decoration: none;
+  text-overflow: clip;
+  white-space: normal;
+}
+
+.rec-menu .rec-item:hover {
+  background: var(--bg-hover);
+}
+
+.rec-menu .platform {
+  color: #ef5350;
+  flex: 0 0 auto;
+  height: 18px;
+  width: 18px;
+}
+
+.rec-menu .platform.other {
+  color: var(--color-primary);
+}
+
+.rec-menu .rec-copy {
+  display: flex;
+  flex-direction: column;
+  margin-right: 0;
+  min-width: 0;
+}
+
+.rec-menu .rec-label {
+  font-size: 13px;
+  font-weight: 600;
+  margin-right: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.rec-menu .rec-host {
+  color: var(--text-muted);
+  font-size: 11px;
+  margin-right: 0;
+}
+
+.rec-menu .ext {
+  color: var(--text-faint);
+  flex: 0 0 auto;
+  height: 14px;
+  margin-left: auto;
+  width: 14px;
+}
+
+@media (max-width: 480px) {
+  .rec-menu {
+    border-radius: 14px 14px 0 0;
+    bottom: 0;
+    left: 0;
+    max-height: 60vh;
+    max-width: none;
+    min-width: 0;
+    position: fixed;
+    right: 0;
+    top: auto;
+    width: 100%;
+  }
+
+  .rec-menu::before {
+    background: var(--border-color);
+    border-radius: 999px;
+    content: '';
+    display: block;
+    height: 4px;
+    margin: 8px auto 2px;
+    width: 38px;
+  }
+
+  .rec-list {
+    max-height: none;
+  }
+
+  .rec-menu .rec-item {
+    padding: 12px 14px;
+  }
+}
