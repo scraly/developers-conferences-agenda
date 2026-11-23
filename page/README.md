@@ -84,6 +84,7 @@ Each filter dimension maps to URL query parameters for shareable filtered views:
 | `country` | comma-separated | `country=France,Germany` |
 | `region` | comma-separated | `region=Europe,Asia` |
 | `online` | boolean | `online=true` |
+| `recordings` | boolean; per event edition | `recordings=true` |
 | `inPerson` | boolean | `inPerson=true` |
 
 Legacy `tags=key:value,...` URLs are still parsed for backward compatibility.

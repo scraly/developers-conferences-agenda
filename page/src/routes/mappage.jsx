@@ -10,7 +10,7 @@ export const MapPage = () => {
 
     return (
         <div className="dcaGrid">
-          <Filters/>
+          <Filters view="map"/>
           <div className="dcaContent">
             <YearSelector
               isMap={true}
