@@ -128,10 +128,11 @@ const Filters = ({ view }) => {
 
   // Clear All Filters
   const handleClearAll = useCallback(() => {
+    // Clear filter keys from the live URLSearchParams so repeated and empty
+    // values of unrelated parameters are preserved as-is. Keep non-filter
+    // params (view-related).
     const cleared = new URLSearchParams(searchParams)
-    // Keep non-filter params (view-related)
     const filterKeys = getFilterParamKeys()
-
     filterKeys.forEach(key => cleared.delete(key))
     setSearchParams(cleared)
   }, [searchParams, setSearchParams])

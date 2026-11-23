@@ -4198,3 +4198,19 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-04-09-BSides OT UK 2027,language:english,tech:security,topic:security,topic:operational-technology
 2027-05-12-PyCon US 2027,language:english,tech:python,topic:python,topic:open-source
 2027-06-13-Berlin Buzzwords 2027,language:english,tech:architecture,topic:software-architecture,topic:design
+2026-11-28-Kubernetes Community Days KCD Hangzhou 2026,language:chinese,tech:kubernetes,topic:cloud-native,topic:open-source
+2026-12-05-DevFest Politechnika Warszawska,language:polish,tech:android,topic:developers,topic:open-source
+2026-12-12-DevFest Kigali 2026 Women in Tech,language:english,tech:android,topic:women-in-tech,topic:developers
+2026-12-12-GDG Urgench DevFest 2026,language:uzbek,tech:android,topic:developers,topic:open-source
+2026-12-26-.NET Conf 2026,language:english,tech:dotnet,topic:developers,topic:open-source
+2027-01-30-F.E.X Edition 1 2027,language:english,topic:developers,topic:technology
+2027-04-13-TrustSecAI 2027,language:english,tech:ai,topic:security,topic:trust
+2027-05-01-Boise Code Camp 2027,language:english,topic:developers,topic:community
+2027-05-13-GeeCON,language:english,tech:java,topic:developers,topic:open-source
+2027-05-18-Devopsdays Baltimore,language:english,tech:devops,topic:operations,topic:community
+2027-05-20-Tech Lead Conference 2027,language:english,topic:tech-lead,topic:leadership,topic:developers
+2027-09-30-AWS Community Summit 2027,language:english,tech:aws,topic:cloud,topic:community
+2027-10-22-Devopsdays bogota,language:spanish,tech:devops,topic:operations,topic:community
+2027-11-01-Arcasiles Community Talks 2027,language:spanish,topic:community,topic:technology
+2027-03-09-FOSSASIA PGDay 2027,topic:postgresql,topic:database
+2027-03-08-FOSSASIA Summit 2027 ,tech:opensource,topic:ai,topic:cybersecurity,topic:hardware,topic:web3

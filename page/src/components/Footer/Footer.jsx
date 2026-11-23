@@ -259,6 +259,20 @@ export const Footer = () => {
               />
               <span className="sponsor-name">acrudin</span>
             </a>
+            <a
+              href="https://github.com/Horgix"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="sponsor-card"
+              title="Horgix"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/4584397?v=4"
+                alt="Horgix"
+                className="sponsor-avatar"
+              />
+              <span className="sponsor-name">Horgix</span>
+            </a>
           </div>
 
           <p className="become-sponsor-description">
