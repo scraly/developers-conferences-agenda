@@ -124,13 +124,29 @@ test.describe('US-4: Any/All Toggle', () => {
 test.describe('Existing Filter Regression (TS-034)', () => {
   test('text search filter still works', async ({ page }) => {
     await page.goto(CFP_URL)
-    await page.click('.filters-header')
+    await page.locator('.filters-icon').click()
     await page.waitForSelector('.filters.open')
 
     const queryInput = page.locator('#filter-query')
     await expect(queryInput).toBeVisible()
     await queryInput.fill('react')
-    expect(page.url()).toContain('query=react')
+    await expect.poll(() => page.url()).toContain('query=react')
+  })
+
+  test('fast text input does not lose characters while filtering the list', async ({ page }) => {
+    await page.goto('/#/2026/list')
+    await page.locator('.filters-icon').click()
+    await page.waitForSelector('.filters.open')
+
+    const queryInput = page.locator('#filter-query')
+    await queryInput.pressSequentially('produce')
+
+    await expect(queryInput).toHaveValue('produce')
+    await expect.poll(() => page.url()).toContain('query=produce')
+
+    await page.getByRole('button', { name: 'Clear All Filters' }).click()
+    await expect(queryInput).toHaveValue('')
+    await expect.poll(() => page.url()).not.toContain('query=')
   })
 
   test('checkbox toggles still render', async ({ page }) => {
