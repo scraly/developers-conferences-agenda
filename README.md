@@ -772,6 +772,7 @@ All the data (past and coming) are available publicly in JSON:
 * 16-19: [Dutch AI Conference](https://aiconference.nl) - Amsterdam (Netherlands) <a href="https://sessionize.com/dawn-conferences-2027/"><img alt="CFP Dutch AI Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-December-2026&color=green"></a>
 * 17-18: [Enterprise Private AI UAE](https://airswipe-global.com) - Dubai (United Arab Emirates)
 * 18: [Programmable Sydney 2027](https://programmable.tech) - Sydney (Australia) <a href="https://sessionize.com/programmable-2027-sydney/"><img alt="CFP Programmable Sydney 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-November-2026&color=green"></a>
+* 18: [Umedev 2027](https://umedev.org) - Ume (Sweden) <a href="https://sessionize.com/umedev-2027/"><img alt="CFP Umedev 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2027&color=green"></a>
 * 18-19: [RubyConf AU 2027](https://www.rubyconf.org.au/2027) - Melbourne (Australia) <a href="https://sessionize.com/rubyconf-au-2027/"><img alt="CFP RubyConf AU 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-December-2026&color=green"></a>
 * 19: [JSWorld Conference](https://jsworldconference.com) - Amsterdam (Netherlands) <a href="https://tally.so/r/jaKrDY"><img alt="CFP JSWorld Conference" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-November-2026&color=red"></a>
 * 19-20: [Entrypoint 2027](https://entrypoint.fr/) - Paris (France) <a href="https://pretalx.com/entrypoint-2027/cfp"><img alt="CFP Entrypoint 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-September-2026&color=red"></a> <a href="https://entrypoint.fr/sponsors/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
@@ -872,7 +873,7 @@ All the data (past and coming) are available publicly in JSON:
 * 27-30: [Great International Developer Summit (GIDS)](https://developersummit.com/) - Bengaluru (India) <a href="https://developersummit.com/cfp"><img alt="CFP Great International Developer Summit (GIDS)" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-September-2026&color=red"></a> <a href="https://saltmarch.com/contact-us"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 28-29: [AGNTCon + MCPCon 2027](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/) - San Francisco, CA (USA) <a href="https://sessionize.com/agntcon-mcpcon-north-america-2027/"><img alt="CFP AGNTCon + MCPCon 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-January-2027&color=green"></a> <a href="https://events.linuxfoundation.org/agntcon-mcpcon-north-america/sponsor/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 28-30: [PyCon Lithuania 2027](https://pycon.lt/2027) - Vilnius (Lithuania) <a href="https://pycon.lt/2027/cfp"><img alt="CFP PyCon Lithuania 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-January-2027&color=green"></a> <a href="https://pycon.lt/2027/sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
-* 28-30: [Spring I/O](https://springio.net/) - Valencia (Spain) <a href="https://springio.net/sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
+* 28-30: [Spring I/O](https://springio.net/) - Valencia (Spain) <a href="https://sessionize.com/spring-io-2027/"><img alt="CFP Spring I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2005-February-2027&color=green"></a> <a href="https://springio.net/#sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 30: [Mobile Makers 2027](https://mobilemakers.fr/) - Paris (France) <a href="https://mobilemakers.fr/cfp"><img alt="CFP Mobile Makers 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-January-2027&color=green"></a> <a href="https://mobilemakers.fr/sponsor-deck"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 30-01/05: [MinuteCon](https://minutecon.org/) - Boston, MA (USA) <a href="https://sessionize.com/minutecon"><img alt="CFP MinuteCon" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-January-2027&color=green"></a>
 * 30-01/05: [East of England Summit 2027](https://www.eoes.co.uk) - Norwich (UK) <a href="https://sessionize.com/east-of-england-summit-2027/"><img alt="CFP East of England Summit 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-January-2027&color=green"></a> <a href="https://www.eoes.co.uk/sponsors"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
@@ -954,6 +955,7 @@ All the data (past and coming) are available publicly in JSON:
 * 9-11: [International Conference on Robotics, Artificial Intelligence and Autonomous Systems](https://icraias2027.com) - Singapore (Singapore)
 * 9-11: [Cybersecurity, AI & Future Digital Infrastructure](https://cyberfuture2027.com) - Singapore (Singapore)
 * 10: [J-Spring](https://jspring.nl/) - Utrecht (Netherlands) <a href="https://jspring.nl/#partners"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
+* 10: [TechReady 2027](https://techready.live/) - Nantes (France) <a href="https://conference-hall.io/techready-2027"><img alt="CFP TechReady 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-March-2027&color=green"></a> <a href="https://techready.live/en/partners/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 10-11: [AI in Production](https://ai-in-production.jumpingrivers.com) - Newcastle upon Tyne (UK) <a href="https://ai-in-production.jumpingrivers.com/#abstracts"><img alt="CFP AI in Production" src="https://img.shields.io/static/v1?label=CFP&message=until%2029-January-2027&color=green"></a>
 * 11-12: [PG DATA 2027](https://2027.pg-data.org) - Chicago, IL (USA) <a href="https://sessionize.com/pg-data-2027/"><img alt="CFP PG DATA 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2011-January-2027&color=green"></a> <a href="https://2027.pg-data.org/sponsors/"><img alt="Sponsoring" src="https://img.shields.io/badge/sponsoring-8A2BE2"></a>
 * 12: [Data Saturday 2027](https://datasaturdays.com/Event/20260613-datasaturday0075) - Zagreb (Croatia) <a href="https://sessionize.com/data-saturday-croatia-2027/"><img alt="CFP Data Saturday 2027" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2026&color=green"></a>
@@ -1016,6 +1018,11 @@ All the data (past and coming) are available publicly in JSON:
 * 9: [AGNTSummit Tokyo](https://events.linuxfoundation.org/agntsummit-tokyo/) - Tokyo (Japan)
 * 17: [AGNTSummit Nairobi](https://events.linuxfoundation.org/agntsummit-nairobi/) - Nairobi (Kenya)
 * 20: [Open Source Summit Europe 2027](https://events.linuxfoundation.org/open-source-summit-europe-2027/) - Glasgow (UK)
+
+### December
+
+* 6: [Open Source Summit Japan 2027](https://events.linuxfoundation.org/open-source-summit-japan-2027/) - Tokyo (Japan)
+* 9: [Open Compliance Summit 2027](https://events.linuxfoundation.org/open-compliance-summit-2027/) - Tokyo (Japan)
 
 ## 2028
 
