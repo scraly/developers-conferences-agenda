@@ -32,7 +32,7 @@ const getPlatform = (url) => {
 // The popup is portalled to the body so a scrollable container, such as the
 // Leaflet popup, cannot clip it. Position it next to its trigger.
 const getMenuPosition = (trigger) => {
-  if (!trigger || window.matchMedia(MOBILE_MENU_QUERY).matches) return undefined;
+  if (!trigger) return undefined;
 
   const rect = trigger.getBoundingClientRect();
   const width = Math.min(MENU_WIDTH, window.innerWidth - MENU_MARGIN * 2);
@@ -46,8 +46,8 @@ const getMenuPosition = (trigger) => {
   const maxHeight = Math.max(120, opensAbove ? spaceAbove : spaceBelow);
 
   return opensAbove
-    ? { right, bottom: window.innerHeight - rect.top + MENU_GAP, maxHeight }
-    : { right, top: rect.bottom + MENU_GAP, maxHeight };
+    ? { right, top: 'auto', bottom: window.innerHeight - rect.top + MENU_GAP, maxHeight }
+    : { right, bottom: 'auto', top: rect.bottom + MENU_GAP, maxHeight };
 };
 
 const RecordingLink = ({ recordings, recording, eventName }) => {
@@ -62,17 +62,27 @@ const RecordingLink = ({ recordings, recording, eventName }) => {
     if (!open) return undefined;
 
     const updatePosition = () => setMenuPosition(getMenuPosition(triggerRef.current));
+    const handleScroll = (event) => {
+      if (menuRef.current?.contains(event.target)) return;
+      updatePosition();
+    };
     updatePosition();
     window.addEventListener('resize', updatePosition);
-    return () => window.removeEventListener('resize', updatePosition);
+    window.addEventListener('scroll', handleScroll, true);
+    return () => {
+      window.removeEventListener('resize', updatePosition);
+      window.removeEventListener('scroll', handleScroll, true);
+    };
   }, [open]);
 
   useEffect(() => {
     if (!open) return undefined;
 
-    // Do not let focus scroll the page or a Leaflet container. The scroll
-    // handler would interpret that focus-induced scroll as a reason to close.
-    menuRef.current?.querySelector('.rec-item')?.focus({ preventScroll: true });
+    // On touch-sized screens, leave focus on the trigger. On larger screens,
+    // avoid scrolling an ancestor when focusing the first menu item.
+    if (!window.matchMedia(MOBILE_MENU_QUERY).matches) {
+      menuRef.current?.querySelector('.rec-item')?.focus({ preventScroll: true });
+    }
 
     const handleKeyDown = (event) => {
       if (event.key === 'Escape') {
@@ -92,22 +102,11 @@ const RecordingLink = ({ recordings, recording, eventName }) => {
       if (wrapRef.current?.contains(event.target) || menuRef.current?.contains(event.target)) return;
       setOpen(false);
     };
-    // A fixed popup would no longer point at its trigger if an ancestor scrolls.
-    // A phone bottom sheet stays viewport-anchored, so it has no such dependency.
-    // This also ignores the scroll events Leaflet emits when the menu takes focus.
-    const handleScroll = (event) => {
-      if (window.matchMedia(MOBILE_MENU_QUERY).matches) return;
-      if (menuRef.current?.contains(event.target)) return;
-      setOpen(false);
-    };
-
     document.addEventListener('keydown', handleKeyDown);
     document.addEventListener('pointerdown', handlePointerDown);
-    window.addEventListener('scroll', handleScroll, true);
     return () => {
       document.removeEventListener('keydown', handleKeyDown);
       document.removeEventListener('pointerdown', handlePointerDown);
-      window.removeEventListener('scroll', handleScroll, true);
     };
   }, [open]);
 

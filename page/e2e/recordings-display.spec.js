@@ -64,23 +64,47 @@ test('single-recording event shows a direct link without a badge', async ({ page
   await expect(link).toHaveAttribute('href', /youtube\.com/)
 })
 
-test('popup becomes a full-width bottom sheet on a phone viewport', async ({ page }) => {
+test('popup opens next to its trigger on a phone viewport', async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 800 })
   await page.goto(`${LIST_URL}?query=All%20Things%20AI`)
   const entry = allThingsAiEntry(page)
-  await entry.locator('.rec-trigger').click()
+  const trigger = entry.locator('.rec-trigger')
+  await trigger.click()
 
   const menu = page.locator('.rec-menu')
   await expect(menu).toBeVisible()
   await expect(menu).toHaveCSS('position', 'fixed')
-  const bounds = await menu.boundingBox()
-  expect(bounds.x).toBe(0)
-  expect(bounds.x + bounds.width).toBe(390)
-  expect(bounds.y + bounds.height).toBe(800)
+  const [bounds, triggerBounds] = await Promise.all([menu.boundingBox(), trigger.boundingBox()])
+  const opensBelow = Math.abs(bounds.y - (triggerBounds.y + triggerBounds.height + 8)) < 1
+  const opensAbove = Math.abs(bounds.y + bounds.height - (triggerBounds.y - 8)) < 1
+  expect(opensBelow || opensAbove).toBe(true)
+  expect(triggerBounds.x + triggerBounds.width / 2).toBeGreaterThanOrEqual(bounds.x)
+  expect(triggerBounds.x + triggerBounds.width / 2).toBeLessThanOrEqual(bounds.x + bounds.width)
+  expect(bounds.x).toBeGreaterThanOrEqual(0)
+  expect(bounds.x + bounds.width).toBeLessThanOrEqual(390)
+  expect(bounds.y + bounds.height).toBeLessThanOrEqual(800)
   await expect(menu.locator('.rec-item')).toHaveCount(3)
 })
 
-test('phone map bottom sheet survives Leaflet focus scrolling and scrolls long lists', async ({ page }) => {
+test('popup opens immediately above a trigger near the viewport bottom', async ({ page }) => {
+  await page.setViewportSize({ width: 1280, height: 720 })
+  await page.goto(LIST_URL)
+  await expect(page.locator('.listView h1').filter({ hasText: 'November Events:' })).toBeInViewport()
+  const trigger = page.locator('.event-list-entry').filter({ hasText: 'Web Summit Lisbon' }).locator('.rec-trigger')
+  const initialTop = await trigger.evaluate(element => element.getBoundingClientRect().top)
+  await page.evaluate(top => window.scrollBy({ top: top - innerHeight + 100, behavior: 'instant' }), initialTop)
+  await trigger.click()
+
+  const menu = page.locator('.rec-menu')
+  await expect(menu).toBeVisible()
+  await page.evaluate(() => new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve))))
+  const [bounds, triggerBounds] = await Promise.all([menu.boundingBox(), trigger.boundingBox()])
+  expect(Math.abs(bounds.y + bounds.height - (triggerBounds.y - 8))).toBeLessThan(1)
+  expect(bounds.y).toBeGreaterThanOrEqual(0)
+  expect(bounds.x + bounds.width).toBeLessThanOrEqual(1280)
+})
+
+test('phone map popup stays open and scrolls long recording lists', async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 667 })
   await page.goto('/#/2025/map?query=IndiaFOSS')
   await page.locator('.leaflet-marker-icon').click()
