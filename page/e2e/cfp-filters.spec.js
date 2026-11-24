@@ -132,7 +132,22 @@ test.describe('Existing Filter Regression (TS-034)', () => {
     const queryInput = page.locator('#filter-query')
     await expect(queryInput).toBeVisible()
     await queryInput.fill('react')
-    expect(page.url()).toContain('query=react')
+    await expect.poll(() => page.url()).toContain('query=react')
+  })
+
+  test('fast text input does not lose characters while filtering the list', async ({ page }) => {
+    await page.goto('/#/2026/list')
+    await openFilters(page)
+
+    const queryInput = page.locator('#filter-query')
+    await queryInput.pressSequentially('produce')
+
+    await expect(queryInput).toHaveValue('produce')
+    await expect.poll(() => page.url()).toContain('query=produce')
+
+    await page.getByRole('button', { name: 'Clear All Filters' }).click()
+    await expect(queryInput).toHaveValue('')
+    await expect.poll(() => page.url()).not.toContain('query=')
   })
 
   test('checkbox toggles still render', async ({ page }) => {

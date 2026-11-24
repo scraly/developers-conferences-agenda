@@ -4221,3 +4221,6 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2026-06-03-AI Engineer Melbourne 2026,topic:ai,language:english
 2026-09-23-AI Engineer Paris 2026,topic:ai,language:english
 2026-11-05-AI Engineer Shanghai 2026,topic:ai,language:english
+2026-12-12-DevFest Kenitra 2026,language:french,tech:android,tech:cloud,tech:web,topic:mobile,topic:open-source
+2026-12-20-GDG DevFest Surat 2026,language:english,tech:android,tech:cloud,tech:web,topic:mobile,topic:open-source
+2027-06-10-TechReady 2027,topic:artificial-intelligence,topic:cloud,topic:agentic-coding,topic:ai-coding,topic:agentic-ai,topic:agent

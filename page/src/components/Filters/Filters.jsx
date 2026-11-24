@@ -1,5 +1,5 @@
-import React, { useState, useCallback, useContext, useEffect, useMemo } from 'react';
-import { useSearchParams } from "react-router-dom";
+import React, { useState, useCallback, useContext, useEffect, useMemo, useRef } from 'react';
+import { useNavigationType, useSearchParams } from "react-router-dom";
 
 import { Filter, FilterX } from 'lucide-react';
 
@@ -15,17 +15,77 @@ import 'styles/Filters.css';
 import { FilterContext } from 'contexts/FilterContext';
 import { getFilterParamKeys, hasActiveFilters } from './Filters.utils';
 
+const QUERY_UPDATE_DELAY_MS = 250;
+
 const Filters = ({ view }) => {
   const context = useContext(FilterContext);
   const { t } = useTranslation();
   const { tagsVisible } = useTagsVisibility();
   const [searchParams, setSearchParams] = useSearchParams(context.searchParams);
+  const navigationType = useNavigationType();
+  const urlQuery = searchParams.get('query') || '';
+  const [queryValue, setQueryValue] = useState(urlQuery);
   const [open, setOpen] = useState(context.open);
+  const queryUpdateTimeoutRef = useRef(null);
+  const pendingQueryUpdatesRef = useRef(new Map());
+  const setSearchParamsRef = useRef(setSearchParams);
+  const navigationTypeRef = useRef(navigationType);
+  setSearchParamsRef.current = setSearchParams;
+  navigationTypeRef.current = navigationType;
+
+  const clearQueryUpdateTimeout = useCallback(() => {
+    if (queryUpdateTimeoutRef.current !== null) {
+      clearTimeout(queryUpdateTimeoutRef.current);
+      queryUpdateTimeoutRef.current = null;
+    }
+  }, []);
 
   useEffect(() => {
     context.searchParams = searchParams;
     context.open = open;
   }, [searchParams, open]);
+
+  // Sync external navigation, but do not let our own debounced URL updates
+  // overwrite newer text while a route render is still pending.
+  useEffect(() => {
+    const pendingUpdates = pendingQueryUpdatesRef.current;
+    const pendingCount = pendingUpdates.get(urlQuery) || 0;
+
+    if (navigationTypeRef.current === 'REPLACE' && pendingCount > 0) {
+      if (pendingCount === 1) {
+        pendingUpdates.delete(urlQuery);
+      } else {
+        pendingUpdates.set(urlQuery, pendingCount - 1);
+      }
+      return;
+    }
+
+    clearQueryUpdateTimeout();
+    pendingUpdates.clear();
+    setQueryValue(urlQuery);
+  }, [urlQuery, clearQueryUpdateTimeout]);
+
+  useEffect(() => clearQueryUpdateTimeout, [clearQueryUpdateTimeout]);
+
+  // Update the visible text immediately and debounce expensive route renders.
+  const handleQueryChange = useCallback((value) => {
+    setQueryValue(value);
+    clearQueryUpdateTimeout();
+    queryUpdateTimeoutRef.current = setTimeout(() => {
+      const pendingUpdates = pendingQueryUpdatesRef.current;
+      pendingUpdates.set(value, (pendingUpdates.get(value) || 0) + 1);
+      setSearchParamsRef.current(currentSearchParams => {
+        const next = new URLSearchParams(currentSearchParams);
+        if (value) {
+          next.set('query', value);
+        } else {
+          next.delete('query');
+        }
+        return next;
+      }, { replace: true });
+      queryUpdateTimeoutRef.current = null;
+    }, QUERY_UPDATE_DELAY_MS);
+  }, [clearQueryUpdateTimeout]);
 
   const search = Object.fromEntries(searchParams)
   const filtersActive = hasActiveFilters(search)
@@ -128,14 +188,16 @@ const Filters = ({ view }) => {
 
   // Clear All Filters
   const handleClearAll = useCallback(() => {
+    clearQueryUpdateTimeout();
+    pendingQueryUpdatesRef.current.clear();
+    setQueryValue('');
     // Clear filter keys from the live URLSearchParams so repeated and empty
-    // values of unrelated parameters are preserved as-is. Keep non-filter
-    // params (view-related).
+    // values of unrelated parameters are preserved as-is.
     const cleared = new URLSearchParams(searchParams)
     const filterKeys = getFilterParamKeys()
     filterKeys.forEach(key => cleared.delete(key))
     setSearchParams(cleared)
-  }, [searchParams, setSearchParams])
+  }, [searchParams, setSearchParams, clearQueryUpdateTimeout])
 
   // Country and Region options for FilterMultiSelect
   const countryOptions = useMemo(() => {
@@ -178,7 +240,7 @@ const Filters = ({ view }) => {
       <div className='filters-content'>
         <div className='filtersItem'>
           <label htmlFor='filter-query'>{t('filters.query')}</label>
-          <input id='filter-query' onChange={(e) => onChange('query', e.target.value)} placeholder={t('filters.searchPlaceholder')} type='text' value={search.query || ''} />
+          <input id='filter-query' onChange={(e) => handleQueryChange(e.target.value)} placeholder={t('filters.searchPlaceholder')} type='text' value={queryValue} />
         </div>
 
         {tagsVisible ? <>
