@@ -25,6 +25,7 @@
   display: inline-flex;
   flex-shrink: 0;
   justify-content: center;
+  margin-right: 0;
   padding: 0.25rem;
 }
 
@@ -103,6 +104,21 @@
    controls above it sit in a 36px-high row. Centre the details and the
    duration chips in the card and give the controls a thumb-sized target. */
 @media screen and (max-width: 660px) {
+  .cfp-companion-view .cfp-entry-actions {
+    justify-content: center;
+    position: relative;
+    width: 100%;
+  }
+
+  .cfp-companion-view .cfp-entry-actions .favorite-button {
+    left: 0;
+    position: absolute;
+  }
+
+  .cfp-companion-view .event-list-entry .cfp-link {
+    margin-right: 0;
+  }
+
   .cfp-companion-view .event-details,
   .cfp-companion-view .event-list-header {
     align-items: center;
