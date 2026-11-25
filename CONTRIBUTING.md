@@ -49,23 +49,23 @@ YYYY-MM-DD-Conference Name,attendees:NUMBER
 
 ## Recordings
 
-If you know the recording URL(s) of a conference, add them to the `METADATA.csv` file with the `recordings:` key. A single link may also be written as `recording:` — both are accepted. It can be added alongside other metadata such as the number of attendees:
+If you know the recording URL(s) of a conference, add them to the `METADATA.csv` file with the `recording:` key. The same key accepts one or more links and can be added alongside other metadata such as the number of attendees:
 
 ```
-YYYY-MM-DD-Conference Name,attendees:NUMBER,recordings:https://example.com/recording
+YYYY-MM-DD-Conference Name,attendees:NUMBER,recording:https://example.com/recording
 ```
 
 An event can have several recordings, for example per-day or per-track playlists. Separate entries with ` | ` and label each one with `[label](url)`:
 
 ```
-2026-04-22-Devoxx France 2026,attendees:4600,recordings:[Keynotes](https://www.youtube.com/playlist?list=PLTbQvx84FrARmATtGZ-lPoT0fPV49seWw) | [Deep Dive](https://www.youtube.com/playlist?list=PLTbQvx84FrASQQ2rugdm8IMq1ceA0mWGv)
+2026-04-22-Devoxx France 2026,attendees:4600,recording:[Keynotes](https://www.youtube.com/playlist?list=PLTbQvx84FrARmATtGZ-lPoT0fPV49seWw) | [Deep Dive](https://www.youtube.com/playlist?list=PLTbQvx84FrASQQ2rugdm8IMq1ceA0mWGv)
 ```
 
 The row must start with the event's date and exact name as listed in `README.md` or `archives/YYYY.md` — otherwise the metadata is silently ignored. See [docs/recordings-design.md](docs/recordings-design.md) for the full processing rules.
 
 ## Updating recordings with an agent
 
-Recording links (`recordings:` fields in `METADATA.csv`) can be updated by an AI coding agent. Prompt:
+Recording links (`recording:` fields in `METADATA.csv`) can be updated by an AI coding agent. Prompt:
 
 > update recordings for events in 2026
 

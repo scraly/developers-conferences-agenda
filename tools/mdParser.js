@@ -47,12 +47,10 @@ const parseTags = () => {
 // Event ids may contain commas (e.g.
 // "2025-06-27-The Perl & Raku Conference in Greenville, SC 2025"), so split
 // metadata lines at the field boundaries instead of at every comma.
-const METADATA_FIELD_SEPARATOR = /,(?=(?:attendees|recordings?):)/;
+const METADATA_FIELD_SEPARATOR = /,(?=(?:attendees|recording):)/;
 
-// A recordings value holds one or more entries separated by "|".
+// A recording value holds one or more entries separated by "|".
 // Each entry is "[label](url)" or a bare url.
-// Both `recordings:` (preferred) and `recording:` (a hand-typed single link)
-// are accepted and merged in line order.
 const parseRecordings = (value) => {
   const entries = [];
   for (const part of value.split('|')) {
@@ -111,7 +109,7 @@ const parseMetadata = () => {
           }
         }
 
-        if ((key === 'recording' || key === 'recordings') && value) {
+        if (key === 'recording' && value) {
           recordings.push(...parseRecordings(value));
         }
       });

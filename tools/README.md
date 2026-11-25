@@ -103,8 +103,8 @@ event_id,duration1,duration2,duration3,duration4
 
 ### Mission
 
-Checks every recording link (`recording:` or `recordings:` field) in
-`METADATA.csv` against its event date. A link is valid when a video on the
+Checks every recording link (`recording:` field) in `METADATA.csv` against its
+event date. A link is valid when a video on the
 linked channel or playlist was published after the event. Uses YouTube RSS as a
 fallback when yt-dlp is blocked.
 

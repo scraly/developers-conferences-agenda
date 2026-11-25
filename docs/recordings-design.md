@@ -8,17 +8,14 @@ see [recordings-discovery.md](recordings-discovery.md).
 ## Format
 
 ```csv
-2026-04-22-Devoxx France 2026,attendees:4600,recordings:[Keynotes](https://www.youtube.com/playlist?list=PLTbQvx84FrARmATtGZ-lPoT0fPV49seWw) | [Deep Dive](https://www.youtube.com/playlist?list=PLTbQvx84FrASQQ2rugdm8IMq1ceA0mWGv)
+2026-04-22-Devoxx France 2026,attendees:4600,recording:[Keynotes](https://www.youtube.com/playlist?list=PLTbQvx84FrARmATtGZ-lPoT0fPV49seWw) | [Deep Dive](https://www.youtube.com/playlist?list=PLTbQvx84FrASQQ2rugdm8IMq1ceA0mWGv)
 ```
 
-- The `recordings:` field holds one or more entries separated by ` | `.
+- The `recording:` field holds one or more entries separated by ` | `.
 - Each entry is a bare URL or `[label](url)`. Label every entry when there are several.
-- `recording:` (singular) is accepted on read for a hand-typed single link;
-  both keys merge in line order.
 - Entries must be `http(s)` URLs; anything else is dropped.
 - Event ids and labels may contain commas — a line splits only before
-  `attendees:`, `recording:`, and `recordings:` field boundaries, never inside
-  a value.
+  `attendees:` and `recording:` field boundaries, never inside a value.
 
 ## Processing
 

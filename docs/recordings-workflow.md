@@ -207,23 +207,22 @@ curl -s 'https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VIDE
 
 ## Removing a stale link
 
-Delete only the `recording:`/`recordings:` field and its leading comma; keep
-`attendees:` and other fields. Split at field boundaries, never at every comma,
-because event ids and labels may contain commas. Edit line by line, never with a
-global `sed`:
+Delete only the `recording:` field and its leading comma; keep `attendees:` and
+other fields. Split at field boundaries, never at every comma, because event ids
+and labels may contain commas. Edit line by line, never with a global `sed`:
 
 ```bash
 python3 - <<'EOF'
 import re
 drop = {"2026-06-17-Devoxx Poland"}  # event_id prefixes
-field = re.compile(r",(?=(?:attendees|recordings?):)")
+field = re.compile(r",(?=(?:attendees|recording):)")
 lines = []
 for line in open("METADATA.csv"):
     line = line.rstrip("\n")
     parts = field.split(line)
     if parts[0] in drop:
         parts = [parts[0]] + [
-            p for p in parts[1:] if not p.startswith(("recording:", "recordings:"))
+            p for p in parts[1:] if not p.startswith("recording:")
         ]
     lines.append(",".join(parts))
 open("METADATA.csv", "w").write("\n".join(lines) + "\n")
