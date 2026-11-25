@@ -55,16 +55,21 @@ describe('applyCommonFilters', () => {
     const recordingEvents = [
       createEvent({ name: 'YouTube recording', recording: 'https://youtube.com/example' }),
       createEvent({ name: 'Vimeo recording', recording: 'https://vimeo.com/example' }),
+      createEvent({
+        name: 'Playlist recordings',
+        recordings: [{ label: 'Playlist', url: 'https://youtube.com/playlist?list=example' }]
+      }),
       createEvent({ name: 'Without recording' }),
       createEvent({ name: 'Empty recording', recording: '' }),
+      createEvent({ name: 'Empty recordings', recordings: [] }),
       createEvent({ name: 'Null recording', recording: null }),
       createEvent({ name: 'Wrong property', recordings: 'https://youtube.com/not-the-field' })
     ]
 
-    it('should include only events with a recording when enabled', () => {
+    it('should include only events with single or multiple recordings when enabled', () => {
       const result = applyCommonFilters(recordingEvents, { recordings: 'true' }, mockRegionsMap)
 
-      expect(result.map(event => event.name)).toEqual(['YouTube recording', 'Vimeo recording'])
+      expect(result.map(event => event.name)).toEqual(['YouTube recording', 'Vimeo recording', 'Playlist recordings'])
     })
 
     it.each([

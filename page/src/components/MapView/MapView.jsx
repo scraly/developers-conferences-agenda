@@ -128,7 +128,7 @@ const marker = eventsByLocation[loc].map((e, i) => {
         </a>
       ) : null}
 
-      <RecordingLink recording={e.recording} />
+      <RecordingLink eventName={e.name} recordings={e.recordings} recording={e.recording} />
 
       {e.closedCaptions ? (
         <span>

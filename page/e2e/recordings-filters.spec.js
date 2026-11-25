@@ -1,7 +1,6 @@
 import { test, expect } from '@playwright/test'
 
 const LIST_URL = '/#/2026/list'
-const RECORDED_TITLES = ['Devoxx France 2026', 'Sunny Tech', 'Riviera Dev']
 
 const openFilters = async (page) => {
   const filters = page.locator('.filters')
@@ -28,6 +27,11 @@ const expectUnrelatedParamsPreserved = async (page) => {
 
 const recordingsCheckbox = page => page.getByLabel('Recordings available', { exact: true })
 
+const expectOnlyRecordingEditions = async (page) => {
+  await expect(page.locator('.event-list-entry').first()).toBeVisible()
+  await expect(page.locator('.event-list-entry:not(:has(.recording-link)):not(:has(.rec-trigger))')).toHaveCount(0)
+}
+
 test('recordings checkbox filters recording editions without losing ordering or duplicating entries', async ({ page }) => {
   await page.goto(LIST_URL)
   const titles = page.locator('.event-list-entry .title')
@@ -41,7 +45,8 @@ test('recordings checkbox filters recording editions without losing ordering or 
   await expect.poll(() => getHashParam(page, 'recordings')).toBeNull()
 
   await checkbox.click()
-  await expect(titles).toHaveText(RECORDED_TITLES)
+  await expectOnlyRecordingEditions(page)
+  expect((await titles.allTextContents()).length).toBeLessThan(initialTitles.length)
   await expect.poll(() => getHashParam(page, 'recordings')).toBe('true')
 
   await checkbox.click()
@@ -89,15 +94,13 @@ test('Clear All removes recordings and other filters but preserves sorting and u
 })
 
 test('deep links restore the checkbox and filter recording editions only', async ({ page }) => {
-  const titles = page.locator('.event-list-entry .title')
-
   await page.goto(`${LIST_URL}?recordings=true`)
-  await expect(titles).toHaveText(RECORDED_TITLES)
+  await expectOnlyRecordingEditions(page)
   await openFilters(page)
   await expect(recordingsCheckbox(page)).toBeChecked()
 
   await page.reload()
-  await expect(titles).toHaveText(RECORDED_TITLES)
+  await expectOnlyRecordingEditions(page)
   await expect(recordingsCheckbox(page)).toBeChecked()
 
   await page.goto(LIST_URL)
@@ -108,19 +111,23 @@ test('deep links restore the checkbox and filter recording editions only', async
 })
 
 test('calendar and map expose the filter, consume the filtered year, and preserve state across views', async ({ page }) => {
+  await page.goto(`${LIST_URL}?recordings=true&custom=one&empty=&custom=two`)
+  await expectOnlyRecordingEditions(page)
+  const recordingEventCount = await page.locator('.eventCount').textContent()
+
   await page.goto('/#/2026/calendar?recordings=true&custom=one&empty=&custom=two')
-  await expect(page.locator('.eventCount').first()).toHaveText('3 events')
+  await expect(page.locator('.eventCount').first()).toHaveText(recordingEventCount)
   await openFilters(page)
   await expect(recordingsCheckbox(page)).toBeChecked()
 
   await page.goto('/#/2026/map?recordings=true&custom=one&empty=&custom=two')
-  await expect(page.locator('.eventCount')).toHaveText('3 events')
-  await expect(page.locator('.leaflet-marker-icon')).toHaveCount(3)
+  await expect(page.locator('.eventCount')).toHaveText(recordingEventCount)
+  await expect(page.locator('.leaflet-marker-icon').first()).toBeVisible()
   await openFilters(page)
   await expect(recordingsCheckbox(page)).toBeChecked()
 
   await page.locator('.view-selector.list-view').click()
-  await expect(page.locator('.event-list-entry .title')).toHaveText(RECORDED_TITLES)
+  await expectOnlyRecordingEditions(page)
   await expect.poll(() => getHashParam(page, 'recordings')).toBe('true')
   await expectUnrelatedParamsPreserved(page)
 })
@@ -161,7 +168,7 @@ test.describe('recordings query parameter scope', () => {
       const unfilteredTitles = await titles.allTextContents()
 
       await page.goto(`${LIST_URL}?recordings=true`)
-      await expect(page.locator('.event-list-entry .title')).toHaveText(RECORDED_TITLES)
+      await expectOnlyRecordingEditions(page)
       await page.locator(viewSelector).click()
 
       await expect.poll(() => getHashParam(page, 'recordings')).toBe('true')
@@ -173,16 +180,21 @@ test.describe('recordings query parameter scope', () => {
 })
 
 test('recordings composes with other filters and recovers when the other filter is disabled', async ({ page }) => {
+  await page.goto(`${LIST_URL}?recordings=true`)
+  await expectOnlyRecordingEditions(page)
+  const recordingEventCount = await page.locator('.eventCount').textContent()
+
   await page.goto(`${LIST_URL}?recordings=true&online=true`)
-  await expect(page.locator('.eventCount')).toHaveText('no event')
-  await expect(page.locator('.event-list-entry')).toHaveCount(0)
+  await expect(page.locator('.eventCount')).not.toHaveText(recordingEventCount)
+  await expectOnlyRecordingEditions(page)
 
   await openFilters(page)
   const checkbox = recordingsCheckbox(page)
   await expect(checkbox).toBeChecked()
   await page.getByLabel('Online', { exact: true }).click()
 
-  await expect(page.locator('.event-list-entry .title')).toHaveText(RECORDED_TITLES)
+  await expect(page.locator('.eventCount')).toHaveText(recordingEventCount)
+  await expectOnlyRecordingEditions(page)
   await expect(checkbox).toBeChecked()
   await expect.poll(() => getHashParam(page, 'recordings')).toBe('true')
   await expect.poll(() => getHashParam(page, 'online')).toBe('false')
@@ -203,7 +215,7 @@ test('noncanonical recording values leave the checkbox and results unfiltered', 
 
 test('duplicate recording parameters use the last value and normalize when toggled', async ({ page }) => {
   await page.goto(`${LIST_URL}?recordings=false&recordings=true&custom=one&empty=&custom=two`)
-  await expect(page.locator('.event-list-entry .title')).toHaveText(RECORDED_TITLES)
+  await expectOnlyRecordingEditions(page)
 
   await openFilters(page)
   const checkbox = recordingsCheckbox(page)
@@ -216,5 +228,5 @@ test('duplicate recording parameters use the last value and normalize when toggl
   await checkbox.click()
   await expect.poll(() => getAllHashParams(page, 'recordings')).toEqual(['true'])
   await expectUnrelatedParamsPreserved(page)
-  await expect(page.locator('.event-list-entry .title')).toHaveText(RECORDED_TITLES)
+  await expectOnlyRecordingEditions(page)
 })

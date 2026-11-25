@@ -289,7 +289,7 @@ export const applyCommonFilters = (events, search, regionsMap) => {
   let result = events
 
   if (search.recordings === 'true') {
-    result = result.filter((e) => e.recording)
+    result = result.filter((e) => e.recording || (Array.isArray(e.recordings) && e.recordings.length > 0))
   }
 
   if (search.closedCaptions === 'true') {

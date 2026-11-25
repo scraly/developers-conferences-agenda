@@ -49,12 +49,29 @@ const parseTags = () => {
 // metadata lines at the field boundaries instead of at every comma.
 const METADATA_FIELD_SEPARATOR = /,(?=(?:attendees|recording):)/;
 
+// A recording value holds one or more entries separated by "|".
+// Each entry is "[label](url)" or a bare url.
+const parseRecordings = (value) => {
+  const entries = [];
+  for (const part of value.split('|')) {
+    const text = part.trim();
+    if (!text) continue;
+
+    const link = text.match(/^\[([^\]]*)\]\((https?:\/\/[^)\s]+)\)$/);
+    if (link) {
+      entries.push({ label: link[1].trim(), url: link[2].trim() });
+    } else if (/^https?:\/\/[^,\s|]+$/.test(text)) {
+      entries.push({ label: '', url: text });
+    }
+  }
+
+  return entries;
+};
+
 const splitMetadataLine = (line) => {
   const separatorIndex = line.search(METADATA_FIELD_SEPARATOR);
   if (separatorIndex === -1) {
-    // Legacy rows may use a bare value, e.g. "2026-10-22-Event,200".
-    const [eventId, ...fields] = line.split(',');
-    return { eventId: eventId.trim(), fields };
+    return { eventId: line.trim(), fields: [] };
   }
 
   return {
@@ -76,6 +93,7 @@ const parseMetadata = () => {
 
       const { eventId, fields } = splitMetadataLine(line);
       const metadata = {};
+      const recordings = [];
 
       fields.forEach((part) => {
         const separatorIndex = part.indexOf(':');
@@ -92,19 +110,15 @@ const parseMetadata = () => {
         }
 
         if (key === 'recording' && value) {
-          const markdownMatch = value.match(/^\[([^\]]+)\]\((https?:\/\/[^)]+)\)$/);
-          const recordingUrl = markdownMatch ? markdownMatch[2] : value;
-
-          try {
-            const url = new URL(recordingUrl);
-            if (url.protocol === 'http:' || url.protocol === 'https:') {
-              metadata.recording = recordingUrl;
-            }
-          } catch {
-            // Ignore invalid recording URLs.
-          }
+          recordings.push(...parseRecordings(value));
         }
       });
+
+      if (recordings.length > 0) {
+        metadata.recordings = recordings;
+        // Derived from the first entry; kept for existing consumers.
+        metadata.recording = recordings[0].url;
+      }
 
       if (Object.keys(metadata).length > 0) {
         metadataMap.set(eventId, metadata);
@@ -334,57 +348,61 @@ const extractCfp = (shieldCode) => {
   };
 };
 
-//main file parsing
-const mainContent = fs.readFileSync(MAIN_INPUT).toString();
-const currentConfs = extractConfs(mainContent, MAIN_INPUT);
+if (require.main === module) {
+  //main file parsing
+  const mainContent = fs.readFileSync(MAIN_INPUT).toString();
+  const currentConfs = extractConfs(mainContent, MAIN_INPUT);
 
-//archives parsing
-const archives = extractArchiveFiles(mainContent);
-const archiveConfs = archives.flatMap((archive) =>
-  extractConfs(fs.readFileSync(archive).toString(), archive)
-);
+  //archives parsing
+  const archives = extractArchiveFiles(mainContent);
+  const archiveConfs = archives.flatMap((archive) =>
+    extractConfs(fs.readFileSync(archive).toString(), archive)
+  );
 
-//tags parsing
-const tagsMap = parseTags();
+  //tags parsing
+  const tagsMap = parseTags();
 
-//metadata parsing
-const metadataMap = parseMetadata();
+  //metadata parsing
+  const metadataMap = parseMetadata();
 
-// CFP durations parsing
-const cfpDurationsMap = parseCfpDurations();
+  // CFP durations parsing
+  const cfpDurationsMap = parseCfpDurations();
 
-//aggregation and tags integration
-const allConfs = archiveConfs.concat(currentConfs).map((conf) => {
-  const eventId = generateEventId(conf);
-  const tags = tagsMap.get(eventId) || [];
-  const metadata = metadataMap.get(eventId) || {};
-  const cfpDurations = cfpDurationsMap.get(eventId);
+  //aggregation and tags integration
+  const allConfs = archiveConfs.concat(currentConfs).map((conf) => {
+    const eventId = generateEventId(conf);
+    const tags = tagsMap.get(eventId) || [];
+    const metadata = metadataMap.get(eventId) || {};
+    const cfpDurations = cfpDurationsMap.get(eventId);
 
-  return {
-    ...conf,
-    tags,
-    ...metadata,
-    cfp: cfpDurations ? { ...conf.cfp, durations: cfpDurations } : conf.cfp,
-  };
-});
+    return {
+      ...conf,
+      tags,
+      ...metadata,
+      cfp: cfpDurations ? { ...conf.cfp, durations: cfpDurations } : conf.cfp,
+    };
+  });
 
-try {
+  try {
     fs.writeFileSync(MAIN_OUTPUT, JSON.stringify(allConfs));
-} catch (error) {
+  } catch (error) {
     console.error("Error writing to file:", error);
+  }
+
+  const allCFPs = allConfs
+    .filter((conf) => conf.cfp.untilDate)
+    .map((conf) => ({
+      ...conf.cfp,
+      conf: {
+        name: conf.name,
+        date: conf.date,
+        hyperlink: conf.hyperlink,
+        status: conf.status,
+        location: conf.location,
+      },
+    }))
+    .sort((a, b) => a.untilDate - b.untilDate);
+  fs.writeFileSync(CFP_OUTPUT, JSON.stringify(allCFPs));
 }
 
-const allCFPs = allConfs
-  .filter((conf) => conf.cfp.untilDate)
-  .map((conf) => ({
-    ...conf.cfp,
-    conf: {
-      name: conf.name,
-      date: conf.date,
-      hyperlink: conf.hyperlink,
-      status: conf.status,
-      location: conf.location,
-    },
-  }))
-  .sort((a, b) => a.untilDate - b.untilDate);
-fs.writeFileSync(CFP_OUTPUT, JSON.stringify(allCFPs));
+module.exports = { parseRecordings, splitMetadataLine };

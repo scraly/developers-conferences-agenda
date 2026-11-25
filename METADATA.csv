@@ -1,59 +1,59 @@
 event_id,attendees
-2026-02-11-Container Days London,attendees:1000
+2026-02-11-Container Days London,attendees:1000,recording:https://www.youtube.com/playlist?list=PLHhKcdBlprMcXioPQP4QVF7p16kayKUF5
 2025-09-10-devopsdays Vilnius,attendees:700,recording:https://www.youtube.com/watch?v=hPIIY6ndDjU
-2026-02-03-Cloud Native Days France 2026,attendees:2000
-2026-03-23-CloudFest,attendees:10000
+2026-02-03-Cloud Native Days France 2026,attendees:2000,recording:https://cloudnativedays.fr/en/replays
+2026-03-23-CloudFest,attendees:10000,recording:https://www.youtube.com/playlist?list=PLgs39FjgozJUTgRZFGnfUN4ZXKqwAZdio
 2025-07-08-DevBCN,attendees:800,recording:https://www.youtube.com/playlist?list=PLzJFNZtyAbyyfUadLCuSc-8CdHct8NeSa
-2026-06-16-DevBCN,attendees:800
-2026-04-22-Devoxx France 2026,attendees:4600,recording:https://www.youtube.com/@DevoxxFRvideos/playlists
+2026-06-16-DevBCN,attendees:800,recording:https://www.youtube.com/playlist?list=PLzJFNZtyAbyzlUsubhbfVo5t4ntQZPVyc
+2026-04-22-Devoxx France 2026,attendees:4600,recording:[All 2026 videos](https://www.youtube.com/playlist?list=PLTbQvx84FrATeh9140x3_O0hAwGGgEI8q) | [Tools in Action](https://www.youtube.com/playlist?list=PLTbQvx84FrAQDg78BipN4Lem60nqvxgYd) | [Lunch Talks](https://www.youtube.com/playlist?list=PLTbQvx84FrAQX5s7jdS0oY2fJ5f4cUI8P) | [Conférences](https://www.youtube.com/playlist?list=PLTbQvx84FrASmoDK0XQeVVviCarJtN2fm) | [Keynotes](https://www.youtube.com/playlist?list=PLTbQvx84FrARmATtGZ-lPoT0fPV49seWw) | [Deep Dive](https://www.youtube.com/playlist?list=PLTbQvx84FrASQQ2rugdm8IMq1ceA0mWGv)
 2026-06-17-Devoxx Poland,attendees:2700
-2026-05-06-Devoxx UK 2026,attendees:1200
-2026-04-23-Devoxx Greece,attendees:1200
+2026-05-06-Devoxx UK 2026,attendees:1200,recording:https://www.youtube.com/playlist?list=PLKuh52zVrL6kWNECyubL1NQhSwIYD-5sm
+2026-04-23-Devoxx Greece,attendees:1200,recording:https://www.youtube.com/playlist?list=PL9OjpOTcG7gRHH1tUeUEFhih8Zh5pMzst
 2026-07-06-Riviera Dev,attendees:700,recording:https://www.youtube.com/@RivieraDEV/videos
-2026-07-02-Sunny Tech,attendees:550,recording:https://www.youtube.com/@SunnyTechMtp/playlists
-2026-06-11-DevLille 2026,attendees:1500
-2026-05-15-KCD Texas 2026,attendees:250
-2026-05-18-Cloud Native Days Romania,attendees:500
-2026-05-20-KCD Helsinki,attendees:500
-2026-06-11-DevQuest Niort,attendees:500
-2026-03-23-KubeCon + CloudNativeCon Europe 2026,attendees:12000
-2026-05-21-Observability Summit North America,attendees:200
-2026-06-18-KubeCon + CloudNativeCon India 2026,attendees:4000
-2026-07-29-KubeCon + CloudNativeCon Japan 2026,attendees:2000
-2026-09-08-KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China,attendees:1000
+2026-07-02-Sunny Tech,attendees:550,recording:https://www.youtube.com/playlist?list=PLKyiu9tvD998
+2026-06-11-DevLille 2026,attendees:1500,recording:https://www.youtube.com/playlist?list=PLXbqr_rv1t4N3LXk2aP80NQjIbymwpA2S
+2026-05-15-KCD Texas 2026,attendees:250,recording:https://www.youtube.com/playlist?list=PL4UW_RgvzVcgZfg1SBz6_J6L8jchHvoX7
+2026-05-18-Cloud Native Days Romania,attendees:500,recording:https://www.youtube.com/playlist?list=PLKUKvcqF4dvM
+2026-05-20-KCD Helsinki,attendees:500,recording:https://www.youtube.com/playlist?list=PL09s8ZalKQe-wyZFJLBhE-3jaN42g8tcS
+2026-06-11-DevQuest Niort,attendees:500,recording:https://www.youtube.com/playlist?list=PLJyBDG-t928vDdNaIs9xnx-oAI-PTFFvi
+2026-03-23-KubeCon + CloudNativeCon Europe 2026,attendees:12000,recording:[All sessions](https://www.youtube.com/playlist?list=PLj6h78yzYM2MXCOWSN9CqqID6OOvF7wxL) | [Project Lightning Talks](https://www.youtube.com/playlist?list=PLj6h78yzYM2MAvQHOQsuMVA-LRuR7A_d1) | [ASL](https://www.youtube.com/playlist?list=PLj6h78yzYM2NEyjLeopI1TvvXE_tQDK4-)
+2026-05-21-Observability Summit North America,attendees:200,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2MTQGJq9D6BrbGHwJ0gjOXX
+2026-06-18-KubeCon + CloudNativeCon India 2026,attendees:4000,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2PmaTdAzefPqjawTlop1lgG
+2026-07-29-KubeCon + CloudNativeCon Japan 2026,attendees:2000,recording:[All talks](https://www.youtube.com/playlist?list=PLH1zduub3WrE) | [Keynotes](https://www.youtube.com/playlist?list=PLOZCGaPFoeIM)
+2026-09-08-KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China,attendees:1000,recording:[PyTorch Foundation playlist](https://www.youtube.com/playlist?list=PLM5uYJlqsLIw) | [CNCF playlist](https://www.youtube.com/playlist?list=PLGcxfZT6qI-w)
 2026-10-26-KubeCon + CloudNativeCon NA 2026,attendees:10000
-2026-07-08-WeAreDevelopers World Congress 2026 - Europe,attendees:15000
-2026-09-23-WeAreDevelopers World Congress 2026 - North America,attendees:10000
-2026-10-05-Devoxx Belgium,attendees:3000
-2026-10-07-Open Source Summit Europe,attendees:2000
-2026-10-18-All Things Open,attendees:6500
-2026-03-23-All Things AI 2026,attendees:2000
-2026-05-11-Web Summit Vancouver,attendees:20000
-2026-10-01-WAX 2026,attendees:600
+2026-07-08-WeAreDevelopers World Congress 2026 - Europe,attendees:15000,recording:[Session pages with recording links](https://www.wearedevelopers.com/events/world-congress-2026-europe/sessions) | [It's a Great Time to be a Builder](https://www.wearedevelopers.com/videos/100042-it-s-a-great-time-to-be-a-builder-leveraging-ai-for-good)
+2026-09-23-WeAreDevelopers World Congress 2026 - North America,attendees:10000,recording:[Official event archive](https://www.wearedevelopers.com/videos/world-congress-2026-north-america) | [Official YouTube playlist](https://www.youtube.com/playlist?list=PLa4765rkkpw0)
+2026-10-05-Devoxx Belgium,attendees:3000,recording:https://www.youtube.com/playlist?list=PLKlmOVksNGoE
+2026-10-07-Open Source Summit Europe,attendees:2000,recording:https://www.youtube.com/playlist?list=PLeGlGrJwr9P8
+2026-10-18-All Things Open,attendees:6500,recording:[Lightning talks](https://www.youtube.com/playlist?list=PLb5nleaAx8YY) | [Keynote presentations](https://www.youtube.com/playlist?list=PLPla6EtiFEZ0) | [Inclusion and diversity: Women in tech, accessibility, and tech careers](https://www.youtube.com/playlist?list=PLU0gxuhb1cfE) | [Full talks: Open source software, AI, and developer tools](https://www.youtube.com/playlist?list=PLEOzKi40focs) | [Extras: Linux, Kubernetes, Vibe coding, and more](https://www.youtube.com/playlist?list=PL6kQg8bP1Ji4cbR3xHna0AqMVaSpkThwy)
+2026-03-23-All Things AI 2026,attendees:2000,recording:[Deep Thoughts](https://www.youtube.com/playlist?list=PLSSFNrVNTBEP91SCvJRYwHffK8xBwNRd7) | [Keynotes](https://www.youtube.com/playlist?list=PLSSFNrVNTBEO8bWYH00t76gWZuylq7JWu) | [AI in the Enterprise](https://www.youtube.com/playlist?list=PLSSFNrVNTBEONRa58mrz7q6Jz91nl6VUt)
+2026-05-11-Web Summit Vancouver,attendees:20000,recording:[Day One](https://www.youtube.com/watch?v=FrhFEl8yKGE) | [Day Two](https://www.youtube.com/watch?v=d9K-WByzq3w) | [Day Three](https://www.youtube.com/watch?v=8xxRSJOgDfI)
+2026-10-01-WAX 2026,attendees:600,recording:https://youtube.com/playlist?list=PLL2NPnDVUzPI
 2026-11-04-DevCon 2026,attendees:2500
 2026-12-07-Open Source Summit Japan 2026,attendees:900
 2026-12-09-droidcon London,attendees:1000
-2026-06-16-droidcon USA,attendees:900
-2026-06-17-VivaTech,attendees:180000
+2026-06-16-droidcon USA,attendees:900,recording:https://www.youtube.com/playlist?list=PLdaRmR_VzSLU
+2026-06-17-VivaTech,attendees:180000,recording:https://www.youtube.com/playlist?list=PLFku28ckG18IpfNMelGpKxj_PacWgEd9l
 2026-06-18-Tech'Work,attendees:200
-2026-06-18-VoxxedDays Luxembourg,attendees:500
-2026-06-29-Cloud Native Summit 2026,attendees:600
-2026-09-02-Container Days Hamburg 2026,attendees:1500
-2026-06-10-KCD New York 2026,attendees:500
+2026-06-18-VoxxedDays Luxembourg,attendees:500,recording:https://www.youtube.com/playlist?list=PLJgwPhYIR6h4
+2026-06-29-Cloud Native Summit 2026,attendees:600,recording:https://www.youtube.com/playlist?list=PLAA2DJBnZEc8
+2026-09-02-Container Days Hamburg 2026,attendees:1500,recording:https://www.youtube.com/playlist?list=PLJOh_Ljqg4Yg
+2026-06-10-KCD New York 2026,attendees:500,recording:https://www.youtube.com/playlist?list=PLWw7nF2XaPfU
 2026-06-16-Mobilis In Mobile 2026,attendees:200
-2026-04-09-WordCamp Asia 2026,attendees:3000
+2026-04-09-WordCamp Asia 2026,attendees:3000,recording:https://www.youtube.com/playlist?list=PL1pJFUVKQ7ER52veMr5wJiv7xiLRMpx1l
 2026-02-24-The Linux Foundation Member Summit 2026,attendees:330
-2026-09-04-DevOpsDays Graz 2026,attendees:200
+2026-09-04-DevOpsDays Graz 2026,attendees:200,recording:[Keynote — April Yoho](https://www.youtube.com/watch?v=E-scR3TDMi8)
 2026-02-24-Winter Data & AI Meetup 2026,attendees:1000
-2026-03-02-Talent Arena,attendees:20000
-2026-06-02-Agile Tour Rennes 2026,attendees:300
+2026-03-02-Talent Arena,attendees:20000,recording:https://www.youtube.com/playlist?list=PLVD-pHmVZF2YfnlJ0rBjPdLHKfxCp9a_B
+2026-06-02-Agile Tour Rennes 2026,attendees:300,recording:https://www.youtube.com/playlist?list=PLCQxouXApMcHtvAKoDP1R6XxLOpOpSF0h
 2026-05-06-Security BSides Luxembourg,attendees:300
 2026-09-19-WhatTheStack,attendees:800
-2026-05-14-GeeCon,attendees:800
+2026-05-14-GeeCon,attendees:800,recording:[Baruch Sadogursky](https://www.youtube.com/watch?v=Wgv5D_rcZ18) | [Tomer Gabel](https://www.youtube.com/watch?v=eVTTuwuozf0)
 2026-09-25-Confitura 2026,attendees:1300
 2026-05-28-DevCon 27 : I.A. & Vibe Coding,attendees:100
 2026-11-03-The AI Conf,attendees:800
-2026-05-22-MadVue,attendees:200
+2026-05-22-MadVue,attendees:200,recording:https://www.youtube.com/playlist?list=PL4bHd5WrBTFg6w7wU3GvinYlP6IcR0yv1
 2026-06-09-C:\aen\Tech,attendees:200
 2026-02-28-AI Beyond Apps: Lucknow 2026,attendees:200
 2026-02-25-Odoo Tech Evening - #4 Edition,attendees:50
@@ -66,21 +66,21 @@ event_id,attendees
 2026-06-05-TechReady,attendees:450
 2026-06-27-Asynconf,attendees:300
 2026-03-05-RootedCon,attendees:500
-2026-08-28-State of the Map,attendees:600
+2026-08-28-State of the Map,attendees:600,recording:[PeerTube archive](https://peertube.openstreetmap.fr/c/sotm_2026/videos) | [Programme and recordings](https://2026.stateofthemap.org/programme/)
 2026-03-23-KubeAuto Day Amsterdam,attendees:400
-2026-09-24-PlatformCon Paris,attendees:600
+2026-09-24-PlatformCon Paris,attendees:600,recording:[Opening keynote](https://www.youtube.com/watch?v=oz_pt8JlJiY)
 2026-03-13-Infra structure Basse,attendees:50
 2026-10-30-Cloud Nord 2026,attendees:350
 2026-12-09-DevOps REX,attendees:700
 2026-10-12-Dev With AI,attendees:400
 2026-12-10-KCD Provence,attendees:600
-2026-03-24-La Duck Conf,attendees:500
+2026-03-24-La Duck Conf,attendees:500,recording:https://www.youtube.com/playlist?list=PLXlbmbYadKH4bFiVhW9-VEG6pC7rOyBic
 2026-11-13-DevOpsDays Barcelona,attendees:200
 2026-11-19-DevFest Toulouse 2026,attendees:1200
 2026-10-26-Cloud Native Days Norway,attendees:500
-2026-05-12-AI SRE Summit 2026,attendees:2000
+2026-05-12-AI SRE Summit 2026,attendees:2000,recording:https://www.youtube.com/playlist?list=PLKOn7Ks4S01kOZyTp7DyF-gcNmsWnZZR6
 2026-11-19-KCD Porto 2026 | Collab with DevOps Days Portugal,attendees:500
-2026-05-11-API Conference London 2026,attendees:500
+2026-05-11-API Conference London 2026,attendees:500,recording:https://www.youtube.com/playlist?list=PLn-I3ID9C6aqSsll_n5JmDJOhkl7OJgJ8
 2026-09-28-API Conference NYC 2026,attendees:500
 2026-09-28-BASTA! Fall 2026,attendees:500
 2026-09-28-DevOpsCon NYC 2026,attendees:500
@@ -92,38 +92,38 @@ event_id,attendees
 2026-09-28-International JavaScript Conference NYC 2026,attendees:500
 2026-10-26-International JavaScript Conference Munich 2026,attendees:500
 2026-10-26-International PHP Conference Munich 2026,attendees:500
-2026-09-17-dotAI,attendees:999
-2026-09-18-dotJS,attendees:1000
+2026-09-17-dotAI,attendees:999,recording:https://www.youtube.com/playlist?list=PLRAlryTpyNiU
+2026-09-18-dotJS,attendees:1000,recording:https://www.youtube.com/playlist?list=PLAW8Dc4Z3CGI
 2026-12-04-DevFest Dijon 2026,attendees:600
 2026-09-18-WordCamp Bretagne,attendees:600
-2026-10-28-GitHub Universe 2026,attendees:3400
-2026-09-29-KCD Sofia 2026,attendees:2000
-2026-06-11-Cloud Native & Open Source AI Conference,attendees:120
+2026-10-28-GitHub Universe 2026,attendees:3400,recording:https://www.youtube.com/playlist?list=PLENrlACZ7mnU
+2026-09-29-KCD Sofia 2026,attendees:2000,recording:https://www.youtube.com/playlist?list=PLWrYttWJ4hT4
+2026-06-11-Cloud Native & Open Source AI Conference,attendees:120,recording:[Peter Bhabra](https://www.youtube.com/watch?v=5jc0s0nnhZA) | [Maebh Booth](https://www.youtube.com/watch?v=KuZAYSCoLPE)
 2026-12-04-DevFest Lyon 2026,attendees:400
-2026-08-11-GopherCon UK,attendees:350
-2026-04-16-MiXiT 2026,attendees:750
+2026-08-11-GopherCon UK,attendees:350,recording:https://www.youtube.com/playlist?list=PLGZGLmEvGK8I
+2026-04-16-MiXiT 2026,attendees:750,recording:[Official media archive](https://mixitconf.org/en/2026/media) | [YouTube playlist](https://www.youtube.com/playlist?list=PLUmDV88wF1rykTxAAYfzLqtYhX-6YMH92)
 2026-10-28-Mozilla Festival 2026,attendees:2500
 2026-10-06-FrontKon 2026,attendees:900
 2026-11-03-Humanoid Robots Summit North America 2026,attendees:500
 2026-09-09-European Humanoid Robots Summit 2026,attendees:1000
 2027-04-07-Devoxx France 2027,attendees:4500
-2026-10-22-Cloud Native Days Poland 2026,200
+2026-10-22-Cloud Native Days Poland 2026,attendees:200
 2026-11-27-DevFest Belgium,attendees:150
 2026-08-27-SoCraTes 2026,attendees:250
 2026-06-25-Agile Tour Toulouse 2026,attendees:350
 2026-05-19-Green Code Challenge 2026,attendees:120
 2026-06-09-France API 2026,attendees:600
 2026-07-22-DevRelCon New York 2026,attendees:300
-2026-10-29-BDX I/O 2026,attendees:1000
-2026-09-09-EuroBSDCon,attendees:300
+2026-10-29-BDX I/O 2026,attendees:1000,recording:[Edited talks](https://www.youtube.com/playlist?list=PLN03NIvP8Mp8) | [Grand Amphi — Jour 1](https://www.youtube.com/watch?v=S8sMNXbT60s) | [Grand Amphi — Jour 2](https://www.youtube.com/watch?v=jqrdU4sO490) | [Amphi A — Jour 1](https://www.youtube.com/watch?v=69G6-OL93Tk) | [Amphi A — Jour 2](https://www.youtube.com/watch?v=1PCQbp3elsk) | [Amphi B — Jour 1](https://www.youtube.com/watch?v=O4sTDTsV400) | [Amphi D — Jour 2](https://www.youtube.com/watch?v=FCSm9bVgO7U) | [Amphi E — Jour 1](https://www.youtube.com/watch?v=O-dtrVUj6OY)
+2026-09-09-EuroBSDCon,attendees:300,recording:[Day 1 — Room D002](https://www.youtube.com/watch?v=HvRMsLWcBdI) | [Day 2 — Room D002](https://www.youtube.com/watch?v=NmdWRQYrJrA) | [Day 1 — Room D003](https://www.youtube.com/watch?v=93Fede4hPZI) | [Day 2 — Room D003](https://www.youtube.com/watch?v=yPoU4QEv_u8) | [Day 1 — Room D007](https://www.youtube.com/watch?v=t_1x70mciQw) | [Day 2 — Room D007](https://www.youtube.com/watch?v=AcOPLWc-_UE)
 2026-11-19-OVHcloud Summit,attendees:1500
 2026-10-10-Devfest Milano 2026,attendees:300
 2026-12-02-Cloud Native AI Summit Europe,attendees:8000
-2026-10-13-BazelCon,attendees:500
+2026-10-13-BazelCon,attendees:500,recording:https://www.youtube.com/playlist?list=PLH0fMKiAG8uQ
 2026-06-12-ETHGlobal New York Hackathon,attendees:600
 2026-07-24-ETHGlobal Lisbon Hackathon,attendees:600
-2026-06-08-ETHConf,attendees:5000
-2026-10-29-Pycon FR,attendees:500
+2026-06-08-ETHConf,attendees:5000,recording:[Day 1 — Monday, June 8, 2026](https://www.youtube.com/playlist?list=PLOviW1W1qYVs) | [Day 2 — Tuesday, June 9, 2026](https://www.youtube.com/playlist?list=PLcKj0M-gTwNg)
+2026-10-29-Pycon FR,attendees:500,recording:[MARI/SUGGAR room](https://indymotion.fr/w/j8zbUvHKhmKxfr2CjhKKQ8) | [BASANDERE room](https://indymotion.fr/w/8uhc4FzdihE81WLLG3iQPy) | [PATUEK room](https://indymotion.fr/w/tjuZXqYeXWU7p57UyE1pZ6) | [LANG5 room](https://indymotion.fr/w/rGHGhGpSg6H4dMV3fYLerv)
 2026-10-26-Agile Tour Montpellier,attendees:300
 2026-09-14-Code Europe,attendees:1800
 2027-06-03-Cloud Native Days France 2027,attendees:2500
@@ -132,21 +132,21 @@ event_id,attendees
 2026-10-23-DevFest Troy, NY 2026,attendees:400
 2026-07-02-Are You Measuring the Right Things? SLOs, Toil, and the Metrics That Matter,attendees:100
 2026-07-25-Pragma Lisbon 2026,attendees:500
-2026-07-22-bitcoin++ consensus edition,attendees:200
-2026-10-01-bitcoin++ payments edition,attendees:300
-2026-11-05-bitcoin++ privacy edition,attendees:300
+2026-07-22-bitcoin++ consensus edition,attendees:200,recording:[Day 1](https://www.youtube.com/watch?v=sdeQBqvEzWU) | [Day 2](https://www.youtube.com/watch?v=Iw0-pcbkn9M) | [Day 3](https://www.youtube.com/watch?v=yu-Oskxucpw)
+2026-10-01-bitcoin++ payments edition,attendees:300,recording:[Day 1](https://www.youtube.com/watch?v=D8KDVxGvZFc) | [Day 2](https://www.youtube.com/watch?v=rl2w1W7JXHk)
+2026-11-05-bitcoin++ privacy edition,attendees:300,recording:[Day 1](https://www.youtube.com/watch?v=3u-HGu3ytjo) | [Day 2](https://www.youtube.com/watch?v=PYllddbzwEQ)
 2027-01-14-SnowCamp 2027,attendees:700
 2026-12-10-DevCon 28 : sécurité | post-quantique | hacking édition 2027,attendees:100
 2026-11-16-VibeKode Berlin 2026,attendees:499
 2026-10-05-VibeKode Utrecht 2026,attendees:500
-2026-09-03-Commit Your Code Conference,attendees:1000
+2026-09-03-Commit Your Code Conference,attendees:1000,recording:[Day 1 — Room 2A](https://www.youtube.com/watch?v=hZVO6bVXEEM) | [Day 1 — Room 2B](https://www.youtube.com/watch?v=KPCYYwl_JkA) | [Day 1 — Room 2C](https://www.youtube.com/watch?v=njuoddXJv0w) | [Day 1 — Room 2D](https://www.youtube.com/watch?v=P-e0DXCewIQ) | [Day 1 — Room 2E](https://www.youtube.com/watch?v=lLvSCKp6c_s) | [Day 2 — Room 2A](https://www.youtube.com/watch?v=nwg3gyO-IHs) | [Day 2 — Room 2B](https://www.youtube.com/watch?v=mKBjec9FoI0) | [Day 2 — Room 2C](https://www.youtube.com/watch?v=gVHQSW9KPhA) | [Day 2 — Room 2D](https://www.youtube.com/watch?v=pyeVzngYqB8) | [Day 2 — Room 2E](https://www.youtube.com/watch?v=e_1X0pNGBMw)
 2026-08-22-Containers Day Dominican Republic,attendees:600
-2026-09-26-IndiaFOSS 2026,attendees:5000
+2026-09-26-IndiaFOSS 2026,attendees:5000,recording:[Day 1 — Hall 1; General Track; morning](https://www.youtube.com/watch?v=2KjUZ5HFSeI) | [Day 1 — Hall 1; General Track; afternoon](https://www.youtube.com/watch?v=16jUf3fLtsw) | [Day 1 — Hall 2; General Track; morning](https://www.youtube.com/watch?v=G4s4RGAPvLY) | [Day 1 — Hall 2; General Track; afternoon](https://www.youtube.com/watch?v=8b-nRIjQEeY) | [Day 1 — Open Hardware Devroom](https://www.youtube.com/watch?v=GOL_18fGMUI) | [Day 1 — Compilers; Programming Languages and Systems Devroom](https://www.youtube.com/watch?v=rb1ZALRGFjw) | [Day 1 — Documentation & Technical Writing Devroom](https://www.youtube.com/watch?v=KNKAi9dfZxA) | [Day 1 — Android Open Source Project (AOSP) Devroom](https://www.youtube.com/watch?v=te8gj_1vIDY) | [Day 2 — Hall 1; General Track; morning](https://www.youtube.com/watch?v=bXMjp1JOzPQ) | [Day 2 — Hall 1; General Track; afternoon](https://www.youtube.com/watch?v=boNCSaCb138) | [Day 2 — Hall 2; General Track; morning](https://www.youtube.com/watch?v=WCgvezvln2E) | [Day 2 — Hall 2; General Track; afternoon](https://www.youtube.com/watch?v=7tRJMznIMUA) | [Day 2 — Security Devroom](https://www.youtube.com/watch?v=OJHBVJ4kzBw) | [Day 2 — Cloud & DevOps Devroom](https://www.youtube.com/watch?v=7ChxYYjlvpc) | [Day 2 — Open Design Devroom](https://www.youtube.com/watch?v=2nAeRMiQU_I) | [Day 2 — Real Time Operating Systems (RTOS) Devroom](https://www.youtube.com/watch?v=p_Bc-EZCr1Q)
 2026-10-02-Compiler tech IICT 2026,attendees:380
 2026-10-10-unKonf 2026,attendees:80
-2026-11-11-J-Fall 2026,1920
-2026-09-28-ServerlessDays Milano 2026,200
-2026-08-22-Cloud Native Summit Kerala 2026,attendees:800
+2026-11-11-J-Fall 2026,attendees:1920
+2026-09-28-ServerlessDays Milano 2026,attendees:200
+2026-08-22-Cloud Native Summit Kerala 2026,attendees:800,recording:https://www.youtube.com/playlist?list=PLYI63xG1gn8U
 2027-04-25-STAREAST 2027,attendees:1000
 2027-06-06-AI Con USA 2027,attendees:600
 2026-11-16-API Conference Berlin 2026,attendees:500
@@ -156,14 +156,14 @@ event_id,attendees
 2026-08-27-Cost Alongside Quality: Proving the ROI of Your Coding Agents and AI Apps,attendees:200
 2027-04-22-ELC Conference,attendees:500
 2027-03-15-KubeCon + CloudNativeCon Europe 2027,attendees:13000
-2026-11-06-DevFest Montréal,attendees:300
+2026-11-06-DevFest Montréal,attendees:300,recording:https://www.youtube.com/playlist?list=PLXCrBqYJblI4
 2027-03-02-JavaLand,attendees:1500
 2026-11-29-KubeAuto Day Las Vegas,attendees:250
 2026-11-09-KubeAuto Day North America,attendees:300
 2026-10-21-KubeAuto Day Tel Aviv,attendees:180
 2026-10-15-KubeAuto Day Berlin,attendees:180
 2026-10-08-KubeAuto Day Paris,attendees:180
-2026-11-13-GreHack,attendees:300
+2026-11-13-GreHack,attendees:300,recording:https://www.youtube.com/watch?v=h4m3k9KZVTk
 2027-06-02-SSTIC,attendees:500
 2026-11-20-Odoo Hackathon #6,attendees:72
 2026-10-29-Hackfest,attendees:500
@@ -177,9 +177,10 @@ event_id,attendees
 2026-10-14-Odoo Tech Evening #5 - Odoo 20,attendees:80
 2026-10-20-PostgreSQL Conference Europe 2026,attendees:500
 2026-11-12-Odoo Mini Hackathon #2 - Luxembourg,attendees:76
-2026-11-16-HalfStack Vienna,attendees:200
+2026-11-16-HalfStack Vienna,attendees:200,recording:https://www.youtube.com/playlist?list=PLP2xIk6wDEKg
 2027-02-05-HalfStack Phoenix,attendees:160
 2026-10-08-How to turn agent traces and evals into EU AI Act evidence,attendees:1000
+2026-10-20-The Matrix Conference 2026,attendees:300,recording:[Official YouTube playlist](https://www.youtube.com/playlist?list=PLFDUAtPqCX98) | [CCC English archive](https://app.media.ccc.de/c/matrix-conf-2026/matrix-conf-2026-eng)
 2026-10-20-Matrix Conference 2026,attendees:300
 2027-03-23-Devfest Strasbourg,attendees:1000
 2026-11-17-LLMDay + Data TLV,attendees:200
@@ -197,7 +198,7 @@ event_id,attendees
 2026-11-20-DevTalks 2026: Where AI Takes Us Next,attendees:1000
 2025-02-04-State Of Open Con 2025,recording:https://www.youtube.com/playlist?list=PL0U2cL1JGPZe8TIJpkkkECHnnM5KYAM2D
 2025-05-14-PyConUS 2025,recording:https://www.youtube.com/playlist?list=PL2Uw4_HvXqvb98mQjN0-rYQjdDxJ_hcrs
-2025-06-03-AI Engineer World's Fair,recording:https://www.youtube.com/playlist?list=PLcfpQ4tk2k0W3ORTR-Cr4Ppw6UrN8kfMh
+2025-06-03-AI Engineer World's Fair,recording:[Complete playlist](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0W3ORTR-Cr4Ppw6UrN8kfMh) | [Online track](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0Vu8ZKg_5TzN87mRhRJt71Y) | [Full workshops](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0XfT3YLdjLXKHAaBJ9MX6re)
 2025-06-09-InfoQ Dev Summit Boston,recording:https://www.youtube.com/playlist?list=PLndbWGuLoHebIpeLhavitZyOalsVkraqn
 2025-06-10-NVIDIA GTC Paris,recording:https://www.nvidia.com/en-us/on-demand/playlist/playList-0dc0b10a-eb85-47fe-a6b2-e5a7757d5480/
 2025-06-23-Open Source Summit North America,recording:https://www.youtube.com/playlist?list=PLbzoR-pLrL6oVKdG6lLVXeCYVbt_NnS4c
@@ -281,7 +282,7 @@ event_id,attendees
 2025-03-25-SRECon Americas,recording:https://www.youtube.com/playlist?list=PLbRoZ5Rrl5letLDlvWuS1r8CZokFl-Is6
 2025-03-26-Rustikon 2025,recording:https://www.youtube.com/playlist?list=PL8NC5lCgGs6MnMLJvhFH2jLa8bLYwCzmI
 2025-03-26-VoxxedDays Bucharest,recording:https://www.youtube.com/playlist?list=PLRsbF2sD7JVpD_q8SnK8MKWMcTEuPWt2D
-2025-03-26-SeleniumConf & AppiumConf Valencia 2025,recording:https://www.youtube.com/playlist?list=PLRdSclUtJDYV2R92TLbmwxws6clruuTjH
+2025-03-26-SeleniumConf & AppiumConf Valencia 2025,recording:[All talks](https://www.youtube.com/playlist?list=PLRdSclUtJDYV2R92TLbmwxws6clruuTjH) | [Day 1 — Morning — Events Room](https://www.youtube.com/watch?v=NgYxbKdBjow) | [Day 1 — Morning — Ocean Room](https://www.youtube.com/watch?v=NpgcTER_III) | [Day 1 — Afternoon — Ocean Room](https://www.youtube.com/watch?v=Iau332G3kQk)
 2025-03-27-SREday London 2025 Q1,recording:https://www.youtube.com/playlist?list=PL2CAJ_jforK6Pp2BUGfwKKlBCHRWnsmgk
 2025-03-27-Wasm I/O 2025,recording:https://www.youtube.com/playlist?list=PLP3xGl7Eb-4OtFH1tcQm6u7_LRED7-3rg
 2025-03-27-Scalar 2025,recording:https://www.youtube.com/playlist?list=PL8NC5lCgGs6NC1fIkwbtJudHK1nbd1KJm
@@ -378,7 +379,7 @@ event_id,attendees
 2025-05-26-Techorama 2025 Belgium,recording:https://www.youtube.com/playlist?list=PLYbndKtlVLUtTgfIuAZ9hFxyqetzhjY7I
 2025-05-27-JNation,recording:https://www.youtube.com/playlist?list=PLXADOFXCGUmWIIeH0QjsE4c51M37zoU4A
 2025-05-27-Craft Conference 2025,recording:https://www.youtube.com/playlist?list=PLcTa2e7_ENN-IoAnI0ra3pPAp1H2Q1pM7
-2025-05-27-OpenSIPS Summit 2025,recording:https://www.youtube.com/playlist?list=PLMMZA6ketvKpAodUmfhwUsHfderyswZjo
+2025-05-27-OpenSIPS Summit 2025,recording:[All talks](https://www.youtube.com/playlist?list=PLMMZA6ketvKpAodUmfhwUsHfderyswZjo) | [Day 1](https://www.youtube.com/watch?v=BimugFuwwTk) | [Day 2](https://www.youtube.com/watch?v=lN96vOjhhhI) | [Day 3 — Interactive Demos](https://www.youtube.com/watch?v=ur-i2DM_sUQ)
 2025-05-28-App.js 2025,recording:https://www.youtube.com/playlist?list=PLSk21zn8fFZBD3Kxg8Rw_n4LPIuA6TGHd
 2025-05-28-PyCon Italia,recording:https://www.youtube.com/playlist?list=PLFxkG856NgEFXg8f-GPhxa3tk8ls4CJBX
 2025-05-29-OWASP Global AppSec EU 2025,recording:https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc
@@ -412,7 +413,7 @@ event_id,attendees
 2025-06-16-GopherCon Europe 2025: Summer Edition in Berlin,recording:https://www.youtube.com/playlist?list=PLtoVuM73AmsK3DSr-DxSsUkuz0-Mf3bQ7
 2025-06-16-Codegarden 2025,recording:https://www.youtube.com/playlist?list=PLG_nqaT-rbpzSowTNa_pKvFh--C0w0VST
 2025-06-18-OpenSSF Community Day Japan,recording:https://www.youtube.com/playlist?list=PLVl2hFL_zAh8OOln-mECYL987v82zzHUm
-2025-06-18-Devopsdays Amsterdam,recording:https://www.youtube.com/playlist?list=PLl4lJ8KVQMajjfqJHNfJahyx2jI__tEvA
+2025-06-18-Devopsdays Amsterdam,recording:[All talks](https://www.youtube.com/playlist?list=PLl4lJ8KVQMajjfqJHNfJahyx2jI__tEvA) | [Day 1 — second part](https://www.youtube.com/watch?v=UTOziEfIFek) | [Day 2](https://www.youtube.com/watch?v=WkhTp2JH8JQ)
 2025-06-18-SQLBits 2025 - General Sessions,recording:https://www.youtube.com/playlist?list=PLVr08O0wdS3He7hvW4kFxS836TzYnsotB
 2025-06-19-Conf42.com Quantum Computing 2024,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrDLJsZ2QLy2_0A5YjP6CaRq
 2025-06-19-Brighton Ruby 2025,recording:https://www.youtube.com/playlist?list=PLOmhTrr2yozA
@@ -457,7 +458,7 @@ event_id,attendees
 2025-07-25-PyCon Russia 2025,recording:https://www.youtube.com/playlist?list=PLRdS-n5seLRqjK3s1VNjPC_T489KIVh3H
 2025-07-25-CommunityOverCode Asia 2025,recording:https://www.youtube.com/playlist?list=PLU2OcwpQkYCzD-UNXpN8FtG8DiZ4Q-NsO
 2025-07-26-PyOhio 2025,recording:https://www.youtube.com/playlist?list=PL2k6bbM_wgjupexJHxqS624Qm_QZTgURD
-2025-07-29-Laracon US 2025,recording:https://www.youtube.com/playlist?list=PLcjapmjyX17jIEJKGzK7HbhIa65FucWWa
+2025-07-29-Laracon US 2025,recording:[All talks](https://www.youtube.com/playlist?list=PLcjapmjyX17jIEJKGzK7HbhIa65FucWWa) | [Denver — Day 1 Live Stream](https://www.youtube.com/watch?v=_eMBogMlShs) | [Denver — Day 2 Live Stream](https://www.youtube.com/watch?v=GM0glP77tsA)
 2025-08-02-Black Hat USA 2025,recording:https://www.youtube.com/playlist?list=PLH15HpR5qRsXtV3t9TlkRZBmIfcIC6THE
 2025-08-04-OpenSSF Community Day India,recording:https://www.youtube.com/playlist?list=PLVl2hFL_zAh-vjNCHR-Ru0mleuN3vvEuK
 2025-08-05-The 2nd Reinforcement Learning Conference (RLC),recording:https://www.youtube.com/playlist?list=PLEA9Mnr-L18k1CHlnsjkVR5jlkG24p5cD
@@ -487,7 +488,7 @@ event_id,attendees
 2025-08-28-AI_dev: Open Source GenAI & ML Summit Europe,recording:https://www.youtube.com/playlist?list=PLbzoR-pLrL6oAsF17rJsdZ0NiKnb2-xD1
 2025-08-28-Linux Security Summit Europe,recording:https://www.youtube.com/playlist?list=PLbzoR-pLrL6rSxIlgQx8OYw74Az63TpaB
 2025-08-29-PyCon Greece,recording:https://www.youtube.com/playlist?list=PLYCMf59B4mRgCRApBNdLPGf_484ENfk3a
-2025-08-31-Flutter & Friends,recording:https://www.youtube.com/watch?v=H7mzY_E9MKs
+2025-08-31-Flutter & Friends,recording:[Studio stage stream](https://www.youtube.com/watch?v=H7mzY_E9MKs) | [Main stage stream](https://www.youtube.com/watch?v=Z9jPRD5JcEM)
 2025-09-01-PyData Berlin 2025,recording:https://www.youtube.com/playlist?list=PLGVZCDnMOq0qKhzuzHGHiSAJRwKnlCIeS
 2025-09-03-seL4 Summit,recording:https://www.youtube.com/playlist?list=PLtoQeavghzr3jKkKOQxDagndQboRfU_I4
 2025-09-04-Conf42.com Platform Engineering 2025,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrBMHyARfX-JY_7WHoF5qmDh
@@ -516,12 +517,12 @@ event_id,attendees
 2025-09-18-EuRuKo 2025,recording:https://www.youtube.com/playlist?list=PLZW-kXE0oRynVG530eItZB_-zqXL8LZPc
 2025-09-19-Fyne Conf 2025,recording:https://www.youtube.com/playlist?list=PLjpijTpXl1_r6YWCmFVj0rnAQ2GtRjiSV
 2025-09-19-Confitura 2025,recording:https://www.youtube.com/playlist?list=PLVbNBx5Phg3Bv_FGZoPM-Pj3WeWqBPO9V
-2025-09-19-IndiaFOSS 2025,recording:https://www.youtube.com/playlist?list=PLOGilj110olxij6kbNUlRdd3Ez8bWczny
-2025-09-19-PyCon UK 2025,recording:https://2025.pyconuk.org/
+2025-09-19-IndiaFOSS 2025,recording:[All talks](https://www.youtube.com/playlist?list=PLOGilj110olxij6kbNUlRdd3Ez8bWczny) | [AOSP Devroom](https://www.youtube.com/playlist?list=PLOGilj110olwA2QSne1jYdWTPJY6OLR1T) | [Open Hardware](https://www.youtube.com/playlist?list=PLOGilj110olzIQ-Z_jM_2eboVqqBPWPhT) | [FOSS in Science Devroom](https://www.youtube.com/playlist?list=PLOGilj110oly_VPJ7pz0avjyxiLjiTJTP) | [Open Data Devroom](https://www.youtube.com/playlist?list=PLOGilj110olwUKxQjMjZoOwFwvXVLkpyi) | [Compilers; Programming Languages and Systems Devroom](https://www.youtube.com/playlist?list=PLOGilj110olxqaq0DCkP-Hq2PtDxJX2we) | [Geopolitics and Policy in FOSS](https://www.youtube.com/playlist?list=PLOGilj110olwcLvOIxPu3B3CTlONd0nYD) | [Day 1 — Main Track Audi 1](https://www.youtube.com/watch?v=_wbqbblIexY) | [Day 1 — Main Track Audi 2](https://www.youtube.com/watch?v=iVYvEbxr_HM) | [Day 2 — Main Track Audi 1](https://www.youtube.com/watch?v=AUrPdOZNsX8) | [Day 2 — Main Track Audi 2](https://www.youtube.com/watch?v=0_TExIe4rNw)
+2025-09-19-PyCon UK 2025,recording:[Friday Main Stage](https://www.youtube.com/playlist?list=PLrkpavSsBQZ6bnFa93KWXtMJoBA-a4_f_) | [Friday Space 2](https://www.youtube.com/playlist?list=PLrkpavSsBQZ41YpNF6EUDUB5wAwwfbKPV) | [Saturday Main Stage](https://www.youtube.com/playlist?list=PLrkpavSsBQZ62noXYqRezmjdE7_CCbT9_) | [Saturday Space 2](https://www.youtube.com/playlist?list=PLrkpavSsBQZ6tGVw3Ic4ovat0k9wUJSCs) | [Sunday Main Stage](https://www.youtube.com/playlist?list=PLrkpavSsBQZ6MjNYXtWm_YFEcrLkCxN2w) | [Sunday Space 2](https://www.youtube.com/playlist?list=PLrkpavSsBQZ5eIZIu7vl8UY276vyEyXXr)
 2025-09-22-Kernel Recipes,recording:https://www.youtube.com/playlist?list=PLQ8PmP_dnN7JIsjWbFPeRdze4MQHHkIm8
 2025-09-23-DevOpsDays London 2025,recording:https://www.youtube.com/playlist?list=PLuEbc43fHqLhPwles4En070_CJ-aCLqdf
 2025-09-23-Enterprise Technology Leadership Summit US 2025,recording:https://www.youtube.com/playlist?list=PLvk9Yh_MWYuyVkiBbGjgWB3jjmxeJxwUE
-2025-09-23-Nerdearla 2025,recording:https://www.youtube.com/playlist?list=PLTTdzfRyGY1vG5T43-_QCjTLzpRTgrBr-
+2025-09-23-Nerdearla 2025,recording:[All talks](https://www.youtube.com/playlist?list=PLTTdzfRyGY1vG5T43-_QCjTLzpRTgrBr-) | [Jueves 25 — Konex en Vivo](https://www.youtube.com/watch?v=iUZKNXJOMvQ) | [Viernes 26 — Konex en Vivo](https://www.youtube.com/watch?v=JHviM4CaYZA) | [Sabado 27 — Konex en Vivo](https://www.youtube.com/watch?v=Gh7DNUjx154)
 2025-09-24-Fluttercon Europe 2025,recording:https://www.youtube.com/playlist?list=PL9Pfzam3fFdd9B9H_VO90jyJ0OZKXHaGk
 2025-09-24-droidcon Berlin 2025,recording:https://www.youtube.com/playlist?list=PL9Pfzam3fFdfpxt3ehau9WgCH36QXnY1_
 2025-09-24-PyData Amsterdam 2025,recording:https://www.youtube.com/playlist?list=PLGVZCDnMOq0qFokF2chnzTq4VtIcFXG5P
@@ -543,7 +544,7 @@ event_id,attendees
 2025-10-03-SREday San Francisco 2025 Q4,recording:https://www.youtube.com/playlist?list=PL2CAJ_jforK7R1X7jsIgbqE3VY_qRtBmK
 2025-10-03-Texas Linux Festival 2025,recording:https://www.youtube.com/playlist?list=PLUstGj9Muzi7-JWFBZ-Pao0rGhuyE4OfA
 2025-10-03-Bizz Summit ES 2025,recording:https://www.youtube.com/playlist?list=PLcykIfos_qYA
-2025-10-05-GoLab,recording:https://www.youtube.com/playlist?list=PLGN1AjiJJv0kaJ_mUZteyYldvvFcKaqDa
+2025-10-05-GoLab,recording:[Day 2 (06/10/2025)](https://www.youtube.com/playlist?list=PLGN1AjiJJv0kaJ_mUZteyYldvvFcKaqDa) | [Day 3 (07/10/2025)](https://www.youtube.com/playlist?list=PLGN1AjiJJv0m_t2TmxrfgY1029OXVAkRS)
 2025-10-06-Swift Connection 2025,recording:https://www.youtube.com/playlist?list=PLZsRQnRG-mlIkHsjeax_cRq6kAclNrWBF
 2025-10-06-Devoxx Belgium,recording:https://www.youtube.com/playlist?list=PLRsbF2sD7JVrgzHNkX4wUHmoGICMaE446
 2025-10-07-Cloud Foundry Day Europe 2025,recording:https://www.youtube.com/playlist?list=PLhuMOCWn4P9iA8dI2MF97SSzaMDOuGFJN
@@ -553,6 +554,7 @@ event_id,attendees
 2025-10-07-SREcon25 Europe/Middle East/Africa,recording:https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lf4XYxPv8hELkk9fnHv90pG
 2025-10-08-KubeVirt Summit Virtual,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2PHiIU_qr729UCWibWvtcQB
 2025-10-08-Wagtail Space 2025,recording:https://www.youtube.com/playlist?list=PLfwZ-fob20cPI9_fnG_ULYIdOS5TKP1IZ
+2025-10-08-PyCon Africa 2025,recording:https://www.youtube.com/playlist?list=PLWKxdywpc21o
 2025-10-08-PyCon Africa 2025 ,recording:https://www.youtube.com/playlist?list=PLWKxdywpc21o
 2025-10-09-KCD Warsaw 2025,recording:https://www.youtube.com/playlist?list=PLuzIBqtOrw_qO84XNq5qTIykETV872V6W
 2025-10-09-Forum PHP 2025,recording:https://www.youtube.com/playlist?list=PL9zDdgiGjkIdQwiNb-1evZqGmDfmOwIHv
@@ -591,7 +593,7 @@ event_id,attendees
 2025-11-01-DevFest Montreal,recording:https://www.youtube.com/playlist?list=PLUWS5xxsjcINr3JIt-jcVRfr2dg6XK26h
 2025-11-01-DevOpsDays Istanbul 2025,recording:https://www.youtube.com/playlist?list=PL0bbmBpZHIzntLSdsr7DB_I79m8WSFHB1
 2025-11-02-AWS Community Day Hong Kong 2025,recording:https://www.youtube.com/playlist?list=PLiBz-ZUoqF2Yl5V8q-VfXoPxVgFrPpr2e
-2025-11-02-RustLab 2025,recording:https://www.youtube.com/channel/UCBdn2g49kLEyjlssavwbxdQ/playlists
+2025-11-02-RustLab 2025,recording:[Day 2 (03/11/2025)](https://www.youtube.com/playlist?list=PLkgYzo_ZZ7KDaPiB8FPR4ng38KjtrhbrB) | [Day 3 (04/11/2025)](https://www.youtube.com/playlist?list=PLkgYzo_ZZ7KB6dT9hZLzZAUoyFrOKpsyd)
 2025-11-03-Ray Summit 2025,recording:https://www.youtube.com/playlist?list=PLzTswPQNepXllnU0C36WtkC0dqkAoDulh
 2025-11-03-JupyterCon 2025,recording:https://www.youtube.com/playlist?list=PL_1BH3ug7n1LbTQg67bUAK5qEBB3LVgbT
 2025-11-03-R/Pharma 2025,recording:https://www.youtube.com/playlist?list=PLMtxz1fUYA5DUAq-nZ9Aj36VFqNCK56T8
@@ -609,7 +611,7 @@ event_id,attendees
 2025-11-06-NODES 2025,recording:https://www.youtube.com/playlist?list=PL9Hl4pk2FsvWQ9C12LYy_C2ngSvv847GI
 2025-11-06-J-Fall,recording:https://www.youtube.com/playlist?list=PLpQuPreMkT6BvqaKkamQ6V5P23xopee01
 2025-11-06-MQ Summit 2025,recording:https://www.youtube.com/playlist?list=PLvL2NEhYV4ZufbYkb1FM9e6onSpjQ8Zdv
-2025-11-07-BDX I/O,recording:https://www.youtube.com/playlist?list=PLUJzERpatfsW1JBHFEJdWKC26ti3tZJ9U
+2025-11-07-BDX I/O,recording:[All talks](https://www.youtube.com/playlist?list=PLUJzERpatfsW1JBHFEJdWKC26ti3tZJ9U) | [Salle 1 (F1 + F2)](https://www.youtube.com/watch?v=ChyP4aWL7Yc) | [Salle 2 (E1 + E2)](https://www.youtube.com/watch?v=HXomKue_KBo) | [Salle 3 (H1 + H2)](https://www.youtube.com/watch?v=-GTT6D5QU1s)
 2025-11-07-SREday Amsterdam 2025 Q4,recording:https://www.youtube.com/playlist?list=PL2CAJ_jforK5ujePONhHm-NsSKUeGvF1J
 2025-11-07-Voxxed Days Thessaloniki,recording:https://www.youtube.com/playlist?list=PLRsbF2sD7JVqMiOc_57IDl5KAHEwwrBwb
 2025-11-08-Cloud Native Rejekts NA,recording:https://www.youtube.com/playlist?list=PLnfCaIV4aZe_Di35xfN0KBUz-ZWp08zZD
@@ -646,7 +648,7 @@ event_id,attendees
 2025-11-15-DevFest Vienna 2025,recording:https://www.youtube.com/playlist?list=PL-1oG0fPzjhHRtzwl1zyx24Yo1P018nWM
 2025-11-15-Capitole du Libre,recording:https://www.youtube.com/playlist?list=PLU8kgF3be3rTmynqvcRAaTneHp9kAFZ20
 2025-11-15-PyCon Ireland 2025,recording:https://www.youtube.com/playlist?list=PLbrWbr4LdWJs
-2025-11-16-JSConf JP 2025,recording:https://www.youtube.com/channel/UC8cSEtE64EryVpQDVqHM_Gg/playlists
+2025-11-16-JSConf JP 2025,recording:[Track A](https://www.youtube.com/watch?v=wPfp57BJdbg) | [Track B](https://www.youtube.com/watch?v=m9K2WW0K8uc) | [Track C](https://www.youtube.com/watch?v=jaZp3mc6FU4) | [Track D](https://www.youtube.com/watch?v=xPApM00qfgY)
 2025-11-17-JSNation US,recording:https://www.youtube.com/playlist?list=PLfIM4SvaiIyydQ35AarALfHw1wILJx9_m
 2025-11-18-React Summit,recording:https://www.youtube.com/playlist?list=PLNBNS7NRGKMFO_c5e2Nol5kF7lFHkege8
 2025-11-18-XtremePython 2025 Online Conference,recording:https://www.youtube.com/playlist?list=PL9XJvIlpSqofoiNADt1MW8pv3J-WiQFD2
@@ -689,4 +691,498 @@ event_id,attendees
 2025-12-11-Linux Plumbers Conference,recording:https://www.youtube.com/playlist?list=PLVsQ_xZBEyN3-ZbrEgTiCpm1-Sg_ihLVF
 2025-12-17-Perl Community Conference, Winter 2025,recording:https://www.youtube.com/playlist?list=PLLsQjH2F6zOo
 2025-12-18-Conf42.com Internet of Things (IoT) 2025,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrAoyYvqm9wESh0loKTsm84Y
+2026-01-06-CES,recording:https://www.youtube.com/playlist?list=PLm9O7GKkPgEQ-9dnBIDr1lPwDtFvhy1m8
+2026-01-13-CodeMash 2026,recording:[Lightning Talks](https://www.youtube.com/playlist?list=PL_G_ImM6b7_dIlhEPsMQ7KYUMCpBN32wm)
+2026-01-15-MongoDB.local San Francisco,recording:https://www.youtube.com/playlist?list=PL4RCxklHWZ9s7IrElTzddaZ2w5uupd6TQ
+2026-01-21-Everything Open 2026,recording:https://www.youtube.com/playlist?list=PLI3yu3oBYCpgqhrsZJ07U1UJacYO5TvL4
+2026-01-21-FOSS4G Asia,recording:https://www.youtube.com/playlist?list=PLrmwntRan5A21ig2LkSlkYk9VGSmj5xbo
+2026-01-22-Conf42 DevOps 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrB6SG3pv3bmTo7NWFlCGiNx
+2026-01-22-jChampions,recording:[Official schedule with per-session recordings](https://jchampionsconf.com/schedule.html)
+2026-01-24-Cloud Native Days Bangladesh 2026,recording:https://www.youtube.com/playlist?list=PL2B9-fD7srNn-oTt8EpBtN837ueK6pIMv
+2026-01-24-DistrictCon,recording:https://www.youtube.com/playlist?list=PLILSGbVWGGPwuqdZhFrsf2sjEMPjIlceH
+2026-01-26-NDC London,recording:https://www.youtube.com/playlist?list=PL03Lrmd9CiGee3FdYOtDorJgFSWrk1Ecj
+2026-01-31-FOSDEM 2026,recording:https://video.fosdem.org/2026/
+2026-02-02-CfgMgmtCamp 2026 Ghent,recording:[Main track](https://www.youtube.com/playlist?list=PLBZBIkixHEich2-s0PRncozYzaBQNBXyw)
+2026-01-29-Agile Austria Conference 2026,recording:https://www.youtube.com/playlist?list=PL0ZI-r3j7LbWgKG3axab-pkdABz1EfgmN
+2026-01-29-CHAOSSCon EU 2026,recording:https://www.youtube.com/playlist?list=PL60k37cxI-HT4eJrJd1LJcLfhjeQ8zT-o
+2026-01-29-The European Open Source Awards,recording:https://www.youtube.com/playlist?list=PL5wPUz5V53R-15GYXWp6HUX0AAsUDJYqA
+2026-02-02-Jfokus,recording:https://www.youtube.com/playlist?list=PLUQORQEatnJflEzaKxmnn2EH0eKPTVBI8
+2026-02-03-Swetugg Stockholm 2026,recording:[Organizer uploads including 2026 sessions](https://www.youtube.com/@SwetuggEvents)
+2026-02-04-CityJS Singapore,recording:[Off-the-main-thread — Ananya Kittane Yogananda](https://www.youtube.com/watch?v=AYfNDjV2kio)
+2026-02-06-Voxxed Days Ticino,recording:https://www.youtube.com/playlist?list=PLRsbF2sD7JVpDSBrObmIks-0_X8Szf8B6
+2026-02-07-PyTorch Day India,recording:https://www.youtube.com/playlist?list=PL_lsbAsL_o2C8ncbPwxdpKh32PpzvyANP
+2026-02-10-Applied ML Days,recording:[Official keynote recording archive](https://2026.appliedmldays.org/media-104-watch-the-keynote-sessions-of-amld-intelligence-summit-2026)
+2026-02-10-Voxxed Days CERN,recording:https://www.youtube.com/playlist?list=PLRsbF2sD7JVq9Y7_i6uCWlxwoEIte7S8S
+2026-02-11-Africa Tech Summit Nairobi,recording:https://www.youtube.com/playlist?list=PLNkBipGVeSEbyJ99ULTqsZSpDXJ99wk4B
+2026-02-12-LLMday Warsaw 2026 Q1,recording:https://www.youtube.com/playlist?list=PLABWk6YlOnWmcsTPJ9wTDtLbx99Y6RT5L
+2026-02-12-Strasbourg Craft #1,recording:https://www.youtube.com/watch?v=nBYPkk7po48
+2026-02-12-Touraine Tech #26,recording:[Official 2026 schedule with per-session replays](https://2026.touraine.tech/)
+2026-02-13-DevConf.IN 2026,recording:https://www.youtube.com/playlist?list=PLU1vS0speL2Z6ye8yTW9lWG-GlairkWA0
+2026-02-17-Hedera DevDay,recording:https://www.youtube.com/playlist?list=PLcaTa5RR9SuBKShKcruAnvBZ7Dx3JU9EV
+2026-02-19-Conf42 Machine Learning 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrAxRHbUdOPlp1-OnsVso-nC
+2026-02-19-HashiTalks 2026,recording:https://www.youtube.com/playlist?list=PL81sUbsFNc5YXDHWgul-LUkRYIp58ME0g
+2026-02-20-Florida DrupalCamp 2026,recording:https://www.youtube.com/playlist?list=PLVkxWtGE94flA8rBi_WdaL6ncGI7xeYMy
+2026-02-20-PHP UK,recording:https://www.youtube.com/playlist?list=PL_aPVo2HeGF-XZUyYfc5-lvPuspRdP85u
+2026-02-20-PyCon Namibia 2026,recording:https://www.youtube.com/playlist?list=PLe4u6Mr764o4OLlwKIjWRqol1WYX66uBT
+2026-02-21-DDD Melbourne 2026,recording:[Official 2026 playlist/channel landing page](https://www.youtube.com/@dddmelb)
+2026-02-24-Axe-con,recording:https://www.deque.com/axe-con/content-hub/?conference_year=2026
+2026-02-25-Norfolk Developers Conference 2026,recording:https://www.youtube.com/playlist?list=PLc8-tQY65nvUkTeQlsjVYiWRffq2OF8hc
+2026-02-26-AI Coding Summit,recording:https://www.youtube.com/playlist?list=PLfIM4SvaiIyyxT9w2LrSvNn5_RlA0xvng
+2026-02-26-SREday New York City 2026 Q1,recording:https://www.youtube.com/playlist?list=PL2CAJ_jforK79u93IXHSbOWmZgbeTEFh0
+2026-02-28-SECCON 14 OpenConference,recording:https://youtube.com/playlist?list=PL8EZB49XjAP6Hd_z9SG_hDOzY21CMPJVn
+2026-02-28-SECCON Open Conference 14,recording:https://youtube.com/playlist?list=PL8EZB49XjAP6Hd_z9SG_hDOzY21CMPJVn
+2026-02-21-WordCamp Port Harcourt 2026,recording:https://www.youtube.com/playlist?list=PLfzVTVxw6LBeQ2toB7xIGXKH3t0e4qy-x
+2026-02-24-ProductCon London 2026,recording:https://youtu.be/Vst5miQ0xA4
+2026-02-24-The Linux Foundation Member Summit,recording:https://www.youtube.com/playlist?list=PLe0RSvsPP0OY
+2026-02-28-KubeFest 2026,recording:https://www.youtube.com/watch?v=7Wr18DneBa0
+2026-03-02-Laracon EU,recording:https://www.youtube.com/playlist?list=PLJ-dCbJnj3ls
+2026-03-02-NDC Security,recording:https://www.youtube.com/playlist?list=PL03Lrmd9CiGdciZ4thY_jinE4IbSzLCc8
+2026-03-03-Sonar Summit,recording:https://www.youtube.com/playlist?list=PL6nq5CLci1YCbBMgN7UoYgtz5pBxHrPX-
+2026-03-04-Devnexus,recording:https://www.youtube.com/playlist?list=PLid93BOrASLONoZUIX1i0rXqCji5FUw9V
+2026-03-05-Planet Nix 2026,recording:https://www.youtube.com/playlist?list=PLh1QjGnfC2eTqNEpidWU7oF2g-IkQjbQ1
+2026-03-05-SCaLE,recording:https://www.youtube.com/playlist?list=PLh1QjGnfC2eSvaI_246vzl8howJNYUa4s
+2026-03-04-Python Unplugged,recording:https://www.youtube.com/watch?v=qKkyBhXIJJU
+2026-03-06-LLMday NYC 2026 Q1,recording:https://www.youtube.com/playlist?list=PLABWk6YlOnWmUnPb5rOhDTCqlSyyLNCN4
+2026-03-09-DataPopkorn - a bite-sized knowledge! (2026),recording:https://www.youtube.com/playlist?list=PLCJK8I0ueDuJYLVCFNb68m4XgLb74nZOA
+2026-03-07-Fork it! - Vietnam,recording:https://www.youtube.com/playlist?list=PLnfCgE11xujv3P40-qSKu5FE_fXyR2hqB
+2026-03-07-Women Techmakers Belfast 2026,recording:https://www.youtube.com/playlist?list=PLAJPXfWlHOoMKD2EXQzwZo6SDNrZwk_r2
+2026-03-09-FOSSASIA Summit 2026,recording:[Grand Hall — Day 1](https://www.youtube.com/watch?v=pitNPAsWShA) | [Hall 2 — Day 1](https://www.youtube.com/watch?v=HF0uwc2afDs) | [Hall 3 — Day 1](https://www.youtube.com/watch?v=4dzzzfORqIk) | [Room 1 — Day 1](https://www.youtube.com/watch?v=M3mCRxtg1mE) | [Room 2 — Day 1](https://www.youtube.com/watch?v=ziaUYcF4nNI) | [Hall 2 — Day 2](https://www.youtube.com/watch?v=M-hub_7CORA) | [Hall 3 — Day 2](https://www.youtube.com/watch?v=BGnva6nYzJc) | [Room 1 — Day 2](https://www.youtube.com/watch?v=P3UlEuSQZvk)
+2026-03-10-Appdevcon,recording:https://appdevcon.nl/videos/
+2026-03-10-CTO Craft Con: London,recording:https://www.youtube.com/playlist?list=PLm5-Fe8V720sJnvlwMi_nVBZqiih3CgwV
+2026-03-10-Dutch PHP Conference 2026,recording:https://phpconference.nl/videos/
+2026-03-10-FOSSASIA PGDay 2026,recording:[PostgreSQL Community and Contribution keynote](https://www.youtube.com/watch?v=8cnmtPDQzq0) | [pg_ivm](https://www.youtube.com/watch?v=LdQ4nfiCl0k) | [Postgres 18 demos](https://www.youtube.com/watch?v=ZoAW15eWQKs) | [Choose Your Own Adventure: Postgres 18 Demos](https://www.youtube.com/watch?v=KZNXnuZ8cBs)
+2026-03-10-PyAI Conf,recording:https://www.youtube.com/playlist?list=PLncacGsk3r_T2vHUohpHop9uWNNcXghZv
+2026-03-10-Webdevcon,recording:https://webdevcon.nl/videos/
+2026-03-10-Zephyr at embedded world,recording:https://www.youtube.com/playlist?list=PLzRQULb6-ipEwcz5MdZk5-TB_HCrZBAPm
+2026-03-11-PGConf India 2026,recording:https://www.youtube.com/playlist?list=PLAe40eo3BfWCqDPwFwCIq3_xBhrDMSANn
+2026-03-12-DrupalCamp NJ 2026,recording:https://www.youtube.com/playlist?list=PLc4s2QFXB7lX6gYsWqh3OfnQfbxhZ8I1B
+2026-03-12-SREday London 2026 Q1,recording:https://www.youtube.com/playlist?list=PLP913T0NeiOY
+2026-03-12-T3chfest,recording:https://www.youtube.com/playlist?list=PLqgZDFdwyB8bTJIx9j-oQbCgmWxptwP1y
+2026-03-12-Vuejs Amsterdam,recording:https://www.youtube.com/playlist?list=PLCxzy-hmQq9FXSiPXPy60R5D7QrrkjOra
+2026-03-14-Conf42 Site Reliability Engineering (SRE) 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrBHJy4EUSvaBe0-wtyjtbaa
+2026-03-16-AI Conference,recording:https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT
+2026-03-16-FOSS Backstage,recording:https://www.youtube.com/playlist?list=PLq-odUc2x7i_CkIlwiKrIKXLdmQgFxhCL
+2026-03-16-HPSF Conference,recording:https://www.youtube.com/playlist?list=PLRKq_yxxHw29oZTboj6fmdYhQMWHUaj4u
+2026-03-16-QCon London,recording:https://qconlondon.com/schedule/mar2026
+2026-03-17-JavaOne,recording:https://www.youtube.com/playlist?list=PLX8CzqL3ArzUMVSzm-z_-if8BIB55EGl4
+2026-03-17-OpenSearchCon China,recording:https://www.youtube.com/playlist?list=PLzgr9zSpws15H6KfVoCwaIdHlclU8EC93
+2026-03-17-Chatbot Europe,recording:https://www.youtube.com/watch?v=1rxIqDiH3dk
+2026-03-17-NAVIGATE 2026,recording:https://www.youtube.com/playlist?list=PL7GT1z184FcaTjoFgOepjPLQr3Muva9Z0
+2026-03-17-Programmable 2026 - Melbourne,recording:https://youtube.com/watch?v=Xh3d0aFb1G0
+2026-03-18-Agile Niort 2026,recording:https://www.youtube.com/playlist?list=PLPsX3YIuXp4Q
+2026-03-19-Programmable 2026 - Sydney,recording:https://youtube.com/watch?v=Xh3d0aFb1G0
+2026-03-19-Wasm I/O 2026,recording:https://www.youtube.com/playlist?list=PLP3xGl7Eb-4P9UDywG2NOJLBtcch_Ry7A
+2026-03-20-PyCascades 2026,recording:https://www.youtube.com/playlist?list=PLcNrB7gPa-NeyTIFSdtjnREcW6X9uxwsN
+2026-03-21-BSidesSF,recording:https://www.youtube.com/playlist?list=PLbZzXF2qC3RuROHvjQLHaHA9MbAsSL4pH
+2026-03-21-Cloud Native Rejekts EU 2026,recording:[Room 1](https://www.youtube.com/watch?v=fmVNdtOPl5I) | [Room 2](https://www.youtube.com/watch?v=7O8pqiK22wA)
+2026-03-23-Agentics Day: MCP + Agents Europe,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2N9mLLu6B9LWeEnSN60A9Fs
+2026-03-23-ArgoCon,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2PM2c_Kv-vx8KB9sI2y7NM2
+2026-03-23-BackstageCon,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2Py6kX3NDSsM53wAzF2JkV7
+2026-03-23-CiliumCon,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2Mqbd68w9kzYHQ8D7ygqstS
+2026-03-23-Cloud Native AI + Kubeflow Day Europe,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2PnalRBhPCbxEm_rup1b3X0
+2026-03-22-Agentic Conf Hamburg,recording:https://www.youtube.com/playlist?list=PLV2w1CY5txlQ
+2026-03-23-Cloud Native Telco Day,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2N_B1HGXUyfn4HjjydZctPA
+2026-03-23-DrupalCon Chicago 2026,recording:https://drupal.tv/events/drupalcon/drupalcon-chicago-2026
+2026-03-23-FluxCon,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2MeuSNqpcDl-qdMeCe6vp6p
+2026-03-23-KeycloakCon Europe,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2McrJAYq3kOBVX65Gp2NhnH
+2026-03-23-Kubernetes on Edge Day,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2NwoFxqxMntFMUz0ajZC4TI
+2026-03-23-KyvernoCon,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2Mc3TQVnRm9v8gudXxPkSAd
+2026-03-23-Observability Day,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2OXd3i-CyZH4A1QMxLTsKEJ
+2026-03-23-Open Source SecurityCon,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2N49bPzuTYRkh8hEHuko6dA
+2026-03-23-Open Sovereign Cloud Day Europe,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2PXxFKIVGv2_b7usBYTpJ5X
+2026-03-23-OpenTofu Day Europe,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2MW9GCPuLLzryH96c1Ah_mM
+2026-03-23-Platform Engineering Day,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2NE-EbRNOTNtuXA_baCSE-0
+2026-03-23-WasmCon,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2PH-zt22VXLAG5SpJIytCw1
+2026-03-24-Cloud Native University - Cloud Native Theater @ Kubecon EU 2026,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2M8QZmYCR7UJnIXx_VhywXE
+2026-03-24-Istio Day - Cloud Native Theater @ Kubecon EU 2026,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2MeMdKmrVKWUthRPVQdzwrz
+2026-03-24-SRECon Americas,recording:https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lfnl2qlgWH48uttpkVF4-4R
+2026-03-24-Voxxed Days Zurich,recording:https://www.youtube.com/playlist?list=PLRsbF2sD7JVrH2IcCB1mdAUJMFr8ukKRS
+2026-03-25-Data on Kubernetes - Cloud Native Theater @ Kubecon EU 2026,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2Nr2EUBhA1OgXGUnjWA5rQe
+2026-03-25-EnvoyCon - Cloud Native Theater @ Kubecon EU 2026,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2OM5PP3rQ3QMWzAuy74tVjj
+2026-03-25-Kubevirt Summit - Cloud Native Theater @ Kubecon EU 2026,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2PHWmNsUqV40SFewM3Vrxvn
+2026-03-27-HackConRD 2026,recording:https://www.youtube.com/playlist?list=PLrFNETQcCMzAR7RvfN2_v4jCnCk8iK94m
+2026-03-28-InstallFest 2026,recording:https://www.youtube.com/playlist?list=PLub6xBWO8gV8rGgwk66l2P8rIUCdWklkj
+2026-04-01-CypherCon 9 (2026),recording:https://www.youtube.com/playlist?list=PLNvG94Ou8TzY
+2026-04-02-Frappe Build 2026,recording:https://www.youtube.com/playlist?list=PL3lFfCEoMxvwNsbC6W8bVIDAxSa8Y7fQo
+2026-03-27-Shift,recording:https://www.youtube.com/watch?v=OrxnalgEYlw
+2026-03-28-BSides Belgrade 2026,recording:https://www.youtube.com/playlist?list=PLnucSfkOmayXOwFs_9T4_RDIk3W-noivx
+2026-04-02-MCP Dev Summit,recording:https://www.youtube.com/playlist?list=PLjULwdJUtFdhIBhibLEogtK1XYCNaFyFl
+2026-04-02-Xen Spring Meetup 2026,recording:https://www.youtube.com/playlist?list=PLQMQQsKgvLnuMxYmHPjQrQIJVK0n8wsjO
+2026-04-07-PyTorch Conference Europe,recording:https://www.youtube.com/playlist?list=PL_lsbAsL_o2DZbCiISSjbucDOW0QOxwBF
+2026-04-08-CityJS London,recording:https://www.youtube.com/playlist?list=PLYDCh9vbt8_KLsFjnFnskuy9yHDD8c7cd
+2026-04-08-Microsoft JDConf 2026,recording:https://www.youtube.com/playlist?list=PLPeZXlCR7ew9ZMSpI45IgF2f5KtYBYkoP
+2026-04-08-PyCon Lithuania,recording:https://www.youtube.com/playlist?list=PL5gYhWvxDgAE7IzsOWJIcFXoglbhvcg0l
+2026-04-09-Android Makers by droidcon 2026,recording:https://www.youtube.com/playlist?list=PLn7H9CUCuXAsTheJ0b1SOYObU2ZXGbieS
+2026-04-09-BSidesSLC,recording:https://www.youtube.com/playlist?list=PLqVzh0_XpLfTzm5b8a4Bapsl5WBw5jpiP
+2026-04-09-GITEX ASIA,recording:https://www.youtube.com/playlist?list=PLo-_3pwTmpv1G_LREIdFDkPQjNCqCR4Hk
+2026-04-09-Tropical on Rails 26,recording:[Day 1](https://www.youtube.com/watch?v=qP3WxqwIpjU) | [Day 2](https://www.youtube.com/watch?v=RHsRJ7fQvqM)
+2026-04-13-PyCon DE & PyData 2026,recording:[Official session archive](https://pycon.de/archive/2026) | [YouTube playlist](https://www.youtube.com/playlist?list=PLefagiT9A8tA)
+2026-04-13-SO-CON 2026,recording:https://www.youtube.com/playlist?list=PLJK0fZNGiFU_3wSvgL7sZg2BqJomSys5t
+2026-04-13-Spring I/O 2026,recording:https://www.youtube.com/playlist?list=PLe6FX2SlkJdQZ3N0SW9Abo4cN7eO5dU-U
+2026-04-14-Apidays Singapore,recording:https://www.youtube.com/playlist?list=PLmEaqnTJ40OrDMAtepgbpT_KWA93SZlNG
+2026-04-13-VulnCon 2026,recording:https://www.youtube.com/playlist?list=PLCaCxpa_JH7g
+2026-04-14-Copilot Community Conference Europe 2026,recording:[All sessions](https://www.youtube.com/playlist?list=PLqltgxuKDmc07QlWmLC438Y-9hEi0dYQr) | [Agent Track](https://www.youtube.com/playlist?list=PLqltgxuKDmc11mfmPK5Yx_5oWqdrxRCiQ) | [User Track](https://www.youtube.com/playlist?list=PLqltgxuKDmc0pkSlFekW8eoXNqb0ZsiYo) | [Adoption Track](https://www.youtube.com/playlist?list=PLqltgxuKDmc0rYK4G0vFyTxUGjYEAwT28)
+2026-04-14-DevOpsDays Tokyo 2026,recording:https://www.youtube.com/playlist?list=PL-bvtmk0kdw466OP6-7lEyh2lDed1OI_V
+2026-04-14-SREday San Francisco 2026 Q2,recording:https://www.youtube.com/playlist?list=PLCtzHheAYuz4
+2026-04-15-AI in The New Era,recording:https://www.youtube.com/playlist?list=PLJrXFjVmJk9o
+2026-04-15-DjangoCon Europe 2026,recording:https://www.youtube.com/playlist?list=PLZV2vUxca48w
+2026-04-16-Nerdearla Chile,recording:https://www.youtube.com/playlist?list=PLTTdzfRyGY1uH8K-eDSIdds-qI5GzrjcU
+2026-04-16-OpenSearchCon Europe,recording:https://www.youtube.com/playlist?list=PLzgr9zSpws14VJOiJ-CC9cl8Hm7G2V61p
+2026-04-15-NODES AI,recording:https://www.youtube.com/playlist?list=PL9Hl4pk2FsvXLyavSKtnRP0ySqcrtm9qY
+2023-04-18-Citus Con,recording:https://www.youtube.com/playlist?list=PLlrxD0HtieHiMo4nBnwBXtcJ4o_azOCnO
+2023-09-04-Cloud Native Summit 2023,recording:https://www.youtube.com/playlist?list=PLOa3z3LRFiE88ANWjO_XjzqguonrpmuV9
+2023-11-06-AppDeveloperCon,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2ObaedNinJvr7htpJI35ZAi
+2023-11-06-Data on Kubernetes Day,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2OlBKROr8TBKKkpph1zTYGd
+2021-05-04-Cloud Native WASM Day,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2MDtQzXYpQEzP80Pw4iRMNy
+2023-11-06-Kubernetes AI + HPC Day,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2OOkGhEJgb3Lx6YWoA3xQl4
+2024-03-19-Cilium + eBPF Day,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2PHDqy_nINY8-462uYzb18d
+2024-03-19-Cloud Native AI Day Europe,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2PWGv34W6w5ssq1b1meRmY7
+2024-03-19-ThanosCon Europe,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2M0QzJhgCdGVuEhx8OlXpvX
+2024-03-21-DevOpsDays Singapore,recording:https://www.youtube.com/playlist?list=PLpWsyYqY_ehmQrNDxU4p1SO56Nwl0diwG
+2024-04-04-BSides Prague 2024,recording:https://www.youtube.com/playlist?list=PLydF1lVc7uqYe7-6k8vP2XEdqYrN36M0C
+2024-04-15-GitOpsCon North America 2024,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2OyAZIMbJPOsamT2aLKZX6b
+2024-05-06-DrupalCon Portland 2024,recording:https://www.youtube.com/playlist?list=PLpeDXSh4nHjThszrEoBfJ8sY2NYif0k6b
+2024-05-27-DevOpsDays Montréal,recording:https://www.youtube.com/playlist?list=PL2tIJL4fCPDMuNt5F7IQTAykCHHAPCnJT
+2024-06-18-BSides Strasbourg 2024,recording:https://www.youtube.com/playlist?list=PLMM5_63TOT9BZZ5HCeTTg_GVJFny3jwBw
+2024-09-11-eBPF Summit,recording:https://www.youtube.com/playlist?list=PLDg_GiBbAx-m7yn_FYcc41PNrgtxlISBK
+2024-09-26-Conf42 Kube Native,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrD2RPew0ho0JZ3_8C_VfVxs
+2024-10-09-KubeDay Colombia,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2OIeornMi4wnX3V-j5RMY8J
+2024-10-15-KubeDay Australia,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2NLF7PEjUu4YID_yct9hKz8
+2024-10-17-Conf42 Incident Management 2024,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrB6zS4OTwh_G-Qc23dMuk8l
+2024-10-22-CypressConf,recording:https://www.youtube.com/playlist?list=PL8GlT7H3xOcJd6yb9Lnhd3FgTcLjmf3iZ
+2024-10-31-Conf42 JavaScript 2024,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrDgexCF_ygfCwh9KuWgldj2
+2024-11-12-Cloud Native StartupFest NA,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2OBfnicyJbiZFoJUOeeDmgN
+2024-11-12-Cloud Native University NA,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2OdBxfYjO_d3ycQ9fm1xN3L
+2024-11-12-OpenFeature Summit NA,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2OJ-Wgv_EDu7ZEzBRYyT8IT
+2024-11-28-Write the Docs Australia 2024,recording:https://www.youtube.com/playlist?list=PLy70RNJ7dYrLlo1cnSh-dK5VUO8zOyB_S
+2025-03-19-React Paris,recording:https://www.youtube.com/playlist?list=PL53Z0yyYnpWitP8Zv01TSEQmKLvuRh_Dj
+2025-03-21-Frontrunners,recording:https://www.youtube.com/playlist?list=PLeGxIOPLk9EKzo_ta27a5eujQW8BADZyO
+2024-06-13-J-Spring,recording:https://www.youtube.com/playlist?list=PLpQuPreMkT6Awa8NVnitj7sHyaeTvyAO8
+2025-10-11-SREday Chennai 2025 Q4,recording:https://www.youtube.com/playlist?list=PL2CAJ_jforK7O9WocdrBHGRFIZYTZa06I
+2025-10-16-Prompt Engineering Conference 2025,recording:https://www.youtube.com/playlist?list=PLQEYbmzcCfpdgo4z4htF2elNKqzwEbDIM
+2025-10-28-SREday Cologne 2025 Q4,recording:https://www.youtube.com/playlist?list=PL2CAJ_jforK51dJgApzlvfZeG4WkZDYaM
+2025-11-13-InnerSource Summit,recording:https://www.youtube.com/playlist?list=PLCH-i0B0otNQP_A36ncidq3NvY_LiKvfw
+2026-06-01-AI DevCon,recording:https://www.youtube.com/playlist?list=PLISstAySqk7KtlYPFps1ZnK9xNIMSVkDD
+2026-11-19-Conf42 MLOps 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrCqfY7wceGZMeGnQ647UUYw
+2026-08-12-Hands-On Testing 2026,recording:https://www.youtube.com/playlist?list=PLKSI5Dw7umNw
+2026-01-08-CUSEC - Canadian University Software Engineering Conference,recording:[Verified 2026 talk](https://www.youtube.com/watch?v=PFQHpGXaJ6Q)
+2026-04-17-BSides Groningen 2026,recording:https://www.youtube.com/watch?v=oSM-_VduJHM
+2026-04-17-PyTexas 2026,recording:https://www.youtube.com/playlist?list=PL0MRiRrXAvRh0bfHGatkL10oI682zH0-F
+2026-04-17-wroclove.rb 2026,recording:[Sharon Rosner — UringMachine](https://www.youtube.com/watch?v=JknqoY0lfBM) | [Charles Nutter — JRuby](https://www.youtube.com/watch?v=bU97XgSK6wE) | [Ismael Celis — Event Sourcing and Actor Model](https://www.youtube.com/watch?v=Q6owchf4WEo) | [Lightning Talks](https://www.youtube.com/watch?v=VGbMBkvK7RY)
+2026-04-18-Fork it! - Tunisia,recording:https://www.youtube.com/playlist?list=PLnfCgE11xujuLoDFmFnAei5wgH-Un-tWC
+2026-04-18-Global Azure Torino 2026,recording:https://www.youtube.com/playlist?list=PL9omBSNBNBtlWot3rYDBeqJUmVDeSQ9yo
+2026-04-18-KCD Guadalajara 2026,recording:https://www.youtube.com/playlist?list=PL_36tcNvEQeIZG650097wk-ToPOB-1G4F
+2026-04-19-Conf42 Cloud Native 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrAk91tnHP48BKjDFW9jzf1V
+2026-04-19-SREday Seattle 2026 Q2,recording:https://www.youtube.com/playlist?list=PL2CAJ_jforK5D2pFxAjp-H1U728dXI8Kb
+2026-04-20-Codemotion Madrid,recording:https://www.youtube.com/playlist?list=PLq2-o3pBTowe1wPOp0y5gGrHV8ZpH5Wj-
+2026-04-20-GrafanaCon,recording:https://www.youtube.com/playlist?list=PLDGkOdUX1UjoSfz1IRj5c0xetw8tl8iin
+2026-04-20-SUSECON 2026,recording:https://www.youtube.com/playlist?list=PL6sYHytyKN2-Rf8DXqB5eNE70BN3Bgy9W
+2026-04-21-Devopsdays Atlanta,recording:https://www.youtube.com/playlist?list=PL5pdUnQbCX6sinaLcMPsRkX16hCRQgIwM
+2026-04-20-TokioConf,recording:https://youtube.com/playlist?list=PLgVIJ9TpEgOmHj0ADDpf-qGckYEJs4QCE
+2026-04-21-Open Community Experience (OCX),recording:[Keynotes](https://www.youtube.com/playlist?list=PLPb-79YZYbg9XuIkPbgnBv7QRNA--QXD7) | [Main track](https://www.youtube.com/playlist?list=PLPb-79YZYbg9zorDkGDH5570giSM0m3bR) | [AI](https://www.youtube.com/playlist?list=PLPb-79YZYbg8UeF-W5TjZrFz8kBdKCfh8) | [Tooling](https://www.youtube.com/playlist?list=PLPb-79YZYbg96pGiSJW9Q3JnSFvlLkB4p) | [Compliance](https://www.youtube.com/playlist?list=PLPb-79YZYbg9iMh4HCTdCbfv-9k2ezMSs) | [Automotive](https://www.youtube.com/playlist?list=PLPb-79YZYbg-uRp75QsNJ9nkjGdyABWd3) | [Research](https://www.youtube.com/playlist?list=PLPb-79YZYbg90Jlyl2bNArqsLNKyrK1NT)
+2026-04-22-Drupal Developer Days Athens,recording:https://www.youtube.com/playlist?list=PLza5NTXQjgP8W94AsEP-lxwsVnjNsi-XY
+2026-04-22-ElixirConf EU 2026,recording:https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsIgecSexrk26--PBWiEyUy
+2026-04-22-Google Cloud Next,recording:https://www.youtube.com/playlist?list=PLBgogxgQVM9uW-s_0eYThhrZ0NWiSIFvO
+2026-04-22-NDC Sydney,recording:https://www.youtube.com/playlist?list=PL03Lrmd9CiGfMhtZNWxXb8UjzEG2XVzXw
+2026-04-22-RubyKaigi 2026,recording:[Official schedule with recorded-video links](https://rubykaigi.org/2026/schedule) | [YouTube playlist](https://www.youtube.com/playlist?list=PLbFmgWm555ybx99aWeqKQvCc5kmZwTuMv)
+2026-04-23-Gophercamp 2026,recording:https://www.youtube.com/playlist?list=PLnTRDQ9SeGBZJnW7-d8AVNcHcs_UONhs7
+2026-04-23-Gophercamp.cz 2026,recording:https://www.youtube.com/playlist?list=PLnTRDQ9SeGBZJnW7-d8AVNcHcs_UONhs7
+2026-04-23-Security BSides Prague 2026,recording:https://www.youtube.com/playlist?list=PL-4fuTjKox5dRpe57vfNcjQCUI5tApBcS
+2026-04-24-Great International Developer Summit 2026 (GIDS 2026),recording:https://www.youtube.com/playlist?list=PLDJhgCI9VJ6rMhbEoxnnjrJNoxfDoPO6I
+2026-04-24-LinuxFest Northwest,recording:https://www.youtube.com/playlist?list=PLIN9DhpjyR0I
+2026-04-27-foss-north 2026,recording:https://www.youtube.com/playlist?list=PL8Xzb2qPbjDHdErjsNBmmlDnxBwOizMnP
+2026-04-28-Azure Cosmos DB Conf 2026,recording:[Azure Cosmos DB playlist](https://www.youtube.com/playlist?list=PLmamF3YkHLoIcHHwveFfx2iuXPcrUPVQ5) | [Microsoft Developer playlist](https://www.youtube.com/playlist?list=PLlrxD0HtieHh0o6VplO6WczH89pVWJwP1)
+2026-04-28-Stripe Sessions 2026,recording:https://www.youtube.com/playlist?list=PLy1nL-pvL2M4-Jkf8L2sGnSP-udjg0Mx-
+2026-04-28-Voxxed Days Bucharest,recording:https://www.youtube.com/playlist?list=PLRsbF2sD7JVoz44bJ2ZsZgT2qZkd38p_r
+2026-04-30-Devopsdays Raleigh,recording:https://www.youtube.com/playlist?list=PLBMvmJ8UbNIU
+2026-04-30-KubeCrash,recording:https://www.youtube.com/playlist?list=PLZgTmEGkVjxFkqtFhGvRZNPKm0tvOAJWO
+2026-04-30-OpenSIPS Summit 2026,recording:[Day 1](https://www.youtube.com/watch?v=o2ePLC7r23Y) | [Day 2](https://www.youtube.com/watch?v=CsGf0fudVXE) | [Day 3 — Interactive Demos](https://www.youtube.com/watch?v=1m9vrvvI9fY)
+2026-05-01-Stir Trek 2026,recording:https://www.youtube.com/playlist?list=PLaHMqLt8nxCx3TgokegypUH5_K0_kVpXA
+2026-05-03-Write the Docs,recording:https://www.youtube.com/playlist?list=PLZAeFn6dfHpkMzZFXFye22pKbafhhC3Cp
+2026-05-05-Devopsdays Austin,recording:https://www.youtube.com/playlist?list=PLA09MQkVB1HI
+2026-05-04-JAX,recording:https://www.youtube.com/playlist?list=PLiK5kRCY2dazD23i00-gA-k_iy1zUvN5z
+2026-05-05-Data Makers Fest 2026,recording:https://www.youtube.com/playlist?list=PLRGBzFp8IfLc
+2026-05-05-GISEC GLOBAL,recording:https://www.youtube.com/playlist?list=PL7yJ08v7DzQfDpM3RmKsUeolTcpb4TV94
+2026-05-05-GOSIM Paris 2026,recording:[Main event](https://www.youtube.com/playlist?list=PLx2fLm_Sb4FGHKLx9OpwQXefjHaS_Wpos) | [Individual guest presentations](https://www.youtube.com/playlist?list=PLx2fLm_Sb4FHwZqr1Ltbo8qSgjGoz3n5p) | [Open AGI Forum](https://www.youtube.com/playlist?list=PLx2fLm_Sb4FHUsiWLPY8V4qe_vH70Hz5k)
+2026-05-05-NDC Toronto,recording:https://www.youtube.com/playlist?list=PLIOV11cZAeQ8
+2026-05-05-Replay 2026 |Temporal,recording:[YouTube playlist](https://www.youtube.com/playlist?list=PLl9kRkvFJrlTF0MwNu94aMKws3EhIHR5v) | [Official video library](https://temporal.io/resources/on-demand/replay)
+2026-05-05-SREday Austin 2026 Q2,recording:https://www.youtube.com/playlist?list=PLLOT_X_KTyPE
+2026-05-06-DevOpsDays Zurich 2026,recording:https://www.youtube.com/playlist?list=PLLrth_HolxBcndX1XGDrXfB04-C0yhmCh
+2026-05-06-GraphQLConf,recording:https://www.youtube.com/playlist?list=PLu_TLSnl46RqumoahQfG7Yz2p8kAx4j-F
+2026-05-06-KyvernoCon Virtual,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2MZe94YU-C7zb2-RZ_YM-wH
+2026-05-06-SeleniumConf & AppiumConf Valencia 2026,recording:https://seleniumconf.com/videos-and-photos/
+2026-05-07-Devworld Conference,recording:https://www.youtube.com/playlist?list=PLoc8m_4xl7Sf5jWnmMJ1XrCRpXfsd_fMb
+2026-05-07-Virtual EnvoyCon,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2OVwkoYHYjAQrav4k37r3KU
+2026-05-13-Apidays New York,recording:https://www.youtube.com/playlist?list=PLmEaqnTJ40OrS-bEi-a2QONjXw66iRu8z
+2026-05-09-Java Day Istanbul 2026,recording:https://www.youtube.com/playlist?list=PLXGQwsKFAJqY
+2026-05-11-Red Hat Summit,recording:https://www.youtube.com/playlist?list=PLbMP1JcGBmSHf7RbiTFrsI6PqtMSZMPiX
+2026-05-11-Windows Server Virtual Summit,recording:https://www.youtube.com/watch?v=LdDj6DsExKw
+2026-05-12-DPDK Summit 2026,recording:https://www.youtube.com/playlist?list=PLo97Rhbj4ceL54ZJHxxcpZljm-Wlx3g4W
+2026-05-12-Lyon Craft,recording:https://www.youtube.com/playlist?list=PLX1-AzP_orsOZP1yUUTJ52ooDcFYo_BYA
+2026-05-12-MidCamp 2026,recording:https://www.youtube.com/playlist?list=PLmBnjy9dJJXfhjm_CM_is6jqGD3uXzSRj
+2026-05-13-PyCon US,recording:https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYg5fYUg9tzVrY3zCT7W7Y7
+2026-05-13-UPSCALE CONF 2026,recording:https://www.youtube.com/playlist?list=PLDgkLQZvWsA9otzk4pkPfCKCUEyq5blOD
+2026-05-14-AI Security Summit - London,recording:https://www.youtube.com/playlist?list=PLLIJ0iQnyVB8
+2026-05-14-IaCConf,recording:[All talks](https://www.youtube.com/playlist?list=PLocaoeyiLZlU_w5e_uxzWqWVlJPpAY_Hg) | [AI in IaC spotlight](https://www.youtube.com/playlist?list=PLocaoeyiLZlV-URZwKwI4aam119LR0KJZ)
+2026-05-14-JSHeroes,recording:https://www.youtube.com/playlist?list=PLB9NqTp0uKrR4o4yUvMJPSAf2Qfo8ZgmH
+2026-05-14-SREday Munich 2026 Q2,recording:https://www.youtube.com/playlist?list=PLO8YIHpZfDac
+2026-05-15-Devopsdays TASHKENT,recording:https://www.youtube.com/playlist?list=PLfxac9SJZ5QZfUnEkLscL6PbL3vs7HsgT
+2026-05-15-Evento Internacional de datos Valencia 2026,recording:https://www.youtube.com/playlist?list=PLkb8P70owGbjMgJgzRTlJZW8U0Nez6Whw
+2026-05-18-Embedded Lixnux Conference North America,recording:[All sessions](https://www.youtube.com/playlist?list=PLbzoR-pLrL6p2URzlq8xlNtBhPspd2xpi) | [Keynotes](https://www.youtube.com/playlist?list=PLbzoR-pLrL6rPXcrTJb--zHJAdYr4tHq5)
+2026-05-18-Open Source Summit North America,recording:[All sessions](https://www.youtube.com/playlist?list=PLbzoR-pLrL6p2URzlq8xlNtBhPspd2xpi) | [Keynotes](https://www.youtube.com/playlist?list=PLbzoR-pLrL6rPXcrTJb--zHJAdYr4tHq5)
+2026-05-18-RustWeek 2026,recording:[All talks](https://www.youtube.com/playlist?list=PL8Q1w7Ff68DBpmF38rcIAf8Z9Gj2TnlgM) | [Live streams](https://www.youtube.com/playlist?list=PL8Q1w7Ff68DBUzp37u5PJh1aCWTEdaCqI)
+2026-05-19-AI fokus 2026,recording:https://www.youtube.com/playlist?list=PLUQORQEatnJczDJYfxMPNog0Th6N9ePXS
+2026-05-19-Current London,recording:https://www.youtube.com/watch?v=aWM2veQm3ZY
+2026-05-19-PGConf.Dev 2026,recording:https://www.youtube.com/playlist?list=PLTw6f6dqzO1t7c9_vFA-uosnR_i5jV7Qb
+2026-05-15-NZ Tech Rally,recording:https://www.youtube.com/playlist?list=PLoryLutFPmRDEyABLmLrnmZrQ0bOQpJec
+2026-05-18-Code BEAM Lite Stockholm 2026,recording:https://www.youtube.com/playlist?list=PLvL2NEhYV4ZsO47bB1V65xElZOYyLW-VJ
+2026-05-19-XtremeJS 2026,recording:https://www.youtube.com/playlist?list=PLQGiusQMOi10
+2026-05-20-KotlinConf 2026,recording:https://2026.kotlinconf.com/talks/
+2026-05-20-ProductCon,recording:https://youtu.be/KxsdtSqlBGE
+2026-05-21-Conf42 Golang 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrCKzSYaULw7l2nLQKxk2IkS
+2026-05-21-DevOpsDays Geneva 2026,recording:https://www.youtube.com/playlist?list=PLIPCG6ubeZbk
+2026-05-21-KCD Czech & Slovak 2026,recording:https://www.youtube.com/playlist?list=PLzO-esMdGBjfIt7OsdNk3xG3VEIrNu6Rh
+2026-05-21-Linux Security Summit North America,recording:https://www.youtube.com/playlist?list=PLbzoR-pLrL6qbAlrVizrYd2_Z3RWCKmfk
+2026-05-21-OpenSSF Community Day North America,recording:https://www.youtube.com/playlist?list=PLVl2hFL_zAh-Dwjkj6nqXsA5EDY-fGSNG
+2026-05-23-AWS Community Day Colombia 2026,recording:[Recording 1](https://www.youtube.com/watch?v=0Ya3K1gy6Jg) | [Recording 2](https://www.youtube.com/watch?v=guR-xFeZLGw)
+2026-05-25-CONFidence,recording:https://www.youtube.com/playlist?list=PLXSFddv_G9UA
+2026-05-26-CozySummit Virtual,recording:https://www.youtube.com/playlist?list=PLj6h78yzYM2OaFRU_tk-9zT62p3aSvu8W
+2026-05-23-Security BSides Dublin 2026,recording:https://www.youtube.com/playlist?list=PLP_UWr1tek1Q
+2026-05-25-Toronto Tech Week,recording:https://www.youtube.com/watch?v=OYE-QobjSH0
+2026-05-26-JNation 2026,recording:https://www.youtube.com/playlist?list=PLXADOFXCGUmUfs4oRL3Y-Mik23Pdjkarg
+2026-05-26-PlatforMa 2026,recording:https://www.youtube.com/playlist?list=PL0EYRrL38c3S8UgkO8qPunRZJC2oMQ_c4
+2026-05-26-XtremePython 2026,recording:https://www.youtube.com/playlist?list=PL9XJvIlpSqodTrb7zGh_ctj0AGBP7ncm7
+2026-05-27-App.js Conf,recording:https://www.youtube.com/playlist?list=PLSk21zn8fFZCE_TlHUVnTVMm7mNl_fzxl
+2026-05-27-PyCon Italia 2026,recording:https://www.youtube.com/playlist?list=PLUWPlMGp2t18
+2026-05-27-Update Conference Krakow 2026,recording:https://www.youtube.com/playlist?list=PLP_PCOYG9yJ8
+2026-05-28-LLMday London 2026 Q2,recording:https://www.youtube.com/playlist?list=PLacushtZhEMs
+2026-05-28-Qld AI Festival,recording:https://www.youtube.com/playlist?list=PL4OfVtVmEVAZPuYJeXDGO2Cr-Ib1uEXrl
+2026-05-28-Security Fest,recording:https://www.youtube.com/playlist?list=PL0Jph6SmWIuMUu5O_5r9K-xX3MNK2o9ts
+2026-05-29-Africa Tech Summit London,recording:https://www.youtube.com/playlist?list=PLNkBipGVeSEYpTBPE5m7hjsUgRfwK9YeX
+2026-05-29-Agile Tour Strasbourg 2026,recording:https://www.youtube.com/playlist?list=PLSopNY9VsFxIcNniePtFp2Y-GbON2yDjZ
+2026-05-29-Hardwear.io USA,recording:https://youtube.com/playlist?list=PLWAG1Gbib488
+2026-05-29-RubyConf Austria 2026,recording:https://www.youtube.com/playlist?list=PLfo_lSts5dBhAdoXZH9Akq0cUCF6L8Bm2
+2026-06-01-AI Native DevCon London 2026,recording:https://youtube.com/watch?v=b9izY52Yzkk
+2026-06-01-CascadiaJS 2026,recording:https://www.youtube.com/playlist?list=PLLiioAbFTbKP3F7TnwsIN_-FVAiuBSSoy
+2026-06-01-NDC Copenhagen,recording:https://www.youtube.com/playlist?list=PL03Lrmd9CiGed5Dn_ffJ559jtiyjhTQJx
+2026-06-01-Snowflake Summit 2026,recording:https://www.youtube.com/playlist?list=PL4IM5KTx_T7gNwtams0rYZ-McLFy0dbIH
+2026-06-01-DevTalks Romania 2026,recording:https://www.youtube.com/playlist?list=PLWkNEdWu-Ug8
+2026-06-01-Neos Conference 2026,recording:https://www.youtube.com/playlist?list=PLmMUGpq3yu-gir0jz_xqHbzNCXzjMj0rU
+2026-06-01-SREday NYC 2026 Q2,recording:https://youtu.be/Y0M-ZmEj2Xs
+2026-06-01-fwd:cloudsec North America 2026,recording:https://www.youtube.com/playlist?list=PLCPCP1pNWD7O2zbp9sao2mNInjpvHWsnR
+2026-06-02-Craft Conference 2026,recording:[Márton Szabó](https://www.youtube.com/watch?v=wvWz_uqp9S0) | [Neal Ford](https://www.youtube.com/watch?v=zlWw5SlTO8c) | [Michael Feathers](https://www.youtube.com/watch?v=Mcsb4_7U-LY) | [Kent Beck](https://www.youtube.com/watch?v=amQnub3sHIQ) | [Cat Swetel](https://www.youtube.com/watch?v=NLbT-DkW5_U) | [Adam Tornhill](https://www.youtube.com/watch?v=rT_o59v4m00) | [Gergely Orosz](https://www.youtube.com/watch?v=kKNKqut7t1Q) | [Joseph Pelrine](https://www.youtube.com/watch?v=3zrrE374l1M)
+2026-06-03-jPrime,recording:https://www.youtube.com/playlist?list=PLcqA4DRMgIYuzJKDipPl9KzOVv_Z0MCRW
+2026-06-02-AI Native DevCon London 2026,recording:https://youtube.com/watch?v=b9izY52Yzkk
+2026-06-03-DevTalks,recording:https://www.youtube.com/playlist?list=PLTkKWAKC66E8
+2026-06-04-Conf42 Database DevOps 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrCwmGmMnd2P7QS42DFYdMUU
+2026-06-04-WordCamp Europe 2026,recording:https://www.youtube.com/playlist?list=PL1pJFUVKQ7ET_os7azDwYFsUDoc0Y9plA
+2026-06-05-Commit Conf,recording:https://www.youtube.com/playlist?list=PLYeHOmo136y0
+2026-06-05-Fork it! - Rouen,recording:https://www.youtube.com/playlist?list=PLUGFZ3s2tgJ8
+2026-06-05-PyData London 2026,recording:https://www.youtube.com/playlist?list=PLGVZCDnMOq0rFQykYJg7t441AEpN4SszE
+2026-06-06-Polycloud,recording:https://www.youtube.com/playlist?list=PLAuRNrEDx0jakH3xmKntDKVAYNk0DaP5Q
+2026-06-07-Berlin Buzzwords,recording:https://www.youtube.com/playlist?list=PLq-odUc2x7i82TFm2NLewyoGOsHRkBLsq
+2026-06-08-Dev.Play Conference,recording:https://www.youtube.com/playlist?list=PLd_CKlXLg_AA
+2026-06-08-Domain-Driven Design Europe,recording:https://www.youtube.com/playlist?list=PLf9p-N3ltMTsP-VkU_Oj6_8HUM8-xRP1M
+2026-06-08-Future Frontend,recording:https://www.youtube.com/playlist?list=PLKGgD1M40S4jYyNy0baFgSgdZ-W7a11eU
+2026-06-08-Web Summit Rio,recording:[Opening Night](https://www.youtube.com/watch?v=0EjjTxgDbxc) | [Day One](https://www.youtube.com/watch?v=np4_Q374XFE) | [Day Two](https://www.youtube.com/watch?v=dgx_mXgYhtI) | [Day Three](https://www.youtube.com/watch?v=qf4G2rxdRG4)
+2026-06-08-International PHP Conference Berlin,recording:https://www.youtube.com/playlist?list=PLjODKYi0WiE4cpj1hmoYDTYA8SX-i3VuW
+2026-06-08-London Tech Week 2026,recording:https://www.youtube.com/playlist?list=PLGpv4XKvm8tc
+2026-06-08-Webinale,recording:https://www.youtube.com/playlist?list=PLNOZzQ57obp8
+2026-06-09-JetBrains PHPverse,recording:https://youtube.com/playlist?list=PL0bgkxUS9EaK45-0M742u1WfK2G7FKXZQ
+2026-06-09-MCP Dev Summit Bengaluru,recording:[Livestream 1](https://www.youtube.com/watch?v=Hh16iAVv9B0) | [Livestream 2](https://www.youtube.com/watch?v=gNlSuodAv3E)
+2026-06-10-Cloud Native Zürich,recording:https://www.youtube.com/playlist?list=PLA_kepINgW45gj99Ks9dcJ3IaAn_Snm8u
+2026-06-10-Codegarden 2026,recording:https://www.youtube.com/playlist?list=PLG_nqaT-rbpzzDDJqfXsLxMpF9ir9zjO3
+2026-06-10-Umbraco Codegarden,recording:https://www.youtube.com/playlist?list=PLG_nqaT-rbpzzDDJqfXsLxMpF9ir9zjO3
+2026-06-11-JSNation,recording:https://www.youtube.com/playlist?list=PLfIM4SvaiIyyWThuplUwbHlnyCRPY_8dK
+2026-06-11-State of the Map US 2026,recording:https://www.youtube.com/playlist?list=PLMIiuDfH9ZpI
+2026-06-11-x33fcon conference 2026,recording:https://www.youtube.com/playlist?list=PL7ZDZo2Xu331YBC_jYYUvN-CSiPFI4hoP
+2026-06-12-Coderful,recording:https://www.youtube.com/playlist?list=PLeOVw5ucDCI8
+2026-06-12-React Summit,recording:https://www.youtube.com/playlist?list=PLNBNS7NRGKME4bbm8XbgxWFRI-J9RRR0Q
+2026-06-13-Applied AI Conference 2026,recording:https://youtube.com/playlist?list=PLET8-WBrXEPw
+2026-06-13-BSides SATX 2026,recording:https://www.youtube.com/playlist?list=PLeCLyUqavaZM
+2026-06-14-MCP Dev Summit Mumbai,recording:[June 14 livestream](https://www.youtube.com/watch?v=1_TWDW-QETQ) | [June 15 livestream](https://www.youtube.com/watch?v=mAGbllCWCSs)
+2026-06-15-GopherCon Europe 2026 in Berlin,recording:https://www.youtube.com/playlist?list=PLcG0prD6kA3o
+2026-06-15-JSNation - Online,recording:https://www.youtube.com/playlist?list=PLfIM4SvaiIyyWThuplUwbHlnyCRPY_8dK
+2026-06-15-OpenSearchCon India,recording:https://www.youtube.com/playlist?list=PLzgr9zSpws17gzkIHcJkBC2wGVHv2d1rU
+2026-06-16-Open Source Summit India,recording:https://www.youtube.com/playlist?list=PLEAGIV5X5B1U
+2026-06-17-BSDCan,recording:https://www.youtube.com/playlist?list=PLeF8ZihVdpFcyO__zr8LDj0j0AaDaIqd-
+2026-06-17-EUC TechCon 2026,recording:https://www.youtube.com/playlist?list=PLdOmgmveYT2Q
+2026-06-18-CFCamp 2026,recording:https://www.youtube.com/playlist?list=PL_Sa3nE0FaDRDPsH7hHN42nypmGgV4Y9D
+2026-06-18-Conf42 Large Language Models (LLMs) 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrAbZ-MTonX2gERed7dTODjm
+2026-06-18-DevConf.CZ,recording:https://www.youtube.com/playlist?list=PLPFRIschHNCw
+2026-06-19-Pixel Pioneers,recording:https://youtu.be/dJcN1bGiPZQ
+2026-06-22-Beam Summit 2026,recording:https://www.youtube.com/playlist?list=PLN42DU68UuAQ
+2026-06-22-PlatformCON Virtual,recording:[Day 1](https://www.youtube.com/playlist?list=PLR74Ng-6aEfCnJfu36b5RssEj2UqW6xoy) | [Day 2](https://www.youtube.com/playlist?list=PLR74Ng-6aEfA0j4Tv4tZXcgkE7rr2gsaT) | [Day 3](https://www.youtube.com/playlist?list=PLR74Ng-6aEfBFxn6dHdtsV_jy1ZNz2yS8) | [Day 4](https://www.youtube.com/playlist?list=PLR74Ng-6aEfDNdg5FdR3vNxUrcGosq7YS) | [Day 5](https://www.youtube.com/playlist?list=PLR74Ng-6aEfCxYcKy4TOBoPzrFQWAld6Z) | [Virtual workshops](https://www.youtube.com/playlist?list=PLTorzfL1Ku70)
+2026-06-23-Confidential Computing Summit,recording:https://www.youtube.com/playlist?list=PLbzoR-pLrL6o_u78x-LyxIYwjSTQk1KSd
+2026-06-23-PlatformCON Live Day London,recording:https://www.youtube.com/playlist?list=PLUIatyJ6eFkM
+2026-06-23-ReactNext 2026,recording:https://www.youtube.com/playlist?list=PLdlbTHnLUQ5I
+2026-06-24-AWS Community Day Midwest 2026,recording:https://www.youtube.com/playlist?list=PLRQF_Yb_5c9E
+2026-06-24-BreizhCamp 2026,recording:https://www.youtube.com/playlist?list=PLEVsFwFmRJeM
+2026-06-25-PlatformCON Live day NYC,recording:https://www.youtube.com/playlist?list=PLMLdPpPfENQg
+2026-06-24-Sloss Tech 2026,recording:https://www.youtube.com/playlist?list=PLF_tickFOLg0
+2026-06-25-The Perl & Raku Conference in Greenville, SC 2026,recording:https://www.youtube.com/playlist?list=PLWmGBGYq6fEQ
+2026-06-29-AI Engineer World's Fair 2026,recording:[Complete playlist](https://www.youtube.com/playlist?list=PLDyBmFH9HlVc) | [Online track](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [Full workshops](https://www.youtube.com/playlist?list=PLdaH-g_u9XSM)
+2026-07-02-Agile On The Beach 2026,recording:https://www.youtube.com/playlist?list=PLWKxDWZaOuHY
+2026-07-02-ReactNexus,recording:https://www.youtube.com/playlist?list=PLO5wzmXXAXyQ
+2026-07-03-Agile Lyon 2026,recording:[Introduction](https://www.youtube.com/watch?v=A_rsgVPe-30) | [Keynote](https://www.youtube.com/watch?v=hYTFKag-j3w) | [Dessine-moi ton mouton](https://www.youtube.com/playlist?list=PLU1jsr2DsrIw)
+2026-07-08-apidays Munich,recording:https://www.youtube.com/playlist?list=PLcA0Bv3gLeP0
+2026-07-13-SciPy 2026,recording:https://www.youtube.com/playlist?list=PLfHvtFe7Iegw
+2026-07-14-RubyConf Las Vegas 2026,recording:https://www.youtube.com/playlist?list=PLbHJudTY1K0fJfNL3Ug4p-cxc3iyO-UOE
+2026-07-16-DroidCon,recording:https://www.youtube.com/playlist?list=PLdaRmR_VzSLU
+2026-07-16-FlutterCon,recording:https://www.youtube.com/playlist?list=PLEviz2ThpVt0
+2026-07-17-JConf Dominicana 2026,recording:https://www.youtube.com/playlist?list=PLh4k7EswYO0SODLaJh_kBKnMUAYw2t3ZZ
+2026-07-18-KCD Lima Perú 2026,recording:https://www.youtube.com/playlist?list=PLfEiBSM7G6Uo
+2026-07-20-DebConf26,recording:[Video archive](https://meetings-archive.debian.net/pub/debian-meetings/2026/DebConf26/) | [Session pages](https://debconf26.debconf.org/schedule/)
+2026-07-15-Swift Rockies,recording:https://www.youtube.com/playlist?list=PLDq7blgJmS0k
+2026-07-18-EuroSciPy 2026,recording:https://www.youtube.com/playlist?list=PLYqi92iCr_sU
+2026-07-21-Ruby Conf Africa 2026,recording:https://www.youtube.com/playlist?list=PLPKKhxspI63M
+2026-07-24-PyData PyCon Yerevan 2026,recording:https://www.youtube.com/playlist?list=PLKZM1caSP1-I
+2026-07-25-KCD & OpenInfra Days Vietnam 2026,recording:https://www.youtube.com/playlist?list=PLXNEMKsDbwEY
+2026-07-28-ArgoCon Japan,recording:https://www.youtube.com/playlist?list=PLIpHGd5-uZ40
+2026-07-28-KeyCloakCon Japan,recording:https://www.youtube.com/playlist?list=PLcD2NUu0Iq1o
+2026-07-29-Chain React 2026,recording:[All videos](https://www.youtube.com/playlist?list=PLC8P4j8GbY9s) | [Day 1](https://www.youtube.com/watch?v=-VB-ikjsbnI) | [Day 2](https://www.youtube.com/watch?v=epuPwdDOkF0)
+2026-07-30-Kuber Community Day,recording:https://youtube.com/playlist?list=PLROeTHghJa5U
+2026-08-02-Deep Learning Indaba 2026,recording:https://www.youtube.com/playlist?list=PLAkLlQXz7EkY
+2026-08-03-GopherCon 2026,recording:https://www.youtube.com/playlist?list=PL2ntRZ1ySWBcO6gC-lRSPepK8QceU0fuK
+2026-08-04-KCD Kubernetes Community Days Melbourne 2026,recording:https://www.youtube.com/playlist?list=PLEARUnJylpLA
+2026-08-07-AppSec Village - DEF CON 34,recording:https://www.youtube.com/playlist?list=PLcTvM8Q0fhsQ
+2026-08-07-Recon Village @ DEFCON 2026,recording:https://www.youtube.com/playlist?list=PLbapdIkbjXVI
+2026-08-08-UbuCon Asia x COSCUP 2026,recording:[Prime Session](https://www.youtube.com/playlist?list=PLXdGmgVkXDuE) | [Ruby Taiwan Track](https://www.youtube.com/playlist?list=PLLbTIvRwEmSQ) | [Interviews](https://www.youtube.com/playlist?list=PLSy7-A2DQaUg)
+2026-08-11-Open Source Summit Korea,recording:https://www.youtube.com/playlist?list=PLGvLNTwz4WbE
+2026-08-12-Render (RenderATL) 2026,recording:[All talks](https://www.youtube.com/playlist?list=PLGtpdaGpozjo) | [Day 1](https://www.youtube.com/watch?v=0b_EWt2BV3k) | [Day 2](https://www.youtube.com/watch?v=KFt5dAY9ZRw)
+2026-08-13-MCP Dev Summit Seoul,recording:https://www.youtube.com/watch?v=DMFDb1GCjKY
+2026-08-14-Carolina Code Conference 2026,recording:https://www.youtube.com/playlist?list=PLByUtaayjHPM
+2026-08-20-EightKB August 2026,recording:https://www.youtube.com/playlist?list=PLGP98n3OguvI
+2026-08-15-Hack Glasgow,recording:https://youtube.com/playlist?list=PLVTR0aGsuw1s
+2026-08-20-Laravel Live Denmark,recording:https://www.youtube.com/playlist?list=PLTUtXGcdc1_E
+2026-08-21-GDevCon#7,recording:https://www.youtube.com/playlist?list=PLDarKsmeyTE4
+2026-08-24-DjangoCon US,recording:https://www.youtube.com/playlist?list=PLFQg7E3if2as
+2026-08-26-PyCon Australia,recording:https://www.youtube.com/playlist?list=PLCJhUeE16u1I
+2026-09-01-DroidKaigi 2026,recording:https://www.youtube.com/playlist?list=PLIvD3RPkoPvA
+2026-09-01-KCD SF Bay Area 2026,recording:https://www.youtube.com/playlist?list=PLQYdzzICWra0
+2026-09-01-KCD x Ceph x Openinfra Day Korea 2026,recording:https://www.youtube.com/playlist?list=PLRL1s6Tfy1b8
+2026-09-01-seL4 Summit,recording:https://www.youtube.com/playlist?list=PLd7rrADYxxQQ
+2026-09-01-swampUP 2026,recording:https://www.youtube.com/playlist?list=PLMBwQwgNpN8Y
+2026-09-04-JUG Summer Camp 2026,recording:https://www.youtube.com/playlist?list=PLJNLkiRERwwI
+2026-09-07-OSPOlogy + OSPO Summit China,recording:https://www.youtube.com/playlist?list=PLQCTA5X_ycRo
+2026-09-07-iOSDevUK,recording:[visionOS Business Use Cases — Matt Novoselov](https://www.youtube.com/watch?v=Eh10rG9tRfE)
+2026-09-08-Devopsdays Portland, OR,recording:https://www.youtube.com/playlist?list=PLGvwbVfNp44A
+2026-09-08-RustConf 2026,recording:https://www.youtube.com/playlist?list=PLCIkLZab-UIM
+2026-09-10-AGNTCon + MCPCon Japan,recording:https://youtube.com/playlist?list=PLBiiOf3GGsdk
+2026-09-10-BSides Belfast 2026,recording:https://www.youtube.com/playlist?list=PLYr2nGcviosw
+2026-09-10-Conf42 Observability 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrBA6AiE2f0hmsnFk5oGfFjb
+2026-09-10-ElixirConf® US 2026,recording:https://www.youtube.com/playlist?list=PLVqsKC3zWaDc
+2026-09-10-Escape 2026,recording:https://youtube.com/playlist?list=PLTOclmFZdtOA
+2026-09-10-Signals Conference,recording:[Lightning Talks](https://www.youtube.com/watch?v=4NR4n6GNxyA) | [Panel — Reliability in the Age of AI](https://www.youtube.com/watch?v=dl_dVaV4bJs)
+2026-09-12-AWS Community Day Vadodara 2026,recording:https://www.youtube.com/playlist?list=PLXXn3pfBEfe4
+2026-09-12-CppCon 2026,recording:https://www.youtube.com/playlist?list=PLHTh1InhhwT4dQuHLWnSL14pZMo6-cBx_
+2026-09-14-NDC Oslo,recording:https://www.youtube.com/playlist?list=PLIUsisVeO5Wc
+2026-09-17-API Platform Conference 2026,recording:https://www.youtube.com/playlist?list=PLAMnB_tDYQ0I
+2026-09-22-Devopsdays Denver,recording:https://www.youtube.com/playlist?list=PLGUfiDpj-joY
+2026-09-23-BlenderCon,recording:https://www.youtube.com/playlist?list=PLa1F2ddGya_-I9y1nXALrBqrZNdlUE012
+2026-09-15-LF Energy Summit Europe,recording:https://www.youtube.com/playlist?list=PLDE13Lw0b5KY
+2026-09-15-Xen Summit 2026,recording:https://www.youtube.com/playlist?list=PLGe6RWOETgTQ
+2026-09-16-DC State of the Stack 2026,recording:https://www.youtube.com/playlist?list=PLP4XmS3XP1kg
+2026-09-16-Hatch Conference,recording:https://www.youtube.com/playlist?list=PLHaM8N04zP9w
+2026-09-16-The AI-Native Workplace Summit 2026,recording:https://www.youtube.com/playlist?list=PLeJg-k0PTuSI
+2026-09-17-AGNTCon + MCPCon Europe,recording:https://youtube.com/playlist?list=PLYQhaaSJGN4U
+2026-09-17-Swiss Cloud Native Day 2026,recording:https://www.youtube.com/playlist?list=PLK5U5TmbkYQ8
+2026-09-18-UtahJS Conf 2026,recording:https://www.youtube.com/playlist?list=PLUMGDr9B2pYs
+2026-09-19-SAP Inside Track Weinheim 2026,recording:https://www.youtube.com/playlist?list=PLA16RmgDzT40
+2026-09-21-Cloud Foundry Summit,recording:https://www.youtube.com/playlist?list=PLfuhJizDu3R0
+2026-09-22-Agile en Seine & IA 2026,recording:https://www.youtube.com/playlist?list=PLWnPeMNwhki0
+2026-09-22-Nerdearla Argentina,recording:https://www.youtube.com/playlist?list=PLSIhVPGaUbi8
+2026-09-22-OpenSearchCon North America,recording:https://youtube.com/playlist?list=PLOZAsMYNWb40
+2026-09-22-Salon Data 2026,recording:https://www.youtube.com/playlist?list=PLPJ1o3CXM1Ng
+2026-09-23-AI horizons 2026,recording:https://www.youtube.com/playlist?list=PLHGOyldFH3Mo
+2026-09-23-Directions for Enterprise 2026,recording:https://www.youtube.com/playlist?list=PLB_qC2qByEo4
+2026-09-23-Rails World 2026,recording:https://www.youtube.com/playlist?list=PLdMRFKO1zSBE
+2026-09-23-bit summit 2026,recording:https://www.youtube.com/playlist?list=PLYRymzJVXIDE
+2026-09-24-Conf42 AI Agents 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrCZ8u5VHJAm9eOB9KJTCZT8
+2026-09-28-DevOpsDays Dallas 2026,recording:[Day 1](https://www.youtube.com/playlist?list=PLNLfL_vXC4x8) | [Day 2](https://www.youtube.com/playlist?list=PLSKzZpM664BU)
+2026-09-28-GOTO Copenhagen,recording:https://www.youtube.com/playlist?list=PLLNxvxVdOa7U
+2026-09-29-Cloud Native Days Austria,recording:https://www.youtube.com/playlist?list=PLcMwH4f9MXB4
+2026-09-30-Apidays London,recording:https://www.youtube.com/playlist?list=PLeXVvr_1A1Ws
+2026-09-28-DevOpsDays Bogotá 2026,recording:https://www.youtube.com/playlist?list=PLaQaLHYWESIg
+2026-09-29-CTO Craft Con: Europe,recording:https://www.youtube.com/playlist?list=PLFBqJb07FBRk
+2026-10-01-Volcamp,recording:https://www.youtube.com/playlist?list=PLd211O2boFMQ
+2026-10-01-kcpCON,recording:https://www.youtube.com/playlist?list=PLFl39mcI_oAo
+2026-10-02-DevFest Perros-Guirec 2026,recording:https://www.youtube.com/playlist?list=PLHigI4p3vVKc
+2026-10-03-AWS Community Day Bulgaria 2026,recording:https://www.youtube.com/playlist?list=PLCyIILT6s0s8
+2026-10-03-BSides Cheltenham 2026,recording:https://www.youtube.com/playlist?list=PLAn045YTJ4ME
+2026-10-03-DDD Perth 2026,recording:https://www.youtube.com/playlist?list=PLCXichuJGtY0
+2026-10-05-Linux Plumbers Conference,recording:https://www.youtube.com/playlist?list=PLd3Gjl51NPg0
+2026-10-05-Observability Summit Europe,recording:https://www.youtube.com/playlist?list=PLbc5nk5m9_a4
+2026-10-07-PromCon Europe,recording:https://www.youtube.com/playlist?list=PLW6MnQlLn89E
+2026-10-08-Dapr Day Virtual,recording:https://www.youtube.com/playlist?list=PLBqWlHaBe7OI
+2026-10-08-Linux Security Summit Europe,recording:https://www.youtube.com/playlist?list=PLPtVOdMhJW_8
+2026-10-10-DevFest Kraków 2026,recording:https://www.youtube.com/playlist?list=PLIonWHYguUas
+2026-10-10-Lakehouse Day EU 2026,recording:https://www.youtube.com/playlist?list=PLc5WYDCFHAoE
+2026-10-11-Community Over Code (The Apache Software Foundation),recording:[Keynotes](https://www.youtube.com/playlist?list=PLL0QHxgXmVlk) | [Community](https://www.youtube.com/playlist?list=PLVekp4-xL9QE) | [Data Infra and Engineering](https://www.youtube.com/playlist?list=PLKxRdx0rB-uw) | [AI Plumbing](https://www.youtube.com/playlist?list=PLKcabJh9qnPg)
+2026-10-12-AI Engineer NYC 2026,recording:[Complete playlist](https://www.youtube.com/playlist?list=PLLKkCXQeuCis) | [Online talks](https://www.youtube.com/playlist?list=PLVanfCmVOgIg) | [Workshops](https://www.youtube.com/playlist?list=PLPrARbQ6iscE)
+2026-10-05-MCP Dev Summit Toronto,recording:https://youtube.com/playlist?list=PLQCdLuOqrWZU
+2026-10-07-next.app devcon,recording:https://youtube.com/playlist?list=PLSqKLdsvBULU
+2026-10-08-Forum PHP 2026,recording:https://www.youtube.com/playlist?list=PLIT7Te-ZvJlc
+2026-10-12-PyCon Greece 2026,recording:[Day 1 — Auditorium Miltiadis Evert](https://www.youtube.com/watch?v=utKYH8ulZqk) | [Day 2 — Auditorium Miltiadis Evert](https://www.youtube.com/watch?v=sOzMe7b7gEM) | [Day 1 — Purifier Stage](https://www.youtube.com/watch?v=JLIfLIOpm5E) | [Day 2 — Purifier Stage](https://www.youtube.com/watch?v=_U7IDwokmb4)
+2026-10-12-SwiftLeeds,recording:[Day One live stream](https://www.youtube.com/watch?v=DiISlF0xtrY)
+2026-10-13-SRECon EMEA,recording:[The Future of Operations](https://www.youtube.com/watch?v=nj9-3F_usYs) | [AGI and SRE](https://www.youtube.com/watch?v=CzT29WhP404)
+2026-10-13-TechCrunch Disrupt,recording:https://www.youtube.com/playlist?list=PLQi30ak2-7D8
+2026-10-14-EuroRust,recording:https://www.youtube.com/playlist?list=PLDiH7Ix4u0ZA
+2026-10-14-Python Brazil 2026,recording:https://www.youtube.com/playlist?list=PLIbygL199-cI
+2026-10-14-Virtual EnvoyCon 10 Year Anniversary Edition,recording:https://www.youtube.com/playlist?list=PLUynla4qtA9w
+2026-10-14-NIC 2026,recording:https://www.youtube.com/playlist?list=PL5U4HI1vS6ocrY0ks5VN8G0HZei_zfhyr
+2026-10-15-AWS Community Day Australia 2026,recording:https://www.youtube.com/playlist?list=PLHt9prFuepCo
+2026-10-15-Conf42 DevSecOps 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrBJIQwI28zPTt68a4GzhOc9
+2026-10-15-KubeVirt Summit Virtual,recording:https://www.youtube.com/playlist?list=PLV0EVNI8RJRI
+2026-10-15-TalosCon,recording:https://www.youtube.com/playlist?list=PLakh3rfRgpeU
+2026-10-16-Open Source AI Week,recording:https://www.youtube.com/playlist?list=PLI-CQ5Wx4QmQ
+2026-10-16-AWS Community Day Australia, 2026,recording:https://www.youtube.com/playlist?list=PLHt9prFuepCo
+2026-10-20-OCUDU Ecosystem Developer Summit,recording:https://www.youtube.com/playlist?list=PLd8yLVthsuIo
+2026-10-20-PyTorch Conference 2026,recording:https://www.youtube.com/playlist?list=PLVqjs87Mef-U
+2026-10-20-hayaData 2026,recording:https://www.youtube.com/playlist?list=PLRpmpMRb0PME
+2026-10-21-Code BEAM Europe 2026,recording:https://www.youtube.com/playlist?list=PLB7ZTubBnAhw
+2026-10-24-DevFest Venezia 2026,recording:https://www.youtube.com/playlist?list=PLS_OhLidK1HA
+2026-10-28-Apidays Australia,recording:https://www.youtube.com/playlist?list=PLSAYrY2tewGg
+2026-10-21-HelloStavanger 2026,recording:https://www.youtube.com/playlist?list=PLCH701MSjZeQ
+2026-10-21-Resend Forward,recording:https://www.youtube.com/playlist?list=PLbCmkdOLnaeI
+2026-10-22-AGNTCon + MCPCon,recording:https://www.youtube.com/playlist?list=PLFBM09st9BIg
+2026-10-23-DevOpsDays Bogotá 2026,recording:https://www.youtube.com/playlist?list=PLaQaLHYWESIg
+2026-10-29-Conf42 Prompt Engineering 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrDzNtWZ0n1t5hBRAnvvhOpl
+2026-10-29-React India,recording:https://www.youtube.com/playlist?list=PLJVXgbxYJDSI
+2026-10-30-DevFest.cz 2026,recording:https://www.youtube.com/playlist?list=PLchJVBxcMcWU
+2026-11-02-CTO Craft Con: Fintech,recording:https://www.youtube.com/playlist?list=PLB2vkWIbSEng
+2026-11-02-Open Source Analytics Conference,recording:https://www.youtube.com/playlist?list=PLTLtCE72XvgI
+2026-11-04-Øredev,recording:https://www.youtube.com/playlist?list=PLZ5dhgROsU_w
+2026-11-05-Conf42 Platform Engineering 2026,recording:https://www.youtube.com/playlist?list=PLIuxSyKxlQrASkIvm2yEw5xkOVrx3cUOw
+2026-11-09-Agentics Day: MCP + Agents North America,recording:https://www.youtube.com/playlist?list=PLF-4Nd-5sEaE
+2026-11-09-ArgoCon North America,recording:https://www.youtube.com/playlist?list=PLAsAIjFobu58
+2026-11-09-BackstageCon North America,recording:https://www.youtube.com/playlist?list=PLO73UYEHPMhA
+2026-11-09-CiliumCon North America,recording:https://www.youtube.com/playlist?list=PLM71N50RcL1w
+2026-11-09-Cloud Native AI & Inference Day North America,recording:https://www.youtube.com/playlist?list=PLY3atWMmCSOg
+2026-11-09-FluxCon North America,recording:https://www.youtube.com/playlist?list=PLCqn2cxbl5ik
+2026-11-09-Kubernetes on Edge Day North America,recording:https://www.youtube.com/playlist?list=PLMA2hGGHMt6I
+2026-11-09-Observability Day North America,recording:https://www.youtube.com/playlist?list=PLDqJ1x56vKNI
+2026-11-09-Open Source SecurityCon North America,recording:https://www.youtube.com/playlist?list=PLKFA4HuhF-3M
+2026-11-09-OpenTofu Day North America,recording:https://www.youtube.com/playlist?list=PLaErU6su-iDc
+2026-11-09-Platform Engineering Day North America,recording:https://www.youtube.com/playlist?list=PLNrGxpY9yVAU
+2026-11-09-Web Summit Lisbon,recording:[Opening Night](https://www.youtube.com/watch?v=dJi_pXLxwno) | [Day One](https://www.youtube.com/watch?v=S9RHQGNIaFY) | [Day Three](https://www.youtube.com/watch?v=-MGZdAtbTrs)
+2026-11-12-NODES 2026,recording:https://www.youtube.com/playlist?list=PLEeGFudzZorE
+2026-11-08-Simply Cyber Con 2026,recording:https://www.youtube.com/playlist?list=PLc9O2NA4idZ8
+2026-11-09-KubeCon + CloudNativeCon NA 2026,attendees:10000,recording:[All sessions](https://www.youtube.com/playlist?list=PLTr_Dw92PnXU) | [Cloud Native University NA](https://www.youtube.com/playlist?list=PLHFvt47dEyHo) | [Keynotes](https://www.youtube.com/playlist?list=PLPmTb10DsaPI) | [Keynotes (ASL)](https://www.youtube.com/playlist?list=PLT6Xm6vQkm0Y)
+2026-11-10-Porto Tech Hub Conference 2026,recording:https://www.youtube.com/playlist?list=PLBukrQJj-BUc
+2026-11-12-Nordic APIs Summit 2026,recording:https://www.youtube.com/playlist?list=PLCPtVszuNWsw
+2026-11-18-Nerdearla Mexico,recording:https://www.youtube.com/playlist?list=PLJACC8Jd7ToE
+2026-11-18-Nerdearla México 2026,recording:https://www.youtube.com/playlist?list=PLJACC8Jd7ToE
+2023-10-08-AI Engineer Summit,recording:[Talks](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0VfsL23518EQF5lkA2QIIsJ) | [Remote talks](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0UkITX5LuOtcrSYwiqfQNin) | [Workshops](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0U3Nr2KKWJsVnjF5S9bTXY-)
+2025-09-23-AI Engineer Paris,recording:[Day 1 opening keynotes](https://www.youtube.com/watch?v=d6dp_dwgpYQ) | [Day 2](https://www.youtube.com/watch?v=wyUdpmj9-64)
+2026-11-10-AI Engineer CODE Summit SF 2026,recording:[Complete playlist](https://www.youtube.com/playlist?list=PLZUQJ1aon-40) | [Online talks](https://www.youtube.com/playlist?list=PLbhiZl98JSQI) | [Day 1 livestream](https://www.youtube.com/watch?v=ZZ19zhYnDKY) | [Day 2 livestream](https://www.youtube.com/watch?v=y9JtCCZP2MQ)
+2024-06-25-AI Engineer World's Fair 2024,recording:[Keynotes](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0UCW1hhTRZr_gmt_VILjiIO) | [Agents](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0WO4zlwpGVeQOqV1Z_QbRIh) | [RAG & LLM frameworks](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0WRU8OLzC80g0lSw6PZeRxj) | [Evals & LLM Ops](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0U7f6OGAGa64ck6RbzMxsKW) | [Multimodality](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0W9MogYqgUzGY7DeuspKNvr) | [AI leadership](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0WIh-HLjzW8SPk7cyTSone_) | [AI in the Fortune 500](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0X9inDiRhePTO98dr466EHo) | [Workshops](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0W2xRgkV4PUnC-oYGjZez8L) | [Expo sessions](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0UL1fkEq90SxR9iQ_MW4swP)
+2025-02-19-AI Engineer Summit 2025,recording:[Complete playlist](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0VGHcZxjSoAe_r5VbdHXmjy) | [Workshops](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0XRs4DnHwh3yzH0Yca4yIHH) | [Online track](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0VetQVGT1EqTbcr-qcgbfFs)
+2025-11-19-AIE CODE Summit NYC 2025,recording:[Coding model and agent labs](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0Xq5OF1xbCsMrABt5LnbKuo) | [AI leadership](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0WWjA7f5DuTgLOUyy93xsNH) | [Online track](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0WQMXP87G_uVYQdSFVAiVUZ)
+2026-04-08-AI Engineer Europe 2026,recording:[Complete playlist](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0W4IhTx8dgBjTEYRmbEHcpP) | [Keynotes](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0V3a6nNCVfYxVRfcJ-BNQo7) | [Workshops](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0VntjlYzeRZR3ay9wAMbAbb) | [Online track](https://www.youtube.com/playlist?list=PLcfpQ4tk2k0VZNoUvSBmLBCbM1lMmpug2)
+2026-04-20-AI Engineer Miami 2026,recording:[Day 1](https://www.youtube.com/watch?v=6IxSbMhT7v4) | [Day 2](https://www.youtube.com/watch?v=DeM_u2Ik0sk)
+2026-05-15-AI Engineer Singapore 2026,recording:[Day 1](https://www.youtube.com/watch?v=_xQnSNlBP_w) | [Day 2](https://www.youtube.com/watch?v=m12vGjfbNlo)
+2026-06-03-AI Engineer Melbourne 2026,recording:[Day 1](https://www.youtube.com/watch?v=wjXowoQ7E8c) | [Day 2](https://www.youtube.com/watch?v=NmjGfdZLNIs)
+2026-09-23-AI Engineer Paris 2026,recording:[Day 1 opening keynotes](https://www.youtube.com/watch?v=CGq9KRSb9Kc) | [Day 2](https://www.youtube.com/watch?v=g0vqT_wZtXA)
+2026-11-05-AI Engineer Shanghai 2026,recording:[Ryo Lu talk](https://www.youtube.com/watch?v=y9Sg--RDtks)
 2027-06-10-TechReady 2027,attendees:500
