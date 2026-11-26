@@ -16,8 +16,8 @@ inside a playlist.
 
 | Metric | Value |
 |---|---:|
-| Event entries | 6,881 |
-| Events with at least one recording | 1,075 (15.62%) |
+| Event entries | 6,890 |
+| Events with at least one recording | 1,075 (15.60%) |
 | Recording links | 1,288 |
 | Events with multiple recordings | 84 |
 | Playlist links | 1,047 (81.29%) |
@@ -35,9 +35,9 @@ Events are grouped by the year of their start date.
 | 2017–2020 | 407 | 0 | 0.00% | 0 | 0 | 0 | 0 |
 | 2021–2024 | 2,242 | 29 | 1.29% | 39 | 2 | 39 | 0 |
 | 2025 | 1,349 | 505 | 37.44% | 549 | 16 | 491 | 58 |
-| 2026 | 2,511 | 541 | 21.55% | 700 | 66 | 517 | 183 |
-| 2027–2028 | 372 | 0 | 0.00% | 0 | 0 | 0 | 0 |
-| **Total** | **6,881** | **1,075** | **15.62%** | **1,288** | **84** | **1,047** | **241** |
+| 2026 | 2,519 | 541 | 21.48% | 700 | 66 | 517 | 183 |
+| 2027–2028 | 373 | 0 | 0.00% | 0 | 0 | 0 | 0 |
+| **Total** | **6,890** | **1,075** | **15.60%** | **1,288** | **84** | **1,047** | **241** |
 
 Future years are included in the event-entry totals but naturally have no
 recordings yet. Coverage therefore describes the current metadata snapshot, not

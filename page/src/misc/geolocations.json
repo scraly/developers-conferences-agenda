@@ -719,6 +719,10 @@
     "latitude": 27.7003986,
     "longitude": 83.4657667
   },
+  "Bwari (Nigeria)": {
+    "latitude": 9.2357478,
+    "longitude": 7.4718746
+  },
   "Bydgoszcz (Poland)": {
     "latitude": 53.12974625,
     "longitude": 18.029369658534854
@@ -1355,6 +1359,10 @@
     "latitude": 38.84670819999999,
     "longitude": -91.94795859999999
   },
+  "Gabes (Tunisia)": {
+    "latitude": 33.8878082,
+    "longitude": 10.10044
+  },
   "Gaborone (Botswana)": {
     "latitude": -24.6581357,
     "longitude": 25.9088474
@@ -1887,6 +1895,10 @@
     "latitude": -7.118835199999999,
     "longitude": -34.8814339
   },
+  "Juba (South Sudan)": {
+    "latitude": 4.8459246,
+    "longitude": 31.5959173
+  },
   "Juiz De Fora, MG (Brazil)": {
     "latitude": -21.7623932,
     "longitude": -43.3434669
@@ -1978,6 +1990,10 @@
   "Kingston upon Hull (UK)": {
     "latitude": 53.7674909,
     "longitude": -0.3273025
+  },
+  "Kinshasa (Democratic Republic of the Congo)": {
+    "latitude": -4.32171,
+    "longitude": 15.3122511
   },
   "Kinshasa (Republic of the Congo)": {
     "latitude": -4.8093214,
@@ -2327,10 +2343,6 @@
     "latitude": 45.7578137,
     "longitude": 4.8320114
   },
-  "MASERU (Lesotho)": {
-    "latitude": -29.310054,
-    "longitude": 27.478222
-  },
   "Maceió (Brazil)": {
     "latitude": -9.6660417,
     "longitude": -35.7352167
@@ -2454,6 +2466,10 @@
   "Mascara (Algeria)": {
     "latitude": 35.394081,
     "longitude": 0.1379568
+  },
+  "Maseru (Lesotho)": {
+    "latitude": -29.310054,
+    "longitude": 27.478222
   },
   "Matsuyama (Japan)": {
     "latitude": 33.8395188,
@@ -3230,6 +3246,10 @@
   "Raleigh, NC (USA)": {
     "latitude": 35.7803977,
     "longitude": -78.6390989
+  },
+  "Ramallah (Palestine)": {
+    "latitude": 31.9231906,
+    "longitude": 35.2108501
   },
   "Ramat Hasharon (Israel)": {
     "latitude": 32.1431276,
