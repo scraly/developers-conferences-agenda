@@ -25,6 +25,7 @@
   display: inline-flex;
   flex-shrink: 0;
   justify-content: center;
+  margin-right: 0;
   padding: 0.25rem;
 }
 
@@ -95,5 +96,62 @@
   .cfp-companion-view .cfp-submission-durations {
     margin-left: 0;
     max-width: none;
+  }
+}
+
+/* Phones: the entry is a single narrow column, and the row rules inherited
+   from the shared list view leave its text hugging the left edge while the
+   controls above it sit in a 36px-high row. Centre the details and the
+   duration chips in the card and give the controls a thumb-sized target. */
+@media screen and (max-width: 660px) {
+  /* The shared list rules only stack the entry below 768px; between 661 and
+     768px the card is still a row, so stack it here too before centring. */
+  .cfp-companion-view .event-list-entry {
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .cfp-companion-view .event-details {
+    width: 100%;
+  }
+
+  .cfp-companion-view .cfp-entry-actions {
+    justify-content: center;
+    position: relative;
+    width: 100%;
+  }
+
+  .cfp-companion-view .cfp-entry-actions .favorite-button {
+    left: 0;
+    position: absolute;
+  }
+
+  .cfp-companion-view .event-list-entry .cfp-link {
+    margin-right: 0;
+  }
+
+  .cfp-companion-view .event-details,
+  .cfp-companion-view .event-list-header {
+    align-items: center;
+    text-align: center;
+  }
+
+  .cfp-companion-view .cfp-submission-durations,
+  .cfp-companion-view .tag-badges {
+    align-self: stretch;
+    justify-content: center;
+  }
+
+  .cfp-companion-view .cfp-speaker-status-button {
+    height: 2.75rem;
+    width: 2.75rem;
+  }
+
+  .cfp-companion-view .cfp-link {
+    padding: 0.75rem;
+  }
+
+  .cfp-companion-view .favorite-button {
+    padding: 0.75rem;
   }
 }
