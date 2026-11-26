@@ -171,6 +171,90 @@ test.describe('Edge Cases (TS-026)', () => {
   })
 })
 
+// Panel dismissal: clicking outside or pressing Escape closes the panel
+// without discarding what the user entered.
+test.describe('Filter panel dismissal', () => {
+  const filtersPanel = (page) => page.locator('.filters')
+  const queryInput = (page) => page.locator('#filter-query')
+
+  const clickOutsidePanel = async (page) => {
+    // The page title spans the viewport, is not interactive, and its right
+    // half sits clear of the 300px-wide panel.
+    await page.locator('.dcaTitle').click({ position: { x: 700, y: 10 } })
+  }
+
+  test('clicking outside closes the panel and keeps the entered filters', async ({ page }) => {
+    await page.goto('/#/2026/list')
+    await openFilters(page)
+
+    await queryInput(page).fill('react')
+    await expect.poll(() => page.url()).toContain('query=react')
+
+    await clickOutsidePanel(page)
+    await expect(filtersPanel(page)).toHaveClass(/closed/)
+
+    await openFilters(page)
+    await expect(queryInput(page)).toHaveValue('react')
+  })
+
+  test('pressing Escape closes the panel and keeps the entered filters', async ({ page }) => {
+    await page.goto('/#/2026/list')
+    await openFilters(page)
+
+    await queryInput(page).fill('rust')
+    await expect.poll(() => page.url()).toContain('query=rust')
+
+    await page.keyboard.press('Escape')
+    await expect(filtersPanel(page)).toHaveClass(/closed/)
+
+    await openFilters(page)
+    await expect(queryInput(page)).toHaveValue('rust')
+  })
+
+  test('pressing Escape moves focus out of the hidden panel', async ({ page }) => {
+    await page.goto('/#/2026/list')
+    await openFilters(page)
+
+    await queryInput(page).fill('react')
+    await expect.poll(() => page.url()).toContain('query=react')
+
+    await page.keyboard.press('Escape')
+    await expect(filtersPanel(page)).toHaveClass(/closed/)
+
+    const toggle = page.locator('.filters > .filters-header')
+    await expect(toggle).toBeFocused()
+
+    // Typing must not edit the query field that slid off-screen.
+    await page.keyboard.type('xyz')
+    await expect(queryInput(page)).toHaveValue('react')
+    await expect.poll(() => page.url()).not.toContain('xyz')
+
+    // The toggle is keyboard operable, so the panel can be reopened without a mouse.
+    await page.keyboard.press('Enter')
+    await expect(filtersPanel(page)).toHaveClass(/open/)
+  })
+
+  test('clicking inside the panel keeps it open', async ({ page }) => {
+    await page.goto('/#/2026/list')
+    await openFilters(page)
+
+    await page.locator('#filter-online').click()
+
+    await expect(filtersPanel(page)).toHaveClass(/open/)
+  })
+
+  test('selecting a dropdown option keeps the panel open', async ({ page }) => {
+    await page.goto('/#/2026/list')
+    await openFilters(page)
+
+    const topicFilter = page.locator('.filter-multiselect').filter({ hasText: 'Topic' })
+    await topicFilter.locator('.filter-ms__control').click()
+    await page.locator('.filter-ms__option').first().click()
+
+    await expect(filtersPanel(page)).toHaveClass(/open/)
+  })
+})
+
 // T037: Empty filter category
 test.describe('Empty Filter Category (TS-027)', () => {
   test('all tag filters render even if some have no options', async ({ page }) => {

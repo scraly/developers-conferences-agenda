@@ -17,6 +17,15 @@
     left: 100%;
 }
 
+.filters-header:focus-visible {
+    outline: none;
+}
+
+.filters-header:focus-visible .filters-icon {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+}
+
 .filters-active-indicator {
     position: absolute;
     top: -4px;
