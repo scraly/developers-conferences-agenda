@@ -49,26 +49,39 @@ YYYY-MM-DD-Conference Name,attendees:NUMBER
 
 ## Recordings
 
-If you know the recording URL(s) of a conference, add them to the `METADATA.csv` file with the `recording:` key. The same key accepts one or more links and can be added alongside other metadata such as the number of attendees:
+Add a recording you already know by editing `METADATA.csv`, or use the
+[finding recordings workflow](docs/recordings-workflow.md) to discover and verify
+missing links.
+
+### Add a recording manually
+
+Use the `recording:` key. It can appear alongside other metadata such as the
+number of attendees:
 
 ```
 YYYY-MM-DD-Conference Name,attendees:NUMBER,recording:https://example.com/recording
 ```
 
-An event can have several recordings, for example per-day or per-track playlists. Separate entries with ` | ` and label each one with `[label](url)`:
+An event can have several recordings, for example per-day or per-track
+playlists. Separate entries with ` | ` and label each one with `[label](url)`:
 
 ```
 2026-04-22-Devoxx France 2026,attendees:4600,recording:[Keynotes](https://www.youtube.com/playlist?list=PLTbQvx84FrARmATtGZ-lPoT0fPV49seWw) | [Deep Dive](https://www.youtube.com/playlist?list=PLTbQvx84FrASQQ2rugdm8IMq1ceA0mWGv)
 ```
 
-The row must start with the event's date and exact name as listed in `README.md` or `archives/YYYY.md` — otherwise the metadata is silently ignored. See [docs/recordings-design.md](docs/recordings-design.md) for the full processing rules.
+The row must start with the event's date and exact name as listed in `README.md`
+or `archives/YYYY.md`; otherwise the metadata is silently ignored. See
+[Recording metadata and rendering](docs/recordings-design.md) for the full
+processing rules.
 
-## Updating recordings with an agent
+### Find missing recordings with an agent
 
-Recording links (`recording:` fields in `METADATA.csv`) can be updated by an AI coding agent. Prompt:
+Ask your coding agent:
 
-> find missing recordings for 2026 events
+> Find missing recordings for 2026 events.
 
-See [docs/recordings-workflow.md](docs/recordings-workflow.md) for the full workflow and verification steps.
+The agent scans and reports by default; it does not add links until you ask it
+to apply verified results. See [Finding recordings](docs/recordings-workflow.md)
+for the scan, review, write, cache, and validation workflow.
 
 Thanks! ❤️

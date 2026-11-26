@@ -1,17 +1,25 @@
-# tools
+# Tools
 
-Utility scripts for processing conference data, generating feeds, and validating data integrity.
+Utility scripts for processing conference data, generating feeds, and
+validating data integrity.
 
 ## mdParser.js
-### Mission
-Parses the README file to find archives and events. extract every events from those markdown files and saves them in a `all-event.json` file
-### Usage
-```
-node mdParser.js 
-```
-outputFile whose value is "-" are going to stdout.
 
-### Event Output format
+### Mission
+
+Parses `README.md` and the linked `archives/YYYY.md` files, combines event
+entries with metadata, CFP, and tag data, and writes
+`page/src/misc/all-events.json` and `page/src/misc/all-cfps.json`.
+
+### Usage
+
+Run from `tools/`:
+
+```sh
+node mdParser.js
+```
+
+### Event output format
 ```json
 [
 	{
@@ -105,94 +113,91 @@ event_id,duration1,duration2,duration3,duration4
 
 Finds recordings for events that do not have a `recording:` entry in
 `METADATA.csv`. The event listing is `README.md` plus `archives/YYYY.md`;
-`tools/mdParser.js` merges those files into
-`page/src/misc/all-events.json`, which the scanner reads automatically.
+`tools/mdParser.js` merges those files into `page/src/misc/all-events.json`,
+which the scanner reads automatically.
 
 For each missing event, the scanner checks the event website and YouTube,
 including result-channel playlists, verifies candidate upload dates, and reports
 the best match. Shared recording helpers live in `recordingHelpers.js`; the
-scanner is the recording command you run.
+scanner is the only recording discovery command you need to run.
 
-### Quick workflow
+Follow [Finding recordings](../docs/recordings-workflow.md) for the complete
+scan, review, write, and validation workflow. This section is the command
+reference.
 
-Install once:
+### Usage
 
-```sh
-cd tools && npm ci && cd ..
-```
-
-Scan a batch:
-
-```sh
-node tools/recordingScanner.js --since 2025 --limit 20
-```
-
-The scanner prints the selection before scanning:
-
-```text
-Events matching filters: 2883
-Events with recordings: 521
-Future events skipped: 622
-Events to check: 2883 - 521 - 622 = 1740
-Scanning: 20 of 1740 (limited)
-Already checked: 10
-Events in cache: 350
-Cache size: 1.4 MB
-Cache last updated: 11/25/2026, 12:00:17 PM PST
-Cache will update as events are checked.
-```
-
-Review:
-
-- `tmp/recording-scan.md` — human-readable table: date, event link, recordings, status
-- `tmp/recording-scan.tsv` — spreadsheet-friendly table
-- `tmp/recording-scan.json` — candidates and verification details
-
-Reports are rewritten while the scan runs, so an interrupted scan keeps the
-partial results completed so far.
-
-Apply verified recordings using the same filters:
+Run from the repository root after installing the tools dependencies and
+`yt-dlp`:
 
 ```sh
-node tools/recordingScanner.js --since 2025 --limit 20 --write
+npm ci --prefix tools
+node tools/recordingScanner.js --year 2026 --limit 20
 ```
 
-`--write` adds only `FOUND` YouTube playlists or videos whose latest upload is
-after the event date. `MANUAL` and `REVIEW` rows are never written
-automatically. Keep the same filters: the cache reuses the scan results, so the
-write pass does not repeat the network scan.
+The scanner prints selection counts, cache statistics, and a progress bar. It
+writes three reports:
+
+- `tmp/recording-scan.md` — human-readable table with date, linked event,
+  recordings, and status.
+- `tmp/recording-scan.tsv` — spreadsheet-friendly table.
+- `tmp/recording-scan.json` — candidates, verification details, and per-result
+  `updated` timestamps.
+
+Reports are rewritten while the scan runs, so an interrupted scan keeps its
+completed partial results. They contain only the current run's selection; use
+`--md`, `--out`, and `--tsv` to choose different paths. Report timestamps are
+shown in local time with a UTC offset.
+
+After reviewing the report, apply verified recordings with exactly the same
+filters:
+
+```sh
+node tools/recordingScanner.js --year 2026 --limit 20 --write
+```
+
+`--write` adds the best candidate for each `FOUND` event: one verified YouTube
+playlist or video whose latest upload is after the event date, or an accepted
+same-day recording. It does not add every accepted alternative. `MANUAL` and
+`REVIEW` rows are never written automatically. Keeping the same filters and the
+default cache lets the write pass reuse the reviewed results.
 
 Refresh derived data after writing:
 
 ```sh
-(cd tools && node mdParser.js) && node tools/generateRecordingsStats.js
+(cd tools && node mdParser.js)
+node tools/generateRecordingsStats.js
 ```
+
+Run `node tools/recordingScanner.js --help` for all options.
 
 ### Filters
 
-- `--since YYYY` — events from this year onward
-- `--year YYYY[,YYYY]` — selected event years
-- `--event TEXT` — event name or location filter
-- `--limit N` — cap the batch size
-- `--include-future` — include events that have not happened yet
-- `--workers N` — parallel event scans, default `2`
-- `--refresh` — force regeneration of `all-events.json`
+- `--year YYYY[,YYYY]` — selected calendar years.
+- `--since YYYY` — events from this year onward.
+- `--event TEXT` — event name or location filter.
+- `--limit N` — cap the batch size.
+- `--include-future` — include events that have not happened yet.
+- `--workers N` — parallel event scans, default `2`.
+- `--min-score N` — minimum candidate score.
+- `--refresh` — force regeneration of `all-events.json`.
 
 ### Cache
 
-The scanner uses one cache: `tmp/recording-scanner-cache.json`.
+The scanner stores event results and candidate date checks in
+`tmp/recording-scanner-cache.json`.
 
 - `Already checked`: cache hits in the current scan set.
 - `Events in cache`: total event results currently stored.
 - `Cache size`: current cache file size.
 - `Cache last updated`: last successful cache write, shown in local time.
-- Default: reuse previous results and update the cache as new events are scanned.
-- `--no-cache`: do not read or write the cache. Use for a one-off run.
-- `--refresh-cache`: clear the cache and rebuild it for this scan. Use after
-  enough time has passed that new recordings may exist.
+- Default: reuse previous results and update the cache as new events are
+  scanned.
+- `--no-cache`: do not read or write the cache; use for a one-off run.
+- `--refresh-cache`: clear the entire cache and rebuild it with the current
+  scan. Results for events outside that selection are removed.
 
-Use `--refresh-cache` with the same filters you plan to scan; it replaces the
-cache for this run.
+Keep the default cache between a scan and its corresponding `--write` run.
 
 ## generateRecordingsStats.js
 
@@ -204,10 +209,11 @@ coverage numbers are derived rather than hand-maintained.
 
 ### Usage
 
-Run from the repository root after `node mdParser.js`:
+Run from the repository root after regenerating the event data:
 
 ```sh
-cd tools && npm ci && cd ..
+npm ci --prefix tools
+(cd tools && node mdParser.js)
 node tools/generateRecordingsStats.js
 ```
 

@@ -1511,9 +1511,10 @@ Inputs and output:
   --write             add verified YouTube recordings to METADATA.csv
   -h, --help          show this help
 
-The scanner reports candidates by default. It only writes a recording when the
-candidate is a YouTube playlist or video whose newest upload is after the event
-date. Official recording pages are reported as MANUAL candidates.`;
+The scanner reports candidates by default. --write adds only the best candidate
+for each FOUND event: a YouTube playlist or video whose newest upload is after
+the event date, or an accepted same-day recording. Official recording pages are
+reported as MANUAL candidates.`;
 }
 
 async function main(argv = process.argv.slice(2)) {

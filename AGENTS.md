@@ -19,10 +19,10 @@
 
 ## Finding event recordings
 
-Recording research guidance is in [docs/recordings-workflow.md](docs/recordings-workflow.md).
-The metadata format and UI behavior are documented in
-[docs/recordings-design.md](docs/recordings-design.md).
+Start with [Finding recordings](docs/recordings-workflow.md). Follow
+[Using an Agent](docs/recordings-workflow.md#using-an-agent) for request
+handling, review, write, cache, and failure rules.
 
-Use `node tools/recordingScanner.js` for recording discovery. Agent-specific
-request handling, review, write, cache, and failure rules are in
-[Using an agent](docs/recordings-workflow.md#using-an-agent).
+Use `node tools/recordingScanner.js` for recording discovery. The metadata
+format and UI behavior are in
+[Recording metadata and rendering](docs/recordings-design.md).

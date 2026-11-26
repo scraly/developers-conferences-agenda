@@ -1,9 +1,11 @@
-# How recordings are processed
+# Recording metadata and rendering
 
 Conference recordings are stored in `METADATA.csv` and flow through
 `tools/mdParser.js` into `page/src/misc/all-events.json`, which the website
-renders. For research methods and verification rules, see
-[recordings-workflow.md](recordings-workflow.md).
+renders. To add a known link, see
+[Add a recording manually](../CONTRIBUTING.md#add-a-recording-manually).
+To discover and verify missing links, see
+[Finding recordings](recordings-workflow.md).
 
 ## Format
 
@@ -12,7 +14,8 @@ renders. For research methods and verification rules, see
 ```
 
 - The `recording:` field holds one or more entries separated by ` | `.
-- Each entry is a bare URL or `[label](url)`. Label every entry when there are several.
+- Each entry is a bare URL or `[label](url)`. Label every entry when there are
+  several.
 - Entries must be `http(s)` URLs; anything else is dropped.
 - Event ids and labels may contain commas — a line splits only before
   `attendees:` and `recording:` field boundaries, never inside a value.
@@ -27,8 +30,8 @@ renders. For research methods and verification rules, see
    `{ label, url }` (empty label for a bare URL).
 3. The event gains:
    - `recordings`: the array of `{ label, url }` entries in file order.
-   - `recording`: the first entry's URL, kept for the current single-link UI.
-     Remove it when the UI renders the full array.
+   - `recording`: the first entry's URL, retained for backward compatibility.
+     The recordings UI uses the full `recordings` array.
 
 `tools/mdValidator.js` uses the same field-boundary rule to detect duplicate
 metadata rows. `tools/test-mdParser.js` covers these rules

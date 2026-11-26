@@ -24,6 +24,12 @@ All the data (past and coming) are available publicly in JSON:
 - conferences: https://developers.events/all-events.json
 - CFPs: https://developers.events/all-cfps.json
 
+## Contribution and recording guides
+
+- [Contribute an event or recording](CONTRIBUTING.md) — eligibility, event format,
+  and manual metadata updates.
+
+
 ## Archives
 
 * [2017](archives/2017.md)
