@@ -21,5 +21,8 @@
 
 Recording research guidance is in [docs/recordings-workflow.md](docs/recordings-workflow.md).
 The metadata format and UI behavior are documented in
-[docs/recordings-design.md](docs/recordings-design.md), with the short checklist
-and validation steps in [docs/recordings-discovery.md](docs/recordings-discovery.md).
+[docs/recordings-design.md](docs/recordings-design.md).
+
+Use `node tools/recordingScanner.js` for recording discovery. Agent-specific
+request handling, review, write, cache, and failure rules are in
+[Using an agent](docs/recordings-workflow.md#using-an-agent).

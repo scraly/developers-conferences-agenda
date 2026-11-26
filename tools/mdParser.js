@@ -405,4 +405,4 @@ if (require.main === module) {
   fs.writeFileSync(CFP_OUTPUT, JSON.stringify(allCFPs));
 }
 
-module.exports = { parseRecordings, splitMetadataLine };
+module.exports = { generateEventId, parseRecordings, splitMetadataLine };

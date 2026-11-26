@@ -67,8 +67,8 @@ The row must start with the event's date and exact name as listed in `README.md`
 
 Recording links (`recording:` fields in `METADATA.csv`) can be updated by an AI coding agent. Prompt:
 
-> update recordings for events in 2026
+> find missing recordings for 2026 events
 
-See [docs/recordings-workflow.md](docs/recordings-workflow.md) for the research workflow and [docs/recordings-discovery.md](docs/recordings-discovery.md) for verification steps.
+See [docs/recordings-workflow.md](docs/recordings-workflow.md) for the full workflow and verification steps.
 
 Thanks! ❤️

@@ -44,40 +44,40 @@ event_id,attendees
 2026-04-09-WordCamp Asia 2026,attendees:3000,recording:https://www.youtube.com/playlist?list=PL1pJFUVKQ7ER52veMr5wJiv7xiLRMpx1l
 2026-02-24-The Linux Foundation Member Summit 2026,attendees:330
 2026-09-04-DevOpsDays Graz 2026,attendees:200,recording:[Keynote — April Yoho](https://www.youtube.com/watch?v=E-scR3TDMi8)
-2026-02-24-Winter Data & AI Meetup 2026,attendees:1000
+2026-02-24-Winter Data & AI Meetup 2026,attendees:1000,recording:https://www.youtube.com/playlist?list=PL8DOIL6OAMkrpFHAAKSVBnIHX-b9__3-P
 2026-03-02-Talent Arena,attendees:20000,recording:https://www.youtube.com/playlist?list=PLVD-pHmVZF2YfnlJ0rBjPdLHKfxCp9a_B
 2026-06-02-Agile Tour Rennes 2026,attendees:300,recording:https://www.youtube.com/playlist?list=PLCQxouXApMcHtvAKoDP1R6XxLOpOpSF0h
 2026-05-06-Security BSides Luxembourg,attendees:300
-2026-09-19-WhatTheStack,attendees:800
+2026-09-19-WhatTheStack,attendees:800,recording:https://www.youtube.com/playlist?list=PLALKf8iXsX9g
 2026-05-14-GeeCon,attendees:800,recording:[Baruch Sadogursky](https://www.youtube.com/watch?v=Wgv5D_rcZ18) | [Tomer Gabel](https://www.youtube.com/watch?v=eVTTuwuozf0)
 2026-09-25-Confitura 2026,attendees:1300
 2026-05-28-DevCon 27 : I.A. & Vibe Coding,attendees:100
 2026-11-03-The AI Conf,attendees:800
 2026-05-22-MadVue,attendees:200,recording:https://www.youtube.com/playlist?list=PL4bHd5WrBTFg6w7wU3GvinYlP6IcR0yv1
 2026-06-09-C:\aen\Tech,attendees:200
-2026-02-28-AI Beyond Apps: Lucknow 2026,attendees:200
+2026-02-28-AI Beyond Apps: Lucknow 2026,attendees:200,recording:https://www.youtube.com/playlist?list=PLb_A3cjVGT-3sD3mKu499E_SgH0n_KMmI
 2026-02-25-Odoo Tech Evening - #4 Edition,attendees:50
-2026-03-14-CLOUDxAI,attendees:500
+2026-03-14-CLOUDxAI,attendees:500,recording:https://www.youtube.com/watch?v=5vYYuF31IdQ
 2026-07-23-Developers Conference 2026,attendees:700
 2026-04-13-SmashingConf Amsterdam,attendees:400
 2026-09-07-SmashingConf Freiburg,attendees:300
 2026-10-12-SmashingConf Antwerp,attendees:400
 2026-11-05-Heapcon 2026,attendees:700
-2026-06-05-TechReady,attendees:450
-2026-06-27-Asynconf,attendees:300
-2026-03-05-RootedCon,attendees:500
+2026-06-05-TechReady,attendees:450,recording:https://www.youtube.com/playlist?list=PLTQBSh2zTaAY
+2026-06-27-Asynconf,attendees:300,recording:https://www.youtube.com/playlist?list=PLW7rkTTqlZ84
+2026-03-05-RootedCon,attendees:500,recording:https://www.youtube.com/playlist?list=PLRK_0k3_Ea0O_rn-hLyzk_WXghuDWVTud
 2026-08-28-State of the Map,attendees:600,recording:[PeerTube archive](https://peertube.openstreetmap.fr/c/sotm_2026/videos) | [Programme and recordings](https://2026.stateofthemap.org/programme/)
 2026-03-23-KubeAuto Day Amsterdam,attendees:400
 2026-09-24-PlatformCon Paris,attendees:600,recording:[Opening keynote](https://www.youtube.com/watch?v=oz_pt8JlJiY)
 2026-03-13-Infra structure Basse,attendees:50
-2026-10-30-Cloud Nord 2026,attendees:350
+2026-10-30-Cloud Nord 2026,attendees:350,recording:https://www.youtube.com/playlist?list=PLVsWQOoepccE
 2026-12-09-DevOps REX,attendees:700
 2026-10-12-Dev With AI,attendees:400
 2026-12-10-KCD Provence,attendees:600
 2026-03-24-La Duck Conf,attendees:500,recording:https://www.youtube.com/playlist?list=PLXlbmbYadKH4bFiVhW9-VEG6pC7rOyBic
 2026-11-13-DevOpsDays Barcelona,attendees:200
 2026-11-19-DevFest Toulouse 2026,attendees:1200
-2026-10-26-Cloud Native Days Norway,attendees:500
+2026-10-26-Cloud Native Days Norway,attendees:500,recording:https://www.youtube.com/watch?v=ovfZR0euFKA
 2026-05-12-AI SRE Summit 2026,attendees:2000,recording:https://www.youtube.com/playlist?list=PLKOn7Ks4S01kOZyTp7DyF-gcNmsWnZZR6
 2026-11-19-KCD Porto 2026 | Collab with DevOps Days Portugal,attendees:500
 2026-05-11-API Conference London 2026,attendees:500,recording:https://www.youtube.com/playlist?list=PLn-I3ID9C6aqSsll_n5JmDJOhkl7OJgJ8
@@ -102,8 +102,8 @@ event_id,attendees
 2026-12-04-DevFest Lyon 2026,attendees:400
 2026-08-11-GopherCon UK,attendees:350,recording:https://www.youtube.com/playlist?list=PLGZGLmEvGK8I
 2026-04-16-MiXiT 2026,attendees:750,recording:[Official media archive](https://mixitconf.org/en/2026/media) | [YouTube playlist](https://www.youtube.com/playlist?list=PLUmDV88wF1rykTxAAYfzLqtYhX-6YMH92)
-2026-10-28-Mozilla Festival 2026,attendees:2500
-2026-10-06-FrontKon 2026,attendees:900
+2026-10-28-Mozilla Festival 2026,attendees:2500,recording:https://www.youtube.com/playlist?list=PLnRGhgZaGeBt11miYYvKSSgbxkkbKKT7p
+2026-10-06-FrontKon 2026,attendees:900,recording:https://www.youtube.com/playlist?list=PLS2TMuYu5vC4
 2026-11-03-Humanoid Robots Summit North America 2026,attendees:500
 2026-09-09-European Humanoid Robots Summit 2026,attendees:1000
 2027-04-07-Devoxx France 2027,attendees:4500
@@ -112,7 +112,7 @@ event_id,attendees
 2026-08-27-SoCraTes 2026,attendees:250
 2026-06-25-Agile Tour Toulouse 2026,attendees:350
 2026-05-19-Green Code Challenge 2026,attendees:120
-2026-06-09-France API 2026,attendees:600
+2026-06-09-France API 2026,attendees:600,recording:https://www.youtube.com/playlist?list=PLv433ZvpEylp9JQN8mj0KHYEXVvmhiFI0
 2026-07-22-DevRelCon New York 2026,attendees:300
 2026-10-29-BDX I/O 2026,attendees:1000,recording:[Edited talks](https://www.youtube.com/playlist?list=PLN03NIvP8Mp8) | [Grand Amphi — Jour 1](https://www.youtube.com/watch?v=S8sMNXbT60s) | [Grand Amphi — Jour 2](https://www.youtube.com/watch?v=jqrdU4sO490) | [Amphi A — Jour 1](https://www.youtube.com/watch?v=69G6-OL93Tk) | [Amphi A — Jour 2](https://www.youtube.com/watch?v=1PCQbp3elsk) | [Amphi B — Jour 1](https://www.youtube.com/watch?v=O4sTDTsV400) | [Amphi D — Jour 2](https://www.youtube.com/watch?v=FCSm9bVgO7U) | [Amphi E — Jour 1](https://www.youtube.com/watch?v=O-dtrVUj6OY)
 2026-09-09-EuroBSDCon,attendees:300,recording:[Day 1 — Room D002](https://www.youtube.com/watch?v=HvRMsLWcBdI) | [Day 2 — Room D002](https://www.youtube.com/watch?v=NmdWRQYrJrA) | [Day 1 — Room D003](https://www.youtube.com/watch?v=93Fede4hPZI) | [Day 2 — Room D003](https://www.youtube.com/watch?v=yPoU4QEv_u8) | [Day 1 — Room D007](https://www.youtube.com/watch?v=t_1x70mciQw) | [Day 2 — Room D007](https://www.youtube.com/watch?v=AcOPLWc-_UE)
@@ -120,7 +120,7 @@ event_id,attendees
 2026-10-10-Devfest Milano 2026,attendees:300
 2026-12-02-Cloud Native AI Summit Europe,attendees:8000
 2026-10-13-BazelCon,attendees:500,recording:https://www.youtube.com/playlist?list=PLH0fMKiAG8uQ
-2026-06-12-ETHGlobal New York Hackathon,attendees:600
+2026-06-12-ETHGlobal New York Hackathon,attendees:600,recording:https://www.youtube.com/playlist?list=PLXzKMXK2aHh7MZ8T-ict6YshkFDw9WJCu
 2026-07-24-ETHGlobal Lisbon Hackathon,attendees:600
 2026-06-08-ETHConf,attendees:5000,recording:[Day 1 — Monday, June 8, 2026](https://www.youtube.com/playlist?list=PLOviW1W1qYVs) | [Day 2 — Tuesday, June 9, 2026](https://www.youtube.com/playlist?list=PLcKj0M-gTwNg)
 2026-10-29-Pycon FR,attendees:500,recording:[MARI/SUGGAR room](https://indymotion.fr/w/j8zbUvHKhmKxfr2CjhKKQ8) | [BASANDERE room](https://indymotion.fr/w/8uhc4FzdihE81WLLG3iQPy) | [PATUEK room](https://indymotion.fr/w/tjuZXqYeXWU7p57UyE1pZ6) | [LANG5 room](https://indymotion.fr/w/rGHGhGpSg6H4dMV3fYLerv)
@@ -129,22 +129,22 @@ event_id,attendees
 2027-06-03-Cloud Native Days France 2027,attendees:2500
 2026-11-13-Devopsdays Barcelona,attendees:220
 2027-04-27-Great International Developer Summit (GIDS),attendees:5500
-2026-10-23-DevFest Troy, NY 2026,attendees:400
+2026-10-23-DevFest Troy, NY 2026,attendees:400,recording:https://www.youtube.com/playlist?list=PLbpTTAvSRwrk
 2026-07-02-Are You Measuring the Right Things? SLOs, Toil, and the Metrics That Matter,attendees:100
-2026-07-25-Pragma Lisbon 2026,attendees:500
+2026-07-25-Pragma Lisbon 2026,attendees:500,recording:https://www.youtube.com/playlist?list=PLMxB4xW8JYdk
 2026-07-22-bitcoin++ consensus edition,attendees:200,recording:[Day 1](https://www.youtube.com/watch?v=sdeQBqvEzWU) | [Day 2](https://www.youtube.com/watch?v=Iw0-pcbkn9M) | [Day 3](https://www.youtube.com/watch?v=yu-Oskxucpw)
 2026-10-01-bitcoin++ payments edition,attendees:300,recording:[Day 1](https://www.youtube.com/watch?v=D8KDVxGvZFc) | [Day 2](https://www.youtube.com/watch?v=rl2w1W7JXHk)
 2026-11-05-bitcoin++ privacy edition,attendees:300,recording:[Day 1](https://www.youtube.com/watch?v=3u-HGu3ytjo) | [Day 2](https://www.youtube.com/watch?v=PYllddbzwEQ)
 2027-01-14-SnowCamp 2027,attendees:700
 2026-12-10-DevCon 28 : sécurité | post-quantique | hacking édition 2027,attendees:100
-2026-11-16-VibeKode Berlin 2026,attendees:499
+2026-11-16-VibeKode Berlin 2026,attendees:499,recording:https://www.youtube.com/watch?v=R_p7WyxYFFA
 2026-10-05-VibeKode Utrecht 2026,attendees:500
 2026-09-03-Commit Your Code Conference,attendees:1000,recording:[Day 1 — Room 2A](https://www.youtube.com/watch?v=hZVO6bVXEEM) | [Day 1 — Room 2B](https://www.youtube.com/watch?v=KPCYYwl_JkA) | [Day 1 — Room 2C](https://www.youtube.com/watch?v=njuoddXJv0w) | [Day 1 — Room 2D](https://www.youtube.com/watch?v=P-e0DXCewIQ) | [Day 1 — Room 2E](https://www.youtube.com/watch?v=lLvSCKp6c_s) | [Day 2 — Room 2A](https://www.youtube.com/watch?v=nwg3gyO-IHs) | [Day 2 — Room 2B](https://www.youtube.com/watch?v=mKBjec9FoI0) | [Day 2 — Room 2C](https://www.youtube.com/watch?v=gVHQSW9KPhA) | [Day 2 — Room 2D](https://www.youtube.com/watch?v=pyeVzngYqB8) | [Day 2 — Room 2E](https://www.youtube.com/watch?v=e_1X0pNGBMw)
-2026-08-22-Containers Day Dominican Republic,attendees:600
+2026-08-22-Containers Day Dominican Republic,attendees:600,recording:https://www.youtube.com/playlist?list=PLSfWErCfUAhY
 2026-09-26-IndiaFOSS 2026,attendees:5000,recording:[Day 1 — Hall 1; General Track; morning](https://www.youtube.com/watch?v=2KjUZ5HFSeI) | [Day 1 — Hall 1; General Track; afternoon](https://www.youtube.com/watch?v=16jUf3fLtsw) | [Day 1 — Hall 2; General Track; morning](https://www.youtube.com/watch?v=G4s4RGAPvLY) | [Day 1 — Hall 2; General Track; afternoon](https://www.youtube.com/watch?v=8b-nRIjQEeY) | [Day 1 — Open Hardware Devroom](https://www.youtube.com/watch?v=GOL_18fGMUI) | [Day 1 — Compilers; Programming Languages and Systems Devroom](https://www.youtube.com/watch?v=rb1ZALRGFjw) | [Day 1 — Documentation & Technical Writing Devroom](https://www.youtube.com/watch?v=KNKAi9dfZxA) | [Day 1 — Android Open Source Project (AOSP) Devroom](https://www.youtube.com/watch?v=te8gj_1vIDY) | [Day 2 — Hall 1; General Track; morning](https://www.youtube.com/watch?v=bXMjp1JOzPQ) | [Day 2 — Hall 1; General Track; afternoon](https://www.youtube.com/watch?v=boNCSaCb138) | [Day 2 — Hall 2; General Track; morning](https://www.youtube.com/watch?v=WCgvezvln2E) | [Day 2 — Hall 2; General Track; afternoon](https://www.youtube.com/watch?v=7tRJMznIMUA) | [Day 2 — Security Devroom](https://www.youtube.com/watch?v=OJHBVJ4kzBw) | [Day 2 — Cloud & DevOps Devroom](https://www.youtube.com/watch?v=7ChxYYjlvpc) | [Day 2 — Open Design Devroom](https://www.youtube.com/watch?v=2nAeRMiQU_I) | [Day 2 — Real Time Operating Systems (RTOS) Devroom](https://www.youtube.com/watch?v=p_Bc-EZCr1Q)
-2026-10-02-Compiler tech IICT 2026,attendees:380
+2026-10-02-Compiler tech IICT 2026,attendees:380,recording:https://www.youtube.com/playlist?list=PLfRY4lrw8ZbQ
 2026-10-10-unKonf 2026,attendees:80
-2026-11-11-J-Fall 2026,attendees:1920
+2026-11-11-J-Fall 2026,attendees:1920,recording:https://www.youtube.com/playlist?list=PLVWxJNkxQUaY
 2026-09-28-ServerlessDays Milano 2026,attendees:200
 2026-08-22-Cloud Native Summit Kerala 2026,attendees:800,recording:https://www.youtube.com/playlist?list=PLYI63xG1gn8U
 2027-04-25-STAREAST 2027,attendees:1000
@@ -168,7 +168,7 @@ event_id,attendees
 2026-11-20-Odoo Hackathon #6,attendees:72
 2026-10-29-Hackfest,attendees:500
 2026-09-23-GoSec,attendees:500
-2026-09-19-Bsides Montreal,attendees:300
+2026-09-19-Bsides Montreal,attendees:300,recording:https://www.youtube.com/watch?v=HUnukyfzCkQ
 2027-07-14-WeAreDevelopers World Congress 2027 - Europe,attendees:15000
 2026-10-27-A Case for Community: Open Source Events with GatherPress,attendees:100
 2026-10-09-Forum ouvert automne 2026 - Software Crafters Lyon,attendees:50

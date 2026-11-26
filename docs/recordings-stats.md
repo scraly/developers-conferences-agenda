@@ -1,11 +1,11 @@
 # Recording statistics
 
-Last updated: 23 November 2026
+Last updated: 25 November 2026
 
 This page summarizes recording coverage in the current repository data.
 `METADATA.csv` is the source of record; `tools/mdParser.js` derives the event
 data used by the website. Regenerate this page with
-`python3 tools/generateRecordingsStats.py` after metadata changes.
+`node tools/generateRecordingsStats.js` after metadata changes.
 
 An event counts as recorded when it has at least one public recording link.
 Recording links include playlists, individual videos, archives, and organizer
@@ -16,13 +16,13 @@ inside a playlist.
 
 | Metric | Value |
 |---|---:|
-| Event entries | 6,877 |
-| Events with at least one recording | 1,055 (15.34%) |
-| Recording links | 1,268 |
+| Event entries | 6,881 |
+| Events with at least one recording | 1,075 (15.62%) |
+| Recording links | 1,288 |
 | Events with multiple recordings | 84 |
-| Playlist links | 1,031 (81.31%) |
-| Video or other links | 237 (18.69%) |
-| YouTube links | 1,222 (96.37%) |
+| Playlist links | 1,047 (81.29%) |
+| Video or other links | 241 (18.71%) |
+| YouTube links | 1,242 (96.43%) |
 
 ![Conference events and recordings across all event years](images/recordings-overall-events.png)
 
@@ -35,9 +35,9 @@ Events are grouped by the year of their start date.
 | 2017–2020 | 407 | 0 | 0.00% | 0 | 0 | 0 | 0 |
 | 2021–2024 | 2,242 | 29 | 1.29% | 39 | 2 | 39 | 0 |
 | 2025 | 1,349 | 505 | 37.44% | 549 | 16 | 491 | 58 |
-| 2026 | 2,511 | 521 | 20.75% | 680 | 66 | 501 | 179 |
-| 2027–2028 | 368 | 0 | 0.00% | 0 | 0 | 0 | 0 |
-| **Total** | **6,877** | **1,055** | **15.34%** | **1,268** | **84** | **1,031** | **237** |
+| 2026 | 2,511 | 541 | 21.55% | 700 | 66 | 517 | 183 |
+| 2027–2028 | 372 | 0 | 0.00% | 0 | 0 | 0 | 0 |
+| **Total** | **6,881** | **1,075** | **15.62%** | **1,288** | **84** | **1,047** | **241** |
 
 Future years are included in the event-entry totals but naturally have no
 recordings yet. Coverage therefore describes the current metadata snapshot, not

@@ -2,8 +2,8 @@
 
 Conference recordings are stored in `METADATA.csv` and flow through
 `tools/mdParser.js` into `page/src/misc/all-events.json`, which the website
-renders. For research methods, known discovery misses, and verification rules,
-see [recordings-discovery.md](recordings-discovery.md).
+renders. For research methods and verification rules, see
+[recordings-workflow.md](recordings-workflow.md).
 
 ## Format
 

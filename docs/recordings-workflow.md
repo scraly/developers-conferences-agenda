@@ -1,241 +1,199 @@
-# Recording workflow
+# Finding recordings workflow
 
-This guide covers finding, verifying, and removing recording links in
-`METADATA.csv`. For the short checklist see
-[recordings-discovery.md](recordings-discovery.md), and for the metadata format
-and rendering rules see [recordings-design.md](recordings-design.md).
+`tools/recordingScanner.js` compares the event listing with `METADATA.csv`,
+finds recordings for missing events, verifies upload dates, and writes reports.
 
-## Finding event recordings
+Event data comes from `README.md` and `archives/YYYY.md`, generated into
+`page/src/misc/all-events.json`. For metadata and UI details, see
+[recordings-design.md](recordings-design.md).
 
-### What to look for
 
-Use one of these:
+## Prerequisites
 
-1. A playlist for the specific edition (title contains event name and year).
-2. A specific video of a talk or the full stream from the edition.
-
-Do **not** add a bare channel link (`/@handle`, `/channel/...`, `/c/...`,
-`/user/...`). A recent upload there does not prove the event was recorded, and
-these links are removed even when the channel is active.
-
-### Sources
-
-Check these in order:
-
-1. The event website's "recordings", "videos", "media", or "watch" page.
-2. The official YouTube channel's playlist tab.
-3. YouTube search.
-4. The event's social posts or newsletter archive, which often link directly to
-   the playlist.
-
-### Commands
-
-These require `yt-dlp` (`brew install yt-dlp`).
-
-List a channel's playlists:
+Install once:
 
 ```bash
-yt-dlp --flat-playlist --print '%(title)s\t%(url)s' \
-  'https://www.youtube.com/@HANDLE/playlists'
+cd tools && npm ci && cd ..
+brew install yt-dlp   # or install yt-dlp with your package manager
 ```
 
-Search YouTube:
+## Option 1: Use an Agent (Easy!)
+
+Open your coding agent in this repository and ask:
+
+`find missing recordings for 2026 events`
+
+The agent starts with a small batch and reports the results. Ask it to continue,
+or explicitly approve a full scan.
+
+For a full scan of all 2026 events, ask:
+
+`scan all missing recordings for 2026 events`
+
+Full scans can take a long time and make thousands of network requests.
+
+## Option 2: Manual Workflow
+
+Scan a small batch:
 
 ```bash
-yt-dlp --flat-playlist --print '%(title)s\t%(channel)s\t%(id)s' \
-  'ytsearch20:Conference Name 2026'
+node tools/recordingScanner.js --since 2025 --limit 20
 ```
 
-List a channel's newest uploads:
+The scanner prints selection and cache counts, then updates one progress bar.
+
+Review `tmp/recording-scan.md`:
+
+| Status | Meaning |
+|---|---|
+| `FOUND` | Date-verified YouTube playlist or video |
+| `MANUAL` | Official recording page that needs a human check |
+| `REVIEW` | Candidate found, but date verification failed or was unavailable |
+| blank / `NONE` | Nothing plausible found |
+
+The table columns are date, event link, recordings, and status. Multiple
+recordings are shown as bullets, and status matches the JSON/TSV reports:
+`FOUND`, `MANUAL`, `REVIEW`, or `NONE`.
+
+Structured reports:
+
+- `tmp/recording-scan.json` — results and alternatives
+- `tmp/recording-scan.tsv` — spreadsheet-friendly results
+
+Reports are updated while the scan runs. If the scan is interrupted, the files
+retain the partial results completed so far.
+
+Apply verified recordings with the same filters:
 
 ```bash
-yt-dlp --flat-playlist --playlist-end 10 --print '%(id)s\t%(title)s' \
-  'https://www.youtube.com/@HANDLE/videos'
+node tools/recordingScanner.js --since 2025 --limit 20 --write
 ```
 
-List a playlist's items:
+Only `FOUND` YouTube playlists or videos are written. `MANUAL` and `REVIEW`
+entries are never written automatically. `--write` applies all `FOUND` results
+in the current batch, so narrow the filters to apply a subset.
+
+The cache makes the write pass fast. Do not add `--no-cache` or
+`--refresh-cache` between the scan and write runs.
+
+Refresh and validate:
 
 ```bash
-yt-dlp --flat-playlist --playlist-end 10 --print '%(id)s\t%(title)s' \
-  'https://www.youtube.com/playlist?list=PLAYLIST_ID'
+(cd tools && node mdParser.js)
+(cd tools && node mdValidator.js)
+(cd tools && node --test)
+node tools/generateRecordingsStats.js
+git diff -- METADATA.csv
+git diff --check
 ```
 
-These listings return IDs and titles, not dates. Playlists are usually
-newest-first, but scan the titles rather than trusting the order.
-
-### Judging a candidate
-
-Before writing it into `METADATA.csv`, confirm:
-
-- The link is a playlist or a specific video, not a channel.
-- The channel or playlist belongs to the event, not to a sponsor, a single
-  speaker, or a different conference with a similar name.
-- The playlist title or video titles match this edition (name **and** year).
-- The content is talks or a stream, not a promo, recap, or highlight reel.
-
-Then verify the date rule below. If no upload is newer than the event date, do
-not add the link.
-
-## Verifying dates
-
-A link is valid for an event on date `D` when at least one reachable video was
-published **after `D`**. The event date is the `YYYY-MM-DD` prefix of
-`event_id`. Use actual upload dates, not title text; one matching video is
-enough. Same-day uploads are valid only after confirming the video is the event
-recording.
-
-Future events cannot be verified: keep the link and re-check after the event.
+Metadata line count must remain unchanged:
 
 ```bash
-python3 tools/auditRecordingDates.py METADATA.csv --deep --workers 8
+wc -l METADATA.csv
 ```
 
-The report is `tmp/recording-date-report.tsv`; the cache is
-`tmp/recording-dates.json` (delete it to rescan).
+Inspect the regenerated statistics and infographic.
 
-- Remove `STALE` links. Retry `NO_DATA` once, then remove if still unusable.
-- Keep `OK`, `FUTURE`, and `SAME_DAY` after confirming the recording.
-- `NO_DATE` means the `event_id` is malformed; fix the id, not the link.
+## Filters
 
-Single link:
+- `--since YYYY` — from this year onward
+- `--year YYYY[,YYYY]` — selected years
+- `--event TEXT` — event name or location
+- `--limit N` — batch size
+- `--include-future` — include upcoming events
+- `--workers N` — parallel scans, default `2`
+
+```bash
+node tools/recordingScanner.js --year 2026 --limit 20
+node tools/recordingScanner.js --event "Devoxx" --limit 10
+```
+
+## Cache
+
+One cache: `tmp/recording-scanner-cache.json`.
+
+Normal runs reuse it. Output shows cache hits, total cached events, file size,
+and last update time in local time.
+
+- `--no-cache` — one-off run; do not read or write the cache.
+- `--refresh-cache` — clear and rebuild the cache for this scan.
+- The two options cannot be combined.
+
+## Candidate rules
+
+- Prefer a dedicated edition playlist. A talk or full stream is an acceptable
+  fallback.
+- Never add a bare channel link (`/@handle`, `/channel/...`, `/c/...`,
+  `/user/...`).
+- Verify the event name, year, owner, content, and public accessibility.
+- Require a video published after the event date, or a confirmed same-day
+  recording.
+- Treat recaps, trailers, sponsor videos, and schedules as non-recordings.
+- Do not invent URLs, playlist IDs, or event IDs.
+- Do not add metadata for an event absent from the event listing.
+- A missing result means “not found”, not “no recording exists”.
+
+For a `MANUAL` or `REVIEW` candidate, check the source manually and verify its
+upload date:
 
 ```bash
 yt-dlp --skip-download --print '%(upload_date)s\t%(title)s' \
   'https://www.youtube.com/watch?v=VIDEO_ID'
 ```
 
-`upload_date` is `YYYYMMDD` in UTC. For a channel, the latest 15 uploads with
-dates come from RSS (see below), which is much less likely to be blocked.
+The date is `YYYYMMDD` in UTC and must be after the event date, or the same day
+after confirming the content.
 
-## Reliable date sources when yt-dlp is blocked
+## Removing a stale recording
 
-YouTube often answers bursts of metadata requests with:
-
-```
-Sign in to confirm you're not a bot
-```
-
-This is not an empty channel. With `--ignore-errors`, it silently produces
-empty output, so a batch can look like hundreds of `NO_DATA` results. Signs of
-throttling:
-
-- most links suddenly return no dates;
-- the same request works later or with a different client;
-- `--cookies-from-browser` does not help unless that browser is signed in.
-
-Do not keep retrying with high concurrency. Prefer RSS, which requires no auth
-and is far less throttled.
-
-### Channel ID
-
-`/channel/UC...` URLs already contain it. For `@handle`, `/c/name`, and
-`/user/name`, read it from the channel page:
+Delete only the `recording:` field. Split at field boundaries, never at every
+comma, because event IDs and labels may contain commas:
 
 ```bash
-curl -sL -A 'Mozilla/5.0' 'https://www.youtube.com/@HANDLE' \
-  | grep -o 'itemprop="identifier" content="UC[^"]*"' | head -1
+node - <<'NODE'
+const fs = require('node:fs');
+const drop = new Set(['2026-06-17-Devoxx Poland']); // event_id prefixes
+const field = /,(?=(?:attendees|recording):)/;
+const lines = fs.readFileSync('METADATA.csv', 'utf8').split(/\r?\n/);
+const output = lines.map((line) => {
+  const parts = line.split(field);
+  if (!drop.has(parts[0])) return line;
+  return [
+    parts[0],
+    ...parts.slice(1).filter((part) => !part.startsWith('recording:')),
+  ].join(',');
+});
+fs.writeFileSync('METADATA.csv', output.join('\n'));
+NODE
 ```
 
-### Channel RSS (latest 15 uploads)
+Then run `git diff -- METADATA.csv` and `git diff --check`. Only intended lines
+should change.
 
-```bash
-curl -s "https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID" \
-  | grep -o '<published>[^<]*' | head -15
-```
+## Using an Agent
 
-### Playlist RSS
-
-```bash
-curl -s "https://www.youtube.com/feeds/videos.xml?playlist_id=PLAYLIST_ID" \
-  | grep -o '<published>[^<]*' | head -15
-```
-
-### Single video without yt-dlp
-
-A public reader proxy renders the watch page as text, including the publish
-date next to the view count:
-
-```bash
-curl -s "https://r.jina.ai/https://www.youtube.com/watch?v=VIDEO_ID" \
-  | grep -oE '(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) [0-9]{1,2}, 20[0-9]{2}' \
-  | head -1
-```
-
-The line looks like `144 views • Feb 15, 2026`. Use this only as a fallback;
-it is a third-party service and can rate-limit.
-
-`yt-dlp`'s oEmbed endpoint is another auth-free way to identify a video when
-metadata is blocked (title and channel, but no date):
-
-```bash
-curl -s 'https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=VIDEO_ID&format=json'
-```
-
-## Lessons learned
-
-- **RSS dates are close, not always exact.** For a channel, `<published>` is
-  the video publish date. For a playlist it is effectively when the item was
-  added, which can differ from the upload date by a few days.
-- **Feeds are not sorted, and may contain pinned old videos.** Take the
-  maximum date across all entries, never the first.
-- **Merge all evidence.** A 2–3 item sample can miss a newer upload that a
-  15-item RSS feed contains. Take the maximum across flat samples, channel
-  RSS, playlist RSS, and reader-proxy results.
-- **A high `NO_DATA` count means throttling, not empty channels.** Re-check
-  those links through RSS before concluding anything.
-- **`--flat-playlist` never returns dates.** It is still useful when metadata
-  is blocked: IDs and titles keep working.
-- **A recent upload is not proof.** A save-the-date, CFP, trailer, recap, or
-  sponsor video can be newer than the event. Check that the title matches the
-  edition and looks like a talk or full stream.
-- **A stale link is often a previous edition.** Titles frequently name the
-  prior year; do not assume the year in the URL is the edition.
-- **Same-day uploads are normal** for live events and conference series that
-  publish on the day (for example Conf42). Keep them once the content matches.
-- **Recently held events may simply not be uploaded yet.** A `STALE` verdict
-  for an event from the last few weeks can be premature. Re-check before
-  removing, or flag it for a later pass.
-- **Bare channel links are not kept.** The channel's newest upload may be
-  unrelated to this event; only edition playlists and specific videos are
-  accepted.
-- **One URL can serve several events.** Audit each unique URL once; every row
-  using it gets the same verdict.
-- **Do not trust a bulk run with `--ignore-errors`.** Capture stderr, compare
-  the empty-result rate, and fall back to RSS when it spikes.
-- **`--cookies-from-browser` is only useful if that browser is signed in.**
-  Safari cookies may also be unreadable because of macOS sandboxing.
-
-## Removing a stale link
-
-Delete only the `recording:` field and its leading comma; keep `attendees:` and
-other fields. Split at field boundaries, never at every comma, because event ids
-and labels may contain commas. Edit line by line, never with a global `sed`:
-
-```bash
-python3 - <<'EOF'
-import re
-drop = {"2026-06-17-Devoxx Poland"}  # event_id prefixes
-field = re.compile(r",(?=(?:attendees|recording):)")
-lines = []
-for line in open("METADATA.csv"):
-    line = line.rstrip("\n")
-    parts = field.split(line)
-    if parts[0] in drop:
-        parts = [parts[0]] + [
-            p for p in parts[1:] if not p.startswith("recording:")
-        ]
-    lines.append(",".join(parts))
-open("METADATA.csv", "w").write("\n".join(lines) + "\n")
-EOF
-```
-
-Then check `git diff -- METADATA.csv`: only intended lines should change and
-the line count must stay the same.
-
-## Notes
-
-- Playlists are not guaranteed newest-first. `--deep` covers this; if a link
-  still looks stale, check more items.
-- Non-YouTube links need a manual date check.
-- If `yt-dlp` keeps failing, run the audit later with fewer workers rather than
-  deleting links based on empty results.
+- “Find missing recordings for YYYY events” means scan and report only:
+  `node tools/recordingScanner.js --year YYYY --limit 20`.
+- Use `--year` for a calendar year and `--since` only for “from YYYY onward”.
+- Start with `--limit 20`. Do not run an unrestricted scan unless approved.
+- “Scan all missing recordings for YYYY events” is explicit approval for an
+  unrestricted scan. Omit `--limit`, warn that it may take a long time, and use
+  the cache so interrupted scans can resume.
+- “Add”, “apply”, or “write” means rerun the same filters with `--write`.
+  “Find” alone does not authorize writing.
+- Read `tmp/recording-scan.json`; use the Markdown report for human summaries.
+- Report selection counts, cache hits, status counts, and report paths.
+- Write only `FOUND` results. Never present or write `MANUAL` or `REVIEW` as
+  confirmed recordings.
+- `--write` applies all `FOUND` results in the batch. Narrow filters to apply a
+  subset.
+- Never add bare channels, guessed URLs, or guessed IDs.
+- After writing, run the validation commands and report how many recordings were
+  added.
+- Use the default cache. Use `--no-cache` for a one-off run and
+  `--refresh-cache` when fresh results are needed.
+- If `yt-dlp` or the network is unavailable, stop and report the failure. Do not
+  infer that recordings do not exist.
+- Do not run network-heavy scans in CI. Keep reports under `tmp/`; do not commit
+  them.

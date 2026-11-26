@@ -26,6 +26,9 @@ jobs:
           node mdValidator.js
           node mdParser.js
           node checkCountries.js
+      - name: Run tool tests
+        working-directory: tools
+        run: npm test
       - name: Run Tests
         working-directory: page
         run: npm test -- --run

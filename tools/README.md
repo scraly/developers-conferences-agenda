@@ -99,30 +99,102 @@ event_id,duration1,duration2,duration3,duration4
 2026-06-11-DevLille 2026,talk:5,talk:30,talk:45,workshop:160
 ```
 
-## auditRecordingDates.py
+## recordingScanner.js
 
 ### Mission
 
-Checks every recording link (`recording:` field) in `METADATA.csv` against its
-event date. A link is valid when a video on the
-linked channel or playlist was published after the event. Uses YouTube RSS as a
-fallback when yt-dlp is blocked.
+Finds recordings for events that do not have a `recording:` entry in
+`METADATA.csv`. The event listing is `README.md` plus `archives/YYYY.md`;
+`tools/mdParser.js` merges those files into
+`page/src/misc/all-events.json`, which the scanner reads automatically.
 
-See [recordings-workflow.md](../docs/recordings-workflow.md) for the full
-workflow.
+For each missing event, the scanner checks the event website and YouTube,
+including result-channel playlists, verifies candidate upload dates, and reports
+the best match. Shared recording helpers live in `recordingHelpers.js`; the
+scanner is the recording command you run.
 
-### Usage
+### Quick workflow
 
-Run from the repository root:
+Install once:
 
 ```sh
-python3 tools/auditRecordingDates.py METADATA.csv --deep --workers 8
+cd tools && npm ci && cd ..
 ```
 
-Writes `tmp/recording-date-report.tsv` and caches results in
-`tmp/recording-dates.json`.
+Scan a batch:
 
-## generateRecordingsStats.py
+```sh
+node tools/recordingScanner.js --since 2025 --limit 20
+```
+
+The scanner prints the selection before scanning:
+
+```text
+Events matching filters: 2883
+Events with recordings: 521
+Future events skipped: 622
+Events to check: 2883 - 521 - 622 = 1740
+Scanning: 20 of 1740 (limited)
+Already checked: 10
+Events in cache: 350
+Cache size: 1.4 MB
+Cache last updated: 11/25/2026, 12:00:17 PM PST
+Cache will update as events are checked.
+```
+
+Review:
+
+- `tmp/recording-scan.md` — human-readable table: date, event link, recordings, status
+- `tmp/recording-scan.tsv` — spreadsheet-friendly table
+- `tmp/recording-scan.json` — candidates and verification details
+
+Reports are rewritten while the scan runs, so an interrupted scan keeps the
+partial results completed so far.
+
+Apply verified recordings using the same filters:
+
+```sh
+node tools/recordingScanner.js --since 2025 --limit 20 --write
+```
+
+`--write` adds only `FOUND` YouTube playlists or videos whose latest upload is
+after the event date. `MANUAL` and `REVIEW` rows are never written
+automatically. Keep the same filters: the cache reuses the scan results, so the
+write pass does not repeat the network scan.
+
+Refresh derived data after writing:
+
+```sh
+(cd tools && node mdParser.js) && node tools/generateRecordingsStats.js
+```
+
+### Filters
+
+- `--since YYYY` — events from this year onward
+- `--year YYYY[,YYYY]` — selected event years
+- `--event TEXT` — event name or location filter
+- `--limit N` — cap the batch size
+- `--include-future` — include events that have not happened yet
+- `--workers N` — parallel event scans, default `2`
+- `--refresh` — force regeneration of `all-events.json`
+
+### Cache
+
+The scanner uses one cache: `tmp/recording-scanner-cache.json`.
+
+- `Already checked`: cache hits in the current scan set.
+- `Events in cache`: total event results currently stored.
+- `Cache size`: current cache file size.
+- `Cache last updated`: last successful cache write, shown in local time.
+- Default: reuse previous results and update the cache as new events are scanned.
+- `--no-cache`: do not read or write the cache. Use for a one-off run.
+- `--refresh-cache`: clear the cache and rebuild it for this scan. Use after
+  enough time has passed that new recordings may exist.
+
+Use `--refresh-cache` with the same filters you plan to scan; it replaces the
+cache for this run.
+
+## generateRecordingsStats.js
 
 ### Mission
 
@@ -135,7 +207,8 @@ coverage numbers are derived rather than hand-maintained.
 Run from the repository root after `node mdParser.js`:
 
 ```sh
-python3 tools/generateRecordingsStats.py
+cd tools && npm ci && cd ..
+node tools/generateRecordingsStats.js
 ```
 
 Options:
@@ -143,4 +216,15 @@ Options:
 - `--date YYYY-MM-DD` — snapshot date shown on the page (default: today)
 - `--no-image` — skip the PNG infographic
 
-Requires Pillow for the infographic: `pip install pillow`.
+The infographic is rendered with `sharp` from the `tools` npm dependencies.
+
+## Tests
+
+Run all tool tests from `tools/`:
+
+```sh
+npm test
+```
+
+The country tests expect `page/src/misc/all-events.json`, so run
+`node mdParser.js` first after changing metadata.
