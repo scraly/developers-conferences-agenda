@@ -104,6 +104,17 @@
    controls above it sit in a 36px-high row. Centre the details and the
    duration chips in the card and give the controls a thumb-sized target. */
 @media screen and (max-width: 660px) {
+  /* The shared list rules only stack the entry below 768px; between 661 and
+     768px the card is still a row, so stack it here too before centring. */
+  .cfp-companion-view .event-list-entry {
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .cfp-companion-view .event-details {
+    width: 100%;
+  }
+
   .cfp-companion-view .cfp-entry-actions {
     justify-content: center;
     position: relative;
