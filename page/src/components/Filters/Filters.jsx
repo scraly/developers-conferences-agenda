@@ -28,6 +28,8 @@ const Filters = ({ view }) => {
   const [open, setOpen] = useState(context.open);
   const queryUpdateTimeoutRef = useRef(null);
   const pendingQueryUpdatesRef = useRef(new Map());
+  const filtersRef = useRef(null);
+  const filtersToggleRef = useRef(null);
   const setSearchParamsRef = useRef(setSearchParams);
   const navigationTypeRef = useRef(navigationType);
   setSearchParamsRef.current = setSearchParams;
@@ -66,6 +68,45 @@ const Filters = ({ view }) => {
   }, [urlQuery, clearQueryUpdateTimeout]);
 
   useEffect(() => clearQueryUpdateTimeout, [clearQueryUpdateTimeout]);
+
+  // Close the panel when clicking outside it or pressing Escape.
+  // Only the panel visibility changes: filter values live in the URL and the
+  // query text stays in local state, so everything entered is kept.
+  useEffect(() => {
+    if (!open) return undefined;
+
+    const isInsidePanel = (target) => {
+      if (!(target instanceof Node)) return false;
+      if (filtersRef.current && filtersRef.current.contains(target)) return true;
+      // react-select renders its dropdown menu in a portal on document.body.
+      return Boolean(target instanceof Element && target.closest('.filter-ms__menu-portal'));
+    };
+
+    const handlePointerDown = (event) => {
+      if (!isInsidePanel(event.target)) setOpen(false);
+    };
+
+    const handleKeyDown = (event) => {
+      if (event.key !== 'Escape') return;
+      // Let an open dropdown menu consume Escape before closing the panel.
+      if (document.querySelector('.filter-ms__menu')) return;
+      // Move focus out of the controls that are about to slide off-screen,
+      // otherwise typing keeps editing an invisible filter field.
+      if (filtersRef.current?.contains(document.activeElement)) {
+        filtersToggleRef.current?.focus({ preventScroll: true });
+      }
+      setOpen(false);
+    };
+
+    document.addEventListener('pointerdown', handlePointerDown);
+    // Capture phase: react-select removes its menu from the DOM in the same
+    // keydown, so check for an open dropdown before React handles the event.
+    document.addEventListener('keydown', handleKeyDown, true);
+    return () => {
+      document.removeEventListener('pointerdown', handlePointerDown);
+      document.removeEventListener('keydown', handleKeyDown, true);
+    };
+  }, [open]);
 
   // Update the visible text immediately and debounce expensive route renders.
   const handleQueryChange = useCallback((value) => {
@@ -208,17 +249,28 @@ const Filters = ({ view }) => {
     return regionNames.map(r => ({ value: r, label: r }))
   }, [regionNames])
 
+  const toggleOpen = useCallback(() => {
+    setOpen(current => !current);
+  }, []);
+
+  const handleToggleKeyDown = useCallback((event) => {
+    if (event.key !== 'Enter' && event.key !== ' ') return;
+    event.preventDefault();
+    setOpen(current => !current);
+  }, []);
+
   return (
-    <div className={"filters " + (open ? 'open' : 'closed')}>
+    <div className={"filters " + (open ? 'open' : 'closed')} ref={filtersRef}>
       <div
+        aria-controls='filters-panel'
+        aria-expanded={open}
+        aria-label={filtersTitle}
         className='filters-header'
-        onClick={() => {
-          if (open) {
-            setOpen(false);
-            return;
-          }
-          setOpen(true);
-        }}
+        onClick={toggleOpen}
+        onKeyDown={handleToggleKeyDown}
+        ref={filtersToggleRef}
+        role='button'
+        tabIndex={0}
         title={filtersTitle}
       >
         <div className='filters-icon'>
@@ -237,7 +289,7 @@ const Filters = ({ view }) => {
         <FavoritesToggle />
       </div>
 
-      <div className='filters-content'>
+      <div className='filters-content' id='filters-panel'>
         <div className='filtersItem'>
           <label htmlFor='filter-query'>{t('filters.query')}</label>
           <input id='filter-query' onChange={(e) => handleQueryChange(e.target.value)} placeholder={t('filters.searchPlaceholder')} type='text' value={queryValue} />
