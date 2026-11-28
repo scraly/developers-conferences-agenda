@@ -4229,3 +4229,7 @@ event_id,tag1,tag2,tag3,tag4,tag5,tag6
 2027-12-09-Open Compliance Summit 2027,language:english,topic:compliance,topic:open-source
 2026-12-12-GDG Maseru DevFest,language:english,tech:android,tech:web,topic:developers,topic:open-source
 2027-09-20-Embedded Open Source Summit Europe,language:english,tech:embedded,topic:open-source,topic:linux
+2026-12-12-DevFest Denizli'26,language:turkish,tech:android,topic:developer,topic:google
+2027-03-25-Agile Niort,language:french,topic:agile,topic:software-development
+2027-04-13-NLUUG spring event 2026,language:dutch,tech:linux,tech:unix,topic:open-source
+2027-05-17-Embedded Open Source Summit North America,language:english,tech:embedded,topic:open-source,topic:linux
